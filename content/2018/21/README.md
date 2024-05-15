@@ -121,16 +121,16 @@
 
 ### Web / Runtime Application Self-Protection
 
-*   [OpenRASP (⭐2.6k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
+*   [OpenRASP (⭐2.7k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐779)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [picogl.js (⭐784)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 *   [Alfrid (⭐232)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-*   [twigl (⭐2.5k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+*   [twigl (⭐2.6k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.2k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Machine learning • Computer Vision • Ai / Other
@@ -320,7 +320,7 @@
 
 ### Game
 
-*   [BEPUphysics (⭐2k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐2.2k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
 ## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -335,7 +335,7 @@
 
 ### Date
 
-*   [NVDate (⭐176)](https://github.com/novalagung/nvdate) - Date extension library.
+*   [NVDate (⭐174)](https://github.com/novalagung/nvdate) - Date extension library.
 
 ### UI / Barcode
 
@@ -366,11 +366,11 @@
 ### Projects Using Vue.js / A11y
 
 *   [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-*   [vue-skip-to (⭐74)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
-*   [vue-axe (⭐189)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
-*   [eslint-plugin-vue-a11y (⭐159)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
+*   [vue-skip-to (⭐75)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
+*   [vue-axe (⭐187)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
+*   [eslint-plugin-vue-a11y (⭐160)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
 *   [vue-focus-lock (⭐136)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-*   [vue-a11y-calendar (⭐254)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
+*   [vue-a11y-calendar (⭐253)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 
 ## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

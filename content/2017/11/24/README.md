@@ -16,7 +16,7 @@
 
 ### Table of Contents / URL
 
-*   [sabre/uri (⭐286)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+*   [sabre/uri (⭐288)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -22,13 +22,13 @@
 
 ### Utility / Diagnostics
 
-*   [malbertzard/inline-fold.nvim (⭐73)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [malbertzard/inline-fold.nvim (⭐77)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tfmake (⭐13)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
+*   [tfmake (⭐15)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [shbin (⭐28)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [shbin (⭐44)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

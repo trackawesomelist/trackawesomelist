@@ -10,7 +10,7 @@
 
 ### C bindings
 
-*   [x\_do.cr (⭐19)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
+*   [x\_do.cr (⭐18)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐11k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐12k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 

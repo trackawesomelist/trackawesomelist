@@ -166,9 +166,9 @@
 ### Captchas and anti-spam
 
 *   [Invisible Captcha (⭐1.1k)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
-*   [Rakismet (⭐353)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
+*   [Rakismet (⭐354)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐1.9k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐175)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐176)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
@@ -182,7 +182,7 @@
 ### Diff
 
 *   [Diffy (⭐1.2k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-*   [gemdiff (⭐123)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+*   [gemdiff (⭐122)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 *   [JsonCompare (⭐60)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ### File Upload
@@ -195,11 +195,11 @@
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐715)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐722)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
-*   [Clipboard (⭐346)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+*   [Clipboard (⭐347)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 *   [Looksee (⭐364)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 
 ### Machine Learning
@@ -208,7 +208,7 @@
 
 ### Queues and Messaging
 
-*   [Karafka (⭐1.9k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+*   [Karafka (⭐2k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
 
 ### Web Frameworks
 
@@ -348,7 +348,7 @@ Notes:
 
 ### Misc
 
-*   [SystemWrapper (⭐170)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐171)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
 ## [29. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -399,7 +399,7 @@ Notes:
 
 ### Other Useful Repositories
 
-- Repository: [Adversarial Machine Learning (⭐1.7k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- Repository: [Adversarial Machine Learning (⭐1.8k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
   Description: Curated list of awesome adversarial machine learning resources
 
@@ -409,7 +409,7 @@ Notes:
   Description: Curated list of AI security resources
 
 
-- Repository: [Web Security (⭐10k)](https://github.com/qazbnm456/awesome-web-security)
+- Repository: [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security)
 
   Description: Curated list of Web Security materials and resources
 
@@ -419,7 +419,7 @@ Notes:
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OSX Security Awesome (⭐686)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
+*   [OSX Security Awesome (⭐708)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Web / Development
 
@@ -700,10 +700,10 @@ Notes:
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐23k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐70)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [Wiki.js (⭐24k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [vue-speech-streaming (⭐71)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 *   [My Animation List (⭐78)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
-*   [vue-input-streaming (⭐25)](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
+*   [vue-input-streaming (⭐24)](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 
 ---
 

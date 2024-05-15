@@ -10,7 +10,7 @@
 
 ### Actors
 
-*   [pooler (⭐307)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐310)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -22,11 +22,11 @@
 
 ### Date and Time
 
-*   [tzdata (⭐284)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐287)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐100)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐101)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
@@ -34,12 +34,12 @@
 
 ### Eventhandling
 
-*   [goldrush (⭐91)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
+*   [goldrush (⭐93)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 
 ### Framework Components
 
-*   [corsica (⭐509)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐427)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐518)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐438)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐163)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -48,12 +48,12 @@
 
 ### Logging
 
-*   [lager (⭐40)](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
-*   [lager\_logger (⭐27)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+*   [lager (⭐41)](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
+*   [lager\_logger (⭐28)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
 
 ### ORM and Datamapping
 
-*   [eredis (⭐623)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐626)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐12)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 
 ### Queue

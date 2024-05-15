@@ -50,7 +50,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Traffic Analysis/Inspection
 
-*   [PcapPlusPlus (⭐2.3k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+*   [PcapPlusPlus (⭐2.6k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
 ## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -65,7 +65,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Sandcastle (⭐2.1k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
+*   [Sandcastle (⭐2.2k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
 
 ## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -77,29 +77,29 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Malware Collection / Honeypots
 
-*   [Glastopf (⭐476)](https://github.com/mushorg/glastopf) - Web application honeypot.
+*   [Glastopf (⭐534)](https://github.com/mushorg/glastopf) - Web application honeypot.
 
 ### Open Source Threat Intelligence / Tools
 
-*   [AbuseHelper (⭐107)](https://github.com/abusesa/abusehelper) - An open-source
+*   [AbuseHelper (⭐113)](https://github.com/abusesa/abusehelper) - An open-source
     framework for receiving and redistributing abuse feeds and threat intel.
 *   [AlienVault Open Threat Exchange](https://otx.alienvault.com/) - Share and
     collaborate in developing Threat Intelligence.
 
 ### Detection and Classification / Other Resources
 
-*   [Detect It Easy(DiE) (⭐4.1k)](https://github.com/horsicq/Detect-It-Easy) - A program for
+*   [Detect It Easy(DiE) (⭐6.6k)](https://github.com/horsicq/Detect-It-Easy) - A program for
     determining types of files.
 
 ### Domain Analysis / Other Resources
 
-*   [MaltegoVT (⭐73)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
+*   [MaltegoVT (⭐76)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
     for the VirusTotal API. Allows domain/IP research, and searching for file
     hashes and scan reports.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Fibratus (⭐1.7k)](https://github.com/rabbitstack/fibratus) - Tool for exploration
+*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Tool for exploration
     and tracing of the Windows kernel.
 *   [PPEE (puppy)](https://www.mzrst.com/) - A Professional PE file Explorer for
     reversers, malware researchers and those who want to statically inspect PE
@@ -553,11 +553,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐115)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐115)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 
-*   [ErupteD (⭐46)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
+*   [ErupteD (⭐51)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 
 ## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -625,7 +625,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Hanna (⭐35)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐36)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -637,7 +637,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Boilerplates / Other
 
-*   [bozon (⭐757)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐758)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [41. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

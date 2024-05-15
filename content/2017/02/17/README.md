@@ -41,7 +41,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

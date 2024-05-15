@@ -53,7 +53,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Envoy (⭐23k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
+*   [Envoy (⭐24k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -91,7 +91,7 @@
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 *   [spi-device (⭐116)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐934)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [pigpio (⭐935)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

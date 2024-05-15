@@ -34,22 +34,18 @@
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Table of Contents / Micro Frameworks
-
-*   [Radar (⭐53)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
-
 ### Table of Contents / Routers
 
 *   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐346)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐347)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐548)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Spot2 (⭐602)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+*   [Aura.Sql (⭐549)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
@@ -57,7 +53,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐131)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐132)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 

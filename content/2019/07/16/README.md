@@ -16,11 +16,11 @@
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐547)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-*   [Ultimate Plumber (⭐8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
+*   [has (⭐615)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [Ultimate Plumber (⭐8.1k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐144)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐60)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [undollar (⭐155)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐63)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

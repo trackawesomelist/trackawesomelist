@@ -10,17 +10,17 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Embedbase (⭐467)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+*   [Embedbase (⭐482)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Cognito Scanner (⭐27)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+*   [Cognito Scanner (⭐51)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
 
 ### Network / Monitoring / Logging
 
-*   [Substation (⭐239)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐280)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -34,7 +34,7 @@
 
 ### ORM
 
-*   [go-dbw (⭐12)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+*   [go-dbw (⭐13)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
 
 ## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -60,11 +60,11 @@
 
 ### Racing
 
-*   [wipEout Rewrite (⭐2.4k)](https://github.com/phoboslab/wipeout-rewrite):flower\_playing\_cards: - This is a re-implementation of the 1995 PSX game wipEout.
+*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite):flower\_playing\_cards: - This is a re-implementation of the 1995 PSX game wipEout.
 
 ### Strategy
 
-*   [KeeperFX (⭐624)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [KeeperFX (⭐679)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)

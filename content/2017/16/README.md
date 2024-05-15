@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17 - Apr 23, 2017
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [crystal-dash-docset (⭐16)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+*   [crystal-dash-docset (⭐17)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Open-source sites / Lists
 
-*   [Secure the News (⭐97)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+*   [Secure the News (⭐99)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
@@ -69,7 +69,7 @@
   Description: List of CVE Proof of Concepts (PoCs)
 
 
-- Repository: [Payloads (⭐3.4k)](https://github.com/foospidy/payloads)
+- Repository: [Payloads (⭐3.5k)](https://github.com/foospidy/payloads)
 
   Description: Collection of web attack payloads
 
@@ -119,8 +119,8 @@
 
 ### Contents / Example Apps
 
-*   [Preact HN (⭐299)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
-*   [TodoMVC (⭐102)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
+*   [Preact HN (⭐297)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+*   [TodoMVC (⭐104)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 
 ## [10. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -307,22 +307,22 @@
 
 ### Tutorials
 
-*   [Single Image Random Dot Stereograms (⭐5)](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
+*   [Single Image Random Dot Stereograms (⭐6)](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 
 ## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [optimus (⭐6)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
+*   [optimus (⭐9)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐97)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [flippant (⭐100)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
 *   [molasses (⭐76)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
 
-*   [geonames (⭐21)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
+*   [geonames (⭐23)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
 
 ### HTTP
 
@@ -334,7 +334,7 @@
 
 ### Queue
 
-*   [task\_bunny (⭐201)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
+*   [task\_bunny (⭐202)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 
 ### Release Management
 
@@ -367,17 +367,17 @@
 ### Components & Libraries / UI Components
 
 *   [vudal (⭐38)](https://github.com/Egorvah/vudal) - Modal window for vue.js
-*   [vodal (⭐379)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐381)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollview (⭐117)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
+*   [vue-scrollview (⭐116)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 
 ## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Probability Theory
 
-*   [Probability and Statistics Cookbook (⭐2.1k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
+*   📝 [Probability and Statistics Cookbook (⭐2.2k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 
 ## [31. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -452,15 +452,9 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐3.1k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.2k)](https://github.com/npgsql/npgsql)
 
-## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
-
-## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -492,20 +486,20 @@
 
 *   [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
 *   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Localization
 
 *   [Linguist (⭐189)](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
 
-## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 

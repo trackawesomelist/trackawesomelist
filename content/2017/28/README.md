@@ -33,14 +33,14 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐291k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐298k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐8.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [git-secret (⭐3.4k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.6k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐461)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐462)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -268,7 +268,7 @@
 
 ### Samples
 
-*   [GL\_vs\_VK (⭐80)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
+*   [GL\_vs\_VK (⭐81)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
 ## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [evilgrade (⭐1.2k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+*   [evilgrade (⭐1.3k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
@@ -314,7 +314,7 @@
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐81)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐80)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ### Official Documentation Translations
 
@@ -401,7 +401,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+*   [Preact Render Spy (⭐177)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -411,7 +411,7 @@
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐364)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐367)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Button / Barcode
 
@@ -435,7 +435,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐762)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐770)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ## [36. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
@@ -451,7 +451,7 @@
 
 ### Community Resources
 
-*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐106)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
+*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐107)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
 ## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 

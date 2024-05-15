@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2015
 
-20 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,7 +38,7 @@
 
 ### JavaScript / Misc
 
-*   [regression-js (⭐927)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐930)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -104,13 +104,7 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Visualization
 
@@ -122,15 +116,15 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Email
 
-*   [Sup (⭐871)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐876)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### Error Handling
 
-*   [Exception Handler (⭐505)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐506)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐886)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐887)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### Performance Monitoring
 
@@ -152,7 +146,7 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -163,19 +157,19 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [cobertura\_cover (⭐12)](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 
-## [14. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [13. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
 
-## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Interpreter / Web
 
 *   [IronAHK (⭐389)](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -191,13 +185,13 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Math
 
-*   [QuantLib (⭐4.7k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.8k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐874)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐872)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
-## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -229,7 +223,7 @@ RewriteRule ^ %1 [R=301,L]
 
 
 
-## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / CS Theory
 
@@ -239,19 +233,15 @@ RewriteRule ^ %1 [R=301,L]
     *   [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
     *   [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
-## [19. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
-*   [PSON (⭐457)](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
+*   [PSON (⭐459)](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
 ### Command-line tools
 
 *   [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
-
-### Datasets
-
-*   [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 
 ### Data generation
 
@@ -260,7 +250,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Libraries
 
-*   [moshi (⭐9.4k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+*   [moshi (⭐9.5k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 ### Online tools
 
@@ -277,14 +267,13 @@ RewriteRule ^ %1 [R=301,L]
 ### Transformations
 
 *   [Pinch (⭐27)](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
-*   [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 *   [jsontl (⭐7)](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 
 ### JSON Schema Tools
 
 *   [Docson (⭐491)](https://github.com/lbovet/docson) - Documentation for your types.
 
-## [20. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [19. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Collaborate / Working with a team? These links are for you.
 

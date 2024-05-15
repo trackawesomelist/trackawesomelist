@@ -10,7 +10,7 @@
 
 ### Interviewing
 
-*   [andreis/interview (⭐16k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+*   [andreis/interview (⭐18k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

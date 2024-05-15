@@ -16,16 +16,16 @@
 
 ### Development / Boilerplate
 
-*   [yo (⭐3.7k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
-*   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [scaffold-static (⭐123)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [yo (⭐3.8k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
+*   [boilr (⭐1.7k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+*   [cookiecutter (⭐22k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [scaffold-static (⭐126)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.8k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
+*   [easy-rsa (⭐3.9k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 
 ### Repositories / Web
 
@@ -122,7 +122,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐561)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐571)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

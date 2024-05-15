@@ -29,13 +29,9 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Deborah Kurata](https://twitter.com/deborahkurata)
-
-### Video Tutorials / Components
-
-*   [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

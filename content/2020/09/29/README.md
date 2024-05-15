@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2020
 
-18 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,21 +37,15 @@
 
 ### Contents / Components
 
-*   [Pant (⭐25)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐22k)](https://github.com/youzan/vant).
+*   [Pant (⭐24)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐23k)](https://github.com/youzan/vant).
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Video Tutorials / Components
-
-*   [Angular Pro Screencast](https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb)
-
-## [4. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [3. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Principles
 
 *   [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
 
-## [5. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
+## [4. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 
 ### Apps / Readers
 
@@ -69,7 +63,7 @@
 
 *   [zxing (⭐30k)](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
-## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Invoice / Electronic invoices
 
@@ -83,7 +77,7 @@
 
 *   [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
 
-## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering / Systems Complexity
 
@@ -101,7 +95,7 @@
 
 *   “*People do get pissed off in clusters* is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -115,26 +109,26 @@
 
 *   [AWS Security](https://www.manning.com/books/aws-security?utm_source=github\&utm_medium=organic\&utm_campaign=book_shields_aws_1_31_20) - This early-access book covers commong AWS security issues and best practices for access policies, data protection, auditing, continuous monitoring, and incident response.
 
-## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [8. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Add-ons / Third Party Add-ons
 
 *   [AppDaemon (⭐84)](https://github.com/hassio-addons/addon-appdaemon) - Python Apps and HADashboard.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
 *   [mox (⭐1.3k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Newsletters
 
 *   [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 *   [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Videos / Automation
 
@@ -144,19 +138,19 @@
 
 *   [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐994)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐1.1k)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [zenhub.com](https://www.zenhub.com) — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofit organizations
 
-## [15. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [14. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Program generation and analysis
 
@@ -166,7 +160,7 @@
 
 *   [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -178,15 +172,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-scroll-picker (⭐26)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐29)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Open Source / Community
-
-*   [TroisJS (⭐4k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
-
-## [18. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [16. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Past announcements:
 

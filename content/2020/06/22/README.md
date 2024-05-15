@@ -49,7 +49,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐681)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐696)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

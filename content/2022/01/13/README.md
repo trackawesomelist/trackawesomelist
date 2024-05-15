@@ -16,7 +16,7 @@
 
 ### Community
 
-*   [OpenTripPlanner (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner) Community
+*   [OpenTripPlanner (⭐2.1k)](https://github.com/opentripplanner/OpenTripPlanner) Community
     *   [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
     *   [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 *   OneBusAway
@@ -98,23 +98,23 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐63)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
+*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐69)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Editors
 
-*   [Neovim (⭐13k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
+*   [Neovim (⭐14k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [dzr (⭐148)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐163)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐463)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐578)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Articles / Third-party articles
 
-*   [Python-typing-koans (⭐119)](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
+*   [Python-typing-koans (⭐118)](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
 *   [Adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) - Tests are not enough: Case study adding type hints to urllib3.
 *   [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 *   [ParamSpec Guide](https://sobolevn.me/2021/12/paramspec-guide) - Newly released feature in `PEP612` allows you do a lot of advanced typing things with functions and their signatures.
@@ -147,7 +147,7 @@
 
 ### Misc
 
-*   [Surmagic (⭐305)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+*   [Surmagic (⭐309)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
 ## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

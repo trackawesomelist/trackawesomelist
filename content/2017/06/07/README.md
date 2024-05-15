@@ -43,7 +43,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-behavior (⭐143)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐175)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

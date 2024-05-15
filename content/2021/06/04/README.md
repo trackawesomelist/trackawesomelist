@@ -44,13 +44,13 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐153)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐167)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Analysis / Complex Analysis
 
-*   [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
+*   📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -106,11 +106,11 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Databases / ORMs
 
-*   [FastAPIwee (⭐16)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐10k)](https://github.com/coleifer/peewee) models.
+*   [FastAPIwee (⭐17)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐11k)](https://github.com/coleifer/peewee) models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐131)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Chameleon (⭐137)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
 *   [FastAPI Jinja (⭐64)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ### Tutorials / Other Tools
@@ -188,7 +188,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐66)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐69)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ---
 

@@ -16,25 +16,25 @@
 
 ### To third parties
 
-*   [pzmq (⭐37)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+*   [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐73)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐75)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
-*   [scicloj.ml (⭐190)](https://github.com/scicloj/scicloj.ml)
+*   [scicloj.ml (⭐197)](https://github.com/scicloj/scicloj.ml)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Image
 
-*   [ImageScript (⭐570)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐584)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

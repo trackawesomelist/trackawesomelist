@@ -83,7 +83,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### For Electron / Other
 
-*   [run-electron (⭐197)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [run-electron (⭐198)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 

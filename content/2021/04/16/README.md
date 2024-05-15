@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,62 +49,56 @@
 
 
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Personal Dashboards
-
-*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3.2k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
-
-## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### SPE (Sitecore PowerShell Extension)
 
 *   [Sitecore PowerShell Book (⭐7)](https://github.com/SitecorePowerShell/Book) - Sitecore PowerShell Book with all the documentation.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [4. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Oxfeed (⭐12)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
-## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tools / Miscellaneous
 
 *   [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
 *   [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
 
-## [7. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [hitokoto-box (⭐8)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
+*   [hitokoto-box (⭐9)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
-## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐26)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐27)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
-## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [bta-lib (⭐428)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+*   [bta-lib (⭐440)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐9.7k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐10k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
-## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Datasets
 
 *   [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
 
-## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 

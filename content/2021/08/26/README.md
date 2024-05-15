@@ -10,7 +10,7 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐188)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐198)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -76,7 +76,7 @@
 ### Internationalization
 
 *   [crystal-i18n (⭐23)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
-*   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
+*   [i18n.cr (⭐22)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
 ## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 

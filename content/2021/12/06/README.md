@@ -26,7 +26,7 @@
 
 ### Themes
 
-*   [tmux-gruvbox (⭐427)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐473)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -145,13 +145,13 @@
 
 ### Reactive Programming
 
-*   [ObsevableComputations (⭐107)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+*   [ObsevableComputations (⭐108)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vueuse (⭐18k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+*   [vueuse (⭐19k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 *   [localize-vue-2x (⭐0)](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 
 ## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)

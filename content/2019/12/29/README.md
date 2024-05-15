@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐60)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐63)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -20,8 +20,8 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐902)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐9.1k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [Kiwi TCMS (⭐935)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐9.4k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
 *   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -41,12 +41,12 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐981)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [dsl-json (⭐985)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
 *   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
 
-*   [JSON Parsing Test Suite (⭐822)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+*   [JSON Parsing Test Suite (⭐842)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [Leaf (⭐6.2k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐6.3k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -84,7 +84,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.1k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ---
 

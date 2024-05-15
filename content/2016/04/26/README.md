@@ -10,14 +10,14 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-app-boilerplate (⭐121)](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
+*   [elm-app-boilerplate (⭐120)](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐8.2k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 
 ## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 

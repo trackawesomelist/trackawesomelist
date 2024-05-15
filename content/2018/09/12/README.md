@@ -29,7 +29,7 @@
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
 

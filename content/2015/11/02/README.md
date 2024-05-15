@@ -58,7 +58,7 @@
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐409)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐414)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ## [6. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 

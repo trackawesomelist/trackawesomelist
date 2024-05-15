@@ -15,7 +15,7 @@
 
 ### Debugging
 
-*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐280)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Frameworks
 

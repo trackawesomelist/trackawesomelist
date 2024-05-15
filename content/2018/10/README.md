@@ -224,7 +224,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Web Content Extracting
 
-*   [toapi (⭐3.4k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+*   [toapi (⭐3.5k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 
 ## [19. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -236,7 +236,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### CLI
 
-*   [CLI11 (⭐3k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
+*   [CLI11 (⭐3.1k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 
 ## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -258,23 +258,23 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Image Processing
 
-*   [ImageSharp (⭐7k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+*   [ImageSharp (⭐7.1k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
 
 ## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐571)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
-    *   [console-rs/indicatif (⭐4k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐88)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐516)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [a8m/pb (⭐579)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
+    *   [console-rs/indicatif (⭐4.1k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
+    *   [etienne-napoleone/spinach (⭐91)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐521)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
-*   [Pico-Kit (⭐69)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
+*   [Pico-Kit (⭐72)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
 *   [pico8Grunt (⭐12)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 
 ## [26. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
@@ -405,7 +405,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Contents / Example Apps
 
-*   [Golazon (⭐33)](https://github.com/sobstel/golazon) - Football data mnmlist way.
+*   [Golazon](https://github.com/sobstel/golazon) - Football data mnmlist way.
 
 ## [35. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -545,7 +545,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [xgboost-node (⭐37)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+*   [xgboost-node (⭐38)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
 ## [42. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
@@ -714,7 +714,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Packages / Security
 
-*   [upash (⭐529)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐531)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [47. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -743,15 +743,15 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐504)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐515)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### HTML
 
 *   [floki (⭐2k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐257)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐261)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐214)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐229)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### Miscellaneous
 
@@ -769,14 +769,14 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Forms / Normal Forms
 
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐128)](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences (⭐8.1k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐136)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐8.7k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
 ## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐418)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐419)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
 ## [53. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
@@ -1228,7 +1228,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Resources / Examples
 
-*   [laravel-vue-boilerplate (⭐542)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
+*   [laravel-vue-boilerplate (⭐540)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
 *   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 *   [Vue Bulma Demo (⭐50)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 

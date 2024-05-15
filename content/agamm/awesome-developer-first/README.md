@@ -2,9 +2,29 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 773 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 789 · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [May 03, 2024](/content/2024/05/03/README.md)
+
+### Authentication & Identity
+
+*   [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
+
+### CMS (headless)
+
+*   [DatoCMS](https://www.datocms.com/) - API-based CMS.
+
+### Media
+
+*   [Bytescale](https://bytescale.com) - File storage and processing APIs.
+
+## [May 02, 2024](/content/2024/05/02/README.md)
+
+### Deployment Hosting
+
+*   [Cycle.io](https://www.cycle.io/) - DevOps platform for building platforms. Handles container orchestration, load-balancing, monitoring, and more.
 
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
@@ -120,7 +140,7 @@ A curated list of awesome developer-first tools products.
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐421)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐445)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 

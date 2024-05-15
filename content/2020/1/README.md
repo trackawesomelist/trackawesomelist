@@ -10,7 +10,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐279)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐305)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [PEframe (⭐541)](https://github.com/guelfoweb/peframe) - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
+*   [PEframe (⭐594)](https://github.com/guelfoweb/peframe) - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -191,11 +191,11 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐41k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐42k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.2k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.4k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### CLI
 
-*   [tabulate (⭐1.7k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+*   [tabulate (⭐1.8k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -261,7 +261,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐975)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐993)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ### Configuration / Miscellaneous
 
@@ -310,7 +310,7 @@
 
 ### Open Source / Other
 
-*   [Upcount (⭐338)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐347)](https://github.com/madisvain/upcount) - Invoicing.
 
 ### Articles / Other
 
@@ -324,7 +324,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐337)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐341)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
@@ -337,11 +337,6 @@
 *   [Creating Blazor Components](https://www.pluralsight.com/courses/creating-blazor-components) - December, 2019 - Building a Blazor app is building components. This course is essential for gaining a good understanding of components. On Pluralsight.
 
 ## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
-
-### UI / Login
-
-*   [Login Animation (⭐1.2k)](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
-*   [Flutter Login (⭐1.3k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
 
 ### 🇬🇧 United Kingdom / Misc
 
@@ -368,7 +363,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐87)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐88)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -415,12 +410,12 @@
 
 ### Miscellaneous
 
-*   🍰 [Calendar plugin (⭐15)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   🍰 [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 *   🍰 [Feedback plugin (⭐6)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 
 ### ORM / Database / Datamapping
 
-*   🍰 [CakeDecimal plugin (⭐7)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
+*   🍰 [CakeDecimal plugin (⭐8)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
 
 ### Templating
 
@@ -430,12 +425,12 @@
 
 ### Algorithms and Data structures
 
-*   [haversine (⭐15)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
-*   [kd\_tree (⭐16)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
+*   [haversine (⭐17)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
+*   [kd\_tree (⭐17)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
 
 ### Machine Learning
 
-*   [Cadmium (⭐202)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐201)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ### Misc
 
@@ -452,8 +447,8 @@
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐6.2k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐7k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐6.4k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐7.1k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Books / Frameworks
 
@@ -464,17 +459,17 @@
 
 *   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-*   [Smithy (⭐351)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+*   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
 ## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐444)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐445)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ### Button
 
-*   [FloatingButton (⭐978)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 

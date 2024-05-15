@@ -53,7 +53,7 @@
 
 ## [3. Computer Science](/content/ossu/computer-science/README.md)
 
-### Congratulations / Which programming languages should I use?
+### Congratulations / Advanced math
 
 *   Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 
@@ -85,11 +85,11 @@
 
 ### Tutorials
 
-*   [Predict time series (⭐1k)](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
+*   [Predict time series (⭐1.1k)](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
 
 ### Libraries
 
-*   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

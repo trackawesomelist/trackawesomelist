@@ -22,8 +22,8 @@
 
 ### Ruby Libraries
 
-*   [bitcoinrb (⭐52)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
-*   [bech32rb (⭐16)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
+*   [bitcoinrb (⭐56)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+*   [bech32rb (⭐18)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 *   [bip-schnorrrb (⭐7)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -38,7 +38,7 @@
 
 ## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
 *   [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
@@ -58,7 +58,7 @@
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
 *   [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
-*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.4k)](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
+*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.5k)](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

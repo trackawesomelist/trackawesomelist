@@ -48,9 +48,9 @@
 
 ### ORM and SQL generation
 
-*   [Walkable (⭐438)](https://github.com/walkable-server/walkable)
-*   [Specql (⭐127)](https://github.com/tatut/specql/)
-*   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
+*   [Walkable (⭐443)](https://github.com/walkable-server/walkable)
+*   [Specql (⭐130)](https://github.com/tatut/specql/)
+*   [sqlium](https://github.com/TheLadders/sqlium/)
 
 ## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

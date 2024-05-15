@@ -20,12 +20,12 @@
 
 ### Games / Apache License
 
-*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐25)](https://github.com/mgrojo/ASFML).
+*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐24)](https://github.com/mgrojo/ASFML).
 
 ### Graphical User Interface / Apache License
 
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
-*   [ada-gui (⭐34)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
+*   [ada-gui (⭐35)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ### Graphics and Multimedia / Apache License
 
@@ -33,16 +33,16 @@
 
 ### Automation / Apache License
 
-*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐83)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
+*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐84)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐83)](https://github.com/AdaCore/gtkada).
-*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐83)](https://github.com/AdaCore/gtkada).
+*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
 
 ### Misc / Apache License
 
-*   [whitakers-words (⭐261)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐263)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vuepic/vue-datepicker (⭐1.2k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [@vuepic/vue-datepicker (⭐1.3k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

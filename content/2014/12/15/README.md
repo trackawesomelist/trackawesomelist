@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [exkad (⭐3)](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
+*   [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
 
 ### Macros
 

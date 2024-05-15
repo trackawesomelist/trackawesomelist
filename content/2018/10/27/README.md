@@ -73,7 +73,7 @@
 
 ### Contents / Utilities
 
-*   [pgbadger (⭐3.3k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐3.4k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

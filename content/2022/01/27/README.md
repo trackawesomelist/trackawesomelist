@@ -20,11 +20,11 @@
 
 ### Community Extensions
 
-*   [Keycloak Metrics SPI (⭐486)](https://github.com/aerogear/keycloak-metrics-spi)
+*   [Keycloak Metrics SPI (⭐513)](https://github.com/aerogear/keycloak-metrics-spi)
 
 ### Themes
 
-*   [Keywind: Component-based theme built with Tailwind CSS (⭐590)](https://github.com/lukin/keywind)
+*   [Keywind: Component-based theme built with Tailwind CSS (⭐695)](https://github.com/lukin/keywind)
 
 ### Commercial Offerings
 
@@ -63,21 +63,21 @@
 
 ### Miscellaneous
 
-*   [cl-cffi-gtk (⭐138)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+*   [cl-cffi-gtk (⭐143)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   a tutorial: [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
 
 ### Community / Interfaces to other package managers
 
-*   [MGL (⭐558)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐575)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
-    *   used by its [author](https://github.com/melisgl) to [win (⭐127)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
+    *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
 
 ## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [netdiscover (⭐214)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
+*   [netdiscover (⭐236)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
@@ -85,7 +85,7 @@
 
 ### Web Exploitation / Social Engineering Tools
 
-*   [gobuster (⭐8.7k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
+*   [gobuster (⭐9k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -108,8 +108,8 @@
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐353)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
-*   [Avokadoen/zig\_vulkan (⭐42)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
+*   [Snektron/vulkan-zig (⭐381)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Avokadoen/zig\_vulkan (⭐43)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ---
 

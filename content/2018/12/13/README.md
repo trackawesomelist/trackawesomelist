@@ -29,7 +29,7 @@
 
 ### Top / Game Engine resources
 
-*   [Deer (⭐386)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Deer (⭐421)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ## [5. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 

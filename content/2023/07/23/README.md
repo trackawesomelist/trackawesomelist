@@ -10,7 +10,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [pythalesians (⭐57)](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
+*   [pythalesians (⭐59)](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyze market patterns etc.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [richardbizik/nvim-toc (⭐29)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [richardbizik/nvim-toc (⭐34)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Quickfix / Diagnostics
 
-*   [ashfinal/qfview.nvim (⭐43)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+*   [ashfinal/qfview.nvim (⭐51)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
 
 ## [6. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

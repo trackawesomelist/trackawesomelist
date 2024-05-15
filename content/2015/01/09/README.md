@@ -24,7 +24,7 @@
 
 ### Build Tools
 
-*   [reaxt (⭐366)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐372)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -56,7 +56,7 @@
 
 ### Testing
 
-*   [pavlov (⭐127)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+*   [pavlov (⭐128)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 
 ### Text and Numbers
 

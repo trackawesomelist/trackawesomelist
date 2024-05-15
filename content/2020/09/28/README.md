@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐129)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐139)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐408)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐412)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [FinancePy (⭐1.8k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐1.9k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -140,31 +140,13 @@
 
 *   [Octo (⭐571)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Video Tutorials / Components
-
-*   [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
-
-### Approach and Explanation / Components
-
-*   Hristo Georgiev
-
-    *   [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
-
-### Generators / Components
-
-*   Dart
-    *   Stagehand
-        *   [dart-lang/stagehand (⭐659)](https://github.com/dart-lang/stagehand)
-
-## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
-## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Feature management
 

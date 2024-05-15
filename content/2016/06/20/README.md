@@ -24,12 +24,12 @@
 ### Contents / Tools
 
 *   [pico-test (⭐38)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-*   [Lib-Pico8 (⭐168)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
-*   [pico8-missing-builtins (⭐21)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+*   [Lib-Pico8 (⭐173)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+*   [pico8-missing-builtins (⭐23)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ### Contents / Hacks - undocumented PICO-8 features
 
-*   [p8keyboard.js (⭐19)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+*   [p8keyboard.js (⭐20)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

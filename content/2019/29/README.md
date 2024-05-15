@@ -35,8 +35,8 @@
 ### Development Tools
 
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
-*   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-*   [Qiskit.js (⭐110)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [pyQuil (⭐1.4k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
+*   [Qiskit.js (⭐113)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 
 ## [4. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -61,23 +61,18 @@
 
 ### Resources / Examples
 
-*   [Snake game on Vue.js without Canvas (⭐43)](https://github.com/Seokky/vue-snake-game)
+*   [Snake game on Vue.js without Canvas (⭐44)](https://github.com/Seokky/vue-snake-game)
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐15k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [vue-realworld-example-app (⭐4.1k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
+*   [Daily (⭐16k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐163)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐164)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Testing Frameworks / Frameworks
-
-*   [jest (⭐43k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
-*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Package Managers
 
@@ -87,6 +82,10 @@
 
 *   [script.js (⭐2.9k)](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 *   [LodJS (⭐291)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
+
+### Testing Frameworks / Frameworks
+
+*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Testing Frameworks / Coverage
 
@@ -289,13 +288,13 @@
 
 ### Lambda shorthands
 
-*   [cl-punch (⭐21)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-punch (⭐22)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other Useful Repositories
 
-- Repository: [Gray Hacker Resources (⭐118)](https://github.com/bt3gl/Gray-Hacker-Resources)
+- Repository: [Gray Hacker Resources (⭐132)](https://github.com/bt3gl/Gray-Hacker-Resources)
 
   Description: Useful for CTFs, wargames, pentesting
 
@@ -315,7 +314,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐2.2k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.3k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 
@@ -325,7 +324,7 @@
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐2.3k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ### 🇨🇦 Canada / Misc
 
@@ -350,7 +349,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Contents / Components
 
-*   [Preact Translate (⭐65)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐64)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -370,7 +369,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Reference
 
-*   [adalib (⭐17)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+*   [adalib (⭐19)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ### Database / Apache License
 
@@ -387,7 +386,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Patterns / Apache License
 
-*   [rxada (⭐16)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐17)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
@@ -430,7 +429,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.8k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
+*   [easy-rsa (⭐3.9k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 
 ### Repositories / Web
 
@@ -606,7 +605,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐561)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐571)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -636,18 +635,18 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Development / Boilerplate
 
-*   [yo (⭐3.7k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
-*   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [scaffold-static (⭐123)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [yo (⭐3.8k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
+*   [boilr (⭐1.7k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+*   [cookiecutter (⭐22k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [scaffold-static (⭐126)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐547)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-*   [Ultimate Plumber (⭐8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
+*   [has (⭐615)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [Ultimate Plumber (⭐8.1k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐144)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐60)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [undollar (⭐155)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐63)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -671,7 +670,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐9.3k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐9.4k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
@@ -708,7 +707,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐948)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐950)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -726,7 +725,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Projects / Open Source Projects
 
-*   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
+*   [Bootcamp: An enterprise social network (⭐2.3k)](https://github.com/vitorfs/bootcamp)
 
 ## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -771,11 +770,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Misc
 
-*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐46)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
-*   [vcr (⭐59)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐58)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
@@ -801,7 +800,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐316)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐324)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -872,26 +871,30 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Development Tools
+### React Testing
 
-*   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [eslint-plugin-react (⭐8.7k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+*   [jest (⭐43k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
 
 ### React Styling
 
 *   [styled-components (⭐40k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 *   [emotion (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 
+### React Development Tools
+
+*   [reactotron (⭐15k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+*   [eslint-plugin-react (⭐8.8k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+
 ### React Awesome Components
 
-*   [react-datepicker (⭐7.7k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-datepicker (⭐7.8k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 *   [react-loading-skeleton (⭐3.7k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
 ### React Components Sandboxes
 
-*   [storybook (⭐82k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐83k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐8.1k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

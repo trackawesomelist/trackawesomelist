@@ -51,7 +51,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Probability and Statistics / Statistics
 
-*   [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
+*   📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

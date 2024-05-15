@@ -28,35 +28,35 @@
 
 ### Samples
 
-*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐115)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐115)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Honeypots
 
-*   [Glastopf (⭐476)](https://github.com/mushorg/glastopf) - Web application honeypot.
+*   [Glastopf (⭐534)](https://github.com/mushorg/glastopf) - Web application honeypot.
 
 ### Open Source Threat Intelligence / Tools
 
-*   [AbuseHelper (⭐107)](https://github.com/abusesa/abusehelper) - An open-source
+*   [AbuseHelper (⭐113)](https://github.com/abusesa/abusehelper) - An open-source
     framework for receiving and redistributing abuse feeds and threat intel.
 *   [AlienVault Open Threat Exchange](https://otx.alienvault.com/) - Share and
     collaborate in developing Threat Intelligence.
 
 ### Detection and Classification / Other Resources
 
-*   [Detect It Easy(DiE) (⭐4.1k)](https://github.com/horsicq/Detect-It-Easy) - A program for
+*   [Detect It Easy(DiE) (⭐6.6k)](https://github.com/horsicq/Detect-It-Easy) - A program for
     determining types of files.
 
 ### Domain Analysis / Other Resources
 
-*   [MaltegoVT (⭐73)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
+*   [MaltegoVT (⭐76)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
     for the VirusTotal API. Allows domain/IP research, and searching for file
     hashes and scan reports.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Fibratus (⭐1.7k)](https://github.com/rabbitstack/fibratus) - Tool for exploration
+*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Tool for exploration
     and tracing of the Windows kernel.
 *   [PPEE (puppy)](https://www.mzrst.com/) - A Professional PE file Explorer for
     reversers, malware researchers and those who want to statically inspect PE

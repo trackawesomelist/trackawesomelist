@@ -63,7 +63,7 @@
 
 ### General
 
-*   [VSCode Icons (⭐749)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐836)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

@@ -40,7 +40,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Applications
 
-*   [ExShop (⭐220)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
+*   [ExShop (⭐219)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 
 ### Authorization
 
@@ -52,11 +52,11 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Email
 
-*   [smoothie (⭐45)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
+*   [smoothie (⭐46)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐398)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐403)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 

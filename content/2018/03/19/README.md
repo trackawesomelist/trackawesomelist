@@ -34,13 +34,13 @@
 
 ### Contents / Toolkits
 
-*   [Create Preact App (⭐96)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
+*   [Create Preact App (⭐95)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐122)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐123)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Models/Projects
 
-*   [Kubeflow (⭐12k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
+*   [Kubeflow (⭐14k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 
 ## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CMS
 
-*   [Fae (⭐836)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐839)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

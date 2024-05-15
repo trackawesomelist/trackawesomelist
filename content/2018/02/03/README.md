@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐253)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐258)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

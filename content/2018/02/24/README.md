@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tour (⭐2.3k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+*   [vue-tour (⭐2.4k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Git Tools
 
-*   [GitRead.Net (⭐16)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
+*   [GitRead.Net (⭐17)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
 
 ---
 

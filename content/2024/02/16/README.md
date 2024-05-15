@@ -21,7 +21,7 @@
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐323)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐341)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐72)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Text Editors and IDEs
 
@@ -59,13 +59,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [vite-plugin-oxlint (⭐15)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐6)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐15)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

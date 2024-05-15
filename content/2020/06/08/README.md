@@ -11,7 +11,7 @@
 ### Databases / ORMs
 
 *   [GINO (⭐2.6k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐386)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+    *   [FastAPI Example (⭐403)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -67,22 +67,22 @@
 
 ### Layout / Barcode
 
-*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.6k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.7k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐14)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐145)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐15)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐149)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐940)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐956)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐134)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐135)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -139,7 +139,7 @@
 
 ### External Services
 
-*   [steam-box (⭐143)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐150)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -273,13 +273,13 @@
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.5k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.6k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [22. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

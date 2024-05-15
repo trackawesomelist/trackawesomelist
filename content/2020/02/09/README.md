@@ -39,7 +39,7 @@
 
 ### Templates
 
-*   [Create Yew App (⭐159)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐161)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
 ### Books / Frameworks
 
@@ -49,7 +49,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐5.6k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
+*   [Snapcast (⭐5.8k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Subtitles and Captions / Web
 
-*   [glut23/webvtt-py (⭐158)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
-*   [opencoconut/webvtt-ruby (⭐59)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
-*   [osk/node-webvtt (⭐89)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+*   [glut23/webvtt-py (⭐172)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [opencoconut/webvtt-ruby (⭐61)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
+*   [osk/node-webvtt (⭐94)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
-### HDR10, HLG, Dolby Vision / Slack Groups
+### HDR10, HLG, Dolby Vision / Slack/Discord/Other Groups
 
 *   [Encode HDR with VP9](https://developers.google.com/media/vp9/hdr-encoding)  - Hands on tutorial of using ffmpeg to do hdr encoding
 *   [Frequently Asked Questions on High Dynamic Range and Hybrid Log-Gamma](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_FAQ.pdf)  - FAQ regarding HDR by BBC R\&D
@@ -79,8 +79,8 @@
 *   [Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf)  - In depth break down on converting from pq to hlg
 *   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
 *   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
-*   [bbc/qtff-parameter-editor (⭐123)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
-*   [id3as/ffmpeg-libvpx-HDR-static (⭐15)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+*   [bbc/qtff-parameter-editor (⭐129)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
+*   [id3as/ffmpeg-libvpx-HDR-static (⭐16)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Clone / Preferences
 
-*   [GitTouch (⭐1.4k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
+*   [GitTouch (⭐1.5k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
 
 ---
 

@@ -65,7 +65,7 @@
 
 ### Template Engine
 
-*   [Jbuilder (⭐45)](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
+*   [Jbuilder (⭐44)](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐7.9k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐8k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -101,7 +101,7 @@
 
 ### CLOS extensions
 
-*   [filtered-functions (⭐42)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT](https://opensource.org/licenses/MIT).
+*   [filtered-functions (⭐43)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT](https://opensource.org/licenses/MIT).
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Anonymity Tools / Tor Tools
 
-*   [dos-over-tor (⭐24)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+*   [dos-over-tor (⭐25)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 
 ### Conferences and Events / North America
 
@@ -140,7 +140,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [Smart Install Exploitation Tool (SIET) (⭐552)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
+*   [Smart Install Exploitation Tool (SIET) (⭐561)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
 
 ## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

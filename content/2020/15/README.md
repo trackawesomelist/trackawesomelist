@@ -464,13 +464,13 @@
 
 ### Software / DNS
 
-*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
+*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.8k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
 
 ## [19. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐5.6k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐5.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [20. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -482,23 +482,23 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐517)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐521)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐96)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐156k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [playwright-jest-examples (⭐98)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐157k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐97k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐268)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐273)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [Blockstack (⭐279)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐16k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.8k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -510,7 +510,7 @@
 
 ### Personality
 
-- API: [Dictum (⭐133)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐152)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -645,11 +645,11 @@
 
 ### Animation
 
-*   [Elephant (⭐134)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐136)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐83)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐85)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### App Routing
 
@@ -661,15 +661,15 @@
 
 ### XML
 
-*   [XMLCoder (⭐763)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐775)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐734)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐745)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
-*   [BrickKit (⭐604)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
+*   [BrickKit (⭐603)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
 
 ### Testing / Barcode
 
@@ -678,7 +678,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.7k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐128)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐130)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -723,13 +723,13 @@
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐42)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐43)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### CSV
 
-*   [CodableCSV (⭐423)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐432)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -941,7 +941,7 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐2.9k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Elasticity / Scala
 
@@ -964,13 +964,13 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐28)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐30)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Hypermedia Types / Text-Based User Interfaces
 
-*   [hate (⭐23)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
+*   [hate (⭐22)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
 ## [49. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -990,7 +990,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐278)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐291)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [51. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -1000,7 +1000,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Fridax (⭐148)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+*   [Fridax (⭐152)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -1032,7 +1032,7 @@
 
 ### For Electron / Other
 
-*   [RxDB (⭐20k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
+*   [RxDB (⭐21k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
 ## [56. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -1048,7 +1048,7 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐589)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐598)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 

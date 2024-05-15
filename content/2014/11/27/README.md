@@ -14,7 +14,7 @@
 
 ### Debugging
 
-*   [eflame (⭐415)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐417)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -30,18 +30,18 @@
 
 ### Testing
 
-*   [blacksmith (⭐191)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐194)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐43)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers
 
-*   [simetric (⭐60)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
+*   [simetric (⭐61)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [AvalonEdit (⭐1.7k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+*   [AvalonEdit (⭐1.8k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

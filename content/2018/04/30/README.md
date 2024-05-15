@@ -30,7 +30,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [GenVue (⭐131)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
+*   [GenVue (⭐132)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 
 ## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

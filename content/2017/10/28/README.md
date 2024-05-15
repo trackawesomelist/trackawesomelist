@@ -65,7 +65,7 @@
 
 ### Misc
 
-*   [DeviceId (⭐655)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐696)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

@@ -51,7 +51,7 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [malice.io (⭐1.4k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
+*   [malice.io (⭐1.6k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
 
 ## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 

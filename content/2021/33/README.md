@@ -33,10 +33,10 @@
 ### Networking
 
 *   **HTTP Tools**:
-    *   [ocaml-cohttp (⭐674)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+    *   [ocaml-cohttp (⭐679)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
     *   [ocurl (⭐59)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-    *   [httpaf (⭐530)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
-    *   [piaf (⭐174)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+    *   [httpaf (⭐531)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+    *   [piaf (⭐175)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 
 ### Utilities
 
@@ -46,7 +46,7 @@
 
 ### Projects / Frameworks
 
-*   [FreeSpec (⭐50)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+*   [FreeSpec (⭐51)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
 *   [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 
 ### Projects / Libraries
@@ -59,26 +59,26 @@
 
 ### Resources / Books
 
-*   [Modeling and Proving in Computational Type Theory (⭐70)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Modeling and Proving in Computational Type Theory (⭐73)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Benchmark Project (⭐114)](https://github.com/keycloak/keycloak-benchmark)
+*   [Keycloak Benchmark Project (⭐123)](https://github.com/keycloak/keycloak-benchmark)
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Boilerplates
 
-*   [Preact Chrome Extension (⭐627)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
+*   [Preact Chrome Extension (⭐644)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 *   [Preact Web Extension (⭐20)](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 
 ## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 
-*   [Slab (⭐262)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
+*   [Slab (⭐279)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐347)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐356)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -125,22 +125,20 @@
 
 ### Articles & Papers / Scala
 
-*   [Awesome Scalability (⭐52k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+*   [Awesome Scalability (⭐53k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 *   [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 
 ## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
-*   [Wagtail Makeup (⭐3)](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
+*   [Wagtail Makeup (⭐4)](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
 
 ## [17. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
-*   [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
-*   [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
-*   [react-directus (⭐88)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐92)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 ## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -175,6 +173,8 @@
   HTTPS: Yes
 
   CORS: No
+
+  Call this API: 
 
 
 
@@ -232,7 +232,7 @@
 
 ### Geometry and Topology / Algebraic Geometry
 
-*   [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
+*   📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 
 ## [24. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -272,7 +272,7 @@
 
 ### Cryptography
 
-*   [NaCl.Core (⭐68)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐69)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ### Game
 
@@ -299,19 +299,19 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [transitcast (⭐11)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
+*   [transitcast](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
 ## [33. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Clones
 
-*   [PicoLove (⭐693)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐713)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [ipfs-chat (⭐123)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐125)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [35. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -325,13 +325,9 @@
 
 ## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
-### Productivity / Note Taking and Lists
-
-*   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
-
 ### Productivity / Finance
 
-*   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐4.8k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -341,7 +337,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [Tabby (formerly Terminus) (⭐54k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tabby (formerly Terminus) (⭐55k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
 
@@ -349,7 +345,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.6k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐2.7k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
 ## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -368,19 +364,19 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐635)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐689)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Godot (⭐5.4k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐6.1k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
 ## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [terraformize (⭐152)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint.
+*   [terraformize (⭐152)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint. :skull:
 
 ## [43. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -484,9 +480,9 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐910)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Normalize (⭐990)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-*   [Composer Require Checker (⭐834)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐916)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Normalize (⭐1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Require Checker (⭐843)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
@@ -495,11 +491,11 @@
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Metrics (⭐314)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [Metrics (⭐315)](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 ### Table of Contents / Build Tools
 
-*   [RMT (⭐451)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐450)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Table of Contents / Geolocation
 
@@ -507,7 +503,7 @@
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐566)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐572)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -519,10 +515,10 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐324)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐265)](https://github.com/spatie/shiki-php) - A [Shiki (⭐7.2k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐559)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐329)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐268)](https://github.com/spatie/shiki-php) - A [Shiki (⭐8.4k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐564)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -530,12 +526,12 @@
 
 ### Table of Contents / Numbers
 
-*   [IP (⭐245)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [IP (⭐244)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
 *   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐916)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐920)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -562,26 +558,26 @@
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐236)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
-*   [Parity-Bitcoin (⭐724)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
+*   [interBTC (⭐243)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [Parity-Bitcoin (⭐726)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
 
 ### Applications / Productivity
 
-*   [pier-cli/pier (⭐489)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+*   [pier-cli/pier (⭐507)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
 ### Applications / System tools
 
-*   [bandwhich (⭐8.5k)](https://github.com/imsnif/bandwhich) — Terminal bandwidth utilization tool
-*   [diskonaut (⭐2.1k)](https://github.com/imsnif/diskonaut) — Terminal visual disk space navigator
+*   [bandwhich (⭐8.7k)](https://github.com/imsnif/bandwhich) — Terminal bandwidth utilization tool
+*   [diskonaut (⭐2.2k)](https://github.com/imsnif/diskonaut) — Terminal visual disk space navigator
 
 ### Applications / Utilities
 
-*   [evansmurithi/cloak (⭐268)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
+*   [evansmurithi/cloak (⭐276)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
     ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 
 ### Applications / Web
 
-*   [MASQ-Project/Node (⭐160)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
+*   [MASQ-Project/Node (⭐165)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 
 ### Development tools / Web Servers
 
@@ -591,29 +587,29 @@
 
 *   [Emacs](https://www.gnu.org/software/emacs/)
     *   [emacs-racer (⭐399)](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
-    *   [flycheck-rust (⭐118)](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
-    *   [rust-mode (⭐1k)](https://github.com/rust-lang/rust-mode) — Rust Major Mode
-    *   [rustic (⭐690)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
+    *   [flycheck-rust (⭐120)](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
+    *   [rust-mode (⭐1.1k)](https://github.com/rust-lang/rust-mode) — Rust Major Mode
+    *   [rustic (⭐701)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
 
 ### Development tools / Profiling
 
-*   [Bytehound (⭐3.8k)](https://github.com/koute/bytehound) — A memory profiler for Linux
+*   [Bytehound (⭐3.9k)](https://github.com/koute/bytehound) — A memory profiler for Linux
 
 ### Development tools / Static analysis
 
-*   [facebookexperimental/MIRAI (⭐942)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
+*   [facebookexperimental/MIRAI (⭐960)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
-*   [pkalivas/radiate (⭐140)](https://github.com/pkalivas/radiate) — A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
+*   [pkalivas/radiate (⭐142)](https://github.com/pkalivas/radiate) — A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐156)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐160)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
 ### Libraries / GUI
 
-*   [ivanceras/sauron-native (⭐630)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
+*   [ivanceras/sauron-native (⭐632)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 
 ### Libraries / Scripting
 
@@ -622,11 +618,11 @@
 ### Libraries / Web programming
 
 *   [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-    *   [housleyjk/ws-rs (⭐1.4k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets
-    *   [iddm/urlshortener-rs (⭐44)](https://github.com/iddm/urlshortener-rs) — A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
+    *   [housleyjk/ws-rs (⭐1.5k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets
+    *   [iddm/urlshortener-rs (⭐48)](https://github.com/iddm/urlshortener-rs) — A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
     *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) — A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐1.7k)](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation.
-    *   [vi/websocat (⭐6.3k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+    *   [vi/websocat (⭐6.5k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## [50. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

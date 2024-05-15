@@ -59,7 +59,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐731)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐732)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐983)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐992)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [12. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

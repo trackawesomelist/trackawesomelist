@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01 - Oct 07, 2018
 
-83 awesome lists updated this week.
+82 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### System Programming
 
 *   **Embedded systems**
-    *   [OMicroB (⭐126)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+    *   [OMicroB (⭐130)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
     *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
     *   [ocaml-esp32 (⭐18)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
@@ -23,7 +23,7 @@
 
 ### Bindings
 
-*   [libvulkan.lua (⭐48)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
+*   [libvulkan.lua (⭐55)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
 
 ## [3. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects
 
-*   [RaspiBlitz (⭐2.3k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
+*   [RaspiBlitz (⭐2.4k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐588)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐603)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -99,13 +99,7 @@
 
 *   [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Domain and IP Research / Telegram
-
-*   [PhishStats](https://phishstats.info/)
-
-## [12. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [11. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -121,7 +115,7 @@
 
 *   [Gaming While Black: Casual Racism To Cautious Optimism](https://www.engadget.com/2015/01/16/gaming-while-black-casual-racism-to-cautious-optimism/) - By Jessica Conditt.
 
-## [13. Tips](/content/git-tips/tips/week/README.md)
+## [12. Tips](/content/git-tips/tips/week/README.md)
 
 ## Visualize the tree including commits that are only referenced from reflogs
 
@@ -129,13 +123,13 @@
 git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ```
 
-## [14. Tools](/content/lvwzhen/tools/week/README.md)
+## [13. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### webpack
 
 *   [Visual webpack config tool](https://webpack.jakoblind.no/)
 
-## [15. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [14. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Laravel / More
 
@@ -145,7 +139,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [15. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -161,19 +155,19 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Fullstack React Native](https://fullstackreact.com/react-native/) - The up-to-date, in-depth, complete guide to React Native.
 
-## [17. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Network
 
 *   [Tiny.RestClient ★31 (⭐202)](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
 
-## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Reverse Engineering Resources (⭐80)](https://github.com/ps1337/automotive-security-research)
 
-## [19. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [18. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -218,37 +212,37 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 *   [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
 
-## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [19. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
 
-## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Timetable Publishing Tools / Ruby
 
-*   [TimeTablePublisher (TTPUB) (⭐26)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
+*   [TimeTablePublisher (TTPUB) (⭐25)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 
-## [22. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [21. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
 *   [Font Memory Game](https://betterwebtype.com/font-memory-game) - Recognizing different styles of fonts is one of the most challenging parts of typography.
 
-## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Quora](https://www.quora.com/topic/Domain-Driven-Design-DDD) - Questions tagged *domain-driven-design*.
 
-## [24. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [23. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) \* An Aurelia custom element for [highlight.js](https://highlightjs.org/)
 
-## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
@@ -280,32 +274,32 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [android app security checklist (⭐830)](https://github.com/b-mueller/android_app_security_checklist)
 *   [Mobile App Pentest Cheat Sheet (⭐4.3k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
-## [26. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [25. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
-*   [bump-3dpd (⭐66)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐69)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
-*   [cartographer (⭐67)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [cartographer (⭐69)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 *   [lovely-windows (⭐14)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐402)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐423)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
-*   [loveblobs (⭐65)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+*   [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 
 ### Shaders
 
-*   [Moonshine (⭐485)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐503)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐402)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐423)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 
@@ -320,7 +314,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
     *   [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
     *   [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
-## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -332,13 +326,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [SerilogAnalyzer (⭐288)](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
 *   [sourcelink (⭐1.2k)](https://github.com/dotnet/sourcelink) - SourceLink is a language- and source-control agnostic system for providing first-class source debugging experiences for binaries.
 
-## [28. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [27. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Gallery / PGFPlots
 
 *   [alemelis/tikz\_drawings (⭐36)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 
-## [29. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [28. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -364,14 +358,14 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [ESPHelper/32 (⭐54)](https://github.com/ItKindaWorks/ESPHelper32) - Port of the ESPHelper library for the 32.
 *   [WiFiESP (⭐492)](https://github.com/bportaluri/WiFiEsp) - Arduino library for Wifi management, client/server for 8266 board.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / STMicroelectronics
 
 *   [`stm32f407g-disc`](https://crates.io/crates/stm32f407g-disc) Board Support Crate for the [STM32F4DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f4discovery.html) (WIP) - ![crates.io](https://img.shields.io/crates/v/stm32f407g-disc.svg)
 *   [`stm32f429i-disc`](https://crates.io/crates/stm32f429i-disc) Board Support Crate for the [STM32F429DISCOVERY](https://www.st.com/en/evaluation-tools/32f429idiscovery.html) (WIP) - ![crates.io](https://img.shields.io/crates/v/stm32f429i-disc.svg)
 
-## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [30. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -390,7 +384,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [ddl-generator (⭐272)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
-## [32. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
+## [31. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
 ### Rotterdam
 
@@ -401,20 +395,20 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Lead Developers Amsterdam](https://www.meetup.com/Lead-Developers-Amsterdam) - For Lead Developers, Tech Leads, Chapter Leads and Senior Engineers heading towards Lead positions.
 *   [DevOps Day Amsterdam](https://www.devopsdays.org/events/2019-amsterdam/welcome/) - Development, operations, QA, InfoSec, management, and leadership.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐308)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐305)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
-## [34. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Collaborative Web Editors
 
 *   [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
 *   [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
 
-## [35. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [34. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -452,13 +446,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 | ------: | -------: | ----: |
 |   2 - 4 |        7 | 5-15m |
 
-## [36. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [35. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Force DI (⭐203)](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
 
-## [37. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [36. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Additional resources / Screencasts
 
@@ -466,7 +460,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [By wincent](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA)
 *   [By Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 
-## [38. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [37. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
@@ -476,7 +470,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
 
-## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Charts
 
@@ -490,7 +484,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [VoiceOverlay (⭐225)](https://github.com/algolia/voice-overlay-android) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -498,33 +492,33 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Resources / Examples
 
-*   [Nuxt + Apollo + Element (⭐27)](https://github.com/kavalcante/nuxt-element-apollo) A Vue.js SSR boilerplate with Nuxt, Element (custom theme) and Vue Apollo.
+*   [Nuxt + Apollo + Element (⭐28)](https://github.com/kavalcante/nuxt-element-apollo) A Vue.js SSR boilerplate with Nuxt, Element (custom theme) and Vue Apollo.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐275)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐274)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
-*   [voice-overlay-ios (⭐535)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐539)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐168)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐167)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ### Alert / Barcode
 
 *   [Sheet (⭐335)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
-## [42. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
 *   [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT (⭐891)](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 
-## [43. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [42. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -534,7 +528,12 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Server Side Swift with Vapor](https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1)
 
-## [44. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [43. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+
+### Domain Analysis / Other Resources
+
+*   [PhishStats](https://phishstats.info/) - Phishing Statistics with search for
+    IP, domain and website title
 
 ### Malware Collection / Malware Corpora
 
@@ -543,20 +542,20 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [mac-a-mal (⭐73)](https://github.com/phdphuc/mac-a-mal) - An automated framework
+*   [mac-a-mal (⭐82)](https://github.com/phdphuc/mac-a-mal) - An automated framework
     for mac malware hunting.
 
 ### Miscellaneous / Other Resources
 
-*   [CryptoKnight (⭐35)](https://github.com/AbertayMachineLearningGroup/CryptoKnight) - Automated cryptographic algorithm reverse engineering and classification framework.
+*   [CryptoKnight (⭐38)](https://github.com/AbertayMachineLearningGroup/CryptoKnight) - Automated cryptographic algorithm reverse engineering and classification framework.
 
-## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
 *   [toml.cr (⭐58)](https://github.com/crystal-community/toml.cr) - TOML parser
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -568,9 +567,9 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Reader (⭐334)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
+*   [NFC Reader (⭐376)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 
-## [47. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [46. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -579,7 +578,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
 *   [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
 
-## [48. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [47. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Animation / Paid Books
 
@@ -590,7 +589,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [BackStretch (⭐4k)](https://github.com/jquery-backstretch/jquery-backstretch) - jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.
 *   [jQuery Images Compare (⭐49)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 
-## [49. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Biology
 
@@ -599,8 +598,8 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Memory Allocation
 
-*   [Hoard (⭐1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
-*   [jemalloc (⭐8.9k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [Hoard (⭐1.1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
+*   [jemalloc (⭐9k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ### PDF
 
@@ -611,7 +610,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
 
-## [50. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / C#/.NET
 
@@ -620,7 +619,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Libraries / Java
 
 *   [mongoFS (⭐20)](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
-*   [Spring Data MongoDB (⭐1.5k)](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
+*   [Spring Data MongoDB (⭐1.6k)](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
 
 ### Libraries / JavaScript
 
@@ -634,11 +633,11 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4.1k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.2k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 
-*   [mongolite (⭐278)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐282)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Libraries / Ruby
 
@@ -648,8 +647,8 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Tools / Administration
 
 *   [MongoDB Smasher (⭐33)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
-*   [mtools (⭐1.8k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐795)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [mtools (⭐1.9k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
+*   [nginx-gridfs (⭐793)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 
 ### Tools / Data
@@ -666,9 +665,9 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Development
 
-*   [mgodatagen (⭐303)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Seeding (⭐517)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐154)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [mgodatagen (⭐312)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [Mongo Seeding (⭐547)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongoeye (⭐157)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
@@ -677,20 +676,20 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Web
 
-*   [mongo-express (⭐5.2k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐5.3k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
 ### Applications / Web
 
-*   [Countly (⭐5.3k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
-*   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go
+*   [Countly (⭐5.4k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Leanote (⭐12k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐14k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.6k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐3.9k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
-## [51. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [50. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Monitoring & Debugging / Scala
 
@@ -700,7 +699,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354433) :small\_orange\_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
-## [52. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [51. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Tutorials
 
@@ -714,7 +713,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
     *   [Getting Started](https://www.spock.li/tutorials/getting-started)
     *   [Developing Web Applications with Yesod and Haskell](https://www.yesodweb.com/book-1.6)
 
-## [53. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [52. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -724,7 +723,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 
 
-## [54. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -741,7 +740,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### GUI
 
 *   [Qml.Net (⭐1.4k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
-*   [UWP Community Toolkit (⭐5.7k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+*   [UWP Community Toolkit (⭐5.8k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 
 ### HTML and CSS
 
@@ -749,11 +748,11 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Logging
 
-*   [Sentry (⭐537)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐564)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ### Office
 
-*   [NetOffice (⭐650)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐667)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ### ORM
 
@@ -763,44 +762,40 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Awesome Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
-## [55. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [54. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
 *   [Confusion in the land of the serverless](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) - Sam Newmans talk about serverless technologies at GOTO 2018.
 *   [Serverless state of the union](https://www.youtube.com/watch?v=q7mFl9sLiCY) - Austen Collins keynote talk about serverless and the state of the union at the Open Source Summit 2018.
 
-## [56. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [55. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Paid Resources / Icons Packages and Collections
 
 *   [Graphic River](https://graphicriver.net/) - Hand-reviewed graphic assets from a community of designers.
     .
 
-## [57. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [56. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 *   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
-## [58. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [57. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 *   [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
 
-## [59. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [58. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐432)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐442)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
-
-### Software / Communication - Email - Webmail Clients
-
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code](https://gitlab.com/mailcare/mailcare)) `MIT` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -808,7 +803,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐952)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
+*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐958)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
 *   [WordPress](https://wordpress.org/) - World's most-used blogging and CMS engine. ([Source Code (⭐19k)](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
 ### Software / Groupware
@@ -817,29 +812,29 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐741)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐753)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ### Software / Software Development - Project Management
 
-*   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐9k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
+*   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐9.1k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
 
-## [60. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [59. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### Layout / Grid
 
 *   [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
 
-## [61. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [60. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Netron (⭐25k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐26k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 
 *   [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 
-## [62. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [61. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Design Tools
 
@@ -862,25 +857,25 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Setapp](https://setapp.com) - The best apps for Mac in one suite.
 
-## [63. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [62. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Democracy.io](https://democracy.io) ([code (⭐253)](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives.
 
-## [64. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [63. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Fuzzing / Sub Domain Enumeration
 
 *   [FuzzDB (⭐7k)](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 
-## [65. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [64. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Adversary Emulation
 
 *   [APTSimulator (⭐2.3k)](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
-*   [Caldera (⭐5k)](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
-*   [DumpsterFire (⭐955)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+*   [Caldera (⭐5.1k)](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
+*   [DumpsterFire (⭐962)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 *   [Metta (⭐1.1k)](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
 *   [Network Flight Simulator (⭐1.2k)](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 *   [RedHunt-OS (⭐1.2k)](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
@@ -888,10 +883,10 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### IR Tools Collection / All-In-One Tools
 
 *   [Belkasoft Evidence Center](https://belkasoft.com/ec) -  The toolkit will quickly extract digital evidence from multiple sources by analyzing hard drives, drive images, memory dumps, iOS, Blackberry and Android backups, UFED, JTAG and chip-off dumps.
-*   [CimSweep (⭐633)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
+*   [CimSweep (⭐634)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
 *   [CIRTkit (⭐140)](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
-*   [Doorman (⭐612)](https://github.com/mwielgoszewski/doorman) - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
-*   [Falcon Orchestrator (⭐182)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
+*   [Doorman (⭐616)](https://github.com/mwielgoszewski/doorman) - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
+*   [Falcon Orchestrator (⭐183)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
 *   [MozDef (⭐2.2k)](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 *   [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data.
 *   [osquery](https://osquery.io/) - Easily ask questions about your Linux and macOS infrastructure using a SQL-like query language; the provided *incident-response pack* helps you detect and respond to breaches.
@@ -899,17 +894,17 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things.
 *   [TheHive](https://thehive-project.org/) - Scalable 3-in-1 open source and free solution designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
 *   [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
-*   [Zentral (⭐714)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+*   [Zentral (⭐716)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [Cyber Triage](http://www.cybertriage.com) - Cyber Triage has a lightweight collection tool that is free to use. It collects source files (such as registry hives and event logs), but also parses them on the live host so that it can also collect the executables that the startup items, scheduled, tasks, etc. refer to. It's output is a JSON file that can be imported into the free version of Cyber Triage. Cyber Triage is made by Sleuth Kit Labs, which also makes Autopsy.
-*   [AChoir (⭐175)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
+*   [AChoir (⭐176)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
 *   [Crowd Response](http://www.crowdstrike.com/community-tools/) - Lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats.
-*   [Fibratus (⭐2k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
 *   [Panorama (⭐38)](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems.
-*   [PowerForensics (⭐1.3k)](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
-*   [PSRecon (⭐469)](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
+*   [PowerForensics (⭐1.4k)](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
+*   [PSRecon (⭐470)](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
 
 ### IR Tools Collection / Disk Image Creation Tools
 
@@ -919,14 +914,14 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [bulk\_extractor (⭐957)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
-*   [Cold Disk Quick Response (⭐325)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
-*   [ir-rescue (⭐445)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [bulk\_extractor (⭐987)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
+*   [Cold Disk Quick Response (⭐326)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
+*   [ir-rescue (⭐447)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### IR Tools Collection / Incident Management
 
 *   [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
-*   [Fast Incident Response (FIR) (⭐1.6k)](https://github.com/certsocietegenerale/FIR/) - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
+*   [Fast Incident Response (FIR) (⭐1.7k)](https://github.com/certsocietegenerale/FIR/) - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
 *   [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
 *   [threat\_note (⭐422)](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
 
@@ -934,53 +929,52 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware-based appliance used for digital investigation and acquisition and is built entirely from public domain software. Among the tools contained in ADIA are Autopsy, the Sleuth Kit, the Digital Forensics Framework, log2timeline, Xplico, and Wireshark. Most of the system maintenance uses Webmin. It is designed for small-to-medium sized digital investigations and acquisitions. The appliance runs under Linux, Windows, and Mac OS. Both i386 (32-bit) and x86\_64 (64-bit) versions are available.
 *   [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - Contains numerous tools that help investigators during their analysis, including forensic evidence collection.
-*   [CCF-VM (⭐480)](https://github.com/rough007/CCF-VM) - CyLR CDQR Forensics Virtual Machine (CCF-VM): An all-in-one solution to parsing collected data, making it easily searchable with built-in common searches, enable searching of single and multiple hosts simultaneously.
+*   [CCF-VM (⭐479)](https://github.com/rough007/CCF-VM) - CyLR CDQR Forensics Virtual Machine (CCF-VM): An all-in-one solution to parsing collected data, making it easily searchable with built-in common searches, enable searching of single and multiple hosts simultaneously.
 *   [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux distribution that includes a vast collection of best-of-breed open source network security applications useful to the network security professional.
-*   [Security Onion (⭐3k)](https://github.com/Security-Onion-Solutions/security-onion) - Special Linux distro aimed at network security monitoring featuring advanced analysis tools.
+*   [Security Onion (⭐3.1k)](https://github.com/Security-Onion-Solutions/security-onion) - Special Linux distro aimed at network security monitoring featuring advanced analysis tools.
 *   [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) - Demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated.
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [StreamAlert (⭐2.8k)](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
-*   [SysmonSearch (⭐406)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
+*   [SysmonSearch (⭐408)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Evolve (⭐257)](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
+*   [Evolve (⭐258)](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
 *   [inVtero.net (⭐276)](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
 *   [LiME (⭐1.6k)](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 *   [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images, and on live systems, can include the paging file in its analysis.
-*   [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution.
-*   [Volatility (⭐6.8k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
+*   [Volatility (⭐6.9k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
 *   [VolatilityBot (⭐260)](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
-*   [VolDiff (⭐189)](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
+*   [VolDiff (⭐192)](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
 
 ### IR Tools Collection / Memory Imaging Tools
 
 *   [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
-*   [Linux Memory Grabber (⭐257)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
+*   [Linux Memory Grabber (⭐258)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 *   [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
 
 ### IR Tools Collection / OSX Evidence Collection
 
-*   [macOS Artifact Parsing Tool (mac\_apt) (⭐690)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+*   [macOS Artifact Parsing Tool (mac\_apt) (⭐702)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 *   [OSX Auditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
 *   [OSX Collector (⭐1.9k)](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
 
 ### IR Tools Collection / Other Lists
 
-*   [List of various Security APIs (⭐826)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+*   [List of various Security APIs (⭐834)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
 
 ### IR Tools Collection / Other Tools
 
 *   [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
-*   [Diffy (⭐633)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
+*   [Diffy (⭐634)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 *   [domfind (⭐20)](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
-*   [Fileintel (⭐112)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+*   [Fileintel (⭐113)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [HELK (⭐3.7k)](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
-*   [Hindsight (⭐982)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
-*   [Hostintel (⭐257)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
-*   [imagemounter (⭐109)](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
+*   [Hindsight (⭐1k)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+*   [Hostintel (⭐258)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
+*   [imagemounter (⭐111)](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 *   [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 *   [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
 *   [Stenographer (⭐1.8k)](https://github.com/google/stenographer) - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
@@ -989,7 +983,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### IR Tools Collection / Playbooks
 
-*   [IRM (⭐804)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+*   [IRM (⭐865)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -997,9 +991,9 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Cuckoo-modified (⭐386)](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
+*   [Cuckoo-modified (⭐388)](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
 *   [Cuckoo-modified-api (⭐18)](https://github.com/keithjjones/cuckoo-modified-api) - Python library to control a cuckoo-modified sandbox.
-*   [Mastiff (⭐169)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
+*   [Mastiff (⭐171)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 *   [Viper (⭐1.5k)](https://github.com/viper-framework/viper) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
 *   [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
 *   [Visualize\_Logs (⭐134)](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
@@ -1009,13 +1003,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise.
 *   [Morgue (⭐1k)](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 *   [Plaso (⭐1.6k)](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline.
-*   [Timesketch (⭐2.4k)](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
+*   [Timesketch (⭐2.5k)](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
 
 ### IR Tools Collection / Videos
 
 *   [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
 
-## [66. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [65. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
@@ -1029,7 +1023,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Mara Averick](https://twitter.com/dataandme)
 
-## [67. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [66. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -1048,7 +1042,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 *   [CodePier](https://codepier.io?ref=awesome-laravel)
 
-## [68. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [67. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -1059,7 +1053,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 
-## [69. Awesome](/content/craftcms/awesome/week/README.md)
+## [68. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Presentations / Tutorials
 
@@ -1088,13 +1082,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Nissin Foods](http://nissinfoods.com/)
 *   [Reddit Inc.](https://www.redditinc.com/)
 
-## [70. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [69. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [MojiScript (⭐149)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
-## [71. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [70. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / India 🇮🇳
 
@@ -1524,6 +1518,12 @@ Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
 
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
 **Inayaili de León**\
@@ -1558,19 +1558,19 @@ Topics: Developer Tools\
 Topics: ReasonML, React, Software Philosophy\
 <https://twitter.com/_chenglou>
 
-## [72. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [71. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
-*   [kaocha (⭐760)](https://github.com/lambdaisland/kaocha)
+*   [kaocha (⭐778)](https://github.com/lambdaisland/kaocha)
 
-## [73. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [72. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Videos / IRC
 
 *   [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 
-## [74. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [73. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulator Development / Misc
 
@@ -1589,13 +1589,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [vtGBte (⭐28)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
 
-## [75. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [74. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Speakers (⭐759)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐757)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
-## [76. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [75. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -1613,19 +1613,19 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 
-## [77. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [76. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / TypeScript
 
 *   [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
-## [78. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [77. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
 *   [Awesome Typography (⭐1.2k)](https://github.com/Jolg42/awesome-typography)
 
-## [79. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [78. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -1635,13 +1635,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
-## [80. Amas](/content/sindresorhus/amas/week/README.md)
+## [79. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+*   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
-## [81. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [80. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Courses
 
@@ -1650,13 +1650,13 @@ Topics: ReasonML, React, Software Philosophy\
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
-## [82. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [81. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmake\_check (⭐20)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [83. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [82. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

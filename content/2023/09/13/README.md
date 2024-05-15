@@ -20,17 +20,17 @@
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐7)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐14)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐20)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐29)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [CAPA (⭐3.6k)](https://github.com/mandiant/capa) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
+*   [CAPA (⭐3.8k)](https://github.com/mandiant/capa) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 
 ## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐92)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐99)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -72,14 +72,14 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rivet (⭐2.2k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [Rivet (⭐2.4k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
 *   [RestGPT (⭐1.2k)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [Raylib-cr (⭐65)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐68)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Projects / Messaging
 
-*   [RabbitMQ (⭐11k) (⭐11k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
+*   [RabbitMQ (⭐11k) (⭐12k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
 
 ## [12. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ribru17/bamboo.nvim (⭐202)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐242)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -136,11 +136,11 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Atomia DNS (⭐357)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
+*   [Atomia DNS (⭐356)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 
 ### Software / Monitoring
 
-*   [glances](https://nicolargo.github.io/glances/) - Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ([Source Code (⭐24k)](https://github.com/nicolargo/glances)) `GPL-3.0` `Python`
+*   [glances](https://nicolargo.github.io/glances/) - Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ([Source Code (⭐25k)](https://github.com/nicolargo/glances)) `GPL-3.0` `Python`
 
 ---
 

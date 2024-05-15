@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐594)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐617)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐856)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐858)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐6.3k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐6.6k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -447,9 +447,9 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [emijrp/awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome)
-*   [fleveque/awesome-awesomes (⭐558)](https://github.com/fleveque/awesome-awesomes)
-*   [sindresorhus/awesome (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [emijrp/awesome-awesome (⭐2.6k)](https://github.com/emijrp/awesome-awesome)
+*   [fleveque/awesome-awesomes (⭐581)](https://github.com/fleveque/awesome-awesomes)
+*   [sindresorhus/awesome (⭐296k)](https://github.com/sindresorhus/awesome)
 
 ## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

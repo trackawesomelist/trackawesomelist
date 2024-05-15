@@ -22,7 +22,7 @@
 
 ### JSON
 
-*   [json (⭐39k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐40k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -30,7 +30,7 @@
 
 *   [Malware Samples and Traffic](http://malware-traffic-analysis.net/) - This
     blog focuses on network traffic related to malware infections.
-*   [RPISEC Malware Analysis (⭐3.3k)](https://github.com/RPISEC/Malware) - These are the
+*   [RPISEC Malware Analysis (⭐3.6k)](https://github.com/RPISEC/Malware) - These are the
     course materials used in the Malware Analysis course at at Rensselaer Polytechnic
     Institute during Fall 2015.
 

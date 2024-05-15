@@ -10,12 +10,12 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [PyCaret (⭐7.8k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
+*   [PyCaret (⭐8.4k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 
 ### Reinforcement Learning / Others
 
-*   [DI-engine (⭐2.9k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Imitation (⭐966)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [DI-engine (⭐2.6k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Imitation (⭐1.1k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [2. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -33,17 +33,17 @@
 
 ### Templates / Vanilla
 
-*   [create-domco (⭐11)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
+*   [create-domco (⭐14)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Media / Diagnostics
 
-*   [edluffy/hologram.nvim (⭐1.1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+*   [edluffy/hologram.nvim (⭐1.2k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐42)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐46)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐442)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐450)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -193,7 +193,7 @@
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Fabio Biondi](https://github.com/fabiobiondi)
 
@@ -203,11 +203,19 @@
 
 *   [LS\_COLORS (⭐2k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [14. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Golang
+### Algorithms & Data Structures
 
-*   [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
+*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
+
+### Computer Science
+
+*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 
 ---
 

@@ -85,7 +85,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
+*   [vue2-simplert (⭐215)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 
 ## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

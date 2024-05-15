@@ -54,11 +54,11 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence SecretScanner (⭐2.9k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+*   [Deepfence SecretScanner (⭐3k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Deepfence PacketStreamer (⭐1.8k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.9k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 ## [8. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

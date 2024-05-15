@@ -22,7 +22,7 @@
 
 ### Third-Party Packages / Logging
 
-*   [django-guid (⭐402)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+*   [django-guid (⭐407)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
 ## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -71,7 +71,7 @@ Language: English
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Streama (⭐9.5k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
+*   [Streama (⭐9.6k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
 ## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -125,7 +125,7 @@ Language: English
 
 ### Projects
 
-*   [Minesweeper (⭐32)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐33)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

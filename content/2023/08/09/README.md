@@ -10,7 +10,7 @@
 
 ### Tools / Platforms
 
-*   [Mona (⭐89)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
+*   [Mona (⭐91)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -20,7 +20,7 @@
 
 ### Captchas
 
-*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.5k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
+*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.6k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -38,13 +38,13 @@
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐428)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐436)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
-*   [emlearn-micropython (⭐29)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+*   [emlearn-micropython (⭐36)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

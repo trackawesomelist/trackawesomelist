@@ -56,11 +56,11 @@
 
 ### Web Framework
 
-*   [Pedestal (⭐2.6k)](https://github.com/pedestal/pedestal)
+*   [Pedestal (⭐2.7k)](https://github.com/pedestal/pedestal)
 
 ### Build Automation and Package management
 
-*   [Boot (⭐1.8k)](https://github.com/boot-clj/boot)
+*   [Boot (⭐1.7k)](https://github.com/boot-clj/boot)
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

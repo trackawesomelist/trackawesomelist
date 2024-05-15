@@ -50,7 +50,7 @@
 
 ### Questions
 
-*   [bistro (⭐45)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+*   [bistro (⭐46)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -64,7 +64,7 @@
     *   [Berkshelf (⭐1.1k)](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
     *   [CocoaPods (⭐14k)](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-    *   [Linuxbrew (⭐1.2k)](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
+    *   [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
     *   [Homebrew-cask (⭐20k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
     *   [Homebrew (⭐39k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
@@ -73,7 +73,7 @@
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐67)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐75)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Extensions / Community
 
-*   [Image Scout (⭐120)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Image Scout (⭐126)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 *   [Date Picker Interface (⭐14)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
@@ -130,8 +130,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-simple-gql (⭐25)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
-*   [vite-plugin-ali-oss (⭐26)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-ali-oss (⭐29)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ### Vue / Loaders
 
@@ -192,13 +191,13 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐19k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
-*   [swiper (⭐38k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐39k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### UI Layout / Syntax Highlight
 
@@ -257,25 +256,25 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Bluetooth Security (⭐386)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
-*   [Awesome WebSocket Security (⭐224)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
+*   [Awesome Bluetooth Security (⭐437)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
+*   [Awesome WebSocket Security (⭐236)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
 
 ## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [oof (⭐815)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐821)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
 *   [rpmalloc (⭐2k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
 *   [snmalloc (⭐1.5k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
-*   [TCMalloc (⭐4k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
+*   [TCMalloc (⭐4.1k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐320k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐320k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -286,7 +285,7 @@
 
 ## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 
@@ -316,7 +315,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐280)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐304)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -337,11 +336,11 @@
 
 ### Applications
 
-*   [wasmer (⭐17k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
+*   [wasmer (⭐18k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐31k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐32k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [32. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -399,6 +398,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tomba email finder](https://tomba.io/api)
 
@@ -409,6 +410,8 @@
   HTTPS: Yes
 
   CORS: Yes
+
+  Call this API: 
 
 
 
@@ -452,6 +455,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Finage](https://finage.co.uk)
 
@@ -463,6 +468,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Styvio](https://www.Styvio.com)
 
@@ -473,6 +480,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -492,7 +501,7 @@
 
 ### Health
 
-- API: [Covid-19 Philippines (⭐30)](https://github.com/Simperfy/Covid-19-API-Philippines-DOH)
+- API: [Covid-19 Philippines (⭐31)](https://github.com/Simperfy/Covid-19-API-Philippines-DOH)
 
   Description: Unofficial Covid-19 Web API for Philippines from data collected by DOH
 
@@ -636,7 +645,7 @@
 
 ### Resources / Examples
 
-*   [Customizable Vue video chat app (⭐3)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
+*   [Customizable Vue video chat app (⭐4)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -650,19 +659,19 @@
 
 ### Beginner
 
-*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐31)](https://github.com/vindarel/common-lisp-course-in-videos/).
+*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐34)](https://github.com/vindarel/common-lisp-course-in-videos/).
     > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 
 ### Others / Third-party APIs
 
-*   [origin (⭐1)](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT](https://opensource.org/licenses/MIT).
+*   [origin](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT](https://opensource.org/licenses/MIT).
 
 ## [35. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Semantic segmentation
 
 *   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐516)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐535)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ## [36. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
@@ -681,7 +690,7 @@
 
 ### Tools
 
-*   [Open Capture and Analytics Tool (OCAT) (⭐256)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+*   [Open Capture and Analytics Tool (OCAT) (⭐299)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
 ## [39. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 

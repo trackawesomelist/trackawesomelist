@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2015
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,19 +64,13 @@
 
 *   [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
 
-## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Elasticsearch
-
-*   [Elasticsearch 权威指南 (⭐2k)](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
-
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Emails
 
-*   [postal (⭐578)](https://github.com/drewr/postal)
+*   [postal (⭐579)](https://github.com/drewr/postal)
 
-## [9. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -95,11 +89,11 @@
 
 *   [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [pooler (⭐307)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐310)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -111,11 +105,11 @@
 
 ### Date and Time
 
-*   [tzdata (⭐284)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐287)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐100)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐101)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
@@ -123,12 +117,12 @@
 
 ### Eventhandling
 
-*   [goldrush (⭐91)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
+*   [goldrush (⭐93)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 
 ### Framework Components
 
-*   [corsica (⭐509)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐427)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐518)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐438)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐163)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -137,14 +131,14 @@
 
 ### Logging
 
-*   [lager (⭐40)](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
-*   [lager\_logger (⭐27)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+*   [lager (⭐41)](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
+*   [lager\_logger (⭐28)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
 
 ### ORM and Datamapping
 
-*   [eredis (⭐623)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐626)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐12)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
-*   [mariaex (⭐260)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
+*   [mariaex (⭐261)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
 ### Queue
 
@@ -152,7 +146,7 @@
 
 ### Testing
 
-*   [white\_bread (⭐220)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+*   [white\_bread (⭐221)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ### Text and Numbers
 
@@ -169,7 +163,7 @@
 
 *   [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 
-## [11. Typography](/content/deanhume/typography/week/README.md)
+## [10. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -177,7 +171,7 @@
 *   [Scale & Rhythm in Typography](http://lamb.cc/typograph/)
 *   [Typographic Scale](http://retinart.net/typography/typographicscale/)
 
-## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

@@ -29,7 +29,7 @@
 
 ### Miscellaneous
 
-*   [react-swipe-to-delete-ios (⭐43)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+*   [react-swipe-to-delete-ios (⭐44)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 
 ## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -51,7 +51,7 @@
 
 ### JSON
 
-*   [cJSON (⭐9.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐10k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐18k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

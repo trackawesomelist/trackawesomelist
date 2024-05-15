@@ -33,13 +33,13 @@
 
 ### AI
 
-*   [DL4S (⭐99)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐100)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐571)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [OMX: The Open Matrix data file format (⭐46)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+*   [OMX: The Open Matrix data file format (⭐47)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

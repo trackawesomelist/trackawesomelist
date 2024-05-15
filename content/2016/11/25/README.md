@@ -16,7 +16,7 @@
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐272)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐273)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -52,19 +52,19 @@
 
 ### Detection and Classification / Other Resources
 
-*   [File Scanning Framework (⭐258)](https://github.com/EmersonElectricCo/fsf) -
+*   [File Scanning Framework (⭐282)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other Useful Repositories
 
-- Repository: [Resource List (⭐313)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐317)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐2.1k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.2k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 

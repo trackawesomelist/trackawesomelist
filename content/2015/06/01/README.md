@@ -66,7 +66,7 @@
 
 ### Images
 
-*   [identicon (⭐26)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
+*   [identicon (⭐27)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 
 ### Logging
 
@@ -74,12 +74,12 @@
 
 ### ORM and Datamapping
 
-*   [mysql (⭐357)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐358)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐8)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Reading
 
-*   [xElixir (⭐586)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐594)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

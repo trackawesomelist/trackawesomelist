@@ -29,7 +29,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Embedded and IoT Security (⭐1.4k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- Repository: [Embedded and IoT Security (⭐1.6k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 
   Description: A curated list of awesome resources about embedded and IoT security
 

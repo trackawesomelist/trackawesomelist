@@ -10,7 +10,7 @@
 
 ### Ask these people anything!
 
-*   [Trent Oswald (⭐2)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐219)](https://github.com/nodejs/iojs.org).
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things Mashape and nodejs/website.
 
 ## [2. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

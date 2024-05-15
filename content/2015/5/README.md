@@ -26,11 +26,11 @@
 
 ### Structural Migrations
 
-*   [Joplin (⭐312)](https://github.com/juxt/joplin)
+*   [Joplin (⭐313)](https://github.com/juxt/joplin)
 
 ### HTML Manipulation
 
-*   [clostache (⭐317)](https://github.com/fhd/clostache)
+*   [clostache (⭐318)](https://github.com/fhd/clostache)
 
 ## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -69,7 +69,7 @@
 ### Algorithms and Data structures
 
 *   [datastructures (⭐215)](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
-*   [the\_fuzz (⭐76)](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
+*   [the\_fuzz (⭐77)](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 
 ### Applications
 
@@ -85,7 +85,7 @@
 
 ### Build Tools
 
-*   [remix (⭐146)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
+*   [remix (⭐148)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 *   [sass\_elixir (⭐1)](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
 
 ### Code Analysis
@@ -103,11 +103,11 @@
 ### Debugging
 
 *   [booter (⭐22)](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
-*   [exrun (⭐119)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
+*   [exrun (⭐120)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 
 ### Email
 
-*   [mailibex (⭐59)](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
+*   [mailibex (⭐60)](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
 
 ### Files and Directories
 
@@ -116,13 +116,13 @@
 
 ### Framework Components
 
-*   [cors\_plug (⭐397)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
+*   [cors\_plug (⭐398)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 *   [plug\_accesslog (⭐31)](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 *   [trailing\_format\_plug (⭐25)](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 
 ### HTTP
 
-*   [exvcr (⭐700)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐705)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -130,13 +130,13 @@
 
 ### JSON
 
-*   [jsx (⭐689)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐693)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
-*   [Countries (⭐142)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+*   [Countries (⭐143)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 *   [dynamic\_compile (⭐1)](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
-*   [exsync (⭐140)](https://github.com/falood/exsync) - Yet another Elixir reloader.
+*   [exsync (⭐148)](https://github.com/falood/exsync) - Yet another Elixir reloader.
 *   [url\_unroller (⭐5)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ### ORM and Datamapping
@@ -145,12 +145,12 @@
 
 ### Protocols
 
-*   [exprotobuf (⭐481)](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
-*   [msgpax (⭐279)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+*   [exprotobuf (⭐484)](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
+*   [msgpax (⭐284)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 
 ### Release Management
 
-*   [changex (⭐48)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
+*   [changex (⭐47)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 *   [exrm\_rpm (⭐39)](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
 
 ### Templating
@@ -159,28 +159,28 @@
 
 ### Testing
 
-*   [faker (⭐998)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+*   [faker (⭐1k)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐17)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐623)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐631)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
 *   [bencoder (⭐4)](https://github.com/alehander42/bencoder) - bencode in Elixir.
-*   [exmoji (⭐93)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
+*   [exmoji (⭐95)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
 *   [pinyin (⭐21)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
-*   [tomlex (⭐32)](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
+*   [tomlex (⭐33)](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 
 ### Third Party APIs
 
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
-*   [commerce\_billing (⭐178)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
+*   [commerce\_billing (⭐179)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 *   [exgravatar (⭐22)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-*   [extwitter (⭐409)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
+*   [extwitter (⭐411)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 
 ### Other Awesome Lists
 
-*   [Erlang Bookmarks (⭐1.2k)](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
+*   [Erlang Bookmarks (⭐1.1k)](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
 
 ### Reading
 
@@ -489,7 +489,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Database Drivers
 
-*   [SQL Server (⭐964)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐966)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 
@@ -497,11 +497,11 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Git Tools
 
-*   [ginatra (⭐529)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
+*   [ginatra (⭐528)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 
 ### Profiler and Optimization
 
-*   [Rbkit (⭐355)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+*   [Rbkit (⭐356)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 
 ## [12. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

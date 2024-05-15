@@ -16,30 +16,30 @@
 
 ### Development / Discovery
 
-*   [attic (⭐752)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
+*   [attic (⭐780)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [cpp-dump (⭐163)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+*   [cpp-dump (⭐168)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [eriksencosta/math-common (⭐1)](https://github.com/eriksencosta/math-common) - Mathematical conventions to reduce boilerplate code
-*   [eriksencosta/math-percentage (⭐1)](https://github.com/eriksencosta/math-percentage) - Percentage calculations made easy
+*   [eriksencosta/math-percentage (⭐2)](https://github.com/eriksencosta/math-percentage) - Percentage calculations made easy
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [respawn-app/FlowMVI (⭐187)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
+*   [respawn-app/FlowMVI (⭐221)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐168k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
+*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
 *   [touchplus (⭐1)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -62,4 +62,5 @@
 
 ---
 
+- Prev: [Apr 08, 2024](/content/2024/04/08/README.md)
 - Next: [Apr 06, 2024](/content/2024/04/06/README.md)

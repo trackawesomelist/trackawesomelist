@@ -14,7 +14,7 @@
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐371)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐373)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -29,11 +29,11 @@
 ### Web Development
 
 *   **Frameworks**:
-    *   [Opium (⭐747)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+    *   [Opium (⭐748)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
     *   [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
     *   [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
     *   [webmachine (⭐224)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    *   [incr\_dom (⭐369)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
+    *   [incr\_dom (⭐371)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
     *   [fmlib\_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
     *   [ocaml-vdom (⭐192)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
@@ -114,7 +114,7 @@
 
 ### Integrations
 
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐75)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐77)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Ask these people anything!
 
-*   [Erdal TAŞKESEN (⭐4)](https://github.com/erdaltsksn/ama) - All in one developer.
+*   [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 

@@ -34,7 +34,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Pharos (⭐1.3k)](https://github.com/cmu-sei/pharos) - The Pharos binary analysis framework
+*   [Pharos (⭐1.5k)](https://github.com/cmu-sei/pharos) - The Pharos binary analysis framework
     can be used to perform automated static analysis of binaries.
 
 ## [3. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
@@ -221,7 +221,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐991)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐988)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

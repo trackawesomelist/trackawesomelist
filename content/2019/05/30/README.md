@@ -22,7 +22,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [static-GTFS-manager (⭐141)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
+*   [static-GTFS-manager (⭐144)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -46,21 +46,21 @@
 
 ### CSV
 
-*   [Fast C++ CSV Parser (⭐2k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
+*   [Fast C++ CSV Parser (⭐2.1k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
 
 ### JSON
 
-*   [taoJSON (⭐571)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐573)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [linalg.h (⭐822)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [linalg.h (⭐832)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React General Resources
 
-*   [React GitHub (⭐218k)](https://github.com/facebook/react)
+*   [React GitHub (⭐221k)](https://github.com/facebook/react)
 
 ### React Tutorials
 
@@ -68,7 +68,7 @@
 
 ### React Native General Resources
 
-*   [React Native GitHub (⭐114k)](https://github.com/facebook/react-native)
+*   [React Native GitHub (⭐115k)](https://github.com/facebook/react-native)
 
 ## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -80,24 +80,24 @@
 
 ### Open Source / Other
 
-*   [Motrix (⭐42k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐43k)](https://github.com/agalwood/Motrix) - Download manager.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
 *   [Scala (⭐8.9k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐242)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+    *   [Scala Native (⭐244)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 
-*   [Quantum Computing (⭐2.3k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+*   [Quantum Computing (⭐2.4k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Job queues
 
-*   [sqs-consumer (⭐1.6k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
+*   [sqs-consumer (⭐1.7k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
 ---
 

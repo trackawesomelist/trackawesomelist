@@ -86,7 +86,7 @@
 
 ### Endpoint / Forensics
 
-*   [ir-rescue (⭐441)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐447)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

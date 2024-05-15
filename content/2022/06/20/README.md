@@ -10,7 +10,7 @@
 
 ### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.8k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐9k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -41,11 +41,11 @@
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐647)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
+    *   [deltaphc/raylib-rs (⭐679)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐196)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
+*   [rbatis/fast\_log (⭐208)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
@@ -80,7 +80,7 @@
 
 ### Examples
 
-*   [NASA/ogma (⭐310)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
+*   [NASA/ogma (⭐317)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 
 ---
 

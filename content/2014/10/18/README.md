@@ -29,14 +29,14 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐356)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [fsm (⭐358)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 *   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
-*   [trie (⭐130)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
+*   [trie (⭐132)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ### Authentication
 
-*   [oauther (⭐65)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐66)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
@@ -48,7 +48,7 @@
 
 *   [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 *   [nodefinder (⭐60)](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
-*   [sidejob (⭐103)](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
+*   [sidejob (⭐104)](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 
 ### Configuration
 
@@ -56,11 +56,11 @@
 
 ### Date and Time
 
-*   [moment (⭐29)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+*   [moment (⭐30)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ### Debugging
 
-*   [dbg (⭐162)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
+*   [dbg (⭐161)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
 ### Framework Components
 
@@ -69,17 +69,17 @@
 
 ### Images
 
-*   [mogrify (⭐551)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐553)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
-*   [address\_us (⭐27)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
+*   [address\_us (⭐29)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
 *   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 *   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
 
-*   [exleveldb (⭐43)](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
+*   [exleveldb (⭐44)](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 *   [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 
 ### Protocols
@@ -88,25 +88,25 @@
 
 ### Queue
 
-*   [pqueue (⭐169)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
+*   [pqueue (⭐170)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 
 ### Statistics
 
-*   [statistics (⭐136)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐138)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Text and Numbers
 
 *   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐42)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐213)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [quickrand (⭐41)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [uuid\_erl (⭐216)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
-*   [ex\_statsd (⭐95)](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
+*   [ex\_statsd (⭐96)](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 *   [forecast\_io (⭐8)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 *   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐193)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [mailgun (⭐194)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 *   [parsex (⭐2)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML

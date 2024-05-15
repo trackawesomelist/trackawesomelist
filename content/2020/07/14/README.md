@@ -48,13 +48,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-ics (⭐14)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
+*   [vue-ics (⭐16)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Logging / Third-party APIs
 
-*   ⭐ [log4cl (⭐78)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
+*   ⭐ [log4cl (⭐81)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -93,7 +93,7 @@
 
 ### Libraries / Molecular Descriptors
 
-*   [DescriptaStorus (⭐149)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
+*   [DescriptaStorus (⭐201)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
 
 ### Libraries / Docking
 

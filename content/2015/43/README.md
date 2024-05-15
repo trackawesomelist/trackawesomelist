@@ -79,7 +79,7 @@
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐480)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐486)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ### Office
 
@@ -146,7 +146,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Pompem (⭐928)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+*   [Pompem (⭐953)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
 
 ### Network / Monitoring / Logging
 
@@ -184,7 +184,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Linux Containers (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
+*   [Awesome Linux Containers (⭐1.7k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
@@ -240,8 +240,8 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Ask these people anything!
 
-*   [Zeno Rocha (⭐71)](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
-*   [Kahlil Lechelt (⭐0)](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
+*   [Zeno Rocha (⭐71)](https://github.com/zenorocha/ama) - Developer Advocate at Liferay.
+*   [Kahlil Lechelt (⭐0)](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the Descriptive Podcast and the Reactive Podcast, vocalist.
 
 ## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -293,11 +293,11 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐891)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐894)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐205)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐204)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -311,7 +311,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐206k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐207k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -320,13 +320,13 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐206k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐207k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
-*   [good\_times (⭐47)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
+*   [good\_times (⭐46)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 
 ### Examples and funny stuff
 
@@ -334,11 +334,11 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### JSON
 
-*   [jose (⭐296)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐303)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 
-*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐158)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐159)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
 ## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -423,14 +423,13 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
-*   [@teropa](https://twitter.com/teropa)
 *   [@eggheadio](https://twitter.com/eggheadio)
 *   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 

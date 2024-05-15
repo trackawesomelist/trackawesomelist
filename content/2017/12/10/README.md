@@ -80,13 +80,13 @@
 
 ### Web Framework
 
-*   [Compojure (⭐4k)](https://github.com/weavejester/compojure)
+*   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure)
 
 ## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 
-*   [Effective Tensorflow (⭐8.7k)](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
+*   [Effective Tensorflow (⭐8.6k)](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 
 ---
 

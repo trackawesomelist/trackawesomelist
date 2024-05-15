@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐809)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐811)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -20,11 +20,11 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐82)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐84)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
-*   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+*   [puppet-mongodb (⭐93)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐3.1k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐3.3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ---
 

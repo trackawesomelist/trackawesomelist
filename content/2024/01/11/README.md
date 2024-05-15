@@ -54,13 +54,13 @@
 
 ### Software / Make your life easier
 
-*   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Hybris (⭐20)](https://github.com/eminyagiz42/awesome-hybris)
+*   [Awesome Hybris (⭐24)](https://github.com/eminyagiz42/awesome-hybris)
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

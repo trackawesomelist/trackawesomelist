@@ -30,8 +30,8 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐69k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐39k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Apps (⭐72k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐40k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -40,7 +40,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐303)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐309)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [6. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
@@ -62,11 +62,11 @@ Rename Index.txt to Index.html
 ### USB / Capture tools
 
 *   [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - a subsystem of Linux kernel to capture usb packets.
-*   [USBPcap (⭐798)](https://github.com/desowin/usbpcap) - a solution for Windows.
+*   [USBPcap (⭐871)](https://github.com/desowin/usbpcap) - a solution for Windows.
 
 ### USB / Analysis
 
-*   [USBPcapOdinDumper (⭐6)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
+*   [USBPcapOdinDumper (⭐8)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
 
 ## [8. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -76,7 +76,7 @@ Rename Index.txt to Index.html
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Nir kaufman](https://twitter.com/nirkaufman)
 
@@ -117,7 +117,7 @@ Rename Index.txt to Index.html
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-progress-bar (⭐17)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+*   [cl-progress-bar (⭐18)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
@@ -192,35 +192,34 @@ Rename Index.txt to Index.html
 
 ### UI
 
-*   [Stepper Touch (⭐286)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐296)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐293)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐303)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐831)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-*   [AppAvailability (⭐89)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Downloader (⭐887)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [AppAvailability (⭐91)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐227)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐292)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [QR Code Reader (⭐234)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [Fast QR Reader View (⭐293)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Blue (⭐2.2k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
-*   [Beacons (⭐76)](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
+*   [Blue (⭐2.3k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+*   [Beacons (⭐78)](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Sqflite (⭐2.7k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+*   [Sqflite (⭐2.8k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 
 ### Services / Bluetooth / NFC / Beacon
 
 *   [Place Dialog (⭐44)](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
-*   [App Rating (⭐37)](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
 ### Communication / Game Engine resources
 
@@ -525,7 +524,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐33)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐34)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -678,7 +677,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐43)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ### Unofficial
 
@@ -719,11 +718,11 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐410)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐414)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐797)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐798)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [52. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 

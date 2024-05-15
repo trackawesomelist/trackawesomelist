@@ -8,7 +8,7 @@
 
 ## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Nishu Goel](https://twitter.com/TheNishuGoel)
 
@@ -45,7 +45,13 @@
 *   [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 *   [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-react-proste (⭐15)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+
+## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -67,13 +73,6 @@
 ### Overview / Telegram
 
 *   [Telegram-FOSS (⭐2.2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
-
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / React
-
-*   [vite-ant-design-pro (⭐97)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
-*   [vite-react-proste (⭐13)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 

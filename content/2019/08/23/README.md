@@ -40,7 +40,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐54k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐56k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Date and Time
 
-*   [timewords (⭐28)](https://github.com/tokenmill/timewords)
+*   [timewords (⭐29)](https://github.com/tokenmill/timewords)
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Tools / Web
 
-*   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
+*   [Mongoku (⭐1.3k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐943)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐944)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 

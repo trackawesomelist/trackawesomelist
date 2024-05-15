@@ -376,7 +376,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [iocextract (⭐367)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
+*   [iocextract (⭐487)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
     of Compromise (IOC) extractor, Python library and command-line tool.
 
 ## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
@@ -399,23 +399,23 @@
 
 ### Multi Database
 
-*   [Shallows (⭐623)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
-*   [StorageManager (⭐48)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
+*   [StorageManager (⭐50)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
 
 ### Images / Barcode
 
-*   [ImageScout (⭐977)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐976)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐286)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐288)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
-*   [PredicateFlow (⭐102)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
+*   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
 
 ### UI / Barcode
 
@@ -427,13 +427,13 @@
 
 ### Button / Barcode
 
-*   [PMSuperButton (⭐722)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
+*   [PMSuperButton (⭐723)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 
 ## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐3.8k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐4.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -450,7 +450,7 @@
 
 ### Ask these people anything!
 
-*   [Krzysztof Cieslak (⭐7)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker.
+*   [Krzysztof Cieslak (⭐8)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of Lambda Factory, author of Ionide, Forge, Fornax, project owner and maintainer of VSCode-Elm, contributor to many OSS projects, international speaker.
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -548,7 +548,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐643)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐662)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -701,7 +701,7 @@
 
 *   [AC Transit RestroomFinder (⭐1)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 *   [AC Transit Training and Education Department (TED) application (⭐8)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
-*   [AC Transit Customer Relations application (CusRel) (⭐7)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
+*   [AC Transit Customer Relations application (CusRel) (⭐8)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
 *   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐15)](https://github.com/camsys/transam_core).
 
 ## [29. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
@@ -775,7 +775,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomidorus (⭐179)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
+*   [Pomidorus (⭐180)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
 ## [38. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
@@ -1039,7 +1039,7 @@
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 *   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐385)](https://github.com/ssbc/patchbay).
 *   [PeerTube (⭐12k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
-*   [Syncthing-GTK (⭐1.2k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
+*   [Syncthing-GTK (⭐1.3k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
 ## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 

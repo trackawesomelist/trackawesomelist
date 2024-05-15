@@ -16,7 +16,7 @@
 
 ### Open Source / Other
 
-*   [MarkRight (⭐915)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐914)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

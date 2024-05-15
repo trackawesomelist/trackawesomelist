@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,25 +34,19 @@
 
 *   [Overview of Cryptocurrencies (⭐399)](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
-
-## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [5. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Samsung Tizen / Official resources
 
 *   [Samsung Smart TV Bug Bounty](https://samsungtvbounty.com) - If you find bug in Samsung TV, submit it here and get a reward $1000+.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Interactive / Other
 

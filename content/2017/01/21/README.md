@@ -10,13 +10,13 @@
 
 ### Models/Projects
 
-*   [Domain Transfer Network (⭐864)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
+*   [Domain Transfer Network (⭐862)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Inspiration / Other
 
-*   [People You Should Follow on CodePen (⭐676)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐678)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -54,7 +54,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐991)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐1k)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

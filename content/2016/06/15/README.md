@@ -59,7 +59,7 @@
 
 ### Algorithms and Data structures
 
-*   [edits.cr (⭐17)](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+*   [edits.cr (⭐16)](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
 
 ---
 

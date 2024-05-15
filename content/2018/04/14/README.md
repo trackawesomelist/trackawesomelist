@@ -24,15 +24,15 @@
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Zarp (⭐1.4k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
-*   [dnstwist (⭐4.3k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
+*   [dnstwist (⭐4.5k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [Netzob (⭐741)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
+*   [Netzob (⭐747)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [Morpheus (⭐823)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
+*   [Morpheus (⭐829)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
 *   [SSH MITM (⭐1.6k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
 
 ## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐287)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐293)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

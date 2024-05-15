@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [Tutorials](https://lit.dev/tutorials/)
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / React
-
-*   [VRTTV (⭐42)](https://github.com/Drumpy/vrttv-boilerplate) - React + TypeScript + TailwindCSS + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + GitHub Actions + Vercel Deploy.
-
-## [4. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [3. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Open source projects using TypeDB
 
@@ -40,28 +34,28 @@
 *   [Introduction to TypeDB and TypeQL](https://www.youtube.com/watch?v=e0lmTSb-rzY)
 *   [Building a Distributed Database With the Raft Replication Algorithm](https://www.youtube.com/watch?v=oS42lN4qSJ4)
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Social Platform APIs
 
-*   [grammY (⭐1.6k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
-*   [grm (⭐45)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
+*   [grammY (⭐1.8k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+*   [grm (⭐46)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 *   [twi (⭐11)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
-## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2020
 
 *   [Black-Box Ripper: Copying black-box models using generative evolutionary algorithms](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) - (NeurIPS) *Replicates the functionality of a black-box neural model, yet with no limit on the amount of queries (via a teacher/student scheme and an evolutionary search).*
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [katalon.com](https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free), TestCloud, and Katalon Recorder.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Princeton / Commonsense Knowledgebase
 

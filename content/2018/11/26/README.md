@@ -166,7 +166,7 @@
 
 ### Editor Plugins
 
-*   [vim-iced (Vim) (⭐505)](https://github.com/liquidz/vim-iced)
+*   [vim-iced (Vim) (⭐511)](https://github.com/liquidz/vim-iced)
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -186,7 +186,7 @@
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
-*   [OWASP ZAP Node API (⭐38)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
+*   [OWASP ZAP Node API (⭐44)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

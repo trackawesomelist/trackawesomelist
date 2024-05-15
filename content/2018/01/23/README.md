@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [burnex (⭐66)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐70)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Web Frameworks
 
-*   [Giraffe (⭐2k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+*   [Giraffe (⭐2.1k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.6k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.7k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [10. Awesome Devenv](/content/jondot/awesome-devenv/README.md)

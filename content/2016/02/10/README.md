@@ -40,7 +40,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [potiron (⭐77)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
+*   [potiron (⭐81)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 

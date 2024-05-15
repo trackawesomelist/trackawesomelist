@@ -21,7 +21,7 @@
 ### Ask these people anything!
 
 *   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
-*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
+*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
 
 ## [3. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 

@@ -11,27 +11,27 @@
 ### Libraries
 
 *   2D
-    *   [imgui (⭐50k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. \[MIT]
-    *   [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend (⭐7.8k)](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library (⭐7.8k)](https://github.com/google/skia/tree/master/tools/viewer). \[BSD 3-clause] [website](https://skia.org)
-    *   [VKVG (⭐681)](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
+    *   [imgui (⭐54k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. \[MIT]
+    *   [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend (⭐8.4k)](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library (⭐8.4k)](https://github.com/google/skia/tree/master/tools/viewer). \[BSD 3-clause] [website](https://skia.org)
+    *   [VKVG (⭐720)](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 *   Compute
     *   [libvc (⭐129)](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  \[[LICENSE (⭐129)](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
-    *   [Vulkan Kompute (⭐1.2k)](https://github.com/axsaucedo/vulkan-kompute) - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. \[Apache License 2.0]
-    *   [ncnn (⭐18k)](https://github.com/Tencent/ncnn) - High-performance neural network inference framework with Vulkan based GPU inference. \[BSD 3-clause]
-    *   [vuh (⭐327)](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. \[MIT]
-    *   [VkFFT (⭐1.3k)](https://github.com/DTolm/VkFFT) - Efficient Vulkan FFT library \[MPL-2.0 License]
+    *   [Vulkan Kompute (⭐1.4k)](https://github.com/axsaucedo/vulkan-kompute) - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. \[Apache License 2.0]
+    *   [ncnn (⭐19k)](https://github.com/Tencent/ncnn) - High-performance neural network inference framework with Vulkan based GPU inference. \[BSD 3-clause]
+    *   [vuh (⭐334)](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. \[MIT]
+    *   [VkFFT (⭐1.4k)](https://github.com/DTolm/VkFFT) - Efficient Vulkan FFT library \[MPL-2.0 License]
 *   Raytracing
-    *   [Quartz (⭐429)](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. \[LGPL-3.0]
+    *   [Quartz (⭐425)](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. \[LGPL-3.0]
 *   Scientific
-    *   [datoviz (⭐464)](https://github.com/datoviz/datoviz) - High-performance GPU interactive scientific data visualization with Vulkan. \[MIT]
+    *   [datoviz (⭐490)](https://github.com/datoviz/datoviz) - High-performance GPU interactive scientific data visualization with Vulkan. \[MIT]
     *   [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. \[Apache License 2.0]
 *   Shaders
-    *   [glslang (⭐2.6k)](https://github.com/KhronosGroup/glslang) - Library for compiling glsl to spirv \[BSD 3-Clause]
-    *   [SPIRV-Cross (⭐1.7k)](https://github.com/KhronosGroup/SPIRV-Cross) - Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts \[ Apache-2.0 License]
+    *   [glslang (⭐2.8k)](https://github.com/KhronosGroup/glslang) - Library for compiling glsl to spirv \[BSD 3-Clause]
+    *   [SPIRV-Cross (⭐1.9k)](https://github.com/KhronosGroup/SPIRV-Cross) - Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts \[ Apache-2.0 License]
 
 ### Bindings
 
-*   [VK² (⭐113)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
+*   [VK² (⭐120)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
 
 ## [2. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 
@@ -57,7 +57,7 @@
 ### Utilities / Apache License
 
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
-*   [ux-strings (⭐10)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
+*   [ux-strings (⭐11)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -93,7 +93,7 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorTypewriter (⭐16)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐18)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -128,11 +128,11 @@
 *   [edtr-io (⭐706)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 *   [remirror (⭐2.6k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
 *   [slate (⭐29k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
-*   [smartblock (⭐302)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+*   [smartblock (⭐305)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 ### Meta Tags / Mouse Events
 
-*   [react-helmet-async (⭐1.9k)](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
+*   [react-helmet-async (⭐2k)](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
 
 ## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

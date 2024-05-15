@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,41 +13,56 @@
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
-## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
+*   [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
+
+### Search Engines
+
+*   [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
+
+### Theoretical Computer Science
+
+*   [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - Stefan Hugtenburgand, Neil Yorke-Smith @ TU Delft Open (PDF)
+
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [4. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Programming
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Deployment Hosting
 
 *   [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
 
-## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐61)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐65)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
-*   [gdx-jnigen (⭐42)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+*   [gdx-jnigen (⭐55)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -73,13 +88,13 @@
 | ------: | -------: | ---: |
 |       2 |       7+ |  30m |
 
-## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [9. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [Publish-AppImage for .NET (⭐21)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
-## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -89,7 +104,7 @@
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐40)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐41)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Workato
 
@@ -109,53 +124,53 @@
 
 *   [The Connector](https://www.workato.com/the-connector/) - Workato blog on Business Automation.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-color-input (⭐21)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Algebra Tactics (⭐28)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
+*   [Algebra Tactics (⭐29)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
 
 ### Projects / Verified Software
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Asynchronous
 
 *   [async-std](https://async.rs/) \[[async-std](https://crates.io/crates/async-std)] - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [13. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
+## [14. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
 ### Resources / Books
 
 *   [The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐275)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐19k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
 
-## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -211,11 +226,13 @@
 
   CORS: Yes
 
+  Postman: 
+
 
 
 ### Cryptocurrency
 
-- API: [Ethplorer (⭐802)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
+- API: [Ethplorer (⭐817)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
 
   Description: Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures
 
@@ -302,6 +319,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 

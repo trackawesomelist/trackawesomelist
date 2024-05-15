@@ -46,7 +46,7 @@
 
 ### Premium / Game Engine resources
 
-*   [History Of Everything (⭐6.3k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+*   [History Of Everything (⭐6.4k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
 ## [7. Awesome C](/content/inputsh/awesome-c/README.md)
 

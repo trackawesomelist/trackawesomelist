@@ -58,7 +58,7 @@
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐177)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐184)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -102,30 +102,30 @@
 
 ### Visualization / Interactive plots
 
-*   [Bokeh (⭐18k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+*   [Bokeh (⭐19k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
-*   [bqplot (⭐3.5k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
+*   [bqplot (⭐3.6k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 
 ### Visualization / Automatic Plotting
 
-*   [HoloViews (⭐2.5k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐1.5k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
-*   [SweetViz (⭐2.6k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+*   [HoloViews (⭐2.6k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+*   [AutoViz (⭐1.6k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [SweetViz (⭐2.8k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
 
-*   [pyLDAvis (⭐1.7k)](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
+*   [pyLDAvis (⭐1.8k)](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
 ### Data Manipulation / Data Frames
 
-*   [pandas\_profiling (⭐11k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐12k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Web Scraping / Synthetic Data
 
 *   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
 *   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
-*   [twitterscraper (⭐2.3k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
+*   [twitterscraper (⭐2.4k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

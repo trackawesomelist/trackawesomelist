@@ -58,11 +58,11 @@
 
 ### Articles / Why Elm?
 
-*   [FP with games in Elm (⭐1.5k)](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
+*   [FP with games in Elm (⭐1.6k)](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 
 ### Package managers / Individual Podcast episodes
 
-*   [elm-package (⭐216)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+*   [elm-package (⭐213)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 ### More awesome / Games
 

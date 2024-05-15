@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐60k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐181k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
+*   [keras (⭐61k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐182k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.9k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Traffic Capture
 
-*   [Netis Packet Agent (⭐929)](https://github.com/Netis/packet-agent): It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
+*   [Netis Packet Agent (⭐947)](https://github.com/Netis/packet-agent): It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

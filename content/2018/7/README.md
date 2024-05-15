@@ -89,13 +89,13 @@
 
 ### Music Notation
 
-*   [Tbon (⭐13)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+*   [Tbon (⭐14)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 
 ### Related lists
 
-*   [Awesome Audio Visualization (⭐4.4k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+*   [Awesome Audio Visualization (⭐4.5k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Python for Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐1k)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐1.1k)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -136,11 +136,11 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐50)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐96)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐97)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Syntax themes by Geequlim (⭐52)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
+*   [Syntax themes by Geequlim (⭐54)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -169,16 +169,16 @@
 
 ## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Manfred Steyer](https://twitter.com/manfredsteyer)
 *   [Juri Strumpflohner](https://twitter.com/juristr)
 
-### Books / Components
+### Books / Testing
 
-*   [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
+*   [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`
 
-### On-Site Training / Components
+### On-Site Training / Testing
 
 *   [Angular.Schule (in Germany)](https://angular.schule/)
 
@@ -204,7 +204,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐315)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐318)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -245,11 +245,11 @@
 
 ### Feeds
 
-*   [atomex (⭐47)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐52)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐140)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐142)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### CLI
 
-*   [replxx (⭐662)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐667)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ### Static Code Analysis
 
@@ -286,7 +286,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XMR Miner (⭐500)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
+*   [XMR Miner (⭐501)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 *   [XMR Paper (⭐7)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 *   [JoyProxy (⭐12)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 *   [activity-automation (⭐4)](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
@@ -330,8 +330,8 @@
 
 ### Miscellaneous
 
-*   [cl-svg (⭐38)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐215)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [cl-svg (⭐39)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Varjo (⭐218)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

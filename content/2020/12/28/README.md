@@ -46,14 +46,14 @@
 
 ### Libraries / New Libraries
 
-*   [jax-flows (⭐252)](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
-*   [sklearn-jax-kernels (⭐41)](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-*   [efax (⭐46)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
+*   [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
+*   [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
+*   [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 ### Models and Projects / JAX
 
-*   [kalman-jax (⭐88)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
-*   [jaxns (⭐110)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
+*   [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
+*   [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-copy-to-clipboard (⭐12)](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
+*   [vue-copy-to-clipboard (⭐13)](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 
 ## [7. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -101,11 +101,11 @@
 
 *   [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
 *   [awesome-3d-engines-for-plotters (⭐76)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 

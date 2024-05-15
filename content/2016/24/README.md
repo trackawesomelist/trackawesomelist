@@ -221,7 +221,7 @@
 
 ### Algorithms and Data structures
 
-*   [edits.cr (⭐17)](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+*   [edits.cr (⭐16)](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
 
 ### Third-party APIs
 
@@ -256,9 +256,9 @@
 
 ### For Electron / Other
 
-*   [fix-path (⭐269)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐529)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
-*   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
+*   [fix-path (⭐271)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐546)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [electron-context-menu (⭐1.4k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Components / Other
 

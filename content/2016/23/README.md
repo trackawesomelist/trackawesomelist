@@ -29,7 +29,7 @@
 
 ### UI / Barcode
 
-*   [LeeGo (⭐968)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐967)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -59,7 +59,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐244)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐248)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [8. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐439)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐440)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -142,12 +142,12 @@
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐101)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐6.1k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐6.2k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐9.4k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐9.6k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
@@ -155,12 +155,12 @@
 
 ### Web Application Framework
 
-*   [TreeFrog Framework (⭐1.2k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
+*   [TreeFrog Framework (⭐1.3k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
 
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.4k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [18. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Images
 
-*   [cloudex (⭐100)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐101)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [20. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐454)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐453)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -485,7 +485,7 @@
 
 ### Videos
 
-*   [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code (⭐637)](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
+*   [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code (⭐633)](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 
 ## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 

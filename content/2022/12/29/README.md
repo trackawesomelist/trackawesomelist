@@ -10,7 +10,7 @@
 
 ### Geographic
 
-*   [H3 (⭐269)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐283)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -39,13 +39,13 @@
 
 ### Project / Diagnostics
 
-*   [natecraddock/workspaces.nvim (⭐240)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐270)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [pspsdk (⭐788)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐810)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
@@ -60,11 +60,11 @@
 
 ### Integration / Community
 
-*   [Nuxt Directus (⭐228)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
+*   [Nuxt Directus (⭐236)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 
 ### Extensions / Community
 
-*   [Directus LogSnag (⭐21)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
+*   [Directus LogSnag (⭐23)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
 
 ### Articles / Educational
 

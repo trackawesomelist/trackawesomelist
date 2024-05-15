@@ -29,7 +29,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐243)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐255)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -47,7 +47,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐198)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐215)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Open Data
 
-- API: [Lowy Asia Power Index (⭐3)](https://github.com/0x0is1/lowy-index-api-docs)
+- API: [Lowy Asia Power Index (⭐4)](https://github.com/0x0is1/lowy-index-api-docs)
 
   Description: Get measure resources and influence to rank the relative power of states in Asia
 
@@ -87,7 +87,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐367)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐417)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Git Tools
 
-*   [Husky.Net (⭐555)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐593)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ## [15. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

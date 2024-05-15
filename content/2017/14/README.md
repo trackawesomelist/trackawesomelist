@@ -27,7 +27,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Binwalk (⭐8.6k)](https://github.com/devttys0/binwalk) - Firmware analysis tool.
+*   [Binwalk (⭐10k)](https://github.com/devttys0/binwalk) - Firmware analysis tool.
 *   [LIEF](https://lief.quarkslab.com/) - LIEF provides a cross-platform library
     to parse, modify and abstract ELF, PE and MachO formats.
 
@@ -41,7 +41,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 
@@ -69,7 +69,7 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐348)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐502)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐351)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐530)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
@@ -141,7 +141,7 @@ Free
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐29)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐30)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
 
@@ -187,22 +187,18 @@ git checkout master@{yesterday}
 
 ## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
-### Table of Contents / Micro Frameworks
-
-*   [Radar (⭐53)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
-
 ### Table of Contents / Routers
 
 *   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐346)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐347)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐548)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Spot2 (⭐602)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+*   [Aura.Sql (⭐549)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
@@ -210,7 +206,7 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐131)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐132)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 
@@ -394,14 +390,10 @@ $ git config --global merge.tool meld
 
 ## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@victorsavkin](https://twitter.com/victorsavkin)
 *   [@jeffbcross](https://twitter.com/jeffbcross)
-
-### Material Design
-
-*   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
 ## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -415,7 +407,7 @@ $ git config --global merge.tool meld
 
 ### Utilities
 
-*   [mnemonix (⭐38)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐39)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -451,7 +443,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐778)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## [38. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 

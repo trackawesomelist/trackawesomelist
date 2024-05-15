@@ -1,24 +1,18 @@
 # Awesome List Updates on Mar 22, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Experts on Twitter
-
-*   [@amcdnl](https://twitter.com/amcdnl)
-
-## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [1. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Presentations / Videos
 
 *   [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_34)
 
-## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [2. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Promise
 
@@ -29,19 +23,19 @@
 
 *   [is-generator (⭐15)](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐182)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐185)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
-## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
-## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [5. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Community
 
@@ -51,13 +45,13 @@
 *   [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 *   [GitHub Issues (⭐47k)](https://github.com/ReactiveX/RxJava/issues)
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
 *   [github\_ecto (⭐120)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / D individuals
 

@@ -10,7 +10,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Cucumber (⭐40)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+*   [Awesome Cucumber (⭐41)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐55k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐56k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
@@ -75,7 +75,7 @@
 
 ### Atom, Pulsar / Third-party APIs
 
-*   [SLIMA (⭐65)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 
@@ -89,11 +89,11 @@
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐436)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐440)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐223)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐224)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,13 +37,7 @@
 *   [Github Action](https://github.com/features/actions) - Windows/macOS/Linux. GitHub Actions makes it easy to automate all your software workflows.
 *   [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Windows/macOS/Linux. GitLab CI/CD is a tool built into GitLab for software development.
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Apps/Websites / Community
-
-*   [npmview (⭐123)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
-
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
@@ -52,17 +46,17 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐26k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐27k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.6k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 *   [Determined (⭐2.8k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
-## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
 *   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / More
 
@@ -73,7 +67,7 @@
 *   [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
 *   [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -114,7 +108,7 @@
 
 *   [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE-related Posts from [dev.to](https://dev.to).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
@@ -127,13 +121,13 @@
 
 *   [Tweek](https://tweek.so/) — Simple Weekly To-Do Calendar & Task Management.
 
-## [11. Awesome Splunk](/content/sduff/awesome-splunk/README.md)
+## [10. Awesome Splunk](/content/sduff/awesome-splunk/README.md)
 
 ### Apps
 
 *   [Miscellaneous Scripts for fixing issues with the Universal Forwarder (⭐23)](https://github.com/jimmyatSplunk/SplunkForwarderRepairKit) - This kit was compiled based on common issues with Splunk deployments and managing idiosyncrasies that tend to naturally occur.
 
-## [12. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [11. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### TensorFlow Lite models / Other
 
@@ -159,7 +153,7 @@
 *   [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190) - Udacity course by Daniel Situnayake (@dansitu), Paige Bailey ([@DynamicWebPaige](https://twitter.com/DynamicWebPaige)), and Juan Delgado.
 *   [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow) - Coursera course by Laurence Moroney ([@lmoroney](https://twitter.com/lmoroney)).
 
-## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 

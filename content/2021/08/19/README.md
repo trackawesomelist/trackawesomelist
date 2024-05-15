@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,8 +32,8 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐910)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Require Checker (⭐834)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐916)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Require Checker (⭐843)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
@@ -42,11 +42,11 @@
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Metrics (⭐314)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [Metrics (⭐315)](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 ### Table of Contents / Build Tools
 
-*   [RMT (⭐451)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐450)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Table of Contents / Geolocation
 
@@ -54,7 +54,7 @@
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐566)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐572)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -66,10 +66,10 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐324)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐265)](https://github.com/spatie/shiki-php) - A [Shiki (⭐7.2k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐559)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐329)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐268)](https://github.com/spatie/shiki-php) - A [Shiki (⭐8.4k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐564)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -77,12 +77,12 @@
 
 ### Table of Contents / Numbers
 
-*   [IP (⭐245)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [IP (⭐244)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
 *   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐916)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐920)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -168,24 +168,18 @@
 
 *   [tabnine (⭐34)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Productivity / Note Taking and Lists
-
-*   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
-
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
 *   [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
 
-## [10. Awesome Math](/content/rossant/awesome-math/README.md)
+## [9. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Algebraic Geometry
 
-*   [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
+*   📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 
 ---
 

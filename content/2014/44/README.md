@@ -20,7 +20,7 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐35k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐37k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
@@ -95,11 +95,11 @@
 
 ### Database Drivers
 
-*   [SQLite3 (⭐721)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐728)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### Date and Time Processing
 
-*   [ByStar (⭐1k)](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
+*   [ByStar (⭐1.1k)](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 
 ### Machine Learning
 
@@ -107,20 +107,20 @@
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐54k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord (⭐55k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Scientific
 
 *   Numerical arrays
     *   [NMatrix (⭐471)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐398)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [Numo::NArray (⭐404)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐992)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐820)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+*   [SciRuby (⭐993)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐822)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
     *   [statsample (⭐95)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐22)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
-    *   [distribution (⭐48)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
+    *   [distribution (⭐49)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
     *   [minimization (⭐16)](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
 *   Specific
     *   [BioRuby (⭐375)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.

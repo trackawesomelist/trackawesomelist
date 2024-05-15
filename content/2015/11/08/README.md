@@ -16,13 +16,13 @@
 
 ### Ask these people anything!
 
-*   [Raymond Clanan (⭐0)](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
+*   [Raymond Clanan (⭐0)](https://github.com/rclanan/ama) - Freelance full stack developer at Utopian Concept LLC.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐924)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

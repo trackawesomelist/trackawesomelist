@@ -16,7 +16,7 @@
 
 ### Messaging / Scala
 
-*   [Malamute (⭐312)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+*   [Malamute (⭐314)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -33,7 +33,7 @@
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Raúl Jiménez](https://twitter.com/elecash/)
 

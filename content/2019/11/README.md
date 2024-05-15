@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18 - Mar 24, 2019
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -74,7 +74,7 @@ Free
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐946)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐983)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -129,7 +129,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐47)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐48)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -279,12 +279,12 @@ Free
 
 ### Supported Distributions / Pengwin
 
-*   [Pengwin GitHub (⭐1.4k)](https://github.com/WhitewaterFoundry/Pengwin) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Pengwin GitHub (⭐1.5k)](https://github.com/WhitewaterFoundry/Pengwin) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   Because Pengwin is based on Debian, most Debian and Ubuntu documentation also applies to Pengwin.
 
 ### Supported Distributions / Pengwin Enterprise
 
-*   [Pengwin Enterprise GitHub (⭐63)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Pengwin Enterprise GitHub (⭐65)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Unofficial Distributions / AlmaLinux OS
 
@@ -294,11 +294,11 @@ Free
 
 ### Entertainment / Social Media
 
-*   [irssi (⭐2.7k)](https://github.com/irssi/irssi) - IRC chat client.
+*   [irssi (⭐2.8k)](https://github.com/irssi/irssi) - IRC chat client.
 
 ### Development / Release
 
-*   [clog (⭐818)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐834)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -312,11 +312,11 @@ Free
 
 ### Projects Using Vue.js / Open Source
 
-*   [FireX Proxy (⭐95)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
+*   [FireX Proxy (⭐94)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐574)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐619)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
@@ -327,7 +327,7 @@ Free
 
 ### Ask these people anything!
 
-*   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
+*   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, blogger, trainer, speaker, and a conference organizer.
 
 ## [21. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -415,7 +415,7 @@ Free
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor/) - Build
+*   [ThreatIngestor (⭐788)](https://github.com/InQuest/ThreatIngestor/) - Build
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 
@@ -453,28 +453,28 @@ Free
 
 ### API
 
-*   [Ocelot (⭐8k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ### Interoperability
 
-*   [Pyrolite (⭐175)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+*   [Pyrolite (⭐177)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
     the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ### Scheduling
 
-*   [Workflow Core (⭐5k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐5.1k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐699)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐719)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
-*   [Qiskit Tutorials (⭐2.2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+*   [Qiskit Tutorials (⭐2.3k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 
 ### Community
 
@@ -494,9 +494,9 @@ Free
 
 ### Plugins / Practices and Specific ES Features
 
-*   [array-func (⭐91)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
+*   [array-func (⭐90)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
 *   [arrow functions (⭐304)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
-*   [no-loops (⭐124)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
+*   [no-loops (⭐123)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -518,13 +518,13 @@ Free
 ### Networking
 
 *   [Restinio (⭐1.1k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
-*   [cpp-netlib/uri (⭐135)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [cpp-netlib/uri (⭐136)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
 *   [restclient-cpp (⭐1.5k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-*   [uriparser (⭐304)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐312)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ### Build Systems
 
-*   [Vcpkg (⭐21k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐22k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ### Podcasts
 
@@ -538,7 +538,7 @@ Free
 
 ### General Purpose Computing / Apache License
 
-*   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
+*   [boehmgc-ada (⭐6)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
 ## [36. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -579,7 +579,7 @@ Free
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐3.6k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐4.3k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ### VSCode / Game Engine resources
 
@@ -591,35 +591,13 @@ Free
 
 *   [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
 
-## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
-
-### C++
-
-*   [C/C++ Primer (⭐279)](https://github.com/andycai/cprimer) - andycai
-
-### Java
-
-*   [Spring Boot参考指南 (⭐4.5k)](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
-
-### JavaScript
-
-*   [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
-
-### Python / Django
-
-*   [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
-
-## [44. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [43. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### People / Twitter
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
-## [45. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -629,7 +607,7 @@ Free
 
 *   [Pi Audio Monitor (⭐127)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
-## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [45. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -640,7 +618,7 @@ Free
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)
 
-## [47. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [46. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -648,7 +626,7 @@ Free
 *   [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 *   [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 
-## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 

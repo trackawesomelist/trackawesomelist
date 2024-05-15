@@ -26,7 +26,7 @@
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐45)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐46)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐128)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+*   [Sindre Sorhus (⭐136)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ---
 

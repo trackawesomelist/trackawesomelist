@@ -32,7 +32,7 @@
 
 ### Miscellaneous
 
-*   [Countries (⭐142)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+*   [Countries (⭐143)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 
 ---
 

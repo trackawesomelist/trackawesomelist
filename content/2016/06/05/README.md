@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [Snappy.Sharp (⭐136)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+*   [Snappy.Sharp (⭐139)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## [2. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -62,7 +62,7 @@
 ### Label / Barcode
 
 *   [ActiveLabel (⭐4.4k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
-*   [CountdownLabel (⭐963)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+*   [CountdownLabel (⭐978)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 *   [GlitchLabel (⭐1k)](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
 *   [KDEDateLabel (⭐114)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 
@@ -86,15 +86,10 @@
 
 ## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
-### Malware Collection / Malware Corpora
-
-*   [Open Malware Project](http://openmalware.org/) - Sample information and
-    downloads. Formerly Offensive Computing.
-
 ### Other / Other Resources
 
-*   [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
-*   [Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence)
+*   [Industrial Control System Security (⭐1.5k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+*   [Threat Intelligence (⭐7.3k)](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

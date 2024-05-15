@@ -28,13 +28,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.4k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.6k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐223)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐226)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -85,9 +85,7 @@
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-*   [Web Scanning](https://tryhackme.com/room/rpwebscanning) - Learn the basics of automated web scanning.
 *   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
-*   [Metasploit](https://tryhackme.com/room/rpmetasploit) - An introduction to the main components of the Metasploit Framework.
 *   [Hydra](https://tryhackme.com/room/hydra) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
 *   [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 *   [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
@@ -137,7 +135,6 @@
 *   [Yara](https://tryhackme.com/room/yara) -  Intro to yara for malware analysis.
 *   [OpenVAS](https://tryhackme.com/room/openvas) - Intro to openvas.
 *   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  Intro to honeypots.
-*   [Volatility](https://tryhackme.com/room/bpvolatility) - Intro to memory analysis with volatility.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting

@@ -16,13 +16,13 @@
 
 ### Desktop / Game Engine resources
 
-*   [Golang Desktop Embedder (⭐5.6k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
+*   [Golang Desktop Embedder (⭐5.8k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Crawling
 
-*   [Spidr (⭐785)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐789)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Command Line Learning / Internet Speedtest
 
-*   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐14k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -142,11 +142,11 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐4.3k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐4.4k)](https://github.com/timofurrer/awesome-asyncio)
 
 ### Network Virtualization
 
-*   [pox (⭐609)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐612)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -154,14 +154,14 @@
 
 ### Task Queues
 
-*   [huey (⭐4.8k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐877)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐9.4k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐4.9k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐876)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐9.5k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### WebSocket
 
-*   [channels (⭐5.8k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.9k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [channels (⭐5.9k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+*   [websockets (⭐5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 

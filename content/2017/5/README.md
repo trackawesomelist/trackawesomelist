@@ -41,7 +41,7 @@
 
 ### Apps / Media
 
-*   [Wagtail Alt Generator (⭐80)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
+*   [Wagtail Alt Generator (⭐81)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -186,8 +186,8 @@
 
 ### Ask these people anything!
 
-*   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
-*   [CJ Patoilo (⭐2)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
+*   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on ArchLinux. Perfectionist. Revolutionist. Founder of RegexHQ, core member at JSTransformers and part of dwylhq.
+*   [CJ Patoilo (⭐2)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, DEV IO co-Founder.
 
 ## [10. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -289,7 +289,7 @@
 
 ### Machine Learning
 
-*   [xgboost (⭐25k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
+*   [xgboost (⭐26k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -318,7 +318,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐690)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐701)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [24. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -472,7 +472,7 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 ### Extensions
 
-*   [Z.ExtensionMethods (⭐1.1k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
+*   [Z.ExtensionMethods (⭐1.4k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## [36. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -514,7 +514,7 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 ### Geolocation
 
-*   [topo (⭐141)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐146)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 

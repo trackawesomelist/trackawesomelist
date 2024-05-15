@@ -10,13 +10,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [veemoji (⭐5)](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji 🚀 as a component for vue 2
+*   [veemoji (⭐6)](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji 🚀 as a component for vue 2
 
 ## [2. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐4.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐5.4k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Libraries / JavaScript
 
-*   [node-mapnik (⭐526)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-mapnik (⭐525)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [python-mapnik (⭐152)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [python-mapnik (⭐153)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Articles / Wiki-Pages
 
@@ -66,15 +66,14 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LunarVim/LunarVim (⭐17k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+*   [LunarVim/LunarVim (⭐18k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### YouTube
 
-*   [Piped (⭐7.1k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Piped (⭐7.5k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.7k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

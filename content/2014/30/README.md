@@ -44,12 +44,12 @@
 
 ### Algorithms and Data Structures
 
-*   [OCamlgraph (⭐219)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
+*   [OCamlgraph (⭐220)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 
 ### Application Libraries
 
 *   [Batteries Included (⭐509)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
-*   [Cmdliner (⭐272)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Cmdliner (⭐274)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support for programs with time-varying values, declarative events, and signals.
 *   [easy-format (⭐41)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 *   [ocaml-rpc (⭐94)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
@@ -110,7 +110,7 @@
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐285)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐288)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
@@ -123,12 +123,12 @@
 
 *   [Mirage OS (⭐2.4k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
 *   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
-*   [ocaml-git (⭐358)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+*   [ocaml-git (⭐360)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 *   [ocaml-vchan (⭐46)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Testing
 
-*   [QCheck (⭐329)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐332)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ### Web Development
 
@@ -153,7 +153,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Zxcvbn PHP (⭐808)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐813)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Literate Programming
 
-*   [marginalia (⭐798)](https://github.com/gdeer81/marginalia)
+*   [marginalia (⭐803)](https://github.com/gdeer81/marginalia)
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -216,8 +216,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pyhsmm (⭐535)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-*   [SKLL (⭐552)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [pyhsmm (⭐541)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+*   [SKLL (⭐551)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [t3chnoboy/awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 ## [16. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -381,29 +381,29 @@
 
 ### Application Frameworks
 
-*   [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
+*   [ASP.NET Boilerplate (⭐12k)](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 
 ### IoC
 
-*   [Spring.Net (⭐825)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+*   [Spring.Net (⭐835)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ### GUI
 
-*   [Callisto (⭐341)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+*   [Callisto (⭐339)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 
 ### Mail
 
-*   [MailKit (⭐5.8k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
-*   [MimeKit (⭐1.7k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+*   [MailKit (⭐5.9k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MimeKit (⭐1.8k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
-*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+*   [MiniProfiler (⭐2.9k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 *   [Glimpse (⭐2.3k)](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
 ### Scheduling
 
-*   [QuartzNet (⭐6.1k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐6.3k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

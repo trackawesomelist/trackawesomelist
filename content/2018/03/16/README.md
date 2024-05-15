@@ -20,13 +20,13 @@
 
 ### Parsing
 
-*   [kern (⭐234)](https://github.com/blancas/kern)
+*   [kern (⭐235)](https://github.com/blancas/kern)
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-check-view (⭐116)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
+*   [vue-check-view (⭐115)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -42,7 +42,7 @@
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Others / Web project skeletons and generators
+### Others / Email
 
 *   [Postmaster (⭐8)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
@@ -63,7 +63,7 @@
 
 ### Malware Collection / Honeypots
 
-*   [Honeytrap (⭐1.1k)](https://github.com/honeytrap/honeytrap) - Opensource system for running, monitoring and managing honeypots.
+*   [Honeytrap (⭐1.2k)](https://github.com/honeytrap/honeytrap) - Opensource system for running, monitoring and managing honeypots.
 
 ---
 

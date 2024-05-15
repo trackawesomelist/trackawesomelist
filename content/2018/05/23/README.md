@@ -96,7 +96,7 @@
 
 ### Game
 
-*   [BEPUphysics (⭐2k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐2.2k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

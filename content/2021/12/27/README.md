@@ -117,13 +117,13 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [finoptions (⭐176)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
+*   [finoptions (⭐198)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Tools
 
-*   [CSharpier (⭐1k)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐48k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐1.2k)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐48k)](https://github.com/prettier/prettier) printing process.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐9k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -165,11 +165,11 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [Catalyst (⭐251)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+*   [Catalyst (⭐265)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Orochi (⭐181)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
+*   [Orochi (⭐186)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
 
 ## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐342)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [luisiacc/gruvbox-baby (⭐355)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 
 ## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

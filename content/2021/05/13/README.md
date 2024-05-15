@@ -26,31 +26,31 @@
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐240)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐253)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Security
 
-*   [code\_signing (⭐5)](https://github.com/benknowles/code_signing) - Signing and verifying BEAM files with Ed25519 signatures.
+*   [code\_signing (⭐6)](https://github.com/benknowles/code_signing) - Signing and verifying BEAM files with Ed25519 signatures.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐8)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐9)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐271)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐274)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
-*   [Preact Transitioning (⭐43)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
+*   [Preact Transitioning (⭐42)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Contents / Shopping
 
-*   [Flutter WooCommerce app (⭐497)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+*   [Flutter WooCommerce app (⭐537)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
 
 ---
 

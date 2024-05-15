@@ -41,7 +41,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
+*   [formik (⭐34k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 
 ---
 

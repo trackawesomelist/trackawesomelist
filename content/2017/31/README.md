@@ -90,11 +90,11 @@
 
 ### GUI
 
-*   [WinApi (⭐806)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐812)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
-*   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐235)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -280,7 +280,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐409)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐410)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -384,7 +384,7 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐410)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐409)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 *   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 
 ### Button / Barcode
@@ -393,7 +393,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐319)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐318)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [34. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Official Documentation Translations
 
-*   [crystal-dash-docset (⭐16)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+*   [crystal-dash-docset (⭐17)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -77,8 +77,8 @@
 
 ### Contents / Example Apps
 
-*   [Preact HN (⭐299)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
-*   [TodoMVC (⭐102)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
+*   [Preact HN (⭐297)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+*   [TodoMVC (⭐104)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Payloads (⭐3.4k)](https://github.com/foospidy/payloads)
+- Repository: [Payloads (⭐3.5k)](https://github.com/foospidy/payloads)
 
   Description: Collection of web attack payloads
 
@@ -124,7 +124,7 @@
 
 ### Open-source sites / Lists
 
-*   [Secure the News (⭐97)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+*   [Secure the News (⭐99)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 

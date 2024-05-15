@@ -40,8 +40,8 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [wsl2-ssh-pageant (⭐348)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
-*   [WinCryptSSHAgent (⭐506)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
+*   [wsl2-ssh-pageant (⭐356)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [WinCryptSSHAgent (⭐516)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐119)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐122)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

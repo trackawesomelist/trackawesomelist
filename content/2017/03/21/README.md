@@ -10,7 +10,7 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐595)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐598)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Task management
 
-*   [sam (⭐92)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐93)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Version Control / Git
 
-*   [git-standup (⭐7.4k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+*   [git-standup (⭐7.5k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

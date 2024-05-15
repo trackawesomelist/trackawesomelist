@@ -23,7 +23,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Adversarial Machine Learning (⭐1.7k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- Repository: [Adversarial Machine Learning (⭐1.8k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
   Description: Curated list of awesome adversarial machine learning resources
 
@@ -33,7 +33,7 @@
   Description: Curated list of AI security resources
 
 
-- Repository: [Web Security (⭐10k)](https://github.com/qazbnm456/awesome-web-security)
+- Repository: [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security)
 
   Description: Curated list of Web Security materials and resources
 

@@ -56,7 +56,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.6k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.7k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 

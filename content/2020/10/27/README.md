@@ -10,8 +10,8 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Low-Code (⭐342)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐668)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Vue-Low-Code (⭐348)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
+*   [Figma-Low-Code (⭐674)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -85,7 +85,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 ### Visualization / Mesh tools
 
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
-    (Python, BSD, [GitHub (⭐378)](https://github.com/yt-project/yt))
+    (Python, BSD, [GitHub (⭐431)](https://github.com/yt-project/yt))
 
 ## [8. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
@@ -103,11 +103,11 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Courses & Books & Blogs
 
-*   [Mastering Python for Finance (⭐288)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
+*   [Mastering Python for Finance (⭐311)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ### High Frequency Trading
 
-*   [High-Frequency-Trading-Model-with-IB (⭐2.3k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
+*   [High-Frequency-Trading-Model-with-IB (⭐2.4k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

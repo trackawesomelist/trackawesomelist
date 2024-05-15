@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐548)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-*   [OpenCV (⭐74k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐76k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -47,7 +47,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐816)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐826)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
@@ -59,7 +59,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐952)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 1.0 Client (⭐959)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ---

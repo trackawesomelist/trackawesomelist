@@ -16,13 +16,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [CapTipper (⭐688)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
-*   [Chopshop (⭐481)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
-*   [yaraPcap (⭐93)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+*   [CapTipper (⭐698)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
+*   [Chopshop (⭐487)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
+*   [yaraPcap (⭐97)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
 ### File Extraction
 
-*   [scalpel (⭐563)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
+*   [scalpel (⭐603)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐770)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐768)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -54,8 +54,8 @@
 
 ### Bindings
 
-*   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐514)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [dvulkan (⭐17)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
+*   [VulkanSharp (⭐530)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
@@ -88,7 +88,7 @@
 
 ### Packages / Math
 
-*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

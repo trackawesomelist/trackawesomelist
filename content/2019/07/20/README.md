@@ -15,8 +15,8 @@
 ### Development Tools
 
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
-*   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-*   [Qiskit.js (⭐110)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [pyQuil (⭐1.4k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
+*   [Qiskit.js (⭐113)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 
 ## [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐9.3k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐9.4k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
@@ -260,7 +260,7 @@
 
 ### Lambda shorthands
 
-*   [cl-punch (⭐21)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-punch (⭐22)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐60)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐63)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -20,8 +20,8 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐902)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐9.1k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [Kiwi TCMS (⭐935)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐9.4k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
 *   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
@@ -29,12 +29,12 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐981)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [dsl-json (⭐985)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
 *   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
 
-*   [JSON Parsing Test Suite (⭐822)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+*   [JSON Parsing Test Suite (⭐842)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -183,7 +183,7 @@
 
 ### Malware Collection / Honeypots
 
-*   [MHN (⭐2.3k)](https://github.com/pwnlandia/mhn) - MHN is a centralized server for management and data collection of honeypots. MHN allows you to deploy sensors quickly and to collect data immediately, viewable from a neat web interface.
+*   [MHN (⭐2.4k)](https://github.com/pwnlandia/mhn) - MHN is a centralized server for management and data collection of honeypots. MHN allows you to deploy sensors quickly and to collect data immediately, viewable from a neat web interface.
 
 ## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -197,18 +197,18 @@
 
 ### Authentication and Authorization
 
-*   🍰 [Authentication plugin (⭐113)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐72)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   🍰 [Authentication plugin (⭐114)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   🍰 [Authorization plugin (⭐74)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   🍰 [IdeHelper plugin (⭐179)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   🍰 [IdeHelper plugin (⭐181)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 *   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐299)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   🍰 [Queue plugin (⭐301)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### File Manipulation
 
@@ -216,7 +216,7 @@
 
 ### I18n
 
-*   🍰 [ADmad/I18n plugin (⭐42)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
+*   🍰 [ADmad/I18n plugin (⭐43)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 
 ### Imagery
 
@@ -235,13 +235,13 @@
 ### ORM / Database / Datamapping
 
 *   🍰 [ADmad/Sequence plugin (⭐44)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   🍰 [Duplicatable plugin (⭐47)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   🍰 [Duplicatable plugin (⭐48)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 *   🍰 [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 *   [Muffin/Webservices ORM plugin (⭐89)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ### PDF
 
-*   🍰 [CakePdf plugin (⭐374)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   🍰 [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
@@ -253,7 +253,7 @@
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐106)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [Bake plugin (⭐109)](https://github.com/cakephp/bake) - Provides code generation functionality.
 *   🍰 [BootstrapUI plugin (⭐337)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
@@ -331,10 +331,6 @@
 *   [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
 *   [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
 *   [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
-
-### Code Search and Browsing
-
-*   [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
 
 ### CI and CD
 
@@ -535,7 +531,7 @@
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping, and collaboration, free plan limited to one user and project.
-*   [Pencil (⭐8.9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
@@ -604,7 +600,7 @@
 ### Web Development
 
 *   **Tools**:
-    *   [COW (⭐106)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
+    *   [COW (⭐107)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
         has many relevant web libraries —
         [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
@@ -626,12 +622,12 @@
     *   [Syndic (⭐34)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
     *   [ocaml-mustache (⭐80)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
     *   [atdjs (⭐9)](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js\_of\_ocaml.
-    *   [jingoo (⭐115)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+    *   [jingoo (⭐118)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
     *   [dispatch (⭐47)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-    *   [Lambda Soup (⭐371)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+    *   [Lambda Soup (⭐375)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     *   [Markup.ml (⭐146)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
     *   [gen\_js\_api (⭐177)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-    *   [routes (⭐136)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+    *   [routes (⭐138)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [20. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -671,10 +667,6 @@
 
 *   [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
-### Best Practices
-
-*   [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
-
 ### Trainings & Courses / Utilities
 
 *   [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
@@ -695,7 +687,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [Leaf (⭐6.2k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐6.3k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -708,7 +700,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.1k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -757,8 +749,8 @@
 
 ### Tools
 
-*   [renderdoc (⭐7.7k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
-    *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
+*   [renderdoc (⭐8.3k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+    *   [RDCtoVkCpp (⭐25)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ## [32. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -830,14 +822,14 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐686)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐705)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [39. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-    (Python, MIT, [GitHub (⭐1.8k)](https://github.com/pyvista/pyvista))
+    (Python, MIT, [GitHub (⭐2.2k)](https://github.com/pyvista/pyvista))
 
 ## [40. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
@@ -858,7 +850,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐325)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐352)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

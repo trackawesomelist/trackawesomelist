@@ -14,7 +14,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐458)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐459)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -22,11 +22,11 @@
 
 ### Testing
 
-*   [webmock.cr (⭐103)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+*   [webmock.cr (⭐102)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ### Third-party APIs
 
-*   [crystal\_slack (⭐20)](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+*   [crystal\_slack (⭐19)](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
 
 ### Editor Plugins
 

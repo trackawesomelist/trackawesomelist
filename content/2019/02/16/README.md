@@ -23,19 +23,19 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐528)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐533)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [lazy (⭐30)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+*   [lazy (⭐31)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐108)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐110)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -47,11 +47,11 @@
 
 ### UI / Bottom bars
 
-*   [Circular Bottom Navigation (⭐558)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+*   [Circular Bottom Navigation (⭐616)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [GeoFlutterFire (⭐293)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
+*   [GeoFlutterFire (⭐305)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -79,7 +79,7 @@
     Presentation introducing the concepts of malware analysis, threat intelligence
     and reverse engineering. Experience or prior knowledge is not required. Labs
     link in description.
-*   [Windows Registry specification (⭐254)](https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md) -
+*   [Windows Registry specification (⭐304)](https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md) -
     Windows registry file format specification.
 
 ---

@@ -137,13 +137,13 @@
 
 ### Ask these people anything!
 
-*   [Travis Northcutt (⭐0)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
+*   [Travis Northcutt (⭐1)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Trading
 
-*   [Lean (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8.7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
@@ -153,7 +153,7 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.9k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ---
 

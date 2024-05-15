@@ -44,7 +44,7 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐396)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.8k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐398)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.9k)](https://github.com/rrrene/credo).
 
 ## [6. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Libraries / Python
 
-*   [minimongo (⭐332)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+*   [minimongo (⭐334)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -87,11 +87,11 @@
 
 ### Game
 
-*   [UrhoSharp (⭐458)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐463)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐153)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐156)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ---
 

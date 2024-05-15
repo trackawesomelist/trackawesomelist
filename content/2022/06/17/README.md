@@ -28,7 +28,7 @@
 
 ### Libraries / Others
 
-*   [Auto-QChem (⭐53)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+*   [Auto-QChem (⭐71)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

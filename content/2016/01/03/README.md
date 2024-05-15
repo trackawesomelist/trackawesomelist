@@ -17,7 +17,7 @@
 
 ### C
 
-*   [Libasyncd (⭐176)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
+*   [Libasyncd (⭐175)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
 *   [Onion (⭐2k)](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

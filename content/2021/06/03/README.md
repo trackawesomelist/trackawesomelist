@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,7 +46,7 @@
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1.3k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.4k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
 ## [4. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -60,25 +60,19 @@
 
 *   **[SeqFu (⭐76)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
 
-## [6. Awesome Internships](/content/lodthe/awesome-internships/README.md)
-
-### Where to apply
-
-*   [Summer 2022 Internships (⭐14k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
-
-## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+## [6. Awesome Design](/content/gztchan/awesome-design/README.md)
 
 ### Color
 
 *   [Colorable](https://colorable.jxnblk.com/) “If one says ‘Red’ (the name of the color) and there are 50 people listening, it can be expected that there will be 50 reds in their minds. And one can be sure that all these reds will be very different.” – Josef Albers
 
-## [8. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [7. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Learning
 
 *   ✍️ [How to Build a Job Board With the TALL Stack + Demo](https://lightit.io/blog/how-to-do-a-job-board-with-the-tall-stack/)
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Payments & Pricing
 

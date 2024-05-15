@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2023
 
-19 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,33 +36,33 @@
 
 ### Templates / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐262)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐309)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/rustaceanvim (⭐706)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+*   [mrcjkb/rustaceanvim (⭐1k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [mrcjkb/kickstart-nix.nvim (⭐66)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+*   [mrcjkb/kickstart-nix.nvim (⭐112)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Tab Group (⭐8)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
-*   [Drawer Notice (⭐4)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
-*   [Classified Group (⭐4)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
-*   [Tokenized Preview (⭐5)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+*   [Tab Group (⭐10)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐7)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐5)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐7)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [JAX Toolbox (⭐102)](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
-*   [Pgx (⭐251)](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
+*   [JAX Toolbox](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
+*   [Pgx](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
 
 ### Tutorials and Blog Posts / NumPyro
 
@@ -72,9 +72,45 @@
 
 ### Tutorials
 
-*   [Tutorials to get started on signal processing for machine learning (⭐44)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials to get started on signal processing for machine learning (⭐53)](https://github.com/jinglescode/python-signal-processing)
 
-## [10. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+
+## [11. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
+
+### Plugins / Community Plugins
+
+*   [@capacitor-firebase/analytics](https://capawesome.io/plugins/firebase/analytics/) - Capacitor plugin for Firebase Analytics.
+*   [@capacitor-firebase/app](https://capawesome.io/plugins/firebase/app/) - Capacitor plugin for Firebase App.
+*   [@capacitor-firebase/app-check](https://capawesome.io/plugins/firebase/app-check/) - Capacitor plugin for Firebase App Check.
+*   [@capacitor-firebase/authentication](https://capawesome.io/plugins/firebase/authentication/) - Capacitor plugin for Firebase Authentication.
+*   [@capacitor-firebase/crashlytics](https://capawesome.io/plugins/firebase/crashlytics/) - Capacitor plugin for Firebase Crashlytics.
+*   [@capacitor-firebase/firestore](https://capawesome.io/plugins/firebase/firestore/) - Capacitor plugin for Firebase Cloud Firestore.
+*   [@capacitor-firebase/messaging](https://capawesome.io/plugins/firebase/messaging/) - Capacitor plugin for Firebase Cloud Messaging.
+*   [@capacitor-firebase/storage](https://capawesome.io/plugins/firebase/storage/) - Capacitor plugin for Firebase Cloud Storage.
+*   [@capacitor-firebase/performance](https://capawesome.io/plugins/firebase/performance/) - Capacitor plugin for Firebase Performance Monitoring.
+*   [@capacitor-firebase/remote-config](https://capawesome.io/plugins/firebase/remote-config/) - Capacitor plugin for Firebase Remote Storage.
+*   [@capacitor-mlkit/barcode-scanning](https://capawesome.io/plugins/mlkit/barcode-scanning/) - Unofficial Capacitor plugin for ML Kit Barcode Scanning.
+*   [@capacitor-mlkit/face-detection](https://capawesome.io/plugins/mlkit/face-detection/) - Unofficial Capacitor plugin for ML Kit Face Detection.
+*   [@capacitor-mlkit/face-mesh-detection](https://capawesome.io/plugins/mlkit/face-mesh-detection/) - Unofficial Capacitor plugin for ML Kit Face Mesh Detection.
+*   [@capacitor-mlkit/selfie-segmentation](https://capawesome.io/plugins/mlkit/selfie-segmentation/) - Unofficial Capacitor plugin for ML Kit Selfie Segmentation.
+*   [@capacitor-mlkit/translation](https://capawesome.io/plugins/mlkit/translation/) - Unofficial Capacitor plugin for ML Kit Translation.
+*   [@capawesome/capacitor-android-battery-optimization](https://capawesome.io/plugins/android-battery-optimization) - Capacitor plugin to access battery optimization settings on Android.
+*   [@capawesome/capacitor-app-update](https://capawesome.io/plugins/app-update) - Capacitor plugin that assists with app updates.
+*   [@capawesome/capacitor-background-task](https://capawesome.io/plugins/background-task) - Capacitor plugin for running background tasks.
+*   [@capawesome/capacitor-badge](https://capawesome.io/plugins/badge) - Capacitor plugin to access and update the badge number of the app icon.
+*   [@capawesome/capacitor-cloudinary](https://capawesome.io/plugins/cloudinary) - Unofficial Capacitor plugin for Cloudinary SDK.
+*   [@capawesome/capacitor-file-picker](https://capawesome.io/plugins/file-picker) - Capacitor plugin that allows the user to select a file.
+*   [@capawesome/capacitor-managed-configurations](https://capawesome.io/plugins/managed-configurations) - Capacitor plugin to access managed configuration settings.
+*   [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo.
+*   [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
+*   [capacitor-bing-translator (⭐2)](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
+
+## [12. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Productivity
 
@@ -90,7 +126,7 @@
 *   [Plot Factory](https://plotfactory.com/) - An online collaborative story planner that lets writers plan, organize, and write stories & fictional universes. `#paid`
 *   [Sudowrite](https://www.sudowrite.com/) - The model generates text by guessing what's most likely to come next, one word at a time. Kind of like autocomplete on your phone. `#paid`
 
-## [11. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -100,23 +136,23 @@
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [svector (⭐86)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐92)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
-*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐139)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
+*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐144)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 
 ### PDF
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [16. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -221,19 +257,19 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 10-20m |
 
-## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐663)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐1.4k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -243,23 +279,23 @@
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
 
-## [18. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Module Bundlers / Playground
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [colorize-functions (⭐2)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
-*   [help (⭐2)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
+*   [colorize-functions (⭐3)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
+*   [help (⭐5)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
-*   [ultima (⭐69)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
+*   [ultima (⭐74)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ---
 

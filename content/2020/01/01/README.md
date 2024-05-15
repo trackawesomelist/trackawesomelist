@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐41k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐42k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -26,7 +26,7 @@
 
 ### CLI
 
-*   [tabulate (⭐1.7k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+*   [tabulate (⭐1.8k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

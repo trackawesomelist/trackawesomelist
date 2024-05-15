@@ -16,7 +16,7 @@
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐80)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐93)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐3.9k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐4.1k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -67,10 +67,6 @@
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Framework-agnostic Plugins / Transformers
-
-*   [@import-meta-env/unplugin](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
-
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-live-reload (⭐79)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
@@ -79,7 +75,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-preview-imgs (⭐11)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
+*   [vue-preview-imgs (⭐16)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
 ## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

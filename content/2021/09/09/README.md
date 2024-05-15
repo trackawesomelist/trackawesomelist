@@ -16,7 +16,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Prop (⭐43)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+*   [Prop (⭐44)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [EdenEast/nightfox.nvim (⭐2.6k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐2.8k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -114,7 +114,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [vim-wsl-copy-paste (⭐13)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
+*   [vim-wsl-copy-paste (⭐15)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)

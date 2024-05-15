@@ -22,7 +22,7 @@
 
 ### Using Electron / Other
 
-*   [jest-electron (⭐155)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐154)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -46,7 +46,7 @@
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐3.4k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.5k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Altium
 

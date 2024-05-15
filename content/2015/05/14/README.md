@@ -46,7 +46,7 @@
 
 ### Fonts
 
-*   [FontBlaster (⭐1.1k)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
+*   [FontBlaster (⭐1.2k)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

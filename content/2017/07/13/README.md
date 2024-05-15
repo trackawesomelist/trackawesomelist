@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐762)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐770)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐13)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐14)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐324)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐322)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐327)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -187,6 +187,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tenders in Poland](https://tenders.guru/pl/api)
 
@@ -197,6 +199,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 - API: [Tenders in Romania](https://tenders.guru/ro/api)
@@ -209,6 +213,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tenders in Spain](https://tenders.guru/es/api)
 
@@ -219,6 +225,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -261,6 +269,18 @@
 ### Development Projects / APIs
 
 *   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Blockchain
+
+*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+
+### Data Science
+
+*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 
 ---
 

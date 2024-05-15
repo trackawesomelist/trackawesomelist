@@ -27,11 +27,11 @@
 ### CMS
 
 *   [Orchard  (⭐2.4k)](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-*   [Umbraco (⭐4.2k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+*   [Umbraco (⭐4.3k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 
 ### Testing
 
-*   [BDDfy (⭐411)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
+*   [BDDfy (⭐414)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Ask these organizations anything!
 
-*   [DevOps Taiwan (⭐44)](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
+*   [DevOps Taiwan (⭐42)](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 

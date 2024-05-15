@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐63)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
+*   [Kanbana (⭐67)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Imagery / Text-Based User Interfaces
 
-*   [image-comparison (⭐315)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [image-comparison (⭐325)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [14. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
@@ -241,7 +241,6 @@
 
 *   [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
 *   [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
-*   [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 
 ## [18. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -360,6 +359,10 @@
 
 *   [EthereumKit (⭐471)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
+### Books
+
+*   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
+
 ### Debugging
 
 *   [DoraemonKit (⭐20k)](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
@@ -378,11 +381,15 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐808)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐807)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Cards
 
-*   [Shuffle (⭐849)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
+*   [Shuffle (⭐862)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
+
+### Websites / Collection View Layout
+
+*   [Ohmyswift](https://www.ohmyswift.com/blog/)
 
 ### Tools / Collection View Layout
 
@@ -391,14 +398,6 @@
 ### Extensions / Collection View Layout
 
 *   [Swiftify](https://swiftify.com/) - Objective-C to Swift online code converter and Xcode extension.
-
-### News, Blogs and more / Collection View Layout
-
-*   [Ohmyswift](https://www.ohmyswift.com/blog/)
-
-### Books / Collection View Layout
-
-*   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
 
 ## [26. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -430,18 +429,18 @@
 
 ### React Native Libraries
 
-*   [realm-js (⭐5.4k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
+*   [realm-js (⭐5.6k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 
 ## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### ORMs
 
-*   [cl-dbi (⭐191)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐195)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐86)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐88)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
@@ -449,7 +448,7 @@
 
 ### Macro helpers / Third-party APIs
 
-*   [trivial-with-current-source-from (⭐33)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [trivial-with-current-source-from (⭐34)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [31. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -462,13 +461,13 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐3k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐3.1k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐264)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐271)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ### Talks
 
@@ -668,15 +667,15 @@
 
 ### Navigation / Image Picker
 
-*   [Get (⭐8.8k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
+*   [Get (⭐9.8k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Media / Video
 
-*   [Video Trimmer (⭐366)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
+*   [Video Trimmer (⭐402)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
 
 ### Utilities / Game Engine resources
 
-*   [Environment Configuration (⭐88)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Environment Configuration (⭐91)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ### VSCode / Game Engine resources
 
@@ -698,7 +697,7 @@
 
 ### Game Development
 
-*   [entitas.cr (⭐37)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
+*   [entitas.cr (⭐36)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
 
 ## [44. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -711,13 +710,13 @@
 ### Software / Diagramming
 
 *   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1.1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
-*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐3.3k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
+*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐3.5k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 ## [46. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
-*   [Tequila (⭐320)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+*   [Tequila (⭐344)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
 ## [47. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -803,11 +802,11 @@
 
 ### Menu
 
-*   [react-planet (⭐164)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐171)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ### Miscellaneous
 
-*   [react-searchbox-awesome (⭐29)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+*   [react-searchbox-awesome (⭐30)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [52. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -856,7 +855,7 @@
 
 ### 🦾 Others / Crypto or Blockchain relevant
 
-*   [Collect-Info-Research (⭐34)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
+*   [Collect-Info-Research (⭐35)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
 
 ### Podcast Feed Customization / Crypto or Blockchain relevant
 
@@ -892,7 +891,7 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐791)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐795)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ### E-Commerce and Payments
 
@@ -904,7 +903,7 @@
 
 ### WebSocket
 
-*   [CableReady (⭐715)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐717)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.2k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [56. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)

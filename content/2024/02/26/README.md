@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2024
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-minipic (⭐15)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
+*   [vite-plugin-minipic (⭐25)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -50,15 +50,15 @@
 
 ### Blockchain
 
-*   [gosemble (⭐4)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
+*   [gosemble (⭐7)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 
 ### Date and Time
 
-*   [go-datebin (⭐3)](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
+*   [go-datebin (⭐4)](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
 
 ### JSON
 
-*   [gabs (⭐3.3k)](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
+*   [gabs (⭐3.4k)](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
 
 ### Dependency Injection
 
@@ -70,7 +70,7 @@
 
 ### ORM
 
-*   [CQL (⭐13)](https://github.com/FrancoLiberali/cql) - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
+*   [CQL (⭐15)](https://github.com/FrancoLiberali/cql) - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -80,7 +80,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [seljabali/java-time-fun (⭐32)](https://github.com/seljabali/java-time-fun) - java.time Kotlin extension functions library.
+*   [seljabali/java-time-fun (⭐57)](https://github.com/seljabali/java-time-fun) - java.time Kotlin extension functions library.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -102,17 +102,17 @@
 
 ### Extensions and Utilities
 
-*   [playcanvas-rest-api-tools (⭐19)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
+*   [playcanvas-rest-api-tools (⭐21)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐34)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐67)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
-*   [desdic/marlin.nvim (⭐7)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
+*   [desdic/marlin.nvim (⭐17)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -121,11 +121,11 @@
 
 ### Motion / Diagnostics
 
-*   [rasulomaroff/telepath.nvim (⭐28)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
+*   [rasulomaroff/telepath.nvim (⭐50)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐420)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐532)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -136,12 +136,6 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [sashimi (⭐0)](https://github.com/simonmader17/sashimi-zsh-theme) - Includes decorators for `git` status and the exit status of the last command run.
-
-## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Rust / Django
-
-*   [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
 
 ---
 

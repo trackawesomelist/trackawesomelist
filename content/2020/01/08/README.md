@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   🍰 [Ajax plugin (⭐57)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   🍰 [Ajax plugin (⭐58)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Templating
 
@@ -60,11 +60,11 @@
 
 ### Libraries / Format Checking
 
-*   [rd\_filters (⭐84)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
+*   [rd\_filters (⭐119)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
 
 ### Libraries / Machine Learning
 
-*   [DeepChem (⭐4k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
+*   [DeepChem (⭐5k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 *   [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -125,29 +125,29 @@ Topics: Android, Open Source, Java, Kotlin\
 
 ### Plugins / Practices and Specific ES Features
 
-*   [functional (⭐712)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+*   [functional (⭐729)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐210)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐223)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐371)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON
+    *   [mongodb/bson-rust (⭐378)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐287)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐294)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
     *   [nix-rust/nix (⭐2.5k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
     *   [rustix (⭐1.3k)](https://github.com/bytecodealliance/rustix) — Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐1k)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.9k)](https://github.com/libfuse/libfuse) bindings
+    *   [zargony/fuse-rs (⭐1k)](https://github.com/zargony/fuse-rs) — [FUSE (⭐5k)](https://github.com/libfuse/libfuse) bindings
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

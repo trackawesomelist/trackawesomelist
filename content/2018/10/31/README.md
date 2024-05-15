@@ -87,9 +87,9 @@
 
 ## [6. Computer Science](/content/ossu/computer-science/README.md)
 
-### How to show your progress / Which programming languages should I use?
+### How to show your progress / Advanced math
 
-*   **[Contributors (⭐158k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐161k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

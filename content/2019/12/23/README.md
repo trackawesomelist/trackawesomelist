@@ -76,14 +76,14 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐686)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐705)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-    (Python, MIT, [GitHub (⭐1.8k)](https://github.com/pyvista/pyvista))
+    (Python, MIT, [GitHub (⭐2.2k)](https://github.com/pyvista/pyvista))
 
 ## [9. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -104,7 +104,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐325)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐352)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

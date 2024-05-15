@@ -49,7 +49,7 @@
 
 ### Webdriver automation
 
-*   [Etaoin (⭐883)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐893)](https://github.com/igrishaev/etaoin)
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

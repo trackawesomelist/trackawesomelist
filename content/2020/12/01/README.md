@@ -10,7 +10,7 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐418)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐427)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
@@ -55,13 +55,13 @@
 
 ### React Renderers
 
-*   [ink (⭐25k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [ink (⭐26k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 ## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Libraries and tools for developers
 
-*   [Translate (⭐808)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐832)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Other
 
-*   [Konstrukt (⭐60)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐61)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

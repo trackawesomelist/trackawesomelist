@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2023
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐75)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐192)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -30,41 +30,43 @@
 
 *   [vite-react-dapp-template (⭐3)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 
-## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Graphical User Interfaces
+
+*   [GUI development with Relm4](https://relm4.org/book/stable/) - Aaron Erhardt
+
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 
 *   [*Swift Apprentice: Beyond the Basics* by Eli Ganim, Ehab Amer, Matt Galloway](https://www.kodeco.com/books/swift-apprentice-beyond-the-basics)
 
-## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Tools / Environment managers
 
-*   [asdf-opentofu (⭐14)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
+*   [asdf-opentofu (⭐19)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 
-### Podcasts / Helpers
-
-*   [Contributor - Community Driven IaC](https://www.contributor.fyi/opentofu)
-
-## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Agents
 
-*   [GPT Researcher (⭐7.4k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+*   [GPT Researcher (⭐11k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 
 ### Tools / Platforms
 
-*   [Openllmetry (⭐901)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+*   [Openllmetry (⭐1.3k)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [PersonalityChatbot (⭐26)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
+*   [PersonalityChatbot (⭐40)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MemGPT (⭐7.9k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
-## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -90,21 +92,17 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        5 |  20m |
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Plugin Manager
-
-*   [abeldekat/lazyflex.nvim (⭐44)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [text-to-colorscheme (⭐264)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [text-to-colorscheme (⭐272)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -112,15 +110,15 @@
 
 ### Motion / Diagnostics
 
-*   [gsuuon/tshjkl.nvim (⭐94)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
+*   [gsuuon/tshjkl.nvim (⭐97)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
 
-## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [12. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Books and Resources
 
 *   [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

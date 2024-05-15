@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2016
 
-33 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,29 +10,29 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐124)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐126)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Wenjie Fan (⭐1)](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
-*   [Robert Haritonov (⭐1)](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
+*   [Robert Haritonov (⭐1)](https://github.com/operatino/ama) - Front-end team lead, SourceJS maintainer and Living Style Guide evangelist.
 *   [Henry Snopek (⭐1)](https://github.com/hhsnopek/ama) - Front-end developer, university student.
-*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of [CSSDeck](http://cssdeck.com).
-*   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of [hackrslab](https://github.com/hackrslab).
+*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
+*   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of hackrslab.
 *   [Una Kravets (⭐17)](https://github.com/una/ama) - Front-end developer, Sass things, Dev communities & Open Source Design.
 *   [Chris Missal (⭐1)](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
-*   [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
+*   [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in Social Psychology.
 *   [Jan Sanchez (⭐0)](https://github.com/jansanchez/ama) - Front-end developer. Creator of css-url-versioner, open source contributor.
-*   [Mohamad Jahani (⭐0)](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
-*   [Deepak Verma (⭐1)](https://github.com/deepaknverma/ama) - Full stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma).
+*   [Mohamad Jahani (⭐1)](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
+*   [Deepak Verma (⭐1)](https://github.com/deepaknverma/ama) - Full stack developer at Hometrack Australia, AWS Solution Architect, and passionate about photography.
 *   [Daichi Furiya (⭐2)](https://github.com/wasabeef/ama) - Software developer in Japan. I love Android, JavaScript and iOS.
-*   [Breno Polanski (⭐1)](https://github.com/brenopolanski/ama) - Front-end software engineer at [Meteorite BI](http://www.meteorite.bi).
+*   [Breno Polanski (⭐1)](https://github.com/brenopolanski/ama) - Front-end software engineer at Meteorite BI.
 *   [Camilo Nova (⭐3)](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
-*   [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
-*   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC (⭐18)](https://github.com/beerjs/sjc) organizer.
-*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐150)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+*   [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on my blog.
+*   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at mLabs with JavaScript, EmberJS, APIs and other cool stuffs. I'm also BeerJS/SJC organizer.
+*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at adrianmejia.com. Author of "E-commerce Application built with the MEAN stack". JavaScript lover. Boston located.
 
 ## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### RESTful API
 
-*   [yada (⭐729)](https://github.com/juxt/yada)
+*   [yada (⭐732)](https://github.com/juxt/yada)
 
 ### Dependency injection
 
@@ -85,13 +85,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [CapTipper (⭐688)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
-*   [Chopshop (⭐481)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
-*   [yaraPcap (⭐93)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+*   [CapTipper (⭐698)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
+*   [Chopshop (⭐487)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
+*   [yaraPcap (⭐97)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
 ### File Extraction
 
-*   [scalpel (⭐563)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
+*   [scalpel (⭐603)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -103,8 +103,8 @@
 
 ### Bindings
 
-*   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐514)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [dvulkan (⭐17)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
+*   [VulkanSharp (⭐530)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
@@ -141,13 +141,13 @@
 
 ### Packages / Math
 
-*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐770)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐768)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -155,11 +155,11 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐418)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐419)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐990)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐991)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -173,7 +173,7 @@
 
 ### C++
 
-*   [Pistache (⭐3k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
+*   [Pistache (⭐3.1k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 
 ## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
@@ -277,7 +277,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐217)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐219)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -529,15 +529,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
-## [31. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Rust / Django
-
-*   [Rust 官方教程 (⭐1.7k)](https://github.com/KaiserY/rust-book-chinese)
-*   [Rust 语言学习笔记 (⭐143)](https://github.com/photino/rust-notes)
-*   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
-
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -545,13 +537,13 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Debugging
 
-*   [observer\_cli (⭐1.3k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
+*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 
 ### Geolocation
 
 *   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
-## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 

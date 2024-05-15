@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐20k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐22k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [5. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 

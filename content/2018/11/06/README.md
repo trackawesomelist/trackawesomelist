@@ -38,7 +38,7 @@
 
 ### Business Intelligence
 
-*   [FastReport (⭐2.5k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+*   [FastReport (⭐2.6k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 

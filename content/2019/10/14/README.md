@@ -80,11 +80,11 @@
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐832)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐899)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
-*   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python/Docker`
+*   [Open Event Server (⭐3k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python/Docker`
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Quality / Barcode
 
-*   [SwiftFormat (⭐7.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.5k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -118,8 +118,8 @@
 
 ### Foundations of Mathematics / Type Theory
 
-*   [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
-*   [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
+*   📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+*   📝 [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 
 ## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

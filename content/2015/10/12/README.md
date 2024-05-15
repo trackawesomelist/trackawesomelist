@@ -23,7 +23,7 @@
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐296)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐297)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
 ## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

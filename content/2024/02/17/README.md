@@ -10,13 +10,13 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Markup language
 
@@ -45,11 +45,11 @@
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐7)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐23)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ### 3D / Godot 4.2
 
-*   [LibreAim (⭐17)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐53)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.4k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐670)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

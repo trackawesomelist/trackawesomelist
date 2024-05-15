@@ -10,7 +10,7 @@
 
 ### Ask these organizations anything!
 
-*   [Ansible Taiwan (⭐32)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
+*   [Ansible Taiwan (⭐33)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

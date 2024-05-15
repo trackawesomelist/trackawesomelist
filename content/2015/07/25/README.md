@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [SELA (⭐211)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐209)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

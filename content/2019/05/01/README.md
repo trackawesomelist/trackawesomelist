@@ -22,7 +22,7 @@
 
 ### Vision / Augmented Reality
 
-*   [ARCore Plugin (⭐385)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+*   [ARCore Plugin (⭐420)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -40,7 +40,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [weasel-pageant (⭐248)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
+*   [weasel-pageant (⭐247)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

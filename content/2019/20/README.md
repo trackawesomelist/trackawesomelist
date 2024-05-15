@@ -22,7 +22,7 @@
 
 ### Examples
 
-*   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐85)](https://github.com/shared-components/shared-react-components-example)
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [mlfinlab (⭐3.7k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+*   [mlfinlab (⭐3.8k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 
 ## [6. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Ask these people anything!
 
-*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
+*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, blogger, owner of business apps agency. Based in Singapore.
 
 ## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -154,7 +154,7 @@ Free
 
 Free
 
-> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
@@ -182,7 +182,7 @@ Free
 
 ### Overlays / Webinterface
 
-*   [nix-darwin (⭐2.1k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐2.3k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
 ## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -216,19 +216,19 @@ Free
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐58)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐8.2k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐61)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [numcl (⭐621)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-*   [cl-ana (⭐195)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [numcl (⭐627)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [cl-ana (⭐197)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐220)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐351)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐228)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐353)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 
 ## [27. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
@@ -267,7 +267,7 @@ Free
 
 ### Themes
 
-*   [GOV.UK Theme (⭐117)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*   [GOV.UK Theme (⭐119)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
 ## [32. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -303,19 +303,60 @@ Free
 
 *   [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 
-## [33. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+
+### Websites / Blogs
+
+*   [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
+
+### Videos
+
+*   [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8\&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
+
+### UI / Drawers
+
+*   [Hidden Drawer Menu (⭐339)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+
+### UI / Sliders
+
+*   [Fluid Slider (⭐322)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
+
+### Monetization / Preferences
+
+*   [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
+
+### Templates / Preferences
+
+*   [Clone UI Challenges (⭐1.5k)](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
+
+### Plugins / Augmented Reality
+
+*   [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
+
+### Device / Augmented Reality
+
+*   [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
+*   [UDID (⭐229)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+*   [File Picker (⭐1.2k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
+
+### Communication / Game Engine resources
+
+*   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
+*   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
+
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
 *   :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
-## [34. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [35. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 
-## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
@@ -329,7 +370,7 @@ Free
 
 *   [mqtt2mongodb (⭐15)](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
 
-## [36. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [37. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Examples
 
@@ -341,30 +382,30 @@ Free
 *   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 *   [storeon (⭐1.9k)](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 
-## [37. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [38. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### SaaS
 
 *   [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
-## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [39. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐178)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐185)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐133)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐423)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐134)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐432)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐283)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Wallpaper (⭐286)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 *   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
-## [39. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [40. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -374,55 +415,6 @@ Free
 ### Blogs / Participants' solutions
 
 *   [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
-
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
-
-### Websites / Blogs
-
-*   [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
-
-### Videos
-
-*   [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8\&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
-
-### UI
-
-*   [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-
-### UI / Drawers
-
-*   [Hidden Drawer Menu (⭐307)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
-
-### UI / Sliders
-
-*   [Fluid Slider (⭐313)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
-
-### Monetization / Preferences
-
-*   [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
-
-### Templates / Preferences
-
-*   [Clone UI Challenges (⭐1.4k)](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
-
-### Plugins / Augmented Reality
-
-*   [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
-
-### Device / Augmented Reality
-
-*   [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
-*   [UDID (⭐190)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
-*   [File Picker (⭐1.1k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
-
-### Services / Bluetooth / NFC / Beacon
-
-*   [Intercom](https://pub.dev/packages/intercom) <!--stargazers:ChangeFinance/intercom_flutter--> - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n)
-
-### Communication / Game Engine resources
-
-*   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
-*   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 
 ## [41. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -581,11 +573,11 @@ Free
 
 ### Reflection
 
-*   [visit\_struct (⭐467)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐471)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
-*   [PEGTL (⭐1.8k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
+*   [PEGTL (⭐1.9k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 
 ### Build Systems
 
@@ -609,11 +601,11 @@ Free
 
 ### GitHub
 
-*   [activity-box (⭐198)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐205)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
-*   [gist-box (⭐82)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐83)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## [45. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -641,7 +633,7 @@ Free
 
 ### Packages / Security
 
-*   [crypto-hash (⭐627)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐629)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
@@ -653,22 +645,22 @@ Free
 
 *   [.NET (⭐18k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐626)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐637)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Development Environment
 
-*   [GitHub (⭐825)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-    *   [Browser Extensions (⭐2.8k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-    *   [Cheat Sheet (⭐45k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
+*   [GitHub (⭐838)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+    *   [Browser Extensions (⭐2.9k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+    *   [Cheat Sheet (⭐46k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
     *   [Pinned Gists (⭐1.8k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ### Media
 
-*   [Icons (⭐678)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐700)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ### Learn
 
-*   [Roadmaps (⭐4.4k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐4.6k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

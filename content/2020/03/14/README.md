@@ -16,7 +16,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.1k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.2k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Validation
 
-*   [validator (⭐28)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐29)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Wireless Network Tools
 
-*   [PSKracker (⭐360)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
+*   [PSKracker (⭐372)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
 
 ---
 

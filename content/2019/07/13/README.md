@@ -10,17 +10,17 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐318)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐345)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
-*   [text-meme (⭐100)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+*   [text-meme (⭐102)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐694)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐732)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -33,15 +33,15 @@
 
 ### Python / Indicators
 
-*   [pandas\_talib (⭐698)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐707)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 
 ### Python / Trading & Backtesting
 
-*   [ta (⭐4k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-*   [pyqstrat (⭐343)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-*   [NowTrade (⭐97)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-*   [pinkfish (⭐254)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
-*   [aat (⭐11)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [ta (⭐4.1k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐349)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐99)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐260)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐12)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 *   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
@@ -52,7 +52,7 @@
 
 ### Articles
 
-*   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
+*   [C++Now 2019 Presentations (⭐90)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
 ## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -96,8 +96,8 @@
 ### Boilerplates / Individual Podcast episodes
 
 *   [create-elm-app (⭐1.7k)](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
-*   [elm-live (⭐1k)](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
-*   [elm-webpack-4-starter (⭐111)](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
+*   [elm-live (⭐1.1k)](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
+*   [elm-webpack-4-starter (⭐112)](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 *   [example-elm-hot-webpack (⭐8)](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
 
 ### Conferences / Games

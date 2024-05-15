@@ -75,11 +75,11 @@
 ### Code Analysis and Linter
 
 *   [eastwood (⭐1.1k)](https://github.com/jonase/eastwood)
-*   [kibit (⭐1.7k)](https://github.com/jonase/kibit)
+*   [kibit (⭐1.8k)](https://github.com/jonase/kibit)
 
 ### Text Processing
 
-*   [clojure-opennlp (⭐745)](https://github.com/dakrone/clojure-opennlp)
+*   [clojure-opennlp (⭐747)](https://github.com/dakrone/clojure-opennlp)
 
 ### Websites / YouTube
 
@@ -90,12 +90,12 @@
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐420)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐421)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-*   [globby (⭐2.4k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
+*   [globby (⭐2.5k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Image
 
@@ -104,7 +104,7 @@
 ### Packages / Humanize
 
 *   [pretty-bytes (⭐1.1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐992)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-ms (⭐1k)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 
 ### Packages / Node.js management
 

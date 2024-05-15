@@ -14,33 +14,33 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐74)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐75)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [movie-box (⭐22)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐23)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
-*   [Keimeno (⭐15)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
+*   [Keimeno (⭐14)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐18)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐19)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐55)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-threejs (⭐80)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+*   [react-threejs (⭐81)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Databases
 
-*   [Database Tools (⭐3.5k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐3.7k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Tools
 
-*   [glsl\_trace (⭐29)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
+*   [glsl\_trace (⭐31)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
 
 ---
 

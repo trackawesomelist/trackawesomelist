@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2022
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Software / Games
 
-*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.9k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
+*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐10k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
 *   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.3k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
@@ -32,37 +32,31 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Privacy (⭐5.2k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
+*   [Awesome Privacy (⭐6k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jq (⭐252)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3k)](https://github.com/itchyny/gojq). Requires [fzf (⭐58k)](https://github.com/junegunn/fzf).
+*   [jq (⭐297)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.1k)](https://github.com/itchyny/gojq). Requires [fzf (⭐60k)](https://github.com/junegunn/fzf).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
+*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [Yazeed1s/minimal.nvim (⭐157)](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
-
-## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Logging
 
 *   [sentry\_deno (⭐11)](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / DSL
 
-*   [h0tk3y/regex-dsl (⭐87)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
+*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
@@ -74,23 +68,13 @@
 *   [ClassFly UI - XAML vs Blazor - Part 1 - XAML](https://kymphillpotts.com/maui-ui-july.html) - July 23, 2022 - This serie of article compares the approaches of XAML vs Blazor. The same application will be create using XAML and Blazor to discover the pros and cons. The part 1 focuses on XAML.
 *   [Dependency Injection Scopes in Blazor](https://www.thinktecture.com/blazor/dependency-injection-scopes-in-blazor/) - May 31, 2022 - The dependency injection system is a big part of how modern ASP.NET Core works internally: It provides a flexible solution for developers to structure their projects, decouple their dependencies, and control the lifetimes of the components within an application. In Blazor - a new part of ASP.NET Core - however, the DI system feels a bit odd, and things seem to work a bit differently than expected. This article will explain why this is not only a feeling but indeed the case in the first place and how to handle the differences in order to not run into problems later on.
 
-## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Editor plugins
 
-*   [MarioAriasC/zig-support (⭐82)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
+*   [MarioAriasC/zig-support (⭐81)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Laravel / Community
-
-*   [Laravel Livewire Plugin (⭐14)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
-
-### CodeIgniter / Community
-
-*   [codeigniter-vite (⭐70)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
-
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
@@ -114,10 +98,9 @@
 
 ### Tutorials / SRAM
 
-*   [uasyncio (⭐680)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
-*   [Asynchronous drivers (⭐680)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+*   [Asynchronous drivers (⭐691)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 *   [Pyboard micropower (⭐44)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
-*   [3D rotation with quaternions (⭐412)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+*   [3D rotation with quaternions (⭐419)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 *   [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 *   [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
 
@@ -127,13 +110,13 @@
 *   [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2) - By Charles Bell. ISBN 9781484281345.
 *   [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus) - By Donald Norris. ISBN 9781259644535.
 
-## [13. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [11. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Libraries / Filesystem
 
 *   [global-cache-dir (⭐4)](https://github.com/ehmicky/global-cache-dir) - Get the global OS-specific cache directory.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -151,11 +134,11 @@
 
 *   [NextDNS](https://nextdns.io/) - The new firewall for the modern Internet. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/nextdns/id1464122853)
 
-## [15. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Supply Chain Security / Ruby
 
-*   [Harden Runner GitHub Action (⭐426)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
+*   [Harden Runner GitHub Action (⭐525)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 
 ---
 

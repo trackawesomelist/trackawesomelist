@@ -251,7 +251,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐194)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐195)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -320,15 +320,15 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐803)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐816)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐426)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐431)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐4.8k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
+*   [Organizr (⭐4.9k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
 
 ## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -495,8 +495,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.5k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐356)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.6k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐355)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ### Networking
 
@@ -562,7 +562,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ### Walkthrough / Barcode
 
@@ -610,25 +610,25 @@
 
 ### Business Intelligence
 
-*   [FastReport (⭐2.5k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+*   [FastReport (⭐2.6k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
 ### IoC
 
-*   [DryIoc (⭐942)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
-*   [Stashbox (⭐133)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [DryIoc (⭐966)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [Stashbox (⭐134)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
-*   [Persistent AVL trees (⭐122)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+*   [Persistent AVL trees (⭐124)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
 *   [Finger Tree (⭐213)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
 *   [Hitchhiker Tree (⭐1.2k)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
 *   [Hierarchical set (⭐7)](https://github.com/llasram/hier-set)
-*   [Ordered (⭐248)](https://github.com/amalloy/ordered): ordered sets and maps
+*   [Ordered (⭐255)](https://github.com/amalloy/ordered): ordered sets and maps
 *   [Lazy Map (⭐48)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-*   [Durable Queue (⭐379)](https://github.com/Factual/durable-queue): queue persisted on disk
-*   [bifurcan (⭐953)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐953)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+*   [Durable Queue (⭐381)](https://github.com/Factual/durable-queue): queue persisted on disk
+*   [bifurcan (⭐957)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐957)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
 
 ---
 

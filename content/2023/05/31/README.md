@@ -10,14 +10,14 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐416)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐426)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Platform specific
 
 *   Windows
-    *   [microsoft/windows-rs (⭐9.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [microsoft/windows-rs (⭐9.9k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.8k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
@@ -46,15 +46,15 @@
 
 ### Calendar
 
-*   [date-picker-svelte (⭐273)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐284)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
 *   [Woodpecker Build Status (⭐1)](https://github.com/sguter90/directus-extension-woodpecker-build-status) - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
-*   [Imagga Hook (⭐11)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
-*   [Tiptap Interface & Display (⭐55)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
+*   [Imagga Hook (⭐14)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+*   [Tiptap Interface & Display (⭐57)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
 ## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Tools / Misc
 
-*   [Ambrosia (⭐108)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
+*   [Ambrosia (⭐109)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Base Tools / Other
 
-*   [Ofelia (⭐2.7k)](https://github.com/mcuadros/ofelia/) - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
+*   [Ofelia (⭐2.8k)](https://github.com/mcuadros/ofelia/) - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
 
 ---
 

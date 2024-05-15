@@ -22,7 +22,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐42)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐44)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -70,7 +70,7 @@
 
 ### AI
 
-*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
+*   [astar (⭐10)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

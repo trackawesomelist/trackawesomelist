@@ -16,7 +16,7 @@
 
 ### Navigation / Image Picker
 
-*   [PageView Indicator (⭐160)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
+*   [PageView Indicator (⭐164)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 
 ## [3. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

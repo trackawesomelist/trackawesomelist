@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2015
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,37 +44,31 @@
 
 *   [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 Samples (⭐1k)](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-
-## [6. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [5. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Searching / Omniauth
 
 *   [searchkick (⭐6k)](https://github.com/ankane/searchkick) - Intelligent search made easy with Rails and Elasticsearch.
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐374)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
-## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
 *   [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Push Notifications
 
 *   [PushSharp (⭐4.4k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
-## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Design / Misc
 
@@ -84,7 +78,7 @@
 
 *   [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 
-## [11. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [10. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Fun stuff / Alternative Icons
 
@@ -94,7 +88,7 @@
 
 *   [Hack](http://sourcefoundry.org/hack/)
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Application Skeleton
 
@@ -104,13 +98,13 @@
 
 *   [phalcon-cron (⭐78)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
-## [13. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [12. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Testing / Paid Books
 
 *   [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 
-## [14. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+## [13. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
 ### Beginner Books
 

@@ -16,7 +16,7 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [bpfman (⭐260)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
+*   [bpfman (⭐417)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -52,7 +52,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐412)](https://github.com/porsche-design-system/porsche-design-system)
+  Source code \*: [:octocat: (⭐441)](https://github.com/porsche-design-system/porsche-design-system)
 
 
 
@@ -66,7 +66,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐27)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐31)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ## [8. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
 
@@ -79,17 +79,17 @@
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Other Xcode / Collection View Layout
+### Newsletters
 
-*   [Swift Macros 🚀 (⭐1.8k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
+*   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
-### News, Blogs and more / Collection View Layout
+### Websites / Collection View Layout
 
 *   [Point Free](https://www.pointfree.co/) - A video series exploring functional programming and Swift.
 
-### Newsletters / Collection View Layout
+### Other Xcode / Collection View Layout
 
-*   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
+*   [Swift Macros 🚀 (⭐2k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
 ---
 

@@ -34,7 +34,7 @@
 
 ### Examples
 
-*   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐85)](https://github.com/shared-components/shared-react-components-example)
 
 ---
 

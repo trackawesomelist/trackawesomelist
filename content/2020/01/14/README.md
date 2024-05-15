@@ -20,7 +20,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [wsl-gui-bins (⭐37)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-gui-bins (⭐36)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [3. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -38,29 +38,28 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐3.3k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3.3k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐3.8k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3.8k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
-*   [PhpInsights (⭐5.1k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐99)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [PhpInsights (⭐5.2k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
+*   [Tango (⭐104)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐120)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐131)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
-*   [Magento 2 Ngrok (⭐45)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
+*   [Magento 2 Ngrok (⭐44)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Hybrid
 
 *   [Blazor + Electron](https://aka.ms/blazorelectron) - Host Razor Components inside an Electron shell. This allows for modern, high-performance cross-platform desktop apps built with .NET and web technologies.
-*   [Blazor + WebWindow](https://aka.ms/webwindow) - [WebWindow](https://www.nuget.org/packages/WebWindow) is like Electron, but without bundling Node.js or Chromium, and without most of the APIs. [WebWindow source code (⭐2k)](https://github.com/SteveSandersonMS/WebWindow). [Blazor + WebWindow sample here (⭐2k)](https://github.com/SteveSandersonMS/WebWindow/tree/master/samples/BlazorDesktopApp).
 
 ### Mobile
 
@@ -70,11 +69,7 @@
 
 ### UI / Barcode
 
-*   [SweetCurtain (⭐117)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
-
-### Alert / Barcode
-
-*   [CFNotify (⭐495)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
+*   [SweetCurtain (⭐116)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
 
 ### Button / Barcode
 
@@ -82,7 +77,7 @@
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐1.2k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐1.3k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -102,7 +97,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐176)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐181)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -121,13 +116,13 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [yGuard (⭐328)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐340)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Logging
 
-*   [loguru (⭐17k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
+*   [loguru (⭐18k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

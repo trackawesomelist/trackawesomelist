@@ -33,22 +33,22 @@
 
 ### NixOS Modules / Zig
 
-*   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+*   [nix-topology (⭐319)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
-*   [Unicolour (⭐34)](https://github.com/waacton/Unicolour) - Colour conversion, interpolation, and comparison for .NET.
+*   [Unicolour (⭐36)](https://github.com/waacton/Unicolour) - Colour conversion, interpolation, and comparison for .NET.
 
 ### MQTT
 
-*   [HiveMQtt (⭐43)](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - The HiveMQ C# MQTT client for .NET
+*   [HiveMQtt (⭐46)](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - The HiveMQ C# MQTT client for .NET
 *   [MQTTNet (⭐4.2k)](https://github.com/dotnet/MQTTnet) - A high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker).
 
 ### Source Generator
 
-*   [extra-awesome-dotnet (⭐8)](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
+*   [extra-awesome-dotnet (⭐15)](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -84,4 +84,5 @@
 
 ---
 
+- Prev: [Apr 10, 2024](/content/2024/04/10/README.md)
 - Next: [Apr 08, 2024](/content/2024/04/08/README.md)

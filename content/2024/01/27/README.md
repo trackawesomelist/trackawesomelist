@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue3-realworld-app (⭐16)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
+*   [vue3-realworld-app (⭐27)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 
 ## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
@@ -52,19 +52,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+*   [lopi-py/luau-lsp.nvim (⭐30)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Resseract Lite (⭐1)](https://github.com/abistarun/resseract-lite)
+*   [Resseract Lite (⭐4)](https://github.com/abistarun/resseract-lite)
 
 ## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [solid\_queue (⭐1.2k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
+*   [solid\_queue (⭐1.4k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,14 +28,7 @@
 
 *   [Eevee (⭐175)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Code Example with Webpack (⭐313)](https://github.com/blacksonic/angular2-aot-webpack)
-*   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
-
-## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -61,7 +54,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 | ---- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
 | ✔    | ✔     | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00 |
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -71,7 +64,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
-## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [6. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Tutorials / Aurelia Videos
 

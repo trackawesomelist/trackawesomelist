@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2019
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -290,7 +290,7 @@
 
 ### Table of Contents / HTTP
 
-*   [Symfony HTTP Client (⭐1.8k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+*   [Symfony HTTP Client (⭐1.9k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 
 ### Table of Contents / Scraping
 
@@ -389,10 +389,6 @@
 *   [Journal on Data Semantics ](http://www.springer.com/journal/13740)
 *   [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 
-### Newsletters
-
-*   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Cloud
@@ -409,11 +405,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐471)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐472)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐881)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -425,7 +421,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐21k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐22k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -433,7 +429,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐7.8k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐7.9k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -527,9 +523,9 @@
 *   [TraceWrangler](https://www.tracewrangler.com/) - Network capture file toolkit that can edit and merge `pcap` or `pcapng` files with batch editing features.
 *   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
 *   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
-*   [hping3 (⭐1.3k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
-*   [pig (⭐456)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
-*   [scapy (⭐9.8k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [hping3 (⭐1.4k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
+*   [pig (⭐459)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐10k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
 
 ### Vulnerability Databases / Social Engineering Tools
@@ -609,26 +605,26 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐97)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐11k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐6.6k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [bashdot (⭐99)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐12k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐6.8k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 *   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐7.2k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
+*   [Fisher (⭐7.4k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
 *   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 *   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
 ### Tools / macOS
 
 *   [dockutil (⭐1.3k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
-*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+*   [mas (⭐11k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
 *   [Eduardo's dotfiles (⭐423)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐134)](https://github.com/kdeldycke/dotfiles)
-*   [kody (⭐136)](https://github.com/jh3y/kody)
+*   [Kevin's dotfiles (⭐138)](https://github.com/kdeldycke/dotfiles)
+*   [kody (⭐137)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
 ## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -710,7 +706,7 @@
 
 ### Auth / Image Picker
 
-*   [Apple Sign-In (⭐157)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
+*   [Apple Sign-In (⭐159)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
 ### Communication / Game Engine resources
 
@@ -744,22 +740,22 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐134)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐139)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐36)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐113)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐25)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor.LocalFiles (⭐47)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor.EventAggregator (⭐117)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐30)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor.LocalFiles (⭐48)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
 ## [44. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Database
 
-*   [sqlline (⭐580)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐606)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐6.3k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐7.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [45. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -774,31 +770,25 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [46. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### HTML and CSS
-
-*   [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
-
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Laravel File Manager (⭐1.1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
-## [48. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 
-## [49. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [48. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
 *   [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
-## [50. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [49. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -811,11 +801,11 @@
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
-## [51. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [50. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
-*   [Haskell to Elm (⭐68)](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
+*   [Haskell to Elm (⭐67)](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 
 ### News / Video tutorials
 
@@ -827,23 +817,23 @@
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐762)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
-*   [Fabulous (⭐1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+*   [Elmish (⭐809)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Fabulous (⭐1.1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games
 
-*   [iOS (⭐160)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
-*   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-*   [elm-serverless (⭐170)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+*   [iOS (⭐159)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+*   [elmish-wasm (⭐18)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+*   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
-## [52. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [51. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Mailgun Service (⭐103)](https://github.com/vapor-community/VaporMailgunService) – A service to be used with Vapor to send emails.
 
-## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 

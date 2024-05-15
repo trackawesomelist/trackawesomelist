@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐560)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐558)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -24,15 +24,15 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐307)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐306)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.6k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.8k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐5.4k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐5.5k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐397)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐398)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
@@ -146,7 +146,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐115)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐118)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 
@@ -154,9 +154,9 @@
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐75)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail Cache (⭐78)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 *   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐61)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Orderable (⭐62)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 

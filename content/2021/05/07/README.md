@@ -10,11 +10,11 @@
 
 ### Tools and session management
 
-*   [tmux-suspend (⭐103)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
+*   [tmux-suspend (⭐117)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 
 ### Status Bar
 
-*   [tmux-mode-indicator (⭐91)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
+*   [tmux-mode-indicator (⭐114)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
 
 ## [2. Awesome Standard](/content/standard/awesome-standard/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quill (⭐904)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+*   [vue-quill (⭐991)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -90,7 +90,7 @@
 
 ### URL Shorteners
 
-- API: [1pt (⭐23)](https://github.com/1pt-co/api/blob/main/README.md)
+- API: [1pt (⭐26)](https://github.com/1pt-co/api/blob/main/README.md)
 
   Description: A simple URL shortener
 
@@ -106,38 +106,37 @@
 
 ### Starters & Themes
 
-*   🚀 [Jekyll Landing Website Starter (⭐86)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
+*   🚀 [Jekyll Landing Website Starter (⭐93)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Animation
 
-*   [SPPerspective (⭐312)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
+*   [SPPerspective (⭐319)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
 
 ## [10. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Client-side
 
-*   💜 [Vue.js (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-*   💜 [React (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-*   💜 [Svelte (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+*   💜 [Vue.js (⭐5.8k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+*   💜 [React (⭐5.8k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+*   💜 [Svelte (⭐5.8k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 
 ### Adapters / Server-side
 
 *   💜 [Laravel (⭐1.9k)](https://github.com/inertiajs/inertia-laravel)
-*   💜 [Rails (⭐350)](https://github.com/inertiajs/inertia-rails)
-*   [Statamic (⭐54)](https://github.com/hotmeteor/inertia-statamic)
-*   [ASP.NET Core (⭐59)](https://github.com/Nothing-Works/inertia-aspnetcore)
-*   [CakePHP (⭐35)](https://github.com/ishanvyas22/cakephp-inertiajs)
+*   💜 [Rails (⭐362)](https://github.com/inertiajs/inertia-rails)
+*   [Statamic (⭐55)](https://github.com/hotmeteor/inertia-statamic)
+*   [CakePHP (⭐37)](https://github.com/ishanvyas22/cakephp-inertiajs)
 *   [ColdBox (⭐4)](https://github.com/elpete/cbInertia)
-*   [Phoenix (⭐72)](https://github.com/devato/inertia_phoenix)
-*   [Symfony (⭐154)](https://github.com/rompetomp/inertia-bundle)
-*   [Yii2 (⭐57)](https://github.com/tbreuss/yii2-inertia)
-*   [Django (⭐90)](https://github.com/zodman/inertia-django)
+*   [Phoenix (⭐80)](https://github.com/devato/inertia_phoenix)
+*   [Symfony (⭐152)](https://github.com/rompetomp/inertia-bundle)
+*   [Yii2 (⭐58)](https://github.com/tbreuss/yii2-inertia)
+*   [Django (⭐91)](https://github.com/zodman/inertia-django)
 *   [Fiber (⭐11)](https://github.com/theArtechnology/fiber-inertia)
 *   [Node.js](https://github.com/jordankaerim/inertia-node)
 *   [Masonite (⭐23)](https://github.com/girardinsamuel/masonite-inertia)
-*   [WordPress (⭐150)](https://github.com/boxybird/wordpress-inertia-plugin)
+*   [WordPress (⭐153)](https://github.com/boxybird/wordpress-inertia-plugin)
 *   [Flask (⭐23)](https://github.com/j0ack/flask-inertia)
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
@@ -156,7 +155,7 @@
 
 ### Image Generation
 
-*   [Anime2Sketch (⭐1.8k)](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration. \[English]
+*   [Anime2Sketch (⭐1.9k)](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration. \[English]
 
 ## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -176,7 +175,7 @@
 
 ### Version Manager / Diagnostics
 
-*   [NTBBloodbath/nvenv (⭐53)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
+*   [NTBBloodbath/nvenv (⭐51)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
 ---
 

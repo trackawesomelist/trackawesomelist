@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2014
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,12 +72,6 @@
 ### QA Tools / Runner
 
 *   [jscs (⭐5k)](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
-
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### CoffeeScript
-
-*   [CoffeeScript 编程风格指南 (⭐7)](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 ---
 

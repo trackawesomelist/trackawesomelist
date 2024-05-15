@@ -34,8 +34,8 @@
 
 ### Database
 
-*   [next.jdbc (⭐705)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐708)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐726)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐712)](https://github.com/clojure/java.jdbc)
 
 ## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

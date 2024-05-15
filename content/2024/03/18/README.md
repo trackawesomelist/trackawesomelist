@@ -10,8 +10,8 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Finance (⭐1.8k)](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data.
-*   [101\_formulaic\_alphas (⭐4)](https://github.com/ram-ki/101_formulaic_alphas) - Implemention of [101 formulaic alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf) using qstrader.
+*   [Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data.
+*   [101\_formulaic\_alphas (⭐5)](https://github.com/ram-ki/101_formulaic_alphas) - Implementation of [101 formulaic alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf) using qstrader.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -21,18 +21,18 @@
 
 ### Templates / GitHub
 
-*   [github-action-template (⭐1)](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
+*   [github-action-template (⭐5)](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@tomjs/vite-plugin-html (⭐2)](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
+*   [@tomjs/vite-plugin-html (⭐3)](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
 *   [@tomjs/vite-plugin-iconify (⭐2)](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
 
 ## [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Lake Management
 
-*   [Project Nessie (⭐800)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
+*   [Project Nessie (⭐813)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 
 ### Community / Podcasts
 
@@ -49,7 +49,7 @@
 ### Libraries / Network programming
 
 *   VPN
-    *   [defguard/wireguard-rs (⭐97)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+    *   [defguard/wireguard-rs (⭐106)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bigshrimp (⭐0)](https://github.com/taksyon/BigShrimp-zsh-theme) - A clear and concise theme that includes decorators for username\@host, current directory and `git` status.
+*   [bigshrimp (⭐1)](https://github.com/taksyon/BigShrimp-zsh-theme) - A clear and concise theme that includes decorators for username\@host, current directory and `git` status.
 
 ---
 

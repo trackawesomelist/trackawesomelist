@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2022
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,25 +10,25 @@
 
 ### Other Lists of Code Points / Games
 
-*   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+*   [Cross-platform terminal characters (⭐210)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐710)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐713)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐199)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐209)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
-*   [Portable ASCII (⭐476)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable ASCII (⭐488)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 
 ## [5. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐107)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐110)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐696)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐711)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [8. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -117,11 +117,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Applications / Blockchain
 
-*   [Holochain (⭐884)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐1.1k)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
-*   [pueue (⭐4.2k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
+*   [pueue (⭐4.6k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 
 ### Libraries / Compression
 
@@ -131,8 +131,8 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Libraries / Mobile
 
 *   Generic
-    *   [Geal/rust\_on\_mobile (⭐167)](https://github.com/Geal/rust_on_mobile)
-    *   [redbadger/crux (⭐1.3k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
+    *   [Geal/rust\_on\_mobile (⭐169)](https://github.com/Geal/rust_on_mobile)
+    *   [redbadger/crux (⭐1.5k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
 
 ## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -154,7 +154,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐38k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐40k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
@@ -178,7 +178,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Authentication and OAuth
 
-*   [keto (⭐4.5k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4.6k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -190,11 +190,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐914)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐931)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐339)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐354)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -205,11 +205,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Components & Libraries / Frameworks
 
-*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
+*   [ant-design-vue (⭐20k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐483)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐504)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [22. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -276,35 +276,35 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [alehouse (⭐14)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
-*   [auto-fortune-cowsay (⭐9)](https://github.com/babasbot/auto-fortune-cowsay-zsh) - Prints out an ASCII picture of a cow saying a random epigram on every ZSH start.
+*   [auto-fortune-cowsay (⭐10)](https://github.com/babasbot/auto-fortune-cowsay-zsh) - Prints out an ASCII picture of a cow saying a random epigram on every ZSH start.
 *   [aws-cli-mfa (⭐19)](https://github.com/joepjoosten/aws-cli-mfa-oh-my-zsh) - AWS CLI MFA plugin based on sweharris' [aws-cli-mfa (⭐23)](https://github.com/sweharris/aws-cli-mfa). Supports specifying `mfa_device` in profile.
 *   [aws-plugin (⭐2)](https://github.com/pookey/zsh-aws-plugin) - Adds helper functions for `aws` command. Includes mfa and `assume-role` helpers.
 *   [boss-docker (⭐1)](https://github.com/bossjones/boss-docker-zsh-plugin) - Manages `docker` on macOS.
 *   [bumblebee (⭐2)](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle prepending `optirun` in the command line.
-*   [cdr (⭐15)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
+*   [cdr (⭐16)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
-*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐2.2k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
+*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐2.3k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
 *   [evil-registers (⭐36)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 *   [exa (zplugin) (⭐0)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 *   [f-shortcuts (⭐5)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐17)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐697)](https://github.com/travis-ci/gimme/).
-*   [git-aliases (mdumitru) (⭐26)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐700)](https://github.com/travis-ci/gimme/).
+*   [git-aliases (mdumitru) (⭐28)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
 *   [history-popup (⭐0)](https://github.com/lcrespom/oh-my-zsh-history-popup) - Captures the `PageUp` key and uses `dialog` to open a popup menu with the history, so the user can interactively navigate through it and pick the history line to bring back to the prompt.
-*   [iterm2 (⭐9)](https://github.com/laggardkernel/zsh-iterm2) - Packs iTerm 2's ZSH integration scripts into a ZSH plugin to avoid polluting your $HOME directory, with a negligible time increase of only 2ms.
+*   [iterm2 (⭐10)](https://github.com/laggardkernel/zsh-iterm2) - Packs iTerm 2's ZSH integration scripts into a ZSH plugin to avoid polluting your $HOME directory, with a negligible time increase of only 2ms.
 *   [jenv-lazy (⭐6)](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of [jEnv](http://www.jenv.be/).
 *   [kitsunebook (⭐0)](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for [oh-my-zsh](https://ohmyz.sh).
-*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐32k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
+*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐33k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
 *   [lesaint-git (⭐0)](https://github.com/lesaint/lesaint-git) - Replacement `git` plugin for [oh-my-zsh](https://ohmyz.sh)-compatible frameworks.
 *   [lesaint-mvn (⭐0)](https://github.com/lesaint/lesaint-mvn) - Maven plugins for [oh-my-zsh](https://ohmyz.sh).
 *   [lux (⭐32)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
 *   [mercurial (⭐2)](https://github.com/hcgraf/zsh-mercurial) - Extracted from [oh-my-zsh](https://ohmyz.sh) so you can use it without the rest of oh-my-zsh.
 *   [pkenv (⭐1)](https://github.com/ptavares/zsh-pkenv) - Installs and loads [pkenv](https://github.com/iamhsa/pkenv.git).
 *   [plugin (⭐12)](https://github.com/darrenbutcher/plugin) - Creates custom [oh-my-zsh](https://ohmyz.sh) plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks.
-*   [rvm (⭐2)](https://github.com/johnhamelink/rvm-zsh) - Initiates [rvm (⭐5k)](https://github.com/rvm/rvm) and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
+*   [rvm (⭐2)](https://github.com/johnhamelink/rvm-zsh) - Initiates [rvm (⭐5.1k)](https://github.com/rvm/rvm) and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
 *   [tgenv (⭐0)](https://github.com/ptavares/zsh-tgenv) - Installs and loads [tgenv](https://github.com/cunymatthieu/tgenv.git). Includes a function to manually update `tgenv`.
 *   [virtualenv-mod (⭐1)](https://github.com/mattcl/virtualenv-mod) - A modified virtualenv ZSH plugin for [oh-my-zsh](https://ohmyz.sh).
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
@@ -314,7 +314,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bearings (⭐193)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
+*   [bearings (⭐194)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
 *   [shinkansen (⭐0)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current Node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
 *   [vehemence (⭐0)](https://github.com/H1N1-dev/vehemence-zsh) - Includes decorators for `pwd`, `user@host`, `tty`, time, last command exit code and `git` status.
 
@@ -322,11 +322,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐231)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐250)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ### Security
 
-*   [Cyber Security University (⭐1.2k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Cyber Security University (⭐1.4k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 *   [Hacking Spots (⭐1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
@@ -339,11 +339,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lewpoly/sherbet.nvim (⭐66)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐71)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐107)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐115)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
@@ -351,7 +351,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Editing Support / Diagnostics
 
-*   [anuvyklack/pretty-fold.nvim (⭐406)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+*   [anuvyklack/pretty-fold.nvim (⭐417)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 
 ### Resource / Diagnostics
 
@@ -361,7 +361,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐38)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐40)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ## [31. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -373,26 +373,21 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Traffic Capture
 
-*   [Deepfence PacketStreamer (⭐1.6k)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.9k)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 ## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [stravital (⭐26)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
-*   [ViteRC (⭐44)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
-
-### Framework-agnostic Plugins / Bundling
-
-*   [vite-plugin-importus (⭐23)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+*   [ViteRC (⭐46)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐43)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐50)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐181)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐197)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -436,6 +431,8 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tax Data API](https://apilayer.com/marketplace/tax_data-api)
 
@@ -446,6 +443,8 @@ Installs: 2000 | Stars: 131 | Last update: n/a
   HTTPS: Yes
 
   CORS: Unkown
+
+  Call this API: 
 
 
 
@@ -465,8 +464,8 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Parser / Package managers
 
-*   [goto-bus-stop/ziguid (⭐7)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
-*   [sam701/zig-cli (⭐121)](https://github.com/sam701/zig-cli) - Package for building command line apps.
+*   [goto-bus-stop/ziguid (⭐6)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
+*   [sam701/zig-cli (⭐133)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
 ## [38. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -480,20 +479,55 @@ Installs: 2000 | Stars: 131 | Last update: n/a
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 *   [Playlist (⭐22)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Misc
+
+*   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
+*   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
+
+### Security & Privacy
+
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐6.6k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+
+### Version Control Systems
+
+*   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
+*   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
+*   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
+*   [Git internals (⭐2.5k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
+*   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
+*   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
+*   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
+*   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
+*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
+*   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
+*   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐379)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
+*   [Introduction to Git and GitHub eBook (⭐556)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
+*   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
+*   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
+*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
+*   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐3.7k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
+*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐4.3k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [µTask (⭐1.1k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
 
 ### Software / Communication - IRC
 
-*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐711)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
+*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐717)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
 
 ### Software / Communication - SIP
 
-*   [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code (⭐150)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
+*   [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code (⭐152)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -501,7 +535,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Conference Management
 
-*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐688)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
+*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐694)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
 
 ### Software / Content Management Systems (CMS)
 
@@ -513,11 +547,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Feed Readers
 
-*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
+*   [RSS-Bridge (⭐6.9k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐1k)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
+*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐1.1k)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -530,13 +564,13 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Miscellaneous
 
-*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐1.8k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
+*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐2.1k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 
 ### Software / Pastebins
 
-*   [bin (⭐342)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐503)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
-*   [Wastebin (⭐175)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
+*   [bin (⭐362)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
+*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐518)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
+*   [Wastebin (⭐212)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -544,13 +578,13 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Status / Uptime pages
 
-*   [Uptime Kuma (⭐47k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
+*   [Uptime Kuma (⭐50k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 
 ### Software / URL Shorteners
 
-*   [Lstu (⭐201)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
+*   [Lstu (⭐203)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
 
-## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -571,19 +605,19 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 *   [WASM Everywhere with Steve Sanderson](https://www.dotnetrocks.com/default.aspx?ShowNum=1801) - July 7, 2022 - WebAssembly is awesome - what else can you do with it? While at NDC London, Carl and Richard talked to Steve Sanderson about his work with WebAssembly, including Blazor. Steve talks about how WebAssembly continues to evolve adding WebAssembly System Integration. This opens the door to the idea that code in the WebAssembly can be run anywhere - any operating system, any language, using whatever compute is available. That gives an option to run code on the client, the server, and anywhere in between. Duration: 55 minutes.
 
-## [41. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [42. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab-tensorboard-pro (⭐76)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [vendelieu/telegram-bot (⭐116)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
+*   [vendelieu/telegram-bot (⭐137)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -612,17 +646,17 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [44. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [45. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [n98-magerun2 (⭐825)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
+*   [n98-magerun2 (⭐852)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
 
 ### Localization
 
 *   [nl\_NL (⭐7)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Changing the syntax
 
@@ -633,23 +667,23 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Portal (⭐28)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [46. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
-*   🌟 [QuantResearch (⭐1.5k)](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
+*   🌟 [QuantResearch (⭐1.7k)](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
 
 ### Visualizing / Plugins
 
-*   [KLineChart (⭐1.8k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
+*   [KLineChart (⭐2.1k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
-## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - South German Museum for History of Digital Development.
 
-## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Reading
 
@@ -755,7 +789,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
 *   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 *   [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐29)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
+*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐31)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
 *   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 *   [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. \[[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768\&hl=en\&as_sdt=0,5)]. Yann LeCun's tutorial on energy-based learning.
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317\&hl=en\&as_sdt=0,5)].
@@ -789,28 +823,28 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Complexity & Information Theory / Theory
 
-*   [An introduction to Kolmogorov complexity and its applications](https://link.springer.com/content/pdf/10.1007/978-3-030-11298-1.pdf) - ***Springer***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=8746708322477453221\&hl=en\&as_sdt=0,5)]. The introductory book for Algorithmic Information Theory, especially the Kolmogorov complexity theory.
-*   [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. \[[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138\&hl=en\&as_sdt=0,5)]. Herbert Simon's review on subjective complexity.
-*   [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793\&hl=en\&as_sdt=0,5)]. Chaitin's original paper on Algorithmic Information Theory.
+*   [An introduction to Kolmogorov complexity and its applications](https://link.springer.com/content/pdf/10.1007/978-3-030-11298-1.pdf) - ***Springer***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=8746708322477453221)]. The introductory book for Algorithmic Information Theory, especially the Kolmogorov complexity theory.
+*   [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. \[[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138)]. Herbert Simon's review on subjective complexity.
+*   [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793)]. Chaitin's original paper on Algorithmic Information Theory.
 
 ### Complexity & Information Theory / Dimensionality Reduction
 
-*   [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695\&rep=rep1\&type=pdf) - ***Science***, 2000. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14602426245887619907)]. The original paper on spectrum clustering.
-*   [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628\&hl=en\&as_sdt=0,5)]. The original paper on Variational Autoencoder.
-*   [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088\&hl=en\&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
-*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
-*   [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281\&hl=en\&as_sdt=0,5)]. The first paper identifying the problem of information bottleneck in representation learning.
-*   [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695\&rep=rep1\&type=pdf) - ***Science***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=14602426245887619907)]. The original paper on spectrum clustering.
+*   [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628)]. The original paper on Variational Autoencoder.
+*   [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088)]. Yoshua Bengio's review on representation learning.
+*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
+*   [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281)]. The first paper identifying the problem of information bottleneck in representation learning.
+*   [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982)].
 
 ### Complexity & Information Theory / Visual Complexity
 
-*   [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2006-00818-005)]. A psychological account on visual complexity.
-*   [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2021-83037-001)]. Empirical evidencs showing the relation between visual complexity and description length.
-*   [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972\&hl=en\&as_sdt=0,5)]. A comprehensive review on the trade-off between variability and generalization ability.
+*   [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939)]. \[[APA](https://psycnet.apa.org/record/2006-00818-005)]. A psychological account on visual complexity.
+*   [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233)]. \[[APA](https://psycnet.apa.org/record/2021-83037-001)]. Empirical evidencs showing the relation between visual complexity and description length.
+*   [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972)]. A comprehensive review on the trade-off between variability and generalization ability.
 
 ### Communications / Non-Verbal Communication
 
-*   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970\&hl=en\&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
+*   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970)]. Nicolas Fay's original paper on iconicity.
 *   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567\&hl=en\&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
 *   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGRAPH'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
@@ -823,8 +857,8 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Communications / Pragmatics
 
 *   [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
-*   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054\&hl=en\&as_sdt=0,5)]. The original paper on Rational Speech Act (RSA).
-*   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130\&hl=en\&as_sdt=0,5)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
+*   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. The original paper on Rational Speech Act (RSA).
+*   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
 *   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Adjective understanding as a rational inference in the context.
 *   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on social pragmatics.
 *   [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301\&hl=en\&as_sdt=0,5)]. Application of Rational Speech Act to Image Captioning.
@@ -837,7 +871,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***Proceedings of the Evolution of Language Conference'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222\&hl=en\&as_sdt=0,5)]. The original paper on the emergence of compositionality.
 *   [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446\&hl=en\&as_sdt=0,5)]. The original paper on the emergence of language in multi-agent reinforcement learning.
 
-### Domain Specific Language / Domain Specified Applications
+### Domain Specific Language / Imperative DSL Applications
 
 *   [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=15572197190838916795)]. \[[Project (⭐1)](https://github.com/nmz787/BioCoder)]. \[[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
 
@@ -909,7 +943,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐597)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐600)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -938,7 +972,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
-### Causality / Democratization of Science
+### Causality / AI Assisted Research
 
 *   [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17166265099721941605)].
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -1010,7 +1044,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
-### Theory of Mind / Democratization of Science
+### Theory of Mind / AI Assisted Research
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
@@ -1027,7 +1061,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
 *   [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Democratization of Science
+### Analogy / AI Assisted Research
 
 *   [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
@@ -1076,7 +1110,6 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
 *   [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302\&hl=en\&as_sdt=0,5)]. A 30-year comprehensive review on Inductive Logic Programming.
 *   [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386\&hl=en\&as_sdt=0,5)].
-*   [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844\&hl=en\&as_sdt=0,5)]. A incremental learning version of Bayesian program learning.
 
 ### Knowledge Representation / Commonsense Knowledgebase
 
@@ -1117,7 +1150,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
 *   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
 
-## [49. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [50. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -1127,7 +1160,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Yew HTTP Starter (⭐4)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
-## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -1152,14 +1185,14 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Communication / Email Clients
 
-*   [ElectronMail (⭐1.4k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ElectronMail (⭐1.5k)](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladimiry/ElectronMail) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Mailspring](https://getmailspring.com/) - A beautiful, fast, and fully open source mail client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Foundry376/Mailspring) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Tutanota](https://tutanota.com/) - Encrypted email focused on security and privacy. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tutao/tutanota) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐377)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐406)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

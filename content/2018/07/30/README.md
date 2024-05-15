@@ -22,7 +22,7 @@
 
 ### GIS
 
-*   [CoordinateSharp (⭐331)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐348)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -77,7 +77,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Learning
 
-*   [Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
+*   [Quantum Katas (⭐4.5k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 
 ## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -109,7 +109,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Crypto Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome Crypto Papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

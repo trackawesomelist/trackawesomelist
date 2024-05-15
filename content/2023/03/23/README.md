@@ -14,7 +14,7 @@
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Generative AI Timeline](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480): post in Linkedin by David Foster
 
@@ -31,25 +31,25 @@
 ### Libraries / Rust
 
 *   Rust: Audio
-    *   🎉 [Kira (⭐750)](https://github.com/tesselode/kira) - Create expressive audio for games.
+    *   🎉 [Kira (⭐779)](https://github.com/tesselode/kira) - Create expressive audio for games.
 *   Rust: Gui
-    *   🔒 [Azul (⭐5.7k)](https://github.com/fschutt/azul) - Desktop gui framework.
-    *   🎉 [Dioxus (⭐16k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
-    *   🎉 [Druid (⭐9.2k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
-    *   🎉 [egui (⭐18k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
-    *   🔒 [Slint (⭐12k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
+    *   🔒 [Azul (⭐5.8k)](https://github.com/fschutt/azul) - Desktop gui framework.
+    *   🎉 [Dioxus (⭐18k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    *   🎉 [Druid (⭐9.3k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
+    *   🎉 [egui (⭐19k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
+    *   🔒 [Slint (⭐15k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐97)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐122)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### CI/CD / Other
 
-*   [Jaypore CI (⭐35)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
+*   [Jaypore CI (⭐36)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
 
 ---
 

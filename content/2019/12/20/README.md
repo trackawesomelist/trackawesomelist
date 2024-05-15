@@ -10,7 +10,7 @@
 
 ### File Extraction
 
-*   [Chaosreader (⭐207)](https://github.com/brendangregg/Chaosreader): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
+*   [Chaosreader (⭐217)](https://github.com/brendangregg/Chaosreader): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐830)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+*   [SwiftCoroutine (⭐833)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐299)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐378)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [8. ElixirBooks](/content/sger/ElixirBooks/README.md)
@@ -79,7 +79,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐9.8k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐10k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

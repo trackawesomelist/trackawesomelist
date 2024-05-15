@@ -17,20 +17,20 @@
 ### Plugins and scripts / Godot 3.2+
 
 *   [Code Snapshot (⭐54)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐3k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
-*   [Scatter (⭐1.8k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+*   [Dialogic (⭐3.3k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Scatter (⭐1.9k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Coronavirus-tg-api (⭐13)](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
+*   [Coronavirus-tg-api (⭐14)](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 
 ## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### R / Time Series
 
-*   [matrixprofile (⭐352)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
+*   [matrixprofile (⭐356)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
 
 ## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-chart-v2 (⭐37)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
+*   [vue3-chart-v2 (⭐38)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 *   [vue-cloudinary-uploader (⭐4)](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)

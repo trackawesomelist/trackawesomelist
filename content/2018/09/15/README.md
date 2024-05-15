@@ -28,7 +28,7 @@
 
 ### Top / Game Engine resources
 
-*   [Tourism (⭐289)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐289)](https://github.com/bluemix/tourism-demo)
+*   [Tourism (⭐302)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐302)](https://github.com/bluemix/tourism-demo)
 
 ---
 

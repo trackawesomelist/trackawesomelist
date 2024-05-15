@@ -31,7 +31,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐275)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐280)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Languages / .NET
 
@@ -43,7 +43,7 @@
 
 ### Languages / Swift
 
-*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 ### Nodes & Consensus Participation / Wallets
 
@@ -86,7 +86,7 @@
 
 ### Stub packages
 
-*   [celery-types (⭐59)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐640)](https://github.com/celery/django-celery-results), [ampq (⭐301)](https://github.com/celery/py-amqp), [kombu (⭐2.7k)](https://github.com/celery/kombu), [billiard (⭐394)](https://github.com/celery/billiard), [vine (⭐118)](https://github.com/celery/vine) and [ephem (⭐718)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐61)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐644)](https://github.com/celery/django-celery-results), [ampq (⭐305)](https://github.com/celery/py-amqp), [kombu (⭐2.7k)](https://github.com/celery/kombu), [billiard (⭐394)](https://github.com/celery/billiard), [vine (⭐119)](https://github.com/celery/vine) and [ephem (⭐732)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -108,7 +108,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐781)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐801)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dev-manifest (⭐13)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+*   [vite-plugin-dev-manifest (⭐17)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -143,7 +143,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.4k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐215)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐228)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ---
 

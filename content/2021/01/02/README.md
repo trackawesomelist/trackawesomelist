@@ -20,19 +20,19 @@
     *   [by @kennyledet (⭐2.2k)](https://github.com/kennyledet/Algorithm-Implementations)
     *   [by @indy256 (⭐1.8k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
+    *   [by @patmorin (⭐1.2k)](https://github.com/patmorin/ods)
     *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Actors
 
-*   [bpe (⭐256)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐261)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
 *   [chat (⭐6)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -41,7 +41,7 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐51)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐54)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
@@ -65,7 +65,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐299)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐304)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -94,11 +94,11 @@
 ### Document
 
 *   Khronos
-    *   [Vulkan Guide (⭐1.6k)](https://github.com/KhronosGroup/Vulkan-Guide)
+    *   [Vulkan Guide (⭐1.8k)](https://github.com/KhronosGroup/Vulkan-Guide)
 
 ### Bindings
 
-*   [vulkan-zig (⭐294)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐366)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ---
 

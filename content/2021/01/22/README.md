@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐225)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐227)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -39,21 +39,21 @@
 ### Simulators / Object detection and object tracking
 
 *   [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
-    *   [GitHub repository :octocat: (⭐15k)](https://github.com/microsoft/AirSim)
+    *   [GitHub repository :octocat: (⭐16k)](https://github.com/microsoft/AirSim)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome point cloud analysis :octocat: (⭐3.9k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.7k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐2k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐8.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-*   [Awesome computer vision :octocat: (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐62k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
-*   [Awesome deep learning :octocat: (⭐22k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.5k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.5k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.7k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome robotics :octocat: (⭐3.9k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐2.1k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome artificial intelligence :octocat: (⭐9k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome computer vision :octocat: (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome machine learning :octocat: (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome deep learning :octocat: (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.6k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.6k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐265)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐273)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

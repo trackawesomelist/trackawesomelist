@@ -100,7 +100,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [alacritty (⭐51k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [alacritty (⭐53k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Data Recovery Tools / File Sharing
 
@@ -110,7 +110,7 @@
 
 ### Misc
 
-*   [SwiftKit (⭐826)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
+*   [SwiftKit (⭐825)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
 
 ### Animation
 
@@ -118,7 +118,7 @@
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐371)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐373)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -133,11 +133,11 @@
 ### Web Development
 
 *   **Frameworks**:
-    *   [Opium (⭐747)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+    *   [Opium (⭐748)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
     *   [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
     *   [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
     *   [webmachine (⭐224)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    *   [incr\_dom (⭐369)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
+    *   [incr\_dom (⭐371)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
     *   [fmlib\_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
     *   [ocaml-vdom (⭐192)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
@@ -227,7 +227,7 @@
 
 ### Ask these people anything!
 
-*   [Erdal TAŞKESEN (⭐4)](https://github.com/erdaltsksn/ama) - All in one developer.
+*   [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 
 ## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -257,7 +257,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [weasel-pageant (⭐248)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
+*   [weasel-pageant (⭐247)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -289,7 +289,7 @@
 ### Integrations
 
 *   [Duo Security MFA Authentication for Keycloak (⭐31)](https://github.com/mulesoft-labs/keycloak-duo-spi)
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐75)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐77)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [29. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐932)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐933)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### Sample Projects / JVM languages
 
-*   [DDD By Examples - Library (⭐4k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
+*   [DDD By Examples - Library (⭐4.1k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
 ## [34. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐313)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐334)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ## [36. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
@@ -361,7 +361,7 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐966)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐967)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -375,11 +375,11 @@
 
 ### UI / Calendar
 
-*   [Calendar Carousel Widget (⭐776)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐776)](https://github.com/dooboolab/flutter_calendar_carousel)
+*   [Calendar Carousel Widget (⭐810)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐810)](https://github.com/dooboolab/flutter_calendar_carousel)
 
 ### Vision / Augmented Reality
 
-*   [ARCore Plugin (⭐385)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+*   [ARCore Plugin (⭐420)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -389,7 +389,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.7k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐3.8k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -427,12 +427,12 @@
 ### Basic linear algebra
 
 *   [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
-    (C++, BSD, [GitHub (⭐286)](https://github.com/ginkgo-project/ginkgo))
+    (C++, BSD, [GitHub (⭐365)](https://github.com/ginkgo-project/ginkgo))
 
 ### Other libraries and tools / Mesh tools
 
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-    (MATLAB, BSD, [GitHub (⭐496)](https://github.com/chebfun/chebfun))
+    (MATLAB, BSD, [GitHub (⭐565)](https://github.com/chebfun/chebfun))
 
 ## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -442,15 +442,15 @@
 
 ### Packages / Date
 
-*   [Day.js (⭐45k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐46k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐565)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐568)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐6k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐6.1k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 

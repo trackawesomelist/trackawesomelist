@@ -50,13 +50,13 @@
 
 ### Misc
 
-*   [Enums.NET (⭐1.6k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.7k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / Elixir
 
-*   [eventstore (⭐992)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
+*   [eventstore (⭐1k)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 
 ## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -189,7 +189,7 @@
 
 ### URL Manipulation
 
-*   [furl (⭐2.5k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
+*   [furl (⭐2.6k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
 
 ---
 

@@ -37,7 +37,7 @@
 
 ### Debugging
 
-*   [mate-clj (⭐59)](https://github.com/AppsFlyer/mate-clj)
+*   [mate-clj (⭐57)](https://github.com/AppsFlyer/mate-clj)
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -76,7 +76,7 @@
 *   [nannou](http://nannou.cc/)
     \[Cross-platform] - Open-source creative coding framework for the Rust language.
 *   [thi.ng](http://thi.ng/)
-    \[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages.
+    \[Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 
 ### Online
 

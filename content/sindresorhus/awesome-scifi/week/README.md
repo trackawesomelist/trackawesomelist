@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.7K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.1K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-scifi/readme/README.md) ]
 
@@ -47,7 +47,7 @@ Sci-Fi worth consuming
 *   [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) \[4.3]
 *   [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) \[4.5]
 
-### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* / [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.0]
+### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
 
 *   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) \[4.0] 🔥
 *   [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) \[4.4]

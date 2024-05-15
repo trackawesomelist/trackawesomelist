@@ -28,7 +28,7 @@
 
 ### Custom Scrollbar
 
-*   [rc-scrollbars (⭐134)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+*   [rc-scrollbars (⭐142)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -46,17 +46,17 @@
 
 ### Community Resources
 
-*   [The Fish Cookbook (⭐1.8k)](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish
+*   [The Fish Cookbook (⭐2k)](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 
 ### Plugins
 
-*   [z (⭐1.1k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
-*   [fzf (⭐1.4k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐831)](https://github.com/jethrokuan/fzf))
-*   [nvm (⭐1.7k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
-*   [Done (⭐653)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
-*   [Replay (⭐340)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐2k)](https://github.com/edc/bass))
-*   [GitNow (⭐295)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
-*   [Getopts (⭐209)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
+*   [z (⭐1.2k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
+*   [fzf (⭐1.8k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐858)](https://github.com/jethrokuan/fzf))
+*   [nvm (⭐2k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
+*   [Done (⭐745)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
+*   [Replay (⭐383)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐2.1k)](https://github.com/edc/bass))
+*   [GitNow (⭐359)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
+*   [Getopts (⭐216)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

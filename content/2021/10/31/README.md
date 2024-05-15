@@ -11,11 +11,11 @@
 ### Awesome macros usage
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async) - transforms AST into CSP programs
-*   [cloroutine (⭐217)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
-*   [missionary (⭐574)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
+*   [cloroutine (⭐225)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
+*   [missionary (⭐600)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
 *   [photon (⭐7)](https://github.com/venantius/photon) - realtime web, like Meteor, but for Clojure(Script)
 *   [metaclj (⭐79)](https://github.com/brandonbloom/metaclj) - staged compilation
-*   [proteus (⭐110)](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
+*   [proteus (⭐111)](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐15k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐16k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [TaskoMask (⭐614)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
+*   [TaskoMask (⭐636)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -102,6 +102,8 @@
   HTTPS: Yes
 
   CORS: Yes
+
+  Call this API: 
 
 
 
@@ -216,6 +218,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 

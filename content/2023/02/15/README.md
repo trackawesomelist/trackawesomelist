@@ -38,7 +38,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐36)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
+*   🍰 [Queue plugin (⭐37)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
 
 ### CakePHP Tutorials
 
@@ -48,7 +48,7 @@
 
 ### IR Tools Collection / Linux Evidence Collection
 
-*   [MAGNET DumpIt (⭐114)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
+*   [MAGNET DumpIt (⭐122)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
 
 ### IR Tools Collection / Memory Imaging Tools
 
@@ -64,13 +64,13 @@
 
 ### AI
 
-*   [OpenAI (⭐1.5k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐1.7k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Blazor
 
-*   [blazork8s (⭐119)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+*   [blazork8s (⭐128)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ### Source Generator
 

@@ -33,13 +33,13 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [PHPArkitect (⭐653)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+*   [PHPArkitect (⭐677)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [POMWright (⭐14)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [POMWright (⭐20)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
 ## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Free Music Scores
 
-*   [Lavender Blue Open-Scores (⭐10)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
+*   [Lavender Blue Open-Scores (⭐13)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

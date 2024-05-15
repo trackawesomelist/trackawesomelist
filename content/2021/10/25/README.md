@@ -10,13 +10,13 @@
 
 ### Serialization
 
-*   [ObjectDumper.NET (⭐356)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
+*   [ObjectDumper.NET (⭐377)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [b0o/SchemaStore.nvim (⭐595)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.8k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [b0o/SchemaStore.nvim (⭐648)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.9k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐385)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐390)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐86)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐103)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [iommi (⭐620)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+*   [iommi (⭐628)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -193,7 +193,7 @@
   CORS: Yes
 
 
-- API: [Codex (⭐232)](https://github.com/Jaagrav/CodeX)
+- API: [Codex (⭐257)](https://github.com/Jaagrav/CodeX)
 
   Description: Online Compiler for Various Languages
 
@@ -237,7 +237,7 @@
   CORS: Unknown
 
 
-- API: [Sonar (⭐620)](https://github.com/Cgboal/SonarSearch)
+- API: [Sonar (⭐634)](https://github.com/Cgboal/SonarSearch)
 
   Description: Project Sonar DNS Enumeration API
 
@@ -248,7 +248,7 @@
   CORS: Yes
 
 
-- API: [Wandbox (⭐1.1k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
+- API: [Wandbox (⭐1.2k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
 
   Description: Code compiler supporting 35+ languages mentioned at wandbox.org
 
@@ -300,6 +300,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule)
 
@@ -311,16 +313,7 @@
 
   CORS: Yes
 
-
-- API: [Plaid](https://plaid.com/)
-
-  Description: Connect with user's bank accounts and access transaction data
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
+  Call this API: 
 
 
 - API: [Razorpay IFSC](https://razorpay.com/docs/)
@@ -333,6 +326,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [SmartAPI](https://smartapi.angelbroking.com/)
 
@@ -343,6 +338,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 

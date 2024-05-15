@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Alcotest (⭐411)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐416)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

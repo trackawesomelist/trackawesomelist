@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2024
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -15,11 +15,7 @@
 
 ### Tools / Environment managers
 
-*   [tenv (⭐120)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
-
-### Tools / CI
-
-*   [tf-via-pr-comments (⭐35)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+*   [tenv (⭐323)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
 ## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -49,7 +45,7 @@
 
 ### Utilities / Productivity
 
-*   [Keyboard Cowboy (⭐452)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
+*   [Keyboard Cowboy (⭐590)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
 ## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -61,13 +57,13 @@
 
 ### Templates / Vue 3
 
-*   [materio-free-vuetify-nuxtjs-admin-template (⭐18)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐33)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐48)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐64)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -91,26 +87,15 @@
 
 ### Julia / FrameWorks
 
-*   [IncTA.jl (⭐9)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
+*   [IncTA.jl (⭐15)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐67)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐72)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Gateway
-
-*   [Apinto (⭐1.1k) (⭐1.1k)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-*   [Ocelot (⭐8k) (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-
-### Projects / Integration Frameworks
-
-*   [Apache Camel (⭐5.2k) (⭐5.2k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
-
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Online Tools and Applications
 
@@ -120,20 +105,20 @@
 
 *   [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn and Starforged
 
-## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐6k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐7.7k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
-## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [16. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -151,7 +136,7 @@
 
 *   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [18. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [17. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Introductions to AI
 

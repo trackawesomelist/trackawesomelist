@@ -76,7 +76,7 @@
 
 ### Table of Contents / Repos
 
-*   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+*   [Functional Programming Jargon (⭐19k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 
 ## [11. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 

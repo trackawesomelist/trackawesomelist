@@ -77,7 +77,7 @@
 
 ### Ask these people anything!
 
-*   [Ariya Hidayat (⭐29)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.8k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+*   [Ariya Hidayat (⭐29)](https://github.com/ariya/ama) - VP of Engineering Shape Security, Author of Esprima and PhantomJS.
 
 ## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [potiron (⭐77)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
+*   [potiron (⭐81)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
 
@@ -283,11 +283,11 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐280)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐282)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 
-*   [mail (⭐379)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐383)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -297,7 +297,7 @@ git clean -fd --dry-run
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Ginq (⭐190)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+*   [Ginq (⭐191)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 
 ### Configuration / Development Environment
 

@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐763)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐764)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.3k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.4k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 

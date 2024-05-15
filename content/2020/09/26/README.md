@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,16 +42,7 @@
 
 *   [Determined (⭐1.9k)](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Schematics / Components
-
-*   [Cypress (⭐156)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-*   [Jest (⭐319)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-*   [Prettier (⭐142)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-*   [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
@@ -73,26 +64,26 @@
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [v-aspect-ratio (⭐29)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
 *   [polylines.cr (⭐9)](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
 
-## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -102,13 +93,13 @@
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
-## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [Cecilia (⭐192)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐206)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
@@ -123,7 +114,7 @@
 *   [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile)
 *   [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet)
 
-## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 

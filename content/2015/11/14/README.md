@@ -338,11 +338,11 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [HonSSH (⭐366)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
+*   [HonSSH (⭐369)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Moloch (⭐5.9k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
+*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
 
 ### Network / VPN
 
@@ -356,7 +356,7 @@
 
 ### Malware Collection / Honeypots
 
-*   [Conpot (⭐1k)](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
+*   [Conpot (⭐1.2k)](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
 
 ### Detection and Classification / Other Resources
 

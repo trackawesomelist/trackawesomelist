@@ -54,12 +54,7 @@
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐603)](https://github.com/sfepy/sfepy))
-
-### Meshing / Triangular and tetrahedral meshing
-
-*   [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
-    (Python, MIT, [GitHub (⭐2.3k)](https://github.com/mikedh/trimesh))
+    (Python, BSD, [GitHub (⭐669)](https://github.com/sfepy/sfepy))
 
 ### Community / Mesh tools
 
@@ -81,7 +76,7 @@
 
 ### Package Management
 
-*   [Sleet (⭐318)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐331)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

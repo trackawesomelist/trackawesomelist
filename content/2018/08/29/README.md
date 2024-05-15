@@ -25,7 +25,7 @@
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐206)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐205)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

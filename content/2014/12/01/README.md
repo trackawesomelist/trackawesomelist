@@ -16,13 +16,13 @@
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐434)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐435)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Continuous Integration
 
-*   [JoliCi (⭐656)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+*   [JoliCi (⭐655)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 
 ### Table of Contents / Debugging and Profiling
 

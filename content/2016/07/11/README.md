@@ -32,7 +32,7 @@
 
 ### Dependency Injection
 
-*   [Dip (⭐970)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐972)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

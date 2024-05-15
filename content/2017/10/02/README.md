@@ -38,7 +38,7 @@
 
 ### Documentation
 
-*   [RDoc (⭐812)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐819)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐293)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐291)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 

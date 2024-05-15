@@ -16,7 +16,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [macroquad (⭐2.6k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+*   :tada: [macroquad (⭐2.8k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Software / VPN
 
-*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
+*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐6.2k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / DDoS Tools
 
-*   [D(HE)ater (⭐164)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
+*   [D(HE)ater (⭐170)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -47,12 +47,12 @@
 
 ### Python / Computer Vision
 
-*   [deepface (⭐9.3k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐880)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [deepface (⭐9.7k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+*   [retinaface (⭐941)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐434)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐438)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
 ## [8. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-promise-dialog (⭐63)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
+*   [vue3-promise-dialog (⭐67)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -103,11 +103,13 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ### Entertainment
 
-- API: [Corporate Buzz Words (⭐259)](https://github.com/sameerkumar18/corporate-bs-generator-api)
+- API: [Corporate Buzz Words (⭐282)](https://github.com/sameerkumar18/corporate-bs-generator-api)
 
   Description: REST API for Corporate Buzz Words
 
@@ -121,7 +123,7 @@
 
 ### Games & Comics
 
-- API: [GraphQL Pokemon (⭐121)](https://github.com/favware/graphql-pokemon)
+- API: [GraphQL Pokemon (⭐136)](https://github.com/favware/graphql-pokemon)
 
   Description: GraphQL powered Pokemon API. Supports generations 1 through 8
 

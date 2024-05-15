@@ -10,17 +10,17 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐418)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐419)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐990)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐991)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### C++
 
-*   [Pistache (⭐3k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
+*   [Pistache (⭐3.1k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)

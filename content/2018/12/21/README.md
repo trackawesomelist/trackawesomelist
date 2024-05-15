@@ -76,7 +76,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
+*   [MindsDB (⭐21k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -90,7 +90,7 @@
 
 ### JSON
 
-*   [Jsmn (⭐3.5k)](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. \[MIT]
+*   [Jsmn (⭐3.6k)](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. \[MIT]
 
 ### Networking
 
@@ -98,7 +98,7 @@
 
 ### Regular Expression
 
-*   [sregex (⭐612)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [sregex (⭐615)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -123,8 +123,8 @@
 ### Audio
 
 *   [KT403A-MP3 (⭐12)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
-*   [micropython-dfplayer (⭐38)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
-*   [micropython-longwave (⭐7)](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
+*   [micropython-dfplayer (⭐41)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
+*   [micropython-longwave (⭐8)](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 
 ### Communications / Bluetooth
 
@@ -136,11 +136,11 @@
 
 ### Communications / IR
 
-*   [Micropython-IR (⭐11)](https://github.com/designerPing/Micropython-IR) - Pyboard infrared remote sniff and replay.
+*   [Micropython-IR (⭐12)](https://github.com/designerPing/Micropython-IR) - Pyboard infrared remote sniff and replay.
 
 ### Communications / RFID
 
-*   [micropython-wiegand (⭐25)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
+*   [micropython-wiegand (⭐27)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
 
@@ -153,7 +153,7 @@
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐293)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
+*   [micropython-waveshare-epaper (⭐300)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 
 ### Display / LCD Character
 
@@ -163,8 +163,8 @@
 
 ### Display / LCD Graphic
 
-*   [micropython-lcd-AQM1248A (⭐0)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-*   [micropython-st7565 (⭐11)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
+*   [micropython-lcd-AQM1248A (⭐1)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
+*   [micropython-st7565 (⭐10)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
 
 ### Display / LCD TFT
 
@@ -182,8 +182,8 @@
 *   [LKM1638 (⭐1)](https://github.com/arikb/LKM1638) - Driver for JY-LKM1638 displays based on TM1638 controller.
 *   [max7219\_8digit (⭐22)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-max7219 (⭐4)](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
-*   [micropython-my9221 (⭐6)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
-*   [micropython-tm1638 (⭐26)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
+*   [micropython-my9221 (⭐7)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
+*   [micropython-tm1638 (⭐27)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 *   [micropython-tm1640 (⭐13)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 
 ### Display / LEDs
@@ -194,7 +194,7 @@
 
 ### Display / OLED
 
-*   [SH1106 (⭐145)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
+*   [SH1106 (⭐148)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 
 ### IO / ADC
 
@@ -203,7 +203,7 @@
 
 ### IO / DAC
 
-*   [micropython-mcp4725 (⭐9)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+*   [micropython-mcp4725 (⭐10)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
 
 ### IO / IO-Expander
 
@@ -215,15 +215,15 @@
 
 ### IO / Waveform Generator
 
-*   [Micropython-AD9833 (⭐15)](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, SPI interface.
+*   [Micropython-AD9833 (⭐17)](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, SPI interface.
 
 ### Motion / DC Motor
 
-*   [L298N (⭐129)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
+*   [L298N (⭐132)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
 
 ### Motion / Stepper
 
-*   [micropython-upybbot (⭐83)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
+*   [micropython-upybbot (⭐85)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 
 ### Sensors / Accelerometer Digital
 
@@ -239,12 +239,12 @@
 ### Sensors / Barometer
 
 *   [micropython-bme280 (⭐3)](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
-*   [micropython-bmp180 (⭐82)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
+*   [micropython-bmp180 (⭐83)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
 *   [mpy\_bme280\_esp8266 (⭐70)](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐103)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐104)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Energy
 
@@ -252,8 +252,8 @@
 
 ### Sensors / Gaseous
 
-*   [micropython-MQ (⭐20)](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
-*   [MQ135 (⭐33)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
+*   [micropython-MQ (⭐23)](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
+*   [MQ135 (⭐35)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 
 ### Sensors / Light
 
@@ -266,9 +266,9 @@
 *   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, Gauss magnetic and DPS angular rate sensors.
-*   [micropython-mpu9250 (⭐130)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
-*   [micropython-mpu9x50 (⭐246)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
-*   [MPU6050-ESP8266-MicroPython (⭐84)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
+*   [micropython-mpu9250 (⭐135)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
+*   [micropython-mpu9x50 (⭐251)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
+*   [MPU6050-ESP8266-MicroPython (⭐86)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐81)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
 ### Sensors / Soil Moisture
@@ -288,18 +288,18 @@
 *   [micropython-hdc1008 (⭐4)](https://github.com/kfricke/micropython-hdc1008) - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.
 *   [micropython-mcp9808 (⭐6)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
 *   [micropython-mpl115a2 (⭐2)](https://github.com/khoulihan/micropython-mpl115a2) - Pyboard driver for the MPL115A2 barometric pressure sensor.
-*   [micropython-sht30 (⭐41)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
+*   [micropython-sht30 (⭐42)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 *   [micropython-sht31 (⭐21)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
 *   [micropython-Si7005 (⭐1)](https://github.com/Smrtokvitek/micropython-Si7005) - Driver for Si7005 relative humidity and temperature sensor.
 *   [micropython-si7021 (⭐14)](https://github.com/chrisbalmer/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
 *   [micropython-Si705x (⭐1)](https://github.com/billyrayvalentine/micropython-Si705x) - Silicon Labs Si705x series of temperature sensors, I2C interface.
 *   [micropython-Si70xx (⭐2)](https://github.com/billyrayvalentine/micropython-Si70xx) - Silicon Labs Si70xx series of relative humidity and temperature sensors, I2C interface.
-*   [micropython-tmp102 (⭐7)](https://github.com/khoulihan/micropython-tmp102) - Driver for TMP102 digital temperature sensor.
+*   [micropython-tmp102 (⭐8)](https://github.com/khoulihan/micropython-tmp102) - Driver for TMP102 digital temperature sensor.
 *   [sht25-micropython (⭐4)](https://github.com/Miceuz/sht25-micropython) - Driver for SHT25 temperature and humidity sensor.
 
 ### Sensors / Temperature IR
 
-*   [micropython-mlx90614 (⭐27)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
+*   [micropython-mlx90614 (⭐29)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
 
 ### Sensors / Touch Capacitive
 

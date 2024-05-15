@@ -38,7 +38,7 @@
 
 ### Scheduling
 
-*   [Workflow Core (⭐5k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐5.1k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -72,8 +72,8 @@
 
 ### Networking
 
-*   [cpp-netlib/uri (⭐135)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
-*   [uriparser (⭐304)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [cpp-netlib/uri (⭐136)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [uriparser (⭐312)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

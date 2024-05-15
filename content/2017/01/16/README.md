@@ -30,7 +30,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐4k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐4.1k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Altium
 
@@ -45,13 +45,9 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Books / Components
+### Books / Testing
 
-*   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
-
-### Meteor Seed Projects / Components
-
-*   [Angular2 Meteor Seed (⭐5)](https://github.com/KyneSilverhide/angular2-meteor-seed)
+*   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -71,7 +67,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐853)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐856)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -131,10 +127,10 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Related / Other
 
-*   [Awesome opengl (⭐2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome opengl (⭐2.1k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [Awesome canvas (⭐1.5k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
-*   [Awesome audio visualization (⭐4.4k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome audio visualization (⭐4.5k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+*   [Awesome computer vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

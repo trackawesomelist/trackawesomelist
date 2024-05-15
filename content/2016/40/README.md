@@ -10,7 +10,7 @@
 
 ### Ask these people anything!
 
-*   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
+*   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at Refinery29, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 
 ## [2. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐206k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐207k)](https://github.com/vuejs/vue)
 
 ### Resources / Tutorials
 
@@ -378,7 +378,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐52)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐53)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -386,7 +386,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [prometheus-plugs (⭐53)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
+*   [prometheus-plugs (⭐54)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
 
 ### Macros
 

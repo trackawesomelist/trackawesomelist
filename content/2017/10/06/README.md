@@ -91,7 +91,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Red Teaming (⭐6.2k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- Repository: [Red Teaming (⭐6.5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
   Description: List of Awesome Red Team / Red Teaming Resources
 
@@ -113,7 +113,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐311)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐320)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

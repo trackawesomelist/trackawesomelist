@@ -23,10 +23,10 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Packages / URL
 
-*   [normalize-url (⭐813)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐818)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐636)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐573)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐641)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐574)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ### Resources / Cheatsheets
 
@@ -46,7 +46,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Graphics
 
-*   [NGraphics (⭐699)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
+*   [NGraphics (⭐703)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 
 ## [5. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -319,15 +319,15 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 ### Ask these people anything!
 
 *   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
-*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
-*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
+*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at When I Work, author, mentor, and conference speaker.
 *   [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
-*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
+*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at SilverStripe, human (presumed).
 *   [Chris Tankersley (⭐0)](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 
 ### Ask these organizations anything!
 
-*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
+*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food LEAF.
 
 ## [20. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐86)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐87)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -61,7 +61,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐6.5k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐6.8k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -75,13 +75,13 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐7.6k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐129)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐133)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

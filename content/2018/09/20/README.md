@@ -10,11 +10,11 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐282)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐286)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.5k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐2.7k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Validation
 
-*   [accord (⭐24)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
+*   [accord (⭐25)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
 *   [validations (⭐13)](https://github.com/vladfaust/validations.cr) - Validations mixin
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
@@ -109,14 +109,14 @@
 
 ### Pagination
 
-*   [Pagy (⭐4.3k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.4k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [io-ts (⭐6.6k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [fast-check (⭐4.1k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---
 

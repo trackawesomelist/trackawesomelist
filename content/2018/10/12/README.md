@@ -162,7 +162,7 @@
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐630)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐649)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -211,7 +211,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐25k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐26k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2.8k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2.9k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -262,7 +262,7 @@
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.4k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.5k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

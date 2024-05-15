@@ -8,7 +8,7 @@
 
 ## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
-### Europe / France 🇫🇷
+### Europe / Germany 🇩🇪
 
 ### Paris
 

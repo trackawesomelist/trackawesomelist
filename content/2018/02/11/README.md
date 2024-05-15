@@ -14,51 +14,51 @@
 
 ### Number Theory / Algebraic Number Theory
 
-*   [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
+*   📝 [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
 ### Algebra / Analytic Number Theory
 
-*   [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
-*   [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
+*   📝 [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
+*   📝 [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
 
 ### Algebra / Abstract Algebra
 
-*   [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
-*   [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
+*   📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
+*   📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
 
 ### Algebra / Linear Algebra
 
-*   [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
+*   📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 
 ### Combinatorics / Lie Algebras
 
-*   [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
+*   📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
 ### Geometry and Topology / Graph Theory
 
-*   [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
-*   [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
-*   [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
+*   📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+*   📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
+*   📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 
 ### Geometry and Topology / Differential Geometry
 
-*   [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
+*   📝 [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
 
 ### Analysis / Real Analysis
 
-*   [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
+*   📝 [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
 
 ### Analysis / Complex Analysis
 
-*   [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
+*   📝 [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
 
 ### Analysis / Partial Differential Equations
 
-*   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
+*   📝 [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
 
 ### Probability and Statistics / Probability Theory
 
-*   [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
+*   📝 [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 
 ## [2. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐407)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐425)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

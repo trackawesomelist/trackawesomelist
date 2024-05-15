@@ -20,11 +20,11 @@
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐4.9k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐5k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
-*   [Elmah MVC (⭐267)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
+*   [Elmah MVC (⭐266)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 
 ### Metrics
 
@@ -32,8 +32,8 @@
 
 ### Misc
 
-*   [CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [CsvHelper (⭐4.5k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.5k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.4k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ### ORM
 
@@ -41,7 +41,7 @@
 
 ### Queue
 
-*   [EasyNetQ (⭐2.8k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
+*   [EasyNetQ (⭐2.9k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 
 ### Search
 
@@ -51,7 +51,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐586)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐596)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

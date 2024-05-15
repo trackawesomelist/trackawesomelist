@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -214,14 +214,7 @@
 
 *   [Eevee (⭐175)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Code Example with Webpack (⭐313)](https://github.com/blacksonic/angular2-aot-webpack)
-*   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
-
-## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -247,7 +240,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 | ---- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
 | ✔    | ✔     | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00 |
 
-## [11. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [10. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -257,13 +250,13 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
-## [12. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tutorials / Aurelia Videos
 
 *   03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 
-## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [12. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -274,20 +267,20 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 *   [Just Canvas](http://raphamorim.io/just-canvas/) \[[show me the code (⭐13)](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 *   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 
-## [14. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [13. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [sass-rails (⭐853)](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
 
-## [15. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
-*   [File Scanning Framework (⭐258)](https://github.com/EmersonElectricCo/fsf) -
+*   [File Scanning Framework (⭐282)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
 
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [15. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -301,13 +294,13 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Brendan Gregg](http://www.brendangregg.com) - Cloud performance, kernel engineer, speaker, author.
 
-## [17. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [16. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Chat Clients
 
 *   [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 
-## [18. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [17. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -319,19 +312,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Community / Other
 
 *   [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 
-## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Runtime Application Self-Protection
 
 *   [Sqreen](https://www.sqreen.io/) - Sqreen is a Runtime Application Self-Protection (RASP) solution for software teams. An in-app agent instruments and monitors the app. Suspicious user activities are reported and attacks are blocked at runtime without code modification or traffic redirection.
 
-## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [20. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
@@ -343,7 +336,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
-## [22. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [21. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### RESTful
 
@@ -353,19 +346,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [phalcon-vm (⭐42)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 
-## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [23. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
-*   [Math snippets (⭐114)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐113)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
-## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [24. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -440,13 +433,13 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 
 
-## [26. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [25. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [Evohome2mqtt (⭐8)](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
 
-## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -456,19 +449,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [PdfReport.Core (⭐346)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
 
-## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [27. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 
-## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Skale (⭐397)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 
-## [30. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [29. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Installable Web Apps
 
@@ -480,7 +473,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 *   [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 *   [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
 
-## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Timeline / Runner
 
@@ -491,37 +484,37 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [notie (⭐6.3k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Express in Action](https://www.manning.com/books/express-in-action)
 
-## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [32. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Android Security (⭐7.4k)](https://github.com/ashishb/android-security-awesome)
+- Repository: [Android Security (⭐7.7k)](https://github.com/ashishb/android-security-awesome)
 
   Description: Collection of Android security related resources
 
 
-- Repository: [AppSec (⭐5.9k)](https://github.com/paragonie/awesome-appsec)
+- Repository: [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec)
 
   Description: Resources for learning about application security
 
 
-- Repository: [Bug Bounty (⭐4.2k)](https://github.com/djadmin/awesome-bug-bounty)
+- Repository: [Bug Bounty (⭐4.4k)](https://github.com/djadmin/awesome-bug-bounty)
 
   Description: List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 
 
-- Repository: [CTF (⭐8.8k)](https://github.com/apsdehal/awesome-ctf)
+- Repository: [CTF (⭐9.1k)](https://github.com/apsdehal/awesome-ctf)
 
   Description: List of CTF frameworks, libraries, resources and softwares
 
 
-- Repository: [DevSecOps (⭐4.2k)](https://github.com/devsecops/awesome-devsecops)
+- Repository: [DevSecOps (⭐4.4k)](https://github.com/devsecops/awesome-devsecops)
 
   Description: List of awesome DevSecOps tools with the help from community experiments and contributions
 
@@ -531,22 +524,22 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Description: Resources for learning about Exploit Development
 
 
-- Repository: [Fuzzing (⭐4.9k)](https://github.com/secfigo/Awesome-Fuzzing)
+- Repository: [Fuzzing (⭐5.1k)](https://github.com/secfigo/Awesome-Fuzzing)
 
   Description: List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 
 
-- Repository: [Honeypots (⭐7.6k)](https://github.com/paralax/awesome-honeypots)
+- Repository: [Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots)
 
   Description: List of honeypot resources
 
 
-- Repository: [Incident Response (⭐6.8k)](https://github.com/meirwah/awesome-incident-response)
+- Repository: [Incident Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response)
 
   Description: List of tools for incident response
 
 
-- Repository: [InfoSec (⭐4.8k)](https://github.com/onlurking/awesome-infosec)
+- Repository: [InfoSec (⭐5k)](https://github.com/onlurking/awesome-infosec)
 
   Description: List of awesome infosec courses and training resources
 
@@ -566,7 +559,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Description: OSX and iOS related security tools
 
 
-- Repository: [Pcaptools (⭐2.9k)](https://github.com/caesar0301/awesome-pcaptools)
+- Repository: [Pcaptools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools)
 
   Description: Collection of tools developed by researchers in the Computer Science area to process network traces
 
@@ -581,12 +574,12 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Description: Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 
 
-- Repository: [Sec Talks (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks)
+- Repository: [Sec Talks (⭐4k)](https://github.com/PaulSec/awesome-sec-talks)
 
   Description: List of awesome security talks
 
 
-- Repository: [SecLists (⭐51k)](https://github.com/danielmiessler/SecLists)
+- Repository: [SecLists (⭐53k)](https://github.com/danielmiessler/SecLists)
 
   Description: Collection of multiple types of lists used during security assessments
 
@@ -596,22 +589,22 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Description: Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
 
-- Repository: [Static Analysis (⭐12k)](https://github.com/mre/awesome-static-analysis)
+- Repository: [Static Analysis (⭐13k)](https://github.com/mre/awesome-static-analysis)
 
   Description: List of static analysis tools, linters and code quality checkers for various programming languages
 
 
-- Repository: [Threat Intelligence (⭐6.8k)](https://github.com/hslatman/awesome-threat-intelligence)
+- Repository: [Threat Intelligence (⭐7.2k)](https://github.com/hslatman/awesome-threat-intelligence)
 
   Description: List of Awesome Threat Intelligence resources
 
 
-- Repository: [Web Hacking (⭐5.2k)](https://github.com/infoslack/awesome-web-hacking)
+- Repository: [Web Hacking (⭐5.4k)](https://github.com/infoslack/awesome-web-hacking)
 
   Description: List of web application security
 
 
-- Repository: [WiFi Arsenal (⭐1.7k)](https://github.com/0x90/wifi-arsenal)
+- Repository: [WiFi Arsenal (⭐1.8k)](https://github.com/0x90/wifi-arsenal)
 
   Description: Pack of various useful/useless tools for 802.11 hacking
 
@@ -619,47 +612,47 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Other Useful Repositories
 
-- Repository: [APT Notes (⭐3.3k)](https://github.com/kbandla/APTnotes)
+- Repository: [APT Notes (⭐3.4k)](https://github.com/kbandla/APTnotes)
 
   Description: Various public documents, whitepapers and articles about APT campaigns
 
 
-- Repository: [Bug Bounty Reference (⭐3.5k)](https://github.com/ngalongc/bug-bounty-reference)
+- Repository: [Bug Bounty Reference (⭐3.6k)](https://github.com/ngalongc/bug-bounty-reference)
 
   Description: List of bug bounty write-up that is categorized by the bug nature
 
 
-- Repository: [CTF Tool (⭐237)](https://github.com/SandySekharan/CTF-tool)
+- Repository: [CTF Tool (⭐248)](https://github.com/SandySekharan/CTF-tool)
 
   Description: List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 
 
-- Repository: [Forensics (⭐3.3k)](https://github.com/Cugu/awesome-forensics)
+- Repository: [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics)
 
   Description: List of awesome forensic analysis tools and resources
 
 
-- Repository: [Infosec Reference (⭐5.2k)](https://github.com/rmusser01/Infosec_Reference)
+- Repository: [Infosec Reference (⭐5.4k)](https://github.com/rmusser01/Infosec_Reference)
 
   Description: Information Security Reference That Doesn't Suck
 
 
-- Repository: [IOC (⭐727)](https://github.com/sroberts/awesome-iocs)
+- Repository: [IOC (⭐740)](https://github.com/sroberts/awesome-iocs)
 
   Description: Collection of sources of indicators of compromise
 
 
-- Repository: [Pentest Wiki (⭐3.2k)](https://github.com/nixawk/pentest-wiki)
+- Repository: [Pentest Wiki (⭐3.3k)](https://github.com/nixawk/pentest-wiki)
 
   Description: A free online security knowledge library for pentesters / researchers
 
 
-- Repository: [Resource List (⭐313)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐317)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐2.1k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.2k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 
@@ -669,13 +662,13 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Description: Collection of cheatsheets for various infosec tools and topics
 
 
-- Repository: [Shell (⭐30k)](https://github.com/alebcay/awesome-shell)
+- Repository: [Shell (⭐31k)](https://github.com/alebcay/awesome-shell)
 
   Description: List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
 
 
-## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
@@ -686,43 +679,43 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 
-## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / R companies
 
 *   RapidAPI <http://blog.rapidapi.com/>
 
-## [37. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [36. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Video tutorials
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [mbedTLS (⭐4.8k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4.9k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
-## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -730,16 +723,16 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐272)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐273)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## [42. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [41. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 *   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 
-## [43. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [42. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Settings
 

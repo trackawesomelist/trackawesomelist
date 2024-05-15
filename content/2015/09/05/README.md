@@ -56,7 +56,7 @@
 
 ### Probability and Statistics / Probability Theory
 
-*   [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
+*   📝 [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 
 ## [4. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

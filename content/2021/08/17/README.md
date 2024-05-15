@@ -16,7 +16,7 @@
 
 ### Cryptography
 
-*   [NaCl.Core (⭐68)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐69)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -39,19 +39,19 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [transitcast (⭐11)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
+*   [transitcast](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
 ## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Clones
 
-*   [PicoLove (⭐693)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐713)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-chat (⭐123)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐125)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Productivity / Finance
 
-*   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐4.8k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐635)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐689)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

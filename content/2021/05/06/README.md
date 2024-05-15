@@ -58,7 +58,7 @@
 
 ### Automation / Frameworks
 
-*   [JMeter Load Testing Center (⭐192)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+*   [JMeter Load Testing Center (⭐193)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -78,8 +78,8 @@
 
 ### Resources / Examples
 
-*   [Vue Word Game (⭐3)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
-*   [Coinchartsvue (⭐4)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
+*   [Vue Word Game (⭐4)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
+*   [Coinchartsvue (⭐3)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Stock\_Analysis\_For\_Quant (⭐1.5k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
+*   [Stock\_Analysis\_For\_Quant (⭐1.6k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
 
 ---
 

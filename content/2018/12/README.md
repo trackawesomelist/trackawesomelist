@@ -194,7 +194,7 @@
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [AutoTTP (⭐243)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
+*   [AutoTTP (⭐244)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
 *   [Red Team Automation (RTA) (⭐1k)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [7. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
@@ -217,9 +217,9 @@
 
 ### Ask these people anything!
 
-*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
+*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at iDiD. Creator of RE:DOM, Deck of Cards and other open source projects.
 *   [Rifat Nabi (⭐2)](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
-*   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
+*   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at eftakhairul.com.
 
 ## [10. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐182)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐188)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -349,7 +349,7 @@
 
 ### Media
 
-*   [Xabe.FFmpeg (⭐694)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+*   [Xabe.FFmpeg (⭐697)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
 
 ### Application Frameworks
 
@@ -372,8 +372,8 @@ git rebase --onto <new_base> <old_base>
 
 ### Plasma desktop / Themes
 
-*   [Adapta KDE (⭐458)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-*   [Arc KDE (⭐821)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+*   [Adapta KDE (⭐466)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
+*   [Arc KDE (⭐894)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
 ## [28. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -413,7 +413,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐82)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐83)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 
@@ -541,13 +541,13 @@ git rebase --onto <new_base> <old_base>
 
 ### Contents / Toolkits
 
-*   [Create Preact App (⭐96)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
+*   [Create Preact App (⭐95)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 
 ## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐122)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐123)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -563,11 +563,11 @@ git rebase --onto <new_base> <old_base>
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 3 (⭐9.1k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+*   [TensorFlow Tutorial 3 (⭐9.2k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
 ### Models/Projects
 
-*   [Kubeflow (⭐12k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
+*   [Kubeflow (⭐14k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 
 ## [45. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -648,7 +648,7 @@ git rebase --onto <new_base> <old_base>
 
 ### CMS
 
-*   [Fae (⭐836)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐839)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

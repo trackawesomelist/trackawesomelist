@@ -58,11 +58,11 @@
 
 ## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
 

@@ -62,7 +62,7 @@
 
 ### Webserver / Barcode
 
-*   [Lightning (⭐313)](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
+*   [Lightning (⭐312)](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 
 ### Utility / Barcode
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [evpp (⭐3.4k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
+*   [evpp (⭐3.5k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

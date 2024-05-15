@@ -20,7 +20,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Fridax (⭐148)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+*   [Fridax (⭐152)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -48,7 +48,7 @@
 
 ### For Electron / Other
 
-*   [RxDB (⭐20k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
+*   [RxDB (⭐21k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -60,7 +60,7 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐589)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐598)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 

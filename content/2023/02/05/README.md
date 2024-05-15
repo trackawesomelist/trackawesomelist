@@ -34,7 +34,7 @@
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐147)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐153)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -50,7 +50,7 @@
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Gerber GS750 Plus User Manual (1995) (manualslib)](https://www.manualslib.com/manual/465193/Gerber-Gs750-Plus.html)
 *   [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)

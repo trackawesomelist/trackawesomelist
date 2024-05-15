@@ -122,7 +122,7 @@
 
 ### Algebra / Linear Algebra
 
-*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
+*   📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

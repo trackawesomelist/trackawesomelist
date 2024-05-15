@@ -84,12 +84,12 @@
 
 ### Ask these people anything!
 
-*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at When I Work, author, mentor, and conference speaker.
 *   [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
 
 ### Ask these organizations anything!
 
-*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
+*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food LEAF.
 
 ## [11. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 

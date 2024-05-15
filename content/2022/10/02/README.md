@@ -10,16 +10,16 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐9.5k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
-*   [fantasyname (⭐30)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
+*   [Ebitengine (⭐9.9k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [fantasyname (⭐32)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
 
-*   [xylog (⭐15)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+*   [xylog (⭐16)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 
 ### Package Management
 
-*   [gup (⭐262)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+*   [gup (⭐269)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 
 ### Third-party APIs
 
@@ -29,7 +29,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐31k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐32k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -55,12 +55,12 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐745)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐349)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
+*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐754)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐359)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐887)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
+*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐903)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
 ## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -81,11 +81,11 @@
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐15k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐17k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Quora
 
-*   [Quetre (⭐394)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐403)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -102,10 +102,6 @@
 ### Supported Distributions / Pengwin
 
 *   [Windows Store Link](https://apps.microsoft.com/store/detail/pengwin/9NV1GV1PXZ6P) 💰
-
-### Additional Resources / Miscellaneous Tools
-
-*   [##windows-wsl](https://netsplit.de/channels/details.php?room=%23windows-wsl\&net=Libera.Chat) - IRC channel on Libera.Chat.
 
 ### Related Projects / Miscellaneous Tools
 

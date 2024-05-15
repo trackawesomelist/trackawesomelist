@@ -10,13 +10,13 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐496)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐500)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Security
 
-*   [caesium (⭐174)](https://github.com/lvh/caesium) (libsodium bindings)
+*   [caesium (⭐176)](https://github.com/lvh/caesium) (libsodium bindings)
 
 ## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -54,7 +54,7 @@
 
 ### HTTP Clients / Text-Based User Interfaces
 
-*   [unirest-java (⭐2.5k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
+*   [unirest-java (⭐2.6k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 

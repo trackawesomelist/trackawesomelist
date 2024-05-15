@@ -36,11 +36,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [Kazan (⭐137)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
+*   [Kazan (⭐139)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 
 ### Date and Time
 
-*   [cocktail (⭐208)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐214)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐37)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐38)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -60,7 +60,7 @@
 
 ### Security
 
-*   [pwned (⭐23)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐24)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 
@@ -68,7 +68,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐102)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐104)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -194,7 +194,7 @@
 
 ### Contents / Tools
 
-*   [MIDI to PICO-8 (⭐60)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
+*   [MIDI to PICO-8 (⭐61)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## [9. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

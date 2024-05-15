@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2024
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,15 +16,15 @@
 
 ### Authentication and OAuth
 
-*   [oidc (⭐1.1k)](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+*   [oidc (⭐1.2k)](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 ### Distributed Systems
 
-*   [trpc-go (⭐606)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
+*   [trpc-go (⭐709)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
 
 ### Security
 
-*   [passwap (⭐30)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
+*   [passwap (⭐34)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Prefer Lowest Validator (⭐18)](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
+*   [Composer Prefer Lowest Validator (⭐19)](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
 
 ### Table of Contents / Frameworks
 
@@ -109,7 +109,7 @@
 
 ### Table of Contents / Documentation
 
-*   [zircote/swagger-php (⭐4.9k)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
+*   [zircote/swagger-php (⭐5k)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 ### Table of Contents / Security
 
@@ -117,20 +117,20 @@
 
 ### Table of Contents / Code Quality
 
-*   [PHP CS Fixer (⭐12k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
+*   [PHP CS Fixer (⭐13k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 
 ### Table of Contents / Architectural
 
-*   [IterTools PHP (⭐136)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+*   [IterTools PHP (⭐137)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 
 ### Table of Contents / PDF
 
-*   [Browsershot (⭐4.6k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
-*   [Gotenberg (⭐162)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+*   [Browsershot (⭐4.7k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
+*   [Gotenberg (⭐180)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 
 ### Table of Contents / Office
 
-*   [OpenSpout (⭐542)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+*   [OpenSpout (⭐570)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -138,7 +138,7 @@
 
 ### Table of Contents / Numbers
 
-*   [DecimalObject (⭐15)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
+*   [DecimalObject (⭐17)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 
 ### Configuration / Development Environment
 
@@ -160,11 +160,11 @@
 
 ### Text
 
-*   [AztecEditor-iOS (⭐574)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
+*   [AztecEditor-iOS (⭐583)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
 
 ### Popup
 
-*   [MijickPopupView (⭐573)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
+*   [MijickPopupView (⭐805)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
 
 ## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Libraries and Frameworks / JVM
 
-*   [Ahoo-Wang/Wow (⭐95)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+*   [Ahoo-Wang/Wow (⭐126)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ### User Groups / Ruby
 
@@ -200,22 +200,27 @@
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐90)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐123)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Media / Diagnostics
 
-*   [hakonharnes/img-clip.nvim (⭐281)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-*   [3rd/image.nvim (⭐560)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [3rd/image.nvim (⭐663)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [crispybaccoon/chaivim (⭐18)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
+*   [crispybaccoon/chaivim (⭐30)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Machine Learning
+
+*   [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
+
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tofuenv (⭐111)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
+*   [tofuenv (⭐142)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 
 ---
 

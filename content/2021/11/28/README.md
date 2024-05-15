@@ -76,7 +76,7 @@
 
 ### Questions
 
-*   [bistro (⭐45)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+*   [bistro (⭐46)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

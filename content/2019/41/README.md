@@ -135,7 +135,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐8.5k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐8.7k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [remote-js (⭐33)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
+*   [remote-js (⭐34)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
 
 ## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
@@ -338,19 +338,19 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐194)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐203)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐326)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐332)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐116)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐118)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐40k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ## [34. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -805,7 +805,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐285)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐287)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [51. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -817,7 +817,7 @@
 
 ### CLI Utils
 
-*   [tablo (⭐26)](https://github.com/hutou/tablo) - A flexible terminal table generator
+*   [tablo (⭐27)](https://github.com/hutou/tablo) - A flexible terminal table generator
 
 ### Misc
 
@@ -831,7 +831,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.5k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.5k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
@@ -849,11 +849,11 @@
 
 ### Games
 
-*   [Binbo (⭐115)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐117)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [56. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -866,7 +866,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐7.8k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.9k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [58. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -954,7 +954,7 @@
 
 ### GUI
 
-*   [trikl (⭐143)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
 ## [66. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -982,7 +982,7 @@
 
 ### Tools
 
-*   [Orangetool (⭐104)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐103)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ### Projects
 
@@ -1185,7 +1185,7 @@
 
 ### Top / Game Engine resources
 
-*   [Timy Messenger (⭐2k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
+*   [Timy Messenger (⭐2.1k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
 ### 🇮🇩 Indonesia / Misc
 

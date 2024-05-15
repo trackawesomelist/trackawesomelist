@@ -16,7 +16,7 @@
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐894)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐961)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -82,7 +82,7 @@
 
 ### GTFS Converters / Ruby
 
-*   [GTFS-route-shapes (⭐16)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
+*   [GTFS-route-shapes (⭐19)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
 *   [hafas-generate-gtfs (⭐6)](https://github.com/derhuerst/hafas-generate-gtfs) *(work-in-progress)* – A Javascript tool to generate GTFS dumps from HAFAS endpoints.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
@@ -95,11 +95,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-json-viewer (⭐527)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+*   [vue-json-viewer (⭐540)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐207)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐218)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Animation
 
-*   [Aseprite loader (⭐30)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
+*   [Aseprite loader (⭐33)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 
 ## [15. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 

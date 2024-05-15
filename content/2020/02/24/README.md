@@ -10,21 +10,21 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐357)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐363)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐4k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library
+*   [bheisler/criterion.rs (⭐4.2k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Templates / Preferences
 
-*   [FlutterFoodybite (⭐1.4k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+*   [FlutterFoodybite (⭐1.5k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Arjan van der Meij](https://dutchplottr.nl/en/)
 
@@ -51,7 +51,7 @@
 ### Projects / Libraries
 
 *   [Formalised Undecidable Problems (⭐99)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐39)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Regular Language Representations (⭐40)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
 

@@ -119,7 +119,7 @@
 
 ### Table of Contents / URL
 
-*   [sabre/uri (⭐286)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+*   [sabre/uri (⭐288)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -186,7 +186,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐6.7k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐6.8k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
@@ -210,7 +210,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐83)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐85)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -263,13 +263,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Comments
 
-*   [Staticman (⭐2.3k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
+*   [Staticman (⭐2.4k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 
 ## [26. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
-*   [Preact Fluid (⭐185)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
+*   [Preact Fluid (⭐186)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
 
 ### Contents / Libraries
 
@@ -305,15 +305,15 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Apps / Third-party APIs
 
-*   [montezuma (⭐45)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [mk-string-metrics (⭐20)](https://github.com/cbaggers/mk-string-metrics) -
+*   [montezuma (⭐46)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [mk-string-metrics (⭐21)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
     etc). [MIT](https://opensource.org/licenses/MIT).
 
 ### Configuration / Third-party APIs
 
-*   [envy (⭐56)](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [envy (⭐57)](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -381,11 +381,11 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Geolocation
 
-*   [geocoder (⭐118)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐121)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ### Testing
 
-*   [mockery (⭐90)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐91)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -409,7 +409,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Tools
 
-*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [AWX (⭐13k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
 *   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
@@ -418,50 +418,44 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible Vagrant Examples by geerlingguy (⭐2k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 
-## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
-
-### ASM / Timings
-
-*   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
-
-## [42. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
-
-### Common Utilities
-
-*   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
-
-## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [41. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
 *   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 
-### Server-Side Rendering
+### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+
+### Books / Testing
+
+*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
+*   [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
+
+### Server-Side Rendering / Node Based
 
 *   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
-### Material Design
+## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
-*   [Official Angular Material Design (GitHub) (⭐24k)](https://github.com/angular/material2)
-*   [Blox Material (⭐148)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
+### ASM / Timings
 
-### Cheatsheet
+*   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
-*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-*   [Angular Dart cheatsheet (⭐11)](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+## [43. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
-### Books / Components
+### Common Utilities
 
-*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-*   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+*   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
 ## [44. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
-*   [it\_IT (⭐15)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
+*   [it\_IT (⭐16)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -472,11 +466,11 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Math
 
-*   [OpenBLAS (⭐5.8k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐581)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐593)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

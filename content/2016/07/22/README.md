@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,15 +12,7 @@
 
 *   [zsh-better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Security / Components
-
-*   [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
-*   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐194)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-*   [Angular 2 authentication sample from auth0-blog (⭐970)](https://github.com/auth0-blog/angular2-authentication-sample)
-
-## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Blogs / Git
 
@@ -35,13 +27,13 @@
 *   [Modern Crypto](https://moderncrypto.org/) - Forums for discussing modern cryptographic practice.
 *   [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [dynamodb-titan-storage-backend :fire::fire: (⭐444)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
 
-## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Queries
 
@@ -49,15 +41,15 @@
 
 ### JSON Schema Tools
 
-*   [Orderly JSON (⭐219)](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
+*   [Orderly JSON (⭐222)](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
 
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Object
 
 *   [has-own-property (⭐2)](https://github.com/LinusU/has-own-property) - Check if an object has a local property.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Mac App Download Sites / Genuine Sites
 

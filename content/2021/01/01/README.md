@@ -22,13 +22,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lang-router (⭐67)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
+*   [vue-lang-router (⭐66)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Model Explanation / Others
 
-*   [Shapley (⭐202)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐210)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
 ## [5. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Cryptocurrency
 
-- API: [Binance (⭐3.4k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐3.7k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 

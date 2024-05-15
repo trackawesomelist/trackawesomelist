@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MM ReAct (⭐878)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
+*   [MM ReAct (⭐908)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -58,8 +58,8 @@
 
 ### Extensions / Community
 
-*   [Inline Form Interface (⭐29)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-*   [Tab Group Interface (⭐45)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
+*   [Inline Form Interface (⭐32)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+*   [Tab Group Interface (⭐58)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

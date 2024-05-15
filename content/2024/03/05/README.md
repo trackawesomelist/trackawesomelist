@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2024
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,28 +48,27 @@
 
 ### Static type checkers
 
-*   [basedpyright (⭐13)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
+*   [basedpyright (⭐280)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [itertools-ts (⭐39)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [itertools-ts (⭐41)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
-*   [cloudflare/pingora (⭐15k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+*   [cloudflare/pingora (⭐20k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 
 ### Libraries / Graphics
 
 *   PDF
-    *   [bastibense/libharu\_ng (⭐5)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
-    *   [fschutt/printpdf (⭐741)](https://github.com/fschutt/printpdf) — PDF writing library
-    *   [J-F-Liu/lopdf (⭐1.4k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
-    *   [kaj/rust-pdf (⭐139)](https://github.com/kaj/rust-pdf) —
-    *   [WASM-PDF (⭐457)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
+    *   [bastibense/libharu\_ng (⭐9)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
+    *   [fschutt/printpdf (⭐765)](https://github.com/fschutt/printpdf) — PDF writing library
+    *   [J-F-Liu/lopdf (⭐1.5k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
+    *   [kaj/rust-pdf (⭐142)](https://github.com/kaj/rust-pdf) —
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -83,19 +82,9 @@
 
 ### Overlays / Webinterface
 
-*   [System Manager (⭐443)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
+*   [System Manager (⭐537)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -109,25 +98,25 @@
 
 *   [Awakari](https://awakari.com/login.html)
 
-## [10. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [9. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Standout Projects
 
 *   [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 
-## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4.2+
 
-*   [LimboAI (⭐335)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
+*   [LimboAI (⭐575)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 
-## [13. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [12. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Secret key cryptography
 
@@ -146,7 +135,7 @@
 
 *   [How to construct zero-knowledge proof systems for NP](https://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 
-## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 
@@ -156,7 +145,7 @@
 
 *   [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 
-## [15. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [14. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 

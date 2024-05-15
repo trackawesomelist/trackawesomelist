@@ -2,7 +2,7 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 295 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 358 · 🏷️ Front-End Development
 
 [ [Daily](/content/lauthieb/awesome-storybook/README.md) / [Weekly](/content/lauthieb/awesome-storybook/week/README.md) / Overview ]
 
@@ -42,10 +42,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Discord](https://discordapp.com/invite/UUt2PJb)
 *   [Medium](https://medium.com/storybookjs)
 *   [DEV.to](https://dev.to/t/storybook)
-*   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+*   [Brand's materials (⭐92)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 *   [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
-*   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Storybook Deployer (⭐893)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Documentation Primitives (⭐35)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
 
@@ -87,10 +87,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 *   [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 *   [AXA France Design System](https://axaguildev.github.io/react-toolkit/latest/storybook)
-*   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐85)](https://github.com/shared-components/shared-react-components-example)
 *   [Apideck Components](https://www.apideck.design/)
-*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐267)](https://github.com/Qvant-lab/qui-max)
 *   [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
+*   [Recharts](https://recharts.org/en-US/storybook)
 
 ## Addons
 

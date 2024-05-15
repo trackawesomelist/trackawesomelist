@@ -47,7 +47,7 @@
     ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
     [Demo](https://open-props.style/#gallery),
     [Docs](https://open-props.style/#getting-started),
-    [Repo (⭐3.7k)](https://github.com/argyleink/open-props/)
+    [Repo (⭐4.4k)](https://github.com/argyleink/open-props/)
     \| #CSS #PostCSS
 
 ---

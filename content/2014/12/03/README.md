@@ -10,7 +10,7 @@
 
 ### Regular Expressions
 
-*   [Re (⭐221)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [Re (⭐223)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
 *   [ocaml-pcre (⭐29)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
@@ -25,11 +25,11 @@
 
 ### Image Processing
 
-*   [Phasion (⭐699)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐700)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Security
 
-*   [Metasploit (⭐32k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐33k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

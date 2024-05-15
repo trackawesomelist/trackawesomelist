@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [apple/ml-no-token-left-behind (⭐135)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+*   [apple/ml-no-token-left-behind (⭐136)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
 
 ## [4. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
@@ -89,8 +89,8 @@
     *   [Delilah (⭐18)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
     *   [ESPot (⭐25)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
-    *   [Elastic honey (⭐179)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
-    *   [MongoDB-HoneyProxy (⭐86)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
+    *   [Elastic honey (⭐180)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+    *   [MongoDB-HoneyProxy (⭐87)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
     *   [NoSQLpot (⭐102)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
     *   [mysql-honeypotd (⭐27)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     *   [MysqlPot (⭐20)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
@@ -99,23 +99,23 @@
     *   [RedisHoneyPot (⭐13)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐143)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐146)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Capsulecorp Pentest (⭐718)](https://github.com/r3dy/capsulecorp-pentest)
+- Repository: [Capsulecorp Pentest (⭐763)](https://github.com/r3dy/capsulecorp-pentest)
 
   Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 
 
-- Repository: [Real-time Communications hacking & pentesting resources (⭐329)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- Repository: [Real-time Communications hacking & pentesting resources (⭐353)](https://github.com/EnableSecurity/awesome-rtc-hacking)
 
   Description: Covers VoIP, WebRTC and VoLTE security related topics
 
 
-- Repository: [Reinforcement Learning for Cyber Security (⭐552)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- Repository: [Reinforcement Learning for Cyber Security (⭐636)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
   Description: List of awesome reinforcement learning for security resources
 
@@ -125,11 +125,11 @@
 
 ### Applications
 
-*   [fend (⭐446)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐514)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.8k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -137,19 +137,13 @@
 
 *   [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/dissolv/id1640893012)
 
-## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
-
-### IR Tools Collection / All-In-One Tools
-
-*   [Matano (⭐1.3k)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
-
-## [15. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [14. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Books / NumPyro
 
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A hands-on guide to using JAX for deep learning and other mathematically-intensive applications.
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
@@ -170,29 +164,29 @@
     *   [BoltDoggy/deno#dpm (⭐11)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
     *   [dpmland/dpm (⭐41)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 
-## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [16. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
 *   [DotDotPwn](https://dotdotpwn.blogspot.com/) - Directory traversal fuzzer.
 
-## [18. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [17. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [joffref/opa-middleware (⭐17)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+*   [joffref/opa-middleware (⭐18)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
-## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐2k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐2.5k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
-## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [19. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### No email verification, accepting monero
 
@@ -207,13 +201,13 @@
 
 *   [SmsPVA](https://smspva.com/) - SmsPVA is a service providing a phone number you can send any SMS on and get a text of it. (Based in France)
 
-## [21. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [20. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [22. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [21. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Support
 
@@ -227,8 +221,8 @@
 
 ### Mobile
 
-*   [Nova Substrate SDK Android (⭐5)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
-*   [Nova Substrate SDK iOS (⭐14)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
+*   [Nova Substrate SDK Android (⭐7)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
+*   [Nova Substrate SDK iOS (⭐15)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
 
 ### Tools
 
@@ -236,13 +230,13 @@
 *   [`subalfred`](https://github.com/hack-ink/subalfred) - An all-in-one Substrate development toolbox.
 *   [`scale-value`](https://github.com/paritytech/scale-value) - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
 *   [`scale-decode`](https://github.com/paritytech/scale-decode) - Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.
-*   [Nova Polkadot Utils (⭐13)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+*   [Nova Polkadot Utils (⭐15)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 *   [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
-    *   [Nova SubQuery API (⭐10)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
+    *   [Nova SubQuery API (⭐12)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 *   [Typechain-Polkadot (⭐12)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
-## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -252,7 +246,7 @@
 
 *   [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 
-## [24. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [23. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / C/C++
 
@@ -261,6 +255,40 @@
 ### Languages / Ruby
 
 *   [TEALrb (⭐8)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)
+
+## [24. Awesome Mirth](/content/mga-mirth/awesome-mirth/week/README.md)
+
+### Featured (new releases)
+
+*   [Release Notes Wiki pages (⭐847)](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
+*   [Mirth Download](https://www.nextgen.com/products-and-services/mirth-connect-downloads) - Official Mirth Connect Download.
+*   [Source Code (⭐847)](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
+
+### Official Docs & Quickstarts
+
+*   📖 [Mirth Documentation](https://docs.nextgen.com/bundle/Mirth_User_Guide_41/page/connect/connect/topics/c_Getting_Started_mirth_connect_ug.html) - Official Mirth Connect Documentation.
+*   💡 [Mirth Connect examples (⭐92)](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
+
+### Mirth Extensions
+
+*   🔧 [Version Control Extension for MirthConnect (⭐21)](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
+*   🔧 [Sync code between environments (⭐66)](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
+
+### Tutorials
+
+*   📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
+
+### Other
+
+*   🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
+
+### Follow / Official
+
+*   📹 [Mirth Twitter](https://www.twitter.com/nextgen)
+
+### Follow / Community
+
+*   [This Awesome List (⭐6)](https://github.com/mga-mirth/awesome-mirth)
 
 ## [25. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -272,27 +300,27 @@
 
 ### Feature Engineering / General
 
-*   [Feature Engine (⭐1.6k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Feature Engine (⭐1.7k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### ORM
 
-*   [bun (⭐2.8k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
+*   [bun (⭐3.2k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
 ## [28. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
-*   [Solid (⭐184)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
+*   [Solid (⭐194)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 
 ## [29. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
-### [Tab Size on GitHub (⭐279)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Tab Size on GitHub (⭐280)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
-Installs: 2000 | Stars: 279 | Last update: n/a
+Installs: 2000 | Stars: 280 | Last update: n/a
 
 ## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -302,13 +330,13 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.5k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐6.6k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [born-in-the-purple (⭐1)](https://github.com/LeonardMH/born-in-the-purple) - Simple theme with a purple motif. Inspired by [Pure (⭐13k)](https://github.com/sindresorhus/pure).
 *   [kawaii (⭐0)](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [31. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -327,24 +355,28 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
+### Big Data / Development
+
+*   [Matano (⭐1.4k)](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Newsletters (⭐749)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
-*   [Awesome Censys Queries (⭐242)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
+*   [Awesome Security Newsletters (⭐787)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
+*   [Awesome Censys Queries (⭐605)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
 
 ## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-stimulus-starter (⭐8)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+*   [vite-tailwind-stimulus-starter (⭐9)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐85)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐86)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-file (⭐12)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+*   [vite-plugin-zip-file (⭐14)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -354,35 +386,35 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Database
 
-*   [ZoneTree (⭐256)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
+*   [ZoneTree (⭐270)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ### Template Engine
 
-*   [Morestachio (⭐48)](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
+*   [Morestachio (⭐49)](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 
 ### Testing
 
-*   [NetArchTest (⭐1.2k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
+*   [NetArchTest (⭐1.3k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 
 ## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐138)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐146)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Editing Support / Diagnostics
 
-*   [m4xshen/autoclose.nvim (⭐391)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
+*   [m4xshen/autoclose.nvim (⭐426)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐12k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐15k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Snippets.Ninja (⭐102)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
+*   [Snippets.Ninja (⭐106)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
 ## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -446,25 +478,21 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐287)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Experts on Twitter
-
-*   [@codewith\_ahsan](https://twitter.com/codewith_ahsan)
-
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
 
-### Books / Components
+### Books / Testing
 
-*   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+*   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
 
-### Keyboard Mouse / Components
+### Keyboard Mouse / Testing
 
-*   [ngx-focus-control (⭐0)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
+*   [ngx-focus-control (⭐1)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
 
 ## [44. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -485,20 +513,20 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Libraries/Frameworks / Misc
 
-*   [saschpe/log4k (⭐13)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
+*   [saschpe/log4k (⭐14)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 *   [spoptchev/kotlin-preconditions (⭐19)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [holgerbrandl/kravis (⭐184)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
+*   [holgerbrandl/kravis (⭐183)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Cryptography
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐73)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐80)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ### Projects / Idea Plugins
 
 *   [dkandalov/activity-tracker (⭐67)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 *   [dkandalov/limited-wip (⭐107)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
-*   [dkandalov/pomodoro-tm (⭐131)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐518)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [dkandalov/pomodoro-tm (⭐133)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
+*   [emedinaa/kotlin-mvvm (⭐529)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -511,17 +539,9 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 *   [Doppler](https://doppler.com/) — Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for five users with basic access controls.
 *   [Dotenv](https://dotenv.org/) — Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
 
-### Font
-
-*   [Bunny](https://bunny.net)
-    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!
-    *   [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
-
 ### CDN and Protection
 
-*   [Gcore](https://gcorelabs.com/)
-    *   [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
-    *   [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
+*   [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
 
 ### PaaS
 
@@ -542,8 +562,8 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   ⭐ [Djula (⭐143)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-    *   [cl-djula-tailwind (⭐8)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
+*   ⭐ [Djula (⭐146)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+    *   [cl-djula-tailwind (⭐9)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
 
 ### Apps / Third-party APIs
 
@@ -582,6 +602,25 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 ### Storage / Runner
 
 *   [Dexie.js (⭐10k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+
+## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Cloud Computing
+
+*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
+
+### Misc
+
+*   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
+
+### Programming
+
+*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
+*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+
+### Software Architecture
+
+*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
 ---
 

@@ -22,7 +22,7 @@
 
 ### Table of Contents / Event
 
-*   [Prooph Event Store (⭐548)](https://github.com/prooph/event-store) - An event source component to persist event messages
+*   [Prooph Event Store (⭐549)](https://github.com/prooph/event-store) - An event source component to persist event messages
 
 ## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐59)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐60)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Bittorrent
 
-*   [bento (⭐92)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐93)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

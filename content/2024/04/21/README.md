@@ -10,9 +10,9 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLama Cpp Agent (⭐209)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
-*   [FinRobot (⭐34)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
-*   [Groq Ruby (⭐19)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
+*   [LLama Cpp Agent (⭐317)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
+*   [FinRobot (⭐49)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
+*   [Groq Ruby (⭐88)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
 
 ## [2. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
@@ -74,4 +74,5 @@
 
 ---
 
+- Prev: [Apr 22, 2024](/content/2024/04/22/README.md)
 - Next: [Apr 20, 2024](/content/2024/04/20/README.md)

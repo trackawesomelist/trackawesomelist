@@ -74,7 +74,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐20)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐22)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -149,23 +149,23 @@
 
 ### Detection and Classification / Other Resources
 
-*   [fn2yara (⭐1.3k)](https://github.com/cmu-sei/pharos) - FN2Yara is a tool to generate
+*   [fn2yara (⭐1.5k)](https://github.com/cmu-sei/pharos) - FN2Yara is a tool to generate
     Yara signatures for matching functions (code) in an executable program.
 
 ### Browser Malware / Other Resources
 
-*   [Bytecode Viewer (⭐13k)](https://github.com/Konloch/bytecode-viewer) - Combines
+*   [Bytecode Viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Combines
     multiple Java bytecode viewers and decompilers into one tool, including
     APK/DEX support.
 
 ### Deobfuscation / Other Resources
 
-*   [PyInstaller Extractor (⭐1.2k)](https://github.com/extremecoders-re/pyinstxtractor) -
+*   [PyInstaller Extractor (⭐2.5k)](https://github.com/extremecoders-re/pyinstxtractor) -
     A Python script to extract the contents of a PyInstaller generated Windows
     executable file. The contents of the pyz file (usually pyc files) present
     inside the executable are also extracted and automatically fixed so that a
     Python bytecode decompiler will recognize it.
-*   [uncompyle6 (⭐2.9k)](https://github.com/rocky/python-uncompyle6/) - A cross-version
+*   [uncompyle6 (⭐3.6k)](https://github.com/rocky/python-uncompyle6/) - A cross-version
     Python bytecode decompiler.  Translates Python bytecode back into equivalent
     Python source code.
 
@@ -174,9 +174,9 @@
 *   [OllyDumpEx](https://low-priority.appspot.com/ollydumpex/) - Dump memory
     from (unpacked) malware Windows process and store raw or rebuild PE file.
     This is a plugin for OllyDbg, Immunity Debugger, IDA Pro, WinDbg, and x64dbg.
-*   [Scylla Imports Reconstructor (⭐793)](https://github.com/NtQuery/Scylla) - Find and fix
+*   [Scylla Imports Reconstructor (⭐1k)](https://github.com/NtQuery/Scylla) - Find and fix
     the IAT of an unpacked / dumped PE32 malware.
-*   [ScyllaHide (⭐2.6k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
+*   [ScyllaHide (⭐3.2k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
 
 ### Miscellaneous / Other Resources
@@ -203,7 +203,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐21)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐24)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [19. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -218,11 +218,11 @@
 
 ### Apps / Widgets
 
-*   [wagtail-color-panel (⭐45)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+*   [wagtail-color-panel (⭐46)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-meta-preview (⭐27)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
+*   [wagtail-meta-preview (⭐29)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 
 ### Resources / Articles
 
@@ -230,7 +230,7 @@
 
 ### Open-source sites / Lists
 
-*   [Federal Election Commission (⭐89)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
+*   [Federal Election Commission (⭐90)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 
 ## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -340,7 +340,7 @@
 
 ### Utilities / Window Management
 
-*   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lwouis/alt-tab-macos)
+*   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lwouis/alt-tab-macos)
 
 ## [31. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
@@ -382,13 +382,13 @@
 
 ### Driver crates / Other
 
-*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐22)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
+*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐24)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
 ## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Boofuzz (⭐1.9k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
+*   [Boofuzz (⭐2k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -400,7 +400,7 @@
 
 ### Datastores / Online resources
 
-*   [acra (⭐1.2k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
+*   [acra (⭐1.3k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 
 ## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -413,7 +413,7 @@
 
 ### Projects
 
-*   [RustMart (⭐266)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+*   [RustMart (⭐267)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
 ## [38. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -425,15 +425,15 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐19k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐20k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.8k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐6.6k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ### Software / Wikis
 
-*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.8k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
+*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.9k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
 
 ## [40. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐736)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐756)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [42. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -481,7 +481,7 @@
 
 ### PHP / Scala
 
-*   [Hyperf (⭐5.8k)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
+*   [Hyperf (⭐5.9k)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
 
 ### API Gateways / Edge Services / Scala
 
@@ -612,7 +612,7 @@
 
 ### Job Scheduler
 
-*   [Prefect (⭐14k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+*   [Prefect (⭐15k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
 ## [48. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
@@ -764,8 +764,8 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-routisan (⭐205)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
-*   [vue-digital-transform (⭐58)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
+*   [vue-routisan (⭐204)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
+*   [vue-digital-transform (⭐60)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 ---
 

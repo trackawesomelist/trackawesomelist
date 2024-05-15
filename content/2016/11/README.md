@@ -94,7 +94,7 @@
 
 ### Dependency Managers
 
-*   [swift-package-manager (⭐9.5k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+*   [swift-package-manager (⭐9.6k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
 
 ## [13. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Packages / Logging
 
-*   [storyboard (⭐742)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐744)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 ## [19. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### MVVM
 
-*   [Prism (⭐6k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
+*   [Prism (⭐6.1k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
 ## [22. Typography](/content/deanhume/typography/week/README.md)
 
@@ -251,7 +251,7 @@
 
 ### Domain Analysis / Other Resources
 
-*   [Machinae (⭐479)](https://github.com/hurricanelabs/machinae) - OSINT tool for
+*   [Machinae (⭐496)](https://github.com/hurricanelabs/machinae) - OSINT tool for
     gathering information about URLs, IPs, or hashes. Similar to Automator.
 *   [TekDefense Automater](http://www.tekdefense.com/automater/) - OSINT tool
     for gathering information about URLs, IPs, or hashes.
@@ -668,11 +668,11 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐726)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ### Table of Contents / Imagery
 
-*   [Image Hash (⭐1.9k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
+*   [Image Hash (⭐2k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
 ## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

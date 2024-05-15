@@ -16,7 +16,7 @@
 
 ### Database
 
-*   [Yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
+*   [Yessql (⭐1.2k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 
 ### Misc
 

@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [ROPMEMU (⭐269)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
+*   [ROPMEMU (⭐280)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
     and decompile complex code-reuse attacks.
 
 ## [2. BEM Resources](/content/sturobson/BEM-resources/README.md)
@@ -23,7 +23,7 @@
 
 ### Command Line
 
-*   [SwiftyTextTable (⭐303)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
+*   [SwiftyTextTable (⭐305)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Embedded Systems
 

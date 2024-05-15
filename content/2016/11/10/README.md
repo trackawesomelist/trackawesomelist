@@ -44,7 +44,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐706)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐718)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -56,7 +56,7 @@
 
 ### Macros
 
-*   [eventsourced (⭐102)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
+*   [eventsourced (⭐103)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 
 ### ORM and Datamapping
 

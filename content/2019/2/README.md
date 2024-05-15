@@ -17,7 +17,7 @@
 
 ### Ask these people anything!
 
-*   [Sean Killeen (⭐4)](https://github.com/SeanKilleen/ama) - .NET Lead & Managing Consultant at [Excella](https://excella.com). Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
+*   [Sean Killeen (⭐5)](https://github.com/SeanKilleen/ama) - .NET Lead & Managing Consultant at Excella. Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Bean Mapping
 
-*   [dOOv (⭐83)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐87)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -96,6 +96,7 @@
 
 *   [**Foundation**](https://get.foundation/) - The most advanced responsive front-end framework in the world.\
     ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social\&label=Star)
+    [Demo](https://get.foundation/templates.html),
     [Docs](https://get.foundation/sites/docs/),
     [Repo (⭐30k)](https://github.com/foundation/foundation-sites)
     \| #SCSS
@@ -179,7 +180,7 @@
 
 ### Animation
 
-*   [Comets (⭐608)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐607)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
@@ -187,16 +188,16 @@
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐9k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐9.1k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
 *   [HandyJSON (⭐4.2k)](https://github.com/alibaba/handyjson) - A handy JSON-object serialization/deserialization library.
-*   [PMJSON (⭐361)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
+*   [PMJSON (⭐360)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
 
 ### Dependency Injection
 
-*   [Pure (⭐372)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐374)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
@@ -214,7 +215,7 @@
 
 ### Network / Barcode
 
-*   [PMHTTP (⭐505)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
+*   [PMHTTP (⭐503)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
 
 ### Socket / Barcode
 
@@ -238,20 +239,20 @@
 
 ### Utility / Barcode
 
-*   [DifferenceKit (⭐3.4k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
+*   [DifferenceKit (⭐3.5k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
 *   [FluentQuery (⭐148)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 *   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
-*   [ZamzamKit (⭐268)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐267)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐470)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐480)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [denopkg (⭐239)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐238)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ### Resources in Other Languages / Japanese
 
@@ -292,7 +293,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐38)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐42)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [21. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -468,12 +469,12 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐376)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 
-*   [Flutter Team Samples (⭐15k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
-*   [Flutter Common Widgets (⭐23k)](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
+*   [Flutter Team Samples (⭐17k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+*   [Flutter Common Widgets (⭐24k)](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 
 ### Bonus / Game Engine resources
 
@@ -513,7 +514,7 @@
 
 ### Image Processing
 
-*   [libjpeg-turbo (⭐3.5k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+*   [libjpeg-turbo (⭐3.6k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 
 ### Math
 
@@ -521,7 +522,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.7k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐2.8k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [37. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -537,17 +538,17 @@
 
 ### Testing
 
-*   [crytic (⭐66)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+*   [crytic (⭐65)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
 ## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐5.1k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.2k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐7.8k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐7.9k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

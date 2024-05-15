@@ -301,11 +301,11 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐591)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐630)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Trading & Backtesting
 
-*   [pybacktest (⭐780)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐795)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ### Python / Time Series
 
@@ -317,12 +317,12 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐135)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐318)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
-*   [volatility-trading (⭐1.4k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+*   [Derman Papers (⭐357)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [volatility-trading (⭐1.5k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -447,8 +447,8 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐528)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐93)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐531)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -460,7 +460,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Network / Monitoring / Logging
 
-*   [Fibratus (⭐2k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
+*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
 ## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -544,12 +544,12 @@ git remote add <remote-nickname> <remote-url>
 ### Contents / Tools
 
 *   [pico-test (⭐38)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-*   [Lib-Pico8 (⭐168)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
-*   [pico8-missing-builtins (⭐21)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+*   [Lib-Pico8 (⭐173)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+*   [pico8-missing-builtins (⭐23)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ### Contents / Hacks - undocumented PICO-8 features
 
-*   [p8keyboard.js (⭐19)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+*   [p8keyboard.js (⭐20)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
 ## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

@@ -20,25 +20,9 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### TypeScript General Resources / Components
+### TypeScript / Node Based
 
-*   [TypeScript Repository (GitHub) (⭐95k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-
-### Dart General Resources / Components
-
-*   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
-
-### Traceur General Resources / Components
-
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
-
-### Babel General Resources / Components
-
-*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel.
-
-### React Native Projects / Components
-
-*   [Angular 2 React Native Renderer (GitHub) (⭐789)](https://github.com/angular/react-native-renderer)
+*   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

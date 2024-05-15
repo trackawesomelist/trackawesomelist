@@ -37,23 +37,23 @@
 ### UI / Effect
 
 *   [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-*   [Shimmer (⭐1.6k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
+*   [Shimmer (⭐1.7k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐236)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐247)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐176)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐185)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.7k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -128,11 +128,11 @@
 
 ### JSON
 
-*   [jsonista (⭐391)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐396)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐997)](https://github.com/ztellman/manifold)
+*   [manifold (⭐1k)](https://github.com/ztellman/manifold)
 
 ### WebSocket
 
@@ -140,7 +140,7 @@
 
 ### Editor Plugins
 
-*   [Calva (VSCode) (⭐1.3k)](https://github.com/BetterThanTomorrow/calva)
+*   [Calva (VSCode) (⭐1.5k)](https://github.com/BetterThanTomorrow/calva)
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

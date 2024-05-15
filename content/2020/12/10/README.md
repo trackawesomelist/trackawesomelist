@@ -44,11 +44,11 @@
 
 ### Prompts
 
-*   [Tide (⭐2.1k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
+*   [Tide (⭐2.6k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 
 ### Plugins
 
-*   [Fishtape (⭐327)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
+*   [Fishtape (⭐343)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -66,14 +66,14 @@
 
 ### General
 
-*   [IconPark (⭐7k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
-*   [Remix Icon (⭐5.2k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
+*   [IconPark (⭐8k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
+*   [Remix Icon (⭐6.3k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
 ## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Visualization
 
-*   [mplfinance (⭐3.2k)](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data.
+*   [mplfinance (⭐3.4k)](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data.
 
 ## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -91,7 +91,7 @@
 
 ### QA and Testing Road Map / Useful References
 
-*   [How to start QA and Testing career (⭐1.6k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+*   [How to start QA and Testing career (⭐1.7k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

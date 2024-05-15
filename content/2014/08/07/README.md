@@ -10,8 +10,8 @@
 
 ### Packages / Streams
 
-*   [duplexify (⭐189)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐254)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐190)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐253)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Third Party APIs
 
-*   [sendgrid (⭐87)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
+*   [sendgrid (⭐86)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Scala
 
-*   [Spark-MongoDB (⭐306)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [Spark-MongoDB (⭐307)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ---
 

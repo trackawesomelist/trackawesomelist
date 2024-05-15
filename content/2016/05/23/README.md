@@ -33,7 +33,7 @@
 
 ### Documentation
 
-*   [Hanna (⭐35)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐36)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Boilerplates / Other
 
-*   [bozon (⭐757)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐758)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 

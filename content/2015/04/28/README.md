@@ -16,7 +16,7 @@
 
 ### Queue
 
-*   [amqp (⭐657)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐665)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

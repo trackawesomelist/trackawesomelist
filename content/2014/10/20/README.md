@@ -11,7 +11,7 @@
 ### Dependency injection
 
 *   [Component (⭐2.1k)](https://github.com/stuartsierra/component)
-*   [System (⭐603)](https://github.com/danielsz/system)
+*   [System (⭐607)](https://github.com/danielsz/system)
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Physics
 
-*   [Newton Dynamics (⭐887)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
+*   [Newton Dynamics (⭐902)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
 
 ### Videos
 

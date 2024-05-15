@@ -17,13 +17,13 @@
 ### Development / Devops
 
 *   [SAWS (⭐5.2k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-*   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [The Fuck (⭐79k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐45k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐480)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [The Fuck (⭐83k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [tldr (⭐48k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [Wat (⭐489)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [3. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐509)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐530)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -62,13 +62,15 @@
 
   CORS: No
 
+  : 
+
 
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Hacker Roadmap (⭐12k)](https://github.com/sundowndev/hacker-roadmap)
+- Repository: [Hacker Roadmap (⭐13k)](https://github.com/sundowndev/hacker-roadmap)
 
   Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 

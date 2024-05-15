@@ -54,28 +54,28 @@
 
 ### Examples and funny stuff
 
-*   [stranger (⭐65)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
-*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
+*   [graphql\_parser (⭐20)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### HTTP
 
-*   [tesla (⭐1.9k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
+*   [tesla (⭐2k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 
 ### Networking
 
-*   [eio (⭐13)](https://github.com/falood/eio) - Elixir server of engine.io.
+*   [eio (⭐14)](https://github.com/falood/eio) - Elixir server of engine.io.
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.9k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto (⭐6k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐116)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [sql\_dust (⭐118)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 

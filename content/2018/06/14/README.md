@@ -45,7 +45,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime documentation (⭐502)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐502)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+*   [GTFS-realtime documentation (⭐530)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐530)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Code Block (⭐143)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐146)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 

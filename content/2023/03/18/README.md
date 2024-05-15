@@ -10,7 +10,7 @@
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐218)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐260)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
@@ -18,15 +18,15 @@
 
 ### JSON
 
-*   [htmljson (⭐5)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
+*   [htmljson (⭐7)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
 
 ### Science and Data Analysis
 
-*   [gograph (⭐43)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
+*   [gograph (⭐49)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
 
 ### Utilities
 
-*   [watchhttp (⭐28)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
+*   [watchhttp (⭐30)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐532)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐538)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 

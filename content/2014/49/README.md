@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 08 - Dec 14, 2014
 
-17 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,23 +12,13 @@
 
 *   [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
 
-## [2. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Shell / Django
-
-*   [Shell 脚本编程30分钟入门 (⭐7.1k)](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-
-### Visual Prolog / Deno
-
-*   [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
-
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### R / General-Purpose Machine Learning
 
 *   [Machine Learning For Hackers (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 
-## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [3. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Gobble plugins / Brunch Plugins
 
@@ -46,19 +36,19 @@
 
 *   [Isparta (⭐645)](https://github.com/douglasduteil/isparta)
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
 *   [browserify (⭐14k)](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 
-## [6. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [5. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### OpenResty
 
 *   [Building an OpenResty events server (⭐64)](https://github.com/cagerton/dropthat/)
 
-## [7. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [6. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
@@ -97,7 +87,7 @@
 
 *   [Marionette Require Boilerplate (⭐243)](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 
-## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [7. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -182,20 +172,20 @@
 *   [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 *   [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
 
-## [9. Tools](/content/lvwzhen/tools/week/README.md)
+## [8. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### CSS
 
 *   [pleeease](http://pleeease.io/play/)
 *   [css3-tool](http://isux.tencent.com/css3/tools.html)
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Websites
 
@@ -204,24 +194,24 @@
 *   [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 *   [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 
-## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Regular Expressions
 
-*   [Re (⭐221)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [Re (⭐223)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
 *   [ocaml-pcre (⭐29)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
 *   [sexplib (⭐143)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
-*   [ex\_spec (⭐98)](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
+*   [ex\_spec (⭐99)](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
@@ -229,7 +219,7 @@
 
 ### API Builder and Discovery
 
-*   [Version Cake (⭐653)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
+*   [Version Cake (⭐654)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 *   [versionist (⭐970)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
@@ -264,7 +254,7 @@
 
 ### Image Processing
 
-*   [Phasion (⭐699)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐700)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Internationalization
 
@@ -273,7 +263,7 @@
 
 ### Security
 
-*   [Metasploit (⭐32k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐33k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 *   [SecureHeaders (⭐3.1k)](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ### Social Networking
@@ -287,43 +277,43 @@
     *   [CQL (⭐24)](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
     *   [cuke\_modeler (⭐22)](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
     *   [gitarro (⭐15)](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
-    *   [Knapsack (⭐501)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+    *   [Knapsack (⭐504)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
     *   [mutant (⭐1.9k)](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
     *   [Parallel Tests (⭐3.3k)](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
     *   [power\_assert (⭐1)](https://github.com/k-tsj/power_assert) - Power Assert for Ruby.
     *   [Ruby-JMeter (⭐751)](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
     *   [Spring (⭐2.8k)](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
     *   [timecop (⭐3.3k)](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
-    *   [Turbo Tests (⭐143)](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like `parallel_tests` but with incremental summarized output.
+    *   [Turbo Tests (⭐152)](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like `parallel_tests` but with incremental summarized output.
     *   [vcr (⭐5.7k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
     *   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - A responsive screenshot comparison tool.
-    *   [Zapata (⭐415)](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
+    *   [Zapata (⭐414)](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
 
 ### Third-party APIs
 
 *   [twilio-ruby (⭐1.3k)](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 
-## [15. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
 *   [dygraphs (⭐360)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
-## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐434)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐435)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ### Packages / Command-line utilities
 
-*   [ascii-charts (⭐234)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
+*   [ascii-charts (⭐233)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 
-## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Continuous Integration
 
-*   [JoliCi (⭐656)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+*   [JoliCi (⭐655)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 
 ### Table of Contents / Passwords
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2017
 
-38 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -89,7 +89,7 @@
 
 ### Asynchronous Event Loop
 
-*   [uvw (⭐1.7k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
+*   [uvw (⭐1.8k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -172,7 +172,7 @@
 ### Python / Reinforcement Learning
 
 *   [DeepMind Lab (⭐7k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
-*   [ViZDoom (⭐1.6k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+*   [ViZDoom (⭐1.7k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [15. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -497,7 +497,7 @@
 
 ### Webdriver automation
 
-*   [Etaoin (⭐883)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐893)](https://github.com/igrishaev/etaoin)
 
 ## [23. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -564,22 +564,13 @@
 *   [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 *   [Kattis](https://open.kattis.com/)- Online judge and problem archive
 
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Webpack / Components
-
-*   [Angular Nightly Webpack Starter (⭐890)](https://github.com/qdouble/angular-webpack2-starter)
-*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio)
-*   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
-*   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
-
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [30. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
@@ -608,13 +599,13 @@
 *   [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 *   [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
-## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [31. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
-## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -624,19 +615,19 @@
 
 *   [mesosphere-dc/os](https://github.com/cicdops/awesome-ciandcd/blob/master/README.md/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.
 
-## [34. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [33. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 
-## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [34. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -651,7 +642,7 @@
 
 *   [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 
-## [37. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [36. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
@@ -662,7 +653,7 @@
 *   [adminMongo (⭐3.9k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
-## [38. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [37. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 

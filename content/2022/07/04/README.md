@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,17 +16,17 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [TripleCross (⭐1.6k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
+*   [TripleCross (⭐1.7k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Calendar & Contacts
 
-*   [Xandikos (⭐367)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
+*   [Xandikos (⭐381)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐19k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
+*   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐20k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 ### Software / Communication - IRC
 
@@ -34,11 +34,11 @@
 
 ### Software / Miscellaneous
 
-*   [MyPaas (⭐359)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
+*   [MyPaas (⭐370)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [ZincSearch](https://zincsearch.com) - Search engine that requires minimal resources (alternative to Elasticsearch). ([Demo (⭐16k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐16k)](https://github.com/zincsearch/zincsearch)) `Apache-2.0` `Go/Docker/K8S`
+*   [ZincSearch](https://zincsearch.com) - Search engine that requires minimal resources (alternative to Elasticsearch). ([Demo (⭐17k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐17k)](https://github.com/zincsearch/zincsearch)) `Apache-2.0` `Go/Docker/K8S`
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Android / Tools
 
-*   [didi/booster (⭐4.7k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
+*   [didi/booster (⭐4.8k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
 
 ## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
-*   [Covalent (⭐503)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+*   [Covalent (⭐687)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -84,19 +84,13 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐264)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐284)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐46)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
-
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-plugin-tencent-oss (⭐8)](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
+*   [xiyaowong/link-visitor.nvim (⭐45)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
 
 ---
 

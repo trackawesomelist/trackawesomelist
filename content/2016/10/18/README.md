@@ -107,7 +107,7 @@
 
 ### Resources / Tutorials
 
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐320)](https://github.com/jayway/vue-js-workshop)
+*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
 
 ## [11. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

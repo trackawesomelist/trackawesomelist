@@ -24,7 +24,7 @@
 
 ### Plugins / Frameworks
 
-*   [AngularJS (⭐616)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
+*   [AngularJS (⭐617)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
 
 ### Plugins / Practices and Specific ES Features
 
@@ -73,7 +73,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.2k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.3k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
 ## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

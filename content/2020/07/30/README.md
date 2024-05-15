@@ -40,7 +40,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [RustScan (⭐11k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+*   [RustScan (⭐12k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
 ## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Data Sources / Traditional Markets
 
-*   [Tushare (⭐12k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
+*   [Tushare (⭐13k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 12 - Jun 18, 2017
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,18 +56,13 @@
 
 *   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
-### Libraries / Computation
-
-*   Scirust
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library
-
 ### Libraries / Logging
 
 *   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.5k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐7.7k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -108,7 +103,7 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐564)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐564)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐566)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐566)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -226,7 +221,7 @@
 
 ### Date and Time
 
-*   [jalaali (⭐21)](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
+*   [jalaali (⭐22)](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 
 ### Macros
 
@@ -239,7 +234,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐371)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐375)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -334,19 +329,13 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Linear MQTT Dashboard (⭐52)](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Pipes / Components
-
-*   [ngx-order-pipe (⭐242)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
-
-## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
 
-## [32. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [31. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Frameworks / MVC Frameworks
 
@@ -445,7 +434,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -457,20 +446,20 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Projects Using Vue.js / Open Source
 
-*   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-*   [Hare (⭐259)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+*   [promptie (⭐89)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
+*   [Hare (⭐258)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Components & Libraries / UI Components
 
 *   [Vue-Semantic-Modal (⭐45)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 
-## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [33. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
 *   [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 
-## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -478,10 +467,10 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### For Electron / Other
 
-*   [electron-store (⭐4.3k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.5k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 *   [got (⭐14k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
-## [36. Amas](/content/sindresorhus/amas/week/README.md)
+## [35. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -491,13 +480,13 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
-## [37. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [36. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Node.js / Single Topics
 
 *   [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Mobile Development
 
@@ -505,15 +494,15 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐882)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐886)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
-## [39. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [38. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Audio / Podcasts
 
 *   [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -534,19 +523,19 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 
-## [41. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [40. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Patterns & Best Practices
 
 *   [Linux tuning for better CouchDB performance (⭐34)](https://github.com/assafmo/couchdb-linux-performance)
 
-## [42. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [41. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [Pokemon-Terminal (⭐4k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -557,7 +546,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 *   [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 *   [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 
-## [44. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [43. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Exploits
 

@@ -20,7 +20,7 @@
 
 ### Tooling / Frameworks
 
-*   [yew-fmt (⭐11)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
+*   [yew-fmt (⭐18)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

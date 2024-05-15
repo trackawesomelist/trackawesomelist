@@ -16,7 +16,7 @@
 
 ### Samples
 
-*   [tinyrenderers (⭐452)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+*   [tinyrenderers (⭐458)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

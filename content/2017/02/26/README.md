@@ -17,7 +17,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Industrial Control System Security (⭐1.4k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+- Repository: [Industrial Control System Security (⭐1.5k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 
   Description: List of resources related to Industrial Control System (ICS) security
 
@@ -27,13 +27,13 @@
 
 ### State Machines
 
-*   [state\_machines (⭐781)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐788)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Industrial Control System Security (⭐27)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+*   [Awesome Industrial Control System Security (⭐28)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

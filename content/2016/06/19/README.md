@@ -46,7 +46,7 @@
 
 ### For Electron / Other
 
-*   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
+*   [electron-context-menu (⭐1.4k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ## [6. Tips](/content/git-tips/tips/README.md)
 

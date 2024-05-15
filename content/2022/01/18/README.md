@@ -49,14 +49,14 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository :octocat: (⭐457)](https://github.com/irapkaist/removert)
+    *   [GitHub repository :octocat: (⭐484)](https://github.com/irapkaist/removert)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Algorithms / Object detection and object tracking
 
 *   [urban\_road\_filter :newspaper:](https://doi.org/10.3390/s22010194)-
     Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository :octocat: (⭐255)](https://github.com/jkk-research/urban_road_filter)
+    *   [GitHub repository :octocat: (⭐267)](https://github.com/jkk-research/urban_road_filter)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)

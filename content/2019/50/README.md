@@ -22,22 +22,22 @@
 
 ### React Tutorials
 
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐43k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐44k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ### React Awesome Components
 
-*   [react-archer (⭐1k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐1.1k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ### React Real Apps
 
 *   [kibana (⭐19k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-*   [overreacted (⭐6.9k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+*   [overreacted (⭐7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
-*   [Digital Music Stand (⭐30)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+*   [Digital Music Stand (⭐31)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Miscellaneous
 
-*   [IUP (⭐130)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
+*   [IUP (⭐133)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
     *   IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
     *   has a web view.
 
 ### Mobile
 
-*   [rutils (⭐239)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐244)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Better code with DDD building blocks (⭐298)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
+*   [Better code with DDD building blocks (⭐304)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
 *   [Photostock CQRS-DDD Example (⭐7)](https://github.com/mr0zek/Photostock)
 
 ## [16. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
@@ -212,7 +212,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐688)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐689)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐207)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐208)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [22. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -360,20 +360,16 @@
 
 ## [32. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### CLI / Text-Based User Interfaces
-
-*   [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
-
 ### Job Scheduling / Text-Based User Interfaces
 
-*   [Quartz (⭐6k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
-*   [Sundial (⭐264)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp (⭐121)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [Quartz (⭐6.1k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
+*   [Sundial (⭐265)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
+*   [Wisp (⭐123)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
 *   [db-scheduler (⭐1.1k)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 
 ### PDF / Text-Based User Interfaces
 
-*   [OpenPDF (⭐3.1k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
+*   [OpenPDF (⭐3.3k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
 ### Testing / Matchers
 
@@ -405,14 +401,14 @@
 
 ### General
 
-*   [Boxicons (⭐2.2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
+*   [Boxicons (⭐2.7k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Chemistry
 
-*   [Reaktoro (⭐139)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐147)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### CLI
 
@@ -430,7 +426,7 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [toplevel (⭐16)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+*   [toplevel (⭐17)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
 ## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -442,7 +438,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐79)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐81)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [41. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
@@ -489,7 +485,7 @@
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐196)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐195)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
@@ -516,10 +512,10 @@
 
 *   [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 *   [Pycoin (⭐1.4k)](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
-*   [bx (⭐571)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
-*   [txwatcher (⭐47)](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
-*   [hellobitcoin (⭐247)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
-*   [HD Wallet Scanner (⭐20)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
+*   [bx (⭐588)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
+*   [txwatcher (⭐48)](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+*   [hellobitcoin (⭐248)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+*   [HD Wallet Scanner (⭐23)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 
 ### Blockchain API and Web services
 
@@ -531,7 +527,7 @@
 
 ### JavaScript Libraries
 
-*   [bcoin (⭐2.9k)](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
+*   [bcoin (⭐3k)](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
 
 ### Python Libraries
 
@@ -541,7 +537,7 @@
 
 ### Java Libraries
 
-*   [XChange (⭐3.7k)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+*   [XChange (⭐3.8k)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 ### Scala libraries
 
@@ -549,35 +545,34 @@
 
 ### .Net Libraries
 
-*   [BitcoinLib (⭐391)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+*   [BitcoinLib (⭐399)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 
 ### Playgrounds
 
-*   [Bitcoin IDE (⭐203)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
-*   [blockchain-demo (⭐5k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
+*   [Bitcoin IDE (⭐206)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
+*   [blockchain-demo (⭐5.1k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 *   [Bitcoin Script Debugger (⭐55)](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
 
 ### Blockchain dump
 
 *   [WebBTC](http://dumps.webbtc.com/bitcoin/) - These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
-*   [BitcoinDatabaseGenerator (⭐118)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
-*   [Blockparser+SQL (⭐61)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
-*   [BitcoinABE (⭐966)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
+*   [BitcoinDatabaseGenerator (⭐119)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
+*   [Blockparser+SQL (⭐60)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
+*   [BitcoinABE (⭐980)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 
 ### Full nodes
 
-*   [Bitcoin-ruby-node (⭐25)](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
-*   [Bitcore Node (⭐351)](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
-*   [Bitcore (⭐4.7k)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
+*   [Bitcoin-ruby-node (⭐26)](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
+*   [Bitcore Node (⭐352)](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
+*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
 ### Read
 
-*   [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 *   [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 *   [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
-*   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐157)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
-*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐580)](https://github.com/chaincodelabs/bitcoin-curriculum).
-*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐344)](https://github.com/chaincodelabs/lightning-curriculum).
+*   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐159)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
+*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐595)](https://github.com/chaincodelabs/bitcoin-curriculum).
+*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐352)](https://github.com/chaincodelabs/lightning-curriculum).
 *   [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 
 ### Course
@@ -624,7 +619,7 @@
 
 ### Layout
 
-*   [EasyAnchor (⭐454)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐455)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -636,7 +631,7 @@
 
 ### Text
 
-*   [PostalCodeValidator (⭐212)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
+*   [PostalCodeValidator (⭐209)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
 
 ### UI
 
@@ -705,7 +700,7 @@ Topics: Elm, Visualizations\
 
 ### Science and Data analysis
 
-*   [num.cr (⭐143)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐145)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ---
 

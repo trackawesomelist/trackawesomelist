@@ -28,7 +28,7 @@
 
 ### Testing
 
-*   [mockery (⭐90)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐91)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Tools
 
-*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [AWX (⭐13k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
 *   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
@@ -61,44 +61,38 @@
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible Vagrant Examples by geerlingguy (⭐2k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
-
-### ASM / Timings
-
-*   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
-
-## [9. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
-
-### Common Utilities
-
-*   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
-
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
 *   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 
-### Server-Side Rendering
+### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+
+### Books / Testing
+
+*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
+*   [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
+
+### Server-Side Rendering / Node Based
 
 *   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
-### Material Design
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
-*   [Official Angular Material Design (GitHub) (⭐24k)](https://github.com/angular/material2)
-*   [Blox Material (⭐148)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
+### ASM / Timings
 
-### Cheatsheet
+*   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
-*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-*   [Angular Dart cheatsheet (⭐11)](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+## [10. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
-### Books / Components
+### Common Utilities
 
-*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-*   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+*   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
 ## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -110,7 +104,7 @@
 
 ### Math
 
-*   [OpenBLAS (⭐5.8k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

@@ -54,7 +54,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐79)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐83)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐79)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐83)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
 
 ---
 

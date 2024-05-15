@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [Checkov (⭐6.4k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐6.6k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [2. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Third-Party Packages / Database Connectors
 
-*   [djongo (⭐1.8k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
+*   [djongo (⭐1.9k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### Resources / Books
 
@@ -60,19 +60,19 @@
 
 ### Projects / Boilerplate
 
-*   [django-startproject (⭐136)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
+*   [django-startproject (⭐141)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [justwrote/kjob (⭐79)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
+*   [justwrote/kjob (⭐83)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [log (⭐14)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
+*   [log (⭐15)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -90,7 +90,7 @@
 ### Multimodal Embedding Space / Deforum
 
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-*   [rom1504/clip-retrieval (⭐2k)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [rom1504/clip-retrieval (⭐2.1k)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -107,17 +107,17 @@
 
 ### Health and Social Science
 
-*   [Biomedical Information Extraction (⭐294)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-*   [Diversity (⭐611)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-*   [Empathy in Engineering (⭐519)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
-*   [Healthcare (⭐2.4k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+*   [Biomedical Information Extraction (⭐307)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+*   [Diversity (⭐618)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
+*   [Empathy in Engineering (⭐525)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+*   [Healthcare (⭐2.5k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 *   [Humane Technology (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 *   [Mental Health (⭐2.9k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 *   [Neuroscience (⭐1.2k)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
 ### Miscellaneous
 
-*   [Scientific Writing (⭐652)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐701)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## [10. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -129,9 +129,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [jim-at-jibba/ariake-vim-colors (⭐30)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
-*   [Th3Whit3Wolf/onebuddy (⭐99)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐96)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [Th3Whit3Wolf/onebuddy (⭐100)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
+*   [ofirgall/ofirkai.nvim (⭐110)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
 ## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -154,11 +153,11 @@
 
 ### Templates / Vue 3
 
-*   [vue-vite-tw-ts (⭐11)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
+*   [vue-vite-tw-ts (⭐10)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
 
 ### Open Source / Community
 
-*   [Vituum (⭐273)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [Vituum (⭐294)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Inspired by Elm / Games
 
-*   [Bucklescript-TEA (⭐595)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
+*   [Bucklescript-TEA (⭐599)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 *   [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
@@ -29,7 +29,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-feather (⭐18)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
+*   [yew-feather (⭐17)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [SimpleLocalize (⭐49)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
+*   [SimpleLocalize (⭐55)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [a-shell (⭐12)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+*   [a-shell (⭐13)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
 ## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

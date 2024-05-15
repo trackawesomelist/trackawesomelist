@@ -54,7 +54,7 @@
 
 ### CMS
 
-*   [Composite C1 (⭐253)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐252)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### GIS
 
@@ -62,7 +62,7 @@
 
 ### Testing
 
-*   [Fluent Assertions (⭐3.5k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.6k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Models/Projects
 
-*   [AlexNet3D (⭐41)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
+*   [AlexNet3D (⭐43)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 
 ## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐20k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐22k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [30. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### HTTP
 
-*   [explode (⭐42)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
+*   [explode (⭐44)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 
 ### Templating
 
@@ -332,7 +332,7 @@
 
 ### Third Party APIs
 
-*   [cashier (⭐47)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐48)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [39. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.8k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

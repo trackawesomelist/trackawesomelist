@@ -112,7 +112,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Personality
 
-- API: [Programming Quotes (⭐427)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐453)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -188,7 +188,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Awesome Repositories
 
-- Repository: [Asset Discovery (⭐1.8k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- Repository: [Asset Discovery (⭐1.9k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 
   Description: List of resources which help during asset discovery phase of a security assessment engagement
 

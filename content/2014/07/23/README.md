@@ -10,7 +10,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Zxcvbn PHP (⭐808)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐813)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Literate Programming
 
-*   [marginalia (⭐798)](https://github.com/gdeer81/marginalia)
+*   [marginalia (⭐803)](https://github.com/gdeer81/marginalia)
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pyhsmm (⭐535)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+*   [pyhsmm (⭐541)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 
 ## [9. Magictools](/content/ellisonleao/magictools/README.md)
 

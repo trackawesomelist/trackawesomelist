@@ -14,7 +14,7 @@
 
 ### Natural Language Processing (NLP)
 
-*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐158)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐159)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
 ## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -64,14 +64,13 @@
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
-*   [@teropa](https://twitter.com/teropa)
 *   [@eggheadio](https://twitter.com/eggheadio)
 *   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 

@@ -28,13 +28,13 @@ git cherry -v master <branch-to-be-merged>
 
 ### Physics
 
-*   [Box2D (⭐7.2k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐7.3k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐4k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐4.1k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

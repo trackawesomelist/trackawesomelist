@@ -74,7 +74,7 @@
 
 ### Samples
 
-*   [GL\_vs\_VK (⭐80)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
+*   [GL\_vs\_VK (⭐81)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [evilgrade (⭐1.2k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+*   [evilgrade (⭐1.3k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

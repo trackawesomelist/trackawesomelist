@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -47,7 +47,7 @@
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐168)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐170)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [4. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Implementations/Compilers
 
-*   [cltk (⭐73)](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
+*   [cltk (⭐72)](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
 
 ## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -99,28 +99,13 @@
 
 *   [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Approach and Explanation / Components
-
-*   Burak Tasci (fulls1z3)
-    *   [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
-
-### Universal Seed Projects / Components
-
-*   [ng-seed/universal (⭐704)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-
-### TypeScript Seed Projects / Components
-
-*   [ng-seed/spa (⭐27)](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-
-## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [tag (⭐593)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Utility / Collection View Layout
 

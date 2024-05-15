@@ -54,13 +54,9 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐673)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐1.4k)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### PaaS
-
-*   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs, and Storage by using infrastructure *from* the code approach(no YAML, no infrastructure configuration). Serverless Inc. provides the product and it is currently under public preview.
 
 ### Analytics, Events and Statistics
 
@@ -77,13 +73,13 @@
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐5.8k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐5.9k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Scanmycode CE (Community Edition) (⭐569)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
+*   [Scanmycode CE (Community Edition) (⭐686)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

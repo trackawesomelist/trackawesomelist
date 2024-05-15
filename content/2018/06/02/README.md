@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Basys (⭐119)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
+*   [Basys (⭐120)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [HashCheck (⭐1.4k)](https://github.com/gurnec/HashCheck) - Windows shell extension
+*   [HashCheck (⭐1.7k)](https://github.com/gurnec/HashCheck) - Windows shell extension
     to compute hashes with a variety of algorithms.
 
 ## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)

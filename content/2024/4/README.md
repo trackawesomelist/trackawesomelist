@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22 - Jan 28, 2024
 
-31 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### App Releases / Casual
 
-*   Save The Potato [source-code (⭐9)](https://github.com/imaNNeo/save_the_potato) - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
+*   Save The Potato [source-code (⭐29)](https://github.com/imaNNeo/save_the_potato) - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
 
 ## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue3-realworld-app (⭐16)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
+*   [vue3-realworld-app (⭐27)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 
 ## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Resseract Lite (⭐1)](https://github.com/abistarun/resseract-lite)
+*   [Resseract Lite (⭐4)](https://github.com/abistarun/resseract-lite)
 
 ## [7. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
-*   [solid\_queue (⭐1.2k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
+*   [solid\_queue (⭐1.4k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -72,15 +72,15 @@
 
 ### Python / Computer Vision
 
-*   [MLX (⭐13k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+*   [MLX (⭐14k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
 ### Python / Neural Networks
 
-*   [Kinho (⭐29)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
+*   [Kinho (⭐30)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 
 ### Tools / Misc
 
-*   [Infinity (⭐1.1k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐1.5k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -108,7 +108,13 @@
 
 *   [Concord](https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.
 
-## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Security & Privacy
+
+*   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
+
+## [13. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
@@ -123,7 +129,7 @@
 *   [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
 *   Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -133,7 +139,7 @@
 
 *   [Geomate](https://geomate.ca/en/) - Geomate provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -143,7 +149,7 @@
 
 *   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐9)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 
-## [15. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [16. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Africa
 
@@ -153,31 +159,31 @@
 
 *   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Managed Registries / Miscellaneous
 
 *   [cloudsmith](https://help.cloudsmith.io/docs/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+*   [lopi-py/luau-lsp.nvim (⭐30)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 
 ### AI / Diagnostics
 
-*   [gsuuon/model.nvim (⭐230)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐267)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐101)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐246)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ### Project / Diagnostics
 
-*   [LintaoAmons/cd-project.nvim (⭐46)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
+*   [LintaoAmons/cd-project.nvim (⭐77)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
-## [18. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -187,7 +193,19 @@
 
 *   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite)
 
-## [19. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [20. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+
+### Plugins / Community Plugins
+
+*   [@capawesome-team/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+*   [@capawesome-team/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
+*   [@capawesome-team/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
+*   [@capawesome-team/capacitor-file-compressor](https://capawesome.io/plugins/file-compressor) - Capacitor plugin for compressing files.
+*   [@capawesome-team/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
+*   [@capawesome-team/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
+*   [@capawesome-team/capacitor-printer](https://capawesome.io/plugins/printer) - Capacitor plugin for printing.
+
+## [21. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Generative AI
 
@@ -212,23 +230,23 @@
 *   [Social Science Computer Review](https://journals.sagepub.com/description/SSC)
 *   [World Digital Libraries – An International Journal](https://content.iospress.com/journals/world-digital-libraries-an-international-journal)
 
-## [20. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [22. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
-*   [django-webhook (⭐117)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+*   [django-webhook (⭐139)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
-*   [Piku (⭐2.4k)](https://github.com/piku/piku)
+*   [Piku (⭐2.6k)](https://github.com/piku/piku)
 
-## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
-*   [PiKISS (⭐844)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
+*   [PiKISS (⭐845)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
-## [22. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [24. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Books
 
@@ -238,11 +256,11 @@
 
 *   [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator)  - Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously [https://github.com/cbsinteractive/video-transcoding-api (⭐5)](https://github.com/cbsinteractive/video-transcoding-api) - cbsinteractive/transcode-orchestrator
 *   [natsuite/NatReader-API](https://github.com/natsuite/NatReader-API)  - NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API
-*   [realeyes-media/demo-encoder (⭐54)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
+*   [realeyes-media/demo-encoder (⭐55)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
 
-*   [prologic/tube (⭐20)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
+*   [prologic/tube (⭐22)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
 
 ### Players / Android
 
@@ -254,9 +272,9 @@
 *   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
-## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
@@ -268,7 +286,7 @@
 
 *   [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
 
-## [24. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [26. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 *by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)* [4.42]
 
@@ -284,17 +302,17 @@
 *   [The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
 *   [The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
-## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [27. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Gallery
 
 *   **Google Photos** has privacy issues. They collect a lot of data about you, which you can see in their [privacy policy](https://policies.google.com/privacy?hl=en-US#infocollect). Google can scan your photos and might flag them for different reasons, as shown in this [incident](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/). They also use your photos to improve their AI technology.
 *   **Amazon Photos** also has similar privacy problems. Like Google Photos, it gathers a lot of information from your photo gallery. You can see a bit of what kind of data they collect in their [**examples** list](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01).
 *   **Samsung, Huawei, Xiaomi, etc.** Gallery
-*   [Aves (⭐1.8k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐877)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Aves (⭐2k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
+*   [Fossify Gallery (⭐1.2k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / StarFive
 
@@ -304,49 +322,48 @@
 
 *   [`j71xx-hal`](https://crates.io/crates/jh71xx-hal) - HAL crate for StarFive [JH71xx](https://www.starfivetech.com/en/site/soc) MCUs - ![crates.io](https://img.shields.io/crates/v/jh71xx-hal.svg)
 
-## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [29. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Frameworks
 
-*   [remix (⭐26k)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
+*   [remix (⭐27k)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 
 ### React Libraries
 
-*   [react-error-boundary (⭐6.1k)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
+*   [react-error-boundary (⭐6.4k)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [react-component-library-vite (⭐1)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
+*   [react-component-library-vite (⭐2)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
 
-## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [bitcoin-rpc](https://codeberg.org/kilianmh/bitcoin-rpc/) - a (hopefully) complete Bitcoin RPC client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
 *   [stacks-api (⭐1)](https://github.com/kilianmh/stacks-api) - a Stacks API client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ### Web frameworks / Isomorphic web frameworks
 
-*   [Weblocks (Reblocks) (⭐42)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
-    *   example code bases: [Ultralisp (⭐215)](https://github.com/ultralisp/ultralisp/), [krasnodar (⭐3)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
+*   [Weblocks (Reblocks) (⭐47)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
+    *   example code bases: [Ultralisp (⭐220)](https://github.com/ultralisp/ultralisp/), [krasnodar (⭐5)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 
-## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [33. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### IDE integrations
 
-*   [denops-docker.vim (⭐78)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
+*   [denops-docker.vim (⭐82)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
 
 ### Web / Other
 
-*   [Mafl (⭐96)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+*   [Mafl (⭐160)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15 - Feb 21, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -107,30 +107,24 @@
 
 *   [k (⭐1.8k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ciro Nunes](https://twitter.com/cironunesdev/)
-
-## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [9. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [Origami.js (⭐767)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [ServiceStack (⭐5.3k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+*   [ServiceStack (⭐5.4k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 ### Scheduling
 
-*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐846)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [FluentScheduler (⭐2.7k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
+*   [NCrontab (⭐868)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
-## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [11. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -139,7 +133,7 @@
 **Free** SQL courses with interactive exercises and quizzes\
 *(SQL, database concepts)*
 
-## [13. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -158,29 +152,29 @@
 *   [Font Face Observer (⭐4.1k)](https://github.com/bramstein/fontfaceobserver)
 *   [Web Font Loader (⭐9.1k)](https://github.com/typekit/webfontloader)
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Transition / Barcode
 
 *   [BubbleTransition (⭐3.3k)](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [14. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Messaging / Scala
 
-*   [Aeron (⭐6.9k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+*   [Aeron (⭐7k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 
 ### Data Formats / Scala
 
-*   [SBE (⭐231)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+*   [SBE (⭐240)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 
-## [16. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [15. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Game development / WebRTC
 
 *   [HTML 5 game development video series by Mozilla](https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/)
 
-## [17. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [16. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Overviews
 
@@ -201,19 +195,19 @@
 
 *   [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay.
 
-## [18. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [17. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / PHP
 
 *   [Spider (⭐24)](https://github.com/spider/spider) - A simple, flexible, and beautiful graph-data abstraction for php.
 
-## [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Software for Creating APIs
 
 *   [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
 
-## [20. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [19. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Date & Time
 
@@ -237,7 +231,7 @@
 *   [pkg-conf (⭐113)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 *   [normalize-pkg (⭐18)](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
-## [21. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [20. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Community / Quora
 
@@ -263,7 +257,7 @@
 
 
 
-## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -277,16 +271,16 @@
 
 ### Samples
 
-*   [vkcube (⭐108)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐110)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
-## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [22. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
 
-## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -298,19 +292,19 @@
 *   [Sulong (⭐627)](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
 *   [Truffle (⭐18k)](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
 
-## [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [24. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### JavaScript Libraries
 
 *   [Awesome CryptoCoinJS (⭐57)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
-## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [25. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
 *   [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
 
-## [27. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [26. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation
 
@@ -321,47 +315,47 @@
 *   [AutoItAppveyor (by KyleChamberlin) (⭐0)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
 *   [Micro Unit Testing Framework (by KyleChamberlin) (⭐5)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 
-## [28. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [27. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Misc
 
 *   [CS 108](http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/) **Object Oriented System Design** *Stanford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   Software design and construction in the context of large OOP libraries. Taught in Java. Topics: OOP design, design patterns, testing, graphical user interface (GUI) OOP libraries, software engineering strategies, approaches to programming in teams.
 
-## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Science
 
 *   [NIPY](http://nipy.org) - A collection of neuroimaging toolkits.
 
-## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [mumrah/s3-multipart :fire: (⭐162)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 
-## [31. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [30. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tips and Tricks
 
 *   [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) - Short videos showing some handy tips when using Unity.
 
-## [32. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [31. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
-*   [JSON-java (⭐4.4k)](https://github.com/stleary/JSON-java) - A reference implementation.
-*   [PL/JSON (⭐429)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
+*   [JSON-java (⭐4.5k)](https://github.com/stleary/JSON-java) - A reference implementation.
+*   [PL/JSON (⭐440)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 ### JSON Schema Frontend components
 
 *   [angular-schema-form (⭐2.5k)](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [goth (⭐271)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐274)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
@@ -369,13 +363,13 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐902)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐925)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 
 *   [atom-iex (⭐15)](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 
-## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -383,13 +377,13 @@
 *   [PF\_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF\_RING is a new type of network socket that dramatically improves the packet capture speed.
 *   [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 
-## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
 *   [rusty-machine (⭐1.2k)](https://github.com/AtheMathmo/rusty-machine) - a pure-rust machine learning library.
 
-## [36. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [35. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
@@ -397,7 +391,7 @@
 *   [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
 *   [RoboCup](http://www.robocup.org/)
 
-## [37. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [36. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
@@ -405,7 +399,7 @@
 *   [RxCurrying (⭐38)](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 *   [RxEither (⭐91)](https://github.com/eleventigers/rxeither) - Either type for RxJava.
 
-## [38. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [37. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Communication
 
@@ -429,7 +423,7 @@
 
 *   [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### ORM/ODM
 
@@ -439,23 +433,23 @@
 
 *   [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Data validation
 
 *   [property-validator (⭐158)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
-## [41. Amas](/content/sindresorhus/amas/week/README.md)
+## [40. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Rob Thomas (⭐0)](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
+*   [Rob Thomas (⭐0)](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at Sangoma.
 
 ### Ask these organizations anything!
 
 *   [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 
-## [42. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [41. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Caching & Session
 
@@ -467,7 +461,7 @@
 *   [pyramid\_debugtoolbar\_dogpile (⭐2)](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) -
     dogpile caching support for pyramid\_debugtoolbar
 
-## [43. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [42. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Essentials
 
@@ -542,7 +536,7 @@
 *   Make sure there is no trailing whitespace
 *   Last, Make sure it is awesome!
 
-## [44. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [43. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 

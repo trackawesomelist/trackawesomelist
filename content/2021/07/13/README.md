@@ -21,13 +21,13 @@
 ### Utils
 
 *   [expect-playwright (⭐143)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐194)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [eslint-plugin-playwright (⭐208)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [3. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐267)](https://github.com/Qvant-lab/qui-max)
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Tools & Software / Curation
 
-*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐15)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐261)](https://github.com/leonkt/zotero-memento).
+*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐17)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐273)](https://github.com/leonkt/zotero-memento).
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -65,7 +65,7 @@
 
 ### FIAT
 
-*   [Debitum (⭐80)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐82)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐63k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

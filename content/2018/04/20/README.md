@@ -54,7 +54,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [iocextract (⭐367)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
+*   [iocextract (⭐487)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
     of Compromise (IOC) extractor, Python library and command-line tool.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
@@ -120,23 +120,23 @@
 
 ### Multi Database
 
-*   [Shallows (⭐623)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
-*   [StorageManager (⭐48)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
+*   [StorageManager (⭐50)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
 
 ### Images / Barcode
 
-*   [ImageScout (⭐977)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐976)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐286)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐288)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
-*   [PredicateFlow (⭐102)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
+*   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
 
 ### UI / Barcode
 
@@ -148,13 +148,13 @@
 
 ### Button / Barcode
 
-*   [PMSuperButton (⭐722)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
+*   [PMSuperButton (⭐723)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐3.8k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐4.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -171,7 +171,7 @@
 
 ### Ask these people anything!
 
-*   [Krzysztof Cieslak (⭐7)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker.
+*   [Krzysztof Cieslak (⭐8)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of Lambda Factory, author of Ionide, Forge, Fornax, project owner and maintainer of VSCode-Elm, contributor to many OSS projects, international speaker.
 
 ## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

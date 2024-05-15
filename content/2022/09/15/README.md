@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [aja (⭐171)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
+*   [aja (⭐182)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 
 ### Artificial Intelligence
 
@@ -24,12 +24,12 @@
 
 ### Configuration
 
-*   [enux (⭐2)](https://github.com/massivefermion/enux) - utility package for loading, validating and documenting your app's configuration variables from env, json and jsonc files at runtime and injecting them into your environment.
-*   [skogsra (⭐102)](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease.
+*   [enux (⭐3)](https://github.com/massivefermion/enux) - utility package for loading, validating and documenting your app's configuration variables from env, json and jsonc files at runtime and injecting them into your environment.
+*   [skogsra (⭐104)](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease.
 
 ### Cryptography
 
-*   [nimble\_totp (⭐364)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
+*   [nimble\_totp (⭐371)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 
 ### Files and Directories
 
@@ -41,7 +41,7 @@
 
 ### Networking
 
-*   [Firezone (⭐6k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐6.2k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ### Protocols
 
@@ -59,7 +59,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-pack (⭐22)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+*   [vite-plugin-zip-pack (⭐24)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Run Elm / Outdated Boilerplates
 
-*   [Elm Watch (⭐122)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+*   [Elm Watch (⭐145)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Relational Database Drivers
 
-*   [ydb-go-sdk (⭐121)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
+*   [ydb-go-sdk (⭐126)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
 ---
 

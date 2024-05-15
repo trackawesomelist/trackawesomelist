@@ -92,7 +92,7 @@
 
 ### Official Documentation Translations
 
-*   [ast\_helper (⭐26)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
+*   [ast\_helper (⭐25)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
 
 ## [12. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

@@ -44,17 +44,17 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐188)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐206)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
-*   [Axiom (⭐3.6k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+*   [Axiom (⭐3.8k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
 ### DevOps / Development
 
-*   [Trivy (⭐20k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
+*   [Trivy (⭐21k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
 ## [8. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐20)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐21)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

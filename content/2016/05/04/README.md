@@ -23,7 +23,7 @@
 
 ### Libraries
 
-*   [TensorFlow-Slim (⭐75k)](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
+*   [TensorFlow-Slim (⭐77k)](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 
 ### Blog posts
 
@@ -62,7 +62,7 @@
 
 ### Template Engine
 
-*   [crustache (⭐81)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐82)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ---
 

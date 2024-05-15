@@ -1,24 +1,34 @@
 # Awesome List Updates on Aug 06, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [1. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+
+### Client API
+
+*   🔧 [PowerShell (⭐11)](https://github.com/naql/PS_Mirth) - PowerShell wrapper for the Mirth REST API (v3.6+).
+
+### Other
+
+*   🔧 [VSCode Connect (⭐8)](https://github.com/tonygermano/connect-vscode) - Environment for testing scripts using the Rhino engine in a pseudo-Mirth environment.
+
+## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / CLI utils
 
-*   [tui (⭐243)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐252)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
-## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Casual
 
 *   Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
 
-## [3. Tools](/content/lvwzhen/tools/README.md)
+## [4. Tools](/content/lvwzhen/tools/README.md)
 
 ### Placeholder
 
@@ -28,13 +38,13 @@
 
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
-*   [linrongbin16/fzfx.nvim (⭐85)](https://github.com/linrongbin16/fzfx.nvim) - FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.
+*   [linrongbin16/fzfx.nvim (⭐96)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 
-## [5. Awesome V](/content/vlang/awesome-v/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Database clients
 
@@ -44,7 +54,7 @@
 
 *   [lexical\_uuid (⭐1)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Wrappers / Other
 

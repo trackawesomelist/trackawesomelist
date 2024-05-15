@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐150)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐183)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Validation / Playground
 
-*   [computed-types (⭐364)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐366)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -61,11 +61,11 @@
 
 *   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
-### API / Forms
+### Forms / Normal Forms
 
-*   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
+*   [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
 
 ## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -323,15 +323,15 @@
 
 ### Gaming
 
-*   [Flame (⭐897)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐954)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐154)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐165)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐176)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐183)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -350,15 +350,15 @@
 ### Projects
 
 *   [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
-*   [Network Presence Detector (⭐368)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
-*   [P4wnP1 (⭐3.8k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
+*   [Network Presence Detector (⭐369)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+*   [P4wnP1 (⭐3.9k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [PoisonTap (⭐6.1k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
 ## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
-### Deployment / Distribution / Collection View Layout
+### Deployment / Distribution
 
-*   [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS with online device simulators
+*   [Appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -370,7 +370,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [HAProxy (⭐4.3k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
+*   [HAProxy (⭐4.4k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 
 ### Job Schedulers / Workload Automation / Scala
 
@@ -402,7 +402,7 @@
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐18)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐19)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -457,7 +457,7 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐236)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐237)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -700,7 +700,7 @@ Language: English
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.6k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.7k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
@@ -714,18 +714,18 @@ Language: English
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐644)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐63k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [Blazor-ApexCharts (⭐555)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐299)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐16k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
+*   [ChartJs.Blazor (⭐665)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐63k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [Blazor-ApexCharts (⭐676)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Plotly.Blazor (⭐315)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 *   [GG.Net Data Visualization (⭐77)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [BlazorDateRangePicker (⭐168)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐179)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐731)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐757)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### 2D/3D Rendering engines / Others
 
@@ -747,7 +747,7 @@ Language: English
 
 ### Sample Projects / PHP
 
-*   [DDD CQRS Todo Sample (⭐343)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+*   [DDD CQRS Todo Sample (⭐353)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
 ## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -765,13 +765,13 @@ Language: English
 
 ### Tools and session management
 
-*   [dmux (⭐279)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐300)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐111)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐113)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
@@ -819,14 +819,10 @@ Language: English
 
 *   [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - *Pager Duty* - Guidelines to running security training within an organisation.
 
-### Communities
-
-*   [MyDevSecOps](https://www.mydevsecops.io/) - *Snyk* - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
-
 ### Conferences
 
-*   [AppSec Day](https://appsecday.io/) - *OWASP* - An Australian application security conference run by OWASP.
 *   [DevSecCon](https://www.devseccon.com/) - *Snyk* - A network of DevSecOps conferences run by Snyk.
+*   [AppSec Day](https://appsecday.io/) - *OWASP* - An Australian application security conference run by OWASP.
 
 ### Podcasts
 
@@ -848,7 +844,7 @@ Language: English
 
 *   [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - *Microsoft* - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 *   [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - *NIST* - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
-*   [Software Assurance Maturity Model (⭐394)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
+*   [Software Assurance Maturity Model (⭐395)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Training
 
@@ -867,13 +863,12 @@ Language: English
 *   [NPM Audit](https://docs.npmjs.com/cli/audit) - *NPM* - Vulnerable package auditing for node packages built into the npm CLI.
 *   [Renovate](https://renovate.whitesourcesoftware.com/) - *WhiteSource* - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 *   [Requires.io](https://requires.io/) - *Olivier Mansion & Alexis Tabary* - Automated vulnerable dependency monitoring and upgrades for Python projects.
-*   [Snyk Open Source](https://snyk.io/) - *Snyk* - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
-*   [Automatic API Attack Tool (⭐414)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
+*   [Automatic API Attack Tool (⭐438)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
 *   [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - *PortSwigger* - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
-*   [Gauntlt (⭐967)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+*   [Gauntlt (⭐972)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
 *   [SSL Labs Scan (⭐1.7k)](https://github.com/ssllabs/ssllabs-scan) - *SSL Labs* - Automated scanning for SSL / TLS configuration issues.
 *   [Zed Attack Proxy (ZAP) (⭐12k)](https://github.com/zaproxy/zaproxy) - *OWASP* - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
@@ -883,32 +878,32 @@ Language: English
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Clair (⭐9.9k)](https://github.com/quay/clair) - *Quay* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+*   [Clair (⭐10k)](https://github.com/quay/clair) - *Red Hat* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 *   [Dagda (⭐1.1k)](https://github.com/eliasgranderubio/dagda/) - *Elías Grande* - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 *   [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - *Snyk* - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 
 ### Infrastructure as Code Analysis / Terraform
 
-*   [Tfsec (⭐6.4k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
+*   [Tfsec (⭐6.6k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
 ### Infrastructure as Code Analysis / Kubernetes
 
-*   [Kube-Score (⭐2.4k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
-*   [Kubectrl Kubesec (⭐495)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+*   [Kube-Score (⭐2.6k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
+*   [Kubectrl Kubesec (⭐501)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
 ### Intentionally Vulnerable Applications / Ansible
 
 *   [Bad SSL (⭐2.7k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
 *   [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - *Ryan Dewhurst* - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
-*   [Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
+*   [Juice Shop (⭐9.6k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
 *   [NodeGoat (⭐1.8k)](https://github.com/OWASP/NodeGoat) - *OWASP* - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 
 ### Related Lists / Ruby
 
 *   [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - *OWASP* - A collection of vulnerable web applications for learning purposes.
-*   [Awesome Threat Modelling (⭐1.1k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
-*   [Awesome Dynamic Analysis (⭐816)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
-*   [Awesome Static Analysis (⭐12k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
+*   [Awesome Threat Modelling (⭐1.3k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
+*   [Awesome Dynamic Analysis (⭐877)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
+*   [Awesome Static Analysis (⭐13k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
 
 ### Monitoring / Ansible
 
@@ -927,32 +922,32 @@ Language: English
 *   [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - *Google Cloud Platform* - Securely store secrets within GCP.
 *   [HashiCorp Vault](https://www.vaultproject.io/) - *HashiCorp* - Securely store secrets via UI, CLI or HTTP API.
 *   [Pinterest Knox (⭐1.2k)](https://github.com/pinterest/knox) - *Pinterest* - Securely store, rotate and audit secrets.
-*   [Secrets Operations (SOPS) (⭐14k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+*   [Secrets Operations (SOPS) (⭐15k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 
 ### Static Analysis / Multi-Language Support
 
-*   [Graudit (⭐1.3k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
+*   [Graudit (⭐1.4k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
 *   [LGTM](https://lgtm.com/) - *Semmle* - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
 *   [RIPS](https://www.ripstech.com/) - *RIPS Technologies* - Automated static analysis for PHP, Java and Node.js projects.
 *   [SonarQube](https://www.sonarqube.org/) - *SonarSource* - Scan code for security and quality issues with support for a wide variety of languages.
 
 ### Static Analysis / C / C++
 
-*   [FlawFinder (⭐421)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
+*   [FlawFinder (⭐454)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
 
 ### Static Analysis / C#
 
-*   [Puma Scan (⭐430)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
+*   [Puma Scan (⭐438)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
 
 ### Static Analysis / Configuration Files
 
-*   [Conftest (⭐2.7k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
+*   [Conftest (⭐2.8k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
 
 ### Static Analysis / Java
 
 *   [Deep Dive](https://discotek.ca/deepdive.xhtml) - *Discotek.ca* - Static analysis for JVM deployment units including Ear, War, Jar and APK.
 *   [Find Security Bugs (⭐2.2k)](https://github.com/find-sec-bugs/find-sec-bugs/) - *OWASP* - SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.
-*   [SpotBugs (⭐3.3k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
+*   [SpotBugs (⭐3.4k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
 
 ### Static Analysis / JavaScript
 
@@ -960,31 +955,31 @@ Language: English
 
 ### Static Analysis / Go
 
-*   [Golang Security Checker (⭐7.3k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
+*   [Golang Security Checker (⭐7.5k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
 
 ### Static Analysis / .NET
 
-*   [Security Code Scan (⭐893)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
+*   [Security Code Scan (⭐920)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
 
 ### Static Analysis / PHP
 
-*   [PHPCS Security Audit (⭐689)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
-*   [Progpilot (⭐305)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
+*   [PHPCS Security Audit (⭐703)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
+*   [Progpilot (⭐313)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
 
 ### Static Analysis / Python
 
-*   [Bandit (⭐5.7k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
+*   [Bandit (⭐6k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
 
 ### Static Analysis / Ruby
 
-*   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
-*   [DawnScanner (⭐723)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+*   [Brakeman (⭐6.9k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+*   [DawnScanner (⭐731)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
 
 ### Threat Modelling / Ruby
 
 *   [SecuriCAD](https://www.foreseeti.com/) - *Forseeti* - Treat modelling and attack simulations for IT infrastructure.
 *   [IriusRisk](https://iriusrisk.com/) - *IriusRisk* - Draw threat models and capture threats and countermeasures and manage risk.
-*   [Raindance Project (⭐42)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+*   [Raindance Project (⭐43)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
 *   [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - *Security Compass* - Identify and rank threats, generate actionable tasks and track related tickets.
 *   [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - *OWASP* - Threat model diagramming tool.
 *   [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - *Microsoft* - Threat model diagramming tool.
@@ -994,23 +989,23 @@ Language: English
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐316)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐345)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.3k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐708)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐770)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [39. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐200)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐206)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [40. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -1022,7 +1017,7 @@ Language: English
 
 ### Command-line tools
 
-*   [oj (⭐768)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐793)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -1030,8 +1025,8 @@ Language: English
 
 ### Libraries
 
-*   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐768)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojc (⭐35)](https://github.com/ohler55/ojc) - A fast JSON parser.
+*   [ojg (⭐793)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 ## [42. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -1058,12 +1053,12 @@ Language: English
 
 ### Parsers / Testing Tools
 
-*   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+*   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 *   [BrightScript (⭐42)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [ES and browser globals (⭐319)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐335)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [45. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
@@ -1076,7 +1071,7 @@ Language: English
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐116)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐124)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ### Integrations
 
@@ -1121,9 +1116,9 @@ Language: English
 
 ### Applications
 
-*   [asm-cli-rust (⭐290)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
-*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐447)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
+*   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐458)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
@@ -1189,7 +1184,7 @@ Language: English
 
 ### Files and Directories
 
-*   [waffle (⭐681)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐696)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [56. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -1280,7 +1275,7 @@ Language: English
 
 ### CI and CD
 
-*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online emulators. 20-minute build timeout (60 minutes for Open Source) with single concurrency for free.
+*   [appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.
 
 ### APIs, Data, and ML
 

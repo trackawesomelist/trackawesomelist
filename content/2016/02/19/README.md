@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,7 +77,7 @@
 
 ### Libraries
 
-*   [JSON-java (⭐4.4k)](https://github.com/stleary/JSON-java) - A reference implementation.
+*   [JSON-java (⭐4.5k)](https://github.com/stleary/JSON-java) - A reference implementation.
 
 ### JSON Schema Frontend components
 
@@ -93,16 +93,10 @@
 
 ### Samples
 
-*   [vkcube (⭐108)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐110)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ciro Nunes](https://twitter.com/cironunesdev/)
-
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
@@ -110,9 +104,9 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐902)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐925)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / I companies
 
@@ -122,7 +116,7 @@
 
 *   Vertabelo <http://www.vertabelo.com/blog>
 
-## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 

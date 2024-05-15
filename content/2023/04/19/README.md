@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,12 +10,12 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐38)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐56)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐110)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐205)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐115)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐218)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Applications
 
-*   [Nostr (⭐9.3k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐9.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐469)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐480)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -49,7 +49,8 @@
     *   used in the industry since the 1990s.
     *   it supports a subset of the ANSI standard Common Lisp programming language.
     *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
-    *   [Proofpad (⭐8)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
+    *   [Proofpad (⭐9)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
+    *   [ACL2-kernel (⭐4)](https://github.com/tani/acl2-kernel), a Jupyter Kernel for ACL2.
     *   [ACL2 Sedan](http://acl2s.ccs.neu.edu/acl2s/doc/), an Eclipse plugin that provides a modern IDE for ACL2, used with students at universities.
         *   paper: [Using ACL2 to teach students about software testing](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ACL22022).
 
@@ -64,13 +65,7 @@
 
 *   [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. (In Development)
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-### Inspiration, Instruction, and Research / Fonts
-
-*   [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
-
-## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React General Resources
 
@@ -78,23 +73,23 @@
 
 ### React Tutorials
 
-*   [React Interview Questions & Answers (⭐34k)](https://github.com/sudheerj/reactjs-interview-questions)
-*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐21k)](https://github.com/alan2207/bulletproof-react)
-
-### React Development Tools
-
-*   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+*   [React Interview Questions & Answers (⭐36k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐23k)](https://github.com/alan2207/bulletproof-react)
 
 ### React Component Libraries
 
-*   [material-ui (⭐90k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-*   [fluentui (⭐17k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
+*   [material-ui (⭐91k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
+*   [fluentui (⭐18k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 *   [framework7 (⭐18k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [ariakit (⭐7.4k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+*   [ariakit (⭐7.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 
 ### React State Management and Data Fetching
 
 *   [swr (⭐29k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
+
+### React Development Tools
+
+*   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Libraries
 
@@ -102,9 +97,9 @@
 
 ### React Awesome Components
 
-*   [react-complex-tree (⭐697)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+*   [react-complex-tree (⭐746)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

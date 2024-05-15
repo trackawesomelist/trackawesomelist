@@ -160,7 +160,7 @@
 
 ### Network / Other Resources
 
-*   [Laika BOSS (⭐701)](https://github.com/lmco/laikaboss) - Laika BOSS is a file-centric
+*   [Laika BOSS (⭐720)](https://github.com/lmco/laikaboss) - Laika BOSS is a file-centric
     malware analysis and intrusion detection system.
 
 ## [12. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
@@ -425,11 +425,11 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐376)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐378)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐59)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐60)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [23. Tips](/content/git-tips/tips/week/README.md)
 
@@ -460,13 +460,13 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Tools
 
-*   [ShareX (⭐27k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐28k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐92)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐93)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
@@ -482,7 +482,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Editors
 
-*   [Alchemist.vim (⭐652)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐651)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 
@@ -507,14 +507,14 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Open Source / Other
 
-*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐65)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [30. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
-*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of MIHTool and Codelf.
+*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, tiborsimon.io.
 
 ## [31. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -535,7 +535,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Table of Contents / Event
 
-*   [Prooph Event Store (⭐548)](https://github.com/prooph/event-store) - An event source component to persist event messages
+*   [Prooph Event Store (⭐549)](https://github.com/prooph/event-store) - An event source component to persist event messages
 
 ## [33. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [StringSifter (⭐586)](https://github.com/fireeye/stringsifter) - A machine learning tool
+*   [StringSifter (⭐647)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐159)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐161)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -46,17 +46,17 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐65)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐66)](https://github.com/braintree/restricted-input)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Tailwind CSS (⭐12k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [Tailwind CSS (⭐13k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Gaming
 
-*   [PlayCanvas (⭐229)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐238)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

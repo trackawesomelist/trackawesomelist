@@ -207,7 +207,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐126)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐131)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -256,20 +256,20 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Plugins
 
-*   [tmux-wormhole (⭐83)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐96)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
-*   [Checkov (⭐6.2k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
-*   [KICS (⭐1.8k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+*   [Checkov (⭐6.6k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+*   [KICS (⭐1.9k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
 ## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [FlutterDex (⭐56)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐58)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

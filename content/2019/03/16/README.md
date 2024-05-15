@@ -22,7 +22,7 @@
 
 ### Entertainment / Social Media
 
-*   [irssi (⭐2.7k)](https://github.com/irssi/irssi) - IRC chat client.
+*   [irssi (⭐2.8k)](https://github.com/irssi/irssi) - IRC chat client.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

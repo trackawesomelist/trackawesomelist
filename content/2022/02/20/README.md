@@ -66,21 +66,21 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bio (⭐5)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
+*   [bio (⭐6)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [goflow (⭐249)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
+*   [goflow (⭐280)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 
 ### Uncategorized
 
-*   [xz (⭐441)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐460)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐3.9k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐4k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Tools / GUIs
 
-*   [Visual SNMP (⭐10)](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
+*   [Visual SNMP (⭐12)](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
 
 ### Miscellaneous / Tutorials
 
@@ -129,11 +129,11 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐796)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐805)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 
-*   [xBehave.net (⭐383)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
+*   [xBehave.net (⭐382)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
 
 ## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐367)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐382)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ---
 

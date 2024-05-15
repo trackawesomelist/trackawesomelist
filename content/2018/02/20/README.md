@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jason (⭐1.5k)](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
+*   [jason (⭐1.6k)](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -66,7 +66,7 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
+    *   [kkawakam/rustyline (⭐1.5k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality
     *   [murarth/linefeed (⭐183)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
     *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — command line editing library
@@ -75,7 +75,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Hacker101 (⭐13k)](https://github.com/Hacker0x01/hacker101)
+- Repository: [Hacker101 (⭐14k)](https://github.com/Hacker0x01/hacker101)
 
   Description: A free class for web security by HackerOne
 

@@ -77,7 +77,7 @@
 
 ### ORM / Database / Datamapping
 
-*   [Lampager/Cake plugin (⭐5)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
+*   🍰 [Lampager/Cake plugin (⭐5)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 
 ## [11. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Photo / Image
 
-*   [react-particle-image (⭐438)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐450)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ---
 

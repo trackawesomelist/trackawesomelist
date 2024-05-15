@@ -1,24 +1,18 @@
 # Awesome List Updates on Sep 13, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [ng2-boiler (⭐0)](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
-
-## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Build Tools
 
 *   [Construct (⭐266)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Artificial Intelligence
 
@@ -26,7 +20,7 @@
 
 ### Authentication
 
-*   [doorman (⭐120)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 
@@ -34,25 +28,25 @@
 
 ### Queue
 
-*   [RBMQ (⭐22)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
+*   [RBMQ (⭐21)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 
 ### Testing
 
-*   [faker\_elixir (⭐150)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
+*   [faker\_elixir (⭐148)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Backups
 
 *   [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Java / Symfony2
 
 *   [Vertx-Web (⭐1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
-## [6. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Must Reads
 
@@ -62,19 +56,19 @@
 
 *   [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
-## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [6. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
 *   [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## [9. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [8. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Automation
 

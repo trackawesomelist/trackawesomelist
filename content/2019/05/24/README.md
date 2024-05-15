@@ -34,12 +34,12 @@
 
 ### Platforms
 
-*   [Android (⭐10k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+*   [Android (⭐11k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 *   [React Native (⭐34k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 
 ### Programming Languages
 
-*   [C/C++ (⭐53k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐56k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Back-End Development
 

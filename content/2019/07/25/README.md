@@ -33,10 +33,6 @@
 *   [Journal on Data Semantics ](http://www.springer.com/journal/13740)
 *   [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 
-### Newsletters
-
-*   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Cloud
@@ -53,7 +49,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐881)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

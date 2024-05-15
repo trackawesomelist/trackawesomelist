@@ -109,7 +109,7 @@
 
 ### Contents / Extensions
 
-*   [Citus (⭐9.5k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
+*   [Citus (⭐9.8k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 
 ## [3. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Contents / Example Apps
 
-*   [Hueify (⭐91)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
+*   [Hueify (⭐90)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

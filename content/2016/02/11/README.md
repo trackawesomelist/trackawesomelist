@@ -21,7 +21,7 @@
 
 ### Ask these people anything!
 
-*   [Ariya Hidayat (⭐29)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.8k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+*   [Ariya Hidayat (⭐29)](https://github.com/ariya/ama) - VP of Engineering Shape Security, Author of Esprima and PhantomJS.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

@@ -55,7 +55,7 @@
 
 ### Miscellaneous
 
-*   [lisp-magick-wand (⭐13)](https://github.com/TBRSS/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
+*   [lisp-magick-wand (⭐14)](https://github.com/TBRSS/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
 
 ### HTTP Servers / Clack plugins
 

@@ -10,12 +10,12 @@
 
 ### Supported Distributions / Pengwin
 
-*   [Pengwin GitHub (⭐1.4k)](https://github.com/WhitewaterFoundry/Pengwin) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Pengwin GitHub (⭐1.5k)](https://github.com/WhitewaterFoundry/Pengwin) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   Because Pengwin is based on Debian, most Debian and Ubuntu documentation also applies to Pengwin.
 
 ### Supported Distributions / Pengwin Enterprise
 
-*   [Pengwin Enterprise GitHub (⭐63)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Pengwin Enterprise GitHub (⭐65)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Development / Release
 
-*   [clog (⭐818)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐834)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FireX Proxy (⭐95)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
+*   [FireX Proxy (⭐94)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐574)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐619)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 

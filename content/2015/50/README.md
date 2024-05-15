@@ -1,32 +1,18 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
-
-### Markdown / Zepto.js
-
-*   [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
-
-### Ruby / Django
-
-*   [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
-
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [1. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
 *   [aerosolve (⭐4.8k)](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [2. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -52,41 +38,41 @@
 
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Misc
 
 *   [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [dev-time (⭐181)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
-## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [5. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
 *   [refinerycms-testimonials (⭐2)](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
 
-## [7. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
 
-## [8. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [7. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Shared tasks
 
 *   [Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
-*   [SwiftHEXColors (⭐690)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐691)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### JSON
 
@@ -94,7 +80,7 @@
 
 ### XML
 
-*   [AEXML (⭐983)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐988)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -107,7 +93,7 @@
 ### UI / Barcode
 
 *   [BreakOutToRefresh (⭐2.5k)](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
-*   [FloatRatingView (⭐547)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐549)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ### Menu / Barcode
 
@@ -121,24 +107,24 @@
 
 ### Utility / Barcode
 
-*   [Swiftx (⭐216)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
+*   [Swiftx (⭐217)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
-*   [Maltrail (⭐4.8k)](https://github.com/stamparm/maltrail) - A malicious traffic
+*   [Maltrail (⭐5.8k)](https://github.com/stamparm/maltrail) - A malicious traffic
     detection system, utilizing publicly available (black)lists containing
     malicious and/or generally suspicious trails and featuring an reporting
     and analysis interface.
 
-## [11. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [10. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Code generation / Brunch Plugins
 
 *   [generator-gulp-babelify (⭐3)](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -156,13 +142,13 @@
 
 *   Rob Allen <https://akrabat.com/>
 
-## [13. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Theming/Styling
 
 *   [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -172,25 +158,25 @@
 
 *   [TinyTDS (⭐605)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
-## [15. Amas](/content/sindresorhus/amas/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these organizations anything!
 
 *   [Vim Taiwan (⭐16)](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
 
-## [16. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [15. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 
-## [17. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Blogs of core committer
 
 *   [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
 
-## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [17. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
@@ -202,31 +188,31 @@
 *   [Multiple Experts using Entropy Minimization](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
 *   [TGPR](http://www.dabi.temple.edu/\~hbling/code/TGPR.htm)
 
-## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Open Source Wallets
 
 *   [Electrum](https://electrum.org/)
 
-## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icon Fonts
 
 *   [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 
-## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Incident Response (⭐6.8k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+*   [Awesome Incident Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
-## [22. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [21. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
 *   [RxTuples (⭐113)](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
 
-## [23. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [22. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Documentation
 
@@ -253,22 +239,22 @@
 
 *   [Relay Starter Kit (⭐1k)](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 
-## [24. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [23. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
-*   [clj-net-pcap (⭐64)](https://github.com/ruedigergad/clj-net-pcap): `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
+*   [clj-net-pcap (⭐66)](https://github.com/ruedigergad/clj-net-pcap): `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
 *   [Yaf](https://tools.netsa.cert.org/yaf/yaf.html): It's a reliable piece of software, quite solid and able to generate flow records from pcap. This is very nice for indexing huge pcap or even doing packet capture. The recent version can even extract payloads and put in the flow records.
 
 ### Traffic Analysis/Inspection
 
 *   [AIEngine](https://bitbucket.org/camp0/aiengine): is a next generation interactive/programmable packet inspection engine with capabilities of learning without any human intervention, NIDS functionality, DNS domain classification, network collector and many others. AIEngine also helps network/security professionals to identify traffic and develop signatures for use them on NIDS, Firewalls, Traffic classifiers and so on.
-*   [HttpSniffer (⭐180)](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
+*   [HttpSniffer (⭐185)](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 *   [Libnids](http://libnids.sourceforge.net/): designed by Rafal Wojtczuk, is an implementation of an E-component of Network Intrusion Detection System. It emulates the IP stack of Linux 2.0.x. Libnids offers IP defragmentation, TCP stream assembly and TCP port scan detection. The most valuable feature of libnids is reliability. A number of tests were conducted, which proved that libnids predicts behaviour of protected Linux hosts as closely as possible.
 *   [NetDude](http://netdude.sourceforge.net/): (NETwork DUmp data Displayer and Editor). From their webpage, "it is a GUI-based tool that allows you to make detailed changes to packets in tcpdump tracefiles."
 *   [Ntop](http://www.ntop.org/): Ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
-*   [Pcap2har (⭐230)](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
-*   [pkt2flow (⭐151)](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
+*   [Pcap2har (⭐232)](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
+*   [pkt2flow (⭐161)](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
 *   [Scapy](http://www.secdev.org/projects/scapy/): Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.
 *   [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html): Makes output from the tcpdump program easier to read and parse.
 *   [TCP-Reduce](http://ita.ee.lbl.gov/html/contrib/tcp-reduce.html): TCP-Reduce is a collection of Bourne shell scripts for reducing tcpdump traces to one-line summaries of each TCP connection present in the trace. The scripts look only at TCP SYN/FIN/RST packets. Connections without SYN packets in the trace (such as those on- going at the beginning of the trace) will not appear in the summary. Garbaged packets (those missing some of their contents) are reported to stderr as bogon's and are discarded. Occasionally the script gets fooled by retransmissions with altered sequence numbers, and reports erroneous huge connection sizes - always check large connections (say 100 MB or more) for plausibility.
@@ -287,28 +273,28 @@
 ### Related Projects / Analysis
 
 *   [Haka](http://www.haka-security.org/): An open source security oriented language which allows to describe protocols and apply security policies on (live) captured traffic. The scope of Haka language is twofold. First of all, it allows to write security rules in order to filter/alter/drop unwanted packets and log and report malicious activities. Second, Haka features a grammar enabling to specify network protocols and their underlying state machine.
-*   [RIPE-NCC Hadoop for PCAP (⭐201)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
+*   [RIPE-NCC Hadoop for PCAP (⭐203)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
 *   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐834)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [NPoco (⭐835)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
 *   [BidMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
-## [27. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [26. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
 *   [SalesForce Lightning](https://www.lightningdesignsystem.com/design/motion/)
 
-## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [27. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -343,7 +329,7 @@
 
 *   [NGINX Conference](https://www.nginx.com/nginxconf/)
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [28. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
@@ -354,7 +340,7 @@
 
 *   [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -383,7 +369,7 @@
 
 ### Framework Components
 
-*   [exdjango (⭐19)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐20)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### Geolocation
 
@@ -407,7 +393,7 @@
 
 ### OTP
 
-*   [erlexec (⭐504)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐515)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -415,12 +401,12 @@
 
 ### Text and Numbers
 
-*   [bencode (⭐17)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
+*   [bencode (⭐18)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 *   [elixir-range-extras (⭐8)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 
 ### Third Party APIs
 
-*   [apns (⭐71)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
+*   [apns (⭐70)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 *   [zanox (⭐1)](https://github.com/rafaelss/zanox) - Zanox API.
 
 ### YAML
@@ -431,13 +417,13 @@
 
 *   [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
 
-## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [30. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [ineo (⭐76)](https://github.com/cohesivestack/ineo)- A simple but useful Neo4j instance manager.
 
-## [32. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [31. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -459,7 +445,7 @@
 *   [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 *   Some other solutions from [awesome-etl list (⭐2.7k)](https://github.com/pawl/awesome-etl).
 
-## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -680,12 +666,12 @@
 *   [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 *   [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
 
-## [34. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [33. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐305)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
 ---
 

@@ -214,28 +214,28 @@
 
 ### Contents / Boilerplates
 
-*   [Official Boilerplate (⭐973)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
-*   [Preact Simple Starter (⭐65)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
+*   [Official Boilerplate (⭐972)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
+*   [Preact Simple Starter (⭐64)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
 *   [Preact PWA (⭐510)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
-*   [Preact Router (⭐977)](https://github.com/developit/preact-router) - URL router for Preact.
+*   [Preact Router (⭐998)](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Contents / Components
 
-*   [Preact Token Input (⭐61)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-*   [Preact Virtual List (⭐218)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+*   [Preact Token Input (⭐62)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
+*   [Preact Virtual List (⭐223)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
-*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐580)](http://github.com/matthewmueller/socrates).
+*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐579)](http://github.com/matthewmueller/socrates).
 *   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
 *   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐10)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
 *   [Preact Classless Component (⭐44)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
 *   [Preact Hyperscript (⭐31)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
 *   [Shallow Compare (⭐34)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 *   [Preact Codemod (⭐40)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
-*   [Preact Helmet (⭐81)](https://github.com/download/preact-helmet) - A document head manager for Preact.
-*   [Preact Delegate (⭐18)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
+*   [Preact Helmet (⭐82)](https://github.com/download/preact-helmet) - A document head manager for Preact.
+*   [Preact Delegate (⭐19)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 *   [Preact No SSR (⭐8)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 
 ### Contents / Articles
@@ -245,7 +245,7 @@
 
 ### Contents / Example Apps
 
-*   [Colors App (⭐96)](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
+*   [Colors App (⭐98)](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 *   [Tracks (⭐16)](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
 
 ### Contents / Related Libraries
@@ -405,7 +405,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐16k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐911)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐401)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐914)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐402)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -511,7 +511,7 @@
 
 ### Miscellaneous / Other Resources
 
-*   [FLARE VM (⭐4.1k)](https://github.com/fireeye/flare-vm) - A fully customizable,
+*   [FLARE VM (⭐5.9k)](https://github.com/fireeye/flare-vm) - A fully customizable,
     Windows-based, security distribution for malware analysis.
 
 ## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
@@ -605,11 +605,11 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐65)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐72)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ### CMS
 
-*   [mojoPortal  (⭐189)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐193)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -621,22 +621,22 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐3.1k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐3.3k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.6k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.7k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
 *   [Essential Diagnostics (⭐65)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
-*   [Semantic Logging Application Block (SLAB) (⭐215)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
+*   [Semantic Logging Application Block (SLAB) (⭐216)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐995)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -790,7 +790,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐784)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐785)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 *   [Gemini (⭐3.2k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
@@ -887,7 +887,7 @@
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐136)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐144)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [50. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

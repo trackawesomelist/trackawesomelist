@@ -10,13 +10,13 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐61)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐65)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐8.9k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐9.6k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [padding-oracle-attacker (⭐185)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
+*   [padding-oracle-attacker (⭐191)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 
 ## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -135,24 +135,24 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [pivotsuite (⭐411)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
+*   [pivotsuite (⭐420)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 
 ## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Deployment Tools / Discovery
 
-*   [morph (⭐702)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐723)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
-*   [rsuite-table (⭐694)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+*   [rsuite-table (⭐704)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
 ### Chart
 
-*   [react-chartjs-2 (⭐6.3k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+*   [react-chartjs-2 (⭐6.4k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
 ## [22. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [One Time Address (⭐60)](https://github.com/alexk111/One-Time-Address)
+- Processor: [One Time Address (⭐63)](https://github.com/alexk111/One-Time-Address)
 
   Fees: No fees
 
@@ -237,7 +237,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐575)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -428,7 +428,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐191)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐193)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [40. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -503,7 +503,7 @@
 
 ### Phone Numbers / Barcode
 
-*   [NKVPhonePicker (⭐144)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
+*   [NKVPhonePicker (⭐145)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
 ## [45. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -531,7 +531,7 @@
 
 ### Code Analysis and Linter
 
-*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
+*   [clj-kondo (⭐1.7k)](https://github.com/borkdude/clj-kondo)
 
 ## [49. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 

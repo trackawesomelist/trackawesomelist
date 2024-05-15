@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐613)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐226)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐242)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Code Analysis and Linter
 
-*   [splint (⭐71)](https://github.com/NoahTheDuke/splint)
+*   [splint (⭐85)](https://github.com/NoahTheDuke/splint)
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -99,7 +99,7 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐99)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐102)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

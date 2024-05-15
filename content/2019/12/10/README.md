@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐79)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐81)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐196)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐195)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
@@ -70,7 +70,7 @@
 
 ### Layout
 
-*   [EasyAnchor (⭐454)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐455)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -96,7 +96,6 @@
 
 ### Read
 
-*   [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 *   [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 
 ### Course
@@ -116,7 +115,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐143)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐145)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

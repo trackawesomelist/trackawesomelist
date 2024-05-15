@@ -34,7 +34,7 @@
 
 ### Validations
 
-*   [bankster (⭐29)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐30)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
@@ -64,7 +64,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐475)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐487)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

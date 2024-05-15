@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐273)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐281)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐431)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐432)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐1.5k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐1.8k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -298,7 +298,7 @@
 
 ### R / Time Series
 
-*   [garchmodels (⭐35)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
+*   [garchmodels (⭐34)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -333,14 +333,14 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐843)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐933)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-    (Python, Apache 2.0, [GitHub (⭐4.4k)](https://github.com/cvxpy/cvxpy))
+    (Python, Apache 2.0, [GitHub (⭐5k)](https://github.com/cvxpy/cvxpy))
 
 ---
 

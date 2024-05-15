@@ -10,7 +10,7 @@
 
 ### Decentralized Systems
 
-*   [Golem (⭐170)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+*   [Golem (⭐186)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 
 ### Related
 
@@ -42,13 +42,13 @@
 
 ### Testing / Individual Podcast episodes
 
-*   [Elm Spec (⭐26)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
+*   [Elm Spec (⭐29)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/nord.nvim (⭐732)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
+*   [shaunsingh/nord.nvim (⭐752)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
 
 ## [7. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

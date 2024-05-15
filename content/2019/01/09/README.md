@@ -78,7 +78,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐38)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐42)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -144,11 +144,11 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐376)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 
-*   [Flutter Team Samples (⭐15k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+*   [Flutter Team Samples (⭐17k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐39k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐40k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐153)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐166)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,15 +104,15 @@
 
 ### Authentication
 
-*   [pow (⭐1.5k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
+*   [pow (⭐1.6k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 
 ### Date and Time
 
-*   [open\_hours (⭐46)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐48)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 
 ### Macros
 
-*   [crudry (⭐87)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐90)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### ORM and Datamapping
 
@@ -130,7 +130,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐764)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐763)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
 ## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

@@ -22,13 +22,13 @@
 
 ### Physics
 
-*   [Quantum++ (⭐496)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐506)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [ncmpcpp (⭐1.8k)](https://github.com/arybczak/ncmpcpp) - mpd client.
+*   [ncmpcpp (⭐2k)](https://github.com/arybczak/ncmpcpp) - mpd client.
 *   [beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 
 ### Entertainment / Video
@@ -41,7 +41,7 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐43k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [bat (⭐46k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Transformations
 
-*   [x2js (⭐991)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
+*   [x2js (⭐995)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 
 ### Queries
 
@@ -103,17 +103,17 @@
 
 ### Platforms
 
-*   [KDE (⭐378)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐415)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐394)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐404)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐621)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐580)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
-*   [Software Architecture (⭐2.1k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
+*   [Cheminformatics (⭐642)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐593)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Software Architecture (⭐2.2k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ---
 

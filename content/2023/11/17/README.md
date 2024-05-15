@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐77k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐84k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -92,7 +92,7 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [polarssql (⭐20)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+*   [polarssql (⭐21)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Resources / Talks and videos
 
@@ -114,7 +114,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐294)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐295)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

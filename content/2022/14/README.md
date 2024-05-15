@@ -16,7 +16,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [efectn/fiber-boilerplate (⭐72)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
+*   [efectn/fiber-boilerplate (⭐74)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
 
 ## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -38,12 +38,12 @@
 
 ### Games / Apache License
 
-*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐25)](https://github.com/mgrojo/ASFML).
+*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐24)](https://github.com/mgrojo/ASFML).
 
 ### Graphical User Interface / Apache License
 
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
-*   [ada-gui (⭐34)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
+*   [ada-gui (⭐35)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ### Graphics and Multimedia / Apache License
 
@@ -51,16 +51,16 @@
 
 ### Automation / Apache License
 
-*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐83)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
+*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐84)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐83)](https://github.com/AdaCore/gtkada).
-*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐83)](https://github.com/AdaCore/gtkada).
+*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
 
 ### Misc / Apache License
 
-*   [whitakers-words (⭐261)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐263)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -79,7 +79,7 @@
 ### Python / Python Survival Analysis
 
 *   [lifelines (⭐2.3k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
-*   [Scikit-Survival (⭐1k)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
+*   [Scikit-Survival (⭐1.1k)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 ### R / General-Purpose Machine Learning
 
@@ -107,7 +107,7 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐97)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐99)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
@@ -134,7 +134,7 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐475)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐492)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [15. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Logging
 
-*   [Ougai (⭐258)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
+*   [Ougai (⭐259)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
 
 ## [17. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -157,11 +157,11 @@
 
 ### Crates / Hooks
 
-*   [yewv (⭐9)](https://github.com/yewv/yewv) - A lightning fast state management module for Yew built with performance and simplicity as a first priority.
+*   [yewv (⭐11)](https://github.com/yewv/yewv) - A lightning fast state management module for Yew built with performance and simplicity as a first priority.
 
 ### Crates / Utils
 
-*   [yew\_icons (⭐34)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
+*   [yew\_icons (⭐38)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 
 ## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Apps / Media
 
-*   [Rent Free Media (⭐66)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
+*   [Rent Free Media (⭐68)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 
 ## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -212,36 +212,36 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [miniserve (⭐5.5k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
+*   [miniserve (⭐5.6k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
 
 ### Software / Wikis
 
-*   [Wikmd (⭐284)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python/Docker`
+*   [Wikmd (⭐293)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python/Docker`
 
 ## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [simple-vue-camera (⭐55)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
-*   [@vuepic/vue-datepicker (⭐1.2k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [simple-vue-camera (⭐64)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+*   [@vuepic/vue-datepicker (⭐1.3k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ### Components & Libraries / UI Utilities
 
-*   [@morev/vue-transitions (⭐144)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
+*   [@morev/vue-transitions (⭐171)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
 ## [25. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [fortune-sheet (⭐2.1k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
+*   [fortune-sheet (⭐2.2k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 
 ### Loader
 
-*   [react-loader-spinner (⭐910)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+*   [react-loader-spinner (⭐930)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 
 ### Form Components / Miscellaneous
 
-*   [@anatoliygatt/numeric-stepper (⭐158)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
+*   [@anatoliygatt/numeric-stepper (⭐162)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
 
 ### Data Store / Mouse Events
 
@@ -251,7 +251,7 @@
 
 ### Developer Tools / Databases
 
-*   [Sequel Ace (⭐6.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
+*   [Sequel Ace (⭐6.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -286,9 +286,8 @@
 
 ### 3rd party GTFS URL directories
 
-*   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
-*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐234)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
 *   [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
+*   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
 
 ### Web Apps (open source)
 
@@ -314,18 +313,18 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [phha/zenburn.nvim (⭐81)](https://github.com/phha/zenburn.nvim) - A low-contrast dark colorscheme with support for various plugins.
+*   [phha/zenburn.nvim (⭐89)](https://github.com/phha/zenburn.nvim) - A low-contrast dark colorscheme with support for various plugins.
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/substitute.nvim (⭐407)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
-*   [gbprod/yanky.nvim (⭐670)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
+*   [gbprod/substitute.nvim (⭐452)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+*   [gbprod/yanky.nvim (⭐745)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 
 ## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Observability
 
-*   [Quickwit-oss/quickwit (⭐5.5k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
+*   [Quickwit-oss/quickwit (⭐6.1k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
 
 ### Applications / Operating systems
 
@@ -337,7 +336,7 @@
 
 ### Libraries / Audio and Music
 
-*   [insomnimus/nodi (⭐12)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
+*   [insomnimus/nodi (⭐15)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
 ## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -384,7 +383,7 @@
 
 ### Examples/Templates
 
-*   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
+*   [k6-template-es6 (⭐78)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 
 ## [38. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -396,24 +395,20 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐405)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐446)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-electron (⭐552)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
-
-### Go / Community
-
-*   [vite-go (⭐188)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+*   [vite-plugin-electron (⭐587)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 
 ## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
-*   [Spotube (⭐22k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spotube (⭐24k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
 *   [Spot\* (⭐2.2k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
-*   [psst\* (⭐8k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
-*   [ncspot\* (⭐4.5k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+*   [psst\* (⭐8.2k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [ncspot\* (⭐4.6k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ### Password Managers
 
@@ -421,7 +416,7 @@
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐2.2k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
+*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐2.3k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 
 ## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -453,29 +448,29 @@
 
 *   [crunch (⭐91)](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily.
 *   [go-ef (⭐31)](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding.
-*   [roaring (⭐2.3k)](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
+*   [roaring (⭐2.4k)](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
 
 ### Bloom and Cuckoo Filters
 
-*   [cuckoo-filter (⭐276)](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper is available.
-*   [cuckoofilter (⭐1k)](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
+*   [cuckoo-filter (⭐278)](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
+*   [cuckoofilter (⭐1.1k)](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 *   [ring (⭐137)](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 
 ### Data Structure and Algorithm Collections
 
-*   [algorithms (⭐760)](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study.
+*   [algorithms (⭐772)](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study.
 *   [go-datastructures (⭐7.3k)](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
-*   [gods (⭐15k)](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
-*   [gostl (⭐972)](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
+*   [gods (⭐16k)](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+*   [gostl (⭐987)](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 
 ### Iterators
 
 *   [goterator (⭐16)](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities.
-*   [iter (⭐186)](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
+*   [iter (⭐185)](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
 
 ### Maps
 
-*   [dict (⭐43)](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
+*   [dict (⭐44)](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -483,133 +478,133 @@
 
 ### Nullable Types
 
-*   [nan (⭐81)](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
-*   [null (⭐33)](https://github.com/emvi/null) - Nullable Go types that can be marshalled/unmarshalled to/from JSON.
-*   [typ (⭐44)](https://github.com/gurukami/typ) - Null Types, Safe primitive type conversion and fetching value from complex structures.
+*   [nan (⭐84)](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
+*   [null (⭐35)](https://github.com/emvi/null) - Nullable Go types that can be marshalled/unmarshalled to/from JSON.
+*   [typ (⭐45)](https://github.com/gurukami/typ) - Null Types, Safe primitive type conversion and fetching value from complex structures.
 
 ### Queues
 
-*   [deque (⭐170)](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
-*   [deque (⭐522)](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
-*   [goconcurrentqueue (⭐344)](https://github.com/enriquebris/goconcurrentqueue) - Concurrent FIFO queue.
+*   [deque (⭐175)](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
+*   [deque (⭐541)](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
+*   [goconcurrentqueue (⭐365)](https://github.com/enriquebris/goconcurrentqueue) - Concurrent FIFO queue.
 *   [memlog (⭐110)](https://github.com/embano1/memlog) - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 
 ### Sets
 
 *   [dsu (⭐14)](https://github.com/ihebu/dsu) - Disjoint Set data structure implementation in Go.
-*   [golang-set (⭐3.8k)](https://github.com/deckarep/golang-set) - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+*   [golang-set (⭐3.9k)](https://github.com/deckarep/golang-set) - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 *   [goset (⭐52)](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
 *   [set (⭐26)](https://github.com/StudioSol/set) - Simple set data structure implementation in Go using LinkedHashMap.
 
 ### Text Analysis
 
-*   [bleve (⭐9.5k)](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
-*   [go-adaptive-radix-tree (⭐330)](https://github.com/plar/go-adaptive-radix-tree) - Go implementation of Adaptive Radix Tree.
-*   [go-edlib (⭐440)](https://github.com/hbollon/go-edlib) - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
-*   [trie (⭐721)](https://github.com/derekparker/trie) - Trie implementation in Go.
+*   [bleve (⭐9.7k)](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
+*   [go-adaptive-radix-tree (⭐338)](https://github.com/plar/go-adaptive-radix-tree) - Go implementation of Adaptive Radix Tree.
+*   [go-edlib (⭐453)](https://github.com/hbollon/go-edlib) - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
+*   [trie (⭐727)](https://github.com/derekparker/trie) - Trie implementation in Go.
 
 ### Trees
 
-*   [hashsplit (⭐27)](http://github.com/bobg/hashsplit) - Split byte streams into chunks, and arrange chunks into trees, with boundaries determined by content, not position.
+*   [hashsplit (⭐28)](http://github.com/bobg/hashsplit) - Split byte streams into chunks, and arrange chunks into trees, with boundaries determined by content, not position.
 *   [merkle (⭐14)](https://github.com/bobg/merkle) - Space-efficient computation of Merkle root hashes and inclusion proofs.
 
 ### Pipes
 
-*   [ordered-concurrently (⭐33)](https://github.com/tejzpr/ordered-concurrently) - Go module that processes work concurrently and returns output in a channel in the order of input.
-*   [parapipe (⭐25)](https://github.com/nazar256/parapipe) - FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results.
+*   [ordered-concurrently (⭐37)](https://github.com/tejzpr/ordered-concurrently) - Go module that processes work concurrently and returns output in a channel in the order of input.
+*   [parapipe (⭐27)](https://github.com/nazar256/parapipe) - FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results.
 *   [pipeline (⭐55)](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 
 ### Caches
 
-*   [2q (⭐36)](https://github.com/floatdrop/2q) - 2Q in-memory cache implementation.
-*   [bcache (⭐144)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
+*   [2q (⭐38)](https://github.com/floatdrop/2q) - 2Q in-memory cache implementation.
+*   [bcache (⭐146)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
 *   [couchcache (⭐60)](https://github.com/codingsince1985/couchcache) - RESTful caching micro-service backed by Couchbase server.
-*   [fastcache (⭐1.9k)](https://github.com/VictoriaMetrics/fastcache) - fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.
+*   [fastcache (⭐2k)](https://github.com/VictoriaMetrics/fastcache) - fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.
 *   [GCache (⭐2.5k)](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.
 *   [gdcache (⭐12)](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
-*   [go-mcache (⭐91)](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
+*   [go-mcache (⭐93)](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
 *   [groupcache (⭐13k)](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-*   [remember-go (⭐137)](https://github.com/rocketlaunchr/remember-go) - A universal interface for caching slow database queries (backed by redis, memcached, ristretto, or in-memory).
-*   [timedmap (⭐70)](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
-*   [ttlcache (⭐811)](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics.
+*   [remember-go (⭐138)](https://github.com/rocketlaunchr/remember-go) - A universal interface for caching slow database queries (backed by redis, memcached, ristretto, or in-memory).
+*   [timedmap (⭐69)](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
+*   [ttlcache (⭐848)](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics.
 *   [ttlcache (⭐9)](https://github.com/cheshir/ttlcache) - In-memory key value storage with TTL for each record.
 
 ### Databases Implemented in Go
 
 *   [badger (⭐13k)](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
-*   [bbolt (⭐7.4k)](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
+*   [bbolt (⭐7.7k)](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 *   [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
-*   [buntdb (⭐4.3k)](https://github.com/tidwall/buntdb) - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
-*   [clover (⭐558)](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
-*   [nutsdb (⭐3.2k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
-*   [pudge (⭐357)](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
-*   [unitdb (⭐116)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
+*   [buntdb (⭐4.4k)](https://github.com/tidwall/buntdb) - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
+*   [clover (⭐597)](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
+*   [nutsdb (⭐3.3k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+*   [pudge (⭐362)](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
+*   [unitdb (⭐118)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 
 ### Database Tools
 
-*   [clickhouse-bulk (⭐456)](https://github.com/nikepan/clickhouse-bulk) - Collects small inserts and sends big requests to ClickHouse servers.
+*   [clickhouse-bulk (⭐462)](https://github.com/nikepan/clickhouse-bulk) - Collects small inserts and sends big requests to ClickHouse servers.
 
 ### Interfaces to Multiple Backends
 
 *   [cayley (⭐15k)](https://github.com/google/cayley) - Graph database with support for multiple backends.
-*   [dsc (⭐29)](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
-*   [gokv (⭐644)](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
+*   [dsc (⭐30)](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
+*   [gokv (⭐674)](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
 ### Relational Database Drivers
 
-*   [avatica (⭐113)](https://github.com/apache/calcite-avatica-go) - Apache Avatica/Phoenix SQL driver for database/sql.
+*   [avatica (⭐117)](https://github.com/apache/calcite-avatica-go) - Apache Avatica/Phoenix SQL driver for database/sql.
 *   [bgc (⭐21)](https://github.com/viant/bgc) - Datastore Connectivity for BigQuery for go.
-*   [firebirdsql (⭐214)](https://github.com/nakagami/firebirdsql) - Firebird RDBMS SQL driver for Go.
-*   [go-adodb (⭐135)](https://github.com/mattn/go-adodb) - Microsoft ActiveX Object DataBase driver for go that uses database/sql.
+*   [firebirdsql (⭐219)](https://github.com/nakagami/firebirdsql) - Firebird RDBMS SQL driver for Go.
+*   [go-adodb (⭐139)](https://github.com/mattn/go-adodb) - Microsoft ActiveX Object DataBase driver for go that uses database/sql.
 *   [go-mssqldb (⭐1.8k)](https://github.com/denisenkom/go-mssqldb) - Microsoft MSSQL driver for Go.
-*   [go-oci8 (⭐622)](https://github.com/mattn/go-oci8) - Oracle driver for go that uses database/sql.
+*   [go-oci8 (⭐628)](https://github.com/mattn/go-oci8) - Oracle driver for go that uses database/sql.
 *   [go-sql-driver/mysql (⭐14k)](https://github.com/go-sql-driver/mysql) - MySQL driver for Go.
-*   [go-sqlite3 (⭐7.3k)](https://github.com/mattn/go-sqlite3) - SQLite3 driver for go that uses database/sql.
-*   [godror (⭐489)](https://github.com/godror/godror) - Oracle driver for Go, using the ODPI-C driver.
+*   [go-sqlite3 (⭐7.5k)](https://github.com/mattn/go-sqlite3) - SQLite3 driver for go that uses database/sql.
+*   [godror (⭐505)](https://github.com/godror/godror) - Oracle driver for Go, using the ODPI-C driver.
 *   [gofreetds (⭐110)](https://github.com/minus5/gofreetds) - Microsoft MSSQL driver. Go wrapper over [FreeTDS](https://www.freetds.org).
-*   [pgx (⭐9.1k)](https://github.com/jackc/pgx) - PostgreSQL driver supporting features beyond those exposed by database/sql.
-*   [pig (⭐16)](https://github.com/alexeyco/pig) - Simple [pgx (⭐9.1k)](https://github.com/jackc/pgx) wrapper to execute and [scan (⭐1.1k)](https://github.com/georgysavva/scany) query results easily.
-*   [pq (⭐8.6k)](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
-*   [Sqinn-Go (⭐390)](https://github.com/cvilsmeier/sqinn-go) - SQLite with pure Go.
-*   [sqlhooks (⭐626)](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
+*   [pgx (⭐9.5k)](https://github.com/jackc/pgx) - PostgreSQL driver supporting features beyond those exposed by database/sql.
+*   [pig (⭐16)](https://github.com/alexeyco/pig) - Simple [pgx (⭐9.5k)](https://github.com/jackc/pgx) wrapper to execute and [scan (⭐1.2k)](https://github.com/georgysavva/scany) query results easily.
+*   [pq (⭐8.8k)](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
+*   [Sqinn-Go (⭐402)](https://github.com/cvilsmeier/sqinn-go) - SQLite with pure Go.
+*   [sqlhooks (⭐636)](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
 
 ### NoSQL Database Drivers
 
-*   [aerospike-client-go (⭐418)](https://github.com/aerospike/aerospike-client-go) - Aerospike client in Go language.
+*   [aerospike-client-go (⭐423)](https://github.com/aerospike/aerospike-client-go) - Aerospike client in Go language.
 *   [arangolite (⭐73)](https://github.com/solher/arangolite) - Lightweight golang driver for ArangoDB.
 *   [asc (⭐9)](https://github.com/viant/asc) - Datastore Connectivity for Aerospike for go.
 *   [forestdb (⭐36)](https://github.com/couchbase/goforestdb) - Go bindings for ForestDB.
-*   [go-couchbase (⭐321)](https://github.com/couchbase/go-couchbase) - Couchbase client in Go.
+*   [go-couchbase (⭐322)](https://github.com/couchbase/go-couchbase) - Couchbase client in Go.
 *   [go-pilosa (⭐58)](https://github.com/pilosa/go-pilosa) - Go client library for Pilosa.
-*   [go-rejson (⭐335)](https://github.com/nitishm/go-rejson) - Golang client for redislabs' ReJSON module using Redigo golang client. Store and manipulate structs as JSON objects in redis with ease.
-*   [gocb (⭐356)](https://github.com/couchbase/gocb) - Official Couchbase Go SDK.
-*   [gocosmos (⭐19)](https://github.com/btnguyen2k/gocosmos) - REST client and standard `database/sql` driver for Azure Cosmos DB.
+*   [go-rejson (⭐339)](https://github.com/nitishm/go-rejson) - Golang client for redislabs' ReJSON module using Redigo golang client. Store and manipulate structs as JSON objects in redis with ease.
+*   [gocb (⭐359)](https://github.com/couchbase/gocb) - Official Couchbase Go SDK.
+*   [gocosmos (⭐21)](https://github.com/btnguyen2k/gocosmos) - REST client and standard `database/sql` driver for Azure Cosmos DB.
 *   [gocql](https://gocql.github.io) - Go language driver for Apache Cassandra.
-*   [godis (⭐109)](https://github.com/piaohao/godis) - redis client implement by golang, inspired by jedis.
+*   [godis (⭐111)](https://github.com/piaohao/godis) - redis client implement by golang, inspired by jedis.
 *   [godscache (⭐11)](https://github.com/defcronyke/godscache) - A wrapper for the Google Cloud Platform Go Datastore package that adds caching using memcached.
 *   [gomemcache (⭐1.7k)](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
 *   [gorethink (⭐1.6k)](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.
 *   [goriak (⭐30)](https://github.com/zegl/goriak) - Go language driver for Riak KV.
-*   [Kivik (⭐292)](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
-*   [mgm (⭐716)](https://github.com/kamva/mgm) - MongoDB model-based ODM for Go (based on official MongoDB driver).
+*   [Kivik (⭐297)](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
+*   [mgm (⭐724)](https://github.com/kamva/mgm) - MongoDB model-based ODM for Go (based on official MongoDB driver).
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
-*   [mongo-go-driver (⭐7.8k)](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
+*   [mongo-go-driver (⭐7.9k)](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
 *   [neo4j (⭐27)](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang.
 *   [Neo4j-GO (⭐77)](https://github.com/davemeehan/Neo4j-GO) - Neo4j REST Client in golang.
 *   [neoism (⭐389)](https://github.com/jmcvetta/neoism) - Neo4j client for Golang.
-*   [qmgo (⭐1.2k)](https://github.com/qiniu/qmgo) - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
-*   [redeo (⭐431)](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
+*   [qmgo (⭐1.3k)](https://github.com/qiniu/qmgo) - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
+*   [redeo (⭐432)](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
 *   [redigo (⭐9.7k)](https://github.com/gomodule/redigo) - Redigo is a Go client for the Redis database.
-*   [rueidis (⭐2.1k)](http://github.com/rueian/rueidis) - Fast Redis RESP3 client with auto pipelining and server-assisted client side caching.
+*   [rueidis (⭐2.2k)](http://github.com/rueian/rueidis) - Fast Redis RESP3 client with auto pipelining and server-assisted client side caching.
 *   [xredis (⭐19)](https://github.com/shomali11/xredis) - Typesafe, customizable, clean & easy to use Redis client.
 
 ### Search and Analytic Databases
 
 *   [elastic (⭐7.3k)](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 *   [elasticsql (⭐1.1k)](https://github.com/cch123/elasticsql) - Convert sql to elasticsearch dsl in Go.
-*   [elastigo (⭐948)](https://github.com/mattbaird/elastigo) - Elasticsearch client library.
-*   [go-elasticsearch (⭐5.4k)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
-*   [goes (⭐30)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
+*   [elastigo (⭐945)](https://github.com/mattbaird/elastigo) - Elasticsearch client library.
+*   [go-elasticsearch (⭐5.5k)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
+*   [goes (⭐31)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 *   [skizze (⭐88)](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
 
 ### File Handling
@@ -618,19 +613,19 @@
 
 ### Logging
 
-*   [sqldb-logger (⭐333)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
+*   [sqldb-logger (⭐341)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 
 ### Tokenizers
 
-*   [sentences (⭐409)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐421)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 
-*   [secret (⭐25)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secret (⭐27)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 
 ### Utilities
 
-*   [mongo-go-pagination (⭐128)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines.
+*   [mongo-go-pagination (⭐129)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 

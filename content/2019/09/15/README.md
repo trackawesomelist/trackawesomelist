@@ -10,13 +10,13 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐61)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐65)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐8.9k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐9.6k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Phone Numbers / Barcode
 
-*   [NKVPhonePicker (⭐144)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
+*   [NKVPhonePicker (⭐145)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
 ## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

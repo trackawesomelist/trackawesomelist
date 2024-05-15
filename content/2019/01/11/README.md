@@ -14,7 +14,7 @@
 
 ### Animation
 
-*   [Comets (⭐608)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐607)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
@@ -22,16 +22,16 @@
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐9k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐9.1k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
 *   [HandyJSON (⭐4.2k)](https://github.com/alibaba/handyjson) - A handy JSON-object serialization/deserialization library.
-*   [PMJSON (⭐361)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
+*   [PMJSON (⭐360)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
 
 ### Dependency Injection
 
-*   [Pure (⭐372)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐374)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
@@ -49,7 +49,7 @@
 
 ### Network / Barcode
 
-*   [PMHTTP (⭐505)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
+*   [PMHTTP (⭐503)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
 
 ### Socket / Barcode
 
@@ -73,19 +73,19 @@
 
 ### Utility / Barcode
 
-*   [DifferenceKit (⭐3.4k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
+*   [DifferenceKit (⭐3.5k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
 *   [FluentQuery (⭐148)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 *   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐470)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐480)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bean Mapping
 
-*   [dOOv (⭐83)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐87)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [3. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -93,6 +93,7 @@
 
 *   [**Foundation**](https://get.foundation/) - The most advanced responsive front-end framework in the world.\
     ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social\&label=Star)
+    [Demo](https://get.foundation/templates.html),
     [Docs](https://get.foundation/sites/docs/),
     [Repo (⭐30k)](https://github.com/foundation/foundation-sites)
     \| #SCSS
@@ -126,7 +127,7 @@
 
 ### Top / Game Engine resources
 
-*   [Flutter Common Widgets (⭐23k)](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
+*   [Flutter Common Widgets (⭐24k)](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

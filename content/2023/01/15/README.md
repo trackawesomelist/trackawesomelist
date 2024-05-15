@@ -31,13 +31,13 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [SOC Multi-tool (⭐300)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+*   [SOC Multi-tool (⭐307)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐21k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐22k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Models and Projects / Flax
 
-*   [GNNs for Solving Combinatorial Optimization Problems (⭐24)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐38)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
 ---
 

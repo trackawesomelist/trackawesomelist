@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐835)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐893)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐931)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐940)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

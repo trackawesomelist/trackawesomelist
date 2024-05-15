@@ -68,10 +68,10 @@ Webpage: <http://www.lerdevagar.com/>
 ### Components & Libraries / UI Components
 
 *   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
-*   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
-*   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐458)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-masked-input (⭐455)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
+*   [vue-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
+*   [vue-ip-input (⭐26)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
+*   [vue-numeric (⭐457)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 

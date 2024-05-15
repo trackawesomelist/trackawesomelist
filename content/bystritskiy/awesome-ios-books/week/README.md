@@ -2,9 +2,19 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 367 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 378 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [May 13 - May 19, 2024](/content/2024/20/README.md)
+
+### Swift
+
+*   [*Swift Gems* by Natalia Panferova](https://books.nilcoalescing.com/swift-gems)
+
+### Contributors
+
+*   [Matthaus Woolard](https://github.com/hishnash)
 
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
@@ -280,7 +290,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐366)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐378)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
@@ -445,5 +455,5 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐45k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐46k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)

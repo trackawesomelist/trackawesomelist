@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09 - May 15, 2016
 
-38 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -97,7 +97,7 @@
 
 ### Audio Libraries
 
-*   [mxml (⭐19)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
+*   [mxml (⭐20)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 
 ### Music Notation
 
@@ -181,11 +181,11 @@
 
 ### Models/Projects
 
-*   [Neural Caption Generator (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
-*   [Neural Caption Generator with Attention (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
-*   [Weakly\_detector (⭐363)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
-*   [Dynamic Capacity Networks (⭐8)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
-*   [HMM in TensorFlow (⭐283)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
+*   [Neural Caption Generator (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
+*   [Neural Caption Generator with Attention (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
+*   [Weakly\_detector (⭐361)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
+*   [Dynamic Capacity Networks (⭐9)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
+*   [HMM in TensorFlow (⭐285)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 *   [DeepOSM (⭐1.3k)](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 ### Powered by TensorFlow
@@ -196,7 +196,7 @@
 
 *   [caffe-tensorflow (⭐2.8k)](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 *   [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
-*   [SyntaxNet: Neural Models of Syntax (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+*   [SyntaxNet: Neural Models of Syntax (⭐77k)](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
 ### Videos
 
@@ -204,7 +204,7 @@
 
 ### Papers
 
-*   [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet).
+*   [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet (⭐77k)](https://github.com/tensorflow/models/tree/master/syntaxnet).
 
 ### Official announcements
 
@@ -330,11 +330,11 @@ git log --first-parent
 
 ### Examples and funny stuff
 
-*   [oop (⭐300)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐303)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ### Office
 
-*   [xlsxir (⭐207)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐209)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -348,13 +348,7 @@ git log --first-parent
 
 *   [picturefill (⭐9.9k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Babel Plugins / Components
-
-*   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
-
-## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [29. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Meteor
 
@@ -366,7 +360,7 @@ git log --first-parent
 
 
 
-## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [30. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
@@ -428,7 +422,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
 | ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
-## [32. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [31. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -465,7 +459,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
-## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -475,25 +469,25 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
 
-## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
 *   Segment <https://segment.com/blog/categories/engineering/>
 
-## [35. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [34. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐23k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐9.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    *   [Schemathesis (⭐2k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+    *   [locust (⭐24k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐9.5k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [Schemathesis (⭐2.1k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     *   [sixpack (⭐1.8k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.7k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
-## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -506,20 +500,20 @@ Webpage: <http://www.pushcartcoffee.com/>
 ### Libraries
 
 *   [JSON::Tiny (⭐11)](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
-*   [MultiJSON (⭐745)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
+*   [MultiJSON (⭐746)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 ### Transformations
 
 *   [JsonMapper (⭐1.5k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
-## [37. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [36. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 *   [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
-## [38. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+## [37. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
 
 ### Community
 

@@ -10,7 +10,7 @@
 
 ### Data Validation
 
-*   [Bouncer (⭐359)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Web Frameworks
 
-*   [Hobbit (⭐273)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐274)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

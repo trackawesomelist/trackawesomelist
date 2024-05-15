@@ -44,8 +44,8 @@
 
 ### Apps
 
-*   [vkQuake2 (⭐816)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
-*   [q2vkpt (⭐951)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
+*   [vkQuake2 (⭐860)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
+*   [q2vkpt (⭐948)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -75,17 +75,17 @@
 
 ### Contents / Games
 
-*   [Solitaire (⭐243)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐244)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / Productivity
 
-*   [Habbit (⭐137)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐137)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐140)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐140)](https://github.com/lzyy/habbit).
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [MySQL (⭐2.2k)](https://github.com/shlomi-noach/awesome-mysql#readme)
+*   [MySQL (⭐2.3k)](https://github.com/shlomi-noach/awesome-mysql#readme)
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐128)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐129)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

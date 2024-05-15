@@ -42,7 +42,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐636)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐635)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐4k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐4.1k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
@@ -65,7 +65,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐397)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐415)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -341,7 +341,7 @@ Topics: InfoSec, Web App Security\
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4.4k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4.6k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)

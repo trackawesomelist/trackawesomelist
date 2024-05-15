@@ -2,7 +2,7 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 476 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 481 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / Overview ]
 
@@ -47,6 +47,7 @@ A tangible way to give back to the open source community!
 *   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
 *   [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
+*   [Freeter](https://freeter.io/sponsor/) - Productivity app for Developers, Designers and other professionals.
 *   [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.
 *   [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 *   [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
@@ -120,7 +121,7 @@ A tangible way to give back to the open source community!
 *   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 *   [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 *   [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
-*   [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐56k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 *   [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 *   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
@@ -336,7 +337,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines (⭐476)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐476)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines (⭐481)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐481)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 ## License
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04 - Mar 10, 2019
 
-67 awesome lists updated this week.
+66 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -62,8 +62,8 @@
 
 ### Admin Panels
 
-*   [ajenti (⭐7.3k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
-*   [wooey (⭐2k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+*   [ajenti (⭐7.4k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [wooey (⭐2.1k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ### Asynchronous Programming
 
@@ -72,27 +72,27 @@
 ### Audio
 
 *   Audio
-    *   [audioread (⭐468)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [audioread (⭐479)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     *   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
     *   [dejavu (⭐6.3k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-    *   [kapre (⭐905)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-    *   [librosa (⭐6.5k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐1.1k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [kapre (⭐911)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    *   [librosa (⭐6.7k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐1.2k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     *   [pyaudioanalysis (⭐5.6k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
-    *   [pydub (⭐8.2k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-    *   [timeside (⭐361)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+    *   [pydub (⭐8.3k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    *   [timeside (⭐365)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 *   Metadata
     *   [beets (⭐12k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-    *   [eyed3 (⭐517)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+    *   [eyed3 (⭐526)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
     *   [mutagen (⭐1.4k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐650)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+    *   [tinytag (⭐661)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Authentication
 
 *   JWT
-    *   [pyjwt (⭐4.8k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
-    *   [python-jose (⭐1.4k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+    *   [pyjwt (⭐4.9k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
+    *   [python-jose (⭐1.5k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
 
 ### Build Tools
 
@@ -100,21 +100,21 @@
 
 ### CMS
 
-*   [feincms (⭐880)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
+*   [feincms (⭐899)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
 
 ### Caching
 
-*   [beaker (⭐513)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-*   [pylibmc (⭐477)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
+*   [beaker (⭐512)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
+*   [pylibmc (⭐480)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 
 ### ChatOps Tools
 
-*   [errbot (⭐3k)](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps.
+*   [errbot (⭐3.1k)](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps.
 
 ### Configuration Files
 
 *   [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
-*   [configobj (⭐306)](https://github.com/DiffSK/configobj) - INI file parser with validation.
+*   [configobj (⭐309)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 
 ### Cryptography
 
@@ -122,14 +122,14 @@
 
 ### Database
 
-*   [pickleDB (⭐850)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
-*   [tinydb (⭐6.4k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
+*   [pickleDB (⭐868)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
+*   [tinydb (⭐6.5k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 
 ### Deep Learning
 
-*   [keras (⭐60k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
-*   [pytorch (⭐75k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-*   [tensorflow (⭐181k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [keras (⭐61k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+*   [pytorch (⭐77k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [tensorflow (⭐182k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 
@@ -137,7 +137,7 @@
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
     *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [PySpark (⭐38k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐30k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [Ray (⭐31k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
     *   [faust (⭐6.7k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
@@ -166,14 +166,14 @@
 ### Natural Language Processing
 
 *   Chinese
-    *   [funNLP (⭐62k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+    *   [funNLP (⭐64k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
     *   [jieba (⭐32k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
     *   [pkuseg-python (⭐6.4k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
     *   [snownlp (⭐6.3k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Network Virtualization
 
-*   [mininet (⭐5.1k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
+*   [mininet (⭐5.2k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
 *   [napalm (⭐2.2k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 
 ### ORM
@@ -187,11 +187,11 @@
     *   [orm (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
     *   [peewee (⭐11k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
     *   [pony (⭐3.5k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    *   [pydal (⭐468)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
+    *   [pydal (⭐476)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
 
 ### Package Repositories
 
-*   [devpi (⭐799)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+*   [devpi (⭐821)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 
 ### Processes
 
@@ -201,26 +201,26 @@
 
 *   [lightfm (⭐4.6k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 *   [spotlight (⭐2.9k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
-*   [Surprise (⭐6.1k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
+*   [Surprise (⭐6.2k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 *   [tensorrec (⭐1.3k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ### Search
 
 *   [django-haystack (⭐3.5k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [pysolr (⭐658)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
+*   [pysolr (⭐659)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 *   [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
 
 ### Serialization
 
-*   [marshmallow (⭐6.8k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-*   [pysimdjson (⭐625)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐18k)](https://github.com/lemire/simdjson).
-*   [python-rapidjson (⭐488)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson).
+*   [marshmallow (⭐6.9k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+*   [pysimdjson (⭐628)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐18k)](https://github.com/lemire/simdjson).
+*   [python-rapidjson (⭐491)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson).
 
 ### Specific Formats Processing
 
 *   PDF
     *   [PDFMiner (⭐5.2k)](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
-    *   [PyPDF2 (⭐7.1k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    *   [PyPDF2 (⭐7.3k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
 ### Static Site Generator
@@ -248,17 +248,17 @@
 
 ### Web Asset Management
 
-*   [django-compressor (⭐2.7k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
+*   [django-compressor (⭐2.8k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [django-pipeline (⭐1.5k)](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
 *   [django-storages (⭐2.6k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 *   [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 *   [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-*   [flask-assets (⭐450)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-*   [webassets (⭐919)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+*   [flask-assets (⭐451)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
+*   [webassets (⭐921)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ### Web Crawling
 
-*   [grab (⭐2.3k)](https://github.com/lorien/grab) - Site scraping framework.
+*   [grab (⭐2.4k)](https://github.com/lorien/grab) - Site scraping framework.
 
 ### WebSocket
 
@@ -429,14 +429,17 @@
 *   [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 *   [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
 
+### UI / List
+
+*   [Liquid Pull To Refresh (⭐1.2k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+
 ### UI / UI Helpers
 
-*   [Liquid Pull To Refresh (⭐1.1k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-*   [Offline (⭐880)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+*   [Offline (⭐993)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
 
-*   [Table Calendar (⭐1.6k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Table Calendar (⭐1.7k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast) / Misc
 
@@ -501,11 +504,9 @@
 *   [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 *   [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 *   [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-*   [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/) - Country reports on social media use.
 *   [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 *   [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 *   [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
-*   [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
 
 ## [13. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
@@ -554,11 +555,11 @@
 
 ### Entertainment / Social Media
 
-*   [facebook-cli (⭐386)](https://github.com/specious/facebook-cli) - Facebook command line interface.
+*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### Utilities / macOS
 
-*   [active-win-cli (⭐55)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐58)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Utilities / Terminal Sharing Utilities
 
@@ -568,7 +569,7 @@
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Files
 
@@ -576,19 +577,19 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [autojump (⭐15k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
-*   [goto (⭐844)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [autojump (⭐16k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
+*   [goto (⭐862)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Files and Directories / Search
 
 *   [happyfinder (⭐329)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-*   [find-up-cli (⭐31)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐40k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐54k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [find-up-cli (⭐36)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+*   [ripgrep (⭐45k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [fzf (⭐60k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ### Images / Image Conversion
 
-*   [imgp (⭐965)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+*   [imgp (⭐1k)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 
 ## [18. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -605,11 +606,11 @@
 ### Resources / Blogs
 
 *   [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/README.html) - Updateable catalog of open source molecular modeling software.
-*   [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](https://www.redbrick.dcu.ie/\~noel/), who is a Senior Software Engineer at NextMove Software.
+*   [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.
 
 ### See Also / Books
 
-*   [deeplearning-biology (⭐1.8k)](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
+*   [deeplearning-biology (⭐1.9k)](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
 
 ## [20. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -777,7 +778,7 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐728)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐743)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Network / Barcode
 
@@ -785,7 +786,7 @@
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐526)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐529)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### Alert / Barcode
 
@@ -793,11 +794,11 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐857)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐858)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐351)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [27. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -1023,8 +1024,8 @@
 
 ### Resources / Storyboard
 
-*   [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-*   [Awesome Sketch (⭐730)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+*   [Awesome Design Systems (⭐17k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
+*   [Awesome Sketch (⭐732)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
 ### Softwares / Storyboard
 
@@ -1060,7 +1061,7 @@
 ### Free eBooks
 
 *   [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐9.6k)](https://github.com/dotnet-architecture/eShopOnWeb)
+*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐9.8k)](https://github.com/dotnet-architecture/eShopOnWeb)
 *   [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
 *   [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 *   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
@@ -1081,19 +1082,19 @@
 ### Sample Projects / .NET (C#/F#)
 
 *   [CQRS-DDD Example (⭐131)](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
-*   [ContosoUniversityCore (⭐587)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
-*   [DDDInventoryItemFSharp (⭐183)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+*   [ContosoUniversityCore (⭐590)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
+*   [DDDInventoryItemFSharp (⭐185)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 *   [DDDSkeletonNet (⭐180)](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 *   [EmailMaker (⭐13)](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) usage
 *   [eShopOnContainersDDD (⭐310)](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
 *   [Fohjin (⭐699)](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
-*   [FsUno (⭐75)](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
-*   [IDDD Samples in .NET (⭐904)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-*   [NLayerAppV3 (⭐155)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
+*   [FsUno (⭐76)](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
+*   [IDDD Samples in .NET (⭐909)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+*   [NLayerAppV3 (⭐154)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
 *   [Reactive Trader Cloud (⭐1.8k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
-*   [Sample .NET Core CQRS REST API (⭐2.6k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [Sample .NET Core CQRS REST API (⭐2.7k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 *   [SimpleCQRS (⭐2.1k)](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
-*   [TodoMVC-DDD-CQRS-EventSourcing (⭐248)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
+*   [TodoMVC-DDD-CQRS-EventSourcing (⭐247)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 
 ### Sample Projects / Haskell
 
@@ -1105,33 +1106,33 @@
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing Example (⭐94)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
+*   [Event Sourcing Example (⭐95)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
 *   [IDDD Samples (⭐3.6k)](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
 
 ### Sample Projects / PHP
 
-*   [DDD Wish List (⭐199)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
-*   [DDD Playground (⭐589)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
+*   [DDD Wish List (⭐200)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
+*   [DDD Playground (⭐591)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 
 ### Libraries and Frameworks / .NET
 
-*   [Aggregates.NET (⭐435)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
+*   [Aggregates.NET (⭐438)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
 *   [AggregateSource (⭐257)](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 *   [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 *   [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 *   [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
-*   [Cirqus (⭐232)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
+*   [Cirqus (⭐231)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 *   [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) - Set of open-source .NET libraries helping with DDD and CQRS, with NHibernate persistence
 *   [CQRS on Azure (⭐26)](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
 *   [Dolittle](https://dolittle.com) - Build better applications with Dolittle. An Event Sourced, Microservice platform oriented around DDD with developer productivity and simplicity front and center.
 *   [EventFlow (⭐2.3k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
 *   [Its.Cqrs (⭐77)](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
-*   [MassTransit (⭐6.1k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [MassTransit (⭐6.4k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 *   [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - Service bus for .NET.
-*   [shriek-fx (⭐666)](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
+*   [shriek-fx (⭐664)](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 *   [SqlStreamStore (⭐4)](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
-*   [Stringly.Typed (⭐45)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
-*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Stringly.Typed (⭐46)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
+*   [Xer.Cqrs (⭐100)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### Libraries and Frameworks / Databases
 
@@ -1139,11 +1140,11 @@
 
 ### Libraries and Frameworks / Elixir
 
-*   [Event Bus (⭐683)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
+*   [Event Bus (⭐688)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 
 ### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐539)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐269)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐37)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐61)](https://github.com/adrai/node-cqrs-saga).
+*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐539)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐270)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐37)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐61)](https://github.com/adrai/node-cqrs-saga).
 
 ### Libraries and Frameworks / JVM
 
@@ -1327,7 +1328,7 @@
 ### Hardware / Motor Controllers
 
 *   [grblShield (⭐131)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐869)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [TinyG (⭐881)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories and Adapters
@@ -1349,27 +1350,27 @@
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 *   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
-*   [HPGL Viewer (⭐17)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
-*   [HPGL Sender (⭐9)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
+*   [HPGL Viewer (⭐19)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+*   [HPGL Sender (⭐10)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5.3k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [grbl (⭐5.4k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 *   [cncjs (⭐2.2k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
 *   [Universal-G-Code-Sender (⭐1.8k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter Control
 
-*   [axi (⭐266)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
-*   [xy (⭐69)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐1.1k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐117)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐153)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
-*   [RoboPaint (⭐124)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
-*   [AxiTurtle (⭐14)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐600)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐446)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [axi (⭐270)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [xy (⭐70)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+*   [LaserGRBL (⭐1.2k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [PenPlotter (⭐118)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐156)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [RoboPaint (⭐125)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+*   [AxiTurtle (⭐15)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
+*   [GRBL-Plotter (⭐624)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐455)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -1377,17 +1378,17 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.2k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐454)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐407)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐309)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐482)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐414)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐314)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐123)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐156)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐92)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
-*   [Ribbon (⭐239)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐161)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐93)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Ribbon (⭐243)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐266)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 *   [penkit (⭐136)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
-*   [generativeExamples (⭐61)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
+*   [generativeExamples (⭐62)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
 *   [scribbleplot (⭐47)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
@@ -1396,11 +1397,11 @@
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐244)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐247)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐20k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
 *   [penkit-optimize (⭐136)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐841)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [svg-crowbar (⭐840)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
@@ -1421,17 +1422,7 @@
 *   [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 *   [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 
-## [48. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Documentation tools / Components
-
-*   [ng-app-counter (⭐90)](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
-
-### Developer tools / Components
-
-*   [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
-
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -1445,13 +1436,13 @@
 
 *   [cl-aws-runtime-test (⭐36)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
-## [50. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [49. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mod Loaders / Archives
 
 *   [RopeMC (⭐8)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
-## [51. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [50. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Internet & Networking
 
@@ -1472,11 +1463,11 @@
 
 ### Plasma desktop / KCM Modules and Systems
 
-*   [kded\_rotation (⭐56)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
+*   [kded\_rotation (⭐63)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [breeze-gtk (⭐58)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
+*   [breeze-gtk (⭐72)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
 
 ### Documentation and Resources / Display Manager
 
@@ -1491,7 +1482,7 @@
 
 *   [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations 📌.
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -1513,13 +1504,13 @@
 
 *   [JWT Simple Server (⭐191)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
-## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
 *   [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 
-## [54. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [53. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1537,7 +1528,7 @@
 
 *   [HockeyApp (⭐2)](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 
-## [55. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [54. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Text - Metadata/Text
 
@@ -1547,37 +1538,37 @@
 
 *   **Artists Recommendation** - Recommend an artist based on given location and genre. [Download (⭐18)](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel) | [Demo](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 
-## [56. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.5k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.6k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Programming Languages
 
-*   [Q# (⭐151)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐152)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐4.8k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.9k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
 *   [PICO-8 (⭐2.5k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐380)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐401)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐238)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐244)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐3.3k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.4k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Decentralized Systems
 
@@ -1585,23 +1576,23 @@
 
 ### Miscellaneous
 
-*   [Board Games (⭐279)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐284)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 *   [Scientific Computing (⭐1.2k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐277)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Amazon Sellers (⭐289)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
-## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / Audio Record and Process
 
-*   [Vivaldi](https://vivaldi.com) - The browser that puts you in control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://vivaldi.com/source) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Vivaldi](https://vivaldi.com) - The browser that puts you in control. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [58. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [57. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
 *   [Stelligent/mu :fire::fire::fire: (⭐972)](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
 
-## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [58. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Private Trackers
 
@@ -1612,14 +1603,14 @@
 
 *   [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 
-## [60. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [59. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Climate
 
 *   [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 *   [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 
-## [61. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [60. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Workflow / Extensions
 
@@ -1627,7 +1618,7 @@
     *   [guard-livereload (⭐2.1k)](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
     *   [simplehttp (⭐51)](https://github.com/snwfdhmp/simplehttp) Fastest and simplest way to start serving a local directory over http.
 
-## [62. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [61. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
@@ -1641,7 +1632,7 @@
 
 *   [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
-## [63. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [62. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -1679,11 +1670,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐195)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐194)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐866)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐870)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -1706,13 +1697,13 @@
 
 *   [discordrb (⭐7)](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 
-## [64. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [63. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
 *   [mqtt-stats (⭐6)](https://github.com/gambitcomminc/mqtt-stats) - Subscriber client to monitor MQTT Topic Statistics
 
-## [65. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [64. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -1720,17 +1711,17 @@
 *   [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) - Wide range of recommendations for making Web content more accessible.
 *   [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - An interesting paper about websites' power consumption.
 
-## [66. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [65. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [Create React App + Ant Design (⭐584)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
-## [67. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [66. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [Halley (⭐3.4k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
+*   [Halley (⭐3.5k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
 
 ---
 

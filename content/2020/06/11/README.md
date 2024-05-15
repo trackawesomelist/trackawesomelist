@@ -12,9 +12,9 @@
 
 *   SSH-style Deployment
     *   [cuisine (⭐1.3k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
-    *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
+    *   [fabric (⭐15k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
 *   Monitoring
-    *   [psutil (⭐9.8k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐9.9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 
 ## [2. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Highcharts (⭐30)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
+*   [Blazor Highcharts (⭐32)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐948)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐950)](https://github.com/louketo/louketo-proxy)
 
 ## [7. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐875)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐926)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

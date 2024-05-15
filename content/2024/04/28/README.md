@@ -8,7 +8,7 @@
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Domain Specific Language / Domain Specified Applications
+### Domain Specific Language / Imperative DSL Applications
 
 *   [The BioPAX community standard for pathway data sharing](https://www.nature.com/articles/nbt.1666) - ***Nature Biotechnology***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=11368332679628594895)]. \[[Preprint](https://core.ac.uk/download/pdf/216139091.pdf)]. Biological Pathway Exchange (BioPAX) is a standard language to represent biological pathways at the molecular and cellular level and to facilitate the exchange of pathway data. BioPAX can represent metabolic and signaling pathways, molecular and genetic interactions and gene regulation networks.
 
@@ -31,10 +31,6 @@
 ### Third-Party Packages / Configuration
 
 *   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
-
-### Third-Party Packages / Mailing
-
-*   [django-pony-express (⭐45)](https://github.com/edoburu/django-any-urlfield) - Class-based emails including a test suite for Django.
 
 ### Resources / Educational
 
@@ -74,15 +70,11 @@
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular
+*   [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular.
 
-### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [codewith\_ahsan](https://twitter.com/codewith_ahsan)
-
-### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -93,6 +85,10 @@
 ### Loaders / Testing
 
 *   [ngx-loading-bar (⭐758)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+
+### Server-Side Rendering / Node Based
+
+*   [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -117,4 +113,5 @@
 
 ---
 
+- Prev: [Apr 29, 2024](/content/2024/04/29/README.md)
 - Next: [Apr 27, 2024](/content/2024/04/27/README.md)

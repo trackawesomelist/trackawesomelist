@@ -60,7 +60,7 @@
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐85)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐705)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
+*   [vue-datepicker (⭐703)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
 *   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
 *   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
 

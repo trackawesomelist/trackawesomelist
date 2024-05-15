@@ -26,44 +26,44 @@
 
 ### Templates
 
-*   [Blazor Hero (⭐3.3k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
+*   [Blazor Hero (⭐3.4k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
 
 ### Rapid Development Framework
 
-*   [WalkingTec.Mvvm (WTM) (⭐4k)](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square\&cacheSeconds=86400) A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. [Website](https://wtmdoc.walkingtec.cn).
+*   [WalkingTec.Mvvm (WTM) (⭐4.1k)](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square\&cacheSeconds=86400) A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. [Website](https://wtmdoc.walkingtec.cn).
 
 ### Component bundles
 
-*   [Radzen.Blazor (⭐2.9k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
-*   [Blazority (⭐93)](https://github.com/blazority/support) - ![GitHub stars](https://img.shields.io/github/stars/blazority/support?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazority/support?style=flat-square\&cacheSeconds=86400) Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view ([Docs & Demos](https://blazority.com)).
+*   [Radzen.Blazor (⭐3.2k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
+*   [Blazority (⭐98)](https://github.com/blazority/support) - ![GitHub stars](https://img.shields.io/github/stars/blazority/support?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazority/support?style=flat-square\&cacheSeconds=86400) Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view ([Docs & Demos](https://blazority.com)).
 *   [Start Blazoring](https://startblazoring.com) - A Blazor starter template built using your choice of [Blazorise](https://blazorise.com/) or [MudBlazor](https://mudblazor.com), with more UI library integration coming. It offers a myriad of features such as user registration, login, password reset, two factor; user management, roles, permissioning; background workers, logging, caching, email templates, localization and many more.
-*   [TabBlazor (⭐342)](https://github.com/joadan/TabBlazor) - ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐36k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
+*   [TabBlazor (⭐401)](https://github.com/joadan/TabBlazor) - ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐37k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
 
 ### 2D/3D Rendering engines / API
 
-*   [BlazorIntersectionObserver (⭐50)](https://github.com/ljbc1994/BlazorIntersectionObserver) - ![last commit](https://img.shields.io/github/last-commit/ljbc1994/BlazorIntersectionObserver?style=flat-square\&cacheSeconds=86400) This is a wrapper around the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API).
+*   [BlazorIntersectionObserver (⭐60)](https://github.com/ljbc1994/BlazorIntersectionObserver) - ![last commit](https://img.shields.io/github/last-commit/ljbc1994/BlazorIntersectionObserver?style=flat-square\&cacheSeconds=86400) This is a wrapper around the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API).
 
 ### 2D/3D Rendering engines / Datagrids / tables
 
-*   [BlazorGrid (⭐74)](https://github.com/Akinzekeel/BlazorGrid) - ![GitHub stars](https://img.shields.io/github/stars/Akinzekeel/BlazorGrid?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Akinzekeel/BlazorGrid?style=flat-square\&cacheSeconds=86400) Virtualized data grid component with lean markup, focused on displaying remote data. ([Demo & documentation](https://blazorgrid.z6.web.core.windows.net/)).
+*   [BlazorGrid (⭐76)](https://github.com/Akinzekeel/BlazorGrid) - ![GitHub stars](https://img.shields.io/github/stars/Akinzekeel/BlazorGrid?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Akinzekeel/BlazorGrid?style=flat-square\&cacheSeconds=86400) Virtualized data grid component with lean markup, focused on displaying remote data. ([Demo & documentation](https://blazorgrid.z6.web.core.windows.net/)).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [Toast\_UI.Blazor\_Calendar (⭐48)](https://github.com/gismofx/toast_ui.blazor_calendar) - ![last commit](https://img.shields.io/github/last-commit/gismofx/toast_ui.blazor_calendar?style=flat-square\&cacheSeconds=86400) A fully featured calendar UI component for viewing and creating events, tasks, and milestones. Month, week, and daily views. Blazor Calendar wraps the fully featured Toast UI Calendar JS library. MIT License. [Sample project (⭐48)](https://github.com/gismofx/toast_ui.blazor_calendar/tree/main/toast_ui.blazor_calendar.TestProject/toast_ui.blazor_calendar.TestProject).
+*   [Toast\_UI.Blazor\_Calendar (⭐52)](https://github.com/gismofx/toast_ui.blazor_calendar) - ![last commit](https://img.shields.io/github/last-commit/gismofx/toast_ui.blazor_calendar?style=flat-square\&cacheSeconds=86400) A fully featured calendar UI component for viewing and creating events, tasks, and milestones. Month, week, and daily views. Blazor Calendar wraps the fully featured Toast UI Calendar JS library. MIT License. [Sample project (⭐52)](https://github.com/gismofx/toast_ui.blazor_calendar/tree/main/toast_ui.blazor_calendar.TestProject/toast_ui.blazor_calendar.TestProject).
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorLocalizationSample (⭐13)](https://github.com/LazZiya/XLocalizer.Samples/tree/master/BlazorLocalizationSample) ![GitHub stars](https://img.shields.io/github/stars/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) ![last commit](https://img.shields.io/github/last-commit/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) The default project template localized using [XLocalizer (⭐125)](https://github.com/LazZiya/XLocalizer) with online translation and auto resource creating.
+*   [BlazorLocalizationSample (⭐14)](https://github.com/LazZiya/XLocalizer.Samples/tree/master/BlazorLocalizationSample) ![GitHub stars](https://img.shields.io/github/stars/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) ![last commit](https://img.shields.io/github/last-commit/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) The default project template localized using [XLocalizer (⭐125)](https://github.com/LazZiya/XLocalizer) with online translation and auto resource creating.
 *   [TimeCalc (⭐1)](https://github.com/michaelrp/TimeCalc) - ![last commit](https://img.shields.io/github/last-commit/michaelrp/TimeCalc?style=flat-square\&cacheSeconds=86400) An app to help keep track of speed cubing averages on the fly using Blazor WebAssembly. [Demo](https://www.timecalc.app/).
-*   [BlazorTimeline (⭐65)](https://github.com/Morasiu/BlazorTimeline) - ![stars](https://img.shields.io/github/stars/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=86400) Responsive, vertical timeline component.
+*   [BlazorTimeline (⭐66)](https://github.com/Morasiu/BlazorTimeline) - ![stars](https://img.shields.io/github/stars/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=86400) Responsive, vertical timeline component.
 
 ### Tools & Utilities / Others
 
-*   [WebBluetooth (⭐4)](https://github.com/KeudellCoding/Blazor.WebBluetooth) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.WebBluetooth?style=flat-square\&cacheSeconds=86400) Blazor service for the experimental WebBluetooth functions. Based on [Blazm.Bluetooth (⭐76)](https://github.com/EngstromJimmy/Blazm.Bluetooth).
+*   [WebBluetooth (⭐4)](https://github.com/KeudellCoding/Blazor.WebBluetooth) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.WebBluetooth?style=flat-square\&cacheSeconds=86400) Blazor service for the experimental WebBluetooth functions. Based on [Blazm.Bluetooth (⭐77)](https://github.com/EngstromJimmy/Blazm.Bluetooth).
 
 ### Tooling / Others
 
-*   [Publish SPA for GitHub Pages (⭐48)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
+*   [Publish SPA for GitHub Pages (⭐57)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Terminal UI
 
-*   [piotr-yuxuan/malli-cli (⭐48)](https://github.com/piotr-yuxuan/malli-cli)
+*   [piotr-yuxuan/malli-cli (⭐50)](https://github.com/piotr-yuxuan/malli-cli)
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -113,8 +113,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-feather-icons (⭐593)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
-*   [vue-feather (⭐144)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
+*   [vue-feather-icons (⭐594)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
+*   [vue-feather (⭐145)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 
 ---
 

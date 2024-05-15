@@ -65,13 +65,13 @@
 
 ### Software / DNS
 
-*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
+*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.8k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
 
 ## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐5.6k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐5.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -89,23 +89,23 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐517)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐521)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐96)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐156k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [playwright-jest-examples (⭐98)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐157k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐97k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐268)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐273)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [Blockstack (⭐279)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐16k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.8k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

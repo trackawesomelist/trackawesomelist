@@ -37,7 +37,7 @@
 
 ### Models/Projects
 
-*   [AlexNet3D (⭐41)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
+*   [AlexNet3D (⭐43)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

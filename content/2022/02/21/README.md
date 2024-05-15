@@ -10,13 +10,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐22)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
+*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐23)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### JSON
 
-*   [Sextant (⭐44)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐45)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -52,21 +52,13 @@
 
 ### Forms
 
-*   [httpin (⭐239)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐275)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Templates / Vue 3
-
-*   [vite-vue3-typescript-webcomponent (⭐23)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
-
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐274)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-redirect (⭐0)](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
+*   [vite-plugin-chunk-split (⭐292)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

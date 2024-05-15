@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02 - Nov 08, 2015
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Polygon Merge (⭐16)](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+*   [Polygon Merge (⭐17)](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 *   [Simplex 2D/3D (⭐25)](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 *   [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
@@ -70,7 +70,7 @@
 
 ### Open Source / Other
 
-*   [MarkRight (⭐915)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐914)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Table of Contents / Repos
 
-*   [Idris Koans (⭐173)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+*   [Idris Koans (⭐176)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 
 ## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
@@ -156,11 +156,11 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐134)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐133)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
-*   [FluentAutomation (⭐234)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
+*   [FluentAutomation (⭐233)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
 ## [14. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -455,11 +455,11 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Assets
 
-*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
-*   [JWT (⭐3.5k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
+*   [JWT (⭐3.6k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 
 ### Configuration
 
@@ -502,7 +502,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### PDF
 
-*   [CombinePDF (⭐711)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐714)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
@@ -510,7 +510,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Third-party APIs
 
-*   [Pusher (⭐662)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐663)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [31. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -539,42 +539,27 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [gtfs2geojson (⭐25)](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Angular Connect / Components
-
-*   [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)
-*   [Testing strategies with Angular 2 – Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
-*   [Building native mobile apps with Angular 2 0 and NativeScript​ - Sebastian Witalec](https://www.youtube.com/watch?v=4SbiiyRSIwo)
-*   [Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh](https://www.youtube.com/watch?v=bVI5gGTEQ_U)
-*   [Iterative version upgrade strategies for large Angular applications – Jen Bourey](https://www.youtube.com/watch?v=8tGcdaItj0I)
-*   [Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov](https://www.youtube.com/watch?v=cAC4d3KIQcM)
-*   [Building apps with Firebase and Angular 2 - Sara Robinson](https://www.youtube.com/watch?v=RD0xYicNcaY)
-*   [Better concepts, less code in Angular 2 - Victor Savkin and Tobias Bosch](https://www.youtube.com/watch?v=4YmnbGoh49U)
-*   [Modularity and Packaging for Angular2 Applications – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
-*   [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
-
-## [34. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
-*   [JSONNeverDie (⭐452)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
+*   [JSONNeverDie (⭐450)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 
 ### Localization / Barcode
 
 *   [Localize-Swift (⭐3k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐353)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐356)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ### Macros
 
@@ -588,13 +573,13 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 
-## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Audio
 
 *   [Alda (⭐5.5k)](https://github.com/alda-lang/alda)
 
-## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
@@ -604,7 +589,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 
-## [39. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [38. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Code Points that Affect Others
 
@@ -628,7 +613,7 @@ This book teaches you to use R to effectively visualize and explore complex data
     | U+1F3FE | EMOJI MODIFIER FITZPATRICK TYPE-5   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png" alt="" height="20" width="auto">   |
     | U+1F3FF | EMOJI MODIFIER FITZPATRICK TYPE-6   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png" alt="" height="20" width="auto">   |
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -642,11 +627,11 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Streams
 
-*   [get-stream (⭐330)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐331)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐333)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐336)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 
@@ -654,7 +639,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Process management
 
-*   [PM2 (⭐40k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐41k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 ### Packages / Miscellaneous
 

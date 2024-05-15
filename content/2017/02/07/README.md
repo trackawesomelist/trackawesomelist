@@ -50,7 +50,7 @@
 
 ### HTTP
 
-*   [explode (⭐42)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
+*   [explode (⭐44)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 
 ### Templating
 
@@ -58,7 +58,7 @@
 
 ### Third Party APIs
 
-*   [cashier (⭐47)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐48)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

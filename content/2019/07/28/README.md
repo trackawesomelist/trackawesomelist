@@ -46,7 +46,7 @@
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐6.3k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐7.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐471)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐472)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

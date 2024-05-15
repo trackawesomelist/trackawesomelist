@@ -25,11 +25,11 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐785)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐792)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
-*   [ActsAsTextcaptcha (⭐56)](https://github.com/matthutchinson/acts_as_textcaptcha) - Protection for Rails models with text-based logic question captchas (from Rob Tuley's textcaptcha.com)
+*   [ActsAsTextcaptcha (⭐59)](https://github.com/matthutchinson/acts_as_textcaptcha) - Protection for Rails models with text-based logic question captchas (from Rob Tuley's textcaptcha.com)
 
 ### Data Processing and ETL
 
@@ -41,13 +41,13 @@
 
 ### Optimizations
 
-*   [fast\_underscore (⭐33)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+*   [fast\_underscore (⭐32)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [LightProxy (⭐3k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
+*   [LightProxy (⭐3.1k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -984,17 +984,17 @@
 
 ### Libraries / Others
 
-*   [Cookiecutter for Computational Molecular Sciences (⭐283)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
+*   [Cookiecutter for Computational Molecular Sciences (⭐353)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ### Resources / Courses
 
-*   [Python for chemoinformatics (⭐193)](https://github.com/Mishima-syk/py4chemoinformatics)
+*   [Python for chemoinformatics (⭐217)](https://github.com/Mishima-syk/py4chemoinformatics)
 
 ## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐75)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐77)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ---
 

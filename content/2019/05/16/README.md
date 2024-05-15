@@ -28,11 +28,11 @@
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐58)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐8.2k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐61)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [cl-ana (⭐195)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [cl-ana (⭐197)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -70,7 +70,7 @@ Free
 
 Free
 
-> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
@@ -98,7 +98,7 @@ Free
 
 ### Overlays / Webinterface
 
-*   [nix-darwin (⭐2.1k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐2.3k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

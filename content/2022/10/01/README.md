@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,11 +26,11 @@
 
 ### Applications / Blockchain
 
-*   [ibc-rs (⭐411)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐425)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐1.3k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
+*   [bacon (⭐1.4k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 
@@ -50,7 +50,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-jdtls (⭐870)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
+*   [mfussenegger/nvim-jdtls (⭐934)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [communism (⭐12)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
+*   [communism (⭐14)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -81,27 +81,62 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [fork-handles/tuples4k (⭐170)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
+*   [fork-handles/tuples4k (⭐179)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Stable Diffusion / Multi-agents
 
-*   \[🔥🔥🔥] [JoePenna/Dreambooth-Stable-Diffusion (⭐3.1k)](https://github.com/JoePenna/Dreambooth-Stable-Diffusion): Implementation of Dreambooth (<https://arxiv.org/abs/2208.12242>) with Stable Diffusion (tweaks focused on training faces)
+*   \[🔥🔥🔥] [JoePenna/Dreambooth-Stable-Diffusion (⭐3.2k)](https://github.com/JoePenna/Dreambooth-Stable-Diffusion): Implementation of Dreambooth (<https://arxiv.org/abs/2208.12242>) with Stable Diffusion (tweaks focused on training faces)
 *   \[🔥🔥🔥] [DreamBooth](https://dreambooth.github.io/): fine tuning text-to-image diffusion models for subject-driven generation
 *   \[🔥] [Arki's Stable Diffusion Guides](https://stablediffusionguides.carrd.co/#one)
 
-## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
+*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card\_file\_box: archived)*
+*   [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
+*   [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
+*   [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
+*   [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
+
+### Machine Learning
+
+*   [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) - David J.C. MacKay
+*   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
+
+### Mathematics
+
+*   [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com) - Ani Adhikari, John DeNero, David Wagner
+*   [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney et al. (PDF)
+
+### Misc
+
+*   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
+*   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
+*   [Culture & Empire: Digital Revolution](http://hintjens.com/books) - Pieter Hintjens (PDF)
+*   [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) - Rob Walling (PDF)
+*   [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
+*   [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
+*   [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
+
+### Networking
+
+*   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
+
+## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [FirelordJS (⭐63)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐35)](https://github.com/tylim88/Firelord))
 
-## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
-*   [pm2 (⭐40k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+*   [pm2 (⭐41k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 
 ### Development / Release
 
@@ -109,21 +144,21 @@
 
 ### Productivity / Calendars
 
-*   [birthday (⭐73)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+*   [birthday (⭐77)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ### Utilities / Calendars
 
-*   [kill-tabs (⭐379)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
-*   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+*   [kill-tabs (⭐389)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+*   [alex (⭐4.8k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Utilities / Network Utilities
 
 *   [acmetool (⭐2k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐412)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [certificate-ripper (⭐665)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 
-*   [splash-cli (⭐529)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
+*   [splash-cli (⭐541)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 
 ### Utilities / Shell Utilities
 
@@ -131,53 +166,53 @@
 
 ### Utilities / System Interaction Utilities
 
-*   [neofetch (⭐19k)](https://github.com/dylanaraps/neofetch) - System information tool.
+*   [neofetch (⭐20k)](https://github.com/dylanaraps/neofetch) - System information tool.
 *   [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
-*   [gzip-size-cli (⭐184)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+*   [gzip-size-cli (⭐188)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Utilities / Markdown
 
-*   [glow (⭐13k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+*   [glow (⭐15k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Utilities / Security
 
-*   [hasha-cli (⭐71)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
+*   [hasha-cli (⭐73)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 
 ### Utilities / Browser Replacement
 
-*   [s (⭐2.2k)](https://github.com/zquestz/s) - Open a web search in your terminal.
-*   [hget (⭐334)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii (⭐6.7k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-*   [nasa-cli (⭐78)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-*   [getnews.tech (⭐145)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-*   [trino (⭐129)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-*   [translate-shell (⭐6.4k)](https://github.com/soimort/translate-shell) - Google Translate interface.
+*   [s (⭐2.3k)](https://github.com/zquestz/s) - Open a web search in your terminal.
+*   [hget (⭐349)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+*   [mapscii (⭐7.4k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [nasa-cli (⭐82)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+*   [getnews.tech (⭐152)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+*   [trino (⭐133)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+*   [translate-shell (⭐6.8k)](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Utilities / Internet Speedtest
 
-*   [speedtest-net (⭐591)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+*   [speedtest-net (⭐607)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 *   [speedtest-cli (⭐13k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-*   [bandwhich (⭐8.1k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+*   [bandwhich (⭐8.6k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Files and Directories / Directory Navigation
 
-*   [fz (⭐477)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+*   [fz (⭐504)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 
 ### Version Control / Git
 
-*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+*   [shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### Version Control / Emoji
 
-*   [gitmoji-cli (⭐4.3k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-*   [gitmoji-changelog (⭐363)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+*   [gitmoji-cli (⭐4.5k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+*   [gitmoji-changelog (⭐379)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ### Images / Emoji
 
-*   [carbon-now-cli (⭐5.5k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [11. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [12. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 

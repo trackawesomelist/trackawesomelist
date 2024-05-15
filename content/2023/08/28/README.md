@@ -10,17 +10,17 @@
 
 ### Projects / Frameworks
 
-*   [SSProve (⭐46)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
+*   [SSProve (⭐50)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 
-*   [dg (⭐20)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
+*   [dg (⭐23)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 
 ### Date and Time
 
-*   [approx (⭐7)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
+*   [approx (⭐9)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
 
 ## [3. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Register / Diagnostics
 
-*   [desdic/macrothis.nvim (⭐15)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐17)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Code Runner / Diagnostics
 
@@ -78,13 +78,13 @@
 
 ### Artificial Intelligence
 
-*   [Mpt-Instruct-DotNet-S (⭐7)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
+*   [Mpt-Instruct-DotNet-S (⭐10)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [SignalVisualizer (⭐151)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SignalVisualizer (⭐170)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
 ## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

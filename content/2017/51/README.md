@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐180)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐178)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -23,7 +23,7 @@
 ### Hardware Support
 
 *   [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
-    *   [Open-source Driver (⭐1.5k)](https://github.com/GPUOpen-Drivers/AMDVLK)
+    *   [Open-source Driver (⭐1.6k)](https://github.com/GPUOpen-Drivers/AMDVLK)
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐491)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐493)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Optimization / Others
 
-*   [Bayesian Optimization (⭐7k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐7.5k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
@@ -118,7 +118,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐8.5k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐8.8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -338,17 +338,17 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐409)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐417)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐918)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐921)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐479)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐481)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

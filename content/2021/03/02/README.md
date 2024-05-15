@@ -1,37 +1,31 @@
 # Awesome List Updates on Mar 02, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### State Management / Components
-
-*   [ngx-liquid-cache (⭐82)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
-
-## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Videos / Utilities
 
 *   [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki :fr:.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [Drive To Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.
 
-## [4. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
+## [3. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 
 ### Repositories / Critiques
 
 *   [EthicalML/xai (⭐859)](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 *   [PAIR-code/what-if-tool (⭐753)](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
 
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
@@ -41,25 +35,25 @@
 
 *   [gym-pybullet-drones (⭐739)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.5k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
+*   [emailwiz (⭐1.6k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
 
-## [7. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [6. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains.
 
-## [8. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [7. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Micro services & Distributed Systems
 
 *   [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
 
-## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Programming Languages and Programming Language Theory
 

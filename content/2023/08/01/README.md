@@ -10,17 +10,17 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐594)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐623)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐291)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐321)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐376)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐436)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Fastify / Integrations
 
-*   [vite-plugin-fastify (⭐6)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+*   [vite-plugin-fastify (⭐7)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
 
 ### Fastify / Routing
 
@@ -56,7 +56,7 @@
 
 ### Tools / Playground
 
-*   [sqlx-ts (⭐127)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [sqlx-ts (⭐128)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -73,10 +73,10 @@
 ### Libraries / C#
 
 *   C#: Entity Component System
-    *   🎉 [Arch (⭐602)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
-    *   🎉 [DefaultEcs (⭐617)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    *   🔒 [Friflo.Engine.ECS (⭐44)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus 🎯 on performance, cache locality and DX.
-    *   🎉 [LeoECS (⭐169)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
+    *   🎉 [Arch (⭐725)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
+    *   🎉 [DefaultEcs (⭐631)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    *   🔒 [Friflo.Engine.ECS (⭐99)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    *   🎉 [LeoECS (⭐175)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to *Unity*.
 
 ### Specialty Topics / Shaders
 
@@ -86,15 +86,6 @@
 ### Tools / Software / Color / Palettes
 
 *   🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
-
-### Tools / Software / Generative Art
-
-*   Imaging
-    *   💸 [DALL·E 2](https://en.wikipedia.org/wiki/DALL-E) - Create realistic images from natural language.
-    *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐7.4k)](https://github.com/alembics/disco-diffusion)]
-    *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
-    *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐63k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ## [9. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 

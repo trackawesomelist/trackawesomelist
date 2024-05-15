@@ -36,23 +36,23 @@
 
 ### Authorization
 
-*   [canada (⭐437)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐442)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 
-*   [bupe (⭐77)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
+*   [bupe (⭐78)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐147)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐149)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 
-*   [renew (⭐33)](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
+*   [renew (⭐34)](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [electron-log (⭐1.2k)](https://github.com/megahertz/electron-log) - Simple logging.
+*   [electron-log (⭐1.3k)](https://github.com/megahertz/electron-log) - Simple logging.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

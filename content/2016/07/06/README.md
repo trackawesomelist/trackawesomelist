@@ -26,7 +26,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐521)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐535)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Miscellaneous
 
-*   [std\_json\_io (⭐29)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
+*   [std\_json\_io (⭐30)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

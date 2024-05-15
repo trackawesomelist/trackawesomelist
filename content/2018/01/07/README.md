@@ -10,13 +10,13 @@
 
 ### Protocols
 
-*   [DNS (⭐398)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐405)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐306)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐303)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6.4k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.5k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
 ## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12 - Jul 18, 2021
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -5838,59 +5838,185 @@
 
 
 
-## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [7. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+
+### Official
+
+*   [Website](https://capacitorjs.com/)
+*   [Documentation](https://capacitorjs.com/docs)
+*   [CLI](https://capacitorjs.com/docs/cli)
+*   [Community](https://capacitorjs.com/community)
+*   [Blog](https://capacitorjs.com/blog)
+*   [Enterprise](https://capacitorjs.com/enterprise)
+*   [Repository (⭐11k)](https://github.com/ionic-team/capacitor)
+*   [Twitter](https://twitter.com/capacitorjs)
+
+### Guides
+
+*   [Creating Plugins](https://capacitorjs.com/docs/plugins/creating-plugins)
+*   [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons)
+*   [App Deployment and Realtime Updates](https://capacitorjs.com/docs/guides/deploying-updates)
+*   [CI/CD for Capacitor Apps](https://capacitorjs.com/docs/guides/ci-cd)
+*   [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage)
+*   [Security Best Practices for Capacitor](https://capacitorjs.com/docs/guides/security)
+*   [Using Push Notifications with Firebase in an Ionic + Angular App](https://capacitorjs.com/docs/guides/push-notifications-firebase)
+
+### Learnings
+
+*   [Ionic Academy Capacitor Crash Course](https://ionicacademy.com/capacitor-crash-course/)
+
+### Platforms
+
+*   [@capacitor/android (⭐11k)](https://github.com/ionic-team/capacitor)
+*   [@capacitor/ios (⭐11k)](https://github.com/ionic-team/capacitor)
+*   [@capacitor-community/electron (⭐303)](https://github.com/capacitor-community/electron)
+
+### Plugins
+
+*   [Proposals (⭐71)](https://github.com/capacitor-community/proposals)
+
+### Plugins / Official Plugins
+
+*   [@capacitor/action-sheet](https://capacitorjs.com/docs/apis/action-sheet) - Provides access to native Action Sheets.
+*   [@capacitor/app](https://capacitorjs.com/docs/apis/app) - The App API handles high level App state and events.
+*   [@capacitor/app-launcher](https://capacitorjs.com/docs/apis/app-launcher) - The AppLauncher API allows your app to open other apps.
+*   [@capacitor/browser](https://capacitorjs.com/docs/apis/browser) - The Browser API provides the ability to open an in-app browser and subscribe to browser events.
+*   [@capacitor/clipboard](https://capacitorjs.com/docs/apis/clipboard) - The Clipboard API enables copy and pasting to/from the system clipboard.
+*   [@capacitor/device](https://capacitorjs.com/docs/apis/device) - The Device API exposes internal information about the device.
+*   [@capacitor/dialog](https://capacitorjs.com/docs/apis/dialog) - The Dialog API provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
+*   [@capacitor/filesystem](https://capacitorjs.com/docs/apis/filesystem) - The Filesystem API provides a NodeJS-like API for working with files on the device.
+*   [@capacitor/geolocation](https://capacitorjs.com/docs/apis/geolocation) - The Geolocation API provides simple methods for getting and tracking the current position of the device using GPS.
+*   [@capacitor/haptics](https://capacitorjs.com/docs/apis/haptics) - The Haptics API provides physical feedback to the user through touch or vibration.
+*   [@capacitor/keyboard](https://capacitorjs.com/docs/apis/keyboard) - The Keyboard API provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
+*   [@capacitor/local-notifications](https://capacitorjs.com/docs/apis/local-notifications) - The Local Notifications API provides a way to schedule device notifications locally.
+*   [@capacitor/motion](https://capacitorjs.com/docs/apis/motion) - The Motion API tracks accelerometer and device orientation.
+*   [@capacitor/network](https://capacitorjs.com/docs/apis/network) - The Network API provides network and connectivity information.
+*   [@capacitor/push-notifications](https://capacitorjs.com/docs/apis/push-notifications) - The Push Notifications API provides access to native push notifications.
+*   [@capacitor/screen-reader](https://capacitorjs.com/docs/apis/screen-reader) - The Screen Reader API provides access to TalkBack/VoiceOver/etc.
+*   [@capacitor/share](https://capacitorjs.com/docs/apis/share) - The Share API provides methods for sharing content in any sharing-enabled apps the user may have installed.
+*   [@capacitor/splash-screen](https://capacitorjs.com/docs/apis/splash-screen) - The Splash Screen API provides methods for showing or hiding a Splash image.
+*   [@capacitor/status-bar](https://capacitorjs.com/docs/apis/status-bar) - The StatusBar API Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
+*   [@capacitor/storage](https://capacitorjs.com/docs/apis/storage) - The Storage API provides a simple key/value persistent store for lightweight data.
+*   [@capacitor/text-zoom](https://capacitorjs.com/docs/apis/text-zoom) - The Text Zoom API provides the ability to change Web View text size for visual accessibility.
+*   [@capacitor/toast](https://capacitorjs.com/docs/apis/toast) - The Toast API provides a notification pop up for displaying important information to a user.
+
+### Plugins / Community Plugins
+
+*   [@aparajita/capacitor-biometric-auth (⭐104)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [@capacitor-community/vue-cli-plugin-capacitor (⭐133)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3/4 Plugin for Capacitor.
+*   [@capacitor-community/twitter (⭐11)](https://github.com/capacitor-community/twitter) - Capacitor plugin to enable TwitterKit.
+*   [@capacitor-community/fcm (⭐231)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
+*   [@capacitor-community/intercom (⭐51)](https://github.com/capacitor-community/intercom) - Enable Intercom for Capacitor apps.
+*   [@capacitor-community/media (⭐87)](https://github.com/capacitor-community/media) - Capacitor plugin to activate extra media features.
+*   [@capacitor-community/firebase-analytics (⭐155)](https://github.com/capacitor-community/firebase-analytics) - Enable Firebase Analytics for Capacitor Apps.
+*   [@capacitor-community/camera-preview (⭐172)](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code.
+*   [@capacitor-community/date-picker (⭐81)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
+*   [@capacitor-community/firebase-crashlytics (⭐69)](https://github.com/capacitor-community/firebase-crashlytics) - Capacitor plugin for Firebase Crashlytics.
+*   [@capacitor-community/sqlite (⭐409)](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
+*   [@capacitor-community/stripe (⭐178)](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor.
+*   [@capacitor-community/react-hooks (⭐240)](https://github.com/capacitor-community/react-hooks) - React hooks for Capacitor.
+*   [@capacitor-community/keep-awake (⭐113)](https://github.com/capacitor-community/keep-awake) - Capacitor plugin to prevent devices from dimming or locking the screen.
+*   [@capacitor-community/http (⭐208)](https://github.com/capacitor-community/http) - Community plugin for native HTTP.
+*   [@capacitor-community/text-to-speech (⭐85)](https://github.com/capacitor-community/text-to-speech) - Capacitor plugin for synthesizing speech from text.
+*   [@capacitor-community/native-audio (⭐94)](https://github.com/capacitor-community/native-audio) - Capacitor community plugin for playing sounds.
+*   [@capacitor-community/firebase-remote-config (⭐22)](https://github.com/capacitor-community/firebase-remote-config) - Capacitory community plugin for Firebase Remote Config.
+*   [@capacitor-community/in-app-purchases](https://github.com/capacitor-community/in-app-purchases) - WIP: In App Purchases plugin for Capacitor.
+*   [@capacitor-community/native-market (⭐25)](https://github.com/capacitor-community/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+*   [@capacitor-community/capacitor-googlemaps-native (⭐141)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
+*   [@capacitor-community/contacts (⭐110)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
+*   [@capacitor-community/apple-sign-in (⭐133)](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support.
+*   [@capacitor-community/flipper (⭐10)](https://github.com/capacitor-community/flipper) - Capacitory community plugin for Flipper.
+*   [@capacitor-community/facebook-login (⭐91)](https://github.com/capacitor-community/facebook-login) - Facebook Login support.
+*   [@capacitor-community/admob (⭐197)](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob.
+*   [@capacitor-community/speech-recognition (⭐72)](https://github.com/capacitor-community/speech-recognition) - Capacitor community plugin for speech recognition.
+*   [@capacitor-community/realm (⭐23)](https://github.com/capacitor-community/realm) - Capacitor community plugin for native Realm.
+*   [@capacitor-community/auth0 (⭐9)](https://github.com/capacitor-community/auth0) - A native plugin for Auth0 authentication provider.
+*   [@capacitor-community/barcode-scanner (⭐425)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor.
+*   [@capacitor-community/background-geolocation (⭐167)](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
+*   [@capacitor-community/bluetooth-le (⭐238)](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy.
+*   [@capacitor-community/uxcam (⭐5)](https://github.com/capacitor-community/uxcam) - UXCam and FullStory app analytics.
+*   [@capacitor-community/privacy-screen (⭐70)](https://github.com/capacitor-community/privacy-screen) - Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
+*   [@capacitor-community/screen-brightness (⭐21)](https://github.com/capacitor-community/screen-brightness) - Capacitor community plugin for controlling screen brightness on iOS and Android devices.
+*   [@capacitor-community/app-icon (⭐68)](https://github.com/capacitor-community/app-icon) - Capacitor plugin for managing an iOS app's icon.
+*   [@capacitor-community/card-scanner (⭐10)](https://github.com/capacitor-community/card-scanner) - Simple card scanner for Capacitor Applications.
+*   [@capacitor-community/safe-area (⭐29)](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
+*   [@capacitor-community/appcenter-sdk-capacitor (⭐34)](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
+*   [@capacitor-community/photoviewer (⭐47)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
+*   [@codetrix-studio/capacitor-google-auth (⭐246)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
+*   [@teamhive/capacitor-video-recorder (⭐55)](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
+*   [capacitor-data-storage-sqlite (⭐74)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
+*   [capacitor-firebase-auth (⭐261)](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
+*   [capacitor-video-player (⭐99)](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
+
+### Demo Apps / Community Plugins
+
+*   [capacitor-plugin-demo (⭐83)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-testapp (⭐34)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+
+### Tools / Community Plugins
+
+*   [@capacitor/docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
+*   [@capacitor/plugin (⭐63)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [cordova-res (⭐472)](https://github.com/ionic-team/cordova-res) - Local Cordova icon/splash screen resource generation tool.
+
+### Related Lists / Community Plugins
+
+*   [Alexintosh/Awesome-Ionic (⭐1.5k)](https://github.com/Alexintosh/Awesome-Ionic)
+*   [candelibas/awesome-ionic (⭐842)](https://github.com/candelibas/awesome-ionic)
+
+## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐93)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐97)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [8. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 
-## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
 *   [jshn](https://openwrt.org/docs/guide-developer/jshn) - JSON parsing and generation library in for shell scripts (Ash/Bash)
 
-## [10. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [11. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
 *   [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
 
-## [11. Asdf Plugins](/content/asdf-vm/asdf-plugins/week/README.md)
+## [12. Asdf Plugins](/content/asdf-vm/asdf-plugins/week/README.md)
 
 ### Creating a new Plugin
 
-*   Consider using our [Template (⭐93)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+*   Consider using our [Template (⭐98)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
 
 ### Contributing a new Plugin / `asdf-community`
 
 *   Create a PR following the instructions in the PR template.
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐56)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐55)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
 *   [Jailer (⭐2.6k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Networking
 
 *   [SharpPcap (⭐1.2k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
-## [15. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -5903,6 +6029,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -5936,7 +6064,7 @@
 
 ### Science & Math
 
-- API: [inspirehep.net (⭐34)](https://github.com/inspirehep/rest-api-doc)
+- API: [inspirehep.net (⭐38)](https://github.com/inspirehep/rest-api-doc)
 
   Description: High Energy Physics info. system
 
@@ -5962,7 +6090,7 @@
 
 
 
-## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### a WEBPAGE (in English) to explain what RSS is
 
@@ -6060,7 +6188,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐1.1k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐1.2k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -6102,18 +6230,18 @@
 
 *   [Chris Abraham's Podcast Collection](https://chrisabraham.com/opml/view) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
-## [17. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
-*   [react-complex-tree (⭐715)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐762)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
-## [18. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [19. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
 *   [mypy (⭐17k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐289)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [pyanalyze (⭐299)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
 *   [pytype (⭐4.5k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
@@ -6128,14 +6256,14 @@
 *   [asgiref (⭐1.4k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.4k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
 *   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.5k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.7k)](https://github.com/sqlalchemy/sqlalchemy).
 *   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐70)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [meiga (⭐73)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
 *   [option (⭐75)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐180)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [phantom-types (⭐182)](https://github.com/antonagestam/phantom-types) - Phantom types.
 *   [returns (⭐3.2k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 *   [safetywrap (⭐40)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 *   [typet (⭐20)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
@@ -6151,35 +6279,34 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐237)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐241)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐135)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [com2ann (⭐136)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
 *   [merge-pyi (⭐4.5k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 *   [mypy-silent (⭐13)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
-*   [typing-inspect (⭐325)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [typing-inspect (⭐331)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [monkeytype (⭐4.5k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pytest-annotate (⭐108)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
-*   [pytest-monkeytype (⭐39)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐59)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [pytest-monkeytype (⭐41)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
+*   [type4py (⭐60)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 *   [typilus (⭐56)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐17k)](https://github.com/Delgan/loguru) support.
+*   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐18k)](https://github.com/Delgan/loguru) support.
 *   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
 *   [emacs-flycheck-mypy (⭐38)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
-*   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
 *   [mypy-playground (⭐63)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐312)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
-*   [pylance (⭐1.6k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
+*   [mypy-pycharm-plugin (⭐313)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [pylance (⭐1.7k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ### Articles / Third-party articles
 
@@ -6191,14 +6318,14 @@
 
 *   [TypedDjango](https://gitter.im/mypy-django/Lobby) - Official organisation gitter chat.
 
-## [19. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [20. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐272)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐56)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐284)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐59)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
-## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / Plugins
 
@@ -6206,46 +6333,46 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐491)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐497)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [21. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [22. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Uncategorized / Twitter
 
 *   [Home Assistant Taskbar Menu (⭐266)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications.
 
-## [22. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [23. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
-*   [NetKet (⭐470)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
-## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐50)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.7k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐55)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.8k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 *   [StoryTeller Engine (⭐26)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
-## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [25. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐108)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐111)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
-## [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [26. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐55)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐60)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
-## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [27. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 
-## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -6255,7 +6382,7 @@
 
 *   [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -6265,23 +6392,23 @@
 
 *   [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rustdesk/rustdesk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [o3de (⭐7.2k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐7.4k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
-*   [config-loader (⭐182)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐189)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
-## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [31. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Prisma ERD Generator (⭐733)](https://github.com/keonik/prisma-erd-generator)
 
-## [31. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [32. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -6290,15 +6417,15 @@
 ### Utils
 
 *   [expect-playwright (⭐143)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐194)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [eslint-plugin-playwright (⭐208)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
-## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [33. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐267)](https://github.com/Qvant-lab/qui-max)
 
-## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [34. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
@@ -6306,15 +6433,15 @@
 
 ### Tools & Software / Curation
 
-*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐15)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐261)](https://github.com/leonkt/zotero-memento).
+*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐17)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐273)](https://github.com/leonkt/zotero-memento).
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
 *   [folke/twilight.nvim (⭐1.1k)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
-## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [36. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Miscellaneous / Editor's Draft :black_nib:
 
@@ -6324,31 +6451,31 @@
 
 *   [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi) - Web developer, Co-founder at Themesberg. I'm building Glass UI.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
 
-## [37. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [38. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### FIAT
 
-*   [Debitum (⭐80)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐82)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
-## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vite (⭐63k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐136)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐120)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐142)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐123)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 *   [vite-plugin-tips (⭐58)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
-## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### SwiftUI
 
@@ -6360,11 +6487,11 @@
 
 *   [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐151)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐153)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
@@ -6380,31 +6507,31 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐50)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐53)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Testing / Barcode
 
 *   [Mussel (⭐72)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
-## [42. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [43. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
 *   [Clojure (⭐91)](https://github.com/prestancedesign/inertia-clojure)
 *   [CodeIgniter (⭐22)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐139)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐33)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Go (⭐148)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐32)](https://github.com/cherifGsoul/inertia-psr15)
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.6k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.9k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
-## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [45. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Channel History / Discovery
 
@@ -6412,21 +6539,21 @@
 
 ### Development / Discovery
 
-*   [devshell (⭐1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐957)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐1.1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐1k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐114)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
-*   [QuickTok (⭐27)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
+*   [XIV ToDo (⭐120)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐134)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐135)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -6445,13 +6572,13 @@
 
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
 
-## [47. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [48. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### TensorFlow models / Other
 
 *   [Tensorflow detection model zoo (⭐75k)](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) - Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.
 
-## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 

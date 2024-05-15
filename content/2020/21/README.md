@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25 - May 31, 2020
 
-66 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,7 +48,7 @@
 
 ### Status Bar
 
-*   [tmux-colortag (⭐90)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
+*   [tmux-colortag (⭐97)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Contents / Games
 
-*   [Impossiblocks (⭐103)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
+*   [Impossiblocks (⭐105)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Job Scheduling / Text-Based User Interfaces
 
-*   [JobRunr (⭐2.1k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
+*   [JobRunr (⭐2.2k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Communications / DNS
 
-*   [MicroDNSSrv (⭐67)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+*   [MicroDNSSrv (⭐68)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 
 ### Communications / IoT
 
@@ -135,11 +135,11 @@
 
 ### Communications / NTP
 
-*   [micropython-ntpclient (⭐4)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
+*   [micropython-ntpclient (⭐5)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 
 ### Communications / Radio
 
-*   [micropython-rfsocket (⭐33)](https://github.com/wuub/micropython-rfsocket) - MicroPython implementation of popular 433MHz-based RFSockets.
+*   [micropython-rfsocket (⭐34)](https://github.com/wuub/micropython-rfsocket) - MicroPython implementation of popular 433MHz-based RFSockets.
 
 ### Communications / REPL
 
@@ -149,12 +149,12 @@
 
 ### Communications / Web
 
-*   [uwebsockets (⭐172)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+*   [uwebsockets (⭐176)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
 *   [microdot (⭐1.3k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐66)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
+*   [st7789py\_mpy (⭐70)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -167,7 +167,7 @@
 
 ### IO / ADC
 
-*   [micropython-hx711 (⭐72)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+*   [micropython-hx711 (⭐76)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 ### IO / GPIO
 
@@ -183,7 +183,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-ulab (⭐383)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐386)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
@@ -205,18 +205,18 @@
 
 ### Code Generation / SRAM
 
-*   [micropy-cli (⭐298)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-*   [micropython-stubber (⭐148)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
+*   [micropy-cli (⭐304)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
+*   [micropython-stubber (⭐151)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 
 ### Shells / On Device
 
 *   [upy-shell (⭐37)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
-*   [Micropython-Editor (⭐207)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+*   [Micropython-Editor (⭐211)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 ### Shells / On Host
 
-*   [rshell (⭐876)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
-*   [mpfshell (⭐392)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
+*   [rshell (⭐885)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
+*   [mpfshell (⭐395)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 
 ## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -249,20 +249,26 @@
 
 *   [FarFetch (⭐58)](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 
-## [14. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### .NET / General-Purpose Machine Learning
+
+*   [MxNet.Sharp (⭐145)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+
+## [15. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
 
-## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Deserialization
 
 *   [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) - Written by [@pwntester](https://twitter.com/pwntester).
 *   [.NET Roulette: Exploiting Insecure Deserialization in Telerik UI](https://www.youtube.com/watch?v=--6PiuvBGAU) - Written by [@noperator](https://twitter.com/noperator).
 
-## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -272,13 +278,13 @@
 
 *   [dry-python](https://github.com/dry-python) - A set of libraries for pluggable business logic components.
 
-## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [18. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
 *   [Julia (⭐1.4k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 
-## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -293,7 +299,7 @@
 
 *   [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
 
-## [19. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [20. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Lighting / Lighting Software
 
@@ -350,7 +356,7 @@
 *   [Blender ArtNet (⭐27)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
 *   [MIDI Monster (⭐345)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 
-## [20. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [21. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Deployment tools
 
@@ -359,13 +365,13 @@
 *   [Click-to-deploy Prometheus (⭐697)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
 *   [Prometheus Operator (⭐8.5k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 
-## [21. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [22. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Blogs
 
 *   [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
 
-## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -375,7 +381,7 @@
 
 *   [Set up Docker Buildx (⭐228)](https://github.com/crazy-max/ghaction-docker-buildx)
 
-## [23. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [24. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Research / Software
 
@@ -383,26 +389,26 @@
     *   [Octave](https://www.gnu.org/software/octave/)
     *   [Julia](https://julialang.org/) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 
-## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
 *   [redpanda](https://vectorized.io/redpanda) - A Kafka® replacement for mission critical systems; 10x faster. Written in C++.
 
-## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
 *   [ZombieBox (⭐98)](https://github.com/interfaced/zombiebox) - An open source Smart TV framework. Strongly typed JavaScript, component based, built-in D-PAD navigation management, abstract video API with DRM for all platforms. Supports many platforms like Tizen, webOS, Android TV, etc.
 
-## [26. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [27. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Overlay
 
 *   [sweetalert2 (⭐17k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-*   [sweetalert2-react-content (⭐663)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+*   [sweetalert2-react-content (⭐677)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
-## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -410,17 +416,17 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐193)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐200)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐620)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐662)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
 *   [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 
-## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Security
 
@@ -435,7 +441,7 @@
   CORS: Unknown
 
 
-- API: [Mozilla tls scanner (⭐519)](https://github.com/mozilla/tls-observatory#api-endpoints)
+- API: [Mozilla tls scanner (⭐526)](https://github.com/mozilla/tls-observatory#api-endpoints)
 
   Description: Mozilla observatory tls scanner
 
@@ -447,13 +453,13 @@
 
 
 
-## [29. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [30. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [aitextgen (⭐1.8k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 
-## [30. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
@@ -461,22 +467,22 @@
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐50)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐55)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
-## [31. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
-*   [Insider CLI (⭐468)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+*   [Insider CLI (⭐486)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
-*   [Ant Design Blazor (⭐5.4k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
+*   [Ant Design Blazor (⭐5.5k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 *   [ComponentOne Blazor UI Components](https://www.grapecity.com/componentone/blazor-ui-controls) - External link. A fast datagrid, listview, input and other native Blazor components for server and client-side apps.
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -484,24 +490,24 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐46)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐47)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
-## [34. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
-*   [Tai (⭐445)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
-*   [workbench (⭐108)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+*   [Tai (⭐449)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
+*   [workbench (⭐111)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ### Authentication
 
-*   [elixir\_auth\_google (⭐220)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+*   [elixir\_auth\_google (⭐237)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
 
 ### Email
 
@@ -509,7 +515,7 @@
 
 ### Framework Components
 
-*   [recaptcha (⭐112)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
+*   [recaptcha (⭐111)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
 
 ### Instrumenting / Monitoring
 
@@ -517,11 +523,11 @@
 
 ### Lexical analysis
 
-*   [abnf\_parsec (⭐44)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
+*   [abnf\_parsec (⭐45)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
 
 ### Macros
 
-*   [pathex (⭐308)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
+*   [pathex (⭐320)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
 
 ### Networking
 
@@ -533,15 +539,15 @@
 
 ### PDF
 
-*   [chromic\_pdf (⭐303)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
-*   [pdf\_generator (⭐318)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
+*   [chromic\_pdf (⭐326)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
+*   [pdf\_generator (⭐324)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
 *   [puppeteer\_pdf (⭐95)](https://github.com/coletiv/puppeteer-pdf) - Another wrapper around puppeteer (HTML to PDF) for use in Elixir projects.
 
 ### Queue
 
-*   [flume (⭐40)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
+*   [flume (⭐74)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 
-## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Howtos
 
@@ -549,18 +555,18 @@
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐525)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
-*   [Modal Bottom Sheet (⭐1.6k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
+*   [Rubber Bottom Sheet (⭐556)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Modal Bottom Sheet (⭐1.8k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ### Utilities / Game Engine resources
 
-*   [Flutter Flavorizr (⭐325)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
+*   [Flutter Flavorizr (⭐408)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 
 ### 🇳🇬 Nigeria / Misc
 
 *   Telegram [FlutterLagos](https://t.me/joinchat/PAH0fVA0l7F_zMM537lo9w)
 
-## [37. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [38. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -575,7 +581,7 @@
 *   [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
 *   [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -587,20 +593,20 @@
 
 ### Components & Libraries / UI Components
 
-*   [ag-grid-vue (⭐11k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
+*   [ag-grid-vue (⭐12k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
 *   [vue-d3-barchart (⭐16)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
 
 ### Components & Libraries / Integrations
 
 *   [vue-zeye-client (⭐5)](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server (⭐4)](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
 
-## [39. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [40. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
-*   [The Force Engine (⭐854)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
+*   [The Force Engine (⭐919)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
-## [40. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [41. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Articles / PEPs
 
@@ -623,7 +629,7 @@
 *   [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables.
 *   [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases.
 
-## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [42. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -631,7 +637,7 @@
 *   [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - On performance as a key factor for the business.
 *   [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
 
-## [42. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [43. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -640,7 +646,7 @@
 
 ### TestFlight / Early Access / Outline Processor Markup Language
 
-*   [Feeds by Felfele (⭐16)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Feeds by Felfele (⭐17)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -682,7 +688,7 @@
 *   [Podbase](https://podba.se/validate/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
 *   [Cast Feed Validator](https://castfeedvalidator.com/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
 
-## [43. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [44. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
@@ -692,7 +698,7 @@
 
 *   [pyannote.audio: neural building blocks for speaker diarization](https://arxiv.org/abs/1911.01255), [Video](https://www.youtube.com/watch?v=37R_R82lfwA) - Hervé Bredin, Ruiqing Yin, Juan Manuel Coria, Gregory Gelly, Pavel Korshunov, Marvin Lavechin, Diego Fustes, Hadrien Titeux, Wassim Bouaziz, Marie-Philippe Gill, ICASSP 2020.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -706,30 +712,30 @@
 
 *   [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
 
-## [45. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [46. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
 
-## [46. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [47. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / General Purpose
 
-*   [ChemPy (⭐405)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+*   [ChemPy (⭐503)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 
 ### Libraries / Web APIs
 
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
-*   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
+*   [chemminetools (⭐35)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [47. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
-*   [The Knests Stack (⭐311)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐312)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
-## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### CSS Shadow Parts
 
@@ -803,13 +809,13 @@
 *   [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 *   [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
 
-## [49. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [50. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐14)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐18)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
-## [50. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [51. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Quick Start
 
@@ -833,7 +839,7 @@
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 
-## [51. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [52. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
@@ -841,42 +847,42 @@
 
 ### GTFS Libraries / C
 
-*   [CGTFS (⭐7)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐159)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [CGTFS (⭐8)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐160)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐162)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐148)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [ESRI public-transit-tools (⭐164)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐151)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 *   [gtfsman (⭐21)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz).
-*   [Make GTFS (⭐1)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [gtfspy (⭐151)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐48)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS (⭐2)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 *   [Mapzen GTFS (⭐29)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 *   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 
 ### GTFS Libraries / C#
 
-*   [GTFS Feed Parser (⭐64)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+*   [GTFS Feed Parser (⭐66)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
 
 ### GTFS Libraries / Go
 
-*   [Go GTFS Parser (⭐42)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
+*   [Go GTFS Parser (⭐43)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐31)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐32)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐351)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐352)](https://github.com/vasile/transit-map) web application)
 
-## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [53. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Code Analysis
 
 *   [Phpactor (⭐1.2k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 
-## [53. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [54. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Video Game
 
@@ -886,48 +892,44 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
-## [54. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [55. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Libraries
 
 *   [color2k (⭐573)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
-## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [56. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐418)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
-*   [RealWorld Example App - postgres (⭐2.6k)](https://github.com/nsidnev/fastapi-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐428)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - postgres (⭐2.7k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [56. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [57. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Python / General-Purpose Machine Learning
+### Graph Machine Learning / Others
 
-*   [Little Ball of Fur (⭐688)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐692)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
-### .NET / General-Purpose Machine Learning
-
-*   [MxNet.Sharp (⭐144)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
-
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [58. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Communities
 
 *   [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 
-## [58. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [59. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [littleballoffur (⭐658)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
-## [59. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [60. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Community
 
 *   [Official Discourse Forum](https://discourse.cmake.org/)
 
-## [60. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [61. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -943,19 +945,19 @@
 
 *   [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
 
-## [61. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [62. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Queue
 
-*   [CakeQueuesadilla plugin (⭐34)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
+*   [CakeQueuesadilla plugin](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
-## [62. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [63. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐21)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐15k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐22)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐15k)](https://github.com/woltapp/blurhash) implementation
 
-## [63. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [64. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Learning / Courses
 
@@ -968,9 +970,9 @@
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐699)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐713)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐299)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐308)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### PCB Batching Services / Altium
 
@@ -1012,13 +1014,13 @@
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐322)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐474)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐293)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐279)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐698)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐330)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐501)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐306)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐295)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐718)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 
-## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [65. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Static site generator
 
@@ -1042,7 +1044,7 @@
 
 ### Tools / XML
 
-*   [dedep (⭐67)](https://github.com/egoist/dedep) - Manage dependency versions.
+*   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [denon (⭐1.1k)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 *   [starter (⭐27)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
@@ -1054,7 +1056,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [Deno 手册 (⭐297)](https://github.com/Nugine/deno-manual-cn/)
+*   [Deno 手册 (⭐295)](https://github.com/Nugine/deno-manual-cn/)
 
 ### Resources in Other Languages / Indonesian
 
@@ -1065,7 +1067,7 @@
 *   [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 *   [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 
-## [65. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [66. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -1080,7 +1082,7 @@
 
 
 
-## [66. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [67. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Tutorials
 

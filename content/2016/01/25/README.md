@@ -60,7 +60,7 @@
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐228)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐227)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Probability and Statistics / Statistics
 
-*   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
+*   📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
 ## [7. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 

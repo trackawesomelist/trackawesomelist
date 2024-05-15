@@ -10,7 +10,7 @@
 
 ### Libraries / Caching
 
-*   [jaemk/cached (⭐1.3k)](https://github.com/jaemk/cached) — Simple function caching/memoization
+*   [jaemk/cached (⭐1.4k)](https://github.com/jaemk/cached) — Simple function caching/memoization
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -60,8 +60,8 @@ Lite Version (Free) and Full Version ($3)
 
 ### Models/Projects
 
-*   [Show, Attend and Tell (⭐902)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
-*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐354)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+*   [Show, Attend and Tell (⭐907)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐357)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 *   [Colornet - Neural Network to colorize grayscale images (⭐3.6k)](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 
 ---

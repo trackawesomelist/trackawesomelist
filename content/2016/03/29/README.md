@@ -57,7 +57,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐376)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐378)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -83,7 +83,7 @@ git gc --prune=now --aggressive
 
 ### Tools
 
-*   [ShareX (⭐27k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐28k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -110,13 +110,13 @@ git gc --prune=now --aggressive
 
 ### Open Source / Other
 
-*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐65)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
+*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of MIHTool and Codelf.
 
 ## [11. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

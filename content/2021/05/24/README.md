@@ -16,7 +16,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐675)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐711)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Docker-Bench-Security (⭐8.7k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [Docker-Bench-Security (⭐8.9k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
 ### Infrastructure as Code Analysis / Ansible
 
-*   [Ansible-Lint (⭐3.2k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
+*   [Ansible-Lint (⭐3.4k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

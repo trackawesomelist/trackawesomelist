@@ -44,7 +44,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐417)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐455)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -66,13 +66,13 @@
 
 ### Tools
 
-*   [HealthyPi (⭐181)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐182)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [fff (⭐3.9k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
+*   [fff (⭐4k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

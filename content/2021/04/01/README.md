@@ -10,13 +10,13 @@
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐417)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐449)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
-- API: [jsDelivr (⭐184)](https://github.com/jsdelivr/data.jsdelivr.com)
+- API: [jsDelivr (⭐198)](https://github.com/jsdelivr/data.jsdelivr.com)
 
   Description: Package info and download stats on jsDelivr CDN
 
@@ -46,15 +46,15 @@
 
 ### Images / Barcode
 
-*   [Brightroom (⭐3.1k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Brightroom (⭐3.2k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
 
 ### Network / Barcode
 
-*   [CodyFire (⭐256)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+*   [CodyFire (⭐257)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
 ### Alert / Barcode
 
-*   [SPAlert (⭐2.2k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐2.3k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
@@ -66,7 +66,7 @@
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐980)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐984)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.7k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)

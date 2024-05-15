@@ -16,7 +16,7 @@
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐948)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐950)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Projects / Open Source Projects
 
-*   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
+*   [Bootcamp: An enterprise social network (⭐2.3k)](https://github.com/vitorfs/bootcamp)
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -79,11 +79,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Misc
 
-*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐46)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
-*   [vcr (⭐59)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐58)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
@@ -109,7 +109,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐316)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐324)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -155,15 +155,15 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Development Tools
-
-*   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [eslint-plugin-react (⭐8.7k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-
 ### React Styling
 
 *   [styled-components (⭐40k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 *   [emotion (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+
+### React Development Tools
+
+*   [reactotron (⭐15k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+*   [eslint-plugin-react (⭐8.8k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
 ### React Testing
 
@@ -171,14 +171,14 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### React Awesome Components
 
-*   [react-datepicker (⭐7.7k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-datepicker (⭐7.8k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 *   [react-loading-skeleton (⭐3.7k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
 ### React Components Sandboxes
 
-*   [storybook (⭐82k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐83k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐8.1k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

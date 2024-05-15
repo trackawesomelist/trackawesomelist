@@ -56,10 +56,10 @@
 
 ### Parser Library
 
-*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐788)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐503)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐956)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Sprache (⭐2.3k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+*   [Pidgin (⭐830)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐510)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐975)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

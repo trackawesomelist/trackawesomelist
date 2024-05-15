@@ -22,7 +22,7 @@
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐2.3k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs/Docker`
+*   [YoutubeDL-Material (⭐2.4k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -128,7 +128,7 @@ Language: English
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐49)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐51)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -153,7 +153,7 @@ Language: English
 
 ### DEVONthink / Outline Processor Markup Language
 
-*   [devonthink-heti (⭐98)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
+*   [devonthink-heti (⭐97)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
@@ -241,15 +241,15 @@ Language: English
 
 ### Configuration
 
-*   [Oh My Tmux! (⭐20k)](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
+*   [Oh My Tmux! (⭐21k)](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐72)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐77)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
-*   [tmux-cpu-info (⭐12)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
+*   [tmux-cpu-info (⭐13)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
 ## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 

@@ -23,7 +23,7 @@
 ### Ask these people anything!
 
 *   [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
-*   [Jim Lesperance (⭐2)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
+*   [Jim Lesperance (⭐2)](https://github.com/cooljl31/ama) - Passionate full-stack developer, loves dogs, and likes to travel.
 
 ## [4. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
 

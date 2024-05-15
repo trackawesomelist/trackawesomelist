@@ -10,7 +10,7 @@
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [OneSignal (⭐582)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
+*   [OneSignal (⭐604)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 
 ## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -99,12 +99,12 @@
 
 ### Audio Tools
 
-*   [fre:ac (⭐1.2k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [fre:ac (⭐1.3k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐12)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐127)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [K3b (⭐133)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [Rubyripper (⭐114)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
-*   [split2flac (⭐249)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+*   [Rubyripper (⭐118)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+*   [split2flac (⭐248)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 *   [Whipper (⭐1.1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐4)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
@@ -163,15 +163,15 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐282)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐286)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐368)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐393)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.5k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐2.7k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
 ## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -243,14 +243,14 @@
 
 ### Pagination
 
-*   [Pagy (⭐4.3k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.4k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [io-ts (⭐6.6k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [fast-check (⭐4.1k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -290,7 +290,7 @@
 
 ### Validation
 
-*   [accord (⭐24)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
+*   [accord (⭐25)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
 *   [validations (⭐13)](https://github.com/vladfaust/validations.cr) - Validations mixin
 
 ### Official Documentation Translations
@@ -346,7 +346,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### For Electron / Other
 
-*   [run-electron (⭐197)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [run-electron (⭐198)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ## [34. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
@@ -448,12 +448,12 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Misc
 
-*   [Tuist (⭐4k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
-*   [xcodeproj (⭐1.9k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
+*   [Tuist (⭐4.2k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [xcodeproj (⭐2k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐803)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐814)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -471,9 +471,9 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Videos
 
-*   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
+*   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)—This interactive live video course gives you a crash course in using AWS for machine learning and teaches you how to build a fully working predictive algorithm.
 *   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
-*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
+*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework. You’ll discover how to build these algorithms from scratch!
 
 ### Organizations
 
@@ -509,7 +509,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Platforms
 
-*   [DigitalOcean (⭐328)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐337)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 

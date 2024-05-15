@@ -18,7 +18,6 @@
 
 ### Generic
 
-*   [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 *   [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 *   [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
 *   [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
@@ -169,11 +168,11 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Servo (⭐25k)](https://github.com/servo/servo) — A prototype web browser engine
+*   [Servo (⭐26k)](https://github.com/servo/servo) — A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐819)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐848)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -181,7 +180,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.3k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.5k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -191,7 +190,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐518)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐517)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -213,21 +212,21 @@
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.3k)](https://github.com/actix/actix) — Actor library
-    *   [dylanmckay/protocol (⭐180)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2.1k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.4k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-    *   [tokio-rs/tokio (⭐24k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐8.4k)](https://github.com/actix/actix) — Actor library
+    *   [dylanmckay/protocol (⭐182)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.6k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [tokio-rs/tokio (⭐25k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
 
-*   [ptal/oak (⭐140)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
+*   [ptal/oak (⭐141)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
 
 ### Libraries / Web programming
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
-    *   [leptos (⭐14k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [leptos (⭐15k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) — A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
@@ -241,11 +240,11 @@
 
 ### Game Engine
 
-*   [Spring (⭐3.4k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.5k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 
-*   [Magic Enum (⭐4.3k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -279,24 +278,24 @@
 
 ### Foundations of Mathematics / Category Theory
 
-*   [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
+*   📝 [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 
 ### Algebra / Abstract Algebra
 
-*   [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
-*   [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
+*   📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
+*   📝 [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
 
 ### Algebra / Linear Algebra
 
-*   [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
+*   📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
 
 ### Analysis / Real Analysis
 
-*   [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
+*   📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 
 ### Analysis / Functional Analysis
 
-*   [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
+*   📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

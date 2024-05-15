@@ -102,7 +102,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐41k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -480,7 +480,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐561)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐562)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 
@@ -491,15 +491,15 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 ### Ask these people anything!
 
 *   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
-*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐60k)](https://github.com/rackt/redux).
+*   [Dan Abramov (⭐222)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of React Hot Loader and Redux.
 *   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
-*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
+*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at Docker. JavaScript. Haskell. Builder of products and tooling.
 
 ## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐862)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐934)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ---
 

@@ -24,7 +24,7 @@
     *   [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
     *   [SQLite3 (⭐110)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-    *   [ocaml-redis (⭐74)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+    *   [ocaml-redis (⭐75)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
     *   [pgx (⭐121)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
     *   [mysql\_protocol (⭐14)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
@@ -40,7 +40,7 @@
 
 ### Key Value Store
 
-*   [Prephirences (⭐566)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+*   [Prephirences (⭐568)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 
 ### Logging / Barcode
 
@@ -170,7 +170,7 @@
 
 ### Contents / Tools
 
-*   [pico2png (⭐22)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
+*   [pico2png (⭐23)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 *   [Pico8Utils (⭐51)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
@@ -185,7 +185,7 @@ Where hackers and security experts come to train.
 
 ### Contents / CLI
 
-*   [psql2csv (⭐179)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+*   [psql2csv (⭐178)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ## [17. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -296,16 +296,16 @@ Where hackers and security experts come to train.
 
 ### Authentication
 
-*   [ueberauth (⭐1.5k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
+*   [ueberauth (⭐1.6k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
 *   [ueberauth\_facebook (⭐74)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐101)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
-*   [ueberauth\_google (⭐157)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
+*   [ueberauth\_github (⭐102)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_google (⭐158)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 *   [ueberauth\_identity (⭐79)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 
 ### Build Tools
 
-*   [rebar3\_diameter\_compiler (⭐5)](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
+*   [rebar3\_diameter\_compiler (⭐6)](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
 
 ### HTTP
 
@@ -349,7 +349,6 @@ git help -g
 *   [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 *   [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 *   [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
-*   [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 *   [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 *   [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 *   [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
@@ -389,7 +388,7 @@ git help -g
 
 ### Icons / Icon Fonts
 
-*   [Topcoat Icons (⭐260)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+*   [Topcoat Icons (⭐258)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 
 ### Colors / Icons Packages and Collections
 
@@ -482,7 +481,7 @@ git help -g
 
 ### For Electron / Other
 
-*   [debug-menu (⭐135)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
+*   [debug-menu (⭐136)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
 ## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -526,7 +525,7 @@ git help -g
 
 ### CLI Utilities
 
-*   [Paint (⭐366)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐365)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ### Third-party APIs
 

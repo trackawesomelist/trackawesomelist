@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2016
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,11 +28,11 @@
 
 ### Files and Directories
 
-*   [exfswatch (⭐248)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐254)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
-*   [phoenix\_slime (⭐309)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
+*   [phoenix\_slime (⭐310)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 *   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### HTTP
@@ -41,12 +41,12 @@
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐253)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
-*   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
+*   [arc\_ecto (⭐255)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
 
-*   [exjprop (⭐1)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
+*   [exjprop (⭐0)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 
 ### Community
 
@@ -61,13 +61,7 @@
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
-
-## [4. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
+## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
 ### High level
 
@@ -80,24 +74,24 @@
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐66)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐70)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐69)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Resources / Community
 
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### France 🇫🇷 / Paris
 
@@ -124,7 +118,7 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 ![](http://www.speedtest.net/result/4987963541.png)
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -142,19 +136,13 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
-## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Android
-
-*   [Android Note(开发过程中积累的知识点) (⭐3.4k)](https://github.com/CharonChui/AndroidNote)
-
-## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [9. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 

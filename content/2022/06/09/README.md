@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐184)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐215)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐58k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐60k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐145)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐146)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -80,7 +80,7 @@
 
 ### Open-source sites / Lists
 
-*   [WagtailParadise (⭐3)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
+*   [WagtailParadise (⭐4)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

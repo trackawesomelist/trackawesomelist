@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Libraries / New Libraries
 
-*   [JAXFit (⭐36)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
+*   [JAXFit](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [bytebase (⭐9.5k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐10k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -46,43 +46,53 @@
 
 ### Tools / Misc
 
-*   [MLEM (⭐713)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐712)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Async processing
 
-*   [goose (⭐233)](https://github.com/nilenso/goose)
+*   [goose (⭐240)](https://github.com/nilenso/goose)
 
 ### Graphviz
 
 *   [re-frame-flow (⭐145)](https://github.com/ertugrulcetin/re-frame-flow) - Graph based visualization tool for re-frame event chains (ClojureScript)
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+
+### Other
+
+*   🔧 [Mirthix (⭐13)](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
+
+### Follow / Community
+
+*   📖 [Discussion Forum (⭐847)](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
+
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [.NET MAUI & Blazor - Sharing code between app and web](https://www.youtube.com/watch?v=A_C8X-b2qXE) - September 2, 2022 - In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web. ![GitHub stars](https://img.shields.io/github/stars/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=86400) [Source code (⭐6)](https://github.com/dhindrik/MauiBlazorHybridDemo).
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Business/Finance / Svelte
 
 *   [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐689)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐705)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 
-*   [django-bleach (⭐138)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
+*   [django-bleach (⭐141)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-streamfield (⭐109)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+*   [django-streamfield (⭐118)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06 - Aug 12, 2018
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -137,7 +137,7 @@
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐247)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐249)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -162,8 +162,8 @@ Free
 ### Processes / Other
 
 *   [ch.vorburger.exec (⭐29)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐864)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐123)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [zt-exec (⭐871)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐125)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -198,7 +198,7 @@ Free
 
 ### Platforms
 
-*   [Fuse (⭐330)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐332)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ### Content Management Systems
 
@@ -206,7 +206,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3.7k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3.8k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -226,9 +226,9 @@ Free
 
 ## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Cheatsheet
+### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [List of 100 Angular Interview questions and answers (⭐3.5k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐4k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [23. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
@@ -258,19 +258,19 @@ Free
 
 ### 8\. Installation
 
-*   [Windows-Subsystem-For-Linux-Setup (⭐613)](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup) - A basic guide for how to get setup with the WSL feature that is included with Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows-Subsystem-For-Linux-Setup (⭐616)](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup) - A basic guide for how to get setup with the WSL feature that is included with Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Using WSL / The WSL Shell
 
 *   [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
 *   [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix/Linux environments.
-*   [The Art of Command Line (⭐143k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [The Art of Command Line (⭐147k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Awesome Command Line Apps (⭐3.9k)](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Using WSL / Programming on WSL
 
 *   [Setting Up a Programming Environment via Windows 10 Bash](https://www.cs.odu.edu/~zeil/FAQs/Public/win10Bash/) - From the computer science department at Old Dominion University.
-*   [WSL as a Development Environment (⭐165)](https://github.com/hsab/WSL-config) - From the computer science department at University of Utah. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL as a Development Environment (⭐166)](https://github.com/hsab/WSL-config) - From the computer science department at University of Utah. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows) - Another developer's approach using the third-party terminal MobaXterm.
 *   [Setting up my WSL Environment - Azure CLI, Docker and .NET](http://tattoocoder.com/setting-up-my-wsl-environment-azure-cli-docker-and-net/)
 *   [ubuntu-win-boostrap (⭐26)](https://github.com/seapagan/ubuntu-win-bootstrap) - A very simple bootstrap script to install some development basic tools on Debian/Ubuntu on WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
@@ -286,7 +286,7 @@ Free
 *   Learning [programming](https://www.codecademy.com), [computer science](https://www.quora.com/Why-should-computer-science-students-use-the-GNU-Linux-operating-system), and [system administration](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/) generally.
 *   Building applications for [Azure](https://blogs.technet.microsoft.com/stefan_stranger/2018/03/08/installing-azure-cli-on-debian-gnulinux-for-wsl/), Microsoft's cloud platform.
 *   Leveraging the power of the shell and scripting to automate your personal workflow, like OCRing and sorting PDFs into folders using [Python](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/).
-*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐776)](https://github.com/NathanCastle/BootShellCredentialProvider).
+*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐779)](https://github.com/NathanCastle/BootShellCredentialProvider).
 *   Running Linux-based server applications like [OpenFOAM](https://openfoam.org/download/windows-10/) and [Wordpress](https://mkaz.blog/wordpress/install-wordpress-on-windows-subsystem-for-linux/) locally for testing purposes.
 *   Managing your companies' CentOS servers using [Ansible](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux).
 *   [pWSLinux+K8S: The Interop way](https://medium.com/@hoxunn/wslinux-k8s-the-interop-way-2d98e5b88f08)
@@ -312,21 +312,21 @@ Free
 ### Unofficial Distributions / AlmaLinux OS
 
 *   [miniwsl (⭐70)](https://github.com/0xbadfca11/miniwsl) - A mini Linux distribution for WSL powered by [busybox](https://www.busybox.net). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [ArchWSL (⭐6.1k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AlpineWSL (⭐458)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [ArchWSL (⭐6.3k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AlpineWSL (⭐483)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [windows-subsystem-linux-fedora](https://gitlab.com/gbraad/windows-subsystem-for-linux-fedora) - Fedora in WSL.
 *   [WSL-Distribution-Switcher (⭐1.7k)](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind WSL with any other Linux distribution published on [Docker Hub](https://hub.docker.com/explore/). Includes alpine, CentOS, Fedora, Clear, and others. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [acme-wsl (⭐43)](https://github.com/elrzn/acme-wsl) - Install acme / plan9port on Debian, Ubuntu, or Kali Linux distributions on WSL.
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [WSLInstall (⭐247)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [BootShellCredentialProvider (⭐776)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSLInstall (⭐249)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [BootShellCredentialProvider (⭐779)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [wsl-dotfiles (⭐258)](https://github.com/Xyene/wsl-dotfiles) - Configuration files and scripts for creating an i3-based environment inside WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [EnumWSL (⭐6)](https://github.com/therealkenc/EnumWSL) - Enumerates installed WSL packages. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WSL-DistroLauncher (⭐1.6k)](https://github.com/Microsoft/WSL-DistroLauncher) - Reference launcher app for developing your own WSL distribution Microsoft Store package. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [WSL\_Reverse (⭐77)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wslbridge (⭐355)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL\_Reverse (⭐78)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslbridge (⭐356)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [cmd-colors-solarized (⭐1.1k)](https://github.com/neilpa/cmd-colors-solarized) - This is a solarized color scheme for the Windows command prompt that works in WSL.
 
 ### WSL Tools / Terminals
@@ -346,8 +346,8 @@ Free
 
 *   [wslgit (⭐1.2k)](https://github.com/andy-5/wslgit) - Use git installed on WSL from Visual Studio Code on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [wsl-proxy (⭐141)](https://github.com/watzon/wsl-proxy) - A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wslpath (⭐96)](https://github.com/laurent22/wslpath) - Easily convert Windows to WSL path names and vice-versa. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wsl-open (⭐456)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslpath (⭐102)](https://github.com/laurent22/wslpath) - Easily convert Windows to WSL path names and vice-versa. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-open (⭐471)](https://github.com/4U6U57/wsl-open) - Open files with xdg-open in WSL from Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / WSL-Specific Development Tools
 
@@ -360,7 +360,7 @@ Free
 *   [WSL-Programs (⭐1.1k)](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work on the Windows Subsystem for Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [/r/bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/) - Reddit subreddit.
 *   [#debian-wsl](https://www.oftc.net) - IRC channel on OFTC.net.
-*   [WSL on GitHub (⭐16k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL on GitHub (⭐17k)](https://github.com/Microsoft/WSL) - For reporting issues with WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Microsoft Developer Feedback](https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l) - For developers to send Microsoft feeback on WSL.
 *   [Stack Overflow: WSL](https://stackoverflow.com/questions/tagged/wsl) - Programming question and answer site.
 
@@ -375,12 +375,12 @@ Free
 
 ### More Awesome / Miscellaneous Tools
 
-*   [Awesome Windows (⭐25k)](https://github.com/Awesome-Windows/Awesome)
+*   [Awesome Windows (⭐27k)](https://github.com/Awesome-Windows/Awesome)
 *   [Awesome VSCode (⭐24k)](https://github.com/viatsko/awesome-vscode)
-*   [Awesome Bash (⭐6.8k)](https://github.com/awesome-lists/awesome-bash)
-*   [Awesome Shell (⭐30k)](https://github.com/alebcay/awesome-shell)
-*   [Awesome Powershell (⭐4.4k)](https://github.com/janikvonrotz/awesome-powershell)
-*   [Awesome Linux (⭐4k)](https://github.com/aleksandar-todorovic/awesome-linux)
+*   [Awesome Bash (⭐7.1k)](https://github.com/awesome-lists/awesome-bash)
+*   [Awesome Shell (⭐31k)](https://github.com/alebcay/awesome-shell)
+*   [Awesome Powershell (⭐4.5k)](https://github.com/janikvonrotz/awesome-powershell)
+*   [Awesome Linux (⭐4.1k)](https://github.com/aleksandar-todorovic/awesome-linux)
 
 ### Thanks / Miscellaneous Tools
 
@@ -412,15 +412,15 @@ Free
 
 ### Monetization / Preferences
 
-*   [Inapp Purchase (⭐524)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.4k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+*   [Inapp Purchase (⭐544)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.7k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [AnimatedTextKit (⭐1.5k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
+*   [AnimatedTextKit (⭐1.6k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 
 ### Top / Game Engine resources
 
-*   [Trace (⭐1k)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+*   [Trace (⭐1.1k)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 
 ## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -602,7 +602,7 @@ Free
 
 ### Open Source / Other
 
-*   [Mark Text (⭐43k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
+*   [Mark Text (⭐45k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 
 ### Boilerplates / Other
 
@@ -665,11 +665,11 @@ Free
 ### Miscellaneous
 
 *   [okra](https://www.common-lisp.net/project/okra/manual.html) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [CocoaInterface (⭐31)](https://github.com/plkrueger/CocoaInterface/) -
+*   [CocoaInterface (⭐32)](https://github.com/plkrueger/CocoaInterface/) -
     Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
     windows dynamically using Lisp code and bypass the typical Xcode
     processes. It has
-    [good documentation and a tutorial (⭐31)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
+    [good documentation and a tutorial (⭐32)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 
 ## [46. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -681,7 +681,7 @@ Free
 
 ### Components & Libraries / UI Utilities
 
-*   [v-scroll-lock (⭐185)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
+*   [v-scroll-lock (⭐186)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 
 ## [48. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -735,19 +735,13 @@ Free
 *   [Sticky Keys Slayer (⭐319)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.5k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
-## [50. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Scratch / Django
-
-*   [创意计算课程指南](http://cccgchinese.strikingly.com)
-
-## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [passwordless\_auth (⭐49)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
+*   [passwordless\_auth (⭐48)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
-## [52. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [51. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -755,24 +749,24 @@ Free
 
 ### Learning
 
-*   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
-*   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
-*   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+*   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
+*   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
+*   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in-depth Deep Learning video tutorials and courses
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
-## [53. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [52. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Networking
 
 *   [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
-## [54. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [53. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-hsluv (⭐7)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
-## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

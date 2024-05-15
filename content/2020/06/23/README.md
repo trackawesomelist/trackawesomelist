@@ -10,19 +10,19 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐316)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐345)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐708)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐770)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [Moon (⭐200)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐206)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Command-line tools
 
-*   [oj (⭐768)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐793)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -42,8 +42,8 @@
 
 ### Libraries
 
-*   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐768)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojc (⭐35)](https://github.com/ohler55/ojc) - A fast JSON parser.
+*   [ojg (⭐793)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -56,7 +56,7 @@
 
 ### CI and CD
 
-*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online emulators. 20-minute build timeout (60 minutes for Open Source) with single concurrency for free.
+*   [appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.
 
 ### IDE and Code Editing
 
@@ -80,12 +80,12 @@
 
 ### Parsers / Testing Tools
 
-*   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+*   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 *   [BrightScript (⭐42)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [ES and browser globals (⭐319)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐335)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
@@ -98,7 +98,7 @@
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐116)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐124)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -126,9 +126,9 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐290)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
-*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐447)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
+*   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐458)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 

@@ -47,16 +47,19 @@
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
+### Reference resources
+
+*   [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
+
 ### Community
 
-*   [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 *   [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐38k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐40k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
@@ -69,7 +72,7 @@
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -81,7 +84,7 @@
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐852)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -196,13 +199,13 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐348)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐347)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐354)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐356)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

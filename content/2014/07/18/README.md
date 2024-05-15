@@ -10,13 +10,13 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐151)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐157)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Figaro (⭐755)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐753)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Logging
 
-*   [Serilog (⭐6.8k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐7k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

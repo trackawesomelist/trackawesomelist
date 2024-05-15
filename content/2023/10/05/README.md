@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2023
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homepage by gethomepage (⭐14k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
+*   [Homepage by gethomepage (⭐16k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Statusline / Diagnostics
 
-*   [MunifTanjim/nougat.nvim (⭐174)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+*   [MunifTanjim/nougat.nvim (⭐191)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -44,20 +44,26 @@
 
 *   [purge-history-secrets (⭐1)](https://github.com/jotasixto/purge-history-secrets) - Uses [gitleaks (⭐15k)](https://github.com/gitleaks/gitleaks) to periodically scan your ZSH history for secrets and purge them if found. Requires [jq](https://jqlang.github.io/jq/).
 
-## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Machine Learning
+
+*   [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)
+
+## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [granny (⭐6)](https://github.com/roberthopman/granny) - An OpenAI chat app (Rails 7.0)
+*   [granny (⭐8)](https://github.com/roberthopman/granny) - An OpenAI chat app (Rails 7.0)
 
-## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Gerber Viewers / Installable
 
 *   [KiCAD Gerbview](https://kicad.org/) - The KiCAD gerber viewer.
 *   [GC-Prevue](http://www.graphicode.com/GC-Prevue_Gerber_Viewer) - Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD.
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Official Content
 
@@ -80,12 +86,12 @@
 *   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY/) - A City of Mist / Ironsworn hybrid hack
 *   [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o/) - A cyberpunk hack for Ironsworn
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Meziantou.Analyzer (⭐815)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
-*   [SonarAnalyzer.CSharp (⭐698)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
+*   [Meziantou.Analyzer (⭐849)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
+*   [SonarAnalyzer.CSharp (⭐720)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
 ---
 

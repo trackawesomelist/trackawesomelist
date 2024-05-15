@@ -26,11 +26,11 @@
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐992)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐991)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
-*   [Delegated (⭐704)](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
+*   [Delegated (⭐703)](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐178)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐180)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Parsing
 
-*   [kern (⭐234)](https://github.com/blancas/kern)
+*   [kern (⭐235)](https://github.com/blancas/kern)
 
 ## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### Others / Web project skeletons and generators
+### Others / Email
 
 *   [Postmaster (⭐8)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
@@ -174,7 +174,7 @@
 
 ### Graphics
 
-*   [Diligent Engine (⭐3.2k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐3.3k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 
@@ -239,7 +239,7 @@
 
 ### HTTP
 
-*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -359,7 +359,7 @@ Donationware
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐255)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐257)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing
 
@@ -397,11 +397,11 @@ Donationware
 
 *   [vue-cute-modal (⭐7)](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 *   [vue-input-code (⭐67)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
-*   [vue-comment-grid (⭐159)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-check-view (⭐116)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
+*   [vue-check-view (⭐115)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 
 ## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -435,7 +435,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 ### Malware Collection / Honeypots
 
-*   [Honeytrap (⭐1.1k)](https://github.com/honeytrap/honeytrap) - Opensource system for running, monitoring and managing honeypots.
+*   [Honeytrap (⭐1.2k)](https://github.com/honeytrap/honeytrap) - Opensource system for running, monitoring and managing honeypots.
 
 ### Malware Collection / Malware Corpora
 
@@ -449,12 +449,12 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 ### Detection and Classification / Other Resources
 
-*   [Manalyze (⭐859)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
+*   [Manalyze (⭐994)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
     executables.
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [sandboxapi (⭐116)](https://github.com/InQuest/python-sandboxapi) - Python library for
+*   [sandboxapi (⭐131)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
 ## [45. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)

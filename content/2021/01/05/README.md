@@ -16,19 +16,19 @@
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐332)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐68)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐74)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI CRUDRouter (⭐1.2k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
+*   [FastAPI CRUDRouter (⭐1.3k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
 
 ### Tutorials / Other Tools
 
@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-material-admin (⭐306)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐309)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ## [9. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

@@ -16,26 +16,26 @@
 
 ### Security
 
-*   [Prompt Injection (⭐43)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+*   [Prompt Injection (⭐104)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 ### Miscellaneous
 
-*   [Biological Image Analysis (⭐81)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
-*   [HPC (⭐43)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+*   [Biological Image Analysis (⭐94)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
+*   [HPC (⭐60)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-surf (⭐22)](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
-*   [vue-cool-box-selector (⭐3)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ \~1KB
-*   [vue-stage-play (⭐27)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
+*   [vue-surf (⭐23)](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
+*   [vue-cool-box-selector (⭐11)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ \~1KB
+*   [vue-stage-play (⭐29)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / JavaScript
 
-*   [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
+*   [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -48,14 +48,12 @@
 
 ### Official
 
-*   [OpenTofu repository (⭐19k)](https://github.com/opentofu/opentofu) 🎉
-*   [Weekly Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+*   [OpenTofu repository (⭐21k)](https://github.com/opentofu/opentofu) 🎉
 
 ### Community
 
 *   [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 *   [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
-*   [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 
 ### Features
 
@@ -64,7 +62,6 @@
 ### Media / Helpers
 
 *   [OSS EU 2023 - Announcement](https://www.youtube.com/watch?v=Ha77rpusEDM\&t=1190s)
-*   [OSS EU 2023 - Project overview](https://www.youtube.com/watch?v=-8sOE9-icmY\&t=15116s)
 
 ### Podcasts / Helpers
 
@@ -299,11 +296,11 @@
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐22k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐25k)](https://github.com/microsoft/autogen)]
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [OpenBMB/ChatDev (⭐20k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
+*   [OpenBMB/ChatDev (⭐23k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -1072,21 +1069,21 @@
 ### Software / Manufacturing
 
 *   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.2k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
-*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.2k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
-*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.5k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
-*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐7.9k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
+*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.3k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
+*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.6k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
+*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐8k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐8.7k)](https://github.com/owncast/owncast)) `MIT` `Go`
+*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐9k)](https://github.com/owncast/owncast)) `MIT` `Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐2.7k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
+*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐2.9k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
-*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐199)](https://github.com/davideshay/groceries)) `MIT` `Docker`
+*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐206)](https://github.com/davideshay/groceries)) `MIT` `Docker`
 
 ## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1104,17 +1101,13 @@
 
 ## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Integrations / Components
-
-*   [TailwindCSS + Angular](https://tailwind-elements.com/docs/standard/integrations/angular-integration/) - Integrate Angular app with Tailwind
-
-### Tailwind CSS Based / Components
+### UI Libraries / Tailwind CSS Based
 
 *   [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 
-### UX Components / Components
+### UX Components / Node Based
 
-*   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
+*   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web.
 
 ## [20. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
@@ -1222,15 +1215,9 @@
 
 ### Examples
 
-*   [gowebly/gowebly (⭐381)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
+*   [gowebly/gowebly (⭐517)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
 
-## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-console-line (⭐2)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
-
-## [24. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [23. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Chrome Extensions:
 
@@ -1247,7 +1234,7 @@
 
 
 
-## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [24. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -1257,33 +1244,64 @@
 
 *   [Airbrake](https://airbrake.io) - Error monitoring in production.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐1.6k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐2k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐59)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐66)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐40)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐48)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility / Diagnostics
 
-*   [JMarkin/gentags.lua (⭐11)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐13)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐25)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐32)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
-## [27. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [26. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Image Generator
 
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
+
+## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Cloud Computing
+
+*   [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)
+
+### Data Science
+
+*   [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card\_file\_box: archived)
+
+### Machine Learning
+
+*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
+
+### Mathematics
+
+*   [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
+*   [A Quick Steep Climb Up Linear Algebra](http://stephendavies.org/quick.pdf) - Stephen Davies (PDF)
+
+### Object Oriented Programming
+
+*   [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
+
+### Professional Development
+
+*   [How to Stand Out as a Software Engineer (⭐4)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+
+### Quantum Computing
+
+*   [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
 
 ---
 

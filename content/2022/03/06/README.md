@@ -16,7 +16,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Everplast (⭐61)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐65)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Distribution
 
-*   [love-packager (⭐11)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+*   [love-packager (⭐13)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -96,11 +96,11 @@
 
 ### Projects
 
-*   [Realworld example (⭐816)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐75k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐77k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐92)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐101)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ---
 

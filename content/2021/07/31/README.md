@@ -34,6 +34,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ### Transportation
@@ -68,13 +70,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.1k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
+*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.2k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [The Art of Hacking Series (⭐15k)](https://github.com/The-Art-of-Hacking/h4cker)
+- Repository: [The Art of Hacking Series (⭐16k)](https://github.com/The-Art-of-Hacking/h4cker)
 
   Description: List of resources  includes thousands of cybersecurity-related references and resources
 
@@ -87,7 +89,7 @@
   Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 
 
-- Repository: [Vulhub (⭐15k)](https://github.com/vulhub/vulhub)
+- Repository: [Vulhub (⭐16k)](https://github.com/vulhub/vulhub)
 
   Description: Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -97,11 +99,11 @@
 
 ### Shaders
 
-*   [ngrading (⭐31)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
+*   [ngrading (⭐34)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 
 ### UI
 
-*   [NLay (⭐31)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+*   [NLay (⭐34)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -111,7 +113,7 @@
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
-### Public Data Resources / Climate
+### Public Data Resources / Energy and Natural Resources
 
 *   [NREL Solar Radiation](https://nsrdb.nrel.gov/) - The National Solar Radiation Database (NSRDB) is a serially complete collection of hourly and half-hourly values of meteorological data and the three most common measurements of solar radiation: global horizontal, direct normal and diffuse horizontal irradiance.
 
@@ -121,10 +123,8 @@
 
 ## [7. GoBooks](/content/dariubs/GoBooks/README.md)
 
-### 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216) / Why does this book look so different?
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?
 
-*   Learn how to write idiomatic code in Go and design a Go project
-*   Understand the reasons for the design decisions in Go
 *   Set up a Go development environment for a solo developer or team
 *   Learn how and when to use reflection, unsafe, and cgo
 *   Discover how Go's features allow the language to run efficiently

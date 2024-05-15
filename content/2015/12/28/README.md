@@ -16,7 +16,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ThreatTracker (⭐60)](https://github.com/michael-yip/ThreatTracker) - A Python
+*   [ThreatTracker (⭐62)](https://github.com/michael-yip/ThreatTracker) - A Python
     script to monitor and generate alerts based on IOCs indexed by a set of
     Google Custom Search Engines.
 
@@ -34,32 +34,32 @@
 
 ### Deobfuscation / Other Resources
 
-*   [PackerAttacker (⭐249)](https://github.com/BromiumLabs/PackerAttacker) - A generic
+*   [PackerAttacker (⭐261)](https://github.com/BromiumLabs/PackerAttacker) - A generic
     hidden code extractor for Windows malware.
-*   [VirtualDeobfuscator (⭐96)](https://github.com/jnraber/VirtualDeobfuscator) -
+*   [VirtualDeobfuscator (⭐123)](https://github.com/jnraber/VirtualDeobfuscator) -
     Reverse engineering tool for virtualization wrappers.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [angr (⭐6.2k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
+*   [angr (⭐7.2k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
     framework developed at UCSB's Seclab.
-*   [BARF (⭐1.3k)](https://github.com/programa-stic/barf-project) - Multiplatform, open
+*   [BARF (⭐1.4k)](https://github.com/programa-stic/barf-project) - Multiplatform, open
     source Binary Analysis and Reverse engineering Framework.
-*   [binnavi (⭐2.8k)](https://github.com/google/binnavi) - Binary analysis IDE for
+*   [binnavi (⭐2.9k)](https://github.com/google/binnavi) - Binary analysis IDE for
     reverse engineering based on graph visualization.
-*   [Capstone (⭐6k)](https://github.com/aquynh/capstone) - Disassembly framework for
+*   [Capstone (⭐7.1k)](https://github.com/aquynh/capstone) - Disassembly framework for
     binary analysis and reversing, with support for many architectures and
     bindings in several languages.
-*   [GEF (⭐5.1k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
+*   [GEF (⭐6.5k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
     and reverse engineers.
-*   [PEDA (⭐5.2k)](https://github.com/longld/peda) - Python Exploit Development
+*   [PEDA (⭐5.7k)](https://github.com/longld/peda) - Python Exploit Development
     Assistance for GDB, an enhanced display with added commands.
-*   [SMRT (⭐61)](https://github.com/pidydx/SMRT) - Sublime Malware Research Tool, a
+*   [SMRT (⭐64)](https://github.com/pidydx/SMRT) - Sublime Malware Research Tool, a
     plugin for Sublime 3 to aid with malware analyis.
 
 ### Network / Other Resources
 
-*   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
+*   [BroYara (⭐31)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

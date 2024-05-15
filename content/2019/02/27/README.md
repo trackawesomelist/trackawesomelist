@@ -166,15 +166,15 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐728)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐743)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐526)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐529)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐351)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [7. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -283,12 +283,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.8k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.9k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

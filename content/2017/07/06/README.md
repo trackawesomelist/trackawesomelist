@@ -232,9 +232,9 @@
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Books / Components
+### Books / Testing
 
-*   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
+*   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
 
 ## [8. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
@@ -273,7 +273,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐796)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐799)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -311,13 +311,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐541)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐109)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.4k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐559)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐110)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.5k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐194)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐195)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.6k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

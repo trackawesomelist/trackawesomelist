@@ -19,7 +19,7 @@
 
 ### Libraries / Kotlin
 
-*   [kmongo (⭐794)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐785)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Gaming
 
-*   [Learn Gamedev (⭐2.3k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Learn Gamedev (⭐2.4k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Form Components / Select
 
-*   [react-select-search (⭐662)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
+*   [react-select-search (⭐670)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [ManjaroWSL2 (⭐188)](https://github.com/sileshn/ManjaroWSL2) - Manjaro as a WSL2 distro based on wsldl. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [ManjaroWSL2 (⭐221)](https://github.com/sileshn/ManjaroWSL2) - Manjaro as a WSL2 distro based on wsldl. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

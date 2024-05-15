@@ -34,6 +34,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
@@ -50,7 +52,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐767)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
+*   [OnTrack (⭐778)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -66,7 +68,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐536)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐563)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -88,11 +90,11 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐716)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐725)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 
-*   [Portable UTF-8 (⭐495)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable UTF-8 (⭐500)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -110,7 +112,7 @@
 
 ### Optimization / Others
 
-*   [scikit-opt (⭐4.5k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ## [11. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -124,7 +126,7 @@
 
 ### Libraries / Visualization
 
-*   [3Dmol.js (⭐601)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
+*   [3Dmol.js (⭐741)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 
 ## [13. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

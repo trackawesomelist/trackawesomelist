@@ -6,6 +6,22 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [May 15, 2024](/content/2024/05/15/README.md)
+
+### Job boards
+
+*   [CyberJobHunt.in](https://cyberjobhunt.in/) - Explore Cyber Security Jobs in top Companies and Startups.
+*   [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+*   [Freel](https://freel.ca) Freelancers job board in Canada
+
+### Job boards aggregators
+
+*   [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
+
+### Companies with "remote DNA"
+
+*   [Prosopo](https://prosopo.io/) - Bot protection & web security company. Fully remote team based in UK. Typescript, Rust, Open Source.
+
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Job boards
@@ -775,7 +791,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐900)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Apr 30, 2019](/content/2019/04/30/README.md)
 
@@ -823,7 +839,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐6.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐6.9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -1195,7 +1211,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐850)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐863)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13, 2017](/content/2017/03/13/README.md)
 
@@ -1236,7 +1252,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Interviewing
 
-*   [awesome-interviews (⭐66k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐68k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -1372,7 +1388,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Interviewing
 
-*   [andreis/interview (⭐17k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+*   [andreis/interview (⭐18k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 
 ## [Mar 27, 2016](/content/2016/03/27/README.md)
 

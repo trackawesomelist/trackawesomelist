@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2019
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### React Testing
 
-*   [react-testing-library (⭐18k)](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
+*   [react-testing-library (⭐19k)](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 
 ## [4. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Shodan Search Queries (⭐4.7k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
+*   [Awesome Shodan Search Queries (⭐5.1k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -89,66 +89,56 @@
 ### Containers
 
 *   [robin-hood-hashing (⭐1.5k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐1.1k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐1.2k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
-*   [GLM (⭐8.5k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐8.7k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Decorators / Components
-
-*   [segal-decorators (⭐52)](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
-
-### Pipes / Components
-
-*   [ngx-pipes (⭐1.6k)](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
-
-## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Wealth
 
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 
-## [14. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tutorials
 
 *   [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐813)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐812)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.5k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
-## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [15. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐5.1k)](https://github.com/xianyi/OpenBLAS))
-*   [BLIS (⭐1.5k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
+    (C and Assembly, BSD, [GitHub (⭐5.8k)](https://github.com/OpenMathLib/OpenBLAS))
+*   [BLIS (⭐2k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
 ### Finite Elements
 
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-    (C++, LGPL 2.1, [GitHub (⭐1.2k)](https://github.com/idaholab/moose))
+    (C++, LGPL 2.1, [GitHub (⭐1.5k)](https://github.com/idaholab/moose))
 
-## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Chinese
 
 *   [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 
-## [18. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐753)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+*   [shards-react (⭐755)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 
 ### Inspect / Lazy Load
 

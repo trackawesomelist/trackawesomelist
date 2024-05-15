@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Scala/Java
 
-*   [scala-polars for Scala and Java (⭐40)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐57)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -37,11 +37,11 @@
 *   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
     *   [GitHub repository :octocat: (⭐2.2k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
-*   [OSSDC SIM (⭐75)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐75)](https://github.com/OSSDC/OSSDC-SIM)
+*   [OSSDC SIM (⭐76)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository :octocat: (⭐76)](https://github.com/OSSDC/OSSDC-SIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository :octocat: (⭐413)](https://github.com/tier4/AWSIM)
+    *   [GitHub repository :octocat: (⭐433)](https://github.com/tier4/AWSIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ### Related awesome / Object detection and object tracking
@@ -50,24 +50,16 @@
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-plugin-gitlab-flow (⭐6)](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
-
-### Framework-agnostic Plugins / Bundling
-
-*   [vite-plugin-clean (⭐12)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
-
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-find-image-duplicates (⭐4)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
-*   [@froxz/vite-plugin-s3 (⭐20)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [@froxz/vite-plugin-s3 (⭐22)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Presentations
 
-*   [slides (⭐8k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
+*   [slides (⭐9.1k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 ## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -102,17 +94,17 @@
 
 ### Code Runner / Diagnostics
 
-*   [MarcHamamji/runner.nvim (⭐40)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
+*   [MarcHamamji/runner.nvim (⭐45)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
 ### Game / Diagnostics
 
-*   [Eandrju/cellular-automaton.nvim (⭐1.7k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
+*   [Eandrju/cellular-automaton.nvim (⭐1.8k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [Kernex (⭐55)](https://github.com/ASEM000/kernex) - Differentiable stencil decorators in JAX. <img src="https://img.shields.io/github/stars/ASEM000/kernex?style=social" align="center">
+*   [Kernex](https://github.com/ASEM000/kernex) - Differentiable stencil decorators in JAX. <img src="https://img.shields.io/github/stars/ASEM000/kernex?style=social" align="center">
 
 ---
 

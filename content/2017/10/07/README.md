@@ -26,11 +26,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-swal (⭐187)](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs. (Compatible with SSR)
+*   [vue-swal (⭐189)](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs. (Compatible with SSR)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-stroll (⭐155)](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
+*   [vue-stroll (⭐156)](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Debug
 
-*   [fff (⭐692)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐727)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
@@ -73,12 +73,12 @@
 
 ### Application Templates
 
-*   [Serene (⭐2.5k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
+*   [Serene (⭐2.6k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
 
 ### Assets
 
 *   [NodeAssets (⭐23)](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .NET that has live CSS updates using SignalR and can optionally leverage Node.js compilers
-*   [SquishIt (⭐460)](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some CSS and JavaScript
+*   [SquishIt (⭐459)](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some CSS and JavaScript
 
 ### Build Automation
 
@@ -92,7 +92,7 @@
 
 ### CLI
 
-*   [EntryPoint (⭐138)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .NET Core & .NET Framework 4.5+.
+*   [EntryPoint (⭐137)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .NET Core & .NET Framework 4.5+.
 
 ### Compilers, Transpilers and Languages
 
@@ -105,35 +105,34 @@
 ### Database
 
 *   [RavenDB (⭐3.4k)](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
-*   [Marten (⭐2.6k)](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
+*   [Marten (⭐2.7k)](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
 
 ### Database Drivers
 
-*   [Npgsql (⭐3.1k)](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
+*   [Npgsql (⭐3.2k)](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
 *   [MongoDB (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# driver
 *   [ServiceStack Redis (⭐2.3k)](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis client
-*   [StackExchange Redis (⭐5.7k)](https://github.com/StackExchange/StackExchange.Redis) - General purpose Redis client from StackExchange
-*   [Cassandra (⭐620)](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
+*   [StackExchange Redis (⭐5.8k)](https://github.com/StackExchange/StackExchange.Redis) - General purpose Redis client from StackExchange
+*   [Cassandra (⭐624)](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
 *   [Couchbase (⭐272)](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 
 ### Datetime
 
-*   [DateTimeExtensions (⭐566)](https://github.com/joaomatossilva/DateTimeExtensions) - Common Date Time operations on the form of extensions to `System.DateTime`, including holidays and working days calculations on several culture locales.
-*   [Exceptionless.DateTimeExtensions (⭐227)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various `DateTime`, `DateTimeOffset`, `TimeSpan` extension methods.
+*   [DateTimeExtensions (⭐645)](https://github.com/joaomatossilva/DateTimeExtensions) - Common Date Time operations on the form of extensions to `System.DateTime`, including holidays and working days calculations on several culture locales.
+*   [Exceptionless.DateTimeExtensions (⭐231)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various `DateTime`, `DateTimeOffset`, `TimeSpan` extension methods.
 
 ### Deployment
 
-*   [Unfold (⭐134)](https://github.com/thomasvm/unfold) - PowerShell-based deployment solution for .NET web applications
+*   [Unfold (⭐137)](https://github.com/thomasvm/unfold) - PowerShell-based deployment solution for .NET web applications
 *   [Octo Pack (⭐183)](https://github.com/OctopusDeploy/OctoPack) - Used to build NuGet packages of your application for deployment using tools such as Octopus Deploy
 
 ### Distributed Computing
 
 *   [Akka.net (⭐4.6k)](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
-*   [Zebus (⭐295)](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
+*   [Zebus (⭐299)](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 
 ### E-Commerce and Payments
 
-*   [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official PayPal Merchant SDK for .NET
 *   [Stripe.Net (⭐1.3k)](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for <https://stripe.com/>
 *   [Virto Commerce (⭐1.2k)](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. <https://virtocommerce.com>
 
@@ -143,7 +142,7 @@
 
 ### Event aggregator and messenger
 
-*   [Mediator.Net (⭐353)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
+*   [Mediator.Net (⭐364)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
 
 ### Game
 
@@ -153,25 +152,25 @@
 ### Git Tools
 
 *   [Bonobo Git Server (⭐1.8k)](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your Git repositories. <https://bonobogitserver.com/>
-*   [GitVersion (⭐2.7k)](https://github.com/GitTools/GitVersion) - Generate a Semantic Version Number based on the state of your Git repository
-*   [LibGit2Sharp (⭐3k)](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
+*   [GitVersion (⭐2.8k)](https://github.com/GitTools/GitVersion) - Generate a Semantic Version Number based on the state of your Git repository
+*   [LibGit2Sharp (⭐3.1k)](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
 
 ### GUI
 
-*   [MahApps.Metro (⭐9k)](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
-*   [Eto.Forms (⭐3.4k)](https://github.com/picoe/Eto) - Cross-platform GUI framework for desktop and mobile applications in .NET and Mono
+*   [MahApps.Metro (⭐9.1k)](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
+*   [Eto.Forms (⭐3.5k)](https://github.com/picoe/Eto) - Cross-platform GUI framework for desktop and mobile applications in .NET and Mono
 *   [MaterialSkin (⭐2.8k)](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
 
 ### HTML and CSS
 
-*   [dotless (⭐695)](https://github.com/dotless/dotless) - .NET port of the Ruby Less CSS lib <http://www.dotlesscss.org>
-*   [ExCSS (⭐309)](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
+*   [dotless (⭐694)](https://github.com/dotless/dotless) - .NET port of the Ruby Less CSS lib <http://www.dotlesscss.org>
+*   [ExCSS (⭐320)](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
 
 ### HTTP
 
-*   [Http.fs (⭐317)](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
+*   [Http.fs (⭐320)](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 *   [RestSharp (⭐9.4k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
-*   [EasyHttp (⭐967)](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
+*   [EasyHttp (⭐971)](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 
 ### IDE
 
@@ -179,12 +178,12 @@
 
 ### Install tools
 
-*   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Squirrel (⭐7.2k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
+*   [Chocolatey (⭐9.9k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 
-*   [LegacyWrapper (⭐76)](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
+*   [LegacyWrapper (⭐79)](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 
 ### IoC
 
@@ -196,13 +195,13 @@
 
 ### Logging
 
-*   [NLog (⭐6.1k)](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight logging
-*   [Logazmic (⭐56)](https://github.com/ihtfw/Logazmic) - Open source NLog viewer for Windows
+*   [NLog (⭐6.2k)](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight logging
+*   [Logazmic (⭐58)](https://github.com/ihtfw/Logazmic) - Open source NLog viewer for Windows
 
 ### Mail
 
 *   [FluentEmail (⭐2.9k)](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
-*   [PreMailer.Net (⭐636)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
+*   [PreMailer.Net (⭐641)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 
 ### Metrics
 
@@ -211,18 +210,18 @@
 ### Misc
 
 *   [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
-*   [FlatMapper (⭐89)](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a LINQ-compatible way.
-*   [ScriptCS (⭐2.4k)](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
+*   [FlatMapper (⭐91)](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a LINQ-compatible way.
+*   [ScriptCS (⭐2.5k)](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 
 ### Object to object mapping
 
-*   [TinyMapper (⭐683)](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .NET.
-*   [ExpressMapper (⭐305)](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
+*   [TinyMapper (⭐689)](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .NET.
+*   [ExpressMapper (⭐306)](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
 
 ### ORM
 
-*   [Dapper.FastCRUD (⭐479)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
-*   [Insight.Database (⭐833)](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
+*   [Dapper.FastCRUD (⭐486)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
+*   [Insight.Database (⭐847)](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 
 ### Package Management
 
@@ -238,8 +237,8 @@
 
 ### Search
 
-*   [PlainElastic.Net (⭐159)](https://github.com/Yegoroff/PlainElastic.Net) - Plain .NET client for ElasticSearch
-*   [SolrNet (⭐921)](https://github.com/SolrNet/SolrNet) - Solr client for .NET
+*   [PlainElastic.Net (⭐160)](https://github.com/Yegoroff/PlainElastic.Net) - Plain .NET client for ElasticSearch
+*   [SolrNet (⭐932)](https://github.com/SolrNet/SolrNet) - Solr client for .NET
 
 ### Serialization
 
@@ -247,7 +246,7 @@
 
 ### State machines
 
-*   [Automatonymous (⭐726)](https://github.com/MassTransit/Automatonymous) - A state machine library for .NET - allows you to write fluent style state machines
+*   [Automatonymous (⭐732)](https://github.com/MassTransit/Automatonymous) - A state machine library for .NET - allows you to write fluent style state machines
 
 ### Static Site Generators
 
@@ -255,7 +254,7 @@
 
 ### Testing
 
-*   [NUnit (⭐2.4k)](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
+*   [NUnit (⭐2.5k)](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 
 ### Tools
 
@@ -263,7 +262,7 @@
 
 ### WebSocket
 
-*   [NetGain (⭐928)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
+*   [NetGain (⭐931)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -341,10 +340,10 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [codebro (⭐40)](https://github.com/hugsy/codebro) - Web based code browser using
+*   [codebro (⭐43)](https://github.com/hugsy/codebro) - Web based code browser using
      clang to provide basic code analysis.
-*   [DECAF (Dynamic Executable Code Analysis Framework) (⭐716)](https://github.com/sycurelab/DECAF)
-    \- A binary analysis platform based   on QEMU. DroidScope is now an extension to DECAF.
+*   [DECAF (Dynamic Executable Code Analysis Framework) (⭐791)](https://github.com/sycurelab/DECAF)
+    - A binary analysis platform based   on QEMU. DroidScope is now an extension to DECAF.
 
 ## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

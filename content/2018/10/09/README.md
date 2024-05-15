@@ -92,7 +92,7 @@
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐184)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐188)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -106,9 +106,9 @@
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
-### UI
+### UI / List
 
-*   [Typeahead (⭐711)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
+*   [Typeahead (⭐781)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [bat (⭐46k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bat (⭐47k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [silver searcher (ag) (⭐26k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [16. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
@@ -140,7 +140,7 @@
 
 ### R / Numerical Libraries & Data Structures
 
-*   [sparseEigen (⭐11)](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
+*   [sparseEigen (⭐11)](https://github.com/dppalomar/sparseEigen) - Sparse principal component analysis.
 
 ---
 

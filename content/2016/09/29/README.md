@@ -59,7 +59,7 @@
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐274)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -72,7 +72,7 @@
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐130)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐131)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Malware Collection / Malware Corpora
 
-*   [Ragpicker (⭐82)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
+*   [Ragpicker (⭐90)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
     crawler with pre-analysis and reporting functionalities
 
 ---

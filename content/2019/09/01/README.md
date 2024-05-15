@@ -47,7 +47,7 @@
 
 ### Development Tools
 
-*   [Quantum++ (⭐445)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+*   [Quantum++ (⭐504)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 
 ## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -62,13 +62,13 @@
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
     *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐8.9k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐920)](https://github.com/duereg/js-algorithms)
-    *   [by @mgechev (⭐7.7k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐175k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐190)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐7.4k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐98)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @nzakas (⭐9k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐926)](https://github.com/duereg/js-algorithms)
+    *   [by @mgechev (⭐7.8k)](https://github.com/mgechev/javascript-algorithms)
+    *   [by @trekhleb (⭐183k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐196)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.5k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐106)](https://github.com/zonayedpca/AlgoDS.js)
 
 ---
 

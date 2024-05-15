@@ -126,7 +126,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐339)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐341)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -137,15 +137,15 @@
 ### Rails Application Generators
 
 *   [Bootstrappers (⭐313)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
-*   [Hobo (⭐103)](https://github.com/Hobo/hobo) - The web app builder for Rails.
-*   [orats (⭐669)](https://github.com/nickjj/orats) - Opinionated rails application templates.
+*   [Hobo (⭐102)](https://github.com/Hobo/hobo) - The web app builder for Rails.
+*   [orats (⭐666)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 *   [Raygun (⭐211)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 *   [Suspenders (⭐4k)](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
 
 ### Spreadsheets and Documents
 
-*   [Roo (⭐2.7k)](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+*   [Roo (⭐2.8k)](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 
 ### Third-party APIs
 

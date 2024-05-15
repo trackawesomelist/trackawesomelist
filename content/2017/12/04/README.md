@@ -62,16 +62,16 @@
 ### Frameworks
 
 *   [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. \[LGPL]
-*   [tbox (⭐4.6k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
+*   [tbox (⭐4.7k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 
 ### Concurrency
 
-*   [concurrentqueue (⭐8.6k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
-*   [readerwriterqueue (⭐3.4k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [concurrentqueue (⭐8.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [readerwriterqueue (⭐3.5k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
-*   [Yue (⭐3.2k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
+*   [Yue (⭐3.3k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
 
 ### Graphics
 
@@ -84,11 +84,11 @@
 
 ### Scripting
 
-*   [ctypes.sh (⭐1.9k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
+*   [ctypes.sh (⭐2k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐717)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐724)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

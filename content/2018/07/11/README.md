@@ -34,7 +34,7 @@ Webpage: <https://yoghut.com/>
 
 ### Templates / Preferences
 
-*   [Book (⭐341)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+*   [Book (⭐352)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -64,7 +64,7 @@ Webpage: <https://yoghut.com/>
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐3.1k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐3.2k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ---
 

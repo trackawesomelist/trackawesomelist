@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 01, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐323)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐332)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -43,13 +43,7 @@
 
 *   [Mastering CHIP-8 (⭐214)](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Vue CLI / Community
-
-*   [webpack-to-vite (⭐709)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
-
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -67,7 +61,7 @@
 
 ### URL Shorteners
 
-- API: [GoTiny (⭐18)](https://github.com/robvanbakel/gotiny-api)
+- API: [GoTiny (⭐19)](https://github.com/robvanbakel/gotiny-api)
 
   Description: A lightweight URL shortener, focused on ease-of-use for the developer and end-user
 
@@ -90,13 +84,13 @@
 
 
 
-## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [8. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Obsidian
 
 *   [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
 
-## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Health
 

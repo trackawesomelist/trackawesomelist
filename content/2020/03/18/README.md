@@ -23,7 +23,7 @@
 
 ### FPS
 
-*   [BStone (⭐287)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐295)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Nucleus (⭐354)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐355)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Ask these people anything!
 
-*   [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
+*   [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, blogger.
 
 ---
 

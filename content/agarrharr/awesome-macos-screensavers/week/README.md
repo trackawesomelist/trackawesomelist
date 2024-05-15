@@ -2,7 +2,7 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 3.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 3.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/agarrharr/awesome-macos-screensavers/README.md) / Weekly / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
 
@@ -133,7 +133,7 @@ Free
 
 Free
 
-> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 

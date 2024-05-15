@@ -10,7 +10,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [chronlife (⭐4)](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
+*   [chronlife (⭐5)](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
 
 ---
 

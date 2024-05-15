@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2017
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [sweet-modal-vue (⭐759)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐758)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -49,25 +49,19 @@
 
 *   [RabbitMQ.NET (⭐2k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Video Tutorials / Components
-
-*   [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
-
-## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
 *   [Codem-isoboxer (⭐105)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Products/Technologies / R technologies
 
 *   React Native <http://facebook.github.io/react-native/blog/>
 
-## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Datasets / Realtime
 
@@ -78,13 +72,13 @@
 *   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 *   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 
-## [12. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Apps
 
 *   [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
 
-## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / StreamField
 
@@ -92,7 +86,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐379)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐384)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

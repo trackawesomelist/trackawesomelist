@@ -10,7 +10,7 @@
 
 ### File Upload
 
-*   [attache (⭐204)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
+*   [attache (⭐203)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -26,7 +26,7 @@
 
 ### AI
 
-*   [CoreML-Models (⭐6.1k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐6.2k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### UITableView / Barcode
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,11 +18,11 @@
 
 ### Algorithms and Data structures
 
-*   [nary\_tree (⭐16)](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
+*   [nary\_tree (⭐18)](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐501)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐518)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
@@ -38,11 +38,11 @@
 
 ### Office
 
-*   [elixlsx (⭐258)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐268)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
-*   [clamxir (⭐11)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+*   [clamxir (⭐12)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 
 ### SMS
 
@@ -54,8 +54,8 @@
 
 ### Utilities
 
-*   [ex\_progress (⭐3)](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
-*   [vert.x (⭐14)](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
+*   [ex\_progress (⭐4)](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
+*   [vert.x (⭐15)](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
 
 ### Validations
 
@@ -67,13 +67,7 @@
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Knowledge Management Tools
-
-*   [My Mind (⭐3.2k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
-
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Hiring
 
@@ -83,14 +77,14 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐12k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 

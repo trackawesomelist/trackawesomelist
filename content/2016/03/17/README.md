@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [swift-package-manager (⭐9.5k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+*   [swift-package-manager (⭐9.6k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
 
 ## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Packages / Logging
 
-*   [storyboard (⭐742)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐744)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 ## [11. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 

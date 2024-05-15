@@ -14,15 +14,15 @@
 
 ### Statistics / NLP
 
-*   [weightedcalcs (⭐101)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
+*   [weightedcalcs (⭐104)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ### Distributed Computing / Synthetic Data
 
-*   [PaddlePaddle (⭐21k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
+*   [PaddlePaddle (⭐22k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 
 ### Evaluation / Synthetic Data
 
-*   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -47,11 +47,11 @@
 
 ### UI / UI Helpers
 
-*   [ShowCaseView (⭐1.2k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+*   [ShowCaseView (⭐1.4k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 ### UI / Effect
 
-*   [Liquid Swipe (⭐1.1k)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+*   [Liquid Swipe (⭐1.2k)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐3.1k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3.2k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [9. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -156,13 +156,13 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐96)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [KnockoutJS (⭐97)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
 *   [Dojo Toolkit (⭐83)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐584)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐542)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Vagrant (⭐588)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐547)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 *   [Phalcon (⭐605)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐91)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐325)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.

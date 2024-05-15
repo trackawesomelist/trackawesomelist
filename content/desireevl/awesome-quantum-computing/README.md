@@ -2,7 +2,7 @@
 
 A curated list of awesome quantum computing learning and developing resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/desireevl/awesome-quantum-computing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) · ⭐ 2.1K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/desireevl/awesome-quantum-computing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) · ⭐ 2.4K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/desireevl/awesome-quantum-computing/week/README.md) / [Overview](/content/desireevl/awesome-quantum-computing/readme/README.md) ]
 
@@ -25,7 +25,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Content in Non-English Languages
 
-*   [Quantum Computing in Portuguese (⭐65)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+*   [Quantum Computing in Portuguese (⭐78)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
 ## [Jul 16, 2022](/content/2022/07/16/README.md)
 
@@ -37,7 +37,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Covalent (⭐503)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+*   [Covalent (⭐687)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 
 ## [Jan 16, 2022](/content/2022/01/16/README.md)
 
@@ -218,7 +218,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Paddle Quantum (⭐478)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
+*   [Paddle Quantum (⭐536)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
 
 ## [May 22, 2020](/content/2020/05/22/README.md)
 
@@ -230,13 +230,13 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Tequila (⭐320)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+*   [Tequila (⭐344)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
 ## [May 02, 2020](/content/2020/05/02/README.md)
 
 ### Development Tools
 
-*   [Blueqat (⭐359)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
+*   [Blueqat (⭐366)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 
 ## [Apr 22, 2020](/content/2020/04/22/README.md)
 
@@ -275,7 +275,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [PennyLane (⭐1.9k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+*   [PennyLane (⭐2.1k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 
 ## [Mar 04, 2020](/content/2020/03/04/README.md)
 
@@ -359,7 +359,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Quantum++ (⭐445)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+*   [Quantum++ (⭐504)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 
 ## [Jul 20, 2019](/content/2019/07/20/README.md)
 
@@ -370,8 +370,8 @@ A curated list of awesome quantum computing learning and developing resources.
 ### Development Tools
 
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
-*   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-*   [Qiskit.js (⭐110)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [pyQuil (⭐1.4k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
+*   [Qiskit.js (⭐113)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 
 ## [Jun 14, 2019](/content/2019/06/14/README.md)
 
@@ -409,8 +409,8 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [NISQAI (⭐36)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
-*   [Qurry (⭐23)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
+*   [NISQAI (⭐38)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
+*   [Qurry (⭐24)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 
 ## [Apr 28, 2019](/content/2019/04/28/README.md)
 
@@ -432,7 +432,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Learning
 
-*   [Qiskit Tutorials (⭐2.2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+*   [Qiskit Tutorials (⭐2.3k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 
 ### Community
 
@@ -515,7 +515,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Learning
 
-*   [Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
+*   [Quantum Katas (⭐4.5k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 
 ## [Jul 28, 2018](/content/2018/07/28/README.md)
 
@@ -537,7 +537,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Cirq (⭐3.9k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Cirq (⭐4.1k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 
 ## [Jun 06, 2018](/content/2018/06/06/README.md)
@@ -596,10 +596,6 @@ A curated list of awesome quantum computing learning and developing resources.
 ### Learning
 
 *   [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms.
-
-### MOOCs
-
-*   [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
 
 ### Blogs
 

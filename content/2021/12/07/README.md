@@ -116,7 +116,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One Vue 3 (⭐1.9k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+*   📁 [Admin One Vue 3 (⭐2k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐182)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐194)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
 ## [8. Jstips](/content/loverajoel/jstips/README.md)
 
@@ -153,13 +153,13 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐547)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐582)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [stressberry (⭐302)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐305)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -196,11 +196,11 @@
 
 ### Utilities / Calendars
 
-*   [deadlink (⭐132)](https://github.com/nschloe/deadlink) - Find dead links in files.
+*   [deadlink (⭐150)](https://github.com/nschloe/deadlink) - Find dead links in files.
 
 ### Utilities / System Interaction Utilities
 
-*   [tiptop (⭐1.5k)](https://github.com/nschloe/tiptop) - System monitor.
+*   [tiptop (⭐1.6k)](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Command Line Learning / Internet Speedtest
 

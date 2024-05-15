@@ -37,7 +37,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [IFstruct-parser-vue (⭐90)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
+*   [IFstruct-parser-vue (⭐92)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

@@ -23,11 +23,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐281)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐282)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐264)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -43,7 +43,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐108)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐107)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐909)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐913)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Protocols
 
-*   [FluentFTP (⭐2.9k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐3k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ## [10. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

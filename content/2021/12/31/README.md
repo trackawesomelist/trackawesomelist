@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,8 @@
 
 ### Python / Trading & Backtesting
 
-*   [tda-api (⭐1.2k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-*   [vectorbt (⭐3.6k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+*   [tda-api (⭐1.3k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
+*   [vectorbt (⭐3.8k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Productivity / HTTP Client
 
-*   [papis (⭐1.2k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+*   [papis (⭐1.3k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [deploy-rs (⭐1.1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐1.2k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Concurrency
 
-*   [rotor (⭐312)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐327)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
@@ -89,21 +89,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [Tippy.vue (⭐25)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
+*   [Tippy.vue (⭐27)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
 
 ## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐617)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐649)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
-## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Helpers
-
-*   [@zougt/vite-plugin-theme-preprocessor (⭐158)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
-
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 

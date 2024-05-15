@@ -70,7 +70,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+*   [rasbt/LLMs-from-scratch (⭐15k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

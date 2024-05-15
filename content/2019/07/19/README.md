@@ -10,7 +10,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Gray Hacker Resources (⭐118)](https://github.com/bt3gl/Gray-Hacker-Resources)
+- Repository: [Gray Hacker Resources (⭐132)](https://github.com/bt3gl/Gray-Hacker-Resources)
 
   Description: Useful for CTFs, wargames, pentesting
 
@@ -114,7 +114,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐2.2k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.3k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 

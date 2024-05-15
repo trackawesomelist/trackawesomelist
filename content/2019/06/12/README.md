@@ -104,7 +104,7 @@
 
 ### Network / Other Resources
 
-*   [Malcolm (⭐190)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
+*   [Malcolm (⭐313)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
     deployable network traffic analysis tool suite for full packet capture artifacts
     (PCAP files) and Zeek logs.
 
@@ -125,8 +125,8 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐1.2k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-chrome-extension (⭐133)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐1.3k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-chrome-extension (⭐136)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐56)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐55)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

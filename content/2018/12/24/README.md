@@ -25,7 +25,6 @@
 
 *   [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 *   [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
-*   [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
 
 ### Beginner
 
@@ -37,11 +36,11 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Inject (⭐867)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
+*   [Inject (⭐868)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3.1k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.2k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

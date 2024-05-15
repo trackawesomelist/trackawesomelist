@@ -72,7 +72,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐26)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐27)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

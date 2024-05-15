@@ -102,7 +102,7 @@
 
 ### Third-party APIs
 
-*   [boto3 (⭐8.6k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐8.7k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐36)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐37)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ## [19. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.6k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐575)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐581)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 

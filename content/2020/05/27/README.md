@@ -14,13 +14,13 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐90)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐95)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐73)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐75)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -68,11 +68,11 @@
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐271)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐273)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
-*   [MobilePlayer (⭐3k)](https://github.com/sahin/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
+*   [MobilePlayer (⭐3.1k)](https://github.com/sahin/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.4k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+*   [OGL.js (⭐3.5k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 

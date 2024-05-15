@@ -10,15 +10,15 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐175)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐179)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Listing
 
-*   [alder (⭐214)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [tre (⭐549)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐43)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [alder (⭐219)](https://github.com/aweary/alder) - Minimal `tree` with colors.
+*   [tre (⭐670)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [ll (⭐45)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -88,11 +88,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.2k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.3k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐1k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐1.1k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -106,7 +106,7 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐637)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐659)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

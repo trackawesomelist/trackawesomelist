@@ -10,7 +10,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐110)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐123)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -34,11 +34,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Funexpected Flash Tools (⭐19)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Funexpected Flash Tools (⭐20)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 
 ### Modules / Godot 3.2+
 
-*   [Flash Module (⭐33)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐35)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -74,13 +74,13 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐299)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐306)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-lunar-calendar-pro (⭐79)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-lunar-calendar-pro (⭐81)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 
 ---
 

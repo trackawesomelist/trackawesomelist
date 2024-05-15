@@ -43,7 +43,7 @@
 
 ### Concurrency
 
-*   [transwarp (⭐614)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐616)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [Joy (⭐1.2k)](https://github.com/cisco/joy): joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
+*   [Joy (⭐1.3k)](https://github.com/cisco/joy): joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
 ## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

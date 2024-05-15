@@ -51,21 +51,21 @@
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 *   [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
-*   [awesome-generative-art (⭐1.6k)](https://github.com/kosmos/awesome-generative-art)
+*   [awesome-generative-art (⭐1.7k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐12k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
-*   [cride (⭐48)](https://github.com/j8r/cride) - A light CLI text editor/IDE
+*   [cride (⭐49)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
 ## [9. Tips](/content/git-tips/tips/README.md)
 
@@ -119,7 +119,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Development Tools
 
-*   [Cirq (⭐3.9k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Cirq (⭐4.1k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 
 ---

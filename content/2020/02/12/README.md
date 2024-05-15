@@ -10,19 +10,19 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐361)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐369)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐196)](https://github.com/wyhaya/see) — Static HTTP file server
+*   [wyhaya/see (⭐200)](https://github.com/wyhaya/see) — Static HTTP file server
 
 ### Libraries / Logging
 
-*   [tokio-rs/tracing (⭐4.8k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
+*   [tokio-rs/tracing (⭐5k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐42k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐43k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [2. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -34,10 +34,10 @@
 
 ### Open Source / Other
 
-*   [Pomodoro (⭐279)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
+*   [Pomodoro (⭐307)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
 *   [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
-*   [Sabaki (⭐2.3k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
-*   [Swifty (⭐867)](https://github.com/swiftyapp/swifty) - Password manager.
+*   [Sabaki (⭐2.4k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
+*   [Swifty (⭐880)](https://github.com/swiftyapp/swifty) - Password manager.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -48,13 +48,17 @@
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
+### Deployment / Distribution
+
+*   [AppCenter](https://appcenter.ms) - Continuously build, test, release, and monitor apps for every platform.
+
 ### Gesture
 
-*   [Sensitive (⭐549)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
+*   [Sensitive (⭐551)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
 
 ### Logging
 
-*   [Diagnostics (⭐883)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+*   [Diagnostics (⭐906)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 
 ### JSON
 
@@ -62,17 +66,13 @@
 
 ### Alert & Action Sheet
 
-*   [CFNotify (⭐495)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
-
-### Deployment / Distribution / Collection View Layout
-
-*   [AppCenter](https://appcenter.ms) - Continuously build, test, release, and monitor apps for every platform.
+*   [CFNotify (⭐496)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Coq (⭐270)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐287)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -84,16 +84,16 @@
 
 ### Productivity / Calendars
 
-*   [gcalcli (⭐3.1k)](https://github.com/insanum/gcalcli) - Google calendar client.
-*   [khal (⭐2.3k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
+*   [gcalcli (⭐3.2k)](https://github.com/insanum/gcalcli) - Google calendar client.
+*   [khal (⭐2.5k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Files and Directories / Search
 
-*   [broot (⭐9k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐10k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
-*   [korkut (⭐360)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+*   [korkut (⭐365)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Database
 
-*   [DBreeze (⭐498)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐505)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ---
 

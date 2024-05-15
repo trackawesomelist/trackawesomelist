@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [SharpVk (⭐142)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
+*   [SharpVk (⭐145)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

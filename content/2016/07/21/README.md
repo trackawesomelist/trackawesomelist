@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,38 +24,32 @@
 
 *   [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 webpack (⭐5)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
-
-## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   [Vulkan Quake port based on QuakeSpasm (⭐1.6k)](https://github.com/Novum/vkQuake).
 
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / String
 
 *   [rtrim (⭐0)](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Mobile Applications
 
 *   **Bindings**:
     *   [Cordova plugins (⭐25)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
-*   [fast\_irc.cr (⭐20)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
+*   [fast\_irc.cr (⭐22)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
 
-## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Tutorials
 
@@ -69,7 +63,7 @@
 
 *   [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 

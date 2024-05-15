@@ -16,13 +16,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [BruteShark (⭐2.8k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
+*   [BruteShark (⭐2.9k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐107)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐121)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -50,10 +50,6 @@
 *   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. The free tier provides up to 10 videos, 1 GB of storage, and 10 GB of bandwidth/per month
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### General
-
-*   [30 seconds of Blazor](https://www.30secondsofblazor.net/) - Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React.
 
 ### 2D/3D Rendering engines / Others
 
@@ -85,7 +81,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐293)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐298)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -103,11 +99,11 @@
 
 ### Media
 
-*   [VLC (⭐115)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐128)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐341)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐360)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

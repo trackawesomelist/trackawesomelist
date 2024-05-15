@@ -8,11 +8,11 @@
 
 ## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@hirez\_io](https://twitter.com/hirez_io)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Shai Reznik](https://twitter.com/shai_reznik)
 
@@ -26,7 +26,7 @@
 
 ### Authentication
 
-*   [ReCaptcha (⭐263)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
+*   [ReCaptcha (⭐264)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

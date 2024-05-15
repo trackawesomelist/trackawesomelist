@@ -42,7 +42,7 @@
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
     [Demo](https://picnicss.com/tests),
     [Docs](https://picnicss.com/documentation),
-    [Repo (⭐3.7k)](https://github.com/franciscop/picnic)
+    [Repo (⭐3.8k)](https://github.com/franciscop/picnic)
     \| #SCSS
 *   [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.\
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
@@ -57,7 +57,7 @@
     ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social\&label=Star)
     [Demo](https://bulma.io/expo/),
     [Docs](https://bulma.io/documentation/overview/start/),
-    [Repo (⭐48k)](https://github.com/jgthms/bulma)
+    [Repo (⭐49k)](https://github.com/jgthms/bulma)
     \| #Sass
 *   [**UIkit**](https://getuikit.com) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.\
     ![](https://img.shields.io/github/stars/uikit/uikit.svg?style=social\&label=Star)
@@ -76,7 +76,7 @@
 *   [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.\
     ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social\&label=Star)
     [Demo](https://bafs.github.io/Gutenberg/),
-    [Docs (⭐4.7k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
+    [Docs (⭐4.8k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
     \| #SCSS
 *   [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.\
     ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social\&label=Star)
@@ -94,7 +94,7 @@
     \| #Sass
 *   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
     ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
-    [Repo (⭐5.1k)](https://github.com/csstools/sanitize.css)
+    [Repo (⭐5.2k)](https://github.com/csstools/sanitize.css)
     \| #CSS
 *   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
     ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)

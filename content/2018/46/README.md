@@ -27,7 +27,7 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### On-Site Training / Components
+### On-Site Training / Testing
 
 *   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 
@@ -65,7 +65,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐573)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐621)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐7.1k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐7.3k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -290,7 +290,7 @@
 
 ### JSON Schema Tools
 
-*   [JSON Schema $Ref Parser (⭐878)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
+*   [JSON Schema $Ref Parser (⭐905)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## [27. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
@@ -431,7 +431,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐693)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐700)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
@@ -542,7 +542,7 @@
 
 ### Utility / Barcode
 
-*   [WeakableSelf (⭐77)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
+*   [WeakableSelf (⭐78)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
 ## [46. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -598,7 +598,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Modular Genealogy (⭐200)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
+*   [Modular Genealogy (⭐206)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ---

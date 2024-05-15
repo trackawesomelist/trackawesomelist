@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐2.9k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐3k)](https://github.com/zvtvz/zvt) - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Development / Devops
 
-*   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+*   [ops (⭐1.2k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ## [6. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Packages / Job queues
 
-*   [better-queue (⭐478)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐482)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -98,8 +98,8 @@
 
 ### Community resources
 
-*   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
-*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Brand's materials (⭐92)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+*   [Storybook Deployer (⭐893)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Blog posts
 
@@ -109,15 +109,15 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐294)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐295)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐17)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐18)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 
@@ -161,7 +161,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐435)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐449)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
@@ -218,7 +218,7 @@
 
 ### External Services
 
-*   [music-box (⭐102)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [music-box (⭐105)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 *   [strava-box (⭐39)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
@@ -311,7 +311,7 @@
 
 ### Custom Scrollbar
 
-*   [react-custom-scroll (⭐531)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
+*   [react-custom-scroll (⭐540)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 ### Form Logic / Mouse Events
 

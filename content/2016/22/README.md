@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [Snappy.Sharp (⭐136)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+*   [Snappy.Sharp (⭐139)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## [2. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
@@ -99,20 +99,15 @@
 
 ## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
-### Malware Collection / Malware Corpora
-
-*   [Open Malware Project](http://openmalware.org/) - Sample information and
-    downloads. Formerly Offensive Computing.
-
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [ROPMEMU (⭐269)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
+*   [ROPMEMU (⭐280)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
     and decompile complex code-reuse attacks.
 
 ### Other / Other Resources
 
-*   [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
-*   [Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence)
+*   [Industrial Control System Security (⭐1.5k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+*   [Threat Intelligence (⭐7.3k)](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## [8. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -387,7 +382,7 @@
 
 ### Apps
 
-*   [Dota2 (⭐92)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
+*   [Dota2 (⭐93)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
 
 ## [25. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -442,7 +437,7 @@
 
 ### Command Line
 
-*   [SwiftyTextTable (⭐303)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
+*   [SwiftyTextTable (⭐305)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Embedded Systems
 
@@ -468,7 +463,7 @@
 ### Label / Barcode
 
 *   [ActiveLabel (⭐4.4k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
-*   [CountdownLabel (⭐963)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+*   [CountdownLabel (⭐978)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 *   [GlitchLabel (⭐1k)](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
 *   [KDEDateLabel (⭐114)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 
@@ -562,12 +557,12 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 
 ### Tutorials
 
-*   [Terry Um’s TensorFlow Exercises (⭐613)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+*   [Terry Um’s TensorFlow Exercises (⭐615)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 *   [Installing TensorFlow on Raspberry Pi 3 (⭐2.2k)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 ### Powered by TensorFlow
 
-*   [Magenta (⭐18k)](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
+*   [Magenta (⭐19k)](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 ---
 

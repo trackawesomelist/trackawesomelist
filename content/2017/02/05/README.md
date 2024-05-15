@@ -47,7 +47,7 @@
 
 ### Apps / Media
 
-*   [Wagtail Alt Generator (⭐80)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
+*   [Wagtail Alt Generator (⭐81)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

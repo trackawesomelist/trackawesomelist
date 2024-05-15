@@ -28,7 +28,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Django Cookiecutter Wagtail (⭐62)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+*   [Django Cookiecutter Wagtail (⭐67)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 
 ## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Miscellaneous
 
-*   [react-demo-tab (⭐39)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
+*   [react-demo-tab (⭐41)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 
 ### Miscellaneous / Lazy Load
 
-*   [react-demo-tab-cli (⭐54)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
+*   [react-demo-tab-cli (⭐55)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Front-End Development
 
-*   [Yew (⭐1.4k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+*   [Yew (⭐1.5k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -74,13 +74,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Marked.cc (⭐41)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
+*   [Marked.cc (⭐42)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ## [12. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Others
 
-*   [KTX (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
+*   [KTX (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
 
 ---
 

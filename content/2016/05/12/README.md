@@ -46,11 +46,11 @@
 
 ### Models/Projects
 
-*   [Neural Caption Generator (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
-*   [Neural Caption Generator with Attention (⭐510)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
-*   [Weakly\_detector (⭐363)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
-*   [Dynamic Capacity Networks (⭐8)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
-*   [HMM in TensorFlow (⭐283)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
+*   [Neural Caption Generator (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
+*   [Neural Caption Generator with Attention (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
+*   [Weakly\_detector (⭐361)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
+*   [Dynamic Capacity Networks (⭐9)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
+*   [HMM in TensorFlow (⭐285)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 *   [DeepOSM (⭐1.3k)](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 ### Powered by TensorFlow
@@ -61,11 +61,11 @@
 
 *   [caffe-tensorflow (⭐2.8k)](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 *   [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
-*   [SyntaxNet: Neural Models of Syntax (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+*   [SyntaxNet: Neural Models of Syntax (⭐77k)](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
 ### Papers
 
-*   [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet).
+*   [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet (⭐77k)](https://github.com/tensorflow/models/tree/master/syntaxnet).
 
 ### Official announcements
 
@@ -87,7 +87,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐300)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐303)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

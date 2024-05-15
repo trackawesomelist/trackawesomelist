@@ -60,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [ZamzamKit (⭐268)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐267)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

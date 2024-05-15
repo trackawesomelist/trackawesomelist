@@ -10,13 +10,13 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quant-Finance-With-Python-Code (⭐43)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+*   [Quant-Finance-With-Python-Code (⭐54)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
 ## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### PWA / Checkbox
 
-*   [SvelteKit-Adapter-Versioned-Worker (⭐6)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
+*   [SvelteKit-Adapter-Versioned-Worker (⭐8)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -39,7 +39,7 @@
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐520)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐558)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

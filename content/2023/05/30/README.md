@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐38)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
+*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐44)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 
 ### Resources / Blog posts
 
@@ -20,13 +20,13 @@
 
 ### Standard CLI
 
-*   [readline (⭐62)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+*   [readline (⭐73)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Fonts
 
-*   [framebuf2 (⭐6)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
+*   [framebuf2 (⭐7)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [ebpf-explorer (⭐69)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
+*   [ebpf-explorer (⭐77)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -62,16 +62,16 @@
 
 ### Network / HTTP
 
-*   [zigzap/zap (⭐1.6k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
+*   [zigzap/zap (⭐1.8k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [andrewrk/SDL (⭐56)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
-*   [andrewrk/ffmpeg (⭐97)](https://github.com/andrewrk/ffmpeg) - library only.
-*   [andrewrk/libgroove (⭐284)](https://github.com/andrewrk/libgroove) - streaming audio processing library.
+*   [andrewrk/SDL (⭐57)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+*   [andrewrk/ffmpeg (⭐114)](https://github.com/andrewrk/ffmpeg) - library only.
+*   [andrewrk/libgroove (⭐289)](https://github.com/andrewrk/libgroove) - streaming audio processing library.
 *   [andrewrk/libsoundio (⭐1.8k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
-*   [kassane/libbpf (⭐1)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
-*   [kassane/winpthreads (⭐8)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
+*   [kassane/libbpf (⭐2)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
+*   [kassane/winpthreads (⭐9)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 
 ### C/C++ libraries packaged for Zig / C++
 

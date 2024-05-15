@@ -32,7 +32,7 @@
 
 ### Samples
 
-*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐1k)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐1.1k)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐707)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐722)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)
+*   [Java Concurrency Checklist (⭐1.3k)](https://github.com/code-review-checklists/java-concurrency)
 
 ## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Templates / Preferences
 
-*   [Flutter Samples (⭐2.9k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+*   [Flutter Samples (⭐3k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐113)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐115)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

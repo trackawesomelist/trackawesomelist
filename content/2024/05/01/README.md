@@ -1,18 +1,70 @@
 # Awesome List Updates on May 01, 2024
 
-5 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Parsing
+
+*   [tree-sitter/tree-sitter (⭐17k)](https://github.com/tree-sitter/tree-sitter) - A parser generator tool and an incremental parsing library geared towards programming tools
+
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Cheatsheet / Testing
+
+*   [cypress-harness (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
+*   [swc-angular (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
+*   [swc-angular-plugin (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
+
+### Form Controls / Testing
+
+*   [ngx-emoji-mart (⭐438)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
+*   [ngx-colors (⭐76)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
+*   [ngx-color-picker (⭐442)](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
+*   [angular-colorful (⭐9)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
+*   [ngx-mask (⭐1.1k)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
+*   [maskito (⭐550)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+*   [ngx-numeric-range-form-field (⭐4)](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
+*   [file-input-accessor (⭐29)](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+*   [ngx-formcontrol-errors (⭐0)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
+*   [error-tailor (⭐477)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+
+### Misc Components / Node Based
+
+*   [rx-computed (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
+*   [microwave (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
+
+### RxJS / Node Based
+
+*   [operators (⭐225)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+
+### HTTP / Node Based
+
+*   [convoyr (⭐41)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
+
+### NgRx / Node Based
+
+*   [ngrx-toolkit (⭐76)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
+*   [ngrx-traits (⭐34)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
+*   [ngrx-addons (⭐3)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Code Runner / Diagnostics
+
+*   [speelbarrow/spLauncher.nvim (⭐1)](https://github.com/speelbarrow/spLauncher.nvim) - For launching tasks, I guess.
+
+## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Views
 
@@ -22,70 +74,39 @@
 
 *   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐136) (⭐135)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐806) (⭐805)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐751) (⭐750)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐195) (⭐194)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐876) (⭐875)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐394) (⭐393)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐285) (⭐284)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / API Testing
-
-*   Mocking tools
-    *   [Imposter (⭐342) (⭐341)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.1k) (⭐1.2k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.8k) (⭐5.9k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.4k) (⭐4.5k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4k) (⭐4k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6k) (⭐6.1k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+*   [OpenAPI Explorer (⭐285) (⭐285)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 
 ### Projects / BRE
 
 *   [Drools (⭐5.7k) (⭐5.7k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐182) (⭐181)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐604) (⭐605)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / ETL
 
-*   [Apache NiFi (⭐4.4k) (⭐4.4k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+*   [Apache NiFi (⭐4.4k) (⭐4.5k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
 
 ### Projects / Integration Frameworks
 
-*   [Frank!Framework (⭐111) (⭐110)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+*   [Frank!Framework (⭐111) (⭐111)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
-*   [Eclipse Mosquitto (⭐8.4k) (⭐8.4k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
-*   [Redpanda (⭐8.8k) (⭐8.8k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+*   [Eclipse Mosquitto (⭐8.4k) (⭐8.5k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 
 ### Projects / Workflow engine
 
 *   [Flowable (⭐7.4k) (⭐7.4k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [Temporal (⭐9.9k) (⭐9.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐137)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
+*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐160)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Fonts
 
@@ -110,4 +131,5 @@
 
 ---
 
+- Prev: [May 02, 2024](/content/2024/05/02/README.md)
 - Next: [Apr 30, 2024](/content/2024/04/30/README.md)

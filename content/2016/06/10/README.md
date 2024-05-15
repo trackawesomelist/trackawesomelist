@@ -30,7 +30,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 
 ### Images
 
-*   [cloudex (⭐100)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐101)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -46,7 +46,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.4k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

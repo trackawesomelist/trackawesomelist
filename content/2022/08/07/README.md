@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,7 +42,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Chips-n-Salsa (⭐48)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
+*   [Chips-n-Salsa (⭐49)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
 
 ## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-finder (⭐11)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
+*   [alias-finder (⭐12)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -70,13 +70,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Scene Manager (⭐222)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
+*   [Scene Manager (⭐246)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [NvChad/nvim-colorizer.lua (⭐608)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
+*   [NvChad/nvim-colorizer.lua (⭐661)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
 
 ## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -104,37 +104,31 @@
 
 *   [CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists).
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / React
-
-*   [vite-react-ts-ghactions-template (⭐46)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
-
-## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
 *   [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
 
-## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### CMS / React
 
 *   [Apito](https://apito.io/) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 
-## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 
 *   [Apito](https://apito.io) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 
-## [14. Awesome Go](/content/avelino/awesome-go/README.md)
+## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Generators
 
-*   [copygen (⭐316)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
+*   [copygen (⭐332)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 

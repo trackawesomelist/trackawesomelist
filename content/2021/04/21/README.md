@@ -28,7 +28,7 @@
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐530)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐618)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐387)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐415)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### Golang / Data Visualization
 

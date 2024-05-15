@@ -32,13 +32,15 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [driftctl (⭐2.4k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
+*   [driftctl (⭐2.4k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -77,7 +79,7 @@
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Deployment / Distribution / Collection View Layout
+### Deployment / Distribution
 
 *   [Runway](https://runway.team) - Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration.
 
@@ -87,36 +89,36 @@
 
 *   [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
     (C, *nonfree software*)
-*   [SeismicMesh (⭐93)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
+*   [SeismicMesh (⭐113)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
     (Python and C++, GPL 3, GitHub)
 
 ### Meshing / Quadrilateral and hexahedral meshing
 
 *   [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
-    (C++, BSD, [GitHub (⭐533)](https://github.com/hjwdzh/QuadriFlow))
+    (C++, BSD, [GitHub (⭐593)](https://github.com/hjwdzh/QuadriFlow))
 
 ### Meshing / Mesh tools
 
-*   [meshio (⭐1.5k)](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion.
+*   [meshio (⭐1.8k)](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion.
     (Python, MIT, GitHub)
 *   [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
     (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
 *   [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
-    (C++, MIT with Employer Disclaimer, [GitHub (⭐952)](https://github.com/pmp-library/pmp-library/))
+    (C++, MIT with Employer Disclaimer, [GitHub (⭐1.2k)](https://github.com/pmp-library/pmp-library/))
 *   [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
-    (C, LGPL 3, [GitHub (⭐285)](https://github.com/MmgTools/mmg))
+    (C, LGPL 3, [GitHub (⭐332)](https://github.com/MmgTools/mmg))
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐124)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐125)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐124)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐139)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

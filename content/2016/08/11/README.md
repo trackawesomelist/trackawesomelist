@@ -35,7 +35,7 @@
 
 ### Pagination / Barcode
 
-*   [PageController (⭐409)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐408)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [4. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 

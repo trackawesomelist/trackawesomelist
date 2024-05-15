@@ -35,13 +35,13 @@
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.2k)](https://github.com/owncloud/core), [Clients (⭐8.2k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.3k)](https://github.com/owncloud/core), [Clients (⭐8.3k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
-*   [clicr (⭐30)](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
+*   [clicr (⭐29)](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
 
 ---
 

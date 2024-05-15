@@ -43,27 +43,27 @@
 
 ### Geometry and Topology / Topology
 
-*   [Topology Topics](http://mathonline.wikidot.com/topology)
+*   📝 [Topology Topics](http://mathonline.wikidot.com/topology)
 
 ### Analysis / Complex Analysis
 
-*   [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
+*   📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐157)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐161)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐629)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐635)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐176)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐179)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -98,15 +98,15 @@
 *   [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.\
     ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social\&label=Star)
     [Docs](https://andybrewer.github.io/mvp/#docs),
-    [Repo (⭐4.7k)](https://github.com/andybrewer/mvp/)
+    [Repo (⭐4.9k)](https://github.com/andybrewer/mvp/)
     \| #CSS
 
 ### Specialized
 
 *   [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.\
     ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social\&label=Star)
-    [Demo (⭐1.3k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-    [Docs (⭐1.3k)](https://github.com/vinibiavatti1/TuiCss/wiki)
+    [Demo (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+    [Docs (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki)
     \| #SCSS
 
 ### Stalled Development
@@ -115,14 +115,14 @@
     ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social\&label=Star)
     [Demo](https://tachyons.io/gallery/),
     [Docs](https://tachyons.io/docs/),
-    [Repo (⭐11k)](https://github.com/tachyons-css/tachyons/)
+    [Repo (⭐12k)](https://github.com/tachyons-css/tachyons/)
     \| #CSS
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Video Surveillance
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐551)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐579)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

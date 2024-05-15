@@ -42,7 +42,7 @@
 
 ### Compression
 
-*   [Crystar (⭐39)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
+*   [Crystar (⭐38)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐18)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
 *   [zstd.cr (⭐39)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐22k)](https://github.com/facebook/zstd) compression library
 
@@ -109,11 +109,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐230)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐231)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐294)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐296)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

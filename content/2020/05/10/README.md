@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐63)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
+*   [Kanbana (⭐67)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Miscellaneous
 
-*   [react-searchbox-awesome (⭐29)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+*   [react-searchbox-awesome (⭐30)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

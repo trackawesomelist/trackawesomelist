@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Algorithms and data structures
 
-*   [ziglibs/s2s (⭐109)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+*   [ziglibs/s2s (⭐114)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 
 ### Network / HTTP
 
@@ -24,13 +24,13 @@
 
 ### Web / Messaging
 
-*   [batiati/mustache-zig (⭐89)](https://github.com/batiati/mustache-zig) - Mustache implementation.
+*   [batiati/mustache-zig (⭐96)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Oh-My-Zsh
 
-*   [One Key Linux Setup (⭐15)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
+*   [One Key Linux Setup (⭐17)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
 
 ## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -70,9 +70,9 @@
 ### Games / Apache License
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
-*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐83)](https://github.com/AdaCore/gtkada) Button Mania game.
-*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐25)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐26)](https://github.com/pmderodat/ada-toml) for saving state.
-*   [bingada (⭐6)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐83)](https://github.com/AdaCore/gtkada).
+*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐84)](https://github.com/AdaCore/gtkada) Button Mania game.
+*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐24)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) for saving state.
+*   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
 
 ### Components / Apache License
 
@@ -81,18 +81,18 @@
 ### Graphical User Interface / Apache License
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
-*   [gtkada (⭐83)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+*   [gtkada (⭐84)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 ### Compression / Apache License
 
-*   [zip-ada (⭐19)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
-*   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐19)](https://github.com/zertovitch/zip-ada)).
+*   [zip-ada (⭐21)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+*   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐21)](https://github.com/zertovitch/zip-ada)).
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [protobuf-ada (⭐16)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐26)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐5)](https://github.com/godunko/matreshka).
-*   [ada-toml (⭐26)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+*   [protobuf-ada (⭐17)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+*   [protobuf (⭐29)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐6)](https://github.com/godunko/matreshka).
+*   [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License
 
@@ -100,7 +100,7 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [asfml (⭐25)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+*   [asfml (⭐24)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 ### Utilities / Apache License
 
@@ -108,11 +108,11 @@
 
 ### Office / Apache License
 
-*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐83)](https://github.com/AdaCore/gtkada)) file manager for Linux.
+*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
 ### Simulation / Apache License
 
-*   [eagle-lander (⭐27)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐83)](https://github.com/AdaCore/gtkada)/Cairo).
+*   [eagle-lander (⭐28)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)/Cairo).
 
 ## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -234,17 +234,7 @@
 *   [TeXblog](https://texblog.net) - Blog about LaTeX and everything related.
 *   [TeX Talk](https://tex-talk.net) - Blog for the TeX Stack Exchange site with news and interviews.
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-remain-exports (⭐3)](https://github.com/coconilu/vite-plugin-remain-exports) - Remaining exports from the entry file that imported by html.
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-file-mock (⭐7)](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
-
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Jobs
 

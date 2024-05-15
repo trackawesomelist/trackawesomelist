@@ -2,7 +2,7 @@
 
 My Awesome list of productivity tools and products
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ProductivityDirectory/awesome-productivity-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ProductivityDirectory/awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools) · ⭐ 27 · 🏷️ Productivity Tools
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ProductivityDirectory/awesome-productivity-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ProductivityDirectory/awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools) · ⭐ 44 · 🏷️ Productivity Tools
 
 [ [Daily](/content/ProductivityDirectory/awesome-productivity-tools/README.md) / [Weekly](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ### related links
 
-[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory)
+[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory) - [Productivity Newsletter](https://newsletter.productivity.directory)
 
 ## Contents
 

@@ -10,19 +10,19 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐156)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐172)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-webcache (⭐7)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+*   [vue-router-webcache (⭐6)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Distribution
 
-*   [love-fuser (⭐15)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
+*   [love-fuser (⭐17)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
 
 ## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Maps
 
-*   [goradd/maps (⭐33)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐36)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### SQL Query Builders
 
@@ -75,12 +75,12 @@
 
 ### Microsoft Excel
 
-*   [exl (⭐24)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐28)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Parsers/Encoders/Decoders
 
-*   [encdec (⭐9)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
-*   [go-fasttld (⭐29)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
+*   [encdec (⭐10)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
+*   [go-fasttld (⭐31)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

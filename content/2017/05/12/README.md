@@ -26,7 +26,7 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐6.5k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐6.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -50,7 +50,7 @@
 
 ### IDE
 
-*   [RoslynPad (⭐2.2k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐2.3k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ## [7. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

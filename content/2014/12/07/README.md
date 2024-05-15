@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2014
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,25 +16,15 @@
 
 ### Packages / Command-line utilities
 
-*   [ascii-charts (⭐234)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
+*   [ascii-charts (⭐233)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Shell / Django
-
-*   [Shell 脚本编程30分钟入门 (⭐7.1k)](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-
-### Visual Prolog / Deno
-
-*   [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
-
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### R / General-Purpose Machine Learning
 
 *   [Machine Learning For Hackers (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 
-## [5. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Gobble plugins / Brunch Plugins
 
@@ -52,7 +42,7 @@
 
 *   [Isparta (⭐645)](https://github.com/douglasduteil/isparta)
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Loaders
 

@@ -86,14 +86,10 @@ $ git config --global merge.tool meld
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@victorsavkin](https://twitter.com/victorsavkin)
 *   [@jeffbcross](https://twitter.com/jeffbcross)
-
-### Material Design
-
-*   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -107,7 +103,7 @@ $ git config --global merge.tool meld
 
 ### Utilities
 
-*   [mnemonix (⭐38)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐39)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -135,7 +131,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐778)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 

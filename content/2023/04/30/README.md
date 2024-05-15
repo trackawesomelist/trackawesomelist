@@ -22,8 +22,8 @@
 
 ### Plugins
 
-*   [Sponge (⭐151)](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
-*   [Base16 Fish (⭐21)](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
+*   [Sponge (⭐228)](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
+*   [Base16 Fish (⭐25)](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐904)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐941)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐427)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐446)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐809)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐847)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐350)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐358)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [7. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐804)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐825)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 
@@ -106,8 +106,8 @@
 
 ### Development Tools
 
-*   [NISQAI (⭐36)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
-*   [Qurry (⭐23)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
+*   [NISQAI (⭐38)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
+*   [Qurry (⭐24)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 
 ---
 

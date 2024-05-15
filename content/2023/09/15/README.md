@@ -27,7 +27,7 @@
 
 ### Storage / Database
 
-*   [micropg\_lite (⭐2)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
+*   [micropg\_lite (⭐3)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
 
 ## [4. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐264)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐294)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -57,15 +57,15 @@
 
 ### Applications / Blockchain
 
-*   [wagyu (⭐600)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
+*   [wagyu (⭐604)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐120)](https://github.com/maras-archive/rsnake) — Snake.
+*   [maras-archive/rsnake (⭐127)](https://github.com/maras-archive/rsnake) — Snake.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐6k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐7.7k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -77,19 +77,19 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐519)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐697)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cdn2 (⭐62)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-cdn2 (⭐71)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐283)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐2.2k)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 
 ---
 

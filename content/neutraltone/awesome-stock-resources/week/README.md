@@ -2,7 +2,7 @@
 
 :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) · ⭐ 12K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) · ⭐ 13K · 🏷️ Media
 
 [ [Daily](/content/neutraltone/awesome-stock-resources/README.md) / Weekly / [Overview](/content/neutraltone/awesome-stock-resources/readme/README.md) ]
 
@@ -10,7 +10,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐6.9k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.1k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 *   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
@@ -45,7 +45,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐4.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐5.4k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -97,7 +97,7 @@
 ### Icons / Icon Fonts
 
 *   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐16k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐18k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
@@ -176,7 +176,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐417)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐455)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ### Fonts / Unspecified License
 
@@ -310,7 +310,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐16k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
@@ -478,7 +478,6 @@
 
 ### Photography / CC0-license
 
-*   [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
 *   [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 
 ## [Jul 04 - Jul 10, 2016](/content/2016/27/README.md)
@@ -626,7 +625,6 @@
 *   [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 *   [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 *   [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
-*   [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 *   [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 *   [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 *   [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
@@ -666,7 +664,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Topcoat Icons (⭐260)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+*   [Topcoat Icons (⭐258)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 
 ### Colors / Icons Packages and Collections
 
@@ -712,7 +710,6 @@
 
 ### Photography / CC0-license
 
-*   [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 *   [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 *   [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 *   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.

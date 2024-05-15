@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 23, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Logging
 
-*   [slog (⭐331)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐353)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
-*   [goagi (⭐9)](https://github.com/staskobzar/goagi) - Go library to build Asterisk PBX agi/fastagi applications.
+*   [goagi (⭐10)](https://github.com/staskobzar/goagi) - Go library to build Asterisk PBX agi/fastagi applications.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -40,18 +40,14 @@
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐312)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐338)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐427)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐649)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
-
-### Treesitter Based / Diagnostics
-
-*   [mfussenegger/nvim-ts-hint-textobject (⭐387)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [edluffy/specs.nvim (⭐438)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐676)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -77,35 +73,29 @@
 
 ### Databases / Data Sources
 
-*   [anime-streaming (⭐60)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
-*   [manga-platform (⭐23)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
+*   [anime-streaming (⭐65)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
+*   [manga-platform (⭐25)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
 
-*   [ojosama-web (⭐43)](https://github.com/jiro4989/ojosama-web) - テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. \[日本語]
+*   [ojosama-web (⭐41)](https://github.com/jiro4989/ojosama-web) - テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. \[日本語]
 
 ### Uncategorized
 
-*   [marine\_button (⭐42)](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. \[日本語]
+*   [marine\_button (⭐45)](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. \[日本語]
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / Vue 3
-
-*   [vue3-vant-mobile (⭐551)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
-
-## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
 *   [Puzzle Cube (⭐8)](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐73)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐80)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

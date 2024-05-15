@@ -31,7 +31,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐445)](https://github.com/scrutinizer-ci/php-analyzer).
+*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐444)](https://github.com/scrutinizer-ci/php-analyzer).
 
 ### Table of Contents / Code Quality
 
@@ -41,13 +41,13 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Exakat (⭐374)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+*   [Exakat (⭐377)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 *   [Mondrian (⭐393)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐552)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐551)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHP Metrics (⭐2.4k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 *   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-*   [PHPStan (⭐12k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+*   [PHPStan (⭐13k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

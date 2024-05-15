@@ -23,12 +23,12 @@
 
 ### Misc
 
-*   [Shielded (⭐233)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
+*   [Shielded (⭐236)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### WebSocket
 
-*   [SignalR (⭐9k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.7k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SignalR (⭐9.1k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+*   [SuperSocket (⭐3.8k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

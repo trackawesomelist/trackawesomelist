@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [cuid (⭐55)](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
+*   [cuid (⭐54)](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
 *   [elistrix (⭐15)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 *   [natural\_sort (⭐14)](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 
@@ -29,7 +29,7 @@
 ### Framework Components
 
 *   [passport (⭐160)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐375)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [phoenix\_html (⭐384)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
 *   [plug\_cloudflare (⭐21)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
@@ -68,7 +68,7 @@
 ### ORM and Datamapping
 
 *   [ecto\_validation\_case (⭐11)](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
-*   [exseed (⭐16)](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
+*   [exseed (⭐17)](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 *   [rethinkdb (⭐498)](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 
 ### Queue
@@ -81,23 +81,23 @@
 
 ### Testing
 
-*   [espec\_phoenix (⭐138)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐883)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [espec\_phoenix (⭐137)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
+*   [mix\_test\_watch (⭐895)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
-*   [cidr (⭐43)](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
+*   [cidr (⭐44)](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
 *   [mimetype\_parser (⭐3)](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
 *   [mt940 (⭐9)](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 
 ### Third Party APIs
 
-*   [docker (⭐24)](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
-*   [mailchimp (⭐47)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
+*   [docker (⭐25)](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
+*   [mailchimp (⭐48)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
 *   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
 *   [redtube (⭐8)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 *   [riemann (⭐57)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-*   [statix (⭐272)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
+*   [statix (⭐274)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations
 
@@ -230,7 +230,7 @@
 
 ### Fonts
 
-*   [FontBlaster (⭐1.1k)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
+*   [FontBlaster (⭐1.2k)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
 
 ## [10. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
@@ -325,44 +325,44 @@
 
 ### Malware Collection / Malware Corpora
 
-*   [Zeus Source Code (⭐1.2k)](https://github.com/Visgean/Zeus) - Source for the Zeus
+*   [Zeus Source Code (⭐1.4k)](https://github.com/Visgean/Zeus) - Source for the Zeus
     trojan leaked in 2011.
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Combine (⭐629)](https://github.com/mlsecproject/combine) - Tool to gather Threat
+*   [Combine (⭐648)](https://github.com/mlsecproject/combine) - Tool to gather Threat
     Intelligence indicators from publicly available sources.
-*   [ioc\_writer (⭐185)](https://github.com/mandiant/ioc_writer) - Python library for
+*   [ioc\_writer (⭐199)](https://github.com/mandiant/ioc_writer) - Python library for
     working with OpenIOC objects, from Mandiant.
-*   [threataggregator (⭐74)](https://github.com/jpsenior/threataggregator) -
+*   [threataggregator (⭐78)](https://github.com/jpsenior/threataggregator) -
     Aggregates security threats from a number of sources, including some of
     those listed below in [other resources](#other-resources).
-*   [TIQ-test (⭐158)](https://github.com/mlsecproject/tiq-test) - Data visualization
+*   [TIQ-test (⭐165)](https://github.com/mlsecproject/tiq-test) - Data visualization
     and statistical analysis of Threat Intelligence feeds.
 
 ### Open Source Threat Intelligence / Other Resources
 
-*   [FireEye IOCs (⭐441)](https://github.com/fireeye/iocs) - Indicators of Compromise
+*   [FireEye IOCs (⭐460)](https://github.com/fireeye/iocs) - Indicators of Compromise
     shared publicly by FireEye.
 
 ### Detection and Classification / Other Resources
 
-*   [MASTIFF (⭐156)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis
+*   [MASTIFF (⭐173)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis
     framework.
 *   [PEV](http://pev.sourceforge.net/) - A multiplatform toolkit to work with PE
     files, providing feature-rich tools for proper analysis of suspicious binaries.
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [DRAKVUF (⭐827)](https://github.com/tklengyel/drakvuf) - Dynamic malware analysis
+*   [DRAKVUF (⭐1k)](https://github.com/tklengyel/drakvuf) - Dynamic malware analysis
     system.
 *   [Hybrid Analysis](https://www.hybrid-analysis.com/) - Online malware
     analysis tool, powered by VxSandbox.
-*   [Malheur (⭐338)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
+*   [Malheur (⭐362)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
     of malware behavior.
 *   [Malwr](https://malwr.com/) - Free analysis with an online Cuckoo Sandbox
     instance.
-*   [Noriben (⭐920)](https://github.com/Rurik/Noriben) - Uses Sysinternals Procmon to
+*   [Noriben (⭐1.1k)](https://github.com/Rurik/Noriben) - Uses Sysinternals Procmon to
     collect information about malware in a sandboxed environment.
 
 ### Deobfuscation / Other Resources
@@ -373,39 +373,39 @@
     & [iheartxor](http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html) -
     Two tools from Alexander Hanel for working with single-byte XOR encoded
     files.
-*   [NoMoreXOR (⭐74)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
+*   [NoMoreXOR (⭐81)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
     XOR key using frequency analysis.
-*   [unxor (⭐129)](https://github.com/tomchop/unxor/) - Guess XOR keys using
+*   [unxor (⭐135)](https://github.com/tomchop/unxor/) - Guess XOR keys using
     known-plaintext attacks.
 *   [XORBruteForcer](http://eternal-todo.com/var/scripts/xorbruteforcer) -
     A Python script for brute forcing single-byte XOR keys.
 *   [XORSearch & XORStrings](https://blog.didierstevens.com/programs/xorsearch/) -
     A couple programs from Didier Stevens for finding XORed data.
-*   [xortool (⭐1.2k)](https://github.com/hellman/xortool) - Guess XOR key length, as
+*   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - Guess XOR key length, as
     well as the key itself.
 
 ### Network / Other Resources
 
 *   [Bro](https://www.bro.org) - Protocol analyzer that operates at incredible
     scale; both file and network protocols.
-*   [chopshop (⭐468)](https://github.com/MITRECND/chopshop) - Protocol analysis and
+*   [chopshop (⭐487)](https://github.com/MITRECND/chopshop) - Protocol analysis and
     decoding framework.
 *   [Fiddler](https://www.telerik.com/fiddler) - Intercepting web proxy designed
     for "web debugging."
-*   [Hale (⭐170)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
-*   [Moloch (⭐5.3k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
+*   [Hale (⭐183)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
+*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
     and database system.
 
 ### Storage and Workflow / Other Resources
 
-*   [Aleph (⭐142)](https://github.com/merces/aleph) - Open Source Malware Analysis
+*   [Aleph (⭐153)](https://github.com/merces/aleph) - Open Source Malware Analysis
     Pipeline System.
 *   [CRITs](https://crits.github.io/) - Collaborative Research Into Threats, a
     malware and threat repository.
 
 ### Miscellaneous / Other Resources
 
-*   [DC3-MWCP (⭐227)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
+*   [DC3-MWCP (⭐280)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
     The Defense Cyber Crime Center's Malware Configuration Parser framework.
 *   [Santoku Linux](https://santoku-linux.com/) - Linux distribution for mobile
     forensics, malware analysis, and security.
@@ -500,7 +500,7 @@
 
 ### Packages / Weird
 
-*   [superheroes (⭐234)](https://github.com/sindresorhus/superheroes) - Get superhero names.
+*   [superheroes (⭐233)](https://github.com/sindresorhus/superheroes) - Get superhero names.
 *   [supervillains (⭐117)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
 ## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)

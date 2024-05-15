@@ -16,7 +16,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [capa (⭐2.4k)](https://github.com/fireeye/capa) - Detects capabilities in executable files.
+*   [capa (⭐3.9k)](https://github.com/fireeye/capa) - Detects capabilities in executable files.
 
 ## [3. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch Geometric Temporal (⭐2.4k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
+*   [PyTorch Geometric Temporal (⭐2.5k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
 
 ### Tools / Misc
 
@@ -68,7 +68,7 @@
 ### Community / Interfaces to other package managers
 
 *   [linux-packaging](https://gitlab.com/ralt/linux-packaging) - build .deb, .rpm or .pkg packages for your application with a single ASDF declaration. Uses fpm under the hood. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-brewer (⭐11)](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
+*   [cl-brewer (⭐12)](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Games
 
-*   [ZXSpectrum (⭐71)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
+*   [ZXSpectrum (⭐77)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
 
 ## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 

@@ -314,7 +314,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐278)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐291)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

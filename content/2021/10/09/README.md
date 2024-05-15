@@ -150,6 +150,8 @@
 
   CORS: Yes
 
+  Call this API: 
+
 
 
 ### Games & Comics

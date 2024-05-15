@@ -10,7 +10,7 @@
 
 ### Transformations
 
-*   [json-transforms (⭐136)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
+*   [json-transforms (⭐137)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 
 ## [2. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -43,12 +43,12 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐295)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐298)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
-*   [benchee (⭐1.3k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
-*   [benchfella (⭐512)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [benchee (⭐1.4k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
+*   [benchfella (⭐513)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 *   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
@@ -65,7 +65,7 @@
 
 ### Queue
 
-*   [cspex (⭐23)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
+*   [cspex (⭐24)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
 ## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 

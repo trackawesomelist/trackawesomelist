@@ -46,16 +46,16 @@
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Manfred Steyer](https://twitter.com/manfredsteyer)
 *   [Juri Strumpflohner](https://twitter.com/juristr)
 
-### Books / Components
+### Books / Testing
 
-*   [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
+*   [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`
 
-### On-Site Training / Components
+### On-Site Training / Testing
 
 *   [Angular.Schule (in Germany)](https://angular.schule/)
 
@@ -63,7 +63,7 @@
 
 ### CLI
 
-*   [replxx (⭐662)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐667)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 

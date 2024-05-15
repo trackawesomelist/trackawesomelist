@@ -20,7 +20,7 @@
 
 ### Miscellaneous
 
-*   [funnel (⭐31)](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+*   [funnel (⭐32)](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 
 ### Screencasts
 

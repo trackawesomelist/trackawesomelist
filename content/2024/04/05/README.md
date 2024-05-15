@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-finance (⭐3)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+*   [polars-finance (⭐10)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -32,17 +32,17 @@
 *   [Forgejo](https://forgejo.org/) - Forgejo is a self-hosted lightweight software forge.
 *   [GitLab](https://about.gitlab.com/) - GitLab a DevOps software package that can develop, secure, and operate software.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
-### Debug
+### Continuous Integration
 
-*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. \[MIT]/\[Apache2]
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Development and Design
 
-*   [Biblioteca (⭐46)](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Biblioteca (⭐47)](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Helpers
 
-*   [GameStateManager (⭐3)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
+*   [GameStateManager (⭐6)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
 ## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -80,13 +80,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [ptdewey/yankbank-nvim (⭐16)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+*   [ptdewey/yankbank-nvim (⭐40)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐17k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐18k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
 ---
 

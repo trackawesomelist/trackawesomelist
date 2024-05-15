@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28 - Oct 04, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,13 +76,7 @@
 *   [Wikipedia books(community books)](https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29)
 *   [JSbooks](http://jsbooks.revolunet.com/) - The best free JavaScript resources
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
-
-## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [3. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -105,13 +99,13 @@
 *   [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
 *   [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
 
-## [5. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [4. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### 2D
 
 *   [Pixel Camera 2D (⭐469)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 
-## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Python
 
@@ -125,7 +119,7 @@
 
 *   [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
 
-## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Frameworks
 
@@ -139,7 +133,7 @@
 
 *   [LoopDrop App (⭐821)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -158,11 +152,11 @@
 ### Erlang VM / Elixir
 
 *   [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-*   [Plug (⭐2.7k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+*   [Plug (⭐2.8k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐7.1k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐7.2k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 *   [Mochiweb (⭐1.9k)](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go / Erlang
@@ -178,12 +172,12 @@
 
 *   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [System (⭐606)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [System (⭐607)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
 *   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐554)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐564)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -212,20 +206,20 @@
 ### Elasticity / Scala
 
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Redisson (⭐22k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+*   [Redisson (⭐23k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
 
-*   [BooPickle (⭐365)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+*   [BooPickle (⭐364)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 *   [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 *   [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 *   [Cheshire (⭐1.5k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 *   [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 *   [Fastjson (⭐26k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 *   [Ffjson (⭐2.9k)](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-*   [Jackson (⭐8.7k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+*   [Jackson (⭐8.8k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐91)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-*   [Kryo (⭐6k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Kryo (⭐6.1k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 *   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
@@ -239,7 +233,7 @@
 *   [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 *   [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
-## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [8. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Syntax
 
@@ -251,14 +245,14 @@
 *   [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 *   [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Competitions
 
 *   [AI Challenge](http://aichallenge.org)
 *   [AI Games](http://theaigames.com)
 
-## [11. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [10. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
@@ -281,7 +275,7 @@
 *   [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
 *   [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
@@ -291,19 +285,19 @@
 
 *   [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
 
-## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐374)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
-## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
 *   [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 
-## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [14. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Articles / Misc
 
@@ -317,7 +311,7 @@
 
 *   [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 
-## [16. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [15. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Fun stuff / Alternative Icons
 
@@ -327,7 +321,7 @@
 
 *   [Hack](http://sourcefoundry.org/hack/)
 
-## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [16. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Application Skeleton
 
@@ -337,29 +331,29 @@
 
 *   [phalcon-cron (⭐78)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
-## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
 *   [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_8)
 
-## [19. Amas](/content/sindresorhus/amas/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐375)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at Mapbox, creator of Leaflet and a bunch of other open source libraries. Building the future of interactive maps.
 
 ### Ask these organizations anything!
 
 *   [Ruby Taiwan (⭐116)](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 
-## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 
-## [21. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [20. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### C++ tools / Misc
 
@@ -373,13 +367,13 @@
 
 *   [Charted (⭐2.8k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 
-## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [Malshare](https://malshare.com) - Large repository of malware actively
     scrapped from malicious sites.
-*   [theZoo (⭐9k)](https://github.com/ytisf/theZoo) - Live malware samples for
+*   [theZoo (⭐11k)](https://github.com/ytisf/theZoo) - Live malware samples for
     analysts.
 *   [ViruSign](http://www.virussign.com/) - Malware database that detected by
     many anti malware programs except ClamAV.
@@ -388,7 +382,7 @@
 
 *   [IntelMQ](https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation) -
     A tool for CERTs for processing incident data using a message queue.
-*   [MISP (⭐4.1k)](https://github.com/MISP/MISP) - Malware Information Sharing
+*   [MISP (⭐5k)](https://github.com/MISP/MISP) - Malware Information Sharing
     Platform curated by [The MISP Project](http://www.misp-project.org/).
 *   [ThreatCrowd](https://www.threatcrowd.org/) - A search engine for threats,
     with graphical visualization.
@@ -399,21 +393,21 @@
     intel aggregator with deduplication featuring 90+ feeds and over 1.2M indicators.
 *   [threatRECON](https://threatrecon.co/) - Search for indicators, up to 1000
     free per month.
-*   [Yara rules (⭐3.3k)](https://github.com/Yara-Rules/rules) - Yara rules repository.
+*   [Yara rules (⭐4k)](https://github.com/Yara-Rules/rules) - Yara rules repository.
 
 ### Detection and Classification / Other Resources
 
-*   [Loki (⭐2.6k)](https://github.com/Neo23x0/Loki) - Host based scanner for IOCs.
-*   [MultiScanner (⭐573)](https://github.com/mitre/multiscanner) - Modular file
+*   [Loki (⭐3.2k)](https://github.com/Neo23x0/Loki) - Host based scanner for IOCs.
+*   [MultiScanner (⭐610)](https://github.com/mitre/multiscanner) - Modular file
     scanning/analysis framework
-*   [Yara rules generator (⭐1.1k)](https://github.com/Neo23x0/yarGen) - Generate
+*   [Yara rules generator (⭐1.5k)](https://github.com/Neo23x0/yarGen) - Generate
     yara rules based on a set of malware samples. Also contains a good
     strings DB to avoid false positives.
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [Cryptam](http://www.cryptam.com/) - Analyze suspicious office documents.
-*   [cuckoo-modified (⭐261)](https://github.com/brad-accuvant/cuckoo-modified) - Modified
+*   [cuckoo-modified (⭐268)](https://github.com/brad-accuvant/cuckoo-modified) - Modified
     version of Cuckoo Sandbox released under the GPL. Not merged upstream due to
     legal concerns by the author.
 *   [IRMA](http://irma.quarkslab.com/) - An asynchronous and customizable
@@ -432,14 +426,14 @@
 
 ### Deobfuscation / Other Resources
 
-*   [de4dot (⭐6k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and
+*   [de4dot (⭐6.7k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and
     unpacker.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [dnSpy (⭐22k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler
+*   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler
     and debugger.
-*   [hackers-grep (⭐160)](https://github.com/codypierce/hackers-grep) - A utility to
+*   [hackers-grep (⭐165)](https://github.com/codypierce/hackers-grep) - A utility to
     search for strings in PE executables including imports, exports, and debug
     symbols.
 *   [strace](https://sourceforge.net/projects/strace/) - Dynamic analysis for
@@ -447,17 +441,17 @@
 
 ### Network / Other Resources
 
-*   [CapTipper (⭐677)](https://github.com/omriher/CapTipper) -  Malicious HTTP traffic
+*   [CapTipper (⭐698)](https://github.com/omriher/CapTipper) -  Malicious HTTP traffic
     explorer.
 
 ### Windows Artifacts / Other Resources
 
-*   [AChoir (⭐162)](https://github.com/OMENScan/AChoir) - A live incident response
+*   [AChoir (⭐176)](https://github.com/OMENScan/AChoir) - A live incident response
     script for gathering Windows artifacts.
 
 ### Miscellaneous / Other Resources
 
-*   [Pafish (⭐2.4k)](https://github.com/a0rtega/pafish) - Paranoid Fish, a demonstration
+*   [Pafish (⭐3.1k)](https://github.com/a0rtega/pafish) - Paranoid Fish, a demonstration
     tool that employs several techniques to detect sandboxes and analysis
     environments in the same way as malware families do.
 
@@ -466,24 +460,24 @@
 *   [/r/csirt\_tools](https://www.reddit.com/r/csirt_tools/) - Subreddit for CSIRT
     tools and resources, with a
     [malware analysis](https://www.reddit.com/r/csirt_tools/search?q=flair%3A%22Malware%20analysis%22\&sort=new\&restrict_sr=on) flair.
-*   [CTFs (⭐7.4k)](https://github.com/apsdehal/awesome-ctf)
-*   ["Hacking" (⭐9.1k)](https://github.com/carpedm20/awesome-hacking)
-*   [Honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots)
-*   [Infosec (⭐4.2k)](https://github.com/onlurking/awesome-infosec)
-*   [PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools)
+*   [CTFs (⭐9.2k)](https://github.com/apsdehal/awesome-ctf)
+*   ["Hacking" (⭐12k)](https://github.com/carpedm20/awesome-hacking)
+*   [Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots)
+*   [Infosec (⭐5k)](https://github.com/onlurking/awesome-infosec)
+*   [PCAP Tools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools)
 
-## [23. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐7.4k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐8.8k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐7.6k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐2.9k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐20k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐7.7k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐9.2k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐21k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
-## [24. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [23. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
@@ -491,7 +485,7 @@
 *   [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
 *   [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
 
-## [25. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Editors / Paid Books
 
@@ -513,7 +507,7 @@
 *   [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 *   [Mockjax (⭐2.1k)](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -521,90 +515,19 @@
 
 ### XML
 
-*   [sweet\_xml (⭐351)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐356)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
 *   [Gitter Channel](https://gitter.im/angular/angular)
-*   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
-*   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
-### Cheatsheet
+### TypeScript / Node Based
 
-*   [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+*   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
 
-### Video Tutorials / Components
-
-*   [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
-
-### On-Site Training / Components
-
-*   [ng-book](https://www.ng-book.com/2/)
-
-### Integrations / Components
-
-*   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐789)](https://github.com/angular/react-native-renderer)
-
-### Universal General Resources / Components
-
-*   [Universal Angular 2 Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
-
-### TypeScript General Resources / Components
-
-*   [TypeScript Repository (GitHub) (⭐95k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 Samples (⭐1k)](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-
-### Dart General Resources / Components
-
-*   [Dart](https://www.dartlang.org/) Official Website for Dart.
-*   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
-*   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
-*   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
-*   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
-
-### Dart Seed Projects / Components
-
-*   [Angular 2 Dart Quickstart (⭐7)](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
-
-### Dart Demo, Samples, and Examples / Components
-
-*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
-*   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
-
-### Traceur General Resources / Components
-
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
-
-### Babel General Resources / Components
-
-*   [Babel](https://babeljs.io/) Official Website for Babel.
-*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
-*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel.
-
-### NativeScript General Resources / Components
-
-*   [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
-
-### NativeScript Seed Projects / Components
-
-*   [sample-Angular2 (⭐49)](https://github.com/NativeScript/sample-Angular2)
-
-### React Native General Resources / Components
-
-*   [React Native](https://facebook.github.io/react-native/) Official Website for React Native
-
-### React Native Projects / Components
-
-*   [Angular 2 React Native Renderer (GitHub) (⭐789)](https://github.com/angular/react-native-renderer)
-
-## [28. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Beginner Books
 
@@ -619,7 +542,7 @@ Very massive, hugely successful and popular text presenting an extensive and com
 
 Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
@@ -631,9 +554,9 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Static Site Generators
 
-*   [Pretzel (⭐600)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐601)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
-## [30. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -666,7 +589,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 *   [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 *   [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 
-## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -674,7 +597,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 *   [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 *   [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 
-## [32. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [31. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -771,13 +694,13 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 *   [Alaska (⭐54)](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
 
-## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashmanager (⭐90)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
-## [34. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [33. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 

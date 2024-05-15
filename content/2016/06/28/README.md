@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [Moa (⭐334)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐332)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
@@ -34,27 +34,27 @@
 
 ### Deobfuscation / Other Resources
 
-*   [FLOSS (⭐2.4k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
+*   [FLOSS (⭐3k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
     String Solver uses advanced static analysis techniques to automatically
     deobfuscate strings from malware binaries.
-*   [unpacker (⭐107)](https://github.com/malwaremusings/unpacker/) - Automated malware
+*   [unpacker (⭐114)](https://github.com/malwaremusings/unpacker/) - Automated malware
     unpacker for Windows malware based on WinAppDbg.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [bamfdetect (⭐147)](https://github.com/bwall/bamfdetect) - Identifies and extracts
+*   [bamfdetect](https://github.com/bwall/bamfdetect) - Identifies and extracts
     information from bots and other malware.
 
 ### Storage and Workflow / Other Resources
 
-*   [Polichombr (⭐344)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
+*   [Polichombr (⭐372)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
     platform designed to help analysts to reverse malwares collaboratively.
 
 ### Miscellaneous / Other Resources
 
-*   [al-khaser (⭐4.3k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
+*   [al-khaser (⭐5.5k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
     with good intentions that aimes to stress anti-malware systems.
-*   [MalSploitBase (⭐496)](https://github.com/misterch0c/malSploitBase) - A database
+*   [MalSploitBase (⭐529)](https://github.com/misterch0c/malSploitBase) - A database
     containing exploits used by malware.
 
 ## [4. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
@@ -68,7 +68,7 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐9)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐10)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube

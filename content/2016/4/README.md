@@ -1,35 +1,34 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Libraries / Game development
-
-*   Corange
-    *   [lucidscape/corange-rs (⭐46)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
-
-## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [1. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 
-## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Books / Testing
+
+*   [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
+
 ## [4. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
-*   [Writing native (⭐359)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
+*   [Writing native (⭐357)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -555,7 +554,7 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐158)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐160)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [9. Tips](/content/git-tips/tips/week/README.md)
 
@@ -607,7 +606,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐744)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐748)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -619,7 +618,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐953)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -636,7 +635,7 @@ git config --global help.autocorrect 1
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐6.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
 ## [13. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -872,21 +871,7 @@ git config --global help.autocorrect 1
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐559)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Books / Components
-
-*   [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
-
-### TypeScript Seed Projects / Components
-
-*   [ng2-start (⭐34)](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-
-### Traceur Seed Projects / Components
-
-*   [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
-
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Tracking / ORM
 
@@ -900,13 +885,13 @@ git config --global help.autocorrect 1
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [32. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [31. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -925,7 +910,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [34. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [33. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -958,17 +943,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐228)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐227)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
 *   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [36. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [35. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -979,7 +964,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [37. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -991,13 +976,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐162)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [38. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [37. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
-*   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
+*   📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [39. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [38. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -1005,7 +990,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [40. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [39. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -1013,21 +998,21 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [combination (⭐31)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [combination (⭐32)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 *   [minmaxlist (⭐4)](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 *   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
 ### Files and Directories
 
-*   [eye\_drops (⭐52)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
+*   [eye\_drops (⭐53)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
 
 ### Framework Components
 
-*   [params (⭐330)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐334)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1036,17 +1021,17 @@ git config --global help.autocorrect 1
 
 ### Testing
 
-*   [ex\_unit\_fixtures (⭐12)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
+*   [ex\_unit\_fixtures (⭐13)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
 ### Text and Numbers
 
-*   [monetized (⭐46)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
+*   [monetized (⭐47)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 
 ### Translations and Internationalizations
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1068,7 +1053,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

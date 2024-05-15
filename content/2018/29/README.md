@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16 - Jul 22, 2018
 
-38 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -75,19 +75,13 @@
 *   [Deep dive into serverless](https://www.slideshare.net/AmazonWebServices/deep-dive-on-serverless-application-development-102837125) - Slide deck about serverless application development.
 *   [Discussing serverless](https://soundcloud.com/thenewstackanalysts/discussing-serverless-with-symphoniaio-and-serverless-inc) - Podcast about the serverless landscape.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Material Design
-
-*   [Material Web Components](https://trimox.github.io/angular-mdc-web) Material Web Components for Angular. A faithful and accurate representation of Material Design as envisioned on the web.
-
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
 *   [awsmobile-cli :fire: (⭐141)](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
 
-## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
@@ -97,26 +91,26 @@
 
 *   [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [substitute.js (⭐198)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
-## [12. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Talks
 
 *   [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
 *   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) - 8-part code walkthrough (Philip Guo).
 
-## [13. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [12. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Making Your Appium Tests Fast and Reliable, Part 8: Mocking External Services](https://appiumpro.com/editions/26)
 
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / T companies
 
@@ -131,7 +125,7 @@
 
 *   Steve Bellovin <https://www.cs.columbia.edu/~smb/blog/control/>
 
-## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -143,34 +137,34 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐345)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐348)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
-*   [Cached Network Image (⭐2.2k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+*   [Cached Network Image (⭐2.4k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Storage / Voice
 
-*   [Secure Storage (⭐972)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+*   [Secure Storage (⭐1.1k)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐272)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐293)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐509)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐513)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐357)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐361)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
 *   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐525)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [BookSearch (⭐537)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
-## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### CSP
 
@@ -193,7 +187,7 @@
 
 *   [0Day Labs](http://blog.0daylabs.com/) - Awesome bug-bounty and challenges writeups.
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -207,25 +201,19 @@
 
 *   [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
 
-## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [17. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
 
-## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [18. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [RacketScript (⭐12)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 
-## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Job boards aggregators
-
-*   [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
-
-## [21. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [19. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Similar lists / Videos
 
@@ -233,7 +221,7 @@
     A group of companies which explicitly adopted OCI's openness pledge
     *   *(dormant)*
 
-## [22. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [20. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Application Skeleton
 
@@ -266,7 +254,7 @@
 
 *   [twig-phalcon (⭐4)](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon Framework
 
-## [23. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [21. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -276,7 +264,7 @@
 
 *   [react-native-launch-navigator (⭐114)](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 
-## [24. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [22. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
@@ -286,13 +274,13 @@
 
 *   The [BriarProject](http://briar.sourceforge.net/) is building secure communication tools to enable journalists, activists and civil society groups to communicate safely without fear of government interference. Our open source mobile and desktop apps will provide a secure, easy-to-use alternative to email, blogs and message boards, where users can exchange private messages with their contacts, create their own blogs and message boards, and subscribe to blogs and boards their contacts have shared
 
-## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
 *   [2018 How to secure your Spring Apps with Keycloak by Thomas Darimont @ Spring I/O 2018](https://www.youtube.com/watch?v=haHFoeWUj0w)
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -319,7 +307,7 @@
 
 *   [SharpZipLib (⭐3.5k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
-## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Camera
 
@@ -329,7 +317,7 @@
 
 *   [Xamarin](https://visualstudio.microsoft.com/xamarin/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
 
-## [28. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [26. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation
 
@@ -340,7 +328,7 @@
 *   [gameboy-brainfuck (⭐16)](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf\*ck interpreter.
 *   [gbfk (⭐2)](https://github.com/elseyf/gbfk) - Brainf\*ck interpreter, with input.
 
-## [29. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
@@ -350,13 +338,13 @@
 
 *   [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 
-## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [Circular Audio Wave (⭐193)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -366,7 +354,7 @@
 
 *   [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html)
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -396,7 +384,7 @@
 
 *   [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### ORM
 
@@ -406,13 +394,13 @@
 
 *   [Wormholy (⭐2.3k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
-## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTML generators and templates / Isomorphic web frameworks
 
 *   [cl-closure-template (⭐71)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates, where compiling a template creates a function that generates the result. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [33. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### RESTful API
 
@@ -421,20 +409,20 @@
 *   [pyramid\_apispec (⭐21)](https://github.com/ergo/pyramid_apispec) - Create an OpenAPI
     specification file using apispec and Marshmallow schemas.
 
-## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [34. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Text Processing / Language Processing
 
 *   [eBay's TSV utilities (⭐1.4k)](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
 
-## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [35. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [recursion (⭐8)](https://github.com/vmchale/recursion) for ATS - Demonstration of
     recursion schemes in ATS.
 
-## [38. Awesome](/content/craftcms/awesome/week/README.md)
+## [36. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Performance and Testing
 

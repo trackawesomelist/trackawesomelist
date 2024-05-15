@@ -62,11 +62,11 @@
 
 ### Miscellaneous
 
-*   [CocoaInterface (⭐31)](https://github.com/plkrueger/CocoaInterface/) -
+*   [CocoaInterface (⭐32)](https://github.com/plkrueger/CocoaInterface/) -
     Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
     windows dynamically using Lisp code and bypass the typical Xcode
     processes. It has
-    [good documentation and a tutorial (⭐31)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
+    [good documentation and a tutorial (⭐32)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 
 ## [8. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

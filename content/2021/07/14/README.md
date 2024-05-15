@@ -10,7 +10,7 @@
 
 ### Libraries
 
-*   [NetKet (⭐470)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐108)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐111)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐55)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐60)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Game Engine
 
-*   [o3de (⭐7.2k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐7.4k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

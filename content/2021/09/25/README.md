@@ -15,7 +15,7 @@
 
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐1.2k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐1.4k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐132)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐138)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

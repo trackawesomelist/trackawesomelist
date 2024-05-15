@@ -34,7 +34,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Detection Lab (⭐4.4k)](https://github.com/clong/DetectionLab)
+- Repository: [Detection Lab (⭐4.5k)](https://github.com/clong/DetectionLab)
 
   Description: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 

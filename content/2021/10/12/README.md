@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Game
 
-*   [osu!framework (⭐1.5k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [osu!framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐496)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐502)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -43,13 +43,7 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Rust / Django
-
-*   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
-
-## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Imgur
 
@@ -58,23 +52,23 @@
     *   Example album on Imgur.com: <https://imgur.com/a/GD6p5Fi>
     *   Same album on Imgin: <https://imgin.voidnet.tech/a/GD6p5Fi>
 
-## [8. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐297)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐297)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐307)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐307)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazor File Drop Zone (⭐17)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
+*   [Blazor File Drop Zone (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
@@ -85,19 +79,19 @@
 *   [Pravatar](https://pravatar.cc/) - Generate a random/placeholder fake avatar whose URL can be directly hot-linked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. The URLs can be directly hot-linked in your web/app. Support config parameters via the URL.
 
-## [11. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-shared-modules (⭐26)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
 
@@ -105,7 +99,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

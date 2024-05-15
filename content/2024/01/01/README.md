@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2024
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐249)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
+*   [chess-tui (⭐313)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -34,25 +34,19 @@
 
 *   [trax (⭐4)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [crispybaccoon/evergarden (⭐23)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
-
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Blockchain Explorers
 
 *   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Scheme / Git
 
 *   [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 

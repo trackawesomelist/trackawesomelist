@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [karrot-frontend (⭐421)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
+*   [karrot-frontend (⭐426)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Python / Factor Analysis
 
-*   [Spectre (⭐518)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+*   [Spectre (⭐544)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
 
 ## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Data Formats
 
-*   [Crystalizer (⭐40)](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
+*   [Crystalizer (⭐39)](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -66,19 +66,13 @@
 
 *   [returns (⭐3.2k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
-## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Python / Symfony
-
-*   [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
-
-## [11. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [10. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Books
 
 *   [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - Free
 
-## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Docker Images for Penetration Testing & Security
 

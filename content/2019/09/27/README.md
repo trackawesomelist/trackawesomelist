@@ -71,7 +71,7 @@
 
 ### Network Protocols
 
-*   [Crirc (⭐22)](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
+*   [Crirc (⭐21)](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
 
 ## [8. Awesome Food](/content/jzarca01/awesome-food/README.md)
 

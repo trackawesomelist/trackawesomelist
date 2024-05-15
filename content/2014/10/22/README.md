@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [dotenv (⭐218)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
+*   [dotenv (⭐223)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -71,7 +71,7 @@
 ### Miscellaneous
 
 *   [clj-tuple (⭐179)](https://github.com/ztellman/clj-tuple)
-*   [slingshot (⭐639)](https://github.com/scgilardi/slingshot)
+*   [slingshot (⭐642)](https://github.com/scgilardi/slingshot)
 
 ---
 

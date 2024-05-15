@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,37 +32,31 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐536)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐537)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [FFmpeg (⭐921)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐948)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Golang
-
-*   [Go 语言高级编程（Advanced Go Programming） (⭐19k)](https://github.com/chai2010/advanced-go-programming-book)
-
-## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [Parselmouth (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐869)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐873)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐17)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐18)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
@@ -70,9 +64,9 @@
 
 ### XML
 
-*   [saxy (⭐247)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
+*   [saxy (⭐259)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
-## [10. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
@@ -102,13 +96,13 @@
 *   [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 *   [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles about Data
 
 *   [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
-## [12. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [11. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### Community
 

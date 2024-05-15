@@ -10,7 +10,7 @@
 
 ### Command-line tools
 
-*   [visidata (⭐7.3k)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
+*   [visidata (⭐7.4k)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Processes and Threads
 
-*   [werk (⭐24)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+*   [werk (⭐25)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## [3. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -35,7 +35,7 @@
 *   Visual Studio Code
     *   [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
     *   [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
-    *   [GUT Visual Studio Code Extension (⭐22)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+    *   [GUT Visual Studio Code Extension (⭐24)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
     *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code (Godot 3.x).
 
 ### Unofficial Godot builds / Godot version unknown
@@ -123,7 +123,7 @@
 
 ### Project Starter Templates
 
-*   [drom (⭐178)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
+*   [drom (⭐177)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

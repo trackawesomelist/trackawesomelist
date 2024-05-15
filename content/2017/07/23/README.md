@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐292)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐293)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -59,7 +59,7 @@
 
 ### UITableView / Barcode
 
-*   [SwipeCellKit (⭐6.1k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
+*   [SwipeCellKit (⭐6.2k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
 ## [7. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Queue
 
-*   [CAP (⭐6.3k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.5k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ---
 

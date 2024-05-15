@@ -102,7 +102,7 @@
 
 ### Ruby / Data Visualization
 
-*   [Jiji (⭐235)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
+*   [Jiji (⭐239)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
 
 ## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

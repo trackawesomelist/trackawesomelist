@@ -47,7 +47,7 @@
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.5k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [excaliburjs/Excalibur (⭐1.6k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
 *   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
@@ -77,30 +77,30 @@
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐441)](https://github.com/gorillalabs/sparkling)
-*   [flambo (⭐607)](https://github.com/yieldbot/flambo)
+*   [sparklling (⭐444)](https://github.com/gorillalabs/sparkling)
+*   [flambo (⭐608)](https://github.com/yieldbot/flambo)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### UI Automation
 
-*   [Atata (⭐471)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐479)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [Laugh Engine (⭐387)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
-*   [TLVulkanRenderer (⭐94)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
-*   [Vulkan-Hpp Samples (⭐316)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*   [Laugh Engine (⭐388)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*   [TLVulkanRenderer (⭐95)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
+*   [Vulkan-Hpp Samples (⭐325)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐266k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐1.9k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [gamedev (⭐12k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*   [awesome-d3d12 (⭐213)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*   [awesome (⭐293k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [gamedev (⭐13k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [graphics-resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*   [awesome-d3d12 (⭐228)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

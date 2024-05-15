@@ -31,13 +31,13 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐3.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐3.9k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Expecto (⭐639)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐656)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 
@@ -182,7 +182,7 @@ git checkout @{-1}
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [22. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -216,7 +216,7 @@ git checkout @{-1}
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐184)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐185)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -603,14 +603,6 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [@Angular on Twitter](https://twitter.com/angular)
 
-### Pipes / Components
-
-*   [angular2-camelcase (⭐3)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
-
-### Cordova Seed Projects / Components
-
-*   [Angular 2 Seed CLI Admin (Template) (⭐67)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
-
 ## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
@@ -699,7 +691,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐268)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐284)](https://github.com/b-long/awesome-static-hosting)
 
 ## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -712,7 +704,7 @@ Webpage: <http://www.denizlihs.org/>
 ### C++ / Natural Language Processing
 
 *   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐61)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [ucto (⭐60)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
@@ -775,7 +767,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [enlighten-apply (⭐126)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 *   [enlighten-integration (⭐61)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
 *   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
-*   [dm-flow (⭐56)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
+*   [dm-flow (⭐57)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
 ## [48. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 

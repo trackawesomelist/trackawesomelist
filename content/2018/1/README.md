@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐306)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐303)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [2. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6.4k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.5k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
 ## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐929)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐950)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -112,13 +112,13 @@
 
 *   [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 *   **Editor Integration**:
-    *   [ocaml-lsp (⭐700)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐156k)](https://github.com/microsoft/vscode), Vim and Emacs.
+    *   [ocaml-lsp (⭐710)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐157k)](https://github.com/microsoft/vscode), Vim and Emacs.
     *   [merlin (⭐1.5k)](https://github.com/ocaml/merlin) – Context sensitive completion for OCaml in Vim and Emacs.
     *   [tuareg (⭐356)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
     *   [opam-switch-mode (⭐5)](https://github.com/ProofGeneral/opam-switch-mode) - Minor mode for Emacs that extends Tuareg and Merlin with menus to change or reset the opam switch in the ambient Emacs session.
     *   [merlin-eldoc (⭐42)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
-    *   [vscode-ocaml (⭐172)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐156k)](https://github.com/microsoft/vscode)
-    *   [OCaml Debugger (⭐192)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐156k)](https://github.com/microsoft/vscode)
+    *   [vscode-ocaml (⭐172)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐157k)](https://github.com/microsoft/vscode)
+    *   [OCaml Debugger (⭐196)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐157k)](https://github.com/microsoft/vscode)
     *   [Sublime better ocaml (⭐23)](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
         *   [Sublime text package (⭐12)](https://github.com/def-lkb/sublime-text-merlin)
     *   [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
@@ -183,7 +183,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐878)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐881)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### Mobile
 
-*   👍 [serapeum (⭐392)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐410)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
 ### CLOS extensions
@@ -228,12 +228,12 @@
 
 ### Community / Interfaces to other package managers
 
-*   [qldeb (⭐4)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager (⭐4)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT](https://opensource.org/licenses/MIT).
-*   [ql-to-deb (⭐22)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.
+*   [qldeb (⭐5)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager (⭐4)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT](https://opensource.org/licenses/MIT).
+*   [ql-to-deb (⭐23)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.
 
 ### Date and time / Third-party APIs
 
-*   [chronicity (⭐66)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chronicity (⭐67)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Files and directories / Third-party APIs
 
@@ -246,7 +246,7 @@
 
 ### GUI
 
-*   [QtSharp (⭐565)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐568)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
@@ -254,13 +254,13 @@
 
 ### Protocols
 
-*   [DNS (⭐398)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐405)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [Beak (⭐578)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
+*   [Beak (⭐579)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 
 ### Animation
 
@@ -281,15 +281,15 @@
 
 ### Styling / Barcode
 
-*   [Stylist (⭐290)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
+*   [Stylist (⭐291)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 
 ### UI / Barcode
 
-*   [Shiny (⭐795)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐797)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
-*   [StatusAlert (⭐842)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
+*   [StatusAlert (⭐844)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 *   [Zingle (⭐111)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
 ## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
@@ -409,14 +409,14 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [signal (⭐48)](https://github.com/soumith/torch-signal) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
     *   [nn (⭐1.3k)](https://github.com/torch/nn) - Neural Network package for Torch.
     *   [torchnet (⭐994)](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
-    *   [nngraph (⭐299)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
+    *   [nngraph (⭐301)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
     *   [nnx (⭐97)](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library.
     *   [rnn (⭐935)](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
     *   [dpnn (⭐193)](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
-    *   [dp (⭐343)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
-    *   [optim (⭐198)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
+    *   [dp (⭐344)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
+    *   [optim (⭐197)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
     *   [unsup (⭐86)](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). **\[Deprecated]**
-    *   [manifold (⭐139)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
+    *   [manifold (⭐140)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
     *   [svm (⭐43)](https://github.com/koraykv/torch-svm) - Torch-SVM library. **\[Deprecated]**
     *   [lbfgs (⭐2)](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs. **\[Deprecated]**
     *   [vowpalwabbit (⭐2)](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch. **\[Deprecated]**
@@ -437,26 +437,26 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Documentation tools / Components
+### Documentation tools / Testing
 
-*   [Storybook (⭐81k)](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+*   [Storybook (⭐83k)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use.
 
 ## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [fd-vue (⭐64)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
+*   [fd-vue (⭐65)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 *   [wildfire (⭐178)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
-*   [vue-chrome-extension-boilerplate (⭐255)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
+*   [vue-chrome-extension-boilerplate (⭐257)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Components & Libraries / UI Components
 
 *   [vue-img-view (⭐30)](https://github.com/la7ender/vue-img-view) - a plugin for Vue.js, you can drag / view / rotate pictures anywhere
-*   [vue-rangedate-picker (⭐216)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
+*   [vue-rangedate-picker (⭐217)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-seamless-scroll (⭐1.7k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
+*   [vue-seamless-scroll (⭐1.8k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
 
 ## [39. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -496,7 +496,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Bindings
 
-*   [Vulkano (⭐3.9k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
+*   [Vulkano (⭐4.2k)](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
 
 ---
 

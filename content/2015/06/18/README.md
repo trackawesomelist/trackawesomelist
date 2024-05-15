@@ -16,7 +16,7 @@
 
 ### Table of Contents / HTTP
 
-*   [Retrofit (⭐156)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+*   [Retrofit (⭐157)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

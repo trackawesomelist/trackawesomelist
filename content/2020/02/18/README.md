@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐172)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐181)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Tools / XML
 
-*   [deno.mk (⭐14)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
+*   [deno.mk (⭐15)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
 
 ## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [riskparity.py (⭐267)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
+*   [riskparity.py (⭐279)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐175)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐177)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

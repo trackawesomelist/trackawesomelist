@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐3.3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3.4k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### UI / UI Helpers
 
-*   [In View Notifier List (⭐571)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+*   [In View Notifier List (⭐645)](https://github.com/rvamsikrishna/inview_notifier_list) <!--stargazers:rvamsikrishna/flutter_offline--> - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
 
 ## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

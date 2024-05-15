@@ -95,8 +95,8 @@
 
 *   [yagni (⭐218)](https://github.com/venantius/yagni)
 *   [lein-bikeshed (⭐177)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐592)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐500)](https://github.com/cloverage/cloverage)
+*   [spectrum (⭐591)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐504)](https://github.com/cloverage/cloverage)
 
 ---
 

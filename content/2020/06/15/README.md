@@ -28,7 +28,7 @@
 
 ### Endpoint / Authentication
 
-*   [Stegcloak (⭐3.1k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+*   [Stegcloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
 
 ## [4. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Tools
 
-*   [Hardened Kernel Builder for RPi (⭐19)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
+*   [Hardened Kernel Builder for RPi (⭐20)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
 
 ---
 

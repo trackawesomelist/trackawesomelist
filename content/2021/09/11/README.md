@@ -22,7 +22,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐82)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐85)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -31,16 +31,12 @@
 *   [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
     *   [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
     *   [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-    *   [Aerich (⭐728)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+    *   [Aerich (⭐784)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 *   [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
-
-### Databases / ODMs
-
-*   [Beanie (⭐1.6k)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Open Source Projects / Other Tools
 
-*   [Universities (⭐59)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+*   [Universities (⭐60)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -64,7 +60,7 @@
 
 ### Creating a new Plugin
 
-*   Read the [creating plugins guide (⭐19k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+*   Read the [creating plugins guide (⭐20k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

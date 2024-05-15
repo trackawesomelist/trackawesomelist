@@ -16,7 +16,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐78)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐79)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
 ## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Detect It Easy(DiE) (⭐6.2k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [Detect It Easy(DiE) (⭐6.5k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -208,11 +208,11 @@
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐643)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐668)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 
-*   [djangox (⭐1.9k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [djangox (⭐2k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 
 ## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -259,16 +259,16 @@
 
 ### Projects Using Vue.js / Interactive Experiences
 
-*   [Thing (⭐0)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
+*   [Thing (⭐1)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 
 ### Components & Libraries / UI Components
 
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
-*   [vue-image-zoomer (⭐80)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue-image-zoomer (⭐94)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-cordova (⭐417)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
+*   [vue-cli-plugin-cordova (⭐416)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
 *   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
 *   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
 *   [vue-cli-plugin-element (⭐22)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
@@ -295,7 +295,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyGrid (⭐611)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐610)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 

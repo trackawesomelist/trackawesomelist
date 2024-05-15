@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,25 +14,25 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Ankit](https://twitter.com/ankitsharma_007)
 
-### Books / Components
+### Books / Testing
 
-*   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
+*   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
 
 ## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygmsh (⭐689)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
+*   [pygmsh (⭐782)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
     (Python, GPL 3, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
-    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/marcomusy/vedo))
+    (Python, MIT, [GitHub (⭐1.9k)](https://github.com/marcomusy/vedo))
 
 ## [4. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -55,7 +55,7 @@
 ### SCALE Codec
 
 *   [AssemblyScript (⭐18)](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
-*   [Python (⭐53)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
+*   [Python (⭐54)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 
 ## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐56)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐62)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -117,13 +117,13 @@
 
 ### Machine Learning
 
-*   [rumale (⭐725)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐734)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐269)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐272)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -154,12 +154,6 @@
 ### Tools
 
 *   [Ionic Vetur Intellisense (⭐3)](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
-
-## [20. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / Functional
-
-*   [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 
 ---
 

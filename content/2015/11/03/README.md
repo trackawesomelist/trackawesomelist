@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐353)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐357)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -48,17 +48,16 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐321)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐326)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Queue
 
-*   [toniq (⭐342)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐341)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
-*   [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 *   [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 *   [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 *   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.

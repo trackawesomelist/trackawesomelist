@@ -29,19 +29,19 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome Deep Learning (⭐22k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome Deep Learning (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 *   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Awesome Document Understanding (⭐1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
+*   [Awesome Document Understanding (⭐1.1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
 *   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
-*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐433)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐442)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
 *   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
-*   [Awesome Visual Transformer (⭐3.2k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐116)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome Visual Transformer (⭐3.3k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
+*   [Awesome XAI (⭐121)](https://github.com/altamiracorp/awesome-xai#readme)
 
 ---
 

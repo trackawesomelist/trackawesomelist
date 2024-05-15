@@ -16,8 +16,8 @@
 
 ### Analysis / Functional Analysis
 
-*   [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
-*   [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
+*   📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
+*   📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -27,11 +27,11 @@
 
 ### Storage / Configuration file
 
-*   [uPyftsConf (⭐1)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+*   [uPyftsConf (⭐2)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
 
 ### Utilities / SRAM
 
-*   [micropython-hexdump (⭐2)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
+*   [micropython-hexdump (⭐3)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -41,24 +41,20 @@
 
 ## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
-### Features
-
-*   [Provider-defined functions](https://www.youtube.com/shorts/4aHZjDz2VWg) 🚧
-
 ### Tools / Wrappers
 
-*   [tf (⭐59)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
+*   [tf (⭐61)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 
 ### Tools / Registry
 
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
-*   [terralist (⭐265)](https://github.com/terralist/terralist) - Private registry for providers and modules.
-*   [citizen (⭐597)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
-*   [petra (⭐34)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-*   [tapir (⭐133)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with an UI.
-*   [terraform-registry (⭐72)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
-*   [terrareg (⭐218)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
-*   [terustry (⭐55)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+*   [terralist (⭐285)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [citizen (⭐609)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
+*   [petra (⭐39)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
+*   [tapir (⭐153)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
+*   [terraform-registry (⭐78)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
+*   [terrareg (⭐240)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
+*   [terustry (⭐56)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -70,13 +66,13 @@
 
 ### Utilities
 
-*   [Moussam (⭐57)](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
+*   [Moussam (⭐68)](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Search / Diagnostics
 
-*   [polirritmico/telescope-lazy-plugins.nvim (⭐4)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
+*   [polirritmico/telescope-lazy-plugins.nvim (⭐27)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 
 ---
 

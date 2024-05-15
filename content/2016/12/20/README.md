@@ -61,13 +61,13 @@
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐464)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐785)](https://github.com/googlesamples/android-vulkan-tutorials).
-*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
-    *   [gl\_vk\_chopper (⭐202)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *   [gl\_vk\_threaded\_cadscene (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *   [Android port of LunarG samples (⭐478)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐817)](https://github.com/googlesamples/android-vulkan-tutorials).
+*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐157)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+    *   [gl\_vk\_chopper (⭐204)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+    *   [gl\_vk\_threaded\_cadscene (⭐157)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
     *   [gl\_vk\_bk3dthreaded (⭐86)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
-    *   [gl\_vk\_supersampled (⭐61)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+    *   [gl\_vk\_supersampled (⭐63)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 
 ## [4. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 

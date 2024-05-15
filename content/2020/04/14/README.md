@@ -28,7 +28,8 @@
 
 *   [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver :octocat: (⭐605)](https://github.com/ros-drivers/velodyne)
+    *   [ROS driver :octocat: (⭐614)](https://github.com/ros-drivers/velodyne)
+    *   [C++/Python library :octocat: (⭐35)](https://github.com/valgur/velodyne_decoder)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/Ouster-lidar)
     *   [GitHub organization :octocat:](https://github.com/ouster-lidar)
@@ -45,18 +46,18 @@
 
 ### Writing, running scripts / Third-party APIs
 
-*   [clawk (⭐44)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [clawk (⭐45)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
 *   [replic (⭐31)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-ansi-term (⭐25)](https://github.com/vindarel/cl-ansi-term) - print
+*   [cl-ansi-term (⭐26)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Shelly (⭐64)](https://github.com/fukamachi/shelly) - execute Common Lisp
+*   [Shelly (⭐63)](https://github.com/fukamachi/shelly) - execute Common Lisp
     functions like a shell command, without the need to write a command
     line arguments parser. And it also can be used as a Make-like
     build-tool. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
@@ -77,7 +78,7 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐9.8k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐9.9k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -127,7 +128,7 @@
 
 ## [12. Computer Science](/content/ossu/computer-science/README.md)
 
-### How to show your progress / Which programming languages should I use?
+### How to show your progress / Advanced math
 
 *   **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 

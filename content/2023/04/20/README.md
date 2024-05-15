@@ -20,20 +20,20 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐582)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐615)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Generate Types (⭐162)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐168)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐165)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐187)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐86)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐89)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -107,34 +107,34 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐31)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐39)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tutorials
 
 *   [React Official Tutorial](https://react.dev/learn)
-*   [The Fullstack Tutorial for GraphQL (⭐8.6k)](https://github.com/howtographql/howtographql)
-
-### React Development Tools
-
-*   [vite (⭐63k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [The Fullstack Tutorial for GraphQL (⭐8.7k)](https://github.com/howtographql/howtographql)
 
 ### React State Management and Data Fetching
 
 *   [apollo-client (⭐19k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 *   [relay (⭐18k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
 
+### React Development Tools
+
+*   [vite (⭐64k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+
 ### React Awesome Components
 
-*   [keen-slider (⭐4.4k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-*   [cookie-consent-banner (⭐96)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
-*   [heart-switch (⭐435)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+*   [keen-slider (⭐4.5k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
+*   [cookie-consent-banner (⭐110)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+*   [heart-switch (⭐436)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 
 ### React Graphics and Animations
 
-*   [auto-animate (⭐11k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐6.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [auto-animate (⭐12k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+*   [react-tsparticles (⭐6.9k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -152,10 +152,10 @@
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐393)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
-*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
-*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.7k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
-*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐59)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐409)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.4k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.8k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐61)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

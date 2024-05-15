@@ -10,7 +10,7 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐860)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐864)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -42,7 +42,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐407)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐409)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

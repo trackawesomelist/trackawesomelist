@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,51 +10,43 @@
 
 ### Threat Intelligence / Forensics
 
-*   [CIFv2 (⭐225)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
+*   [CIFv2 (⭐227)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Haxe General Resources / Components
-
-*   [Haxe on Wikipedia](https://en.wikipedia.org/wiki/Haxe)
-*   [Haxe Usage Survey results](https://github.com/PatrickJS/awesome-angular/blob/gh-pages/README.md/blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-*   [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
-
-## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [2. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
 *   [enpeem-search (⭐4)](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 
-## [4. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [3. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Web animation performance / SVG
 
 *   [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Languages
 
 *   [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [filtrex (⭐191)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐192)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### Macros
 
 *   [pipe\_here (⭐34)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 
 *   TrackMaven <http://engineroom.trackmaven.com/>
 
-## [8. Codeface](/content/chrissimpkins/codeface/README.md)
+## [7. Codeface](/content/chrissimpkins/codeface/README.md)
 
 ### The Gallery
 
@@ -84,7 +76,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
     $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz
 
-## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 

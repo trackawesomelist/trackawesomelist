@@ -164,7 +164,7 @@
 
 ### Libraries
 
-*   [JSON-Fortran (⭐313)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+*   [JSON-Fortran (⭐318)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 ### Online tools
 
@@ -172,7 +172,7 @@
 
 ### JSON Schema Tools
 
-*   [js-schema (⭐387)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+*   [js-schema (⭐386)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -196,7 +196,7 @@
 
 ### Other / Other Resources
 
-*   [Forensics (⭐2.2k)](https://github.com/Cugu/awesome-forensics)
+*   [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics)
 
 ## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐34)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐43)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -361,7 +361,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐362)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐363)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -482,7 +482,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.1k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.3k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

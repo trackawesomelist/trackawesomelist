@@ -90,7 +90,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐325)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐373)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

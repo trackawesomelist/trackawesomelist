@@ -10,7 +10,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [NMOF (⭐34)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
+*   [NMOF (⭐35)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Desktop / Game Engine resources
 
-*   [Awesome Flutter Desktop (⭐1.3k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+*   [Awesome Flutter Desktop (⭐1.5k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [reFlutter (⭐1.1k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+*   [reFlutter (⭐1.2k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -76,14 +76,14 @@
 
 ### VSCode / Third-party APIs
 
-*   [alive (⭐184)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+*   [alive (⭐190)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rmehri01/onenord.nvim (⭐457)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [rmehri01/onenord.nvim (⭐475)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Utility / Diagnostics
 
@@ -116,13 +116,9 @@
 
 ## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Templates / React
-
-*   [vital (⭐233)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
-
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐98)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐109)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -169,6 +165,8 @@
   HTTPS: No
 
   CORS: No
+
+  Call this API: 
 
 
 

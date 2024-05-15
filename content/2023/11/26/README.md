@@ -22,7 +22,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [typesafegithub/github-workflows-kt (⭐476)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+*   [typesafegithub/github-workflows-kt (⭐485)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Completion / Diagnostics
 
-*   [nvimdev/epo.nvim (⭐102)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+*   [nvimdev/epo.nvim (⭐118)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 
 ### Formatting / Diagnostics
 
-*   [nvimdev/guard.nvim (⭐401)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [nvimdev/guard.nvim (⭐416)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ---
 

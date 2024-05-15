@@ -16,7 +16,7 @@
 
 ### Official Documentation Translations
 
-*   [DeBot (⭐36)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
+*   [DeBot (⭐35)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -28,10 +28,10 @@
 
 ### Ask these people anything!
 
-*   [Nicholas C. Zakas (⭐14)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+*   [Nicholas C. Zakas (⭐15)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
 *   [Lance He (⭐0)](https://github.com/indigofeather/ama) - Full stack developer and speaker.
-*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
-*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
+*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, author and screencaster.
+*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at Segment, maker of things.
 
 ## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

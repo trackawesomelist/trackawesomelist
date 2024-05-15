@@ -53,14 +53,14 @@
 ### ORM and Datamapping
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
-*   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [dqe (⭐10)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
+*   [elastix (⭐254)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐876)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐875)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐52k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [Prometheus.io (⭐53k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
 *   [HAProxy Exporter (⭐608)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
@@ -352,11 +352,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐4.2k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4.3k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐6k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐6.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -471,7 +471,7 @@ git config --global core.autocrlf false
 *   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 *   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
 *   [Matthew Mueller (⭐4)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
-*   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
+*   [Hugo Giraudel (⭐43)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 *   [Will Binns-Smith (⭐0)](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 *   [Lauri Tervonen (⭐0)](https://github.com/mollikka/ama) - CS & SE university student in Finland.
 *   [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.

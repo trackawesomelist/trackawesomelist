@@ -182,13 +182,13 @@
 
 ### Ask these people anything!
 
-*   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
+*   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at eftakhairul.com.
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 3 (⭐9.1k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+*   [TensorFlow Tutorial 3 (⭐9.2k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

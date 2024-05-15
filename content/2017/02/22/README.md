@@ -10,7 +10,7 @@
 
 ### Libraries
 
-*   [TensorFlowOnSpark (⭐3.8k)](https://github.com/yahoo/TensorFlowOnSpark) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
+*   [TensorFlowOnSpark (⭐3.9k)](https://github.com/yahoo/TensorFlowOnSpark) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 
@@ -42,7 +42,7 @@ git config -l | grep alias | cut -d '.' -f 2
 
 ### Apps
 
-*   [Linux port of SteamVR (⭐847)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
+*   [Linux port of SteamVR (⭐893)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 
 ---
 

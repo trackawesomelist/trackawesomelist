@@ -103,7 +103,7 @@
 
 ### Example Projects
 
-*   [Keycloak Last Login Date Event Listener (⭐22)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
+*   [Keycloak Last Login Date Event Listener (⭐23)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

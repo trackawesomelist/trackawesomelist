@@ -41,7 +41,7 @@
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐624)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐649)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐70)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐71)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -321,7 +321,7 @@
 
 ### Date and Time
 
-*   [cronex (⭐47)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
+*   [cronex (⭐48)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
 ## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

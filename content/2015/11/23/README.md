@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -66,7 +66,7 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐911)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐913)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -78,13 +78,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
-
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 

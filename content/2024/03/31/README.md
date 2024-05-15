@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [stream\_data (⭐833)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
+*   [stream\_data (⭐844)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Games / Apache License
 
-*   [eepers (⭐205)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐18k)](https://github.com/raysan5/raylib)).
+*   [eepers (⭐285)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

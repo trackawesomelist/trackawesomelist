@@ -177,7 +177,7 @@
 
 ### API Builder and Discovery
 
-*   [Blanket (⭐463)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
+*   [Blanket (⭐464)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 
 ### Automation
 
@@ -196,12 +196,12 @@
 
 ### Cryptography
 
-*   [retter (⭐91)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐94)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐923)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
-*   [nanomsg (⭐5.8k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
+*   [libjson-rpc-cpp (⭐938)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [nanomsg (⭐5.9k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
 ## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -213,7 +213,7 @@
 ### Build Tools
 
 *   [dismake (⭐4)](https://github.com/jarednorman/dismake) - Mix compiler running make.
-*   [reaxt (⭐366)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐372)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -250,7 +250,7 @@
 
 ### Testing
 
-*   [pavlov (⭐127)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+*   [pavlov (⭐128)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 
 ### Text and Numbers
 
@@ -263,7 +263,7 @@
 *   [digoc (⭐12)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐8)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐675)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐673)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

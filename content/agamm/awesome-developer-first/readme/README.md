@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 773 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 789 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐789)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -102,6 +102,7 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 *   [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 *   [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 *   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. [![SuperTokens](https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/supertokens/supertokens-core)
+*   [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
 *   [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 *   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
@@ -135,6 +136,7 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 *Backend only Content Management System, you decide on frontend and consume content via API.*
 
 *   [Contentful](http://contentful.com/) - CMS as an API.
+*   [DatoCMS](https://www.datocms.com/) - API-based CMS.
 *   [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 *   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). [![Ghost](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/tryghost/ghost)
 *   [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
@@ -180,6 +182,7 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 *Products that help you deploy your app/website.*
 
 *   [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
+*   [Cycle.io](https://www.cycle.io/) - DevOps platform for building platforms. Handles container orchestration, load-balancing, monitoring, and more.
 *   [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 *   [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket.
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
@@ -299,6 +302,7 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 *Media APIs (optimization, CDN).*
 
 *   [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
+*   [Bytescale](https://bytescale.com) - File storage and processing APIs.
 *   [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 *   [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
 *   [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
@@ -348,7 +352,7 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐421)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐445)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -447,5 +451,5 @@ For the latest additions [click here (⭐769)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐769)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐789)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

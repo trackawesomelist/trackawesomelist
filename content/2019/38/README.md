@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐768)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐793)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐707)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐733)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐923)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐945)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.5k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.6k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐492)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
+*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐496)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
 
 ### Sample Projects / JVM languages
 
-*   [Kotlin DDD Sample (⭐273)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
+*   [Kotlin DDD Sample (⭐281)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
 
 ### Libraries and Frameworks / .NET
 
@@ -124,7 +124,7 @@
 
 ### Tools
 
-*   [svgtofont (⭐409)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐576)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐584)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ### Date and Time
 
-*   [clojure.java-time (⭐446)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+*   [clojure.java-time (⭐451)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
 ## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -219,10 +219,8 @@
 ### Stub packages
 
 *   [django-stubs (⭐1.4k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐76k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐394)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐40k)](https://github.com/grpc/grpc).
-*   [ordered-set-stubs (⭐2)](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet (⭐204)](https://github.com/LuminosoInsight/ordered-set).
-*   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
+*   [djangorestframework-stubs (⭐397)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐41k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -230,11 +228,11 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐86)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐90)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐613)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐616)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
@@ -256,7 +254,7 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐199k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐203k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [22. Bots](/content/hackerkid/bots/week/README.md)
@@ -275,7 +273,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [PortEx (⭐413)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
+*   [PortEx (⭐487)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
 
 ## [25. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
@@ -402,12 +400,12 @@
 
 ### Office
 
-*   [Foliate (⭐4.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Marker (⭐817)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Foliate (⭐5.1k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Marker (⭐822)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GTimeLog (⭐236)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐249)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
@@ -422,7 +420,7 @@
 
 ### Gaming
 
-*   [Lutris (⭐7.3k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐7.4k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
@@ -450,7 +448,7 @@
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐2.5k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+*   [PaperWM (⭐2.7k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
@@ -459,7 +457,7 @@
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐159)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐190)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐198)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 
@@ -490,7 +488,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐786)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐801)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -522,7 +520,7 @@
 
 ### Networking
 
-*   [KCP (⭐14k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
+*   [KCP (⭐15k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
 
 ### Coding Style Tools
 
@@ -554,7 +552,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐114)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
+*   [Flutter Audio Recorder (⭐121)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ### 🇬🇷 Greece / Misc
 
@@ -576,7 +574,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.1k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Applications
 
-*   [ipfs-pinner (⭐54)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+*   [ipfs-pinner (⭐55)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Command-line tools
 
-*   [dsq (⭐3.5k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [dsq (⭐3.6k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 
 ## [6. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
@@ -72,20 +72,20 @@
 ### Algorithms and data structures
 
 *   [BarabasGitHub/LZig4 (⭐5)](https://github.com/BarabasGitHub/LZig4) - LZ4 implementation.
-*   [DutchGhost/ArrayVec (⭐17)](https://github.com/DutchGhost/ArrayVec) - An array with a vector feeling.
-*   [emekoi/deque.zig (⭐11)](https://github.com/emekoi/deque.zig) - A lock free chase-lev deque.
-*   [kristoff-it/zig-cuckoofilter (⭐77)](https://github.com/kristoff-it/zig-cuckoofilter) - Production-ready Cuckoo Filters for any C ABI compatible target.
+*   [DutchGhost/ArrayVec (⭐16)](https://github.com/DutchGhost/ArrayVec) - An array with a vector feeling.
+*   [emekoi/deque.zig (⭐14)](https://github.com/emekoi/deque.zig) - A lock free chase-lev deque.
+*   [kristoff-it/zig-cuckoofilter (⭐78)](https://github.com/kristoff-it/zig-cuckoofilter) - Production-ready Cuckoo Filters for any C ABI compatible target.
 *   [marijnfs/zigtimsort (⭐5)](https://github.com/marijnfs/zigtimsort) - TimSort implementation.
 *   [Sahnvour/zig-containers (⭐9)](https://github.com/Sahnvour/zig-containers) - A container library.
-*   [Srekel/zig-sparse-set (⭐55)](https://github.com/Srekel/zig-sparse-set) - Sparse sets, supporting both SOA and AOS style.
-*   [hexops/xorfilter (⭐230)](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
+*   [Srekel/zig-sparse-set (⭐57)](https://github.com/Srekel/zig-sparse-set) - Sparse sets, supporting both SOA and AOS style.
+*   [hexops/xorfilter (⭐239)](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 
 ### Allocators and memory
 
-*   [fengb/zee\_alloc (⭐77)](https://github.com/fengb/zee_alloc) - Tiny allocator primarily targeting WebAssembly.
-*   [mdsteele/ziegfried (⭐21)](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator.
+*   [fengb/zee\_alloc (⭐79)](https://github.com/fengb/zee_alloc) - Tiny allocator primarily targeting WebAssembly.
+*   [mdsteele/ziegfried (⭐22)](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator.
 *   [suirad/Seal (⭐6)](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage.
-*   [Hejsil/zig-gc (⭐34)](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector.
+*   [Hejsil/zig-gc (⭐35)](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector.
 
 ### Audio
 
@@ -93,163 +93,163 @@
 
 ### Bootables
 
-*   [AndreaOrru/zen (⭐372)](https://github.com/AndreaOrru/zen) - Experimental operating system.
-*   [andrewrk/clashos (⭐203)](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
-*   [andrewrk/HellOS (⭐222)](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example.
+*   [AndreaOrru/zen (⭐387)](https://github.com/AndreaOrru/zen) - Experimental operating system.
+*   [andrewrk/clashos (⭐206)](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
+*   [andrewrk/HellOS (⭐235)](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example.
 *   [DorianXGH/Lukarnel (⭐16)](https://github.com/DorianXGH/Lukarnel) - A microkernel with Rust microservices.
 *   [iguessthislldo/georgios (⭐43)](https://github.com/iguessthislldo/georgios) - Hobby Operating System.
-*   [jzck/kernel-zig (⭐409)](https://github.com/jzck/kernel-zig) - Hobby x86 kernel.
+*   [jzck/kernel-zig (⭐412)](https://github.com/jzck/kernel-zig) - Hobby x86 kernel.
 *   [markfirmware/zig-bare-metal-microbit (⭐31)](https://github.com/markfirmware/zig-bare-metal-microbit) - Bare metal microbit program.
-*   [markfirmware/zig-bare-metal-raspberry-pi (⭐79)](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) - Bare metal raspberry pi program.
-*   [MasterQ32/RetrOS (⭐51)](https://github.com/MasterQ32/RetrOS) - A retro-style gaming console running on bare x86 metal.
-*   [nrdmn/uefi-examples (⭐47)](https://github.com/nrdmn/uefi-examples) - UEFI examples.
-*   [nrdmn/uefi-paint (⭐40)](https://github.com/nrdmn/uefi-paint) - UEFI-bootable touch paint app.
-*   [SamTebbs33/pluto (⭐452)](https://github.com/SamTebbs33/pluto) - An x86 kernel.
+*   [markfirmware/zig-bare-metal-raspberry-pi (⭐83)](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) - Bare metal raspberry pi program.
+*   [MasterQ32/RetrOS (⭐52)](https://github.com/MasterQ32/RetrOS) - A retro-style gaming console running on bare x86 metal.
+*   [nrdmn/uefi-examples (⭐49)](https://github.com/nrdmn/uefi-examples) - UEFI examples.
+*   [nrdmn/uefi-paint (⭐41)](https://github.com/nrdmn/uefi-paint) - UEFI-bootable touch paint app.
+*   [SamTebbs33/pluto (⭐479)](https://github.com/SamTebbs33/pluto) - An x86 kernel.
 *   [sjdh02/trOS (⭐46)](https://github.com/sjdh02/trOS) - Tiny aarch64 baremetal OS thingy.
 *   [tralamazza/embedded\_zig (⭐68)](https://github.com/tralamazza/embedded_zig) - Minimal embedded ARM example (STM32F103 blue pill).
-*   [yvt/zig-armv8m-test (⭐9)](https://github.com/yvt/zig-armv8m-test) - Example app for Armv8-M + TrustZone.
-*   [ZeeBoppityZagZiggity/ZBZZ.OS (⭐11)](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS) - An operating system built for RISCV.
+*   [yvt/zig-armv8m-test (⭐10)](https://github.com/yvt/zig-armv8m-test) - Example app for Armv8-M + TrustZone.
+*   [ZeeBoppityZagZiggity/ZBZZ.OS (⭐12)](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS) - An operating system built for RISCV.
 
 ### Compilers and interpreters
 
-*   [Vexu/bog (⭐499)](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
-*   [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub (⭐181)](https://github.com/MasterQ32/LoLa)) An embeddable programming language for game scripting.
+*   [Vexu/bog (⭐514)](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
+*   [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub (⭐186)](https://github.com/MasterQ32/LoLa)) An embeddable programming language for game scripting.
 *   [dantecatalfamo/brainfuck-zig (⭐8)](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter.
 
 ### Database
 
-*   [coilhq/tigerbeetle (⭐3.6k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
+*   [coilhq/tigerbeetle (⭐6.9k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
 *   [kristoff-it/redis-cuckoofilter (⭐226)](https://github.com/kristoff-it/redis-cuckoofilter) - Hashing-function agnostic Cuckoo filters for Redis.
-*   [kristoff-it/zig-okredis (⭐191)](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
-*   [leroycep/sqlite-zig (⭐53)](https://github.com/leroycep/sqlite-zig) - SQLite bindings.
+*   [kristoff-it/zig-okredis (⭐193)](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
+*   [leroycep/sqlite-zig (⭐56)](https://github.com/leroycep/sqlite-zig) - SQLite bindings.
 *   [vrischmann/zig-cassandra (⭐5)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
-*   [vrischmann/zig-sqlite (⭐300)](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
+*   [vrischmann/zig-sqlite (⭐312)](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
 
 ### Editor plugins
 
-*   [isaachier/ztags (⭐15)](https://github.com/isaachier/ztags) - Ctags implementation for Zig.
+*   [isaachier/ztags (⭐16)](https://github.com/isaachier/ztags) - Ctags implementation for Zig.
 *   [Tetralux/sublime-zig (⭐3)](https://github.com/Tetralux/sublime-zig) - My own, more lightweight, syntax highlighting for Zig.
-*   [ziglang/sublime-zig-language (⭐70)](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text.
-*   [ziglang/vscode-zig (⭐447)](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode.
-*   [ziglang/zig-mode (⭐135)](https://github.com/ziglang/zig-mode) - Zig mode for Emacs.
-*   [ziglang/zig.vim (⭐383)](https://github.com/ziglang/zig.vim) - Vim configuration for Zig.
-*   [zigtools/zls (⭐2.2k)](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server.
+*   [ziglang/sublime-zig-language (⭐76)](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text.
+*   [ziglang/vscode-zig (⭐476)](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode.
+*   [ziglang/zig-mode (⭐146)](https://github.com/ziglang/zig-mode) - Zig mode for Emacs.
+*   [ziglang/zig.vim (⭐398)](https://github.com/ziglang/zig.vim) - Vim configuration for Zig.
+*   [zigtools/zls (⭐2.3k)](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server.
 
 ### Emulators
 
-*   [fengb/fundude (⭐168)](https://github.com/fengb/fundude) - Gameboy emulator for WASM.
+*   [fengb/fundude (⭐171)](https://github.com/fengb/fundude) - Gameboy emulator for WASM.
 *   [GrooveStomp/chip8-zig (⭐5)](https://github.com/GrooveStomp/chip8-zig) - CHIP-8 emulator.
 *   [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - Virtual Boy emulator.
-*   [floooh/kc85.zig (⭐39)](https://github.com/floooh/kc85.zig) - A KC85 emulator.
+*   [floooh/kc85.zig (⭐45)](https://github.com/floooh/kc85.zig) - A KC85 emulator.
 
 ### Game tools and libraries
 
-*   [michal-z/zig-gamedev (⭐1.9k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.6k)](https://github.com/floooh/sokol) bindings.
-*   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
+*   [michal-z/zig-gamedev (⭐2k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐275)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.9k)](https://github.com/floooh/sokol) bindings.
+*   [TM35-Metronome/metronome (⭐45)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
-*   [wendigojaeger/ZigGBA (⭐320)](https://github.com/wendigojaeger/ZigGBA) - SDK for creating Game Boy Advance games using Zig.
+*   [wendigojaeger/ZigGBA (⭐331)](https://github.com/wendigojaeger/ZigGBA) - SDK for creating Game Boy Advance games using Zig.
 
 ### Games
 
-*   [Akuli/curses-minesweeper (⭐15)](https://github.com/Akuli/curses-minesweeper) - Minesweeper game written in curses.
-*   [andrewrk/tetris (⭐336)](https://github.com/andrewrk/tetris) - A simple tetris clone.
+*   [Akuli/curses-minesweeper (⭐16)](https://github.com/Akuli/curses-minesweeper) - Minesweeper game written in curses.
+*   [andrewrk/tetris (⭐348)](https://github.com/andrewrk/tetris) - A simple tetris clone.
 *   [fabioarnold/snake-zig (⭐13)](https://github.com/fabioarnold/snake-zig) - A simple snake clone.
 *   [Stenodyon/blink (⭐14)](https://github.com/Stenodyon/blink) - A game about building logic with lasers.
-*   [thejoshwolfe/legend-of-swarkland (⭐90)](https://github.com/thejoshwolfe/legend-of-swarkland) - Hack-n-slash roguelike inspired by NetHack.
+*   [thejoshwolfe/legend-of-swarkland (⭐91)](https://github.com/thejoshwolfe/legend-of-swarkland) - Hack-n-slash roguelike inspired by NetHack.
 *   [tiehuis/zstack (⭐4)](https://github.com/tiehuis/zstack) - Line-race tetris mode.
-*   [kooparse/zalgebra (⭐193)](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
-*   [floooh/pacman.zig (⭐189)](https://github.com/floooh/pacman.zig) - A Pacman clone.
+*   [kooparse/zalgebra (⭐207)](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
+*   [floooh/pacman.zig (⭐198)](https://github.com/floooh/pacman.zig) - A Pacman clone.
 
 ### GUI
 
-*   [batiati/IUPforZig (⭐104)](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
+*   [batiati/IUPforZig (⭐109)](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 *   [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
-*   [andrewrk/zig-vulkan-triangle (⭐80)](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
-*   [kassane/QML-zig (⭐72)](https://github.com/kassane/qml_zig) - QML bindings.
-*   [cshenton/learnopengl (⭐130)](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) tutorials ported to Zig.
-*   [ifreund/river (⭐2.8k)](https://github.com/ifreund/river) - Dynamic wayland compositor that takes inspiration from dwm and bspwm.
-*   [Nelarius/weekend-raytracer-zig (⭐85)](https://github.com/Nelarius/weekend-raytracer-zig) - An implementation of the "Ray Tracing in One Weekend" book.
-*   [SpexGuy/Zig-Gltf-Display (⭐27)](https://github.com/SpexGuy/Zig-Gltf-Display) - A program that displays glTF files using Vulkan.
+*   [andrewrk/zig-vulkan-triangle (⭐81)](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
+*   [kassane/QML-zig (⭐78)](https://github.com/kassane/qml_zig) - QML bindings.
+*   [cshenton/learnopengl (⭐131)](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) tutorials ported to Zig.
+*   [ifreund/river (⭐2.9k)](https://github.com/ifreund/river) - Dynamic wayland compositor that takes inspiration from dwm and bspwm.
+*   [Nelarius/weekend-raytracer-zig (⭐87)](https://github.com/Nelarius/weekend-raytracer-zig) - An implementation of the "Ray Tracing in One Weekend" book.
+*   [SpexGuy/Zig-Gltf-Display (⭐29)](https://github.com/SpexGuy/Zig-Gltf-Display) - A program that displays glTF files using Vulkan.
 *   [tiehuis/zig-raytrace (⭐14)](https://github.com/tiehuis/zig-raytrace) - Simple raytracer.
-*   [donpdonp/zootdeck (⭐37)](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
+*   [donpdonp/zootdeck (⭐38)](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 *   [MasterQ32/ZigPaint (⭐9)](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
 
 ### Misc libraries
 
-*   [BraedonWooding/Lazy-Zig (⭐37)](https://github.com/BraedonWooding/Lazy-Zig) - Linq.
+*   [BraedonWooding/Lazy-Zig (⭐38)](https://github.com/BraedonWooding/Lazy-Zig) - Linq.
 *   [DutchGhost/maybeuninit (⭐1)](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 *   [emekoi/log.zig (⭐19)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
-*   [kprotty/zap (⭐375)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
-*   [mlarouche/zigimg (⭐356)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐193)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [kprotty/zap (⭐389)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
+*   [mlarouche/zigimg (⭐391)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
+*   [ziglibs/known-folders (⭐205)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 
-*   [euantorano/ip.zig (⭐11)](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.
+*   [euantorano/ip.zig (⭐12)](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.
 *   [lun-4/zigdig (⭐32)](https://github.com/lun-4/zigdig) - Naive DNS client library.
-*   [marler8997/netpunch (⭐13)](https://github.com/marler8997/netpunch) - Outbound proxy protocol.
+*   [marler8997/netpunch (⭐14)](https://github.com/marler8997/netpunch) - Outbound proxy protocol.
 *   [remeh/statsd-zig (⭐4)](https://github.com/remeh/statsd-zig) - Basic DogStatsD UDP server.
 
 ### Network / HTTP
 
-*   [Luukdegram/apple\_pie (⭐160)](https://github.com/Luukdegram/apple_pie) - HTTP 1.0/1.1 Server implementation.
+*   [Luukdegram/apple\_pie (⭐161)](https://github.com/Luukdegram/apple_pie) - HTTP 1.0/1.1 Server implementation.
 *   [ducdetronquito/h11 (⭐102)](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
-*   [lun-4/ziget (⭐15)](https://github.com/lun-4/ziget) - Simple wget without libc.
-*   ~~[Vexu/routez (⭐239)](https://github.com/Vexu/routez) - HTTP server.~~
-*   [frmdstryr/zhp (⭐344)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
+*   [lun-4/ziget (⭐16)](https://github.com/lun-4/ziget) - Simple wget without libc.
+*   ~~[Vexu/routez (⭐241)](https://github.com/Vexu/routez) - HTTP server.~~
+*   [frmdstryr/zhp (⭐347)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 
 ### Web / Messaging
 
-*   [andrewrk/lua-in-the-browser (⭐30)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
-*   [kivikakk/htmlentities.zig (⭐9)](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
-*   [meheleventyone/zig-wasm-test (⭐45)](https://github.com/meheleventyone/zig-wasm-test) - A minimal WebAssembly example using Zig's build system.
-*   [shritesh/zig-wasm-dom (⭐126)](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
+*   [andrewrk/lua-in-the-browser (⭐32)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
+*   [kivikakk/htmlentities.zig (⭐10)](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
+*   [meheleventyone/zig-wasm-test (⭐49)](https://github.com/meheleventyone/zig-wasm-test) - A minimal WebAssembly example using Zig's build system.
+*   [shritesh/zig-wasm-dom (⭐131)](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
 *   [shritesh/zigfmt-web (⭐40)](https://github.com/shritesh/zigfmt-web) - Zig fmt on the web.
-*   [zigwasm/wasm-zig (⭐25)](https://github.com/zigwasm/wasm-zig) - Common WASM runtime binding to C API.
+*   [zigwasm/wasm-zig (⭐26)](https://github.com/zigwasm/wasm-zig) - Common WASM runtime binding to C API.
 *   [zigwasm/wasmer-zig (⭐51)](https://github.com/zigwasm/wasmer-zig) - Bindings for the Wasmer WebAssembly runtime.
 *   [zigwasm/wasmtime-zig (⭐80)](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 
 ### System tools / Messaging
 
-*   [pbui-project/pbui-main (⭐88)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
-*   [hspak/brightnessztl (⭐5)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
+*   [pbui-project/pbui-main (⭐86)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
+*   [hspak/brightnessztl (⭐6)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 *   [thejoshwolfe/hexdump-zip (⭐6)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
 *   [kubkon/zacho (⭐38)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
 
 ### Zig development tools / Messaging
 
-*   [marler8997/zigup (⭐450)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
+*   [marler8997/zigup (⭐521)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 
 ### Zig development tools / Package managers
 
-*   [zigtools/zpm (⭐80)](https://github.com/zigtools/zpm) - Unofficial Zig package manager.
+*   [zigtools/zpm (⭐82)](https://github.com/zigtools/zpm) - Unofficial Zig package manager.
 *   [mattnite/gyro (⭐577)](https://github.com/mattnite/gyro) - Package manager with an index, build runner, and build dependencies.
-*   [nektro/zigmod (⭐672)](https://github.com/nektro/zigmod) - Zig package manager.
-*   [cheetah/asdf-zig (⭐23)](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
+*   [nektro/zigmod (⭐705)](https://github.com/nektro/zigmod) - Zig package manager.
+*   [cheetah/asdf-zig (⭐24)](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
 
 ### Parser / Package managers
 
-*   [darithorn/zig-toml (⭐96)](https://github.com/darithorn/zig-toml) - A TOML parser.
-*   [chwayne/rem (⭐94)](https://github.com/chwayne/rem) - An HTML parsing library.
-*   [Hejsil/zig-clap (⭐649)](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
+*   [darithorn/zig-toml (⭐98)](https://github.com/darithorn/zig-toml) - A TOML parser.
+*   [chwayne/rem (⭐98)](https://github.com/chwayne/rem) - An HTML parsing library.
+*   [Hejsil/zig-clap (⭐742)](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 *   [kivikakk/libpcre.zig (⭐18)](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
-*   [kivikakk/koino (⭐101)](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
-*   [kubkon/zig-yaml (⭐101)](https://github.com/kubkon/zig-yaml) - YAML parser.
-*   [tiehuis/zig-regex (⭐136)](https://github.com/tiehuis/zig-regex) - A regex implementation.
-*   [tiehuis/zig-ryu (⭐15)](https://github.com/tiehuis/zig-ryu) - Port of [ryu (⭐1.1k)](https://github.com/ulfjack/ryu).
+*   [kivikakk/koino (⭐103)](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
+*   [kubkon/zig-yaml (⭐107)](https://github.com/kubkon/zig-yaml) - YAML parser.
+*   [tiehuis/zig-regex (⭐149)](https://github.com/tiehuis/zig-regex) - A regex implementation.
+*   [tiehuis/zig-ryu (⭐14)](https://github.com/tiehuis/zig-ryu) - Port of [ryu (⭐1.1k)](https://github.com/ulfjack/ryu).
 *   [Vexu/zuri (⭐44)](https://github.com/Vexu/zuri) - URI parser.
 *   [vi/zigmkv (⭐12)](https://github.com/vi/zigmkv) - Matroska/webm (mkv) parser.
 *   [winksaville/zig-parse-args (⭐0)](https://github.com/winksaville/zig-parse-args) - Parse command line arguments.
 *   [winksaville/zig-parse-number (⭐0)](https://github.com/winksaville/zig-parse-number) - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
-*   [gernest/base32 (⭐8)](https://github.com/gernest/base32) - Base32 encoding/decoding.
+*   [gernest/base32 (⭐9)](https://github.com/gernest/base32) - Base32 encoding/decoding.
 *   [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
 
 ### Learning resources / Package managers
 
-*   [belse-de/zig-tut (⭐14)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
-*   [Sobeston/ziglearn (⭐466)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
+*   [belse-de/zig-tut (⭐15)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
+*   [Sobeston/ziglearn (⭐534)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 
 ### Other / C++
 
@@ -257,9 +257,9 @@
 *   [momumi/x86-zig (⭐27)](https://github.com/momumi/x86-zig) - Library for assembling x86.
 *   [nrdmn/ilo\_license\_key (⭐14)](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
 *   [vegecode/svd2zig (⭐27)](https://github.com/vegecode/svd2zig) - Convert System View Description (svd) files to Zig headers for baremetal development.
-*   [mqttiotstuff/iotmonitor (⭐16)](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor tools, save time to monitor mqtt agents or devices.
-*   [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR (⭐47k)](https://github.com/tldr-pages/tldr) client.
-*   [kubkon/zig-ios-example (⭐114)](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
+*   [mqttiotstuff/iotmonitor (⭐17)](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor tools, save time to monitor mqtt agents or devices.
+*   [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR (⭐48k)](https://github.com/tldr-pages/tldr) client.
+*   [kubkon/zig-ios-example (⭐119)](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 
 ## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -281,8 +281,8 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐378)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
-*   [OpenCSD eBPF SSD offloading (⭐45)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
+*   [hBPF - eBPF in hardware (⭐386)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [OpenCSD eBPF SSD offloading (⭐48)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -294,7 +294,7 @@
 
 ### Modules / Godot 4.0
 
-*   [FMOD GD4 (⭐47)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
+*   [FMOD GD4 (⭐48)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
 ## [14. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
@@ -557,23 +557,23 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐63)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
+*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐69)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
 ## [20. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Editors
 
-*   [Neovim (⭐13k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
+*   [Neovim (⭐14k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 
 ## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
-*   [dzr (⭐148)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐163)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐463)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐578)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [22. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -591,7 +591,7 @@
 
 ### Articles / Third-party articles
 
-*   [Python-typing-koans (⭐119)](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
+*   [Python-typing-koans (⭐118)](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
 *   [Adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) - Tests are not enough: Case study adding type hints to urllib3.
 *   [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 *   [ParamSpec Guide](https://sobolevn.me/2021/12/paramspec-guide) - Newly released feature in `PEP612` allows you do a lot of advanced typing things with functions and their signatures.
@@ -674,22 +674,18 @@
 
 ## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
-### Templates / Vue 3
-
-*   [vite-quasar-starter (⭐48)](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
-
 ### Templates / Vue 2
 
 *   [vite-vue2-ts-vuetify-starter (⭐83)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-babel (⭐45)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+*   [vite-plugin-babel (⭐49)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [rollup-plugin-graphql-codegen (⭐65)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
-*   [rollup-plugin-i18next-dts-gen (⭐65)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
+*   [rollup-plugin-graphql-codegen (⭐68)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
+*   [rollup-plugin-i18next-dts-gen (⭐68)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
 
 ## [33. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
@@ -699,64 +695,65 @@
 
     *   [Express honeypot (⭐11)](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
     *   [EoHoneypotBundle (⭐33)](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
-    *   [Glastopf (⭐522)](https://github.com/mushorg/glastopf) - Web Application Honeypot.
+    *   [Glastopf (⭐527)](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     *   [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
-    *   [HellPot (⭐279)](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
-    *   [Laravel Application Honeypot (⭐430)](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
-    *   [Nodepot (⭐42)](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
+    *   [HellPot (⭐290)](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
+    *   [Laravel Application Honeypot (⭐429)](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
+    *   [Nodepot (⭐43)](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
     *   [PasitheaHoneypot (⭐1)](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI honeypot.
     *   [Servletpot (⭐12)](https://github.com/schmalle/servletpot) - Web application Honeypot.
     *   [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.
     *   [StrutsHoneypot (⭐70)](https://github.com/Cymmetria/StrutsHoneypot) - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
-    *   [WebTrap (⭐55)](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites.
-    *   [basic-auth-pot (bap) (⭐43)](https://github.com/bjeborn/basic-auth-pot) - HTTP Basic Authentication honeypot.
+    *   [WebTrap (⭐56)](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites.
+    *   [basic-auth-pot (bap) (⭐42)](https://github.com/bjeborn/basic-auth-pot) - HTTP Basic Authentication honeypot.
     *   [bwpot (⭐25)](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
-    *   [django-admin-honeypot (⭐987)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
+    *   [django-admin-honeypot (⭐990)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
     *   [drupo (⭐57)](https://github.com/d1str0/drupot) - Drupal Honeypot.
-    *   [galah (⭐228)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
-    *   [honeyhttpd (⭐34)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
+    *   [galah (⭐243)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
+    *   [honeyhttpd (⭐35)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
     *   [honeyup (⭐24)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
-    *   [modpot (⭐6)](https://github.com/referefref/modpot) - Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.
-    *   [owa-honeypot (⭐56)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
+    *   [modpot (⭐36)](https://github.com/referefref/modpot) - Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.
+    *   [owa-honeypot (⭐59)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
     *   [phpmyadmin\_honeypot (⭐64)](https://github.com/gfoss/phpmyadmin_honeypot) - Simple and effective phpMyAdmin honeypot.
     *   [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
     *   [smart-honeypot (⭐16)](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot.
     *   Snare/Tanner - successors to Glastopf
-        *   [Snare (⭐422)](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honeypot.
-        *   [Tanner (⭐203)](https://github.com/mushorg/tanner) - Evaluating SNARE events.
+        *   [Snare (⭐428)](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honeypot.
+        *   [Tanner (⭐210)](https://github.com/mushorg/tanner) - Evaluating SNARE events.
     *   [stack-honeypot (⭐22)](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
     *   [tomcat-manager-honeypot (⭐10)](https://github.com/helospark/tomcat-manager-honeypot) - Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study.
     *   WordPress honeypots
         *   [HonnyPotter (⭐27)](https://github.com/MartinIngesen/HonnyPotter) - WordPress login honeypot for collection and analysis of failed login attempts.
         *   [HoneyPress (⭐2)](https://github.com/kungfuguapo/HoneyPress) - Python based WordPress honeypot in a Docker container.
         *   [wp-smart-honeypot (⭐26)](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
-        *   [wordpot (⭐171)](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
-    *   [Python-Honeypot (⭐394)](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
+        *   [wordpot (⭐172)](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
+    *   [Python-Honeypot (⭐398)](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 *   Service Honeypots
     *   [ADBHoney (⭐159)](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process.
     *   [AMTHoneypot (⭐16)](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
     *   [ddospot (⭐34)](https://github.com/aelth/ddospot) - NTP, DNS, SSDP, Chargen and generic UDP-based amplification DDoS honeypot.
-    *   [dionaea (⭐665)](https://github.com/DinoTools/dionaea) - Home of the dionaea honeypot.
+    *   [dionaea (⭐672)](https://github.com/DinoTools/dionaea) - Home of the dionaea honeypot.
     *   [dhp (⭐23)](https://github.com/ciscocsirt/dhp) - Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.
     *   [DolosHoneypot (⭐1)](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
     *   [Ensnare (⭐66)](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
-    *   [Helix (⭐29)](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
+    *   [Helix (⭐30)](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
     *   [honeycomb\_plugins (⭐26)](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+    *   \[honeydb] (<https://honeydb.io/downloads>) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
     *   [honeyntp (⭐52)](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
-    *   [honeypot-camera (⭐50)](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
+    *   [honeypot-camera (⭐51)](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
     *   [honeypot-ftp (⭐27)](https://github.com/alexbredo/honeypot-ftp) - FTP Honeypot.
-    *   [honeypots (⭐537)](https://github.com/qeeqbox/honeypots) - 25 different honeypots in a single pypi package! (dns, ftp, httpproxy, http, https, imap, mysql, pop3, postgres, redis, smb, smtp, socks5, ssh, telnet, vnc, mssql, elastic, ldap, ntp, memcache, snmp, oracle, sip and irc).
+    *   [honeypots (⭐550)](https://github.com/qeeqbox/honeypots) - 25 different honeypots in a single pypi package! (dns, ftp, httpproxy, http, https, imap, mysql, pop3, postgres, redis, smb, smtp, socks5, ssh, telnet, vnc, mssql, elastic, ldap, ntp, memcache, snmp, oracle, sip and irc).
     *   [honeytrap (⭐1.2k)](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go that can be connected with other honeypot software.
-    *   [HoneyPy (⭐454)](https://github.com/foospidy/HoneyPy) - Low interaction honeypot.
+    *   [HoneyPy (⭐456)](https://github.com/foospidy/HoneyPy) - Low interaction honeypot.
     *   [Honeygrove (⭐19)](https://github.com/UHH-ISS/honeygrove) - Multi-purpose modular honeypot based on Twisted.
     *   [Honeyport (⭐41)](https://github.com/securitygeneration/Honeyport) - Simple honeyport written in Bash and Python.
-    *   [Honeyprint (⭐18)](https://github.com/glaslos/honeyprint) - Printer honeypot.
+    *   [Honeyprint (⭐19)](https://github.com/glaslos/honeyprint) - Printer honeypot.
     *   [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - Modern high-interaction honeypot framework.
     *   [MICROS honeypot (⭐13)](https://github.com/Cymmetria/micros_honeypot) - Low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).
     *   [node-ftp-honeypot (⭐3)](https://github.com/christophe77/node-ftp-honeypot) - FTP server honeypot in JS.
     *   [pyrdp (⭐1.4k)](https://github.com/gosecure/pyrdp) - RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact.
     *   [rdppot (⭐60)](https://github.com/kryptoslogic/rdppot) - RDP honeypot
-    *   [RDPy (⭐1.6k)](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
+    *   [RDPy (⭐1.7k)](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
     *   [SMB Honeypot (⭐45)](https://github.com/r0hi7/HoneySMB) - High interaction SMB service honeypot capable of capturing wannacry-like Malware.
     *   [Tom's Honeypot (⭐25)](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
     *   [troje (⭐45)](https://github.com/dutchcoders/troje/) - Honeypot that runs each connection with the service within a separate LXC container.
@@ -768,7 +765,7 @@
 *   ICS/SCADA honeypots
 
     *   [Conpot (⭐1.2k)](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
-    *   [GasPot (⭐123)](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
+    *   [GasPot (⭐126)](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
     *   [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
     *   [gridpot (⭐51)](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets.
     *   [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - Mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
@@ -779,7 +776,7 @@
     *   [dicompot (⭐21)](https://github.com/nsmfoo/dicompot) - DICOM Honeypot.
     *   [IPP Honey](https://gitlab.com/bontchev/ipphoney) - A honeypot for the Internet Printing Protocol.
     *   [Log4Pot (⭐87)](https://github.com/thomaspatzke/Log4Pot) - A honeypot for the Log4Shell vulnerability (CVE-2021-44228).
-    *   [Masscanned (⭐90)](https://github.com/ivre/masscanned) - Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
+    *   [Masscanned (⭐91)](https://github.com/ivre/masscanned) - Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
     *   [medpot (⭐19)](https://github.com/schmalle/medpot) -  HL7 / FHIR honeypot.
     *   [NOVA (⭐73)](https://github.com/DataSoft/Nova) - Uses honeypots as detectors, looks like a complete system.
     *   [OpenFlow Honeypot (OFPot) (⭐22)](https://github.com/upa/ofpot) - Redirects traffic for unused IPs to a honeypot, built on POX.
@@ -788,7 +785,7 @@
     *   [miniprint (⭐198)](https://github.com/sa7mon/miniprint) - A medium interaction printer honeypot.
 *   Botnet C2 tools
 
-    *   [Hale (⭐182)](https://github.com/pjlantz/Hale) - Botnet command and control monitor.
+    *   [Hale (⭐183)](https://github.com/pjlantz/Hale) - Botnet command and control monitor.
     *   [dnsMole](https://code.google.com/archive/p/dns-mole/) - Analyses DNS traffic and potentionaly detect botnet command and control server activity, along with infected hosts.
 *   IPv6 attack detection tool
 
@@ -825,10 +822,10 @@
 *   System instrumentation
 
     *   [Sysdig](https://sysdig.com/opensource/) - Open source, system-level exploration allows one to capture system state and activity from a running GNU/Linux instance, then save, filter, and analyze the results.
-    *   [Fibratus (⭐2k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+    *   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
 *   Honeypot for USB-spreading malware
 
-    *   [Ghost-usb (⭐88)](https://github.com/honeynet/ghost-usb-honeypot) - Honeypot for malware that propagates via USB storage devices.
+    *   [Ghost-usb (⭐90)](https://github.com/honeynet/ghost-usb-honeypot) - Honeypot for malware that propagates via USB storage devices.
 *   Data Collection
 
     *   [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) - Extracts some very basic stats from Kippo’s text-based log files and inserts them in a MySQL database.
@@ -838,7 +835,7 @@
     *   [Passive Network Audit Framework (pnaf) (⭐31)](https://github.com/jusafing/pnaf) - Framework that combines multiple passive and automated analysis techniques in order to provide a security assessment of network platforms.
 *   VM monitoring and tools
 
-    *   [Antivmdetect (⭐687)](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make VM detection harder.
+    *   [Antivmdetect (⭐688)](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make VM detection harder.
     *   [VMCloak (⭐471)](https://github.com/hatching/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
     *   [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 *   Binary debugger
@@ -847,8 +844,8 @@
     *   [Hexgolems - Schem Debugger Frontend (⭐142)](https://github.com/hexgolems/schem) - Debugger frontend.
 *   Mobile Analysis Tool
 
-    *   [Androguard (⭐4.8k)](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications and more.
-    *   [APKinspector (⭐813)](https://github.com/honeynet/apkinspector/) - Powerful GUI tool for analysts to analyze the Android applications.
+    *   [Androguard (⭐4.9k)](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications and more.
+    *   [APKinspector (⭐819)](https://github.com/honeynet/apkinspector/) - Powerful GUI tool for analysts to analyze the Android applications.
 *   Honeynet data fusion
 
     *   [HFlow2](https://projects.honeynet.org/hflow) - Data coalesing tool for honeynet/network analysis.
@@ -859,7 +856,7 @@
     *   [Bait and Switch](http://baitnswitch.sourceforge.net) - Redirects all hostile traffic to a honeypot that is partially mirroring your production system.
     *   [Bifrozt (⭐4)](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
     *   [Conpot](http://conpot.org/) - Low interactive server side Industrial Control Systems honeypot.
-    *   [Heralding (⭐360)](https://github.com/johnnykv/heralding) - Credentials catching honeypot.
+    *   [Heralding (⭐362)](https://github.com/johnnykv/heralding) - Credentials catching honeypot.
     *   [HoneyWRT (⭐20)](https://github.com/CanadianJeff/honeywrt) - Low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers.
     *   [Honeyd (⭐8)](https://github.com/provos/honeyd) - See [honeyd tools](#honeyd-tools).
     *   [Honeysink](http://www.honeynet.org/node/773) - Open source network sinkhole that provides a mechanism for detection and prevention of malicious traffic on a given network.
@@ -877,13 +874,13 @@
     *   [go-HoneyPot (⭐42)](https://github.com/Mojachieee/go-HoneyPot) - Honeypot server written in Go.
     *   [go-emulators (⭐8)](https://github.com/kingtuna/go-emulators) - Honeypot Golang emulators.
     *   [honeymail (⭐27)](https://github.com/sec51/honeymail) - SMTP honeypot written in Golang.
-    *   [honeytrap (⭐91)](https://github.com/tillmannw/honeytrap) - Low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
+    *   [honeytrap (⭐92)](https://github.com/tillmannw/honeytrap) - Low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
     *   [imap-honey (⭐24)](https://github.com/yvesago/imap-honey) - IMAP honeypot written in Golang.
     *   [mwcollectd](https://www.openhub.net/p/mwcollectd) - Versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
     *   [potd (⭐28)](https://github.com/lnslbrty/potd) - Highly scalable low- to medium-interaction SSH/TCP honeypot designed for OpenWrt/IoT devices leveraging several Linux kernel features, such as namespaces, seccomp and thread capabilities.
     *   [portlurker (⭐20)](https://github.com/bartnv/portlurker) - Port listener in Rust with protocol guessing and safe string display.
     *   [slipm-honeypot (⭐15)](https://github.com/rshipp/slipm-honeypot) - Simple low-interaction port monitoring honeypot.
-    *   [telnet-iot-honeypot (⭐297)](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries.
+    *   [telnet-iot-honeypot (⭐298)](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries.
     *   [telnetlogger (⭐237)](https://github.com/robertdavidgraham/telnetlogger) - Telnet honeypot designed to track the Mirai botnet.
     *   [vnclowpot (⭐20)](https://github.com/magisterquis/vnclowpot) - Low interaction VNC honeypot.
 *   IDS signature generation
@@ -896,7 +893,7 @@
 
     *   [HPfriends](http://hpfriends.honeycloud.net/#/home) - Honeypot data-sharing platform.
         *   [hpfriends - real-time social data-sharing](https://heipei.io/sigint-hpfriends/) - Presentation about HPFriends feed system
-    *   [HPFeeds (⭐208)](https://github.com/rep/hpfeeds/) - Lightweight authenticated publish-subscribe protocol.
+    *   [HPFeeds (⭐209)](https://github.com/rep/hpfeeds/) - Lightweight authenticated publish-subscribe protocol.
 *   Central management tool
 
     *   [PHARM](http://www.nepenthespharm.com/) - Manage, report, and analyze your distributed Nepenthes instances.
@@ -916,7 +913,7 @@
     *   [HoneyC](https://projects.honeynet.org/honeyc)
     *   [HoneySpider Network (⭐28)](https://github.com/CERT-Polska/hsn2-bundle) - Highly-scalable system integrating multiple client honeypots to detect malicious websites.
     *   [HoneyWeb](https://code.google.com/archive/p/gsoc-honeyweb/) - Web interface created to manage and remotely share Honeyclients resources.
-    *   [Jsunpack-n (⭐157)](https://github.com/urule99/jsunpack-n)
+    *   [Jsunpack-n (⭐158)](https://github.com/urule99/jsunpack-n)
     *   [MonkeySpider](http://monkeyspider.sourceforge.net)
     *   [PhoneyC (⭐24)](https://github.com/honeynet/phoneyc) - Python honeyclient (later replaced by Thug).
     *   [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot.
@@ -930,7 +927,7 @@
 *   Honeypot
 
     *   [Deception Toolkit](http://www.all.net/dtk/dtk.html)
-    *   [IMHoneypot (⭐14)](https://github.com/mushorg/imhoneypot)
+    *   [IMHoneypot (⭐15)](https://github.com/mushorg/imhoneypot)
 *   PDF document inspector
 
     *   [peepdf (⭐1.2k)](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents.
@@ -940,10 +937,10 @@
 *   SSH Honeypots
 
     *   [Blacknet (⭐18)](https://github.com/morian/blacknet) - Multi-head SSH honeypot system.
-    *   [Cowrie (⭐4.8k)](https://github.com/cowrie/cowrie) - Cowrie SSH Honeypot (based on kippo).
-    *   [DShield docker (⭐13)](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
-    *   [endlessh (⭐6.7k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
-    *   [HonSSH (⭐370)](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
+    *   [Cowrie (⭐4.9k)](https://github.com/cowrie/cowrie) - Cowrie SSH Honeypot (based on kippo).
+    *   [DShield docker (⭐14)](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
+    *   [endlessh (⭐6.8k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
+    *   [HonSSH (⭐371)](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
     *   [HUDINX (⭐3)](https://github.com/Cryptix720/HUDINX) - Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
     *   [Kippo (⭐1.6k)](https://github.com/desaster/kippo) - Medium interaction SSH honeypot.
     *   [Kippo\_JunOS (⭐9)](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
@@ -963,9 +960,9 @@
     *   [honeyssh (⭐11)](https://github.com/ppacher/honeyssh) - Credential dumping SSH honeypot with statistics.
     *   [hornet (⭐21)](https://github.com/czardoz/hornet) - Medium interaction SSH honeypot that supports multiple virtual hosts.
     *   [ssh-auth-logger (⭐18)](https://github.com/JustinAzoff/ssh-auth-logger) - Low/zero interaction SSH authentication logging honeypot.
-    *   [ssh-honeypot (⭐580)](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs IP addresses, usernames, and passwords.
+    *   [ssh-honeypot (⭐589)](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs IP addresses, usernames, and passwords.
     *   [ssh-honeypot (⭐24)](https://github.com/amv42/sshd-honeypot) - Modified version of the OpenSSH deamon that forwards commands to Cowrie where all commands are interpreted and returned.
-    *   [ssh-honeypotd (⭐10)](https://github.com/sjinks/ssh-honeypotd) - Low-interaction SSH honeypot written in C.
+    *   [ssh-honeypotd (⭐11)](https://github.com/sjinks/ssh-honeypotd) - Low-interaction SSH honeypot written in C.
     *   [sshForShits (⭐38)](https://github.com/traetox/sshForShits) - Framework for a high interaction SSH honeypot.
     *   [sshesame (⭐1.4k)](https://github.com/jaksi/sshesame) - Fake SSH server that lets everyone in and logs their activity.
     *   [sshhipot (⭐167)](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot.
@@ -999,12 +996,12 @@
 *   Spamtrap
 
     *   [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - Perl module that appears to provide the functionality of a standard SMTP server.
-    *   [Mailoney (⭐245)](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
+    *   [Mailoney (⭐244)](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     *   [SendMeSpamIDS.py (⭐11)](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
     *   [Shiva (⭐129)](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
         *   [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
     *   [SMTPLLMPot (⭐2)](https://github.com/referefref/SMTPLLMPot) - A super simple SMTP Honeypot built using GPT3.5
-    *   [SpamHAT (⭐24)](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool.
+    *   [SpamHAT (⭐25)](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool.
     *   [Spamhole](http://www.spamhole.net/)
     *   [honeypot (⭐2)](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK.
     *   [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
@@ -1013,18 +1010,18 @@
     *   [Cymmetria Mazerunner](ttps://cymmetria.com/products/mazerunner/) - Leads attackers away from real targets and creates a footprint of the attack.
 *   Server (Bluetooth)
 
-    *   [Bluepot (⭐224)](https://github.com/andrewmichaelsmith/bluepot)
+    *   [Bluepot (⭐226)](https://github.com/andrewmichaelsmith/bluepot)
 *   Dynamic analysis of Android apps
 
     *   [Droidbox](https://code.google.com/archive/p/droidbox/)
 *   Dockerized Low Interaction packaging
 
     *   [Docker honeynet (⭐21)](https://github.com/sreinhardt/Docker-Honeynet) - Several Honeynet tools set up for Docker containers.
-    *   [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - Dockerized [Thug (⭐947)](https://github.com/buffer/thug) to analyze malicious web content.
+    *   [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - Dockerized [Thug (⭐954)](https://github.com/buffer/thug) to analyze malicious web content.
     *   [Dockerpot (⭐147)](https://github.com/mrschyte/dockerpot) - Docker based honeypot.
     *   [Manuka (⭐22)](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea and Kippo).
     *   [honey\_ports (⭐5)](https://github.com/run41/honey_ports) - Very simple but effective docker deployed honeypot to detect port scanning in your environment.
-    *   [mhn-core-docker (⭐31)](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
+    *   [mhn-core-docker (⭐32)](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
 *   Network analysis
 
     *   [Quechua](https://bitbucket.org/zaccone/quechua)
@@ -1033,13 +1030,13 @@
     *   [Artemnesia VoIP](http://artemisa.sourceforge.net)
 *   IOT Honeypot
 
-    *   [HoneyThing (⭐114)](https://github.com/omererdem/honeything) - TR-069 Honeypot.
+    *   [HoneyThing (⭐117)](https://github.com/omererdem/honeything) - TR-069 Honeypot.
     *   [Kako (⭐24)](https://github.com/darkarnium/kako) - Honeypots for a number of well known and deployed embedded device vulnerabilities.
 *   Honeytokens
     *   [CanaryTokens (⭐1.6k)](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/generate).
     *   [Honeybits (⭐271)](https://github.com/0x4D31/honeybits) - Simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs and honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
-    *   [Honeyλ (HoneyLambda) (⭐501)](https://github.com/0x4D31/honeylambda) - Simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
-    *   [dcept (⭐496)](https://github.com/secureworks/dcept) - Tool for deploying and detecting use of Active Directory honeytokens.
+    *   [Honeyλ (HoneyLambda) (⭐505)](https://github.com/0x4D31/honeylambda) - Simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
+    *   [dcept (⭐498)](https://github.com/secureworks/dcept) - Tool for deploying and detecting use of Active Directory honeytokens.
     *   [honeyku (⭐58)](https://github.com/0x4D31/honeyku) - Heroku-based web honeypot that can be used to create and monitor fake HTTP endpoints (i.e. honeytokens).
 
 ### Honeyd Tools
@@ -1057,7 +1054,7 @@
 
     *   [Honeyd-Viz](https://bruteforcelab.com/honeyd-viz)
 *   Honeyd stats
-    *   [Honeydsum.pl (⭐327)](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
+    *   [Honeydsum.pl (⭐328)](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
 
 ### Network and Artifact Analysis
 
@@ -1068,9 +1065,9 @@
     *   [Cuckoo](https://cuckoosandbox.org/) - Leading open source automated malware analysis system.
     *   [Pylibemu (⭐123)](https://github.com/buffer/pylibemu) - Libemu Cython wrapper.
     *   [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall).
-    *   [dorothy2 (⭐196)](https://github.com/m4rco-/dorothy2) - Malware/botnet analysis framework written in Ruby.
+    *   [dorothy2 (⭐197)](https://github.com/m4rco-/dorothy2) - Malware/botnet analysis framework written in Ruby.
     *   [imalse (⭐11)](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
-    *   [libemu (⭐133)](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
+    *   [libemu (⭐134)](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
 *   Sandbox-as-a-Service
 
     *   [Hybrid Analysis](https://www.hybrid-analysis.com) - Free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
@@ -1085,7 +1082,7 @@
     *   [DionaeaFR (⭐65)](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot.
     *   [Django-kippo (⭐11)](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot.
     *   [Shockpot-Frontend (⭐2)](https://github.com/GovCERT-CZ/Shockpot-Frontend) - Full featured script to visualize statistics from a Shockpot honeypot.
-    *   [Tango (⭐251)](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
+    *   [Tango (⭐252)](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
     *   [Wordpot-Frontend (⭐3)](https://github.com/GovCERT-CZ/Wordpot-Frontend) - Full featured script to visualize statistics from a Wordpot honeypot.
     *   [honeyalarmg2 (⭐3)](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms.
     *   [honeypotDisplay (⭐2)](https://github.com/Joss-Steward/honeypotDisplay) - Flask website which displays data gathered from an SSH Honeypot.
@@ -1096,13 +1093,13 @@
     *   [Afterglow](http://afterglow.sourceforge.net/)
     *   [Glastopf Analytics (⭐1)](https://github.com/katkad/Glastopf-Analytics) - Easy honeypot statistics.
     *   [HoneyMalt (⭐13)](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
-    *   [HoneyMap (⭐217)](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map.
+    *   [HoneyMap (⭐218)](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map.
     *   [HoneyStats](https://sourceforge.net/projects/honeystats/) - Statistical view of the recorded activity on a Honeynet.
     *   [HpfeedsHoneyGraph (⭐14)](https://github.com/yuchincheng/HpfeedsHoneyGraph) - Visualization app to visualize hpfeeds logs.
-    *   [IVRE (⭐3.2k)](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
+    *   [IVRE (⭐3.3k)](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
     *   [Kippo stats (⭐17)](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot.
     *   [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
-    *   [The Intelligent HoneyNet (⭐60)](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
+    *   [The Intelligent HoneyNet (⭐61)](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
     *   [ovizart (⭐46)](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
 
 ### Guides
@@ -1138,17 +1135,17 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐808)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐828)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [36. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
-*   [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐2.5k)](https://github.com/SciML/DifferentialEquations.jl))
+*   [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐2.7k)](https://github.com/SciML/DifferentialEquations.jl))
 
 ### Other libraries and tools / Mesh tools
 
-*   [HPDDM (⭐104)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
+*   [HPDDM (⭐126)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
     (C++, LGPL 3, GitHub)
 
 ## [37. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
@@ -1173,11 +1170,11 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [fork-handles/result4k (⭐170)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
+*   [fork-handles/result4k (⭐179)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/gli (⭐30)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
+*   [kotlin-graphics/gli (⭐31)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
 
 ## [40. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -1201,7 +1198,7 @@
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐63k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐65k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [44. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -1271,7 +1268,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dtaidistance (⭐998)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
+*   [dtaidistance (⭐1k)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1281,16 +1278,16 @@
 
 ### Network / Network architecture
 
-*   [Network-segmentation-cheat-sheet (⭐3.1k)](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
+*   [Network-segmentation-cheat-sheet (⭐3.2k)](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Zeek](https://zeek.org/) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-    *   [zeek2es (⭐31)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
+    *   [zeek2es (⭐33)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
 
 ### Terminal / Development
 
-*   [shellfirm (⭐711)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
+*   [shellfirm (⭐724)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 
 ## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -1310,8 +1307,8 @@
 ### Components & Libraries / Utilities
 
 *   [vue-api-request (⭐128)](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast, and easy to implement.
-*   [vue-request (⭐1.1k)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
-*   [vue-worker (⭐588)](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simple way.
+*   [vue-request (⭐1.2k)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
+*   [vue-worker (⭐589)](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simple way.
 
 ### Components & Libraries / Scaffold
 
@@ -1325,51 +1322,51 @@
 
 ### Board support crates / Adafruit
 
-*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m0.svg)
-*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m4.svg)
-*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pyportal.svg)
-*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pygamer.svg)
-*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)
-*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m0.svg)
-*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m4.svg)
-*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)
-*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/edgebadge.svg)
-*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)
-*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)
-*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)
-*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)
-*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)
-*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)
-*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)
-*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)
+*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m0.svg)
+*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m4.svg)
+*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pyportal.svg)
+*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pygamer.svg)
+*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)
+*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m0.svg)
+*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m4.svg)
+*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)
+*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/edgebadge.svg)
+*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)
+*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)
+*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)
+*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)
+*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)
+*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)
+*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)
+*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)
 
 ### Board support crates / Arduino
 
-*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)
-*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)
-*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)
-*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)
+*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)
+*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)
+*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)
+*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)
 
 ### Board support crates / Sparkfun
 
-*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)
+*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)
 
 ### Board support crates / SeeedStudio
 
-*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)
-*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_mg126.svg)
-*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_w600.svg)
-*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board ![crates.io](https://img.shields.io.crates/v/wio_terminal.svg)
+*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)
+*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_mg126.svg)
+*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_w600.svg)
+*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board ![crates.io](https://img.shields.io.crates/v/wio_terminal.svg)
 
 ### Board support crates / Sodaq
 
-*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)
-*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)
+*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)
+*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)
 
 ### Board support crates / Other
 
-*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/serpente.svg)
-*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐522)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐522)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/p1am_100.svg)
+*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/serpente.svg)
+*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐534)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐534)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/p1am_100.svg)
 
 ## [50. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -1387,7 +1384,7 @@
 
 ### Community
 
-*   [OpenTripPlanner (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner) Community
+*   [OpenTripPlanner (⭐2.1k)](https://github.com/opentripplanner/OpenTripPlanner) Community
     *   [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
     *   [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 *   OneBusAway
@@ -1398,12 +1395,12 @@
 
 ### Software for Creating APIs
 
-*   [GraphHopper Routing Engine (⭐4.6k)](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
-*   [gtfs-server (⭐26)](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
-*   [hafas-rest-api (⭐21)](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
+*   [GraphHopper Routing Engine (⭐4.7k)](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
+*   [gtfs-server (⭐28)](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
+*   [hafas-rest-api (⭐23)](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
 *   [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
-*   [MOTIS (⭐156)](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
-*   [pyBikes (⭐530)](https://github.com/eskerda/pybikes) - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
+*   [MOTIS (⭐173)](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
+*   [pyBikes (⭐541)](https://github.com/eskerda/pybikes) - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
 
 ### Other multimodal data formats / Ruby
 
@@ -1423,8 +1420,8 @@
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐4.5k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2.8k)](https://github.com/anonaddy/anonaddy)
+*   [SimpleLogin (⭐4.7k)](https://github.com/simple-login/app)
+*   [AnonAddy (⭐3k)](https://github.com/anonaddy/anonaddy)
 
 ### FIAT
 
@@ -1444,7 +1441,7 @@
 
 ### Development / Discovery
 
-*   [robotnix (⭐545)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+*   [robotnix (⭐564)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
 ## [56. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -1454,30 +1451,30 @@
 
 ### Google Colaboratory
 
-*   [swift-colab (⭐100)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
+*   [swift-colab (⭐101)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Misc
 
-*   [Surmagic (⭐305)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+*   [Surmagic (⭐309)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
 ### Location / Barcode
 
-*   [AsyncLocationKit (⭐166)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [AsyncLocationKit (⭐172)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐639)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐114)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐119)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [zellij (⭐17k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐18k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ### Libraries / GUI
 
-*   [emilk/egui (⭐19k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
+*   [emilk/egui (⭐20k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
 ## [58. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 

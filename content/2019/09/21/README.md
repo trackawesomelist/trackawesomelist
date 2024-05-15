@@ -50,12 +50,12 @@
 
 ### Office
 
-*   [Foliate (⭐4.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Marker (⭐817)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Foliate (⭐5.1k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Marker (⭐822)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GTimeLog (⭐236)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐249)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
@@ -69,7 +69,7 @@
 
 ### Gaming
 
-*   [Lutris (⭐7.3k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐7.4k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
@@ -97,7 +97,7 @@
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐2.5k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+*   [PaperWM (⭐2.7k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
@@ -106,7 +106,7 @@
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐159)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐190)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐198)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 
@@ -130,7 +130,7 @@
 
 ### Tools
 
-*   [svgtofont (⭐409)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

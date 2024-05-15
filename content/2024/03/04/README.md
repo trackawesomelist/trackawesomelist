@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Libraries
 
-*   [JsonHilo (⭐25)](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
+*   [JsonHilo (⭐27)](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
 
 ## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
+*   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -46,21 +46,21 @@
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐422)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐451)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
-*   [dot (⭐3)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
+*   [dot (⭐13)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
 
 ### Dependency Injection
 
-*   [ore (⭐3)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
+*   [ore (⭐4)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 
 ### Utilities
 
-*   [go-lambda-cleanup (⭐86)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
+*   [go-lambda-cleanup (⭐87)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -68,13 +68,7 @@
 
 *   [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.  ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/devhub/id6476452351)
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-## [10. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [9. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 

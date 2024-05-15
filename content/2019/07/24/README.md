@@ -46,7 +46,7 @@
 
 ### Auth / Image Picker
 
-*   [Apple Sign-In (⭐157)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
+*   [Apple Sign-In (⭐159)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -93,26 +93,26 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐97)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐11k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐6.6k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [bashdot (⭐99)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐12k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐6.8k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 *   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐7.2k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
+*   [Fisher (⭐7.4k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
 *   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 *   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
 ### Tools / macOS
 
 *   [dockutil (⭐1.3k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
-*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+*   [mas (⭐11k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
 *   [Eduardo's dotfiles (⭐423)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐134)](https://github.com/kdeldycke/dotfiles)
-*   [kody (⭐136)](https://github.com/jh3y/kody)
+*   [Kevin's dotfiles (⭐138)](https://github.com/kdeldycke/dotfiles)
+*   [kody (⭐137)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

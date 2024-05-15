@@ -10,7 +10,7 @@
 
 ### Productivity / HTTP Client
 
-*   [pubs (⭐243)](https://github.com/pubs/pubs) - Scientific bibliography manager.
+*   [pubs (⭐258)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Community Resources
 
-*   [Context Mapping by ddd-crew (⭐1.2k)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
+*   [Context Mapping by ddd-crew (⭐1.3k)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

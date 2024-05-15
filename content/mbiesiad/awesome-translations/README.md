@@ -2,9 +2,15 @@
 
 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mbiesiad/awesome-translations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) · ⭐ 95 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mbiesiad/awesome-translations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) · ⭐ 116 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mbiesiad/awesome-translations/week/README.md) / [Overview](/content/mbiesiad/awesome-translations/readme/README.md) ]
+
+## [May 15, 2024](/content/2024/05/15/README.md)
+
+### Tools / Automatic translation for end users
+
+*   [Alexa Translations](https://alexatranslations.com/) - Alexa Translations A.I. brings leading AI and machine translation to the legal, financial and government sectors.
 
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
@@ -31,7 +37,7 @@
 
 ### Books / Machine translation
 
-*   [Glocalization Strategy Playbook (⭐41)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals by the GILT forum.
+*   [Glocalization Strategy Playbook (⭐43)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals by the GILT forum.
 
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
@@ -129,7 +135,7 @@
 
 ### Tools / Other tools
 
-*   [SimpleLocalize CLI (⭐50)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [SimpleLocalize CLI (⭐55)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 
 ### Articles / For developers
 
@@ -150,11 +156,11 @@
 
 ### Apps / Automated translation
 
-*   [LibreTranslate (⭐5.8k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [LibreTranslate (⭐6.8k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ### Apps / Translation software
 
-*   [Argos Translate (⭐2.9k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [Argos Translate (⭐3.3k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 
 ## [Jan 15, 2021](/content/2021/01/15/README.md)
 
@@ -166,7 +172,7 @@
 
 ### Tools / Libraries and tools for developers
 
-*   [Polyglot (⭐365)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐385)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 
 ### Tools / Other tools
 
@@ -176,7 +182,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐299)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐304)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [Dec 20, 2020](/content/2020/12/20/README.md)
 
@@ -188,7 +194,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [SwiftGoogleTranslate (⭐90)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐94)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 
 ### Articles / Introductions to internationalization
 
@@ -263,14 +269,14 @@
 
 ### Tools / Libraries and tools for developers
 
-*   [Translate (⭐808)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐832)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [Nov 28, 2020](/content/2020/11/28/README.md)
 
 ### Translations
 
-*   [English (⭐93)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐93)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐115)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐115)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms / Localization and translation platforms
 
@@ -282,7 +288,7 @@
 ### Platforms / Project management
 
 *   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-*   [Traduora (⭐1.9k)](https://github.com/traduora/traduora) - A platform to manage translation workflow in teams.
+*   [Traduora (⭐2k)](https://github.com/traduora/traduora) - A platform to manage translation workflow in teams.
 
 ### Platforms / Platform-specific tools
 
@@ -290,8 +296,8 @@
 
 ### Apps / Automated translation
 
-*   [RTranslator (⭐126)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐1.5k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [RTranslator (⭐153)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1.8k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐17k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 
 ### Tools / Automatic translation for end users
@@ -300,13 +306,13 @@
 
 ### Tools / Libraries and tools for developers
 
-*   [deep-translator (⭐1.2k)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-*   [Translator (⭐1.4k)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [deep-translator (⭐1.4k)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [Translator (⭐1.5k)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally (⭐3.3k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [i18n Ally (⭐3.6k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 
 ### Tools / Other tools
 

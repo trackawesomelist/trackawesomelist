@@ -22,7 +22,7 @@
 
 ### JSON Schema Tools
 
-*   [JSON Schema $Ref Parser (⭐878)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
+*   [JSON Schema $Ref Parser (⭐905)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐693)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐700)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2016
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -175,34 +175,26 @@ git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev
 *   [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD\&utm_medium=referral\&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 *   [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Material Design
-
-*   [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
-*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
-
-## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Continuous Integration
 
 *   [CircleCI](https://circleci.com) - A continuous integration platform.
 
-## [15. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [14. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [eslint-ava-rule-tester (⭐14)](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint (⭐21k)](https://github.com/eslint/eslint) plugins with AVA.
 *   [jscodeshift-ava-tester (⭐12)](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift (⭐7.9k)](https://github.com/facebook/jscodeshift) codemods with AVA.
 
-## [16. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [15. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Common Utilities
 
 *   [Draft.js SimpleDecorator (⭐25)](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 
-## [17. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [16. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Other
 
@@ -214,7 +206,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5\&ncol=5)
 
-## [18. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [17. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -248,7 +240,7 @@ Free
 *   [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
 *   [#incident\_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
 
-## [19. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [18. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -262,7 +254,7 @@ Free
 
 *   [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 
-## [20. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [19. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Modeling and Computation
 
@@ -342,7 +334,7 @@ Free
 *   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
-## [21. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [20. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Open Source Licenses
 
@@ -359,13 +351,13 @@ Free
 *   [Special Purpose](https://api.opensource.org/licenses/special-purpose)
 *   [Retired](https://api.opensource.org/licenses/retired)
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
 *   [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 
-## [23. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [22. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Windows Managers / Other Desktop Environments
 
@@ -375,7 +367,7 @@ Free
 
 *   [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 
-## [24. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [23. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Utilities
 
@@ -474,31 +466,31 @@ Free
 *   [Gitter](https://gitter.im/reactjs/redux)
 *   [`#rackt` on freenode](https://webchat.freenode.net/)
 
-## [25. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [24. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Plugins and addons
 
 *   [choo-test (⭐23)](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
 
-## [26. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [25. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Podcasts / Other
 
 *   [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
 
-## [27. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [26. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Unspecified License
 
 *   [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
 
-## [28. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [27. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Dynamic Check
 
 *   [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail
 
-## [29. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -508,45 +500,45 @@ Free
 
 *   [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** \[54:17]
 
-## [30. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [29. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [How to become a Hacker?](http://www.catb.org/\~esr/faqs/hacker-howto.html)
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [DotLoader (⭐136)](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 *   [PodSlider (⭐135)](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
 
-## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Clouds
 
 *   [Virtuozzo](https://virtuozzo.com)\
     A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 
-## [33. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [32. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐975)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐976)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
-## [35. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [34. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cryptography
 
@@ -560,9 +552,9 @@ Free
 
 ### Translations and Internationalizations
 
-*   [trans (⭐221)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐226)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Essentials
 
@@ -639,16 +631,16 @@ Free
 
 *   Make sure the Travis tests pass on your pull request
 
-## [38. Amas](/content/sindresorhus/amas/week/README.md)
+## [37. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Jeroen Engels (⭐4)](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
 *   [Tim Smith (⭐0)](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 *   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
-*   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
+*   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating stuff at bullgit.
 
-## [39. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [38. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Editors
 
@@ -664,7 +656,7 @@ Free
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -672,24 +664,24 @@ Free
 
 ### Misc
 
-*   [Aeron.NET (⭐466)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐275)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐474)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐287)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ### Serialization
 
-*   [Migrant (⭐45)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+*   [Migrant (⭐46)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 
 ### Source Generator
 
 *   [Awesome .NET Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [42. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Videos
 
@@ -699,7 +691,7 @@ Free
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [43. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [42. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Progressive web apps / Service Workers
 
@@ -709,19 +701,19 @@ Free
 
 *   [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 
-## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
 *   [SwiftLearner (⭐39)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
-## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
 *   [fecha (⭐2.1k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
-## [46. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [45. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -731,20 +723,20 @@ Free
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
-## [47. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [46. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Bots
 
 *   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 *   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
-## [48. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [47. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Legacy
 
 *   [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) \[2016]
 
-## [49. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [48. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / Z companies
 
@@ -754,13 +746,13 @@ Free
 
 *   Ariejan de Vroom <https://ariejan.net/>
 
-## [50. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [49. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.5k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.6k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
-## [51. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [50. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -770,13 +762,13 @@ Free
 
 *   [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 
-## [52. Bots](/content/hackerkid/bots/week/README.md)
+## [51. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 
-## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

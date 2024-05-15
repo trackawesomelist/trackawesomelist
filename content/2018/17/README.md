@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [MusicGenreClassification (⭐453)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
+*   [MusicGenreClassification (⭐538)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 
 ## [2. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -102,7 +102,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Implementations/Compilers
 
-*   [mint-lang (⭐3.9k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
+*   [mint-lang (⭐4k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
 *   [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## [9. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
@@ -138,7 +138,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Tools / Playground
 
-*   [typed-install (⭐100)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -153,30 +153,30 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [KeyboardObserver (⭐161)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
 *   [KeyboardMan (⭐351)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
 *   [Typist (⭐1.1k)](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
-*   [KeyboardHideManager (⭐56)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
-*   [Toolbar (⭐457)](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
+*   [KeyboardHideManager (⭐57)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
+*   [Toolbar (⭐456)](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 *   [IHKeyboardAvoiding (⭐1.4k)](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
 *   [NumPad (⭐83)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
 
 ### Utility / Collection View Layout
 
-*   [SwiftRandom (⭐559)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
+*   [SwiftRandom (⭐560)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
 *   [SwiftParsec (⭐226)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐261)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
 *   [BFKit-Swift (⭐997)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
-*   [DeviceGuru (⭐465)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
-*   [RateLimit (⭐918)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
-*   [AssistantKit (⭐583)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+*   [DeviceGuru (⭐469)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
+*   [RateLimit (⭐914)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
+*   [AssistantKit (⭐585)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 *   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐826)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐830)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
 *   [SwiftSortUtils (⭐61)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
-*   [Retry (⭐499)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
-*   [ObjectiveKit (⭐846)](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
+*   [Retry (⭐498)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
+*   [ObjectiveKit (⭐848)](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
 *   [MoyaSugar (⭐190)](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya.
-*   [SwifterSwift (⭐13k)](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
+*   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
 *   [OpenSourceController (⭐52)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
 *   [FluxCapacitor (⭐123)](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 *   [Closures (⭐1.7k)](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
@@ -184,12 +184,12 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Extensions / Collection View Layout
 
 *   [CleanClosureXcode (⭐185)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
-*   [SwiftInitializerGenerator (⭐716)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
+*   [SwiftInitializerGenerator (⭐717)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
 *   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-*   [Import (⭐847)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
-*   [Mark (⭐158)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
+*   [Import (⭐846)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+*   [Mark (⭐157)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
 *   [XShared (⭐73)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
-*   [DocumenterXcode (⭐35)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
+*   [DocumenterXcode (⭐36)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
 ## [16. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
@@ -238,7 +238,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Testing
 
-*   [Expectations (⭐395)](https://github.com/clojure-expectations/expectations)
+*   [Expectations (⭐396)](https://github.com/clojure-expectations/expectations)
 
 ## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -272,7 +272,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### GTFS Based Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐369)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐372)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -331,7 +331,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Plugins
 
-*   [tmux-1password (⭐236)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐248)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [30. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -348,7 +348,7 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐351)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐353)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
@@ -401,7 +401,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐9.2k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐9.5k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
@@ -409,7 +409,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Networking
 
-*   [ENet (⭐2.5k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
+*   [ENet (⭐2.6k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
 ## [38. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 

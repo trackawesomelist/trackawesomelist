@@ -17,7 +17,7 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐424)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐474)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Development / Text-Based User Interfaces
 
-*   [SneakyThrow (⭐75)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
+*   [SneakyThrow (⭐74)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -39,7 +39,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐41)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐42)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Libraries / PHP
 
-*   [PHPMongo ODM (⭐241)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHPMongo ODM (⭐243)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐84)](https://github.com/formapro/yadm) - Fast schemaless ODM
 

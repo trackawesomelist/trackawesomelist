@@ -2,9 +2,15 @@
 
 A collection of awesome resources about @storybookjs ecosystem 🎨
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 295 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauthieb/awesome-storybook/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) · ⭐ 358 · 🏷️ Front-End Development
 
 [ [Daily](/content/lauthieb/awesome-storybook/README.md) / Weekly / [Overview](/content/lauthieb/awesome-storybook/readme/README.md) ]
+
+## [May 13 - May 19, 2024](/content/2024/20/README.md)
+
+### Examples
+
+*   [Recharts](https://recharts.org/en-US/storybook)
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -23,7 +29,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐267)](https://github.com/Qvant-lab/qui-max)
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -48,7 +54,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Community resources
 
-*   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Documentation Primitives (⭐35)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
@@ -67,8 +73,8 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Community resources
 
-*   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
-*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Brand's materials (⭐92)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+*   [Storybook Deployer (⭐893)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Blog posts
 
@@ -111,7 +117,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Examples
 
-*   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐85)](https://github.com/shared-components/shared-react-components-example)
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 

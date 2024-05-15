@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05 - Oct 11, 2015
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -115,14 +115,14 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Malfunction (⭐186)](https://github.com/Dynetics/Malfunction) - Catalog and
+*   [Malfunction (⭐190)](https://github.com/Dynetics/Malfunction) - Catalog and
     compare malware at a function level.
 
 ### Other / Other Resources
 
-*   [APT Notes (⭐1.4k)](https://github.com/aptnotes/data) - A collection of papers
+*   [APT Notes (⭐1.6k)](https://github.com/aptnotes/data) - A collection of papers
     and notes related to Advanced Persistent Threats.
-*   [AppSec (⭐5.3k)](https://github.com/paragonie/awesome-appsec)
+*   [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec)
 
 ## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -226,7 +226,7 @@
 
 ### Third Party APIs
 
-*   [elixtagram (⭐82)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
+*   [elixtagram (⭐83)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
 ## [18. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -296,11 +296,11 @@
 
 ### Git Tools
 
-*   [posh-git (⭐7.3k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.4k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐393)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐396)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -350,7 +350,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐844)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐847)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 
@@ -358,7 +358,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### UI / Barcode
 
-*   [AMScrollingNavbar (⭐6.1k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
+*   [AMScrollingNavbar (⭐6k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 *   [NVActivityIndicatorView (⭐11k)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 
 ## [28. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
@@ -411,21 +411,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [cloc (⭐18k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Babel Plugins / Components
-
-*   [babel-plugin-type-assertion (⭐0)](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts\_assert
-
-### Haxe Seed Projects / Components
-
-*   [angular2haxe (⭐28)](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2.
-
-### Scala Seed Projects / Components
-
-*   [play-angular2 (⭐9)](https://github.com/gdi2290/play-angular2)
-
-## [32. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Java
 
@@ -461,7 +447,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Neo4j Koans (⭐322)](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
-## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Image
 
@@ -471,7 +457,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 
-## [34. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -491,7 +477,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
     *   [page-object (⭐646)](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
 *   [factory\_factory\_girl (⭐46)](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 
-## [35. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [34. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -502,7 +488,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Web Audio Basics (⭐116)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
-## [36. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [35. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 

@@ -16,13 +16,13 @@
 
 ### Media
 
-*   [Xabe.FFmpeg (⭐694)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+*   [Xabe.FFmpeg (⭐697)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐82)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐83)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 
@@ -47,8 +47,8 @@ git rebase --onto <new_base> <old_base>
 
 ### Plasma desktop / Themes
 
-*   [Adapta KDE (⭐458)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-*   [Arc KDE (⭐821)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+*   [Adapta KDE (⭐466)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
+*   [Arc KDE (⭐894)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
 ## [8. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

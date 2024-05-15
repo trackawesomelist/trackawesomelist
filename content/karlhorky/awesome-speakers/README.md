@@ -2,7 +2,7 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 761 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 757 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/karlhorky/awesome-speakers/week/README.md) / [Overview](/content/karlhorky/awesome-speakers/readme/README.md) ]
 
@@ -1321,6 +1321,12 @@ Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
 
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
 **Inayaili de León**\
@@ -1418,18 +1424,6 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 **Luke Bonaccorsi**\
 Topics: Node, JavaScript, Automation\
 <https://twitter.com/LukeB_UK>
-
-## [Dec 03, 2017](/content/2017/12/03/README.md)
-
-### Europe / Germany 🇩🇪
-
-### Strasbourg
-
-<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
-
-**Sven Sauleau**\
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
-<https://twitter.com/svensauleau>
 
 ## [Nov 30, 2017](/content/2017/11/30/README.md)
 
@@ -1617,7 +1611,7 @@ Topics: Developer Tools, JavaScript\
 
 ## [Nov 11, 2017](/content/2017/11/11/README.md)
 
-### Europe / France 🇫🇷
+### Europe / Germany 🇩🇪
 
 ### Paris
 

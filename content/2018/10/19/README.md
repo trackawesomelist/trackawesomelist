@@ -16,8 +16,8 @@
 
 ### Foundations of Mathematics / Category Theory
 
-*   [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
+*   📝 [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
+*   📝 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
 
 ## [3. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Libraries
 
-*   [tf-encrypted (⭐0)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+*   [tf-encrypted (⭐2)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -121,15 +121,15 @@
 ### CLI / Text-Based User Interfaces
 
 *   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐321)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐332)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Security / Other
 
-*   [SecurityBuilder (⭐45)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+*   [SecurityBuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2.1k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -151,14 +151,14 @@
 
 ### Monads
 
-*   [Fluokitten (⭐451)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐455)](https://github.com/uncomplicate/fluokitten)
 
 ### Science and Data Analysis
 
 *   [Bayadera - Bayesian Data Analysis on the GPU (⭐360)](https://github.com/uncomplicate/bayadera)
-*   [ClojureCUDA (⭐172)](https://github.com/uncomplicate/clojurecuda)
+*   [ClojureCUDA (⭐173)](https://github.com/uncomplicate/clojurecuda)
 *   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
-*   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
+*   [ClojureCL - parallel computations with OpenCL (⭐273)](https://github.com/uncomplicate/clojurecl)
 
 ## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

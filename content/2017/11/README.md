@@ -281,7 +281,7 @@
 *   Multi-tenancy
     *   [Acts As Tennant (⭐1.5k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
     *   [Apartment (⭐2.6k)](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
-    *   [Milia (⭐339)](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
+    *   [Milia (⭐341)](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 
 ## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -293,7 +293,7 @@
 
 ### Samples
 
-*   [SDF Font Demo (⭐211)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
+*   [SDF Font Demo (⭐216)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
 
 ## [24. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐917)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐923)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐544)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [SocialConnect Auth (⭐545)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
@@ -622,13 +622,13 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
-*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐215)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [43. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -644,7 +644,7 @@
 
 ### Debugging
 
-*   [debugger (⭐263)](https://github.com/razum2um/clj-debugger)
+*   [debugger (⭐264)](https://github.com/razum2um/clj-debugger)
 
 ## [45. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 

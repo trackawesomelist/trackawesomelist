@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [Z.ExtensionMethods (⭐1.1k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
+*   [Z.ExtensionMethods (⭐1.4k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## [2. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Geolocation
 
-*   [topo (⭐141)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐146)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 

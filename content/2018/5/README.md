@@ -75,7 +75,7 @@
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐253)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐258)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### C bindings
 
-*   [x\_do.cr (⭐19)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
+*   [x\_do.cr (⭐18)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐11k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐12k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐568)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐571)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Community / Other
 
@@ -248,7 +248,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator
+*   [lalrpop/lalrpop (⭐2.9k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator
 
 ## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐14k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐15k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
 
 ## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -328,7 +328,7 @@
 
 ### Blog posts and opinions
 
-*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐2.9k)](https://github.com/pester/Pester/).
+*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐3k)](https://github.com/pester/Pester/).
 
 ## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -379,15 +379,15 @@
 
 ### Cryptography
 
-*   [digestpp (⭐184)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐186)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
-*   [TileDB (⭐1.7k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
+*   [TileDB (⭐1.8k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
 
 ### Debug
 
-*   [MinUnit (⭐536)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐549)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -409,11 +409,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐54k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐56k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐54k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐56k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +422,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐65k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐67k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 

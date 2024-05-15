@@ -18,7 +18,7 @@
 
 ### Table of Contents / Security
 
-*   [HTML Purifier (⭐2.9k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
+*   [HTML Purifier (⭐3k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 
 ### Table of Contents / PDF
 

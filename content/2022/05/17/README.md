@@ -10,8 +10,8 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐33)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
-*   [terraform-provider-scalr (⭐18)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
+*   [terraform-provider-env0 (⭐38)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-scalr (⭐19)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 
 ## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -53,12 +53,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐186)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐192)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐64)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐66)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐84)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐88)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
@@ -95,13 +95,13 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐250)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐252)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐217)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐241)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

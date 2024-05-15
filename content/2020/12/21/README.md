@@ -33,13 +33,13 @@
 
 ### Tools and session management
 
-*   [smug (⭐550)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐667)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐685)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐814)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [5. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -57,12 +57,11 @@
 
 ### Image / Image Picker
 
-*   [Image Picker (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-*   [WeChat Assets Picker (⭐1.3k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+*   [WeChat Assets Picker (⭐1.4k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.2k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.5k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -86,13 +85,13 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐9.1k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐9.4k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-    *   [GitHub repository :octocat: (⭐19k)](https://github.com/rusty1s/pytorch_geometric)
+    *   [GitHub repository :octocat: (⭐20k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐7.9k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
-    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/daavoo/pyntcloud)
+    *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/daavoo/pyntcloud)
 
 ### Frameworks
 
@@ -103,13 +102,13 @@
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐280)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐289)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐352)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐359)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
-    *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/charlesq34/frustum-pointnets)
+    *   [GitHub repository :octocat: (⭐1.6k)](https://github.com/charlesq34/frustum-pointnets)
 *   [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
     *   [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
     *   [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
@@ -118,13 +117,13 @@
 
 *   [LeGO-LOAM :octocat: (⭐2.2k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-*   [Cartographer :octocat: (⭐6.8k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+*   [Cartographer :octocat: (⭐6.9k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐821)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐848)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐608)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐620)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -164,16 +163,15 @@
 
 ### Prompts
 
-*   [Pure (⭐1.1k)](https://github.com/rafaelrinaldi/pure) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
-*   [Hydro (⭐471)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+*   [Hydro (⭐589)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ### Plugins
 
-*   [Fisher (⭐6.7k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
-*   [Fundle (⭐358)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
-*   [Autopair (⭐250)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐260)](https://github.com/laughedelic/pisces))
-*   [Async Prompt (⭐329)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
-*   [Abbreviation Tips (⭐217)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
+*   [Fisher (⭐7.4k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+*   [Fundle (⭐373)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+*   [Autopair (⭐345)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐275)](https://github.com/laughedelic/pisces))
+*   [Async Prompt (⭐377)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+*   [Abbreviation Tips (⭐277)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 
 ## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -183,7 +181,7 @@
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Dependency Injection / Collection View Layout
+### Dependency Injection
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
 *   [Pilgrim (⭐63)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).

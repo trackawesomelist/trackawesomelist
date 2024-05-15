@@ -97,7 +97,7 @@
 
 ### Ask these people anything!
 
-*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building [ImportJS (⭐519)](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building ImportJS and Diffux CI. Web infra at Airbnb.
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐972)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐991)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [PacketQ (⭐385)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
+*   [PacketQ (⭐388)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
 
 ## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### Template Engine
 
-*   [crustache (⭐81)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐82)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### Libraries
 
-*   [TensorFlow-Slim (⭐75k)](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
+*   [TensorFlow-Slim (⭐77k)](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 
 ### Blog posts
 
@@ -479,12 +479,12 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐867)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐546)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐550)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

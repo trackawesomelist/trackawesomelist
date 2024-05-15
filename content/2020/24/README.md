@@ -22,11 +22,11 @@
 
 ### Themes
 
-*   [tmux-power (⭐440)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐496)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐441)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐477)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -57,11 +57,11 @@
 
 ### Tools
 
-*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐48)](https://github.com/opengento/magento2-downgrade-ee-ce)
+*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐52)](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐118)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐120)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Equinox Project (⭐6.2k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
+*   [Equinox Project (⭐6.3k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
 
 ### Libraries and Frameworks / .NET
 
@@ -150,7 +150,7 @@
 
 ### Libraries / General Purpose
 
-*   [MolecularGraph.jl (⭐154)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
+*   [MolecularGraph.jl (⭐183)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 
 ## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -158,9 +158,9 @@
 
 *   SSH-style Deployment
     *   [cuisine (⭐1.3k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
-    *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
+    *   [fabric (⭐15k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
 *   Monitoring
-    *   [psutil (⭐9.8k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐9.9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 
 ## [20. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐150)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐153)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### Projects / Boilerplate
 
@@ -182,7 +182,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Highcharts (⭐30)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
+*   [Blazor Highcharts (⭐32)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 
 ## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐948)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐950)](https://github.com/louketo/louketo-proxy)
 
 ## [24. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
@@ -206,7 +206,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐875)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐926)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -240,7 +240,7 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐822)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐861)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -277,7 +277,7 @@
 
 ### Applications
 
-*   [wezterm (⭐13k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐14k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -494,12 +494,12 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+*   [GTFS Kit (⭐34)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
 *   [Busbuzzard (⭐9)](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
 
 ### GTFS Libraries / Python
 
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐34)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Realtime Utilities / Ruby
 
@@ -572,21 +572,21 @@
 
 ### Auth
 
-*   [FastAPI Auth (⭐126)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-*   [FastAPI Login (⭐540)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.4k)](https://github.com/maxcountryman/flask-login)).
-*   [FastAPI Permissions (⭐409)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
+*   [FastAPI Auth (⭐131)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+*   [FastAPI Login (⭐585)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.5k)](https://github.com/maxcountryman/flask-login)).
+*   [FastAPI Permissions (⭐442)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 
 ### Databases / ORMs
 
-*   [FastAPI SQLAlchemy (⭐550)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+*   [FastAPI SQLAlchemy (⭐580)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
 *   [GINO (⭐2.6k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐386)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+    *   [FastAPI Example (⭐403)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 *   [ORM (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
 
 ### Databases / Query Builders
 
-*   [asyncpgsa (⭐411)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐6.3k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
-*   [Databases (⭐3.6k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
+*   [asyncpgsa (⭐411)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐6.6k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
+*   [Databases (⭐3.7k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
 
 ### Databases / ODMs
 
@@ -594,28 +594,28 @@
 
 ### Databases / Other Tools
 
-*   [Pydantic-SQLAlchemy (⭐1k)](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
+*   [Pydantic-SQLAlchemy (⭐1.1k)](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Client Generator (⭐319)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
-*   [FastAPI Versioning (⭐569)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
-*   [Jupyter Notebook REST API (⭐72)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
+*   [FastAPI Client Generator (⭐323)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
+*   [FastAPI Versioning (⭐616)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
+*   [Jupyter Notebook REST API (⭐75)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 
 ### Utils / Other Tools
 
-*   [FastAPI Contrib (⭐579)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
-*   [FastAPI Plugins (⭐306)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
+*   [FastAPI Contrib (⭐601)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
+*   [FastAPI Plugins (⭐338)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 *   [FastAPI ServiceUtils (⭐32)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
-*   [FastAPI Utilities (⭐1.6k)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
+*   [FastAPI Utilities (⭐1.7k)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 *   [Prerender Python Starlette (⭐15)](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender.
-*   [SlowApi (⭐824)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
-*   [Starlette Exporter (⭐275)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
+*   [SlowApi (⭐990)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
+*   [Starlette Exporter (⭐290)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
 
 ### Official Resources / Other Tools
 
 *   [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
-*   [Source Code (⭐65k)](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
+*   [Source Code (⭐71k)](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
 
 ### Podcasts / Other Tools
 
@@ -627,22 +627,21 @@
 
 ### Serverless / Other Tools
 
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐43)](https://github.com/Snailedlt/Markdown-Videos)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐61)](https://github.com/Snailedlt/Markdown-Videos)).
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐14k)](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator, which includes FastAPI, PostgreSQL, Docker, Celery, Vue frontend, automatic HTTPS and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
-*   [FastAPI Model Server Skeleton (⭐300)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
-*   [cookiecutter-spacy-fastapi (⭐466)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
+*   [FastAPI Model Server Skeleton (⭐343)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
+*   [cookiecutter-spacy-fastapi (⭐498)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
 *   [Pywork (⭐11)](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) generator to scaffold a FastAPI app.
-*   [FastAPI Nano (⭐732)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
+*   [FastAPI Nano (⭐795)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ### Open Source Projects / Other Tools
 
-*   [Dispatch (⭐4.3k)](https://github.com/Netflix/dispatch) - Manage security incidents.
-*   [Mailer (⭐51)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
-*   [Sprites as a service (⭐295)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
-*   [Slackers (⭐77)](https://github.com/uhavin/slackers) - Slack webhooks API.
+*   [Dispatch (⭐4.6k)](https://github.com/Netflix/dispatch) - Manage security incidents.
+*   [Mailer (⭐56)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
+*   [Sprites as a service (⭐300)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
+*   [Slackers (⭐79)](https://github.com/uhavin/slackers) - Slack webhooks API.
 
 ## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -721,26 +720,26 @@
 
 ### Layout / Barcode
 
-*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.6k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.7k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ### Mock / Barcode
 
-*   [Mocker (⭐1k)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐1.1k)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [59. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐14)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐145)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐15)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐149)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐940)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐956)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [60. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -754,7 +753,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐873)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐899)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ### Chart
 
@@ -797,7 +796,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐134)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐135)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [66. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -815,7 +814,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐199)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐200)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
@@ -825,7 +824,7 @@
 
 ### External Services
 
-*   [steam-box (⭐143)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐150)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [68. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -959,18 +958,18 @@
 
 ### Python / Data Sources
 
-*   [yliveticker (⭐132)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+*   [yliveticker (⭐134)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.5k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.6k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [71. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
-*   [Chord Quiz (⭐14)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
+*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Chord Quiz (⭐15)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ---
 

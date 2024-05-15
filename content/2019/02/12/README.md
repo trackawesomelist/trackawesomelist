@@ -16,13 +16,13 @@
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐484)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐485)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Deobfuscation / Other Resources
 
-*   [un{i}packer (⭐490)](https://github.com/unipacker/unipacker) - Automatic and
+*   [un{i}packer (⭐606)](https://github.com/unipacker/unipacker) - Automatic and
     platform-independent unpacker for Windows binaries based on emulation.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
@@ -69,7 +69,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3.6k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.7k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

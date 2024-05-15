@@ -2,7 +2,7 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 761 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 757 · 🏷️ Miscellaneous
 
 [ [Daily](/content/karlhorky/awesome-speakers/README.md) / Weekly / [Overview](/content/karlhorky/awesome-speakers/readme/README.md) ]
 
@@ -1306,6 +1306,12 @@ Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
 
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
 **Inayaili de León**\
@@ -1405,16 +1411,6 @@ Topics: Node, JavaScript, Automation\
 <https://twitter.com/LukeB_UK>
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
-
-### Europe / Germany 🇩🇪
-
-### Strasbourg
-
-<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
-
-**Sven Sauleau**\
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
-<https://twitter.com/svensauleau>
 
 ### Europe / Portugal 🇵🇹
 
@@ -1758,7 +1754,7 @@ Topics: Testing\
 Topics: CSS in JS, Style Guides, Visual Regression Testing\
 <https://twitter.com/varya_en>
 
-### Europe / France 🇫🇷
+### Europe / Germany 🇩🇪
 
 ### Paris
 
@@ -1767,9 +1763,6 @@ Topics: CSS in JS, Style Guides, Visual Regression Testing\
 **Wassim Chegham**\
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
 <https://twitter.com/manekinekko>
-
-### Europe / Germany 🇩🇪
-
 ### Freiburg
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/smashingmag" height="70px" width="70px" align="left" alt="" />

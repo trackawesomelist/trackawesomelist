@@ -35,18 +35,18 @@
 
 ### Packages / Streams
 
-*   [duplexify (⭐189)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐254)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐190)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐253)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 *   [peek-stream (⭐56)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐702)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐704)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐529)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-*   [node-linux (⭐417)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-mac (⭐531)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-linux (⭐419)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ### Packages / Miscellaneous
 
@@ -154,7 +154,7 @@
 
 ### Queue
 
-*   [Hangfire (⭐8.9k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
+*   [Hangfire (⭐9.1k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

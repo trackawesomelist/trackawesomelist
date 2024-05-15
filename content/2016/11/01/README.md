@@ -51,11 +51,11 @@
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐587)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐602)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐95)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐96)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [Tcptrace (⭐68)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
+*   [Tcptrace (⭐75)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

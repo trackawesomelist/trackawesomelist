@@ -48,7 +48,7 @@
 
 ### Media / Video
 
-*   [CamerAwesome (⭐704)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
+*   [CamerAwesome (⭐873)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-tabs (⭐38)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
+*   [vue3-tabs (⭐39)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
 ## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

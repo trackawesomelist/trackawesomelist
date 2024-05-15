@@ -16,9 +16,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐375)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐382)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.2k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.1k)](https://github.com/tcdi/pgx)
+*   Rust: [rust-postgresql (⭐3.3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.2k)](https://github.com/tcdi/pgx)
 
 ## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐996)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐1k)](https://github.com/nelson-brochado/understanding-math)
 
 ## [8. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

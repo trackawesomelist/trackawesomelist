@@ -16,17 +16,17 @@
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.4k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.5k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Mikola Lysenko (⭐8)](https://github.com/mikolalysenko/ama) - Geometry vagrant.
-*   [Drew Minns (⭐0)](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
-*   [Heather Payne (⭐1)](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
-*   [Ryan Christiani (⭐0)](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
-*   [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
+*   [Drew Minns (⭐0)](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with HackerYou.
+*   [Heather Payne (⭐1)](https://github.com/heatherpayne/ama) - CEO of HackerYou, founder of Ladies Learning Code.
+*   [Ryan Christiani (⭐0)](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at HackerYou in Toronto.
+*   [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at Mashape. Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

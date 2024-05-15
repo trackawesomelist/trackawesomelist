@@ -10,17 +10,17 @@
 
 ### Tools / Community providers
 
-*   [rover (⭐2.8k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
+*   [rover (⭐2.9k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Rich Text Editor
 
-*   [tiptap (⭐23k)](https://github.com/ueberdosis/tiptap) - [demo](https://tiptap.dev/) - [docs](https://tiptap.dev/introduction) - The headless editor framework for web artisans.
+*   [tiptap (⭐24k)](https://github.com/ueberdosis/tiptap) - [demo](https://tiptap.dev/) - [docs](https://tiptap.dev/introduction) - The headless editor framework for web artisans.
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐699)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐702)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -33,7 +33,7 @@
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner (⭐842)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner (⭐904)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)

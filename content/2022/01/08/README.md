@@ -47,8 +47,8 @@
 
 ### Tools / Community providers
 
-*   [hcldump (⭐7)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
-*   [hclgrep (⭐86)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hcldump (⭐8)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+*   [hclgrep (⭐87)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐8.1k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐8.2k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Languages / Python
 
-*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [tinyman-py-sdk (⭐119)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 ### Name Services / Wallets
 

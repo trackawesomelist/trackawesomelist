@@ -1,24 +1,18 @@
 # Awesome List Updates on Apr 26, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Domain Specific Language / Design Theory
-
-*   [Domain Specific Languages](https://martinfowler.com/books/dsl.html) - ***Pearson Education***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3653365103385845410)]. \[[Author's DSL Guide](https://martinfowler.com/dsl.html)]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications.
-
-## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [1. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Websites
 
 *   [CodeChef](https://www.codechef.com/roadmap/algorithms) - Learning DSA by practice on Codechef
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
@@ -28,7 +22,7 @@
 
 *   [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
@@ -43,17 +37,17 @@
 
 *   [Webpack](https://webpack.js.org)
 *   [ESBuild](https://esbuild.github.io/)
-*   [Nx (⭐22k)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+*   [Nx (⭐22k)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI.
 *   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
-*   [Jest Builder (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
-*   [Custom Webpack (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
-*   [Custom ESBuild (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration.
+*   [Jest Builder (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
+*   [Custom Webpack (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
+*   [Custom ESBuild (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild)
 *   [Bazel (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
 *   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 *   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
 *   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
-*   [ngx-electronify (⭐97)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
-*   [dotenv-run (⭐224)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ngx-electronify (⭐96)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐226)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 *   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 
 ### YouTube Channels / Testing
@@ -74,45 +68,45 @@
 
 *   [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
-### RxJS / Tailwind CSS Based
+### RxJS / Node Based
 
-*   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
-*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
-*   [rxjs-course (⭐370)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
+*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
+*   [rxjs-course (⭐371)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
 *   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 *   [rxjs-challenge (⭐559)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
-## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Web / Messaging
 
 *   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### AI and Education / Deforum
 
 *   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
 *   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Layout
 
 *   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
 
-## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Web server Modules / Meetups
 
 *   [imteekay/web-performance-research (⭐711)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -214,4 +208,5 @@
 
 ---
 
+- Prev: [Apr 27, 2024](/content/2024/04/27/README.md)
 - Next: [Apr 25, 2024](/content/2024/04/25/README.md)

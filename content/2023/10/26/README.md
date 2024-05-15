@@ -10,11 +10,11 @@
 
 ### Logging
 
-*   [haclog (⭐66)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐68)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐173)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐193)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.5k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
@@ -27,7 +27,7 @@
 
 ### Game
 
-*   [DotRecast (⭐321)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐394)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-ui-preloader (⭐2)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
+*   [vue3-ui-preloader (⭐5)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
 ## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Models
 
-*   [Qwen (⭐8.9k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 
@@ -183,7 +183,7 @@
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐40)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐55)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

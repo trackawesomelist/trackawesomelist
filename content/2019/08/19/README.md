@@ -10,7 +10,7 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [BoomBox (⭐217)](https://github.com/nbeede/BoomBox) - Automatic deployment of Cuckoo
+*   [BoomBox (⭐231)](https://github.com/nbeede/BoomBox) - Automatic deployment of Cuckoo
     Sandbox malware lab using Packer and Vagrant.
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)

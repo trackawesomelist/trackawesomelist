@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15 - Sep 21, 2014
 
-13 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,12 +31,12 @@
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐384)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐385)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐339)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐249)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐250)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 
@@ -49,7 +49,7 @@
 ### Packages / Miscellaneous
 
 *   [webworker-threads (⭐2.3k)](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
-*   [opencv (⭐4.3k)](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+*   [opencv (⭐4.4k)](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -177,29 +177,7 @@
 *   [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly\&utm_campaign=Issue-127\&utm_medium=RSS), by Micah Godbolt (8/25/14)
 *   [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/), by Harry Roberts (4/28/12)
 
-## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### C
-
-*   [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
-
-### C++
-
-*   [C++ Template 进阶指南 (⭐8.9k)](https://github.com/wuye9036/CppTemplateTutorial)
-
-### Erlang
-
-*   [Erlang 并发编程 (⭐32)](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
-
-### Fortran
-
-*   [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
-
-### Scheme / Django
-
-*   [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-
-## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Other Interpreters
 

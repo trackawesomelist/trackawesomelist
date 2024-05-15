@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12 - Apr 18, 2021
 
-58 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,53 +18,11 @@
 
 *   [TTS (⭐11k)](https://github.com/coqui-ai/TTS) - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Text / Barcode
-
-*   [TextBuilder (⭐218)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
-
-## [4. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Forms
-
-*   [react-hook-form (⭐38k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-*   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-*   [formily (⭐10k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-
-## [5. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
-
-### Artificial Intelligence
-
-*   [CyberBattleSim (⭐1.6k)](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
-
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Testing
-
-*   [Blackfire.io](https://blackfire.io/) - Performance testing.
-
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
-
-### Dependency injection
-
-*   [piotr-yuxuan/closeable-map (⭐54)](https://github.com/piotr-yuxuan/closeable-map)
-
-## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
-
-### Table of Contents / Tutorials
-
-*   [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://medium.com/sicara/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
-
-### Researchers / Websites
-
-*   [stat.ucla.edu](http://statistics.ucla.edu/)
-
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐861)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐874)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -76,15 +34,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐266)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
-
-### Software / Personal Dashboards
-
-*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3.2k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
+*   [goploader (⭐272)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Photo and Video Galleries
 
-*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.6k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
+*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.7k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -93,6 +47,48 @@
 ### Software / Task Management & To-do Lists
 
 *   [Nullboard (⭐2.5k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Text / Barcode
+
+*   [TextBuilder (⭐221)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+
+## [5. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Forms
+
+*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
+*   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+*   [formily (⭐11k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+
+## [6. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+
+### Artificial Intelligence
+
+*   [CyberBattleSim (⭐1.6k)](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Testing
+
+*   [Blackfire.io](https://blackfire.io/) - Performance testing.
+
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+
+### Dependency injection
+
+*   [piotr-yuxuan/closeable-map (⭐56)](https://github.com/piotr-yuxuan/closeable-map)
+
+## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+
+### Table of Contents / Tutorials
+
+*   [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://medium.com/sicara/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+
+### Researchers / Websites
+
+*   [stat.ucla.edu](http://statistics.ucla.edu/)
 
 ## [10. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -111,13 +107,13 @@
 
 ### External Services
 
-*   [hitokoto-box (⭐8)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
+*   [hitokoto-box (⭐9)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
 ## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐26)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐27)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
 ## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -150,7 +146,7 @@
 ### Icons / Icon Fonts
 
 *   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐16k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐18k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
@@ -195,12 +191,12 @@
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐9.7k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐10k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ### Resources / Examples
 
 *   [Vuetify Swipeout (⭐141)](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
-*   [Vuetify Todo PWA (⭐194)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+*   [Vuetify Todo PWA (⭐193)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 
 ### Components & Libraries / UI Components
 
@@ -343,7 +339,7 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-up (⭐206)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐211)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [29. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -367,8 +363,8 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Microsoft ML for Apache Spark (⭐4.9k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
-*   [ONNX-Scala (⭐134)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [Microsoft ML for Apache Spark (⭐5k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
+*   [ONNX-Scala (⭐136)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -468,7 +464,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐768)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐795)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
 
 ## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -533,7 +529,7 @@
 
 ### Queries
 
-*   [dasel (⭐4.8k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.9k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐29k)](https://github.com/jqlang/jq) / [yq (⭐2.5k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
@@ -548,17 +544,7 @@
 
 *   [Formily (⭐11k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
-## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Framework-agnostic Plugins / Testing
-
-*   [mocha-vite-puppeteer (⭐39)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
-
-### React / Framework
-
-*   [@vitjs/vit (⭐99)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
-
-## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -566,9 +552,9 @@
 
 ### Themes
 
-*   [keycloakify: Create Keycloak themes using React (⭐1.1k)](https://github.com/InseeFrLab/keycloakify)
+*   [keycloakify: Create Keycloak themes using React (⭐1.3k)](https://github.com/InseeFrLab/keycloakify)
 
-## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [45. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -576,7 +562,7 @@
 
 ### CLI Builder
 
-*   [Runfile (⭐34)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
+*   [Runfile (⭐35)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 
 ### Core Extensions
 
@@ -585,7 +571,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Ciri (⭐128)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
+*   [Ciri (⭐127)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 *   [MoneyTree (⭐184)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 
 ### Data Visualization
@@ -594,11 +580,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐461)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐879)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐881)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -614,13 +600,13 @@
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐173)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐172)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ### Search
 
 *   [has\_scope (⭐1.6k)](https://github.com/heartcombo/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -770,7 +756,7 @@
 
 
 
-## [48. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [47. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Azure
 
@@ -800,7 +786,7 @@
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -810,26 +796,25 @@
 
 *   [link-header (⭐1)](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RRethy/nvim-base16 (⭐445)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
-*   [fenetikm/falcon (⭐692)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [fenetikm/falcon (⭐707)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
-## [51. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [50. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [Q# Community](https://qsharp.community)
 
-## [52. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [51. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### JavaScript
 
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
-## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [52. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / France 🇫🇷
 
@@ -841,17 +826,17 @@
 Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 <https://twitter.com/bebraw>
 
-## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [53. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Web Application Firewall
 
-*   [Curiefense (⭐689)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
+*   [Curiefense (⭐712)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 
 ### EBooks / Online resources
 
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
-## [55. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [54. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -883,7 +868,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 *   [Medical Data for Machine Learning (⭐5.7k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
-## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [55. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -891,24 +876,24 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Persistent object databases
 
-*   [ubiquitous (⭐23)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [ubiquitous (⭐24)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Miscellaneous
 
-*   [Trial (⭐759)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Trial (⭐847)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
     *   the [Kandria](https://kandria.com/) game is built with Trial.
 *   [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT](https://opensource.org/licenses/MIT).
-*   [virality (⭐88)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).
+*   [virality](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).
 *   [cl-gamepad](https://shirakumo.github.io/cl-gamepad) - Access to gamepads and joysticks on Windows, Mac OS, and Linux. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   👍 [Qtools (⭐205)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+*   👍 [Qtools (⭐208)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 
 ### Portability layers
 
-*   [trivial-arguments (⭐20)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [definitions (⭐15)](https://github.com/Shinmera/definitions) - a general definitions introspection library. It gives you the ability to retrieve definitions or bindings associated with designators such as symbols, packages, and names in general. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [trivial-arguments (⭐22)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [definitions (⭐18)](https://github.com/Shinmera/definitions) - a general definitions introspection library. It gives you the ability to retrieve definitions or bindings associated with designators such as symbols, packages, and names in general. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [dissect](https://shinmera.github.io/dissect) - when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-    *   [ndebug (⭐8)](https://github.com/atlas-engineer/ndebug) - Framework for portable GUI (or any non-standard) debuggers, based on [dissect](https://shinmera.github.io/dissect) and [trivial-custom-debugger (⭐12)](https://github.com/phoe/trivial-custom-debugger). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   [ndebug (⭐7)](https://github.com/atlas-engineer/ndebug) - Framework for portable GUI (or any non-standard) debuggers, based on [dissect](https://shinmera.github.io/dissect) and [trivial-custom-debugger (⭐12)](https://github.com/phoe/trivial-custom-debugger). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Iteration
 
@@ -928,16 +913,16 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Event processing / Third-party APIs
 
-*   [simple-tasks (⭐21)](https://github.com/Shinmera/simple-tasks) - A very simple task scheduling framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [simple-tasks (⭐20)](https://github.com/Shinmera/simple-tasks) - A very simple task scheduling framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [deeds (⭐22)](https://github.com/Shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [cl-all (⭐16)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [cl-all (⭐18)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐90)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐94)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 
@@ -946,19 +931,19 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 ### Developer utilities / Third-party APIs
 
 *   [trivial-benchmark (⭐35)](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-    *   a [similar macro (⭐15)](https://github.com/aartaka/graven-image#benchmark-macro) with additional support for more implementations (ABCL, Allegro, CCL, CLISP, ECL).
+    *   a similar macro (`benchmark`) is part of [trivial-time (⭐5)](https://github.com/aartaka/trivial-time), providing support for more implementations (ABCL, Allegro, CCL, CLISP, ECL).
     *   Indeed, most trivial-benchmark's metrics are only implemented on SBCL. On other implementations, it measures real and user-space time (and not bytes allocated (it does for ECL), system run-time or GC run-time).
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple (⭐54)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐56)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
-*   [pathname-utils (⭐12)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [pathname-utils (⭐13)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
     *   [filesystem-utils (⭐11)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
     *   no dependencies, doesn't access the filesystem.
-    *   [file-attributes (⭐11)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
+    *   [file-attributes (⭐12)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 
 ### Git / Third-party APIs
 
@@ -975,33 +960,33 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 *   [verbose](https://shinmera.github.io/verbose) - A fast and highly configurable logging framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [57. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [56. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [tf-quant-finance (⭐4.2k)](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
+*   [tf-quant-finance (⭐4.3k)](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 
 ### Python / Trading & Backtesting
 
-*   [rqalpha (⭐5.1k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities.
-*   [FinRL-Library (⭐8.8k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
-*   [bulbea (⭐1.9k)](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling.
+*   [rqalpha (⭐5.2k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities.
+*   [FinRL-Library (⭐9.2k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
+*   [bulbea (⭐2k)](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling.
 *   [ib\_nope (⭐27)](https://github.com/ajhpark/ib_nope) - Automated trading system for NOPE strategy over IBKR TWS.
-*   [OctoBot (⭐2.6k)](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
-*   [bta-lib (⭐428)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+*   [OctoBot (⭐2.9k)](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
+*   [bta-lib (⭐440)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 
 ### Python / Risk Analysis
 
-*   [universal-portfolios (⭐698)](https://github.com/Marigold/universal-portfolios) - Collection of algorithms for online portfolio selection.
-*   [FinQuant (⭐1.2k)](https://github.com/fmilthaler/FinQuant) - A program for financial portfolio management, analysis and optimisation.
+*   [universal-portfolios (⭐727)](https://github.com/Marigold/universal-portfolios) - Collection of algorithms for online portfolio selection.
+*   [FinQuant (⭐1.3k)](https://github.com/fmilthaler/FinQuant) - A program for financial portfolio management, analysis and optimization.
 
 ### Python / Data Sources
 
-*   [alpha\_vantage (⭐4.1k)](https://github.com/RomelTorres/alpha_vantage) - A python wrapper for Alpha Vantage API for financial data.
+*   [alpha\_vantage (⭐4.2k)](https://github.com/RomelTorres/alpha_vantage) - A python wrapper for Alpha Vantage API for financial data.
 
 ### Python / Visualization
 
-*   [finplot (⭐811)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
+*   [finplot (⭐854)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 
 ### JavaScript / FrameWorks
 
@@ -1009,13 +994,13 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### CSharp / Data Visualization
 
-*   [StockSharp (⭐6.4k)](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
+*   [StockSharp (⭐6.7k)](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [python-training (⭐3.4k)](https://github.com/jpmorganchase/python-training) - J.P. Morgan's Python training for business analysts and traders.
+*   [python-training (⭐3.7k)](https://github.com/jpmorganchase/python-training) - J.P. Morgan's Python training for business analysts and traders.
 
-## [58. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [57. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

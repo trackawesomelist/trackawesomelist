@@ -16,7 +16,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐295)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐301)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Logging / Barcode
 
-*   [QorumLogs (⭐785)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
+*   [QorumLogs (⭐784)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
 
 ### Network / Barcode
 
@@ -48,7 +48,7 @@
 
 ### Keychain / Barcode
 
-*   [GoodPersistence (⭐32)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
+*   [GoodPersistence (⭐33)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
 
 ### HUD / Barcode
 
@@ -75,15 +75,15 @@
 
 ### ARKit
 
-*   [ARKit Virtual Objects (⭐366)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+*   [ARKit Virtual Objects (⭐368)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 
 ### Video
 
-*   [VLC for iOS (⭐942)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
+*   [VLC for iOS (⭐961)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 

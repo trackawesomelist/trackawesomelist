@@ -60,7 +60,7 @@
 
 ### Queue
 
-*   [kaffe (⭐145)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐149)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [Smooks (⭐379)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐385)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
 ## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -136,17 +136,14 @@
 
 ## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Decorators / Components
+### Misc Components / Node Based
 
-*   [ng-portal (⭐14)](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
+*   [ng-portal (⭐16)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
+*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
-### Pipes / Components
+### HTTP / Node Based
 
-*   [ng-generic-pipe (⭐15)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
-
-### State Management / Components
-
-*   [ng-http-caching (⭐34)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐42)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ---
 

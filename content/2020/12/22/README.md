@@ -22,7 +22,7 @@
 
 ### UI Libraries
 
-*   [attractions (⭐985)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐995)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐832)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐857)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -50,7 +50,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐394)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐397)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐736)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐804)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

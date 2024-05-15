@@ -72,13 +72,13 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐9.1k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐9.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.5k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.6k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

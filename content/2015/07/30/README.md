@@ -29,11 +29,11 @@ git worktree add --detach <path> HEAD
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐47)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐48)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### YAML
 
-*   [yaml\_elixir (⭐164)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐167)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

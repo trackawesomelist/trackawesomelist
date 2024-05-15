@@ -10,7 +10,7 @@
 
 ### Ask these people anything!
 
-*   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
+*   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, blogger, trainer, speaker, and a conference organizer.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor/) - Build
+*   [ThreatIngestor (⭐788)](https://github.com/InQuest/ThreatIngestor/) - Build
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 

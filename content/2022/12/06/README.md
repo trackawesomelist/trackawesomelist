@@ -103,4 +103,4 @@
 ---
 
 - Prev: [Dec 07, 2022](/content/2022/12/07/README.md)
-- Next: [Dec 04, 2022](/content/2022/12/04/README.md)
+- Next: [Dec 05, 2022](/content/2022/12/05/README.md)

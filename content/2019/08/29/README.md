@@ -16,19 +16,19 @@
 
 ### Anti-virus Evasion Tools / Tor Tools
 
-*   [CarbonCopy (⭐1.2k)](https://github.com/paranoidninja/CarbonCopy) - Tool that creates a spoofed certificate of any online website and signs an Executable for AV evasion.
+*   [CarbonCopy (⭐1.3k)](https://github.com/paranoidninja/CarbonCopy) - Tool that creates a spoofed certificate of any online website and signs an Executable for AV evasion.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Forensics
 
-*   [Meerkat (⭐403)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
+*   [Meerkat (⭐423)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [nushell (⭐29k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nushell (⭐30k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
@@ -69,14 +69,14 @@
 
 ### Go / Natural Language Processing
 
-*   [go-ngram (⭐112)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
+*   [go-ngram (⭐113)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
 *   [paicehusk (⭐29)](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *\[Deprecated]*
 *   [go-porterstemmer (⭐190)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
 
 ### Go / General-Purpose Machine Learning
 
 *   [birdland (⭐45)](https://github.com/rlouf/birdland) - A recommendation library in Go.
-*   [leaves (⭐402)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
+*   [leaves (⭐408)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 *   [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 *   [golearn (⭐9.1k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 *   [goml (⭐1.5k)](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
@@ -87,7 +87,7 @@
 
 ### Go / Spatial analysis and geometry
 
-*   [go-geom (⭐761)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+*   [go-geom (⭐773)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 *   [gogeo (⭐1.6k)](https://github.com/golang/geo) - Spherical geometry in Go.
 
 ### Go / Data Analysis / Data Visualization
@@ -97,14 +97,14 @@
 *   [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
 *   [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
 *   [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - A statistics library.
-*   [glot (⭐389)](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
+*   [glot (⭐390)](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
 *   [globe (⭐1.6k)](https://github.com/mmcloughlin/globe) - Globe wireframe visualization.
 *   [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
 *   [go-graph (⭐95)](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language. **\[Deprecated]**
 
 ### Credits / Misc
 
-*   References for Go were mostly cut-and-pasted from [gopherdata (⭐850)](https://github.com/gopherdata/resources/tree/master/tooling)
+*   References for Go were mostly cut-and-pasted from [gopherdata (⭐853)](https://github.com/gopherdata/resources/tree/master/tooling)
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐280)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐290)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Miscellaneous
 
@@ -134,7 +134,7 @@
 
 ### Software / Proxy
 
-*   [sish (⭐3.7k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
+*   [sish (⭐3.8k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
 
 ---
 

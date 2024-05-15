@@ -55,25 +55,25 @@
 
 ### Models/Projects
 
-*   [SRGAN (⭐2.9k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-*   [Seq2seq-Chatbot (⭐822)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐310)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐574)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
-*   [im2im (⭐71)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
-*   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐159)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
-*   [Policy Gradient (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
-*   [Deep Q-Network (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
-*   [AC (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
-*   [A3C (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐66)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐400)](https://github.com/ugo-nama-kun/gym_torcs)
-*   [TRPO (⭐44)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐448)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [SRGAN (⭐3.2k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [Seq2seq-Chatbot (⭐837)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
+*   [DCGAN (⭐332)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐592)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [im2im (⭐73)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
+*   [Improved CycleGAN (⭐90)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
+*   [DAGAN (⭐173)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [Policy Gradient (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
+*   [Deep Q-Network (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
+*   [AC (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
+*   [A3C (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
+*   [DAGGER (⭐70)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐411)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [TRPO (⭐43)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
+*   [U-Net (⭐484)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐35)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
-*   [TensorLayer (⭐7.1k)](https://github.com/tensorlayer/tensorlayer) - Deep learning and reinforcement learning library for researchers and engineers
+*   [TensorLayer (⭐7.3k)](https://github.com/tensorlayer/tensorlayer) - Deep learning and reinforcement learning library for researchers and engineers
 
 ### Papers
 

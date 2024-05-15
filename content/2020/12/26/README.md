@@ -10,16 +10,16 @@
 
 ### Libraries / Format Checking
 
-*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐132)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐173)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 
 ### Libraries / Machine Learning
 
-*   [ChemML (⭐124)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+*   [ChemML (⭐148)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 *   [chemmodlab (⭐12)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 
 ### Libraries / Others
 
-*   [OPSIN (⭐76)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
+*   [OPSIN (⭐126)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 
 ### Resources / Courses
 
@@ -35,7 +35,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐108)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

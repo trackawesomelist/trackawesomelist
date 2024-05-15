@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐3.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
+*   [Send (⭐4.1k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐4.1k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -26,18 +26,18 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐622)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐185)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐633)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐207)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Auto (⭐382)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
+*   [Auto (⭐389)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 
 ### Configs / Other Configs
 
-*   [Adjunct (⭐50)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
+*   [Adjunct (⭐49)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 
 ### Plugins / Languages and Environments
 

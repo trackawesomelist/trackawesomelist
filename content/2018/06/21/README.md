@@ -22,7 +22,7 @@
 
 ### UI
 
-*   [Facebook Reactions (⭐356)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Facebook Reactions (⭐409)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐486)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐493)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Cards / Barcode
 
-*   [VerticalCardSwiper (⭐1.3k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+*   [VerticalCardSwiper (⭐1.4k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
 ## [14. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

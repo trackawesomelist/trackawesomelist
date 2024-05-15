@@ -87,7 +87,7 @@
 
 ### PHP Libraries
 
-*   [BlockTrail PHP SDK (⭐43)](https://github.com/blocktrail/blocktrail-sdk-php)
+*   [BlockTrail PHP SDK (⭐44)](https://github.com/blocktrail/blocktrail-sdk-php)
 
 ## [9. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Concurrency
 
-*   [libcds (⭐2.4k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
+*   [libcds (⭐2.5k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

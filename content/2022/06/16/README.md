@@ -10,15 +10,14 @@
 
 ### Learning / Engine Development
 
-*   Blog Articles
-    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
-    *   📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
+*   Education Portals
+    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
 
 ### Learning / Game Development
 
 *   Awesome Collections
     *   📚 [Awesome Gamedev (⭐2.2k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐3.6k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [GameDev-Resources (⭐3.7k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     *   📚 [Magictools (⭐13k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
@@ -35,22 +34,22 @@
 ### Security
 
 *   [Fingerprinter (⭐252)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐536)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐604)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐5k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [haiti (⭐679)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐609)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐5.1k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [react-photo-album (⭐401)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐447)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [httpie/httpie (⭐31k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+*   [httpie/httpie (⭐32k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 
 ### Articles
 
@@ -58,13 +57,13 @@
 
 ### Tools
 
-*   [Common Readme (⭐381)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
+*   [Common Readme (⭐383)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐193)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐197)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -87,7 +86,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐7.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.5k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 

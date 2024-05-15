@@ -29,7 +29,7 @@
 
 ### Comments
 
-*   [Staticman (⭐2.3k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
+*   [Staticman (⭐2.4k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 
 ## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -47,21 +47,21 @@
 
 ### Geolocation
 
-*   [geocoder (⭐118)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐121)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [montezuma (⭐45)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [mk-string-metrics (⭐20)](https://github.com/cbaggers/mk-string-metrics) -
+*   [montezuma (⭐46)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [mk-string-metrics (⭐21)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
     etc). [MIT](https://opensource.org/licenses/MIT).
 
 ### Configuration / Third-party APIs
 
-*   [envy (⭐56)](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [envy (⭐57)](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -105,7 +105,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Localization
 
-*   [it\_IT (⭐15)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
+*   [it\_IT (⭐16)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 

@@ -20,7 +20,7 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐361)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐363)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -82,7 +82,7 @@ Webpage: <https://metalab.at>
 
 ### Other Useful Repositories
 
-- Repository: [PayloadsAllTheThings (⭐54k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Repository: [PayloadsAllTheThings (⭐57k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
   Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
 
@@ -102,7 +102,7 @@ Webpage: <https://metalab.at>
 
 ## [13. Computer Science](/content/ossu/computer-science/README.md)
 
-### Congratulations / Which programming languages should I use?
+### Congratulations / Advanced math
 
 *   Look for a job as a developer!
 *   Check out the [readings](https://github.com/ossu/computer-science/blob/master/README.md/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
@@ -111,7 +111,7 @@ Webpage: <https://metalab.at>
 
 ### Traffic Analysis/Inspection
 
-*   [DPKT (⭐1k)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
+*   [DPKT (⭐1.1k)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
 
 ---
 

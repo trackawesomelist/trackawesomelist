@@ -68,7 +68,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐165k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐168k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 
 ### Material Design
@@ -85,14 +85,14 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐72k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐79k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐8.2k)](https://github.com/jdan/98.css)
+    [Repo (⭐8.6k)](https://github.com/jdan/98.css)
     \| #CSS
 
 ## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)

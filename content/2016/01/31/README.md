@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,38 +67,31 @@ git config --global help.autocorrect 1
 
 ### Configuration / Web Applications
 
-*   [phpMyAdmin (⭐6.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Files and Directories
 
-*   [eye\_drops (⭐52)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
+*   [eye\_drops (⭐53)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Libraries / Game development
-
-*   Corange
-    *   [lucidscape/corange-rs (⭐46)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
-
-## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [6. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Competitions
 
 *   [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 
-## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Language bindings
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Books / Components
+### Books / Testing
 
-*   [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
+*   [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
 
 ---
 

@@ -29,7 +29,7 @@
 
 ### Endpoint / Forensics
 
-*   [Volatility (⭐6.7k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+*   [Volatility (⭐6.9k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -52,16 +52,16 @@
 
 ### Libraries / Format Checking
 
-*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐132)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐173)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 
 ### Libraries / Machine Learning
 
-*   [ChemML (⭐124)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+*   [ChemML (⭐148)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 *   [chemmodlab (⭐12)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 
 ### Libraries / Others
 
-*   [OPSIN (⭐76)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
+*   [OPSIN (⭐126)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 
 ### Resources / Courses
 
@@ -71,7 +71,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐108)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Notification
 
-*   [react-hot-toast (⭐8.9k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐9.1k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Tongue (⭐17)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
+*   [Tongue (⭐18)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
 ## [13. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -196,27 +196,27 @@
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
-*   [5000 Images of Clothes (⭐89)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐94)](https://github.com/alexeygrigorev/clothing-dataset)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Data Science Interviews Questions (⭐8k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐8.1k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐436)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐5.8k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐2.7k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
+*   [cpp-terminal (⭐455)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐6.1k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐2.8k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ### Graphics
 
-*   [C-Turtle (⭐56)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐59)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐848)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐871)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
@@ -228,12 +228,12 @@
 
 ### Serialization
 
-*   [Bitsery (⭐957)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐768)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [Bitsery (⭐985)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
+*   [FastBinaryEncoding (⭐798)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐7.3k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐7.4k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
@@ -383,8 +383,8 @@
 
 ### Contents / Games
 
-*   [Sudoku (⭐80)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐43)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐83)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐46)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
 ## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -409,11 +409,11 @@
 
 ### UI Libraries
 
-*   [attractions (⭐985)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐995)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ### Scaffold / Checkbox
 
-*   [component-template (⭐551)](https://github.com/sveltejs/component-template) - A base for building shareable components.
+*   [component-template (⭐552)](https://github.com/sveltejs/component-template) - A base for building shareable components.
 *   [svelte-pwa-template (⭐219)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 
 ## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -434,7 +434,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐832)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐857)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -450,7 +450,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐394)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐397)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -473,7 +473,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐736)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐804)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## [36. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
@@ -502,13 +502,13 @@
 
 ### Tools and session management
 
-*   [smug (⭐550)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐667)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐685)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐814)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [40. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
@@ -526,12 +526,11 @@
 
 ### Image / Image Picker
 
-*   [Image Picker (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-*   [WeChat Assets Picker (⭐1.3k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+*   [WeChat Assets Picker (⭐1.4k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.2k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.5k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -551,7 +550,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository :octocat: (⭐288)](https://github.com/Ford/AVData)
+    *   [GitHub repository :octocat: (⭐289)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -561,13 +560,13 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐9.1k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐9.4k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-    *   [GitHub repository :octocat: (⭐19k)](https://github.com/rusty1s/pytorch_geometric)
+    *   [GitHub repository :octocat: (⭐20k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐7.9k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
-    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/daavoo/pyntcloud)
+    *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/daavoo/pyntcloud)
 
 ### Frameworks
 
@@ -578,13 +577,13 @@
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐280)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐289)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐352)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐359)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
-    *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/charlesq34/frustum-pointnets)
+    *   [GitHub repository :octocat: (⭐1.6k)](https://github.com/charlesq34/frustum-pointnets)
 *   [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
     *   [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
     *   [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
@@ -593,13 +592,13 @@
 
 *   [LeGO-LOAM :octocat: (⭐2.2k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-*   [Cartographer :octocat: (⭐6.8k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+*   [Cartographer :octocat: (⭐6.9k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐821)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐848)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐608)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐620)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -643,16 +642,15 @@
 
 ### Prompts
 
-*   [Pure (⭐1.1k)](https://github.com/rafaelrinaldi/pure) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
-*   [Hydro (⭐471)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+*   [Hydro (⭐589)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ### Plugins
 
-*   [Fisher (⭐6.7k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
-*   [Fundle (⭐358)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
-*   [Autopair (⭐250)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐260)](https://github.com/laughedelic/pisces))
-*   [Async Prompt (⭐329)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
-*   [Abbreviation Tips (⭐217)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
+*   [Fisher (⭐7.4k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+*   [Fundle (⭐373)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+*   [Autopair (⭐345)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐275)](https://github.com/laughedelic/pisces))
+*   [Async Prompt (⭐377)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+*   [Abbreviation Tips (⭐277)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 
 ## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -662,7 +660,7 @@
 
 ## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
-### Dependency Injection / Collection View Layout
+### Dependency Injection
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
 *   [Pilgrim (⭐63)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).

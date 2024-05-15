@@ -16,13 +16,13 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐528)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐535)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
-- API: [EmojiHub (⭐78)](https://github.com/cheatsnake/emojihub)
+- API: [EmojiHub (⭐117)](https://github.com/cheatsnake/emojihub)
 
   Description: Get emojis by categories and groups
 
@@ -50,7 +50,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐50)](https://github.com/vimeo/iris)
+  Source code \*: [:octocat: (⭐48)](https://github.com/vimeo/iris)
 
 
 
@@ -73,7 +73,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐376)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐384)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -91,13 +91,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [hami-vuex (⭐23)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+*   [hami-vuex (⭐25)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐73)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐72)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -113,13 +113,13 @@
 
 ### SVG / Barcode
 
-*   [SVGView (⭐515)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐540)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [ULogViewer (⭐253)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐301)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

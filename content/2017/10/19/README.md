@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2017
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Networking
 
-*   [Seasocks (⭐704)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐716)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [YARA (⭐3k)](https://github.com/InQuest/awesome-yara)
+- Repository: [YARA (⭐3.2k)](https://github.com/InQuest/awesome-yara)
 
   Description: List of awesome YARA rules, tools, and people
 
@@ -34,40 +34,33 @@
 
 *   [help-version (⭐5)](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
-## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
-
-### Detection and Classification / Other Resources
-
-*   [Assemblyline](https://bitbucket.org/cse-assemblyline/assemblyline) - A scalable
-    distributed file analysis framework.
-
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 
 *   [GDAX (⭐7)](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
 
-## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [mqtt-forget (⭐10)](https://github.com/hobbyquaker/mqtt-forget) - Command line tool to remove retained MQTT topics by wildcard.
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
 *   :octocat: [ionic (⭐50k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐4.4k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐4.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Project Management
 
 *   [Harvest](https://www.getharvest.com/) - Time tracking
 
-## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -75,26 +68,26 @@
 *   [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
 *   [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Gank (⭐131)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / E-commerce
 
-*   [Brick\Money (⭐1.5k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+*   [Brick\Money (⭐1.6k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 
-## [13. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Test your elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 *   [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 
-## [14. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Conferences/Talks
 

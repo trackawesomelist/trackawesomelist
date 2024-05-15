@@ -1,24 +1,18 @@
 # Awesome List Updates on Jun 13, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Pipes / Components
-
-*   [ngx-order-pipe (⭐242)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
-
-## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [1. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
 
-## [3. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [2. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / MVC Frameworks
 
@@ -52,7 +46,7 @@
 
 *   [FlexBook (⭐10)](https://github.com/blvz/FlexBook) - Awesome Page Flip component for Flex.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -64,21 +58,21 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
+*   [promptie (⭐89)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 
-## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools / Misc
 
 *   [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
@@ -93,7 +87,7 @@
 
 *   [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 
-## [8. Amas](/content/sindresorhus/amas/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these organizations anything!
 

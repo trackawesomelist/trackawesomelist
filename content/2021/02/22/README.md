@@ -39,6 +39,8 @@
 
   CORS: Yes
 
+  Call this API: 
+
 
 
 ### Geocoding
@@ -164,7 +166,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Shell Fur (⭐280)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+*   [Shell Fur (⭐290)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -182,10 +184,10 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [adopt-a-hydrant (⭐673)](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+*   [adopt-a-hydrant (⭐680)](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 *   [askaway (⭐33)](https://github.com/askaway/askaway) - Question & answer app specialized in politics (using Rails 4.1).
 *   [brimir (⭐1.4k)](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
-*   [canvas-lms (⭐5.2k)](https://github.com/instructure/canvas-lms) - A learning management app (using Rails 5.2).
+*   [canvas-lms (⭐5.3k)](https://github.com/instructure/canvas-lms) - A learning management app.
 *   [ciao (⭐1.8k)](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
 *   [coRM (⭐27)](https://github.com/SIGIRE/CoRM) - A customer relationship management app - using Rails 3.2 - [:earth\_africa:](http://www.corm.fr)
 *   [coderwall (legacy) (⭐860)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
@@ -193,10 +195,10 @@
 *   [contribulator (⭐86)](https://github.com/24pullrequests/contribulator) - An open source project finder app - using Rails 5.1
 *   [covoiturage-libre (⭐111)](https://github.com/covoiturage-libre/covoiturage-libre) - A carpooling app - using Rails 5.0 (archived).
 *   [crowdAI (⭐146)](https://github.com/crowdAI/crowdai) - An app for data science challenges (using Rails 5.2). - [:earth\_africa:](https://www.aicrowd.com/crowdai.html)
-*   [encrypt.to (⭐137)](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
+*   [encrypt.to (⭐138)](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
 *   [follow-all (⭐80)](https://github.com/codeforamerica/follow-all) - A Twitter account management app (using Rails 4.2). (archived).
 *   [graff\_mags (⭐19)](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app (using Rails 4.1).
-*   [hashrobot (⭐49)](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
+*   [hashrobot (⭐48)](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
 *   [helpy (⭐2.3k)](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2). - [:earth\_africa:](https://helpy.io/)
 *   [hours (⭐1k)](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2).
 *   [intercityup.com (⭐114)](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
@@ -210,12 +212,12 @@
 *   [selfstarter (⭐3.2k)](https://github.com/apigy/selfstarter) - A crowdfunding app (using Rails 4.0).
 *   [sharetribe (⭐2.3k)](https://github.com/sharetribe/sharetribe) - A peer-to-peer marketplace platform (using Rails 5.2). - [:earth\_africa:](https://www.sharetribe.com)
 *   [socify (⭐376)](https://github.com/scaffeinate/socify) - A social networking platform - using Rails 5.0
-*   [splits-io (⭐129)](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. (using Rails 6.0). - [:earth\_africa:](https://splits.io)
+*   [splits-io (⭐128)](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. (using Rails 6.0). - [:earth\_africa:](https://splits.io)
 *   [spokenvote (⭐42)](https://github.com/Spokenvote/spokenvote) - A social voting app (using Rails 4.2).
 *   [stackneveroverflow (⭐166)](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - using Rails 5.0
 *   [teambox (⭐1.9k)](https://github.com/redbooth/teambox) - A collaboration app - using Rails 3.0 - [:earth\_africa:](https://redbooth.com) (archived).
 *   [trado (⭐154)](https://github.com/Jellyfishboy/trado) - An e-commerce platform (using Rails 4.2).
-*   [whitehall (⭐855)](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
+*   [whitehall (⭐861)](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
     [Back to top](#table-of-contents)
 
 ### Gems / Other external resources
@@ -230,7 +232,7 @@
 
 ### Libraries / New Libraries
 
-*   [imax (⭐32)](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
+*   [imax](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [Reactotron (⭐14k)](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
+*   [Reactotron (⭐15k)](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
 
 ## [2. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [HoneyPy (⭐445)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+*   [HoneyPy (⭐456)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
 ## [7. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

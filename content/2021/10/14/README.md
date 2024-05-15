@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐289)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐305)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -51,7 +51,7 @@
 *   [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) \[4.3]
 *   [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) \[4.5]
 
-### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* / [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.0]
+### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
 
 *   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) \[4.0] 🔥
 *   [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) \[4.4]
@@ -67,7 +67,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐13)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐15)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -112,6 +112,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Postman: 
 
 
 
@@ -247,7 +249,7 @@
 
 ### Photography
 
-- API: [Readme typing SVG (⭐3.5k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐4.7k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 

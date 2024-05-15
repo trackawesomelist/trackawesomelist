@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2019
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,17 +12,7 @@
 
 *   [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
 
-## [2. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
-
-### C#
-
-*   [精通C#(第6版)](http://book.douban.com/subject/24827879/)
-
-## [3. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Vector search
 
@@ -30,22 +20,22 @@
     *   *TensorStream: Bringing Machine Learning to Ruby* by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/) <sup>\[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
     *   *Easy machine learning with Ruby using SVMKit* by [@kojix](https://twitter.com/kojix2dayo) <sup>\[[post](https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86)]</sup>
 
-## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Specifications
 
 *   [Cloud Native Application Bundle Specification (⭐922)](https://github.com/deislabs/cnab-spec)\
     A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.
 
-## [5. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [4. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Books / WebRTC
 
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
 
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [BustBright](https://mkt.com/bustbright)
 

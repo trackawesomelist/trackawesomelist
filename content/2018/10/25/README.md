@@ -45,7 +45,7 @@
 
 ### Contents / Server
 
-*   [Greenplum Database (⭐6.1k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+*   [Greenplum Database (⭐6.2k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

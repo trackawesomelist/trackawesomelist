@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,7 +32,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐628)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐631)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -45,7 +45,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐300)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐301)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -63,45 +63,6 @@
 ### Cognitive Development
 
 *   [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** \[15:04]
-
-## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [Linux工具快速教程 (⭐5.7k)](https://github.com/me115/linuxtools_rst)
-
-### C++
-
-*   [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-*   [CGDB中文手册 (⭐265)](https://github.com/leeyiw/cgdb-manual-in-chinese)
-*   [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
-
-### Android
-
-*   [Android开发技术前线(android-tech-frontier) (⭐10k)](https://github.com/bboyfeiyu/android-tech-frontier)
-
-### Golang
-
-*   [Go 语言标准库 (⭐9.4k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-*   [Go语言博客实践 (⭐398)](https://github.com/achun/Go-Blog-In-Action)
-
-### iOS
-
-*   [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-*   [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
-
-### Java
-
-*   [Apache Shiro 用户指南 (⭐472)](https://github.com/waylau/apache-shiro-1.2.x-reference)
-*   [Jersey 2.x 用户指南 (⭐245)](https://github.com/waylau/Jersey-2.x-User-Guide)
-*   [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
-*   [Netty 4.x 用户指南 (⭐2.3k)](https://github.com/waylau/netty-4-user-guide)
-*   [Netty 实战(精髓) (⭐1.8k)](https://github.com/waylau/essential-netty-in-action)
-*   [REST 实战 (⭐471)](https://github.com/waylau/rest-in-action)
-
-### JavaScript
-
-*   [javascript 的 12 个怪癖 (⭐263)](https://github.com/justjavac/12-javascript-quirks)
 
 ---
 

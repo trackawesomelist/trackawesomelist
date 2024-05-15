@@ -68,7 +68,7 @@
 
 ### RESTful API
 
-*   [yada (⭐729)](https://github.com/juxt/yada)
+*   [yada (⭐732)](https://github.com/juxt/yada)
 
 ### Dependency injection
 

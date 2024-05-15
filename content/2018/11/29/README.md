@@ -64,7 +64,7 @@
 
 ### Science and Data Analysis
 
-*   [Loom - graph library for Clojure (⭐873)](https://github.com/aysylu/loom)
+*   [Loom - graph library for Clojure (⭐878)](https://github.com/aysylu/loom)
 
 ## [7. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 

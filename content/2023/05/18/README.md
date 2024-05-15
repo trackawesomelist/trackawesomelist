@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,7 +78,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [101dotxyz/GPTeam (⭐1.5k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐1.6k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -108,13 +108,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [Double Damnation (⭐14)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [base16 (⭐49)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
-
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### AlgoKit Templates / Official
 

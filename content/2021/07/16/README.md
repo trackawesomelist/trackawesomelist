@@ -10,14 +10,14 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐50)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.7k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐55)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.8k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
 *   [mypy (⭐17k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐289)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [pyanalyze (⭐299)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
 *   [pytype (⭐4.5k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
@@ -32,9 +32,9 @@
 
 ### Additional types
 
-*   [meiga (⭐70)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [meiga (⭐73)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
 *   [option (⭐75)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐180)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [phantom-types (⭐182)](https://github.com/antonagestam/phantom-types) - Phantom types.
 *   [returns (⭐3.2k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 *   [safetywrap (⭐40)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 *   [typet (⭐20)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
@@ -45,32 +45,32 @@
 
 ### Tools / Working with types
 
-*   [com2ann (⭐135)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [typing-inspect (⭐325)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐136)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [typing-inspect (⭐331)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [monkeytype (⭐4.5k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [type4py (⭐59)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [type4py (⭐60)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 
 ### Integrations / Mypy plugins
 
 *   [mypy-playground (⭐63)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐312)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
-*   [pylance (⭐1.6k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
+*   [mypy-pycharm-plugin (⭐313)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [pylance (⭐1.7k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐136)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐120)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐142)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐123)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐93)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐97)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -180,7 +180,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐1.1k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐1.2k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -219,7 +219,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [QuickTok (⭐27)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
+*   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ## [11. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -231,7 +231,7 @@
 
 ### Creating a new Plugin
 
-*   Consider using our [Template (⭐93)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+*   Consider using our [Template (⭐98)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
 
 ### Contributing a new Plugin / `asdf-community`
 
@@ -241,7 +241,7 @@
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐56)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐55)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ---
 

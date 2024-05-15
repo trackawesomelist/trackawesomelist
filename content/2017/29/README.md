@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17 - Jul 23, 2017
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐292)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐293)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -136,7 +136,7 @@
 ### Messaging
 
 *   [onanomsg (⭐38)](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
-*   [Kafka (⭐62)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
+*   [Kafka (⭐63)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐62)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
 *   [MPI (⭐23)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
@@ -145,11 +145,11 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐415)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐419)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
-*   [CAP (⭐6.3k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.5k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -180,12 +180,12 @@
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐295)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐297)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐839)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐343)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐842)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐346)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Environment Management
 
-*   [pyenv (⭐35k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐36k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### GUI Development
 
@@ -339,7 +339,7 @@
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐378)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐380)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
@@ -354,7 +354,7 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐780)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐783)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
@@ -362,59 +362,20 @@
 
 *   [django-wordpress (⭐344)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Official Documentation](https://angular.io/guide/aot-compiler)
-
-### Series / Components
-
-*   thoughtram
-    *   Angular Template Syntax Demystified
-        *   [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
-
-### On-Site Training / Components
-
-*   [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
-
-### Approach and Explanation / Components
-
-*   thoughtram
-
-    *   [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
-    *   [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
-    *   [Resolving Service Dependencies in Angular 2](https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
-    *   [Forward references in Angular 2](https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
-    *   [Host and Visibility in Angular 2's Dependency Injection](https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
-    *   [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
-    *   [Routing in Angular 2 **Deprecated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
-    *   [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
-    *   [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
-    *   [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
-    *   [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
-    *   [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
-    *   [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
-    *   [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-
-### TypeScript Seed Projects / Components
-
-*   [Todo app with Firebase, OAuth, and Immutable (⭐506)](https://github.com/r-park/todo-angular-firebase)
-
-## [31. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [30. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [32. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [31. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [33. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [32. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -446,7 +407,7 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -467,27 +428,27 @@
 ### UI / Barcode
 
 *   [DeckTransition (⭐2.2k)](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-*   [InstantSearch iOS (⭐590)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐591)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ### UITableView / Barcode
 
-*   [SwipeCellKit (⭐6.1k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
+*   [SwipeCellKit (⭐6.2k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
 *   [Lawnchair (⭐2.1k)](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
-*   [RxDB (⭐20k)](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
+*   [RxDB (⭐21k)](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
 
 ### Format Extensions
 
 *   [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
-*   [JSON6 (⭐230)](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
+*   [JSON6 (⭐231)](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
 
 ### Libraries
 
-*   [scala-jsonapi (⭐108)](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
+*   [scala-jsonapi (⭐107)](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 ### Online tools
 
@@ -496,14 +457,14 @@
 
 ### Services
 
-*   [JSONProxy (⭐300)](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+*   [JSONProxy (⭐302)](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 
 ### Transformations
 
-*   [JSON-populate (⭐152)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
-*   [CircularJSON (⭐601)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
+*   [JSON-populate (⭐153)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
+*   [CircularJSON (⭐602)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -514,13 +475,13 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
@@ -530,13 +491,13 @@
 
 *   Todd Motto <https://toddmotto.com/>
 
-## [39. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [38. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -563,7 +524,7 @@
 
 *   [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol\&oq=inurl%3A\&client=ubuntu\&sourceid=chrome\&ie=UTF-8)
 
-## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [40. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -573,7 +534,7 @@
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [41. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -602,14 +563,14 @@
 *   [Dashboard (⭐1.3k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [libdill (⭐1.7k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
 *   [libmill (⭐2.7k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -626,7 +587,7 @@
 *   [vue-deepset (⭐92)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 *   [jsx-v-model (⭐155)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
-## [45. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -638,15 +599,15 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐790)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐792)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
-## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 
-## [47. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [46. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1152,13 +1113,13 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [48. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [47. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [48. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -1168,11 +1129,11 @@
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [50. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [49. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
-*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.7k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
+*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.8k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 
 ---
 

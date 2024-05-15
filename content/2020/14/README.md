@@ -14,27 +14,27 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐74)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐75)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [movie-box (⭐22)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐23)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐18)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐19)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐55)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-threejs (⭐80)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+*   [react-threejs (⭐81)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Tools
 
-*   [glsl\_trace (⭐29)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
+*   [glsl\_trace (⭐31)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -166,13 +166,13 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐356)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐361)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐187)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐189)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Inter-process communication
 
-*   [eCAL (⭐10)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
+*   [eCAL (⭐11)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
 
 ## [19. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -216,7 +216,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐25k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐26k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Tools
 
-*   [k6 generator (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [28. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [pinentry-wsl-ps1 (⭐91)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [pinentry-wsl-ps1 (⭐92)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WslShortcut](https://github.com/sirredbeard/awesome-wsl/blob/main//github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL `git`/`node`/etc. in **Visual Studio Code** or another software. Combines functionality of utilities like [`wslgit`](https://github.com/sirredbeard/awesome-wsl/blob/main//github.com/andy-5/wslgit), [`wslnodejs`](https://github.com/sirredbeard/awesome-wsl/blob/main//github.com/snooopcatt/wslnodejs), [`wslexec`](https://github.com/sirredbeard/awesome-wsl/blob/main//github.com/int128/wslexec) etc. with simpler usage. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [30. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
@@ -342,7 +342,7 @@
 
 ### Core Data
 
-*   [CloudCore (⭐141)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+*   [CloudCore (⭐145)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
 ### Security
 
@@ -369,7 +369,7 @@
 
 ### Other / Other Resources
 
-*   [Malware Persistence (⭐105)](https://github.com/Karneades/malware-persistence) - Collection
+*   [Malware Persistence (⭐155)](https://github.com/Karneades/malware-persistence) - Collection
     of various information focused on malware persistence: detection (techniques),
     response, pitfalls and the log collection (tools).
 
@@ -398,11 +398,11 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Event Sourcing .NET (⭐3.1k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
+*   [Event Sourcing .NET (⭐3.2k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
 
 ### Libraries and Frameworks / .NET
 
-*   [Marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
+*   [Marten (⭐2.6k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
 ## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -414,11 +414,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐368)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐369)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐333)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐334)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -492,11 +492,11 @@
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐429)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐103)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐105)](https://github.com/klg71/keycloakmigration)
 
 ## [45. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -510,7 +510,7 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐216)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐219)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 
@@ -554,7 +554,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐608)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐615)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -570,8 +570,8 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
-*   [orhun/kmon (⭐2.3k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
+*   [ajeetdsouza/zoxide (⭐19k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [orhun/kmon (⭐2.4k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [51. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -587,33 +587,33 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐830)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐834)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ### Core Data
 
-*   [CloudCore (⭐143)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐147)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐609)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐675)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ### Databases
 
-*   [Database Tools (⭐3.5k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐3.7k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [54. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [semantic-git-commit-cli (⭐140)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
+*   [semantic-git-commit-cli (⭐143)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
 ## [55. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
-*   [PennyLane (⭐1.9k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+*   [PennyLane (⭐2.1k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 
 ### Blogs
 
@@ -624,13 +624,13 @@
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
-    (C, 2-clause BSD, [GitHub (⭐145)](https://github.com/CEED/libCEED))
+    (C, 2-clause BSD, [GitHub (⭐172)](https://github.com/CEED/libCEED))
 
 ## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
-*   [Keimeno (⭐15)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
+*   [Keimeno (⭐14)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ### Data Generators
 
@@ -650,9 +650,9 @@
 
 ### Third-party APIs
 
-*   [google (⭐23)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [google (⭐24)](https://github.com/PlaceOS/google) - Google API wrapper
 *   [host\_meta (⭐3)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
-*   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
+*   [office365 (⭐8)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 *   [web\_finger (⭐9)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
 
 ### Official Documentation Translations

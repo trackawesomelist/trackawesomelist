@@ -22,7 +22,7 @@
 
 ### Development / Mobile Development
 
-*   [mobicon-cli (⭐103)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon-cli (⭐110)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

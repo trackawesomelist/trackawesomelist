@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2024
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐101)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐246)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -22,7 +22,19 @@
 
 *   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite)
 
-## [3. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [3. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
+
+### Plugins / Community Plugins
+
+*   [@capawesome-team/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+*   [@capawesome-team/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
+*   [@capawesome-team/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
+*   [@capawesome-team/capacitor-file-compressor](https://capawesome.io/plugins/file-compressor) - Capacitor plugin for compressing files.
+*   [@capawesome-team/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
+*   [@capawesome-team/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
+*   [@capawesome-team/capacitor-printer](https://capawesome.io/plugins/printer) - Capacitor plugin for printing.
+
+## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Journals and Magazines / Past Conferences and Workshops
 
@@ -40,23 +52,23 @@
 *   [Social Science Computer Review](https://journals.sagepub.com/description/SSC)
 *   [World Digital Libraries – An International Journal](https://content.iospress.com/journals/world-digital-libraries-an-international-journal)
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / APIs
 
-*   [django-webhook (⭐117)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+*   [django-webhook (⭐139)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
-*   [Piku (⭐2.4k)](https://github.com/piku/piku)
+*   [Piku (⭐2.6k)](https://github.com/piku/piku)
 
-## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [PiKISS (⭐844)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
+*   [PiKISS (⭐845)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Books
 
@@ -66,11 +78,11 @@
 
 *   [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator)  - Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously [https://github.com/cbsinteractive/video-transcoding-api (⭐5)](https://github.com/cbsinteractive/video-transcoding-api) - cbsinteractive/transcode-orchestrator
 *   [natsuite/NatReader-API](https://github.com/natsuite/NatReader-API)  - NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API
-*   [realeyes-media/demo-encoder (⭐54)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
+*   [realeyes-media/demo-encoder (⭐55)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
 
-*   [prologic/tube (⭐20)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
+*   [prologic/tube (⭐22)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
 
 ### Players / Android
 
@@ -82,9 +94,9 @@
 *   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
@@ -92,7 +104,7 @@
 
 *   [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 
-## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [9. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Epic Fantasy / [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 *by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)* [4.42]
 

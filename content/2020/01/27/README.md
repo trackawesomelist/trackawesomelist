@@ -34,14 +34,14 @@
 
 ### Blockchain
 
-*   [Cocol (⭐20)](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
-*   [secp256k1.cr (⭐49)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
+*   [Cocol (⭐19)](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
+*   [secp256k1.cr (⭐48)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
+*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐183)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐185)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [AQUATONE (⭐5.4k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [AQUATONE (⭐5.5k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
 *   [OWASP Amass (⭐11k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
 *   [subbrute (⭐3.2k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
 

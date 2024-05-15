@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,15 +33,9 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐3.1k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.2k)](https://github.com/npgsql/npgsql)
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
-
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -53,20 +47,20 @@
 
 *   [imgp (⭐998)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
 *   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 
-## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Localization
 
 *   [Linguist (⭐189)](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 

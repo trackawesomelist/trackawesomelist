@@ -55,7 +55,7 @@
 *   [lablqml (⭐157)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐336)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+*   [Notty (⭐338)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
@@ -65,7 +65,7 @@
 
 ### Job boards
 
-*   [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐28k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ---
 

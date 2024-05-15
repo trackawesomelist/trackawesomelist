@@ -19,49 +19,48 @@
 
 ### Applications / Image processing
 
-*   [shssoichiro/oxipng (⭐2.5k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] — Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
+*   [shssoichiro/oxipng (⭐2.6k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] — Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
 
 ### Libraries / Concurrency
 
-*   [zonyitoo/coio-rs (⭐455)](https://github.com/zonyitoo/coio-rs) – Coroutine I/O
-*   [crossbeam-rs/crossbeam (⭐6.7k)](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency
-*   [orium/archery (⭐133)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
-*   [Rayon (⭐9.9k)](https://github.com/rayon-rs/rayon) – A data parallelism library
+*   [zonyitoo/coio-rs (⭐454)](https://github.com/zonyitoo/coio-rs) – Coroutine I/O
+*   [crossbeam-rs/crossbeam (⭐6.9k)](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency
+*   [orium/archery (⭐134)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
+*   [Rayon (⭐10k)](https://github.com/rayon-rs/rayon) – A data parallelism library
 *   [rustcc/coroutine-rs (⭐412)](https://github.com/rustcc/coroutine-rs) – Coroutine Library
 
 ### Libraries / Data processing
 
-*   [amv-dev/yata (⭐267)](https://github.com/amv-dev/yata) — high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
-*   [bluss/ndarray (⭐3.2k)](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
-*   [kernelmachine/utah (⭐141)](https://github.com/kernelmachine/utah) — Dataframe structure and operations
-*   [pola-rs/polars (⭐24k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
+*   [amv-dev/yata (⭐291)](https://github.com/amv-dev/yata) — high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
+*   [bluss/ndarray (⭐3.3k)](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
+*   [kernelmachine/utah (⭐142)](https://github.com/kernelmachine/utah) — Dataframe structure and operations
+*   [pola-rs/polars (⭐26k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
 *   [weld-project/weld (⭐3k)](https://github.com/weld-project/weld) — High-performance runtime for data analytics applications
 
 ### Libraries / Data streaming
 
-*   [infinyon/fluvio (⭐2.5k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
+*   [infinyon/fluvio (⭐2.7k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
 
 ### Libraries / Data structures
 
 *   [billyevans/tst (⭐23)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] — Ternary search tree collection
 *   [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
-*   [danielpclark/array\_tool (⭐74)](https://github.com/danielpclark/array_tool) — Array helpers. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
-*   [fizyk20/generic-array (⭐392)](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums
-*   [garro95/priority-queue (⭐161)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] — A priority queue that implements priority changes.
-*   [mrhooray/kdtree-rs (⭐203)](https://github.com/mrhooray/kdtree-rs) — K-dimensional tree for fast geospatial indexing and nearest neighbors lookup
+*   [danielpclark/array\_tool (⭐75)](https://github.com/danielpclark/array_tool) — Array helpers. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
+*   [fizyk20/generic-array (⭐394)](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums
+*   [garro95/priority-queue (⭐165)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] — A priority queue that implements priority changes.
+*   [mrhooray/kdtree-rs (⭐214)](https://github.com/mrhooray/kdtree-rs) — K-dimensional tree for fast geospatial indexing and nearest neighbors lookup
 *   [orium/rpds (⭐1.1k)](https://github.com/orium/rpds) \[[rpds](https://crates.io/crates/rpds)] — Persistent data structures. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
-*   [RoaringBitmap/roaring-rs (⭐669)](https://github.com/RoaringBitmap/roaring-rs) – Roaring Bitmaps
+*   [RoaringBitmap/roaring-rs (⭐683)](https://github.com/RoaringBitmap/roaring-rs) – Roaring Bitmaps
 *   [rust-itertools/itertools (⭐2.5k)](https://github.com/rust-itertools/itertools) — Extra iterator adaptors, functions and macros
-*   [tnballo/scapegoat (⭐236)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] — Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
-*   [yamafaktory/hypergraph (⭐263)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] — Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
+*   [tnballo/scapegoat (⭐239)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] — Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
+*   [yamafaktory/hypergraph (⭐269)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] — Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
 
 ### Libraries / Data visualization
 
-*   [djduque/pgfplots (⭐111)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] — Library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
-*   [igiagkiozis/plotly (⭐922)](https://github.com/igiagkiozis/plotly) — Plotly for Rust.
-*   [milliams/plotlib (⭐457)](https://github.com/milliams/plotlib) —
-*   [plotters (⭐3.4k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
-*   [saresend/gust (⭐129)](https://github.com/saresend/Gust) —
+*   [djduque/pgfplots (⭐114)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] — Library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
+*   [milliams/plotlib (⭐460)](https://github.com/milliams/plotlib)
+*   [plotters (⭐3.5k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
+*   [saresend/gust (⭐130)](https://github.com/saresend/Gust) —
 
 ## [3. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
@@ -80,7 +79,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [jershell/kbson (⭐41)](https://github.com/jershell/kbson) - Bson support for kotlinx.serialization
+*   [jershell/kbson (⭐42)](https://github.com/jershell/kbson) - Bson support for kotlinx.serialization
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -89,7 +88,6 @@
 *   [1password (⭐2)](https://github.com/agpenton/1password-zsh-plugin) - Adds [1Password](https://1password.com/) functionality including a `opswd` command that wraps the `op` command. It takes a service name as an argument and copies the password for that service to the clipboard.
 *   [prettyping (⭐2)](https://github.com/unixorn/prettyping) - Adds a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read.
 *   [ranger-autojump (⭐71)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐16k)](https://github.com/wting/autojump) support to the [ranger (⭐15k)](https://github.com/ranger/ranger) console file manager.
-*   [raspberryPi4Temperature (⭐0)](https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin/blob/main/RaspberryPi4TemperaturePromptPlugin.zsh) - Puts the Raspberry Pi temperature into a spaceship prompt segment
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -127,7 +125,7 @@
 
 ### Code Analysis and Metrics
 
-*   [WebBen (⭐9)](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+*   [WebBen (⭐10)](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
 
 ## [10. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

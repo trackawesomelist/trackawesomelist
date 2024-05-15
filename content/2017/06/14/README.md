@@ -34,7 +34,7 @@
 
 ### Date and Time
 
-*   [jalaali (⭐21)](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
+*   [jalaali (⭐22)](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 
 ### Macros
 
@@ -47,7 +47,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐371)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐375)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 

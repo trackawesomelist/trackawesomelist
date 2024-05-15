@@ -16,7 +16,7 @@
 
 ### Frameworks
 
-*   [Seastar (⭐7.9k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+*   [Seastar (⭐8k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -28,13 +28,9 @@
 
 *   [BayesWitnesses/m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) — A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [![GitHub Actions Status](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions)
 
-### Libraries / Logging
-
-*   [jesusprubio/leg (⭐204)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
-
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐388)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for game development
+*   [fleabitdev/gamelisp (⭐389)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

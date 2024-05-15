@@ -16,7 +16,7 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐4.8k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
 ## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   [lean (⭐8k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+*   [lean (⭐8.6k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -45,9 +45,9 @@
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐4.6k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐92)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-*   [Todo Example (⭐36)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+*   [Icônes (⭐4.8k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐97)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐39)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [7. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -70,17 +70,17 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐63)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐61)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
-*   [Money Tracker (⭐48)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+*   [Money Tracker (⭐49)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Penetration Testing
 
-*   [setoolkit (⭐9.9k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [setoolkit (⭐10k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
 *   [sqlmap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
@@ -326,13 +326,13 @@
 
 ### UI
 
-*   [Dough (⭐595)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+*   [Dough (⭐682)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 
 ## [14. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
-*   [Datalevin (⭐980)](https://github.com/juji-io/datalevin)
+*   [Datalevin (⭐1k)](https://github.com/juji-io/datalevin)
 
 ---
 

@@ -12,7 +12,6 @@
 
 *   [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 *   [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
-*   [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 *   [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 *   [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 *   [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
@@ -117,7 +116,7 @@
 
 ### For Electron / Other
 
-*   [debug-menu (⭐135)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
+*   [debug-menu (⭐136)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

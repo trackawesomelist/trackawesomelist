@@ -179,7 +179,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐123)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐127)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐885)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐928)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

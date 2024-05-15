@@ -52,7 +52,7 @@
 ### OS and Kernels / Apache License
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐34)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐35)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐277)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐278)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐66)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐69)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
@@ -86,7 +86,7 @@
 
 ### Text / Barcode
 
-*   [OEMentions (⭐51)](https://github.com/omar14/OEMentions) - An easy way to add mentions to uitextview like Facebook and Instagram.
+*   [OEMentions (⭐49)](https://github.com/omar14/OEMentions) - An easy way to add mentions to uitextview like Facebook and Instagram.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐217)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐219)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

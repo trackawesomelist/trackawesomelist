@@ -16,7 +16,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐104)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐108)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Testing
 
-*   [expect-test (⭐135)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/).
+*   [expect-test (⭐136)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/).
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

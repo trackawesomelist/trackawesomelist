@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,19 +76,13 @@
 
 *   [Deep dive into serverless](https://www.slideshare.net/AmazonWebServices/deep-dive-on-serverless-application-development-102837125) - Slide deck about serverless application development.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Material Design
-
-*   [Material Web Components](https://trimox.github.io/angular-mdc-web) Material Web Components for Angular. A faithful and accurate representation of Material Design as envisioned on the web.
-
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐357)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐361)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 
@@ -102,13 +96,13 @@
 
 *   Steve Bellovin <https://www.cs.columbia.edu/~smb/blog/control/>
 
-## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Resources / Newsletters
 
 *   [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CLI
 

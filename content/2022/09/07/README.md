@@ -15,7 +15,7 @@
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐5k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [shakapacker (⭐378)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐380)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -27,13 +27,13 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [JNGL (⭐201)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐215)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [flower (⭐6.1k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
+*   [flower (⭐6.2k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -45,19 +45,19 @@
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐23k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐26k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Files and directories / Third-party APIs
 
-*   [file-notify (⭐22)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [file-notify (⭐23)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [8. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
 ### Data Validation and Serialization / OAuth
 
-*   [Flask-Pydantic (⭐309)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐17k)](https://github.com/pydantic/pydantic) support.
+*   [Flask-Pydantic (⭐337)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐19k)](https://github.com/pydantic/pydantic) support.
 
 ### Developer Tools / Monitoring
 
@@ -71,7 +71,7 @@
 
 ### Best Practices / Other Tools
 
-*   [FastAPI Best Practices (⭐5.6k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+*   [FastAPI Best Practices (⭐7k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 
 ### PaaS / Other Tools
 
@@ -86,7 +86,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Democratization of Science
+### Analogy / AI Assisted Research
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 

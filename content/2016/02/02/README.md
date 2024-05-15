@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [GacUI (⭐2.2k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
+*   [GacUI (⭐2.3k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -30,7 +30,7 @@ git name-rev --name-only <SHA-1>
 
 ### State Machines
 
-*   [transitions (⭐534)](https://github.com/troessner/transitions) - A ruby state machine implementation.
+*   [transitions (⭐535)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

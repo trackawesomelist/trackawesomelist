@@ -14,7 +14,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [HTML5 PHP (⭐1.4k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+*   [HTML5 PHP (⭐1.5k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ---
 

@@ -35,7 +35,7 @@
 
 ### Transformations
 
-*   [Sawmill (⭐109)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
+*   [Sawmill (⭐110)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
 ## [6. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Strings
 
-*   [Device Detector (⭐2.6k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Device Detector (⭐2.7k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 
 ### Configuration / PHP Websites
 
@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐284)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐285)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 
@@ -75,7 +75,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_facade (⭐70)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
+*   [ecto\_facade (⭐69)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

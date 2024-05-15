@@ -1,23 +1,25 @@
 # Awesome List Updates on Oct 16, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
-### Applications
+### Demo Apps / Community Plugins
 
-*   [datafusion (⭐4.7k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [capacitor-firebase-plugin-demo (⭐12)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Web programming
 
 *   Reverse Proxy
     *   [sozu-proxy/sozu (⭐2.8k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
-## [2. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -31,39 +33,39 @@
 | ------: | -------: | -----: |
 |   2 - 7 |      10+ | 30-60m |
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [4. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐44)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐43)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
-## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Extensions
 
 *   [`@shoelace-style/localize`](https://github.com/shoelace-style/localize) - A micro library for localizing custom elements, providing directives for Lit.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [effect-ts (⭐3.4k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 *   [qio (⭐69)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Agile / Tickets
 
 *   [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - There's an interesting table in this article on the strereotypes of companies, their funding models, main engineering actors, and their central methodologies.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Payments / Electronic invoices
 
 *   [moov](https://github.com/moov-io) - Open-source infrastructure for financial technology.
 *   [Fintech Open Source Foundation](https://github.com/finos) - Another set of open-source projects for financial projects.
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Multi-factor auth / Identifiers
 
@@ -73,19 +75,19 @@
 
 *   [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) - Some groups and content are illegal in some juridictions. This is an example of a blocklist.
 
-## [9. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Community / Artists
 
 *   [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palettes creating cute humans and animals.
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Miscellaneous / Checkbox
 
 *   [svelte-tree-viewer (⭐15)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Version Control
 
@@ -93,7 +95,7 @@
 *   [Vershd](https://vershd.io/) - The free for personal use effortless Git GUI, for Windows, Mac, & Linux. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) Client.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -106,6 +108,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -133,7 +137,7 @@
   CORS: Unknown
 
 
-- API: [NaMoMemes (⭐25)](https://github.com/theIYD/NaMoMemes)
+- API: [NaMoMemes (⭐27)](https://github.com/theIYD/NaMoMemes)
 
   Description: Memes on Narendra Modi
 
@@ -144,7 +148,7 @@
   CORS: Unknown
 
 
-- API: [Yo Momma Jokes (⭐55)](https://github.com/beanboi7/yomomma-apiv2)
+- API: [Yo Momma Jokes (⭐69)](https://github.com/beanboi7/yomomma-apiv2)
 
   Description: REST API for Yo Momma Jokes
 
@@ -167,6 +171,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 

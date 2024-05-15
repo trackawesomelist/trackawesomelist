@@ -80,15 +80,15 @@
 
 ### Secrets Scanning / Ansible
 
-*   [Detect Secrets (⭐3.3k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
+*   [Detect Secrets (⭐3.5k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐89)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐88)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐9)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐45)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐51)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -98,7 +98,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐187)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐28k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐188)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐29k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -106,9 +106,9 @@
 
 ### Framework Components
 
-*   [mochi (⭐24)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
+*   [mochi (⭐25)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐53)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐153)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐154)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -129,11 +129,11 @@
 ### Editor Plugins
 
 *   Geany
-    *   [geany-crystal (⭐10)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
+    *   [geany-crystal (⭐8)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐408)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐410)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐544)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐553)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -191,7 +191,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐38)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐40)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -209,7 +209,7 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐1k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐1.2k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

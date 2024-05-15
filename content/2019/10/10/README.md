@@ -107,7 +107,7 @@
 
 ### Tools
 
-*   [Orangetool (⭐104)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐103)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -194,11 +194,11 @@
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐326)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐332)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐40k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ---
 

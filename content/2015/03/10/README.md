@@ -1,31 +1,25 @@
 # Awesome List Updates on Mar 10, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Elasticsearch
-
-*   [Elasticsearch 权威指南 (⭐2k)](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
-
-## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [1. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Emails
 
-*   [postal (⭐578)](https://github.com/drewr/postal)
+*   [postal (⭐579)](https://github.com/drewr/postal)
 
-## [3. Typography](/content/deanhume/typography/README.md)
+## [2. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
 *   [Scale & Rhythm in Typography](http://lamb.cc/typograph/)
 *   [Typographic Scale](http://retinart.net/typography/typographicscale/)
 
-## [4. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
+## [3. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
 ### Tutorials and articles
 

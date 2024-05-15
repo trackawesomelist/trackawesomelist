@@ -87,7 +87,7 @@
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### On-Site Training / Components
+### On-Site Training / Testing
 
 *   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 

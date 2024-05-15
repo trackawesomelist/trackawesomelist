@@ -50,12 +50,12 @@
 
 ### Packages / Testing
 
-*   [Playwright (⭐60k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐61k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐635)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
-*   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [basic-ftp (⭐641)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [cashify (⭐401)](https://github.com/xxczaki/cashify) - Currency conversion.
 *   [genepi (⭐75)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools

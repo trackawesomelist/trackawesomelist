@@ -20,7 +20,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.6k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐575)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐581)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 

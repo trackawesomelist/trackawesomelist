@@ -50,7 +50,7 @@
 
 ### Utilities & Tools
 
-*   [KWin-lowlatency (⭐383)](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
+*   [KWin-lowlatency (⭐372)](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 
 ## [8. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Big Data
 
-*   [Qlik (⭐52)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐56)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Health and Social Science
 
-*   [Digital History (⭐207)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐211)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

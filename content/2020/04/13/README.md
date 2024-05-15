@@ -45,18 +45,18 @@
 *   [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.\
     ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social\&label=Star)
     [Demo](https://oxal.org/projects/sakura/demo/),
-    [Repo (⭐3.8k)](https://github.com/oxalorg/sakura)
+    [Repo (⭐4k)](https://github.com/oxalorg/sakura)
     \| #SCSS
 *   [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.\
     ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social\&label=Star)
-    [Repo (⭐1.6k)](https://github.com/yegor256/tacit/)
+    [Repo (⭐1.7k)](https://github.com/yegor256/tacit/)
     \| #SCSS
 
 ### Stalled Development
 
 *   [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.\
     ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social\&label=Star)
-    [Repo (⭐7.9k)](https://github.com/kognise/water.css)
+    [Repo (⭐8.2k)](https://github.com/kognise/water.css)
     \| #CSS
 
 ## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
@@ -111,13 +111,13 @@
 
 ### Audio / Video
 
-*   [material-ui-audio-player (⭐69)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
+*   [material-ui-audio-player (⭐71)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
-- API: [AnimeChan (⭐1.1k)](https://github.com/RocktimSaikia/anime-chan)
+- API: [AnimeChan (⭐1.2k)](https://github.com/RocktimSaikia/anime-chan)
 
   Description: Anime quotes (over 10k+)
 

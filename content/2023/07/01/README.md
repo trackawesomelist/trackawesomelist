@@ -75,7 +75,7 @@
 
 ### Data Manipulation / Processors
 
-*   [xq (⭐627)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+*   [xq (⭐752)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 
 ---
 

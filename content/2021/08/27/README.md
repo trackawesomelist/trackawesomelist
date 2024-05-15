@@ -29,7 +29,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐863)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐855)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -99,7 +99,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐27)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐32)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐140)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐148)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -167,7 +167,7 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐818)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐1.2k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [16. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

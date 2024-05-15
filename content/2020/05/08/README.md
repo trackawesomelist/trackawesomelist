@@ -89,7 +89,6 @@
 
 *   [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
 *   [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
-*   [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 
 ## [4. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -117,6 +116,10 @@
 
 *   [EthereumKit (⭐471)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
+### Books
+
+*   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
+
 ### iBeacon
 
 *   [MOCA Proximity](https://www.mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
@@ -131,23 +134,19 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐808)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐807)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Popup
 
-*   [PopupView (⭐2.9k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐3k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+
+### Websites / Collection View Layout
+
+*   [Ohmyswift](https://www.ohmyswift.com/blog/)
 
 ### Extensions / Collection View Layout
 
 *   [Swiftify](https://swiftify.com/) - Objective-C to Swift online code converter and Xcode extension.
-
-### News, Blogs and more / Collection View Layout
-
-*   [Ohmyswift](https://www.ohmyswift.com/blog/)
-
-### Books / Collection View Layout
-
-*   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -200,7 +199,7 @@
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐264)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐271)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -214,7 +213,7 @@
 
 ### 🦾 Others / Crypto or Blockchain relevant
 
-*   [Collect-Info-Research (⭐34)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
+*   [Collect-Info-Research (⭐35)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
 
 ## [13. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

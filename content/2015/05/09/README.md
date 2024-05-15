@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐708)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐714)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -30,7 +30,7 @@
 
 ### CLI Builder
 
-*   [Commander (⭐817)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐820)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -45,15 +45,13 @@
 
 ### Malware Collection / Honeypots
 
-*   [Mnemosyne (⭐41)](https://github.com/johnnykv/mnemosyne) - A normalizer for
+*   [Mnemosyne (⭐44)](https://github.com/johnnykv/mnemosyne) - A normalizer for
     honeypot data; supports Dionaea.
-*   [Thug (⭐883)](https://github.com/buffer/thug) - Low interaction honeyclient, for
+*   [Thug (⭐959)](https://github.com/buffer/thug) - Low interaction honeyclient, for
     investigating malicious websites.
 
 ### Malware Collection / Malware Corpora
 
-*   [Clean MX](http://support.clean-mx.de/clean-mx/viruses.php) - Realtime
-    database of malware and malicious domains.
 *   [Contagio](http://contagiodump.blogspot.com/) - A collection of recent
     malware samples and analyses.
 *   [Exploit Database](https://www.exploit-db.com/) - Exploit and shellcode
@@ -65,10 +63,10 @@
 
 *   [CI Army](http://cinsscore.com/) ([list](http://cinsscore.com/list/ci-badguys.txt)) -
     Network security blocklists.
-*   [hpfeeds (⭐200)](https://github.com/rep/hpfeeds) - Honeypot feed protocol.
+*   [hpfeeds (⭐208)](https://github.com/rep/hpfeeds) - Honeypot feed protocol.
 *   [Internet Storm Center (DShield)](https://isc.sans.edu/) - Diary and
     searchable incident database, with a web [API](https://dshield.org/api/).
-    ([unofficial Python library (⭐21)](https://github.com/rshipp/python-dshield)).
+    ([unofficial Python library (⭐23)](https://github.com/rshipp/python-dshield)).
 *   [malc0de](http://malc0de.com/database/) - Searchable incident database.
 *   [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share
     malicious URLs.
@@ -77,17 +75,15 @@
 
 ### Detection and Classification / Other Resources
 
-*   [AnalyzePE (⭐191)](https://github.com/hiddenillusion/AnalyzePE) - Wrapper for a
+*   [AnalyzePE (⭐201)](https://github.com/hiddenillusion/AnalyzePE) - Wrapper for a
     variety of tools for reporting on Windows PE files.
 *   [chkrootkit](http://www.chkrootkit.org/) - Local Linux rootkit detection.
-*   [ExifTool](https://sno.phy.queensu.ca/\~phil/exiftool/) - Read, write and
+*   [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool/) - Read, write and
     edit file metadata.
-*   [hashdeep (⭐613)](https://github.com/jessek/hashdeep) - Compute digest hashes with
+*   [hashdeep (⭐687)](https://github.com/jessek/hashdeep) - Compute digest hashes with
     a variety of algorithms.
-*   [nsrllookup (⭐99)](https://github.com/rjhansen/nsrllookup) - A tool for looking
+*   [nsrllookup (⭐107)](https://github.com/rjhansen/nsrllookup) - A tool for looking
     up hashes in NIST's National Software Reference Library database.
-*   [packerid](http://handlers.sans.org/jclausing/packerid.py) - A cross-platform
-    Python alternative to PEiD.
 *   [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Detect Linux rootkits.
 *   [TrID](http://mark0.net/soft-trid-e.html) - File identifier.
 *   [YARA](https://plusvic.github.io/yara/) - Pattern matching tool for
@@ -97,7 +93,7 @@
 
 *   [Cuckoo Sandbox](https://cuckoosandbox.org/) - Open source, self hosted
     sandbox and automated analysis system.
-*   [Recomposer (⭐126)](https://github.com/secretsquirrel/recomposer) - A helper
+*   [Recomposer (⭐130)](https://github.com/secretsquirrel/recomposer) - A helper
     script for safely uploading binaries to sandbox sites.
 *   [VirusTotal](https://www.virustotal.com/) - Free online analysis of malware
     samples and URLs
@@ -108,7 +104,7 @@
 
 *   [Dig](https://networking.ringofsaturn.com/) - Free online dig and other
     network tools.
-*   [IPinfo (⭐88)](https://github.com/hiddenillusion/IPinfo) - Gather information
+*   [IPinfo (⭐95)](https://github.com/hiddenillusion/IPinfo) - Gather information
     about an IP or domain by searching online resources.
 *   [Whois](https://whois.domaintools.com/) - DomainTools free online whois
     search.
@@ -122,10 +118,10 @@
     IDX cache files.
 *   [JSDetox](http://www.relentless-coding.com/projects/jsdetox/) - JavaScript
     malware analysis tool.
-*   [jsunpack-n (⭐149)](https://github.com/urule99/jsunpack-n) - A javascript
+*   [jsunpack-n (⭐157)](https://github.com/urule99/jsunpack-n) - A javascript
     unpacker that emulates browser functionality.
 *   [Malzilla](http://malzilla.sourceforge.net/) - Analyze malicious web pages.
-*   [RABCDAsm (⭐402)](https://github.com/CyberShadow/RABCDAsm) - A "Robust
+*   [RABCDAsm (⭐419)](https://github.com/CyberShadow/RABCDAsm) - A "Robust
     ActionScript Bytecode Disassembler."
 *   [swftools](http://www.swftools.org/) - Tools for working with Adobe Flash
     files.
@@ -134,14 +130,14 @@
 
 ### Documents and Shellcode / Other Resources
 
-*   [AnalyzePDF (⭐157)](https://github.com/hiddenillusion/AnalyzePDF) - A tool for
+*   [AnalyzePDF (⭐170)](https://github.com/hiddenillusion/AnalyzePDF) - A tool for
     analyzing PDFs and attempting to determine whether they are malicious.
 *   [diStorm](http://www.ragestorm.net/distorm/) - Disassembler for analyzing
     malicious shellcode.
 *   [JS Beautifier](http://jsbeautifier.org/) - JavaScript unpacking and deobfuscation.
 *   [libemu](http://libemu.carnivore.it/) - Library and tools for x86 shellcode
     emulation.
-*   [malpdfobj (⭐48)](https://github.com/9b/malpdfobj) - Deconstruct malicious PDFs
+*   [malpdfobj (⭐51)](https://github.com/9b/malpdfobj) - Deconstruct malicious PDFs
     into a JSON representation.
 *   [OfficeMalScanner](http://www.reconstructer.org/code.html) - Scan for
     malicious traces in MS Office documents.
@@ -160,13 +156,13 @@
 
 ### File Carving / Other Resources
 
-*   [bulk\_extractor (⭐721)](https://github.com/simsong/bulk_extractor) - Fast file
+*   [bulk\_extractor (⭐1k)](https://github.com/simsong/bulk_extractor) - Fast file
     carving tool.
-*   [EVTXtract (⭐157)](https://github.com/williballenthin/EVTXtract) - Carve Windows
+*   [EVTXtract (⭐173)](https://github.com/williballenthin/EVTXtract) - Carve Windows
     Event Log files from raw binary data.
 *   [Foremost](http://foremost.sourceforge.net/) - File carving tool designed
     by the US Air Force.
-*   [Scalpel (⭐523)](https://github.com/sleuthkit/scalpel) - Another data carving
+*   [Scalpel (⭐603)](https://github.com/sleuthkit/scalpel) - Another data carving
     tool.
 
 ### Debugging and Reverse Engineering / Other Resources
@@ -185,13 +181,13 @@
     executables.
 *   [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) -
     Advanced monitoring tool for Windows programs.
-*   [Pyew (⭐359)](https://github.com/joxeankoret/pyew) - Python tool for malware
+*   [Pyew (⭐379)](https://github.com/joxeankoret/pyew) - Python tool for malware
     analysis.
 *   [Radare2](http://www.radare.org/r/) - Reverse engineering framework, with
     debugger support.
-*   [Udis86 (⭐878)](https://github.com/vmt/udis86) - Disassembler library and tool
+*   [Udis86 (⭐985)](https://github.com/vmt/udis86) - Disassembler library and tool
     for x86 and x86\_64.
-*   [Vivisect (⭐797)](https://github.com/vivisect/vivisect) - Python tool for
+*   [Vivisect (⭐904)](https://github.com/vivisect/vivisect) - Python tool for
     malware analysis.
 
 ### Network / Other Resources
@@ -203,7 +199,7 @@
 *   [mitmproxy](https://mitmproxy.org/) - Intercept network traffic on the fly.
 *   [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network
     forensic analysis tool, with a free version.
-*   [ngrep (⭐693)](https://github.com/jpr5/ngrep) - Search through network traffic
+*   [ngrep (⭐847)](https://github.com/jpr5/ngrep) - Search through network traffic
     like grep.
 *   [Tcpdump](http://www.tcpdump.org/) - Collect network traffic.
 *   [tcpick](http://tcpick.sourceforge.net/) - Trach and reassemble TCP streams
@@ -217,18 +213,20 @@
 
 *   [FindAES](https://sourceforge.net/projects/findaes/) - Find AES
     encryption keys in memory.
-*   [Muninn (⭐47)](https://github.com/ytisf/muninn) - A script to automate portions
+*   [Muninn (⭐51)](https://github.com/ytisf/muninn) - A script to automate portions
     of analysis using Volatility, and create a readable report.
+    [Orochi (⭐196)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for
+    collaborative forensic memory dump analysis.
 *   [Rekall](http://www.rekall-forensic.com/) - Memory analysis framework,
     forked from Volatility in 2013.
-*   [TotalRecall (⭐47)](https://github.com/sketchymoose/TotalRecall) - Script based
+*   [TotalRecall (⭐49)](https://github.com/sketchymoose/TotalRecall) - Script based
     on Volatility for automating various malware analysis tasks.
-*   [Volatility (⭐5.7k)](https://github.com/volatilityfoundation/volatility) - Advanced
+*   [Volatility (⭐6.9k)](https://github.com/volatilityfoundation/volatility) - Advanced
     memory forensics framework.
 
 ### Windows Artifacts / Other Resources
 
-*   [python-evt (⭐35)](https://github.com/williballenthin/python-evt) - Python
+*   [python-evt (⭐42)](https://github.com/williballenthin/python-evt) - Python
     library for parsing Windows Event Logs.
 *   [python-registry](http://www.williballenthin.com/registry/) - Python
     library for parsing registry files.
@@ -238,7 +236,7 @@
 
 ### Storage and Workflow / Other Resources
 
-*   [Malwarehouse (⭐126)](https://github.com/sroberts/malwarehouse) - Store, tag, and
+*   [Malwarehouse (⭐131)](https://github.com/sroberts/malwarehouse) - Store, tag, and
     search malware.
 *   [Viper](http://viper.li/) - A binary management and analysis framework for
     analysts and researchers.
@@ -270,9 +268,9 @@
 *   [/r/Malware](https://www.reddit.com/r/Malware) - The malware subreddit.
 *   [/r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering) -
     Reverse engineering subreddit, not limited to just malware.
-*   [Android Security (⭐6.4k)](https://github.com/ashishb/android-security-awesome)
-*   [Pentesting (⭐17k)](https://github.com/enaqx/awesome-pentest)
-*   [Security (⭐9k)](https://github.com/sbilly/awesome-security)
+*   [Android Security (⭐7.7k)](https://github.com/ashishb/android-security-awesome)
+*   [Pentesting (⭐21k)](https://github.com/enaqx/awesome-pentest)
+*   [Security (⭐12k)](https://github.com/sbilly/awesome-security)
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

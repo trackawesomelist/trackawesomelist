@@ -10,14 +10,14 @@
 
 ### Database Drivers
 
-*   PostgreSQL - [awesome-postgres (⭐9.3k)](https://github.com/dhamaniasad/awesome-postgres)
-    *   [psycopg (⭐1.4k)](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
+*   PostgreSQL - [awesome-postgres (⭐9.5k)](https://github.com/dhamaniasad/awesome-postgres)
+    *   [psycopg (⭐1.5k)](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [cereal (⭐3.9k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
+*   [cereal (⭐4k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
 *   [SimpleBinaryEncoding (⭐3k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 
 ### Web Application Framework

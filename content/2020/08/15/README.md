@@ -18,13 +18,13 @@
 
 ### External Services
 
-*   [goodreads-box (⭐20)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐22)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
-*   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lwouis/alt-tab-macos)
+*   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/lwouis/alt-tab-macos)
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -42,23 +42,23 @@
 
 ### Detection and Classification / Other Resources
 
-*   [fn2yara (⭐1.3k)](https://github.com/cmu-sei/pharos) - FN2Yara is a tool to generate
+*   [fn2yara (⭐1.5k)](https://github.com/cmu-sei/pharos) - FN2Yara is a tool to generate
     Yara signatures for matching functions (code) in an executable program.
 
 ### Browser Malware / Other Resources
 
-*   [Bytecode Viewer (⭐13k)](https://github.com/Konloch/bytecode-viewer) - Combines
+*   [Bytecode Viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Combines
     multiple Java bytecode viewers and decompilers into one tool, including
     APK/DEX support.
 
 ### Deobfuscation / Other Resources
 
-*   [PyInstaller Extractor (⭐1.2k)](https://github.com/extremecoders-re/pyinstxtractor) -
+*   [PyInstaller Extractor (⭐2.5k)](https://github.com/extremecoders-re/pyinstxtractor) -
     A Python script to extract the contents of a PyInstaller generated Windows
     executable file. The contents of the pyz file (usually pyc files) present
     inside the executable are also extracted and automatically fixed so that a
     Python bytecode decompiler will recognize it.
-*   [uncompyle6 (⭐2.9k)](https://github.com/rocky/python-uncompyle6/) - A cross-version
+*   [uncompyle6 (⭐3.6k)](https://github.com/rocky/python-uncompyle6/) - A cross-version
     Python bytecode decompiler.  Translates Python bytecode back into equivalent
     Python source code.
 
@@ -67,9 +67,9 @@
 *   [OllyDumpEx](https://low-priority.appspot.com/ollydumpex/) - Dump memory
     from (unpacked) malware Windows process and store raw or rebuild PE file.
     This is a plugin for OllyDbg, Immunity Debugger, IDA Pro, WinDbg, and x64dbg.
-*   [Scylla Imports Reconstructor (⭐793)](https://github.com/NtQuery/Scylla) - Find and fix
+*   [Scylla Imports Reconstructor (⭐1k)](https://github.com/NtQuery/Scylla) - Find and fix
     the IAT of an unpacked / dumped PE32 malware.
-*   [ScyllaHide (⭐2.6k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
+*   [ScyllaHide (⭐3.2k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
 
 ## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)

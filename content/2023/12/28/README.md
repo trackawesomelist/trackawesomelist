@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28, 2023
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -61,19 +61,15 @@
 
 ## [2. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
-### Other / Music
-
-*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
-
 ### Text / Chatbots
 
 *   [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Projects / API Gateway
+### Auxiliary tools and concepts / Deforum
 
-*   [KrakenD API Gateway (⭐1.6k) (⭐1.7k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+*   [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -85,7 +81,7 @@
 
 ### Web / Web Application Firewall
 
-*   [BunkerWeb (⭐3.2k)](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a full-featured open-source web server with ModeSecurity WAF, HTTPS with transparent Let's Encrypt renewal, automatic ban of strange behaviors based on HTTP codes, bot and bad IPs block, connection limits, state-of-the-art security presets, Web UI and much more.
+*   [BunkerWeb (⭐3.5k)](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a full-featured open-source web server with ModeSecurity WAF, HTTPS with transparent Let's Encrypt renewal, automatic ban of strange behaviors based on HTTP codes, bot and bad IPs block, connection limits, state-of-the-art security presets, Web UI and much more.
 
 ### EBooks / Online resources
 
@@ -95,7 +91,7 @@
 
 ### GUI
 
-*   [TGUI (⭐739)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+*   [TGUI (⭐754)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -121,23 +117,29 @@
 
 ### Form Components / Date / Time picker
 
-*   [schedule-x (⭐741)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+*   [schedule-x (⭐850)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [scottmckendry/cyberdream.nvim (⭐114)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+*   [scottmckendry/cyberdream.nvim (⭐332)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 
 ### Utility / Diagnostics
 
-*   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [linrongbin16/gentags.nvim (⭐11)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
-## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
+
+## [12. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐19)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
+*   [obl.ong (⭐21)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
 ---
 

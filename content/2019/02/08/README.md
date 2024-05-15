@@ -78,7 +78,7 @@
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jeff Delaney](https://twitter.com/jeffdelaney23)
 
@@ -96,7 +96,7 @@
 
 ### Tools
 
-*   [NETworkManager (⭐4.3k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [NETworkManager (⭐4.7k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
 ---
 

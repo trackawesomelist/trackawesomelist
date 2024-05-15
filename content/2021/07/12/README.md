@@ -10,7 +10,7 @@
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐151)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐153)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
@@ -26,7 +26,7 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐50)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐53)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -41,14 +41,14 @@
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
 *   [Clojure (⭐91)](https://github.com/prestancedesign/inertia-clojure)
 *   [CodeIgniter (⭐22)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐139)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐33)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Go (⭐148)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐32)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.6k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.9k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -58,18 +58,18 @@
 
 ### Development / Discovery
 
-*   [devshell (⭐1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐957)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐1.1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐1k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐114)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐120)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐134)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐135)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

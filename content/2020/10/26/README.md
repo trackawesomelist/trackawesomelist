@@ -42,13 +42,13 @@
 
 ### Overlay
 
-*   [reoverlay (⭐142)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐145)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Awesome FastAPI Projects (⭐1.1k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
+*   [Awesome FastAPI Projects (⭐1.2k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -166,7 +166,7 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐343)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐358)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
@@ -182,7 +182,7 @@
 
 ### Compression / decompression / Third-party APIs
 
-*   [zippy (⭐11)](https://github.com/Shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [zippy (⭐12)](https://github.com/Shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### PDF / Third-party APIs
 

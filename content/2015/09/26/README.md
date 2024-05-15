@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,19 +70,13 @@
 ### Erlang VM / Elixir
 
 *   [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-*   [Plug (⭐2.7k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+*   [Plug (⭐2.8k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐7.1k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐7.2k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 
-## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
-
-## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Hardware
 

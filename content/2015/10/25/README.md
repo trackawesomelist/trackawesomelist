@@ -51,11 +51,11 @@
 
 ### Date and Time
 
-*   [good\_times (⭐47)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
+*   [good\_times (⭐46)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 
 ### JSON
 
-*   [jose (⭐296)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐303)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

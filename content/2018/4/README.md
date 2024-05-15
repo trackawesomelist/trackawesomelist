@@ -77,7 +77,7 @@
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐43k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐44k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
@@ -113,7 +113,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐49)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐51)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -227,7 +227,7 @@
 
 ### Email
 
-*   [burnex (⭐66)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐70)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -237,11 +237,11 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐296)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐315)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
-*   [Giraffe (⭐2k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+*   [Giraffe (⭐2.1k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -250,10 +250,6 @@
 *   [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 *   [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide\&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 *   [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms.
-
-### MOOCs
-
-*   [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
 
 ### Development Tools
 
@@ -271,7 +267,7 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.6k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.7k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -326,7 +322,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐287)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -342,7 +338,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐885)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐886)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 

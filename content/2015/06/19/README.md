@@ -10,7 +10,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐460)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐462)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

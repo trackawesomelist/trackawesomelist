@@ -148,7 +148,7 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐2.9k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Messaging / Scala
 
@@ -163,13 +163,13 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐28)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐30)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Hypermedia Types / Text-Based User Interfaces
 
-*   [hate (⭐23)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
+*   [hate (⭐22)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
 ## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

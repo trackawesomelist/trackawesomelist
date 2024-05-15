@@ -10,13 +10,13 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐975)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐993)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐279)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐305)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

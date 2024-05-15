@@ -82,24 +82,14 @@
 
 *   [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐62)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Energy and Natural Resources
 
 *   [Low-Income Energy Affordability Data (LEAD)](https://www.energy.gov/scep/low-income-energy-affordability-data-lead-tool-and-community-energy-solutions) -  A free online tool by the U.S. Department of Energy. This interactive platform helps users make data-driven decisions on energy goals and program planning by improving their understanding of low-income and moderate-income household energy characteristics.
 *   [State and Local Planning for Energy (SLOPE) Platform](https://maps.nrel.gov/slope/) - A free easy-to-access online platform, by the U.S. Department of Energy, to support data-driven state and local energy and decarbonization planning. SLOPE includes two distinct tools namely the Scenario Planner and the Data Viewer to support jurisdictions planning needs.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -108,35 +98,30 @@
 ### Education and Career Development
 
 *   [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
-*   [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
-## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
-*   [ASP.NET Core (⭐36)](https://github.com/kapi2289/InertiaCore)
+*   [ASP.NET Core (⭐38)](https://github.com/kapi2289/InertiaCore)
 
 ### Resources / Presets
 
-*   [Laravel Jetstream React (⭐259)](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
+*   [Laravel Jetstream React (⭐262)](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐391)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐400)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Computer Organization and Architecture
 
 *   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF)
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / Java
-
-*   [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Cloud
 
@@ -145,6 +130,12 @@
 ### Database
 
 *   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
+
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+
+### Job boards
+
+*   [JavaProHire](https://javaprohire.com/) - Java developer jobs
 
 ## [12. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -160,7 +151,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [portal (⭐1)](https://github.com/anasouardini/portal/) - A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using [fzf (⭐59k)](https://github.com/junegunn/fzf).
+*   [portal (⭐3)](https://github.com/anasouardini/portal/) - A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using [fzf (⭐60k)](https://github.com/junegunn/fzf). Heavily inspired by [Z (⭐16k)](https://github.com/rupa/z).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -174,4 +165,5 @@
 
 ---
 
+- Prev: [Apr 15, 2024](/content/2024/04/15/README.md)
 - Next: [Apr 13, 2024](/content/2024/04/13/README.md)

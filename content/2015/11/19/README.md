@@ -16,7 +16,7 @@
 
 ### Contents / Tools
 
-*   [pico2png (⭐22)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
+*   [pico2png (⭐23)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 *   [Pico8Utils (⭐51)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [3. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
@@ -37,7 +37,7 @@ Where hackers and security experts come to train.
 
 ### Contents / CLI
 
-*   [psql2csv (⭐179)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+*   [psql2csv (⭐178)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

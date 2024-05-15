@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2022
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -153,19 +153,19 @@
 
 ### Files and Directories / Files
 
-*   [chokidar-cli (⭐775)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
+*   [chokidar-cli (⭐807)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [veemoji (⭐5)](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji 🚀 as a component for vue 2
+*   [veemoji (⭐6)](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji 🚀 as a component for vue 2
 
 ## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐4.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐5.4k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
@@ -218,14 +218,9 @@
 
 ### YouTube
 
-*   [Piped (⭐7.1k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   [Yattee (⭐2.1k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
-
-### Reddit
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐451)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+*   [Piped (⭐7.5k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.7k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Yattee (⭐2.2k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 
 ### Teamworking Tools
 
@@ -316,7 +311,13 @@
 
 *   [PEiD (CLI) (⭐96)](https://github.com/dhondta/peid) - Python implementation of PEiD featuring an additional tool for making new signatures.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Open Source / Community
+
+*   [Hathora (⭐541)](https://github.com/hathora/hathora) - Multiplayer game framework.
+
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -324,49 +325,49 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [doyaaaaaken/kotlin-csv (⭐581)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
+*   [doyaaaaaken/kotlin-csv (⭐612)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Federated Learning
 
-*   [PySyft (⭐9.1k)](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
+*   [PySyft (⭐9.2k)](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
 *   [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
 *   [Tensorflow-Federated](https://www.tensorflow.org/federated) A federated learning framework for machine learning and other computations on decentralized data.
 
-## [11. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
-*   [Tabler Icons (⭐16k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
-## [12. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [13. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Nodes / Smarthome
 
 *   [alexa-remote2-applestrudel (⭐51)](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Blazor Developer Italiani](https://blazordev.it/) - \[Italian] Italian Blazor community website with useful articles and events.
 
-## [14. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [15. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tools / Web Tools
 
-*   [opening\_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/) - Tool for evaluating `opening_hours` tags. ([Source Code (⭐208)](https://github.com/opening-hours/opening_hours.js))
+*   [opening\_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/) - Tool for evaluating `opening_hours` tags. ([Source Code (⭐209)](https://github.com/opening-hours/opening_hours.js))
 *   [Turn Restrictions](https://ahorn.lima-city.de/tr/) - Viewer for turn-restrictions and linked errors.
 *   [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
 *   [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
 *   [YoHours](https://projets.pavie.info/yohours/) - Tool for generating `opening_hours` tags. ([Source Code](https://framagit.org/PanierAvide/YoHours))
-*   [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code (⭐38)](https://github.com/osmbe/osm-welcome-tool))
+*   [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code (⭐39)](https://github.com/osmbe/osm-welcome-tool))
 *   [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code (⭐9)](https://github.com/OSM-de/WebToOSMOH))
 
 ### Tools / Native Tools
 
-*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐468)](https://github.com/baremaps/baremaps))
+*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐470)](https://github.com/baremaps/baremaps))
 
 ### Tasking Managers / Web Services
 
@@ -379,7 +380,7 @@
 
 ### Maps / Generators
 
-*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐66)](https://github.com/hholzgra/maposmatic/))
+*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐67)](https://github.com/hholzgra/maposmatic/))
 
 ### Maps / Map Styles
 
@@ -389,13 +390,13 @@
 
 *   [openstreetmap-tag-map (⭐7)](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
 *   [node-osmium (⭐137)](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
-*   [node-mapnik (⭐526)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-mapnik (⭐525)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [overpass-wrapper (⭐344)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
+*   [overpass-wrapper (⭐345)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
 *   [osmcha (⭐40)](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
-*   [python-mapnik (⭐152)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [python-mapnik (⭐153)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Public APIs / Java
 
@@ -416,13 +417,12 @@
 
 *   [Volunteer armies map ‘invisible’ communities hit by coronavirus](https://www.asahi.com/ajw/articles/13729507) - OpenStreetMap contributors map over 1,100 handwashing stations. (5 min read, 2020-10-15, The Asahi Shimbun)
 
-## [15. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [16. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   A4AI Affordability Drivers Index - ([2021](https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX))([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
 *   [Huawei Global Connectivity Index](https://www.huawei.com/minisite/gci/en/) - (2020) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
-*   [Speedtest Global Index](http://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 
 ### Regional Connectivity Reports and Data
 
@@ -431,7 +431,7 @@
 *   Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
 *   Ericsson Mobility Report - Sub-Saharan Africa - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
 
-## [16. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
+## [17. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
 ### Governance
 
@@ -518,12 +518,6 @@
 *   [Awesome Zero-Knowledge Proofs (ZKP) (⭐3k)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 *   [Officer CIA's Ultimate DeFi Research Base (⭐929)](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools.
 
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Localization
-
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
-
 ## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
@@ -550,20 +544,20 @@
 
 ### Applications / Utilities
 
-*   [1History (⭐407)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
+*   [1History (⭐419)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐154)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐161)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ### Development tools / Web Servers
 
-*   [comtrya (⭐416)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
+*   [comtrya (⭐454)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 
 ### Libraries / Command-line
 
 *   Other
-    *   [mgrachev/update-informer (⭐203)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] — Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
+    *   [mgrachev/update-informer (⭐205)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] — Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
 
 ## [22. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -575,13 +569,13 @@
 
 ### Showcases / XML
 
-*   [Edrys (⭐287)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐289)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐566)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐574)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -869,7 +863,7 @@
 ### Finite Elements
 
 *   [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
-    (C++, BSD-3-Clause, [GitHub (⭐1.2k)](https://github.com/mfem/mfem))
+    (C++, BSD-3-Clause, [GitHub (⭐1.5k)](https://github.com/mfem/mfem))
 
 ## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -891,15 +885,15 @@
 
 ### Utility / Diagnostics
 
-*   [rgroli/other.nvim (⭐308)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+*   [rgroli/other.nvim (⭐342)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐585)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐588)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LunarVim/LunarVim (⭐17k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+*   [LunarVim/LunarVim (⭐18k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
 ## [38. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -929,87 +923,87 @@
 
 ### Logging / Text-Based User Interfaces
 
-*   [Echopraxia (⭐52)](https://github.com/tersesystems/echopraxia) - API designed around structured logging, rich context, and conditional logging. There are Logback and Log4J2 implementations, but Echopraxia's API is completely dependency-free, meaning it can be implemented with any logging API.
+*   [Echopraxia (⭐53)](https://github.com/tersesystems/echopraxia) - API designed around structured logging, rich context, and conditional logging. There are Logback and Log4J2 implementations, but Echopraxia's API is completely dependency-free, meaning it can be implemented with any logging API.
 
 ## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
-*   [playwright-pytest (⭐384)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
+*   [playwright-pytest (⭐389)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 
 ## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [Einshape (⭐82)](https://github.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks. <img src="https://img.shields.io/github/stars/deepmind/einshape?style=social" align="center">
-*   [ALX (⭐32k)](https://github.com/google-research/google-research/tree/master/alx) - Open-source library for distributed matrix factorization using Alternating Least Squares, more info in [*ALX: Large Scale Matrix Factorization on TPUs*](https://arxiv.org/abs/2112.02194).
-*   [Diffrax (⭐1.1k)](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
-*   [tinygp (⭐257)](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
+*   [Einshape](https://github.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks. <img src="https://img.shields.io/github/stars/deepmind/einshape?style=social" align="center">
+*   [ALX](https://github.com/google-research/google-research/tree/master/alx) - Open-source library for distributed matrix factorization using Alternating Least Squares, more info in [*ALX: Large Scale Matrix Factorization on TPUs*](https://arxiv.org/abs/2112.02194).
+*   [Diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
+*   [tinygp](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 
 ### Models and Projects / JAX
 
-*   [Symbolic Functionals (⭐32k)](https://github.com/google-research/google-research/tree/master/symbolic_functionals) - Demonstration from [*Evolving symbolic density functionals*](https://arxiv.org/abs/2203.02540).
-*   [TriMap (⭐32k)](https://github.com/google-research/google-research/tree/master/trimap) - Official JAX implementation of [*TriMap: Large-scale Dimensionality Reduction Using Triplets*](https://arxiv.org/abs/1910.00204).
+*   [Symbolic Functionals](https://github.com/google-research/google-research/tree/master/symbolic_functionals) - Demonstration from [*Evolving symbolic density functionals*](https://arxiv.org/abs/2203.02540).
+*   [TriMap](https://github.com/google-research/google-research/tree/master/trimap) - Official JAX implementation of [*TriMap: Large-scale Dimensionality Reduction Using Triplets*](https://arxiv.org/abs/1910.00204).
 
 ### Models and Projects / Flax
 
-*   [mip-NeRF (⭐853)](https://github.com/google/mipnerf) - Official implementation of [*Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields*](https://jonbarron.info/mipnerf).
-*   [RegNeRF (⭐32k)](https://github.com/google-research/google-research/tree/master/regnerf) - Official implementation of [*RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs*](https://m-niemeyer.github.io/regnerf/).
-*   [ARDM (⭐32k)](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion) - Official implementation of [*Autoregressive Diffusion Models*](https://arxiv.org/abs/2110.02037).
-*   [D3PM (⭐32k)](https://github.com/google-research/google-research/tree/master/d3pm) - Official implementation of [*Structured Denoising Diffusion Models in Discrete State-Spaces*](https://arxiv.org/abs/2107.03006).
-*   [Gumbel-max Causal Mechanisms (⭐32k)](https://github.com/google-research/google-research/tree/master/gumbel_max_causal_gadgets) - Code for [*Learning Generalized Gumbel-max Causal Mechanisms*](https://arxiv.org/abs/2111.06888), with extra code in [GuyLor/gumbel\_max\_causal\_gadgets\_part2 (⭐2)](https://github.com/GuyLor/gumbel_max_causal_gadgets_part2).
-*   [Latent Programmer (⭐32k)](https://github.com/google-research/google-research/tree/master/latent_programmer) - Code for the ICML 2021 paper [*Latent Programmer: Discrete Latent Codes for Program Synthesis*](https://arxiv.org/abs/2012.00377).
-*   [SNeRG (⭐32k)](https://github.com/google-research/google-research/tree/master/snerg) - Official implementation of [*Baking Neural Radiance Fields for Real-Time View Synthesis*](https://phog.github.io/snerg).
-*   [Spin-weighted Spherical CNNs (⭐32k)](https://github.com/google-research/google-research/tree/master/spin_spherical_cnns) - Adaptation of [*Spin-Weighted Spherical CNNs*](https://arxiv.org/abs/2006.10731).
-*   [VDVAE (⭐32k)](https://github.com/google-research/google-research/tree/master/vdvae_flax) - Adaptation of [*Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images*](https://arxiv.org/abs/2011.10650), original code at [openai/vdvae (⭐417)](https://github.com/openai/vdvae).
-*   [MUSIQ (⭐32k)](https://github.com/google-research/google-research/tree/master/musiq) - Checkpoints and model inference code for the ICCV 2021 paper [*MUSIQ: Multi-scale Image Quality Transformer*](https://arxiv.org/abs/2108.05997)
-*   [AQuaDem (⭐32k)](https://github.com/google-research/google-research/tree/master/aquadem) - Official implementation of [*Continuous Control with Action Quantization from Demonstrations*](https://arxiv.org/abs/2110.10149).
-*   [Combiner (⭐32k)](https://github.com/google-research/google-research/tree/master/combiner) - Official implementation of [*Combiner: Full Attention Transformer with Sparse Computation Cost*](https://arxiv.org/abs/2107.05768).
-*   [Dreamfields (⭐32k)](https://github.com/google-research/google-research/tree/master/dreamfields) - Official implementation of the ICLR 2022 paper [*Progressive Distillation for Fast Sampling of Diffusion Models*](https://ajayj.com/dreamfields).
-*   [GIFT (⭐32k)](https://github.com/google-research/google-research/tree/master/gift) - Official implementation of [*Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent*](https://arxiv.org/abs/2106.06080).
-*   [Light Field Neural Rendering (⭐32k)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [*Light Field Neural Rendering*](https://arxiv.org/abs/2112.09687).
+*   [mip-NeRF](https://github.com/google/mipnerf) - Official implementation of [*Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields*](https://jonbarron.info/mipnerf).
+*   [RegNeRF](https://github.com/google-research/google-research/tree/master/regnerf) - Official implementation of [*RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs*](https://m-niemeyer.github.io/regnerf/).
+*   [ARDM (⭐33k)](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion) - Official implementation of [*Autoregressive Diffusion Models*](https://arxiv.org/abs/2110.02037).
+*   [D3PM (⭐33k)](https://github.com/google-research/google-research/tree/master/d3pm) - Official implementation of [*Structured Denoising Diffusion Models in Discrete State-Spaces*](https://arxiv.org/abs/2107.03006).
+*   [Gumbel-max Causal Mechanisms (⭐33k)](https://github.com/google-research/google-research/tree/master/gumbel_max_causal_gadgets) - Code for [*Learning Generalized Gumbel-max Causal Mechanisms*](https://arxiv.org/abs/2111.06888), with extra code in [GuyLor/gumbel\_max\_causal\_gadgets\_part2 (⭐2)](https://github.com/GuyLor/gumbel_max_causal_gadgets_part2).
+*   [Latent Programmer (⭐33k)](https://github.com/google-research/google-research/tree/master/latent_programmer) - Code for the ICML 2021 paper [*Latent Programmer: Discrete Latent Codes for Program Synthesis*](https://arxiv.org/abs/2012.00377).
+*   [SNeRG (⭐33k)](https://github.com/google-research/google-research/tree/master/snerg) - Official implementation of [*Baking Neural Radiance Fields for Real-Time View Synthesis*](https://phog.github.io/snerg).
+*   [Spin-weighted Spherical CNNs (⭐33k)](https://github.com/google-research/google-research/tree/master/spin_spherical_cnns) - Adaptation of [*Spin-Weighted Spherical CNNs*](https://arxiv.org/abs/2006.10731).
+*   [VDVAE (⭐33k)](https://github.com/google-research/google-research/tree/master/vdvae_flax) - Adaptation of [*Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images*](https://arxiv.org/abs/2011.10650), original code at [openai/vdvae (⭐427)](https://github.com/openai/vdvae).
+*   [MUSIQ (⭐33k)](https://github.com/google-research/google-research/tree/master/musiq) - Checkpoints and model inference code for the ICCV 2021 paper [*MUSIQ: Multi-scale Image Quality Transformer*](https://arxiv.org/abs/2108.05997)
+*   [AQuaDem (⭐33k)](https://github.com/google-research/google-research/tree/master/aquadem) - Official implementation of [*Continuous Control with Action Quantization from Demonstrations*](https://arxiv.org/abs/2110.10149).
+*   [Combiner (⭐33k)](https://github.com/google-research/google-research/tree/master/combiner) - Official implementation of [*Combiner: Full Attention Transformer with Sparse Computation Cost*](https://arxiv.org/abs/2107.05768).
+*   [Dreamfields (⭐33k)](https://github.com/google-research/google-research/tree/master/dreamfields) - Official implementation of the ICLR 2022 paper [*Progressive Distillation for Fast Sampling of Diffusion Models*](https://ajayj.com/dreamfields).
+*   [GIFT (⭐33k)](https://github.com/google-research/google-research/tree/master/gift) - Official implementation of [*Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent*](https://arxiv.org/abs/2106.06080).
+*   [Light Field Neural Rendering (⭐33k)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [*Light Field Neural Rendering*](https://arxiv.org/abs/2112.09687).
 
 ## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Language Detection
 
 *   [guesslanguage (⭐58)](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
-*   [whatlanggo (⭐619)](https://github.com/abadojack/whatlanggo) - Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc).
+*   [whatlanggo (⭐630)](https://github.com/abadojack/whatlanggo) - Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc).
 
 ### Morphological Analyzers
 
-*   [snowball (⭐36)](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
+*   [snowball (⭐37)](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
 *   [spaGO (⭐1.7k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### Slugifiers
 
-*   [go-slugify (⭐88)](https://github.com/mozillazg/go-slugify) - Make pretty slug with multiple languages support.
+*   [go-slugify (⭐90)](https://github.com/mozillazg/go-slugify) - Make pretty slug with multiple languages support.
 *   [slug (⭐1.1k)](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
-*   [Slugify (⭐32)](https://github.com/avelino/slugify) - Go slugify application that handles string.
+*   [Slugify (⭐33)](https://github.com/avelino/slugify) - Go slugify application that handles string.
 
 ### Tokenizers
 
 *   [gojieba (⭐2.3k)](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba (⭐32k)](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm.
 *   [gotokenizer (⭐18)](https://github.com/xujiajun/gotokenizer) - A tokenizer based on the dictionary and Bigram language models for Golang. (Now only support chinese segmentation)
-*   [gse (⭐2.4k)](https://github.com/go-ego/gse) - Go efficient text segmentation; support english, chinese, japanese and other.
-*   [MMSEGO (⭐62)](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
+*   [gse (⭐2.5k)](https://github.com/go-ego/gse) - Go efficient text segmentation; support english, chinese, japanese and other.
+*   [MMSEGO (⭐63)](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
 *   [prose (⭐3k)](https://github.com/jdkato/prose) - Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only.
 
 ### Translation
 
-*   [go-i18n (⭐2.7k)](https://github.com/nicksnyder/go-i18n/) - Package and an accompanying tool to work with localized text.
+*   [go-i18n (⭐2.8k)](https://github.com/nicksnyder/go-i18n/) - Package and an accompanying tool to work with localized text.
 *   [go-localize (⭐58)](https://github.com/m1/go-localize) - Simple and easy to use i18n (Internationalization and localization) engine - used for translating locale strings.
 *   [go-mystem (⭐32)](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.
-*   [go-pinyin (⭐1.5k)](https://github.com/mozillazg/go-pinyin) - CN Hanzi to Hanyu Pinyin converter.
-*   [gotext (⭐415)](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
+*   [go-pinyin (⭐1.6k)](https://github.com/mozillazg/go-pinyin) - CN Hanzi to Hanyu Pinyin converter.
+*   [gotext (⭐423)](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
 *   [icu (⭐21)](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
-*   [iuliia-go (⭐45)](https://github.com/mehanizm/iuliia-go) - Transliterate Cyrillic → Latin in every possible way.
+*   [iuliia-go (⭐47)](https://github.com/mehanizm/iuliia-go) - Transliterate Cyrillic → Latin in every possible way.
 *   [t (⭐18)](https://github.com/youthlin/t) - Another i18n pkg for golang, which follows GNU gettext style and supports .po/.mo files: `t.T (gettext)`, `t.N (ngettext)`, etc. And it contains a cmd tool [xtemplate (⭐18)](https://github.com/youthlin/t/blob/main/cmd/xtemplate), which can extract messages as a pot file from text/html template.
 
 ### Transliteration
 
 *   [enca (⭐16)](https://github.com/endeveit/enca) - Minimal cgo bindings for [libenca](https://cihar.com/software/enca/), which detects character encodings.
-*   [go-unidecode (⭐120)](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
+*   [go-unidecode (⭐124)](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 *   [gounidecode (⭐79)](https://github.com/fiam/gounidecode) - Unicode transliterator (also known as unidecode) for Go.
 
 ### Networking
@@ -1018,84 +1012,84 @@
 
 ### Formatters
 
-*   [address (⭐69)](https://github.com/bojanz/address) - Handles address representation, validation and formatting.
-*   [align (⭐83)](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
-*   [bytes (⭐515)](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.).
+*   [address (⭐70)](https://github.com/bojanz/address) - Handles address representation, validation and formatting.
+*   [align (⭐82)](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
+*   [bytes (⭐524)](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.).
 *   [go-fixedwidth (⭐80)](https://github.com/ianlopshire/go-fixedwidth) - Fixed-width text formatting (encoder/decoder with reflection).
-*   [go-humanize (⭐3.9k)](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
+*   [go-humanize (⭐4k)](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
 *   [gotabulate (⭐309)](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
 *   [textwrap (⭐5)](https://github.com/isbm/textwrap) - Wraps text at end of lines. Implementation of `textwrap` module from Python.
 
 ### Markup Languages
 
-*   [bafi (⭐92)](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, XML translator to ANY format using templates.
-*   [bbConvert (⭐8)](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
-*   [blackfriday (⭐5.3k)](https://github.com/russross/blackfriday) - Markdown processor in Go.
-*   [go-output-format (⭐13)](https://github.com/drewstinnett/go-output-format) - Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
+*   [bafi (⭐94)](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, XML translator to ANY format using templates.
+*   [bbConvert (⭐9)](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
+*   [blackfriday (⭐5.4k)](https://github.com/russross/blackfriday) - Markdown processor in Go.
+*   [go-output-format (⭐15)](https://github.com/drewstinnett/go-output-format) - Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
 *   [go-toml (⭐1.6k)](https://github.com/pelletier/go-toml) - Go library for the TOML format with query support and handy cli tools.
-*   [goq (⭐251)](https://github.com/andrewstuart/goq) - Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery).
-*   [html-to-markdown (⭐679)](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
-*   [htmlquery (⭐681)](https://github.com/antchfx/htmlquery) - An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
-*   [mxj (⭐598)](https://github.com/clbanning/mxj) - Encode / decode XML as JSON or map\[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
+*   [goq (⭐253)](https://github.com/andrewstuart/goq) - Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery).
+*   [html-to-markdown (⭐722)](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+*   [htmlquery (⭐702)](https://github.com/antchfx/htmlquery) - An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
+*   [mxj (⭐608)](https://github.com/clbanning/mxj) - Encode / decode XML as JSON or map\[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
 *   [toml (⭐4.4k)](https://github.com/BurntSushi/toml) - TOML configuration format (encoder/decoder with reflection).
 
 ### Parsers/Encoders/Decoders
 
 *   [allot (⭐58)](https://github.com/sbstjn/allot) - Placeholder and wildcard text parsing for CLI tools and bots.
-*   [codetree (⭐23)](https://github.com/aerogo/codetree) - Parses indented code (python, pixy, scarlet, etc.) and returns a tree structure.
-*   [commonregex (⭐881)](https://github.com/mingrammer/commonregex) - A collection of common regular expressions for Go.
-*   [did (⭐83)](https://github.com/ockam-network/did) - DID (Decentralized Identifiers) Parser and Stringer in Go.
+*   [codetree (⭐24)](https://github.com/aerogo/codetree) - Parses indented code (python, pixy, scarlet, etc.) and returns a tree structure.
+*   [commonregex (⭐882)](https://github.com/mingrammer/commonregex) - A collection of common regular expressions for Go.
+*   [did (⭐85)](https://github.com/ockam-network/did) - DID (Decentralized Identifiers) Parser and Stringer in Go.
 *   [doi (⭐8)](https://github.com/hscells/doi) - Document object identifier (doi) parser in Go.
-*   [editorconfig-core-go (⭐127)](https://github.com/editorconfig/editorconfig-core-go) - Editorconfig file parser and manipulator for Go.
-*   [go-nmea (⭐202)](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
-*   [go-vcard (⭐97)](https://github.com/emersion/go-vcard) - Parse and format vCard.
-*   [gofeed (⭐2.4k)](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
-*   [gographviz (⭐538)](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language.
+*   [editorconfig-core-go (⭐131)](https://github.com/editorconfig/editorconfig-core-go) - Editorconfig file parser and manipulator for Go.
+*   [go-nmea (⭐205)](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
+*   [go-vcard (⭐98)](https://github.com/emersion/go-vcard) - Parse and format vCard.
+*   [gofeed (⭐2.5k)](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
+*   [gographviz (⭐543)](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language.
 *   [gonameparts (⭐40)](https://github.com/polera/gonameparts) - Parses human names into individual name parts.
-*   [ltsv (⭐8)](https://github.com/Wing924/ltsv) - High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.
-*   [normalize (⭐41)](https://github.com/avito-tech/normalize) - Sanitize, normalize and compare fuzzy text.
-*   [omniparser (⭐614)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
+*   [ltsv (⭐9)](https://github.com/Wing924/ltsv) - High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.
+*   [normalize (⭐45)](https://github.com/avito-tech/normalize) - Sanitize, normalize and compare fuzzy text.
+*   [omniparser (⭐639)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 *   [parseargs-go (⭐10)](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
 *   [parth (⭐46)](https://github.com/codemodus/parth) - URL path segmentation parsing.
-*   [sdp (⭐112)](https://github.com/gortc/sdp) - SDP: Session Description Protocol \[[RFC 4566](https://tools.ietf.org/html/rfc4566)].
-*   [sh (⭐6.6k)](https://github.com/mvdan/sh) - Shell parser and formatter.
+*   [sdp (⭐113)](https://github.com/gortc/sdp) - SDP: Session Description Protocol \[[RFC 4566](https://tools.ietf.org/html/rfc4566)].
+*   [sh (⭐6.8k)](https://github.com/mvdan/sh) - Shell parser and formatter.
 *   [when (⭐1.3k)](https://github.com/olebedev/when) - Natural EN and RU language date/time parser with pluggable rules.
 *   [xj2go (⭐34)](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
 
 ### Regular Expressions
 
 *   [genex (⭐76)](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
-*   [go-wildcard (⭐67)](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
-*   [goregen (⭐89)](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.
-*   [regroup (⭐140)](https://github.com/oriser/regroup) - Match regex expression named groups into go struct using struct tags and automatic parsing.
+*   [go-wildcard (⭐71)](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
+*   [goregen (⭐90)](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.
+*   [regroup (⭐142)](https://github.com/oriser/regroup) - Match regex expression named groups into go struct using struct tags and automatic parsing.
 
 ### Sanitation
 
-*   [bluemonday (⭐2.9k)](https://github.com/microcosm-cc/bluemonday) - HTML Sanitizer.
-*   [gofuckyourself (⭐61)](https://github.com/JoshuaDoes/gofuckyourself) - A sanitization-based swear filter for Go.
+*   [bluemonday (⭐3k)](https://github.com/microcosm-cc/bluemonday) - HTML Sanitizer.
+*   [gofuckyourself (⭐63)](https://github.com/JoshuaDoes/gofuckyourself) - A sanitization-based swear filter for Go.
 
 ### Scrapers
 
 *   [colly (⭐22k)](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
-*   [dataflowkit (⭐636)](https://github.com/slotix/dataflowkit) - Web scraping Framework to turn websites into structured data.
-*   [GoQuery (⭐13k)](https://github.com/PuerkitoBio/goquery) - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
-*   [gospider (⭐203)](https://github.com/zhshch2002/gospider) - A simple golang spider/scraping framework,build a spider in 3 lines. migrated from [goribot (⭐210)](https://github.com/zhshch2002/goribot)
-*   [pagser (⭐93)](https://github.com/foolin/pagser) - Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler.
-*   [Tagify (⭐35)](https://github.com/zoomio/tagify) - Produces a set of tags from given source.
-*   [xurls (⭐1.1k)](https://github.com/mvdan/xurls) - Extract urls from text.
+*   [dataflowkit (⭐644)](https://github.com/slotix/dataflowkit) - Web scraping Framework to turn websites into structured data.
+*   [GoQuery (⭐14k)](https://github.com/PuerkitoBio/goquery) - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
+*   [gospider](https://github.com/zhshch2002/gospider) - A simple golang spider/scraping framework,build a spider in 3 lines. migrated from [goribot](https://github.com/zhshch2002/goribot)
+*   [pagser (⭐100)](https://github.com/foolin/pagser) - Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler.
+*   [Tagify (⭐36)](https://github.com/zoomio/tagify) - Produces a set of tags from given source.
+*   [xurls (⭐1.2k)](https://github.com/mvdan/xurls) - Extract urls from text.
 
 ### RSS
 
-*   [podcast (⭐126)](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
+*   [podcast (⭐127)](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
 
 ### Utility/Miscellaneous
 
-*   [go-runewidth (⭐574)](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
-*   [go-zero-width (⭐111)](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
+*   [go-runewidth (⭐590)](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
+*   [go-zero-width (⭐109)](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
 *   [kace (⭐20)](https://github.com/codemodus/kace) - Common case conversions covering common initialisms.
-*   [petrovich (⭐45)](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
-*   [radix (⭐189)](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
-*   [TySug (⭐17)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
+*   [petrovich (⭐44)](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
+*   [radix (⭐190)](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
+*   [TySug (⭐18)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
 
 ### Validation
 
@@ -1121,7 +1115,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite-Boot (⭐204)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   🚀 [Vite-Boot (⭐215)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ## [45. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
@@ -1133,7 +1127,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [terraform (ptavares) (⭐2)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐6.5k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐4.5k)](https://github.com/terraform-linters/tflint).
+*   [terraform (ptavares) (⭐2)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐4k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐6.6k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐4.6k)](https://github.com/terraform-linters/tflint).
 *   [valet (⭐9)](https://github.com/NasirNobin/zsh-valet/) - Reads `.valetphprc` from the project root and will switch to that PHP version automatically.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1144,14 +1138,34 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [elagoht (⭐0)](https://github.com/Elagoht/Elagoht.zsh-theme) - Includes decorators for user\@hostname, current directory, virtual environment, `git` status, whether it is running in an `ssh` session, and the execution time of the last command.
-*   [gerry (⭐0)](https://github.com/GerryLarios/gerry-prompt) - Based on [bureau (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#bureau), includes decorations for `git` status, current time, username, hostname and current directory.
-*   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
-*   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
+*   [gerry (⭐0)](https://github.com/GerryLarios/gerry-prompt) - Based on [bureau (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#bureau), includes decorations for `git` status, current time, username, hostname and current directory.
+*   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
+*   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
 *   [temeraf (⭐1)](https://github.com/filiptoma/temeraf-zsh) - Minimalist theme with decorations for `git` status, timestamps and last exit status.
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
-*   [yuyuko (⭐1)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐26)](https://github.com/hylwxqwq/yuyuko.vim).
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [yuyuko (⭐1)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐27)](https://github.com/hylwxqwq/yuyuko.vim).
 
-## [47. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [47. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+
+### Platforms / Localization and translation platforms
+
+*   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
+
+## [48. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Misc
+
+*   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
+
+### Networking
+
+*   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
+
+### Quantum Computing
+
+*   [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
+
+## [49. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -1165,17 +1179,7 @@
 
 *   [MONAI (⭐5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 
-## [48. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Templates / Vue 3
-
-*   [vite-boot (⭐204)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
-
-### Open Source / Community
-
-*   [Hathora (⭐536)](https://github.com/hathora/hathora) - Multiplayer game framework.
-
-## [49. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [50. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Lecture Videos Playlists
 
@@ -1210,7 +1214,7 @@
 
 *   [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 
-## [50. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -1229,7 +1233,7 @@
 
 *   [terraform-compliance (⭐1.3k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 
-## [51. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [52. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### More ways to "Dive into Machine Learning" / Aside: Bayesian Statistics and Machine Learning
 
@@ -1241,7 +1245,7 @@
 *   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Writing
 
@@ -1279,7 +1283,7 @@
 
 *   [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***Department of Electrical Engineering and Computer Science, UC Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***UC Berkeley***.
 
-## [53. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [54. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

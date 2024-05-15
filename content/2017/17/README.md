@@ -40,7 +40,7 @@
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐863)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Contents / GUI
 
-*   [temBoard (⭐428)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐440)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 
@@ -150,19 +150,19 @@
 
 ### Tutorial
 
-*   [vulkan-sxs (⭐16)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐54)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
+*   [vulkan-sxs (⭐17)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐55)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
 
 ### Tools
 
-*   [LoaderAndValidationLayers (⭐419)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐598)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
+*   [LoaderAndValidationLayers (⭐416)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
+*   [VulkanTools (⭐627)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
 
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐193)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐209)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐720)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐775)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐763)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐764)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -232,7 +232,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.3k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.4k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 
@@ -248,7 +248,7 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [PathPicker (⭐5k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+*   [PathPicker (⭐5.1k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
 ## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -305,7 +305,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [cl-slug (⭐23)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-slug (⭐24)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Other scripting utilities / Third-party APIs
 
@@ -507,11 +507,11 @@
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐548)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐551)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐217k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐221k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)

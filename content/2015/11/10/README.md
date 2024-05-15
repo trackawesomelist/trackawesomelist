@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 10, 2015
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,24 +36,18 @@
 
 *   [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [ng2-play (⭐536)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Google2FA (⭐1.5k)](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
-## [8. Amas](/content/sindresorhus/amas/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
-*   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
+*   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at Alipay.
+*   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of PresentBook.
 *   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 
 ---

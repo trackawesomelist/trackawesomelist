@@ -32,7 +32,7 @@
 
 ### UI / Effect
 
-*   [Wave (⭐949)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+*   [Wave (⭐1.1k)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

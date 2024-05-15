@@ -34,7 +34,7 @@
 
 ### Finance
 
-- API: [Real Time Finance (⭐58)](https://github.com/Real-time-finance/finance-websocket-API/)
+- API: [Real Time Finance (⭐62)](https://github.com/Real-time-finance/finance-websocket-API/)
 
   Description: Websocket API to access realtime stock data
 
@@ -43,6 +43,8 @@
   HTTPS: No
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -56,19 +58,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [ckeditor4-vue (⭐71)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [ckeditor4-vue (⭐74)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Database
 
-*   [ObjectBox (⭐411)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐416)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐66)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐67)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.6k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.7k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -71,13 +71,13 @@
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐110)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐111)](https://github.com/TNG/keycloak-mock)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
-*   [go-openai (⭐7.8k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐8.2k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -135,13 +135,9 @@
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Templates / Vue 3
-
-*   [vite-vue-lib-template (⭐12)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
-
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐65)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐67)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

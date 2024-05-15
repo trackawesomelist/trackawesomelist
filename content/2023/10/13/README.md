@@ -40,14 +40,12 @@
 
 ### Official
 
-*   [OpenTofu repository (⭐19k)](https://github.com/opentofu/opentofu) 🎉
-*   [Weekly Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+*   [OpenTofu repository (⭐21k)](https://github.com/opentofu/opentofu) 🎉
 
 ### Community
 
 *   [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 *   [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
-*   [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 
 ### Features
 
@@ -56,7 +54,6 @@
 ### Media / Helpers
 
 *   [OSS EU 2023 - Announcement](https://www.youtube.com/watch?v=Ha77rpusEDM\&t=1190s)
-*   [OSS EU 2023 - Project overview](https://www.youtube.com/watch?v=-8sOE9-icmY\&t=15116s)
 
 ### Podcasts / Helpers
 
@@ -71,7 +68,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐40)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐48)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ## [7. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 

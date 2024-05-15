@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27 - Jul 03, 2016
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -329,15 +329,15 @@ git blame <file-name>
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐636)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐642)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ### Minification
 
-*   [Web Markup Minifier (⭐422)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐435)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ### Queue
 
-*   [Warewolf ESB (⭐264)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐266)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 
@@ -353,58 +353,47 @@ git blame <file-name>
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐4.4k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐818)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐4.5k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐817)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
-## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Video Tutorials / Components
-
-*   [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
-*   [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
-
-### Books / Components
-
-*   [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
-
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [Plastic (⭐509)](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch
 
-## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [36. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Functional Mumbo Jumbo – ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html) – A beginner-friendly introduction to Algebraic Data Types.
 
-## [38. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [37. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 *   [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 
-## [39. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [38. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Graph Databases
 
 *   [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 
-## [41. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [40. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Italiano (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
-## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
@@ -421,15 +410,15 @@ git blame <file-name>
 
 ### Deobfuscation / Other Resources
 
-*   [FLOSS (⭐2.4k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
+*   [FLOSS (⭐3k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
     String Solver uses advanced static analysis techniques to automatically
     deobfuscate strings from malware binaries.
-*   [unpacker (⭐107)](https://github.com/malwaremusings/unpacker/) - Automated malware
+*   [unpacker (⭐114)](https://github.com/malwaremusings/unpacker/) - Automated malware
     unpacker for Windows malware based on WinAppDbg.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [bamfdetect (⭐147)](https://github.com/bwall/bamfdetect) - Identifies and extracts
+*   [bamfdetect](https://github.com/bwall/bamfdetect) - Identifies and extracts
     information from bots and other malware.
 
 ### Memory Forensics / Other Resources
@@ -439,28 +428,28 @@ git blame <file-name>
 
 ### Storage and Workflow / Other Resources
 
-*   [Polichombr (⭐344)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
+*   [Polichombr (⭐372)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
     platform designed to help analysts to reverse malwares collaboratively.
 
 ### Miscellaneous / Other Resources
 
-*   [al-khaser (⭐4.3k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
+*   [al-khaser (⭐5.5k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
     with good intentions that aimes to stress anti-malware systems.
-*   [MalSploitBase (⭐496)](https://github.com/misterch0c/malSploitBase) - A database
+*   [MalSploitBase (⭐529)](https://github.com/misterch0c/malSploitBase) - A database
     containing exploits used by malware.
 
-## [43. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [42. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Resources / Articles
 
 *   Roger Clarke: [Open source software and open content as models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
 *   Shereef Bishay: [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
 
-## [44. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [43. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐9)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐10)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube
@@ -468,7 +457,7 @@ git blame <file-name>
 *   [Greasy Fork](https://greasyfork.org/)
 *   [OpenUserJS](https://openuserjs.org/)
 
-## [45. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [44. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -479,7 +468,7 @@ git blame <file-name>
 *   [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 *   [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 
-## [46. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [45. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Languages, Protocols, Browser APIs
 
@@ -489,23 +478,23 @@ git blame <file-name>
 
 *   **[Buttons](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
 
-## [47. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [46. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
 
-## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
-*   [Moa (⭐334)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐332)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ### Utility / Barcode
 
 *   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 
-## [49. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [48. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 

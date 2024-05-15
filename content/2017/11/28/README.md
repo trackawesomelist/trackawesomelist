@@ -100,7 +100,7 @@
 
 ### File Carving / Other Resources
 
-*   [hachoir3 (⭐506)](https://github.com/vstinner/hachoir3) - Hachoir is a Python library
+*   [hachoir3 (⭐586)](https://github.com/vstinner/hachoir3) - Hachoir is a Python library
     to view and edit a binary stream field by field.
 
 ### Miscellaneous / Other Resources

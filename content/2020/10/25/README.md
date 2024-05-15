@@ -74,7 +74,7 @@
 
 ### Personality
 
-- API: [Quotable Quotes (⭐1.3k)](https://github.com/lukePeavey/quotable)
+- API: [Quotable Quotes (⭐1.7k)](https://github.com/lukePeavey/quotable)
 
   Description: Quotable is a free, open source quotations API
 
@@ -88,7 +88,7 @@
 
 ### Security
 
-- API: [Intelligence X (⭐347)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
+- API: [Intelligence X (⭐383)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
 
   Description: Perform OSINT via Intelligence X
 
@@ -144,7 +144,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩📁 [Jakarta LTE (⭐148)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+*   🧩📁 [Jakarta LTE (⭐150)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -229,9 +229,9 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐489)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐496)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐313)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐317)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -242,24 +242,24 @@
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐62k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐9.4k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐196k)](https://github.com/vinta/awesome-python)
+*   [Awesome Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [lists (⭐9.6k)](https://github.com/jnv/lists)
+*   [awesome-python (⭐204k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐5.7k)](https://github.com/qinwf/awesome-R)
+*   [awesome-r (⭐5.8k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
-*   [Awesome Machine Learning On Source Code (⭐6k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
-*   [Awesome Community Detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection)
+*   [Awesome Machine Learning On Source Code (⭐6.1k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+*   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection)
 *   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
-*   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐973)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐475)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐577)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+*   [Awesome Gradient Boosting Papers (⭐980)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐495)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐599)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
-*   [100 NLP Papers (⭐3.6k)](https://github.com/mhagiwara/100-nlp-papers)
+*   [100 NLP Papers (⭐3.7k)](https://github.com/mhagiwara/100-nlp-papers)
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -831,7 +831,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [LnMe (⭐159)](https://github.com/bumi/lnme)
+- Processor: [LnMe (⭐161)](https://github.com/bumi/lnme)
 
   Fees: No fees
 
@@ -849,12 +849,11 @@
 
 ### Large Source Code Examples
 
-*   [Dark (⭐1.6k)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
 *   [Oni2 (⭐7.7k)](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 
 ### Project Starter Templates
 
-*   [spin (⭐296)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+*   [spin (⭐297)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
 *   [modern-ocaml (⭐67)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## [17. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
@@ -867,7 +866,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐70)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
+*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐72)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ---
 

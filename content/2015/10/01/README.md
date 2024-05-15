@@ -16,7 +16,7 @@
 
 ### Other / Other Resources
 
-*   [AppSec (⭐5.3k)](https://github.com/paragonie/awesome-appsec)
+*   [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec)
 
 ## [3. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Git Tools
 
-*   [posh-git (⭐7.3k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.4k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

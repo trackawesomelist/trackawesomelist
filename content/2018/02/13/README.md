@@ -20,11 +20,11 @@
 
 ### Feeds
 
-*   [atomex (⭐47)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐52)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐140)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐142)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

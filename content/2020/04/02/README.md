@@ -35,7 +35,7 @@
 
 ### Tools
 
-*   [k6 generator (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

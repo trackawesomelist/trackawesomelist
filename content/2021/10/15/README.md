@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -91,13 +91,13 @@
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐148)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐174)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [Record-Builder (⭐593)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐656)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -127,13 +127,19 @@
 
 *   [gatling-report (⭐114)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Misc
+
+*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
+
+## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Translations / Ironsworn
 
 *   [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -190,7 +196,7 @@
   CORS: Unknown
 
 
-- API: [Sakura CardCaptor (⭐48)](https://github.com/JessVel/sakura-card-captor-api)
+- API: [Sakura CardCaptor (⭐55)](https://github.com/JessVel/sakura-card-captor-api)
 
   Description: Sakura CardCaptor Cards Information
 
@@ -359,7 +365,7 @@
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐59k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐65k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 

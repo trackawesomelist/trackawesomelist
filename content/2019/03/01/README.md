@@ -28,7 +28,7 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐857)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐858)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ## [4. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -88,11 +88,9 @@
 *   [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 *   [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 *   [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-*   [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/) - Country reports on social media use.
 *   [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 *   [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 *   [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
-*   [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -142,23 +140,23 @@
 
 ### Entertainment / Social Media
 
-*   [facebook-cli (⭐386)](https://github.com/specious/facebook-cli) - Facebook command line interface.
+*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### Utilities / macOS
 
-*   [active-win-cli (⭐55)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐58)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Directory Navigation
 
-*   [goto (⭐844)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐862)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Images / Image Conversion
 
-*   [imgp (⭐965)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+*   [imgp (⭐1k)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -174,7 +172,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Sample .NET Core CQRS REST API (⭐2.6k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [Sample .NET Core CQRS REST API (⭐2.7k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
 ---
 

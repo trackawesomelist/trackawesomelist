@@ -17,7 +17,7 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
-    *   [by @kingreza (⭐39)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐40)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
 

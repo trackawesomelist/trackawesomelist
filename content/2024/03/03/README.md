@@ -10,7 +10,7 @@
 
 ### Complexity & Information Theory / Visual Complexity
 
-*   [Compressed File Length Predicts Search Time and Errors on Visual Displays](https://www.sciencedirect.com/science/article/pii/S0141938205000120) - ***Displays***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=15600966633648834042\&as_sdt=0,5)]. Compressed file size, an objective, easily obtained measure of display complexity, predicts both subjective complexity judgments and objective search performance. It is analogous to algorithmic complexity, a theoretical but impractical measure of bit string complexity. The data suggest that it may be possible to use the compressed file size measure to predict display performance in applied tasks.
+*   [Compressed File Length Predicts Search Time and Errors on Visual Displays](https://www.sciencedirect.com/science/article/pii/S0141938205000120) - ***Displays***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=15600966633648834042)]. Compressed file size, an objective, easily obtained measure of display complexity, predicts both subjective complexity judgments and objective search performance. It is analogous to algorithmic complexity, a theoretical but impractical measure of bit string complexity. The data suggest that it may be possible to use the compressed file size measure to predict display performance in applied tasks.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -20,11 +20,11 @@
 
 ### OS and Kernels / Apache License
 
-*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐78)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐84)](https://github.com/streaksu/Gloire).
 
 ### Games / Apache License
 
-*   [steamsky (⭐90)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
+*   [steamsky (⭐91)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -47,15 +47,15 @@
 
 ### Color / Diagnostics
 
-*   [rasulomaroff/reactive.nvim (⭐106)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
+*   [rasulomaroff/reactive.nvim (⭐159)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [samharju/synthweave.nvim (⭐11)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
+*   [samharju/synthweave.nvim (⭐27)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 
 ### Terminal Integration / Diagnostics
 
-*   [samharju/yeet.nvim (⭐6)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
+*   [samharju/yeet.nvim (⭐27)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 ---
 

@@ -20,14 +20,14 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐35k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐37k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
-*   [ByStar (⭐1k)](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
+*   [ByStar (⭐1.1k)](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 
 ---
 

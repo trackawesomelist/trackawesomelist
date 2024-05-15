@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐744)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐748)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -38,7 +38,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐953)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 

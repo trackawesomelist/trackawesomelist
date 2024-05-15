@@ -10,7 +10,7 @@
 
 ### React Internationalization
 
-*   [react-i18next (⭐8.7k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+*   [react-i18next (⭐8.9k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
 
 ## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

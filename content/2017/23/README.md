@@ -126,7 +126,7 @@
 
 ### Libraries / Caching
 
-*   [jaemk/cached (⭐1.3k)](https://github.com/jaemk/cached) — Simple function caching/memoization
+*   [jaemk/cached (⭐1.4k)](https://github.com/jaemk/cached) — Simple function caching/memoization
 
 ## [8. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -184,7 +184,13 @@ Lite Version (Free) and Full Version ($3)
 
 *   [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.
 
-## [16. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Tools / Others
+
+*   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).
+
+## [17. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -192,11 +198,11 @@ Lite Version (Free) and Full Version ($3)
 
 ### Models/Projects
 
-*   [Show, Attend and Tell (⭐902)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
-*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐354)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+*   [Show, Attend and Tell (⭐907)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐357)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 *   [Colornet - Neural Network to colorize grayscale images (⭐3.6k)](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 
-## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Integration
 
@@ -204,7 +210,7 @@ Lite Version (Free) and Full Version ($3)
     *   [jEaSSE (⭐59)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
     *   [vertx-sse (⭐41)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Keychain / Barcode
 
@@ -212,20 +218,20 @@ Lite Version (Free) and Full Version ($3)
 
 ### UI / Barcode
 
-*   [Dodo (⭐873)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐365)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [SectionedSlider (⭐367)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ### Menu / Barcode
 
 *   [FanMenu (⭐726)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Input Methods / Audio Record and Process
 
 *   [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [20. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [21. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Beginner Books
 
@@ -236,12 +242,6 @@ Lite Version (Free) and Full Version ($3)
 Data Munging with R shows you how to take raw data and transform it for use in computations, tables, graphs, and more. Whether you already have some programming experience or you're just a spreadsheet whiz looking for a more powerful data manipulation tool, this book will help you get started.
 
 You'll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you're done, you'll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
-
-## [21. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Applications and Platforms / Time
-
-*   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and tells you exactly how many seconds you spent in each document, website and app (Mac).
 
 ## [22. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -265,7 +265,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-behavior (⭐143)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
 ## [25. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -325,7 +325,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐175)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ### Datastores / Online resources
 
@@ -378,7 +378,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### WPF
 
-*   [Data Grid Extensions (⭐745)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐770)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -408,13 +408,13 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 ### Development / Devops
 
 *   [SAWS (⭐5.2k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-*   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [The Fuck (⭐79k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐45k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐480)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [The Fuck (⭐83k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [tldr (⭐48k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [Wat (⭐489)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [39. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 

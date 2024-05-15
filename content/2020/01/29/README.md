@@ -52,22 +52,22 @@
 
 ### Applications
 
-*   [tiny (⭐941)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐968)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐7.3k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐7.8k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐235)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐243)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐802)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐652)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐321)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
-*   [debris/tiny-keccak (⭐185)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐827)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐658)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐322)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
+*   [debris/tiny-keccak (⭐189)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -79,7 +79,7 @@
 
 ### React Frameworks
 
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -124,8 +124,8 @@
 
 ### Events
 
-*   [Events in Italy (⭐147)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-*   [Events in the Netherlands (⭐58)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+*   [Events in Italy (⭐148)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
+*   [Events in the Netherlands (⭐61)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -135,7 +135,7 @@
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐371)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐372)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Miscellaneous
 
-*   [react-pdf-viewer (⭐1.9k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+*   [react-pdf-viewer (⭐2k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ## [13. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

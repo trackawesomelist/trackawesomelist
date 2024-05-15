@@ -10,12 +10,12 @@
 
 ### Authentication
 
-*   [ueberauth\_cas (⭐14)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
+*   [ueberauth\_cas (⭐15)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
 *   [ueberauth\_line (⭐4)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐82)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐83)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 

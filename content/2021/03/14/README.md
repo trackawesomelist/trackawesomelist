@@ -10,7 +10,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-godfather (⭐27)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+*   [react-godfather (⭐28)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -33,13 +33,13 @@
 ### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
 
 *   [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
-*   [EyeWitness (⭐4.6k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
-*   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+*   [EyeWitness (⭐4.7k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+*   [VHostScan (⭐1.2k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
 *   [WhatWaf (⭐2.5k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
-*   [WhatWeb (⭐5k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
-*   [wafw00f (⭐4.7k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
-*   [webscreenshot (⭐643)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
+*   [WhatWeb (⭐5.1k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+*   [wafw00f (⭐4.9k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+*   [webscreenshot (⭐649)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
 
 ### Web Exploitation / Social Engineering Tools
 
@@ -54,15 +54,15 @@
 
 ### Web Exploitation / Web file inclusion tools
 
-*   [Kadimus (⭐503)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+*   [Kadimus (⭐505)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
 *   [LFISuite (⭐1.6k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
-*   [fimap (⭐442)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
-*   [liffy (⭐120)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
+*   [fimap (⭐471)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+*   [liffy (⭐123)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
 
 ### Web Exploitation / Web injection tools
 
-*   [Commix (⭐4.2k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
-*   [NoSQLmap (⭐2.7k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
+*   [Commix (⭐4.3k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+*   [NoSQLmap (⭐2.8k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
 *   [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
@@ -72,15 +72,15 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Browser Exploitation Framework (BeEF) (⭐9.2k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
-*   [DAws (⭐571)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
+*   [Browser Exploitation Framework (BeEF) (⭐9.4k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+*   [DAws (⭐570)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
 
 ### Web Exploitation / Web-accessible source code ripping tools
 
 *   [DVCS Ripper (⭐1.6k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
-*   [GitTools (⭐3.6k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
-*   [git-dumper (⭐1.5k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
-*   [git-scanner (⭐324)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
+*   [GitTools (⭐3.7k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
+*   [git-dumper (⭐1.6k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
+*   [git-scanner (⭐332)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Entertainment / Music
 
-*   [swaglyrics-for-spotify (⭐307)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+*   [swaglyrics-for-spotify (⭐314)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Other
 
-*   [DataToken (⭐17)](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
+*   [DataToken (⭐19)](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 
 ---
 

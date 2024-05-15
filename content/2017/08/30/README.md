@@ -38,14 +38,14 @@
 
 ### Example Projects
 
-*   [Example of custom password hash SPI for Keycloak (⭐23)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
-*   [Attentive Object Tracking (⭐147)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
+*   [Attentive Object Tracking (⭐146)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 
 ## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

@@ -45,7 +45,7 @@
 
 ### GUI
 
-*   [trikl (⭐143)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
 ## [7. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Top / Game Engine resources
 
-*   [Timy Messenger (⭐2k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
+*   [Timy Messenger (⭐2.1k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
 ## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

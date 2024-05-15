@@ -22,17 +22,17 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐690)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐691)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### UI / Barcode
 
-*   [FloatRatingView (⭐547)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐549)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Network / Other Resources
 
-*   [Maltrail (⭐4.8k)](https://github.com/stamparm/maltrail) - A malicious traffic
+*   [Maltrail (⭐5.8k)](https://github.com/stamparm/maltrail) - A malicious traffic
     detection system, utilizing publicly available (black)lists containing
     malicious and/or generally suspicious trails and featuring an reporting
     and analysis interface.

@@ -10,7 +10,7 @@
 
 ### Software / Log Management
 
-*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐21k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
+*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐22k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 ## [2. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -22,22 +22,22 @@
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐119)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
+*   [ARHeadsetKit (⭐122)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
     Microsoft Hololens.
 
 ## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐185)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐191)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐504)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐533)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Monae (⭐66)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
+*   [Monae (⭐67)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -47,26 +47,26 @@
     ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social\&label=Star)
     [Demo](https://picocss.com/#examples),
     [Docs](https://picocss.com/docs/),
-    [Repo (⭐10k)](https://github.com/picocss/pico)
+    [Repo (⭐12k)](https://github.com/picocss/pico)
     \| #SCSS
 *   [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.\
     ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
     [Demo](https://vanillaframework.io/docs/examples),
     [Docs](https://vanillaframework.io/docs/),
-    [Repo (⭐725)](https://github.com/canonical/vanilla-framework)
+    [Repo (⭐784)](https://github.com/canonical/vanilla-framework)
     \| #SCSS
 *   [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
     ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
-    [Demo](https://www.patternfly.org/pattern-library/),
+    [Demo](https://www.patternfly.org/patterns/about-patterns),
     [Docs](https://www.patternfly.org/get-started/),
-    [Repo (⭐637)](https://github.com/patternfly/patternfly)
+    [Repo (⭐676)](https://github.com/patternfly/patternfly)
     \| #SCSS #LESS
 
 ### Specialized
 
 *   [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.\
     ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social\&label=Star)
-    [Repo (⭐5.6k)](https://github.com/edwardtufte/tufte-css)
+    [Repo (⭐5.8k)](https://github.com/edwardtufte/tufte-css)
     \| #CSS
 
 ### Stalled Development
@@ -79,7 +79,7 @@
     ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
     [Demo](https://turretcss.com/demo/),
     [Docs](https://turretcss.com/getting-started/),
-    [Repo (⭐800)](https://github.com/turretcss/turretcss)
+    [Repo (⭐802)](https://github.com/turretcss/turretcss)
     \| #CSS
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -100,7 +100,7 @@
 
 ### Animals
 
-- API: [MeowFacts (⭐257)](https://github.com/wh-iterabb-it/meowfacts)
+- API: [MeowFacts (⭐333)](https://github.com/wh-iterabb-it/meowfacts)
 
   Description: Get random cat facts
 

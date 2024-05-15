@@ -95,7 +95,7 @@ git add -p
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐52k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [Prometheus.io (⭐53k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
 
 ---
 

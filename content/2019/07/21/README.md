@@ -31,16 +31,16 @@
 
 ### Resources / Examples
 
-*   [Snake game on Vue.js without Canvas (⭐43)](https://github.com/Seokky/vue-snake-game)
+*   [Snake game on Vue.js without Canvas (⭐44)](https://github.com/Seokky/vue-snake-game)
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐15k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [vue-realworld-example-app (⭐4.1k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
+*   [Daily (⭐16k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐163)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐164)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐2.3k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

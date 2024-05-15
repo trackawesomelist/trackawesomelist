@@ -42,7 +42,7 @@
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐428)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐431)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -93,7 +93,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-    (Python, MIT, [GitHub (⭐1.7k)](https://github.com/PyWavelets/pywt))
+    (Python, MIT, [GitHub (⭐1.9k)](https://github.com/PyWavelets/pywt))
 
 ## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

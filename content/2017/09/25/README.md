@@ -104,7 +104,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Massive Octo Spice (⭐225)](https://github.com/csirtgadgets/massive-octo-spice) -
+*   [Massive Octo Spice (⭐227)](https://github.com/csirtgadgets/massive-octo-spice) -
     Previously known as CIF (Collective Intelligence Framework). Aggregates IOCs
     from various lists. Curated by the
     [CSIRT Gadgets Foundation](http://csirtgadgets.org/collective-intelligence-framework).
@@ -118,7 +118,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [BinaryAlert (⭐1.3k)](https://github.com/airbnb/binaryalert) - An open source, serverless
+*   [BinaryAlert (⭐1.4k)](https://github.com/airbnb/binaryalert) - An open source, serverless
     AWS pipeline that scans and alerts on uploaded files based on a set of
     YARA rules.
 *   [ssdeep](https://ssdeep-project.github.io/ssdeep/) - Compute fuzzy hashes.
@@ -129,25 +129,25 @@
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [anlyz.io](https://sandbox.anlyz.io/) - Online sandbox.
-*   [cuckoo-modified-api (⭐15)](https://github.com/keithjjones/cuckoo-modified-api) - A
+*   [cuckoo-modified-api (⭐19)](https://github.com/keithjjones/cuckoo-modified-api) - A
     Python API used to control a cuckoo-modified sandbox.
-*   [detux (⭐250)](https://github.com/detuxsandbox/detux/) - A sandbox developed to do
+*   [detux (⭐255)](https://github.com/detuxsandbox/detux/) - A sandbox developed to do
     traffic analysis of Linux malwares and capturing IOCs.
 *   [firmware.re](http://firmware.re/) - Unpacks, scans and analyzes almost any
     firmware package.
-*   [HaboMalHunter (⭐684)](https://github.com/Tencent/HaboMalHunter) - An Automated Malware
+*   [HaboMalHunter (⭐722)](https://github.com/Tencent/HaboMalHunter) - An Automated Malware
     Analysis Tool for Linux ELF Files.
-*   [Limon (⭐362)](https://github.com/monnappa22/Limon) - Sandbox for Analyzing Linux Malware.
-*   [malsub (⭐348)](https://github.com/diogo-fernan/malsub) - A Python RESTful API framework for
+*   [Limon (⭐383)](https://github.com/monnappa22/Limon) - Sandbox for Analyzing Linux Malware.
+*   [malsub (⭐362)](https://github.com/diogo-fernan/malsub) - A Python RESTful API framework for
     online malware and URL analysis services.
-*   [Visualize\_Logs (⭐132)](https://github.com/keithjjones/visualize_logs) - Open source
+*   [Visualize\_Logs (⭐134)](https://github.com/keithjjones/visualize_logs) - Open source
     visualization library and command line tools for logs.  (Cuckoo, Procmon, more
     to come...)
 
 ### Domain Analysis / Other Resources
 
 *   [badips.com](https://www.badips.com/) - Community based IP blacklist service.
-*   [boomerang (⭐33)](https://github.com/EmersonElectricCo/boomerang) - A tool designed
+*   [boomerang (⭐34)](https://github.com/EmersonElectricCo/boomerang) - A tool designed
     for consistent and safe capture of off network web resources.
 *   [Cymon](https://cymon.io/) - Threat intelligence tracker, with IP/domain/hash
     search.
@@ -171,18 +171,18 @@
     system resources.
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable reverse
     engineering sandbox by the Talos team at Cisco.
-*   [QKD (⭐41)](https://github.com/ispras/qemu/releases/) - QEMU with embedded WinDbg
+*   [QKD (⭐50)](https://github.com/ispras/qemu/releases/) - QEMU with embedded WinDbg
     server for stealth debugging.
 *   [RegShot](https://sourceforge.net/projects/regshot/) - Registry compare utility
     that compares snapshots.
 
 ### Network / Other Resources
 
-*   [PcapViz (⭐281)](https://github.com/mateuszk87/PcapViz) - Network topology and
+*   [PcapViz (⭐326)](https://github.com/mateuszk87/PcapViz) - Network topology and
     traffic visualizer.
-*   [Python ICAP Yara (⭐53)](https://github.com/RamadhanAmizudin/python-icap-yara) - An
+*   [Python ICAP Yara (⭐56)](https://github.com/RamadhanAmizudin/python-icap-yara) - An
     ICAP Server with yara scanner for URL or content.
-*   [Squidmagic (⭐74)](https://github.com/ch3k1/squidmagic) - squidmagic is a tool
+*   [Squidmagic (⭐75)](https://github.com/ch3k1/squidmagic) - squidmagic is a tool
     designed to analyze a web-based network traffic to detect central command
     and control (C\&C) servers and malicious sites, using Squid proxy server and
     Spamhaus.
@@ -191,9 +191,9 @@
 
 *   [BlackLight](https://www.blackbagtech.com/blacklight.html) - Windows/MacOS
     forensics client supporting hiberfil, pagefile, raw memory analysis.
-*   [DAMM (⭐204)](https://github.com/504ensicsLabs/DAMM) - Differential Analysis of
+*   [DAMM (⭐209)](https://github.com/504ensicsLabs/DAMM) - Differential Analysis of
     Malware in Memory, built on Volatility.
-*   [inVtero.net (⭐259)](https://github.com/ShaneK2/inVtero.net) - High speed memory
+*   [inVtero.net (⭐276)](https://github.com/ShaneK2/inVtero.net) - High speed memory
     analysis framework developed in .NET supports all Windows x64, includes
     code integrity and write support.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -55,7 +55,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Microsoft ML for Apache Spark (⭐4.9k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
+*   [Microsoft ML for Apache Spark (⭐5k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐768)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐795)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
 
 ## [14. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Queries
 
-*   [dasel (⭐4.8k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.9k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐29k)](https://github.com/jqlang/jq) / [yq (⭐2.5k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
@@ -214,12 +214,6 @@
 ### Form Logic / Mouse Events
 
 *   [Formily (⭐11k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
-
-## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### React / Framework
-
-*   [@vitjs/vit (⭐99)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
 ---
 

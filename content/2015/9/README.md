@@ -67,7 +67,7 @@
 
 *   [eastar (⭐30)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
 *   [fnv (⭐5)](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
-*   [remodel (⭐141)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
+*   [remodel (⭐142)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 
 ### Cloud Infrastructure and Management
 
@@ -88,7 +88,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_lazy\_float (⭐6)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
+*   [ecto\_lazy\_float (⭐7)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 *   [riak (⭐199)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 *   [tds\_ecto (⭐57)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 
@@ -98,7 +98,7 @@
 
 ### Third Party APIs
 
-*   [edgarex (⭐1)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
+*   [edgarex (⭐2)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 *   [pusher (⭐25)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
@@ -385,11 +385,11 @@
 
 ### Application Frameworks
 
-*   [Mono-Addins (⭐162)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+*   [Mono-Addins (⭐164)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 
 ### Compilers, Transpilers and Languages
 
-*   [Roslyn (⭐18k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
+*   [Roslyn (⭐19k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 
 ### Compression
 
@@ -401,17 +401,17 @@
 
 ### Git Tools
 
-*   [NGit (⭐260)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
+*   [NGit (⭐261)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 
 ### GUI
 
-*   [XWT (⭐1.3k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
-*   [Gtk# (⭐416)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
+*   [XWT (⭐1.4k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
+*   [Gtk# (⭐418)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 
 ### Interoperability
 
-*   [CppSharp (⭐2.9k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
-*   [Sharpen (⭐375)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
+*   [CppSharp (⭐3k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
+*   [Sharpen (⭐378)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐199)](https://github.com/mono/cxxi) - C++ interop framework
 
 ### Media
@@ -421,11 +421,11 @@
 
 ### Office
 
-*   [Open XML SDK (⭐3.8k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
+*   [Open XML SDK (⭐3.9k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 
 ### Visual Studio Plugins
 
-*   [CodeContracts (⭐875)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+*   [CodeContracts (⭐876)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 
 ## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

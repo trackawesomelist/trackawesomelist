@@ -22,7 +22,7 @@
 
 ### Audio
 
-*   [SELA (⭐211)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐209)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -44,7 +44,7 @@
 
 ### ORM
 
-*   [LINQ to DB (⭐2.8k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+*   [LINQ to DB (⭐2.9k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
 ## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐765)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐767)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -330,7 +330,7 @@ git branch --contains <commit-ish>
 ### Ask these people anything!
 
 *   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
-*   [Trent Oswald (⭐2)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐219)](https://github.com/nodejs/iojs.org).
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things Mashape and nodejs/website.
 
 ## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -371,7 +371,7 @@ git branch --contains <commit-ish>
 
 ### Testing
 
-*   [mocks.cr (⭐51)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
+*   [mocks.cr (⭐50)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
 ## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 

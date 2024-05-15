@@ -14,7 +14,7 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Thomas Laforge](https://twitter.com/laforge_toma)
 
@@ -23,21 +23,21 @@
 ### Applications / Emulators
 
 *   Nintendo 64
-    *   [gopher64 (⭐55)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
+    *   [gopher64 (⭐63)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### File Explorer / Diagnostics
 
-*   [prichrd/netrw.nvim (⭐166)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
+*   [prichrd/netrw.nvim (⭐182)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ### Utility / Diagnostics
 
-*   [terje/simctl.nvim (⭐1)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
+*   [terje/simctl.nvim (⭐24)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 
 ### Git / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.diff (⭐3.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
+*   [echasnovski/mini.nvim#mini.diff (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
 
 ---
 

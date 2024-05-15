@@ -16,7 +16,7 @@
 
 ### Libraries / Python
 
-*   [Scapy (⭐8.7k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.7k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
+*   [Scapy (⭐9.9k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐9.9k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐76)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐81)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐350)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐383)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

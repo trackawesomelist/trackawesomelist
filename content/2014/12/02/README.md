@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [ex\_spec (⭐98)](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
+*   [ex\_spec (⭐99)](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -20,7 +20,7 @@
 
 ### API Builder and Discovery
 
-*   [Version Cake (⭐653)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
+*   [Version Cake (⭐654)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 *   [versionist (⭐970)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization

@@ -10,7 +10,7 @@
 
 ### Other Lists of Code Points / Games
 
-*   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+*   [Cross-platform terminal characters (⭐210)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
 
 ## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐710)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐713)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐199)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐209)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ---
 

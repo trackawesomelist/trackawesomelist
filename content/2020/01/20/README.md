@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Reactive Ble (⭐550)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
+*   [Reactive Ble (⭐634)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Web / Development
 
-*   [Checkov (⭐6.2k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
+*   [Checkov (⭐6.5k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
 ## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -85,13 +85,7 @@
 
 *   [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 
-## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
-
-### Stub packages
-
-*   [wsgitypes (⭐1)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
-
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Input Types
 
@@ -101,29 +95,29 @@
 
 *   [reactponsive (⭐14)](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [alacritty (⭐52k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐53k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 
-*   [CurrySoftware/perlin (⭐74)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)]
+*   [CurrySoftware/perlin (⭐75)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)]
 
-## [15. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [14. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### ZSH
 
 *   [zinit (⭐25)](https://github.com/zdharma/zinit) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
 
-## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Workshops / ChatGPT
 
 *   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
-## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 

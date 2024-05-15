@@ -16,7 +16,7 @@
 
 ### Scheduling
 
-*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
+*   [FluentScheduler (⭐2.7k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Ask these people anything!
 
-*   [Rob Thomas (⭐0)](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
+*   [Rob Thomas (⭐0)](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at Sangoma.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

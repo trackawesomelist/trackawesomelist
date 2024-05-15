@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,25 +24,19 @@
 
 *   [Twitter Clone (⭐159)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / React
-
-*   [vite-react-ts-tailwind-template (⭐14)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
-
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [liangxianzhe/nap.nvim (⭐89)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+*   [liangxianzhe/nap.nvim (⭐93)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Reactive
 
 *   [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/) - Intuitive event-driven reactive programming library for Java with [bindings for Vert.x](https://smallrye.io/smallrye-mutiny-vertx-bindings/).
 
-## [7. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [6. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Other
 
@@ -56,19 +50,19 @@
 
 *   [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
 
-## [8. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [7. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
 *   [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 
-## [9. Awesome V](/content/vlang/awesome-v/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### GitHub templates / Vim
 
 *   [v-project-basement (⭐12)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
-## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Database clients / XML
 
@@ -79,19 +73,19 @@
 *   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 *   [gogga (⭐3)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Visual Studio Plugins
 
-*   [SonarSource.sonarlint-visualstudio (⭐437)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
+*   [SonarSource.sonarlint-visualstudio (⭐448)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
 
 ### Source Generator
 
-*   [M31.FluentAPI (⭐58)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
+*   [M31.FluentAPI (⭐66)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
 *   [Generative AI with Cohere: Part 2 - Use Case Ideation](https://txt.cohere.ai/generative-ai-part-2/): a list of Generative AI use cases by Cohere AI
@@ -107,19 +101,19 @@
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
-## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [gtfs2emis (⭐26)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-nerd-font-window-name (⭐82)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
+*   [tmux-nerd-font-window-name (⭐116)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
-## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

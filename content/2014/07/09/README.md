@@ -24,7 +24,7 @@
 
 ### Date and Time
 
-*   [clj-time (⭐738)](https://github.com/clj-time/clj-time)
+*   [clj-time (⭐737)](https://github.com/clj-time/clj-time)
 
 ### Audio
 
@@ -36,7 +36,7 @@
 
 ### ORM and SQL generation
 
-*   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
+*   [stch-library/sql (⭐41)](https://github.com/stch-library/sql)
 *   [sqlingvo (⭐208)](https://github.com/r0man/sqlingvo)
 *   [honeysql (⭐1.7k)](https://github.com/jkk/honeysql)
 
@@ -56,11 +56,11 @@
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐903)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐905)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
-*   [algo.monads (⭐442)](https://github.com/clojure/algo.monads)
+*   [algo.monads (⭐444)](https://github.com/clojure/algo.monads)
 
 ### WebSocket
 
@@ -68,7 +68,7 @@
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐458)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐474)](https://github.com/technomancy/slamhound)
 
 ### Science and Data Analysis
 

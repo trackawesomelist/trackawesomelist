@@ -79,7 +79,7 @@
 ### Machine Learning
 
 *   **Libraries**
-    *   [Ocaml-sklearn (⭐31)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+    *   [Ocaml-sklearn (⭐32)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
     *   [PyTorch bindings (⭐397)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.

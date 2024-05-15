@@ -20,9 +20,9 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   [LibRedirect (⭐2.9k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   [LibRedirect (⭐3k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
-### Privacy vs Security vs Anonimity / Alternative clients/modifications of Discord:
+### Privacy vs Security vs Anonymity / Alternative clients/modifications of Discord:
 
 *   Privacy is about regulating who has access to your personal information, being aware of the data that is being collected about you, and having the ability to decide who can access it and how. In short, privacy involves controlling your personal information.
 *   Security refers to safeguarding your personal information from unauthorized access or theft. It involves ensuring that your data is protected and stored in a secure manner, making it difficult for malicious actors to access it.
@@ -53,7 +53,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐73)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐76)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Crates / Utils
 
-*   [yew-nested-router (⭐5)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
+*   [yew-nested-router (⭐6)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

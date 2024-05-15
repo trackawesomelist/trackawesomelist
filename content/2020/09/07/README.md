@@ -105,7 +105,7 @@
 
 ### Miscellaneous
 
-*   [react-customizable-chat-bot (⭐15)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+*   [react-customizable-chat-bot (⭐17)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
 ## [11. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

@@ -20,8 +20,8 @@
 
 ### Community resources
 
-*   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
-*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Brand's materials (⭐92)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+*   [Storybook Deployer (⭐893)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Blog posts
 
@@ -31,15 +31,15 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐294)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐295)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐17)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐18)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 
@@ -97,7 +97,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐435)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐449)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 

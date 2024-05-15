@@ -33,7 +33,7 @@
 
 ### Probability and Statistics / Statistics
 
-*   [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
+*   📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Testing
 
-*   [bypass (⭐931)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐941)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 

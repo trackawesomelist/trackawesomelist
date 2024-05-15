@@ -31,10 +31,6 @@
 
 *   [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms.
 
-### MOOCs
-
-*   [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
-
 ### Blogs
 
 *   [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.

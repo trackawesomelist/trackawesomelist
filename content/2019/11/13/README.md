@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [octoDNS (⭐2.9k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐3k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

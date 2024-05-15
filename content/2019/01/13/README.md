@@ -17,7 +17,7 @@
 
 ### Tools / XML
 
-*   [denopkg (⭐239)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐238)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Ask these people anything!
 
-*   [Sean Killeen (⭐4)](https://github.com/SeanKilleen/ama) - .NET Lead & Managing Consultant at [Excella](https://excella.com). Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
+*   [Sean Killeen (⭐5)](https://github.com/SeanKilleen/ama) - .NET Lead & Managing Consultant at Excella. Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 
 ---
 

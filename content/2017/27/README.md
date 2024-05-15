@@ -53,7 +53,7 @@
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐332)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
+*   [GetOpt (⭐333)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ## [6. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
@@ -334,33 +334,9 @@
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Series / Components
+### Books / Testing
 
-*   [letsboot.com](https://medium.com/letsboot)
-    *   Test Driven Development
-        *   [Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI](https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928)
-    *   Angular and Firebase
-        *   [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
-
-### Video Tutorials / Components
-
-*   [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
-
-### Books / Components
-
-*   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
-
-### Generators / Components
-
-*   Node.js
-    *   Slush
-        *   [TheVelourFog/slush-angular2 (⭐44)](https://github.com/RyanMetin/slush-angular2)
-    *   Yeoman
-        *   [swirlycheetah/generator-angular2 (⭐254)](https://github.com/chrisdwheatley/generator-angular2)
-    *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-        *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
-        *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)
-        *   [ngx-rocket/core (⭐8)](https://github.com/ngx-rocket/core)
+*   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
 
 ## [21. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -401,7 +377,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐796)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐799)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -431,13 +407,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐541)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐109)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.4k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐559)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐110)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.5k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐194)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐195)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.6k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -530,7 +506,7 @@
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐294)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐296)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -558,11 +534,11 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐110)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐112)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐29)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐30)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
@@ -570,7 +546,7 @@ Wifi pw: `fermento`
 
 ### Macros
 
-*   [expat (⭐175)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐177)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -578,11 +554,11 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐660)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐663)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐40)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐42)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -688,7 +664,7 @@ Wifi pw: `fermento`
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐46)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐47)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -724,7 +700,7 @@ Wifi pw: `fermento`
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐200)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐201)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

@@ -33,7 +33,7 @@
 
 ### Models/Projects
 
-*   [End-To-End Memory Networks (⭐339)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
+*   [End-To-End Memory Networks (⭐342)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

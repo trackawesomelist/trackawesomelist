@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐715)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐762)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -104,7 +104,7 @@
 
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
 *   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.5k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.7k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
@@ -116,7 +116,7 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐237)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐241)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
@@ -126,18 +126,17 @@
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pytest-annotate (⭐108)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
-*   [pytest-monkeytype (⭐39)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
+*   [pytest-monkeytype (⭐41)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 *   [typilus (⭐56)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐17k)](https://github.com/Delgan/loguru) support.
+*   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐18k)](https://github.com/Delgan/loguru) support.
 *   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
 *   [emacs-flycheck-mypy (⭐38)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
-*   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
 
 ### Articles / Third-party articles
 
@@ -153,8 +152,8 @@
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐272)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐56)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐284)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐59)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -164,7 +163,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐491)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐497)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

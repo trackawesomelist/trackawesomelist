@@ -14,7 +14,7 @@
 
 ### Packages / Command-line apps
 
-*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [bcat (⭐339)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Build tools
 
@@ -23,7 +23,7 @@
 ### Packages / Miscellaneous
 
 *   [webworker-threads (⭐2.3k)](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
-*   [opencv (⭐4.3k)](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+*   [opencv (⭐4.4k)](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

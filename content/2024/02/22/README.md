@@ -10,11 +10,11 @@
 
 ### Tools / Wrappers
 
-*   [Atmos (⭐499)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+*   [Atmos (⭐595)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
 
 ### Tools / Providers
 
-*   [tfschema (⭐287)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
+*   [tfschema (⭐292)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -38,11 +38,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [deathbeam/lspecho.nvim (⭐8)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐16)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐6)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐24)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

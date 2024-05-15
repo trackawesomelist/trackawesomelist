@@ -16,7 +16,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐353)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐356)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ## [3. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 

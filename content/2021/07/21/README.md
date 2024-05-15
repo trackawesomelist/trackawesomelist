@@ -22,13 +22,13 @@
 
 ### Themes
 
-*   [tmux-nova (⭐142)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
+*   [tmux-nova (⭐158)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [MunifTanjim/nui.nvim (⭐1.3k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
+*   [MunifTanjim/nui.nvim (⭐1.4k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐944)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐950)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -136,10 +136,10 @@
 
 ### Code generators / Individual Podcast episodes
 
-*   [Elm TS Interop (⭐38)](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
+*   [Elm TS Interop (⭐40)](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
 *   [Elm TypeScript Interop (⭐164)](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
-*   [haskell-to-elm (⭐59)](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
-*   [PostCSS Elm Tailwind (⭐100)](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
+*   [haskell-to-elm (⭐61)](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
+*   [PostCSS Elm Tailwind (⭐99)](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
 ### Other tools / Unmaintained
 
@@ -147,16 +147,16 @@
 *   [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
 *   [Elm Doc Preview (⭐125)](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 *   [Elm Format (⭐1.3k)](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-*   [Elm JSON (⭐172)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
-*   [Elm Oracle (⭐152)](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-*   [type-o-rama (⭐243)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+*   [Elm JSON (⭐180)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+*   [Elm Oracle (⭐150)](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+*   [type-o-rama (⭐244)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 *   [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-*   [Litvis (⭐355)](https://github.com/gicentre/litvis) - Literate Visualization with Elm
+*   [Litvis (⭐370)](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
 ### Static analysis / Outdated Boilerplates
 
-*   [Elm Analyse (⭐421)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-*   [Elm Review (⭐228)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+*   [Elm Analyse (⭐419)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+*   [Elm Review (⭐240)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 
 ### Static site generators / Outdated Boilerplates
 
@@ -166,7 +166,7 @@
 ### Showcase generators / Outdated Boilerplates
 
 *   [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
-*   [Elm UI Explorer (⭐210)](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
+*   [Elm UI Explorer (⭐214)](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
 
 ### Run Elm / Outdated Boilerplates
 
@@ -191,23 +191,23 @@
 
 ### Editor plugins / Emacs
 
-*   [emacs-elm-mode (⭐369)](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
+*   [emacs-elm-mode (⭐374)](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
 
 ### Editor plugins / IntelliJ
 
-*   [elm-plugin (⭐373)](https://github.com/klazuka/intellij-elm) - Elm plugin for IntelliJ IDEA.
+*   [elm-plugin (⭐389)](https://github.com/klazuka/intellij-elm) - Elm plugin for IntelliJ IDEA.
 
 ### Editor plugins / Sublime Text
 
 *   [LSP-elm (⭐7)](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
-*   [Elm Language Server (⭐395)](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+*   [Elm Language Server (⭐409)](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
 *   [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
-*   [Elm Format on Save (⭐20)](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
+*   [Elm Format on Save (⭐23)](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
 
 ### Editor plugins / Vim/Neovim
 
 *   [theJian/elm.vim (⭐0)](https://github.com/theJian/elm.vim) - Elm syntax highlighting. Use with [ale or Neoformat for Neovim (⭐1.3k)](https://github.com/avh4/elm-format/issues/610) since ElmCast/elm-vim does not support Elm 0.19.
-*   [ElmCast/elm-vim (⭐574)](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
+*   [ElmCast/elm-vim (⭐572)](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
 *   [vim-elm-help (⭐7)](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
 *   [emmet-vim (⭐6.3k)](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 

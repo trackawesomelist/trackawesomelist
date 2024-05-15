@@ -10,19 +10,19 @@
 
 ### Testing
 
-*   [Datest (⭐7)](https://github.com/amokfa/datest)
+*   [Datest (⭐8)](https://github.com/amokfa/datest)
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
-*   [Bottles (⭐5.7k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
-*   [BoxBuddy (⭐100)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
-*   [Pods (⭐653)](https://github.com/marhkb/pods) - Podman containers manager.
+*   [Bottles (⭐5.9k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+*   [BoxBuddy (⭐147)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+*   [Pods (⭐685)](https://github.com/marhkb/pods) - Podman containers manager.
 
 ### Utilities
 
-*   [Lan Mouse (⭐582)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+*   [Lan Mouse (⭐1.5k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Keybinding / Diagnostics
 
-*   [tris203/hawtkeys.nvim (⭐167)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐189)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Helpers
 
-*   [YAS (⭐3)](https://github.com/kithf/yas) - Yet Another Screen manager.
+*   [YAS (⭐2)](https://github.com/kithf/yas) - Yet Another Screen manager.
 
 ## [2. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Libraries
 
-*   [Fortuna (⭐780)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+*   [Fortuna](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 ## [4. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Plugins
 
-*   🎨💼 [Accent (⭐14)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+*   🎨💼 [Accent (⭐16)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -48,11 +48,11 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐10k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐12k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐412)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐450)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

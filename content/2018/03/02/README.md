@@ -10,33 +10,33 @@
 
 ### Foundations of Mathematics / Transition To Pure Rigour Math
 
-*   [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
+*   📝 [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 
 ### Number Theory / Surreal Numbers
 
-*   [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
+*   📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 
 ### Algebra / Linear Algebra
 
-*   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
+*   📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 
 ### Algebra / Lie Algebras
 
-*   [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
+*   📝 [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
 
 ### Geometry and Topology / Graph Theory
 
-*   [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
+*   📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 
 ### Analysis / Real Analysis
 
-*   [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
-*   [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
-*   [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
+*   📝 [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
+*   📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
+*   📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 
 ### Probability and Statistics / Statistics
 
-*   [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
+*   📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Events
 
-*   [Tempura (⭐712)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐713)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐383)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐396)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

@@ -29,7 +29,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.1k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,7 +66,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐183)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐222)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -75,15 +75,15 @@
 *   [VTK](https://vtk.org/) - Process images and create 3D computer graphics.
     (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
 *   [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
-    (Python, BSD, [GitHub (⭐1.1k)](https://github.com/enthought/mayavi))
+    (Python, BSD, [GitHub (⭐1.2k)](https://github.com/enthought/mayavi))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
-    (C++, MIT, [GitHub (⭐1.4k)](https://github.com/nmwsharp/polyscope))
+    (C++, MIT, [GitHub (⭐1.6k)](https://github.com/nmwsharp/polyscope))
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐733)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐737)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

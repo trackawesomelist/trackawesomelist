@@ -22,25 +22,25 @@
 
 ### Contents / Components
 
-*   [Preact Compat (⭐952)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐595)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
-*   [Preact Markup (⭐196)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
-*   [Preact Portal (⭐178)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
+*   [Preact Compat (⭐951)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
+*   [Preact Render To String (⭐621)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Markup (⭐200)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+*   [Preact Portal (⭐179)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
 *   [Preact Richtextarea (⭐40)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
-*   [Preact Cycle (⭐133)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
+*   [Preact Cycle (⭐134)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
 *   [Preact MUI (⭐37)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
-*   [Preact MDL (⭐186)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
+*   [Preact MDL (⭐185)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
 *   [Preact Photon (⭐172)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 
 ### Contents / Testing Utils
 
-*   [Preact JSX Chai (⭐57)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing *(no DOM, right in Node)*.
+*   [Preact JSX Chai (⭐56)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing *(no DOM, right in Node)*.
 
 ## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐164)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐179)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -58,12 +58,12 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.2k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.3k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.9k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
-*   [NextCloudPi (⭐2.3k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
+*   [NextCloudPi (⭐2.4k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
 
@@ -71,7 +71,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8.2k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Ask these people anything!
 
-*   [Armagan Amcalar (⭐1)](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
+*   [Armagan Amcalar (⭐1)](https://github.com/dashersw/ama) - Head of Software Engineering at unu GmbH. Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

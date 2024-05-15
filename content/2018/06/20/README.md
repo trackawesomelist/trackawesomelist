@@ -57,7 +57,7 @@
 
 ### GTFS Based Visualizations
 
-*   [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐48)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐151)](https://github.com/CxAalto/gtfspy).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.5k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -105,9 +105,9 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Ride Receipts (⭐140)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
+*   [Ride Receipts (⭐142)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 *   [Laqu-l (⭐134)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐130)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐132)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐370)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐371)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [3. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -57,7 +57,7 @@
 ### Compilers, Transpilers and Languages
 
 *   [P (⭐2.9k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

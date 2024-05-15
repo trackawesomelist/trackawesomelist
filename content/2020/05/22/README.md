@@ -16,7 +16,7 @@
 
 ### .NET / General-Purpose Machine Learning
 
-*   [MxNet.Sharp (⭐144)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+*   [MxNet.Sharp (⭐145)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 
 ## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐193)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐200)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐620)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐662)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -158,7 +158,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐50)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐55)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

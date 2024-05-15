@@ -95,21 +95,21 @@
 ### Python / Trading & Backtesting
 
 *   [fastquant (⭐1.4k)](https://github.com/enzoampil/fastquant) - fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code.
-*   [nautilus\_trader (⭐1.4k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
+*   [nautilus\_trader (⭐1.6k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
 
 ### Rust / Data Visualization
 
-*   [finalytics (⭐2)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
+*   [finalytics (⭐8)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Statistical-Learning-based-Portfolio-Optimization (⭐7)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
+*   [Statistical-Learning-based-Portfolio-Optimization (⭐10)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
 
 ## [4. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐3.7k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
+*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐4.3k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
 
 ### Resources / Cheat Sheets
 
@@ -125,13 +125,9 @@
 
 *   [Domain Engineering](https://en.wikipedia.org/wiki/Domain_engineering) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Engineering.
 
-### Domain Specific Language / Design Practises
+### Domain Specific Language / Imperative DSL Applications
 
-*   [No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization](https://scholar.google.com/scholar?cluster=17206818917381447796\&hl=en\&as_sdt=0,5) - ***IEEE Transactions on Visualization and Computer Graphics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17206818917381447796\&hl=en\&as_sdt=0,5)]. A survey on the design and implementation of 57 JSON-style DSLs for a variety of visualization and visual interaction tasks, suggesting that no one DSL will be able to capture all of them without compromising essential parts of its domain design.
-
-### Domain Specific Language / Domain Specified Applications
-
-*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494\&hl=en\&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
+*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. A reference model and platform agnostic language for smart contracts.
 
 ### Explainability / Trustworthy AI
 
@@ -155,7 +151,7 @@
 
 ### Numerical Analysis / Stochastic processes
 
-*   [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000\&context=math_textbooks) - J. M. McDonough (University of Kentucky)
+*   📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000\&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -168,8 +164,7 @@
 
 ### Example Projects
 
-*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐117)](https://github.com/bcgov/vc-authn-oidc)
-*   [FIDO2 with Keycloak  for 1FA and 2FA christian-2/oidc-passkey (⭐2)](https://github.com/christian-2/oidc-passkey)
+*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐119)](https://github.com/bcgov/vc-authn-oidc)
 
 ## [10. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -250,8 +245,8 @@
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-encoding (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
-*   [lorawan-device (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-encoding (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
+*   [lorawan-device (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -261,7 +256,7 @@
 
 ### Table of Contents / Testing
 
-*   [Nette Tester (⭐442)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐444)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 
 ### Configuration / PHP Websites
 
@@ -278,13 +273,13 @@
 ### Miscellaneous
 
 *   for Electron, see:
-    *   [Electron-lisp-boilerplate (⭐5)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
+    *   [Electron-lisp-boilerplate (⭐6)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
     *   [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
     *   NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
 
 ### Files and directories / Third-party APIs
 
-*   [filepaths (⭐20)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [filepaths (⭐24)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
     *   no dependencies, doesn't access the filesystem.
 *   [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -292,25 +287,25 @@
 
 ### Configuration
 
-*   [mINI (⭐404)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐436)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
-*   [hat-trie (⭐754)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
-*   [st\_tree (⭐89)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐115)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [hat-trie (⭐769)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
+*   [st\_tree (⭐91)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
+*   [tree.hh (⭐119)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
 ## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [go-freelru (⭐80)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
-*   [otter (⭐1k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+*   [go-freelru (⭐109)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
+*   [otter (⭐1.4k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 
 ### Distributed Systems
 
 *   [bedrock (⭐3)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
-*   [sponge (⭐668)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
+*   [sponge (⭐968)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
 
 ### Goroutines
 
@@ -318,7 +313,7 @@
 
 ### Images
 
-*   [transformimgs (⭐173)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
+*   [transformimgs (⭐189)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 
 ### Markup Languages
 
@@ -326,30 +321,30 @@
 
 ### Web Frameworks
 
-*   [Lit (⭐24)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
+*   [Lit (⭐25)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [decouple (⭐17)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
+*   [decouple (⭐19)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 
 ## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mirrord (⭐3.3k)](https://github.com/metalbear-co/mirrord) — Connect your local process and your cloud environment, and run local code in cloud conditions
+*   [mirrord (⭐3.4k)](https://github.com/metalbear-co/mirrord) — Connect your local process and your cloud environment, and run local code in cloud conditions
 
 ### Applications / Database
 
-*   [darkbird (⭐392)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
-*   [SQLSync (⭐1.6k)](https://github.com/orbitinghail/sqlsync) — Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
+*   [darkbird (⭐405)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [SQLSync (⭐1.7k)](https://github.com/orbitinghail/sqlsync) — Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐25k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐33k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐668)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐760)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
@@ -357,11 +352,11 @@
 
 ### Libraries / Email
 
-*   [meli/meli (⭐566)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐604)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐4.6k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐4.7k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
 ## [22. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -371,7 +366,7 @@
 
 ### Display / Graphics
 
-*   [MicroPython\_UPLOT (⭐0)](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
+*   [MicroPython\_UPLOT (⭐1)](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
 
 ### IO / Multiplexer
 
@@ -391,7 +386,7 @@
 
 ### Sensors / Temperature Analog
 
-*   [micropython-generic-thermistor (⭐1)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors.
+*   [micropython-generic-thermistor (⭐2)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors.
 
 ### Sensors / Temperature Digital
 
@@ -399,13 +394,13 @@
 
 ### Storage / Flash
 
-*   [freezeFS (⭐13)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
+*   [freezeFS (⭐16)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
 
 ## [23. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐640)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐650)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ## [24. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -421,7 +416,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Vercel (⭐1k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
+*   [Vercel (⭐1.1k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 
 ## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -433,45 +428,36 @@
 
 ### Projects / API Documentation
 
-*   [RapiDoc (⭐1.5k) (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
+*   [RapiDoc (⭐1.5k) (⭐1.6k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 
 ### Projects / BRE
 
-*   [Drools (⭐5.6k) (⭐5.6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
-*   [Easy Rules (⭐4.7k) (⭐4.7k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-
-### Projects / ETL
-
-*   [Apache NiFi (⭐4.2k) (⭐4.3k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
-*   [Pentaho Data Integration (⭐7.2k) (⭐7.2k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [Easy Rules (⭐4.7k) (⭐4.8k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 
 ### Projects / Workflow engine
 
-*   [Activiti (⭐9.8k) (⭐9.8k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
 *   [Argo Workflows (⭐14k) (⭐14k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
-*   [Bonita (⭐141) (⭐141)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Cadence (⭐7.6k) (⭐7.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
 ### Resources / Data Formats
 
-*   [Apache Avro (⭐2.7k) (⭐2.7k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [Apache Avro (⭐2.7k) (⭐2.8k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 
 ## [28. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Machine learning
 
-*   [classy-lala (⭐2)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
+*   [classy-lala (⭐3)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
 *   [appraisal (⭐4)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Office
 
-*   [OfficeIMO (⭐224)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
+*   [OfficeIMO (⭐250)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
 
 ### Web Servers
 
-*   [SimpleW (⭐15)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
+*   [SimpleW (⭐20)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 
 ## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -488,7 +474,7 @@
 ### Tools
 
 *   [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
-*   [PiGro (⭐16)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
+*   [PiGro (⭐17)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 
 ## [32. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -500,7 +486,7 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐71)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐121)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Language / Diagnostics
 

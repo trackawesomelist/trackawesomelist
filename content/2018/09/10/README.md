@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐233)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐236)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -98,7 +98,7 @@
 
 ### Miscellaneous / Development and testing
 
-*   [sublime-tmux (⭐8)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
+*   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
 ## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Anime
 
-- API: [AniList (⭐951)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -229,7 +229,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐314)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐334)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -311,6 +311,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Gmail](https://developers.google.com/gmail/api/)
 
@@ -321,6 +323,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -370,7 +374,7 @@
   CORS: Unknown
 
 
-- API: [Non-Working Days (⭐20)](https://github.com/gadael/icsdb)
+- API: [Non-Working Days (⭐21)](https://github.com/gadael/icsdb)
 
   Description: Database of ICS files for non working days
 
@@ -381,7 +385,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐25)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐27)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -405,6 +409,8 @@
 
   CORS: Unknown
 
+  Postman: 
+
 
 - API: [Dropbox](https://www.dropbox.com/developers)
 
@@ -416,6 +422,8 @@
 
   CORS: Unknown
 
+  Postman: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+
 
 - API: [Google Drive](https://developers.google.com/drive/)
 
@@ -426,6 +434,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Postman: 
 
 
 
@@ -615,6 +625,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [PurgoMalum](http://www.purgomalum.com)
 
@@ -625,6 +637,8 @@
   HTTPS: No
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -740,7 +754,7 @@
   CORS: Unknown
 
 
-- API: [License-API (⭐4)](https://github.com/cmccandless/license-api/blob/master/README.md)
+- API: [License-API (⭐5)](https://github.com/cmccandless/license-api/blob/master/README.md)
 
   Description: Unofficial REST API for choosealicense.com
 
@@ -927,6 +941,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [IG](https://labs.ig.com/gettingstarted)
 
@@ -937,6 +953,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -975,7 +993,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐110)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐120)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -986,7 +1004,7 @@
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐24)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐25)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -1333,7 +1351,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐63)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐66)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -1923,7 +1941,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐314)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐333)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -1967,7 +1985,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐185)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐186)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2058,7 +2076,7 @@
   CORS: Unknown
 
 
-- API: [Universities List (⭐1.1k)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.2k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -2431,7 +2449,7 @@
   CORS: Unknown
 
 
-- API: [HackerNews (⭐10k)](https://github.com/HackerNews/API)
+- API: [HackerNews (⭐11k)](https://github.com/HackerNews/API)
 
   Description: Social news for CS and entrepreneurship
 
@@ -2963,7 +2981,7 @@
   CORS: Unknown
 
 
-- API: [Transport for The Netherlands (⭐83)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
+- API: [Transport for The Netherlands (⭐90)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
 
   Description: OVAPI, country-wide public transport
 
@@ -3093,7 +3111,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐316)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐370)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -3137,7 +3155,7 @@
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐294)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐296)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2018
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `19 June 2018`
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards aggregators
-
-*   [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
-
-## [4. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
+## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
 ### Similar lists / Videos
 
@@ -32,7 +26,7 @@
     A group of companies which explicitly adopted OCI's openness pledge
     *   *(dormant)*
 
-## [5. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Application Skeleton
 

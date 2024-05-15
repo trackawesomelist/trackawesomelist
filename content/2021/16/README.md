@@ -26,13 +26,13 @@
 
 ### Community
 
-*   [Qlot (⭐358)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Qlot (⭐390)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   how to [use it from the Lisp REPL (⭐9)](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
 *   [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
 
-*   [cl-coveralls (⭐28)](https://github.com/fukamachi/cl-coveralls) - a helper
+*   [cl-coveralls (⭐29)](https://github.com/fukamachi/cl-coveralls) - a helper
     library to post test coverage to Coveralls. See [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Date and time / Third-party APIs
@@ -59,14 +59,14 @@
 
 ### Others / Other Resource
 
-*   🌟🌟🌟 [Stock-Prediction-Models (⭐6.8k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
-*   🌟🌟 [Financial Machine Learning (⭐4.8k)](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
+*   🌟🌟🌟 [Stock-Prediction-Models (⭐7.4k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+*   🌟🌟 [Financial Machine Learning (⭐5.5k)](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
 
 ## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
-*   [playback (⭐5)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
+*   [playback (⭐6)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Azure Static Web Apps (⭐77)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Azure Static Web Apps (⭐86)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐93)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐99)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -151,10 +151,10 @@
 ### React State Management and Data Fetching
 
 *   [mobx (⭐27k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-*   [zustand (⭐39k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [zustand (⭐42k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 *   [recoil (⭐19k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-*   [effector (⭐4.4k)](https://github.com/zerobias/effector) - Business logic with ease
-*   [immer (⭐26k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+*   [effector (⭐4.5k)](https://github.com/zerobias/effector) - Business logic with ease
+*   [immer (⭐27k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 
 ## [20. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
@@ -213,11 +213,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐1.4k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.5k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.1k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐3.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -296,7 +296,7 @@
 ### Debugging
 
 *   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐94)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [debug.cr (⭐93)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 
@@ -310,7 +310,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐273)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐281)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐431)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐432)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
 
 ## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -363,7 +363,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐1.5k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐1.8k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [41. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
@@ -608,11 +608,11 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐387)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐415)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### R / Time Series
 
-*   [garchmodels (⭐35)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
+*   [garchmodels (⭐34)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
 
 ### Golang / Data Visualization
 
@@ -626,7 +626,7 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐143)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐155)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [44. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -649,7 +649,7 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐843)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐933)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [47. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -719,19 +719,19 @@
 ### Other libraries and tools / Mesh tools
 
 *   [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-    (Python, Apache 2.0, [GitHub (⭐4.4k)](https://github.com/cvxpy/cvxpy))
+    (Python, Apache 2.0, [GitHub (⭐5k)](https://github.com/cvxpy/cvxpy))
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐309)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐394)](https://github.com/esa/pygmo2))
 
 ## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐530)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐618)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ### Open Source Projects / Other Tools
 
-*   [OPAL (Open Policy Administration Layer) (⭐12)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
+*   [OPAL (Open Policy Administration Layer) (⭐13)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
 ## [50. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -805,6 +805,8 @@
 
   CORS: Yes
 
+  Call this API: 
+
 
 
 ### Health
@@ -849,19 +851,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐96)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐98)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ### Components & Libraries / Utilities
 
 *   [vue-datatable-url-sync (⭐31)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [vuex-masked-modules (⭐2)](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
-*   [vue-sse (⭐136)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
+*   [vue-sse (⭐142)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [55. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Lower Elementary
 
-*   [Python Turtle (⭐337)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+*   [Python Turtle (⭐395)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
 ## [56. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

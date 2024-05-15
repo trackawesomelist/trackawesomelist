@@ -79,7 +79,7 @@
 
 ### Utilities & Tools
 
-*   [KWin-lowlatency (⭐383)](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
+*   [KWin-lowlatency (⭐372)](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 
 ## [9. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -202,14 +202,14 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐700)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐707)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐22k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
-*   [uPic (⭐3.3k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
+*   [PicGo (⭐23k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [uPic (⭐3.4k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -274,11 +274,11 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [octoDNS (⭐2.9k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐3k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.7k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.8k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### UI / Bottom bars
 
-*   [Titled Navigation Bar (⭐338)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+*   [Titled Navigation Bar (⭐371)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 ### Navigation / Image Picker
 
@@ -430,7 +430,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐159)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐161)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -446,26 +446,26 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐65)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐66)](https://github.com/braintree/restricted-input)
 
 ## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐257)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-*   [Tailwind CSS (⭐12k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [WordPress-Gatsby (⭐259)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [Tailwind CSS (⭐13k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Big Data
 
-*   [Qlik (⭐52)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐56)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Gaming
 
-*   [PlayCanvas (⭐229)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐238)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐207)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐211)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -581,11 +581,11 @@ Language: English
 
 ### Malware Collection / Malware Corpora
 
-*   [Javascript Mallware Collection (⭐505)](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
+*   [Javascript Mallware Collection (⭐631)](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [StringSifter (⭐586)](https://github.com/fireeye/stringsifter) - A machine learning tool
+*   [StringSifter (⭐647)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
 ## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)

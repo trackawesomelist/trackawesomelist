@@ -76,9 +76,9 @@ List of Golang books
         *   [2021 - Creative DIY Microcontroller Projects with TinyGo and WebAssembly](#2021---creative-diy-microcontroller-projects-with-tinygo-and-webassembly)
         *   [2021 - Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](#2021---distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems)
         *   [2021 - Build Systems with Go: Everything a Gopher Must Know](#2021---build-systems-with-go-everything-a-gopher-must-know)
-        *   [2021 - Mastering Go, 3rd edition](#2021---mastering-go-3rd-edition)
         *   [2023 - Let's Go!](#2023---lets-go)
         *   [2023 - Let's Go Further](#2023---lets-go-further)
+        *   [2024 - Mastering Go, 4rd edition](#2024---mastering-go-4rd-edition)
         *   [Web Development with Go: Learn to Create Real World Web Applications using Go](#web-development-with-go-learn-to-create-real-world-web-applications-using-go)
         *   [Wasm Cooking with Golang](#wasm-cooking-with-golang)
         *   [Generative Art in Go](#generative-art-in-go)
@@ -196,12 +196,6 @@ Some of the key things this book will teach you are how to write Go software to 
 
 By the end of this Go for DevOps book, you'll understand how to apply development principles to automate operations and provide operational insights using Go, which will allow you to react quickly to resolve system failures before your customers realize something has gone wrong.
 
-### 2022 - [gRPC Microservices in Go](https://shortener.manning.com/44lB)
-
-<img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
-
-For the last decade, we have heard stories about Monolith to Microservice transitions and we might think that this transition solves the majority of the problems in the organizations. However, it might end up with mess if you are not aware about best practices of this transition, since Microservice Architecture comes with its challenges. In this book, we start covering production grade best practices of Microservices Architecture and explain when to use it. Then we talk about microservice communication patterns where gRPC comes to the stage. You will see complete examples written in Go with Hexagonal Architecture applied to project structure. You will not only learn how to implement microservices, you will see how to write tests, maintain quality with proper CI, deploy to Kubernetes environment and finally set up an observable system to have better monitoring for your application.
-
 ### 2023 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) *Free*
 
 <img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
@@ -252,7 +246,7 @@ With my book, Go Faster, you can shorten your learning curve and become a profic
 
 ### 2023 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
-<img src="https://images.manning.com/264/352/resize/book/0/f58ed72-e728-44dc-8201-bc972aff8d76/Holmes-MEAP-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/8/dd36eb5-8dc9-461d-ad45-f24b54de4438/Holmes-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
 
 You know how to build Go programs—now learn how to ship them to your customers efficiently! This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
 
@@ -265,6 +259,12 @@ In Shipping Go you will learn how to:
 *   Serverless, container based, and server based deployments
 *   Scale your deployment in a cost-effective way
 *   Deliver a culture of continuous improvement
+
+### 2023 - [gRPC Microservices in Go](https://shortener.manning.com/44lB)
+
+<img src="https://images.manning.com/360/480/resize/book/a/6f11c19-664b-4781-a571-5881e869de29/Babal-HI.png" width="120px"/>
+
+For the last decade, we have heard stories about Monolith to Microservice transitions and we might think that this transition solves the majority of the problems in the organizations. However, it might end up with mess if you are not aware about best practices of this transition, since Microservice Architecture comes with its challenges. In this book, we start covering production grade best practices of Microservices Architecture and explain when to use it. Then we talk about microservice communication patterns where gRPC comes to the stage. You will see complete examples written in Go with Hexagonal Architecture applied to project structure. You will not only learn how to implement microservices, you will see how to write tests, maintain quality with proper CI, deploy to Kubernetes environment and finally set up an observable system to have better monitoring for your application.
 
 ### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291)
 
@@ -525,7 +525,7 @@ Much of the modern world is built on cryptography, and this book introduces read
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project (⭐4.8k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐4.9k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
@@ -604,12 +604,6 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐131)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
-### 2021 - [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
-
-<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
-
-This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
-
 ### 2023 - [Let's Go!](https://lets-go.alexedwards.net/)
 
 <img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
@@ -621,6 +615,12 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
 Let’s Go Further helps you extend and expand your knowledge of Go — taking you beyond the basics and guiding you through advanced patterns for developing, managing and deploying APIs and web applications. By the end of the book you'll have all the knowledge you need to create robust and professional APIs which act as backends for SPAs and native mobile applications, or function as stand-alone services.
+
+### 2024 - [Mastering Go, 4rd edition](https://www.packtpub.com/en-us/product/mastering-go-9781805127147)
+
+<img src="https://content.packt.com/_/image/original/B21003/cover_image.jpg" width="120px"/>
+
+This is the 4rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
 

@@ -10,7 +10,7 @@
 
 ### Transformations
 
-*   [json-transforms (⭐136)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
+*   [json-transforms (⭐137)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 
 ## [2. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Logging
 
-*   [Exceptionless (⭐537)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐550)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-db (⭐292)](https://github.com/crystal-lang/crystal-db) - Common db api
+*   [crystal-db (⭐294)](https://github.com/crystal-lang/crystal-db) - Common db api
 
 ## [14. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -230,7 +230,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐521)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐535)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [22. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -311,12 +311,12 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐295)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐298)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
-*   [benchee (⭐1.3k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
-*   [benchfella (⭐512)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [benchee (⭐1.4k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
+*   [benchfella (⭐513)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 *   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
@@ -325,7 +325,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Miscellaneous
 
-*   [std\_json\_io (⭐29)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
+*   [std\_json\_io (⭐30)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 
 ### Natural Language Processing (NLP)
 
@@ -337,7 +337,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Queue
 
-*   [cspex (⭐23)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
+*   [cspex (⭐24)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
 ## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 

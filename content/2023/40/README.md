@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02 - Oct 08, 2023
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐4.7k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐4.9k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [Flaxoos/flax-ktor-plugins (⭐28)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐46)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 
 ## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -38,13 +38,13 @@
 
 ### Decentralized Systems
 
-*   [Mastodon (⭐12)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Mastodon (⭐20)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [osu-box (⭐1)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+*   [osu-box (⭐3)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -123,12 +123,12 @@
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
-*   [RSS-GPT (⭐209)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS-GPT (⭐220)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
-*   [Get RSS Feed URL (⭐188)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Get RSS Feed URL (⭐190)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -155,7 +155,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [granny (⭐6)](https://github.com/roberthopman/granny) - An OpenAI chat app (Rails 7.0)
+*   [granny (⭐8)](https://github.com/roberthopman/granny) - An OpenAI chat app (Rails 7.0)
 
 ## [12. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
@@ -168,8 +168,8 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Meziantou.Analyzer (⭐815)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
-*   [SonarAnalyzer.CSharp (⭐698)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
+*   [Meziantou.Analyzer (⭐849)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
+*   [SonarAnalyzer.CSharp (⭐720)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
 ## [14. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
@@ -187,12 +187,12 @@
 
 ### Templates / Vanilla
 
-*   [vite-starter-markup-template (⭐26)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
+*   [vite-starter-markup-template (⭐29)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 
 ### Templates / React
 
-*   [vite-react-chakra-starter (⭐81)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
-*   [vite-react-tailwind-starter (⭐10)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-chakra-starter (⭐88)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-tailwind-starter (⭐20)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -232,28 +232,28 @@
 
 ### Game Engines / Specialty
 
-*   🎉 [Ren'Py (⭐4.4k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
+*   🎉 [Ren'Py (⭐4.5k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
 
 ### Libraries / Rust
 
 *   Rust: Graphics - 3D
-    *   🎉 [Ash (⭐1.6k)](https://github.com/ash-rs/ash) - Vulkan bindgins for Rust.
-    *   🎉 [Glium (⭐3.3k)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
+    *   🎉 [Ash (⭐1.7k)](https://github.com/ash-rs/ash) - Vulkan bindgins for Rust.
+    *   🎉 [Glium (⭐3.4k)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
     *   🎉 [Kiss3D (⭐1.4k)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
-    *   🎉 [Miniquad (⭐1.3k)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
-    *   🎉 [Vulkano (⭐4.2k)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
+    *   🎉 [Miniquad (⭐1.4k)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
+    *   🎉 [Vulkano (⭐4.3k)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 
 ## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Templating
 
-*   🍰 [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   🍰 [Tools:Tree (⭐337)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 
 ## [21. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Reverse Search
 
-*   [imsearch (⭐443)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+*   [imsearch (⭐544)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 
 ## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -269,17 +269,17 @@
 
 ### Software / Note-taking & Editors
 
-*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐209)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
+*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐254)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by gethomepage (⭐14k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
+*   [Homepage by gethomepage (⭐16k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
 
 ## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [@f3ve/vue-markdown-it (⭐6)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
+*   [@f3ve/vue-markdown-it (⭐9)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 
 ### Components & Libraries / UI Utilities
 
@@ -345,34 +345,122 @@
 
 ### (requires Neovim 0.5)
 
-*   [hinell/lsp-timeout.nvim (⭐171)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+*   [hinell/lsp-timeout.nvim (⭐181)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 
 ### AI / Diagnostics
 
-*   [dense-analysis/neural (⭐388)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+*   [dense-analysis/neural (⭐408)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
 ### Programming Languages Support / Diagnostics
 
-*   [niuiic/typst-preview.nvim (⭐27)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
+*   [niuiic/typst-preview.nvim (⭐29)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [polirritmico/monokai-nightasty.nvim (⭐48)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+*   [polirritmico/monokai-nightasty.nvim (⭐68)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 
 ### Statusline / Diagnostics
 
-*   [MunifTanjim/nougat.nvim (⭐174)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+*   [MunifTanjim/nougat.nvim (⭐191)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 
 ### Utility / Diagnostics
 
-*   [VidocqH/data-viewer.nvim (⭐68)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
+*   [VidocqH/data-viewer.nvim (⭐78)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 
 ### Editing Support / Diagnostics
 
-*   [hinell/duplicate.nvim (⭐14)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
-*   [hinell/move.nvim (⭐8)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐293)](https://github.com/fedepujol/move.nvim).
+*   [hinell/duplicate.nvim (⭐17)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
+*   [hinell/move.nvim (⭐9)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐313)](https://github.com/fedepujol/move.nvim).
 
-## [29. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [29. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### 0 - Meta-Lists
+
+*   [Visualgo: Algorithm and Data Structure Visualization](https://visualgo.net) - Visualise data structures and algorithms through animation
+
+### Algorithms & Data Structures
+
+*   [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
+*   [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
+*   [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
+*   [Problems on Algorithms (Second Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
+
+### Artificial Intelligence
+
+*   [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+
+### Blockchain
+
+*   [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+
+### Cloud Computing
+
+*   [Multi-tenant Applications for the Cloud, 3rd Edition](https://www.microsoft.com/en-us/download/details.aspx?id=29263)
+
+### Competitive Programming
+
+*   [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
+
+### Compiler Design
+
+*   [Compiling Scala for the Java Virtual Machine](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
+*   [Compiling Techniques (1969)](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
+*   [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) - Bob Nystrom (HTML)
+*   [Implementing Functional Languages: A Tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
+*   [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) - Jack W. Crenshaw (PDF)
+*   [Practical and Theoretical Aspects of Compiler Construction](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+
+### Computer Vision
+
+*   [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
+*   [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Richard Szeliski
+
+### Containers
+
+*   [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
+*   [Dotnet Microservices Architecture for Containerized NET Applications](https://aka.ms/microservicesebook) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
+
+### Data Science
+
+*   [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](https://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
+*   [School of Data Handbook](https://schoolofdata.org/handbook/)
+*   [Theory and Applications for Advanced Text Mining](https://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+
+### Database
+
+*   [Database Explorations](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Database Fundamentals](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
+*   [Databases, Types, and The Relational Model: The Third Manifesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Temporal Database Management](https://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
+*   [The Theory of Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+
+### Game Development
+
+*   [Game Programming Patterns](https://gameprogrammingpatterns.com) - Bob Nystrom
+*   [Procedural Content Generation in Games](https://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
+
+### Machine Learning
+
+*   [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)
+
+### Networking
+
+*   [Securing Wireless Networks for the Home User Guide](https://mohamedation.com/securing-wifi/en/) - Mohamed Adel (HTML)
+
+### Open Source Ecosystem
+
+*   [500 lines or less (⭐29k)](https://github.com/aosabook/500lines) - Build from Source Code
+
+### Prompt Engineering
+
+*   [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+*   [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
+
+### Quantum Computing
+
+*   [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
+
+## [30. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [Git Town](https://github.com/git-town/git-town)
 
@@ -654,7 +742,7 @@ Interactive UI and fuzzy-search for Git branches.
       3|  ⭐  milk
       4|  ✅  love
 
-## [30. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [31. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Coding Challenge Platforms:
 
@@ -708,7 +796,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 
 
-## [31. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [32. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### MIDI Tools & Libraries
 
@@ -718,13 +806,13 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Strudel](https://strudel.tidalcycles.org/) - an experiment in making a language built on javascript for live coding patterns using web technologies.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [apt (⭐3)](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
-*   [brew-switcher (⭐3)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
-*   [fzfsh (⭐0)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐58k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
+*   [brew-switcher (⭐4)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
+*   [fzfsh (⭐1)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐60k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
 *   [incsearch (⭐5)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
 *   [purge-history-secrets (⭐1)](https://github.com/jotasixto/purge-history-secrets) - Uses [gitleaks (⭐15k)](https://github.com/gitleaks/gitleaks) to periodically scan your ZSH history for secrets and purge them if found. Requires [jq](https://jqlang.github.io/jq/).
 *   [sussysh (⭐0)](https://github.com/sussynuggetz/sussysh-zsh) - Based on xiong-chiamiov.
@@ -732,9 +820,9 @@ Interactive UI and fuzzy-search for Git branches.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [minima (⭐2)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
-*   [x (⭐3)](https://github.com/tharindu899/x-theme) - Includes customizable banners
+*   [x (⭐4)](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
-## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Colleges
 

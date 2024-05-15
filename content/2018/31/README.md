@@ -192,7 +192,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [Joy (⭐1.2k)](https://github.com/cisco/joy): joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
+*   [Joy (⭐1.3k)](https://github.com/cisco/joy): joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
 ## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -264,7 +264,7 @@
 
 ### Packages / Command-line apps
 
-*   [carbon-now-cli (⭐5.6k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
 ## [15. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Software / Make your life easier
 
-*   [TestLink (⭐1.3k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 
 ### Books / Other
 
@@ -335,13 +335,13 @@
 
 ## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 *   [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 *   [Generative Art Subreddit](https://www.reddit.com/r/generative)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
@@ -450,7 +450,7 @@
 
 ### Related Lists
 
-*   [awesome-pcaptools (⭐2.9k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
+*   [awesome-pcaptools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 ## [34. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
@@ -581,22 +581,22 @@
 
 ### UI
 
-*   [Flushbar (⭐933)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐983)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### UI / Material Design
 
-*   [Slidable (⭐2.4k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+*   [Slidable (⭐2.6k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
 ### Device / Augmented Reality
 
-*   [WebView (⭐1.4k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
+*   [WebView (⭐1.5k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
 ## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐477)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐479)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -617,7 +617,7 @@
 
 ### Static Page Generation
 
-*   [glayu (⭐76)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
+*   [glayu (⭐79)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 
 ### Third Party APIs
 
@@ -625,7 +625,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐431)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐435)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -656,7 +656,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐142)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐143)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ### Video / Barcode
 
@@ -766,7 +766,7 @@
 
 ### GIS
 
-*   [CoordinateSharp (⭐331)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐348)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -834,7 +834,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Learning
 
-*   [Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
+*   [Quantum Katas (⭐4.5k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 
 ### Community
 
@@ -868,7 +868,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Concurrency
 
-*   [transwarp (⭐614)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐616)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ### Math
 
@@ -878,7 +878,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Crypto Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome Crypto Papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [60. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 

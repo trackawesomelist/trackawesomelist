@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [task\_bunny (⭐201)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
+*   [task\_bunny (⭐202)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollview (⭐117)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
+*   [vue-scrollview (⭐116)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

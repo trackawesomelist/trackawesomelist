@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2024
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,11 +32,6 @@
 *   [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
 *   [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
 
-### Articles and Guides / Mobile Apps
-
-*   [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
-*   [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
-
 ### Research Papers / Mobile Apps
 
 *   [Understanding and Developing Tools for Attention Management in Technology-Intensive Workplaces](https://example.com)
@@ -65,7 +60,7 @@
 
 ### Tools / Services
 
-*   [MindSQL (⭐28)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
+*   [MindSQL (⭐87)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -75,16 +70,12 @@
 
 ### State Libraries
 
-*   [exome (⭐132)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐136)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐66)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
-
-### Frameworks / Checkbox
-
-*   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+*   [M3 Svelte (⭐83)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -96,33 +87,13 @@
 
 *   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Miscellaneous
-
-*   [RaipdFuzz (⭐195)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
-
-## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Commands
 
-*   [django-typer (⭐37)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
+*   [django-typer (⭐49)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [7. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Graphweaver - GraphQL API Over Multiple Datasources [↗](https://awesomestacks.dev/graphweaver-graphql-api-over-multiple-datasources) / Resources
 
@@ -130,22 +101,23 @@
 *   [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 *   [Connect to a datasource](https://graphweaver.com/docs/connect-to-a-data-source)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+*   [LukasPietzschmann/boo.nvim (⭐30)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-commands (⭐0)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
+*   [ai-commands (⭐3)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [acenoster (⭐9)](https://github.com/himdek/Acenoster-ZSH-Theme) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
+*   [acenoster (⭐11)](https://github.com/himdek/Acenoster-ZSH-Theme) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
 
 ---
 
+- Prev: [Mar 09, 2024](/content/2024/03/09/README.md)
 - Next: [Mar 07, 2024](/content/2024/03/07/README.md)

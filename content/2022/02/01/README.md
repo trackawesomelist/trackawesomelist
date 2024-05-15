@@ -20,7 +20,7 @@
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-copyright (⭐15)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-copyright (⭐16)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐407)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐431)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

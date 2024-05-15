@@ -17,7 +17,7 @@
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐33)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+    *   [msp430 quickstart (⭐35)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -29,15 +29,15 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐242)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐252)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐19)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐258)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐269)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Decorators / Components
+### Misc Components / Node Based
 
-*   [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
+*   [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Status Bar
 
-*   [aws-tmux (⭐29)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
+*   [aws-tmux (⭐30)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 
 ## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

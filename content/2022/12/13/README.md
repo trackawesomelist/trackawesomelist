@@ -1,18 +1,33 @@
 # Awesome List Updates on Dec 13, 2022
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [1. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+
+### Official Docs & Quickstarts
+
+*   🔧 [Docker Images (⭐75)](https://github.com/nextgenhealthcare/connect-docker) - Official Docker Image.
+
+### Client API
+
+*   🔧 [Python Interface (⭐5)](https://github.com/renalreg/python-mirth-client) - A basic async Python interface for Mirth Connect.
+*   🔧 [C# API (⭐3)](https://github.com/feathersct/MirthConnect) - MirthConnect API for c#.net mirth 3.8+.
+
+### Other
+
+*   🔧 [Mirth-Jest-Framework (⭐3)](https://github.com/vibinernesto/Mirth-Jest-Framework) - repository to perform unit-testing for mirth scripts outside/inside mirthconnect tool.
+
+## [2. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [GPT-3.5 powered terminal commands (⭐523)](https://github.com/Methexis-Inc/terminal-copilot)
 
-## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Relocation Incentives
 
@@ -22,7 +37,7 @@
 
 *   [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -33,7 +48,7 @@
 *   [shasht (⭐42)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
     *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Crolleton.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Web Worker / Runner
 
@@ -48,18 +63,18 @@
 *   [workerpool (⭐1.9k)](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [dbt-labs/dbt-core (⭐8.6k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
-*   [refinedev/refine (⭐22k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
+*   [dbt-labs/dbt-core (⭐8.9k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
+*   [refinedev/refine (⭐25k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-nx-workspace (⭐21k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+*   [create-nx-workspace (⭐22k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 
 ### Templates / React
 
@@ -67,15 +82,15 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-optimize-css-modules (⭐21)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-optimize-css-modules (⭐23)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐272)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐298)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
@@ -119,13 +134,13 @@
 
 *   [Sitecore Services Client Publish (⭐1)](https://github.com/peplau/SscPublish) - A Web API method to securely trigger a Sitecore publish of an item or tree.
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [AIaC (⭐3.2k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐3.3k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
-## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -171,7 +186,7 @@
 
 *   [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)
 
-## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
@@ -185,13 +200,13 @@
 
 *   [canTot (⭐113)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Feedzai (⭐9)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
 
-## [13. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [14. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
@@ -217,7 +232,7 @@
 
 *   [Plutonium Caverns (⭐10)](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten (⭐1.2k)](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
@@ -225,15 +240,15 @@
 
 ### Localization
 
-*   [locheck (⭐90)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+*   [locheck (⭐92)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
 
-## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects / Messaging and social media
 
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 
-## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials
 
@@ -243,7 +258,7 @@
 
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 
-## [17. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Websites and Resources
 
@@ -261,25 +276,25 @@
 
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐452)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐490)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
-## [19. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [20. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Arcade
 
 *   Oh Dash! - [Android](https://play.google.com/store/apps/details?id=br.arkd.owdash), [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-## [21. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [22. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Courses 🎓 / Articles
 

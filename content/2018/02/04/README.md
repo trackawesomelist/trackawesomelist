@@ -44,7 +44,7 @@
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐568)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐571)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

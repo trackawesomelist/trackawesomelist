@@ -10,7 +10,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GTFS-flex (⭐111)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+*   [GTFS-flex (⭐116)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Project Layout
 
-*   [go-module (⭐25)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐27)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Miscellaneous
 
-*   [Quarto (⭐1.4k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [Quarto (⭐1.6k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Projects / Wallets
 
-*   [staketaxcsv (⭐231)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+*   [staketaxcsv (⭐240)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
 
 ---
 

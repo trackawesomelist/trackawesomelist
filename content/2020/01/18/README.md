@@ -50,7 +50,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐104)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐105)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Open Source / Other
 
-*   [ExifCleaner (⭐1.5k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [ExifCleaner (⭐1.7k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
-*   [Crop (⭐239)](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
+*   [Crop (⭐254)](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
 
 ## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -93,7 +93,7 @@
 
 ### XML
 
-*   [XMLMapper (⭐110)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
+*   [XMLMapper (⭐111)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
 
 ### Quality / Barcode
 
@@ -128,7 +128,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐88)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐89)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 
@@ -158,7 +158,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐1.4k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐1.6k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
@@ -229,7 +229,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Rector (⭐8k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+*   [Rector (⭐8.2k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
 ## [20. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

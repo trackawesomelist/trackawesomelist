@@ -132,14 +132,14 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.5k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.8k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Category Theory
 
-*   [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
+*   📝 [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
+*   📝 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
 
 ## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Libraries
 
-*   [tf-encrypted (⭐0)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+*   [tf-encrypted (⭐2)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
 ## [17. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -403,8 +403,8 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐201)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
-*   [transitr (⭐20)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+*   [Peartree (⭐200)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐21)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -426,7 +426,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐621)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -459,13 +459,13 @@ Topics: Accessibility\
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐38)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐40)](https://github.com/mamantoha/shards-info)
 
 ## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [libhydrogen (⭐565)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐578)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
@@ -473,7 +473,7 @@ Topics: Accessibility\
 
 ### Serialization
 
-*   [YAS (⭐710)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐721)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -576,11 +576,11 @@ Topics: Accessibility\
 ### UI / Effect
 
 *   [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-*   [Shimmer (⭐1.6k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
+*   [Shimmer (⭐1.7k)](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐236)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐247)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -592,25 +592,25 @@ Topics: Accessibility\
 ### CLI / Text-Based User Interfaces
 
 *   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐321)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐332)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐176)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐185)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ### Security / Other
 
-*   [SecurityBuilder (⭐45)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+*   [SecurityBuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2.1k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.7k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -654,15 +654,15 @@ Topics: Accessibility\
 
 ### JSON
 
-*   [jsonista (⭐391)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐396)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐997)](https://github.com/ztellman/manifold)
+*   [manifold (⭐1k)](https://github.com/ztellman/manifold)
 
 ### Monads
 
-*   [Fluokitten (⭐451)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐455)](https://github.com/uncomplicate/fluokitten)
 
 ### WebSocket
 
@@ -671,13 +671,13 @@ Topics: Accessibility\
 ### Science and Data Analysis
 
 *   [Bayadera - Bayesian Data Analysis on the GPU (⭐360)](https://github.com/uncomplicate/bayadera)
-*   [ClojureCUDA (⭐172)](https://github.com/uncomplicate/clojurecuda)
+*   [ClojureCUDA (⭐173)](https://github.com/uncomplicate/clojurecuda)
 *   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
-*   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
+*   [ClojureCL - parallel computations with OpenCL (⭐273)](https://github.com/uncomplicate/clojurecl)
 
 ### Editor Plugins
 
-*   [Calva (VSCode) (⭐1.3k)](https://github.com/BetterThanTomorrow/calva)
+*   [Calva (VSCode) (⭐1.5k)](https://github.com/BetterThanTomorrow/calva)
 
 ## [52. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -726,7 +726,7 @@ Topics: Accessibility\
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐53)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+*   [vue-page-guide (⭐54)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 ## [56. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
@@ -1191,6 +1191,8 @@ Topics: Accessibility\
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Trello](https://developers.trello.com/)
 
@@ -1201,6 +1203,8 @@ Topics: Accessibility\
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -1304,7 +1308,7 @@ Topics: Accessibility\
 
 ### Jobs
 
-- API: [Open Skills (⭐183)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+- API: [Open Skills (⭐187)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
   Description: Job titles, skills and related jobs data
 
@@ -1440,7 +1444,6 @@ Topics: Accessibility\
 
 ### Tools / Administration
 
-*   [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
 *   [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
 *   [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
@@ -1448,9 +1451,9 @@ Topics: Accessibility\
 
 ### Tools / Data
 
-*   [mongo\_fdw (⭐296)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
-*   [Mongolastic (⭐135)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
-*   [MongoMultiMaster (⭐68)](https://github.com/rick446/mmm) - Multi-master replication
+*   [mongo\_fdw (⭐314)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [Mongolastic (⭐137)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [MongoMultiMaster (⭐69)](https://github.com/rick446/mmm) - Multi-master replication
 
 ### Tools / Monitoring
 
@@ -1468,17 +1471,17 @@ Topics: Accessibility\
 
 ### Authorization
 
-*   [speakeasy (⭐85)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
+*   [speakeasy (⭐86)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
 
 ### Domain-specific language
 
-*   [JSON-LD.ex (⭐65)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐91)](https://github.com/marcelotto/rdf-ex).
-*   [RDF.ex (⭐91)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+*   [JSON-LD.ex (⭐68)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐94)](https://github.com/marcelotto/rdf-ex).
+*   [RDF.ex (⭐94)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
 *   [SPARQL.ex (⭐35)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐977)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐1k)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
@@ -1486,7 +1489,7 @@ Topics: Accessibility\
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐326)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐331)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
@@ -1496,12 +1499,12 @@ Topics: Accessibility\
 
 *   [ecto\_cassandra (⭐88)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
 *   [extreme (⭐127)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
-*   [triton (⭐78)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐371)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [triton (⭐79)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
+*   [xandra (⭐383)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐413)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐416)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
@@ -1510,7 +1513,7 @@ Topics: Accessibility\
 
 ### Third Party APIs
 
-*   [google-cloud (⭐739)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
+*   [google-cloud (⭐748)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
 ## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -1543,7 +1546,7 @@ Topics: Accessibility\
 ### Country Data
 
 *   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐992)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phony (⭐997)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -1564,7 +1567,7 @@ Topics: Accessibility\
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐610)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐611)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
@@ -1575,11 +1578,11 @@ Topics: Accessibility\
 
 ### Authentication
 
-*   [LinkedInSignIn (⭐35)](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
+*   [LinkedInSignIn (⭐36)](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 
 ### Key Value Store
 
-*   [Defaults (⭐1.8k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.9k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ### Streaming / Barcode
 
@@ -1587,7 +1590,7 @@ Topics: Accessibility\
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐257)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐261)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
 ## [66. Bots](/content/hackerkid/bots/week/README.md)
 

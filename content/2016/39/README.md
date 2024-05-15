@@ -30,7 +30,7 @@
 
 ### Models/Projects
 
-*   [Wavenet (⭐5.3k)](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+*   [Wavenet (⭐5.4k)](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 ### Books
 
@@ -159,14 +159,14 @@ Webpage: N/A
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐274)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐130)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐131)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -184,7 +184,7 @@ Webpage: N/A
 
 ### Malware Collection / Malware Corpora
 
-*   [Ragpicker (⭐82)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
+*   [Ragpicker (⭐90)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
     crawler with pre-analysis and reporting functionalities
 
 ## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -229,7 +229,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Applications
 
-*   [ExShop (⭐220)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
+*   [ExShop (⭐219)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 
 ### Authorization
 
@@ -241,11 +241,11 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Email
 
-*   [smoothie (⭐45)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
+*   [smoothie (⭐46)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐398)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐403)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
 
@@ -345,7 +345,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Ask these people anything!
 
-*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
+*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
 *   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
 ## [37. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
@@ -397,7 +397,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### GUI
 
-*   [ScintillaNET (⭐952)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐958)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -405,15 +405,15 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Media
 
-*   [NAudio (⭐5.1k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐5.3k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 
-*   [SSH.NET (⭐3.7k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+*   [SSH.NET (⭐3.8k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ### Web Browsers
 
-*   [CefSharp (⭐9.6k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+*   [CefSharp (⭐9.7k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
 ## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

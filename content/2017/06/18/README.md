@@ -56,18 +56,13 @@
 
 *   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
-### Libraries / Computation
-
-*   Scirust
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library
-
 ### Libraries / Logging
 
 *   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.5k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐7.7k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

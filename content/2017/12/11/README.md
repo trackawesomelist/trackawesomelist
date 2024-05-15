@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

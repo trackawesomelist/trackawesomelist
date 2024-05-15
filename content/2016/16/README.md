@@ -10,7 +10,7 @@
 
 ### Interviewing
 
-*   [andreis/interview (⭐16k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+*   [andreis/interview (⭐18k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -129,7 +129,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### WebSocket
 
-*   [Firehose (⭐727)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -151,7 +151,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐937)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -193,7 +193,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Tools
 
-*   [CodeXL (⭐986)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
+*   [CodeXL (⭐994)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
 ## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -246,7 +246,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Video / Barcode
 
-*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -391,19 +391,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.5k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐155k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.6k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐159k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.5k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-*   [Caprine (⭐6.8k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+*   [Git-it (⭐4.6k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Caprine (⭐6.9k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 *   [Simplenote (⭐4.6k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
-*   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
+*   [Medis (⭐12k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐402)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐412)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -413,16 +413,16 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐417)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐412)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-is-dev (⭐421)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐419)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 *   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 *   [electron-release-server (⭐2k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐319)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐804)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-download (⭐333)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐806)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
-*   [nativefier (⭐34k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
+*   [nativefier (⭐35k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
 *   [electron-pdf (⭐1.2k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 
 ### Components / Other

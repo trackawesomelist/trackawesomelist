@@ -36,7 +36,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Dim (⭐3.6k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
+*   [Dim (⭐3.7k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

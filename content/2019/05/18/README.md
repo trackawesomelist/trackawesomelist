@@ -22,7 +22,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [mlfinlab (⭐3.7k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+*   [mlfinlab (⭐3.8k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Ask these people anything!
 
-*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
+*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, blogger, owner of business apps agency. Based in Singapore.
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

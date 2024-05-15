@@ -10,7 +10,7 @@
 
 ### SCALE Codec
 
-*   [C (⭐5)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
+*   [C (⭐7)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -20,9 +20,9 @@
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
-### UI
+### UI / List
 
-*   [PlutoGrid (⭐536)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
+*   [PlutoGrid (⭐620)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -33,11 +33,11 @@
 
 ### Creative Uses of Generative AI Image Synthesis Tools / Deforum
 
-*   [AgaMiko/pixel\_character\_generator (⭐113)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐115)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Related Awesome Lists / Deforum
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐274)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐278)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## [5. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Display / OLED
 
-*   [sh1107-micropython (⭐8)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
+*   [sh1107-micropython (⭐9)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
 
 ## [7. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 

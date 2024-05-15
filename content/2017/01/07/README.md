@@ -55,7 +55,7 @@
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.6k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐3.7k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

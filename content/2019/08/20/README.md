@@ -24,7 +24,7 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐41)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐43)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [3. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Keyboard / Barcode
 
-*   [Ribbon (⭐298)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [8. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

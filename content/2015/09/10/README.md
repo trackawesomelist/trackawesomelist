@@ -148,7 +148,7 @@
 
 ### Ask these people anything!
 
-*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
+*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at SilverStripe, human (presumed).
 *   [Chris Tankersley (⭐0)](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 
 ## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)

@@ -95,7 +95,7 @@
 ### Other Development Tools / Testing
 
 *   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
-*   [tealer (⭐62)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+*   [tealer (⭐61)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -147,11 +147,11 @@
 
 ### Security
 
-*   [Coraza (⭐1.7k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Coraza (⭐1.8k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐7k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐7.3k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Modules / Validation
 
-*   [zod (⭐29k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Modules / Video
 
@@ -192,7 +192,7 @@
 
 ### Tools / XML
 
-*   [dnt (⭐1.1k)](https://github.com/denoland/dnt) - Deno to npm package build tool.
+*   [dnt (⭐1.2k)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
 ### Resources in Other Languages / Chinese
 

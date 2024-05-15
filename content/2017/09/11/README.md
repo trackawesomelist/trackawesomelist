@@ -24,7 +24,7 @@
 
 ### Security and Cryptography
 
-*   [nocrypto (⭐112)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.
+*   [nocrypto (⭐111)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.
 
 ## [3. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Build Automation
 
-*   [Nuke (⭐2.2k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐2.6k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐5k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐5.1k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### Logging
 
@@ -48,7 +48,7 @@
 
 ### PDF
 
-*   [PdfiumViewer (⭐920)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐938)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Awesome Core ML Models (⭐6.1k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+*   [Awesome Core ML Models (⭐6.2k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

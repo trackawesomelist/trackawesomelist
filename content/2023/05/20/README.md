@@ -16,7 +16,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐141)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐189)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [snowChat ❄️ (⭐356)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+*   [snowChat ❄️ (⭐395)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

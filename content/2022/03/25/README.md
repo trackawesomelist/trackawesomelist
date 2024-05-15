@@ -38,7 +38,7 @@
 ### Tools / Administration
 
 *   [k8s-backup-mongodb (⭐32)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐773)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [mgob (⭐770)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -93,38 +93,34 @@
 
 ### Language Support
 
-*   [playwright-dotnet (⭐2.2k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
+*   [playwright-dotnet (⭐2.3k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 *   [playwright-perl (⭐21)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐417)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐434)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐224)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐232)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Web
-
-*   [mvysny/vaadin-on-kotlin (⭐177)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
-
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐2.2k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐2.6k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
-### Framework-agnostic Plugins / Transformers
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-*   [vite-plugin-load-css-module (⭐18)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
+### Libraries/Frameworks / Web
+
+*   [mvysny/vaadin-on-kotlin (⭐182)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Community Help Board (⭐25k)](https://github.com/directus/directus/discussions/categories/q-a)
 

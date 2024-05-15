@@ -1,6 +1,6 @@
 # Awesome List Updates on May 14, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,19 +24,13 @@
 
 ### Project Generators
 
-*   [libgen (⭐77)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐76)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Babel Seed Projects / Components
-
-*   [angular-babel-seed (⭐19)](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
-
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [3. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Data Validation
 
-*   [Orchestra (⭐617)](https://github.com/jeaye/orchestra)
+*   [Orchestra (⭐619)](https://github.com/jeaye/orchestra)
 
 ---
 

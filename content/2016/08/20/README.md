@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,22 +40,15 @@
 *   [Fantasy Land (⭐10k)](https://github.com/fantasyland/fantasy-land) – Not a library, but a specification of the Monad laws for libraries to follow.
 *   [Static Land (⭐764)](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
 
-## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Elixir
-
-*   [Elixir元编程与DSL 中文翻译 (⭐26)](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
-*   [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
-
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Build Automation
 
-*   [Nake (⭐223)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+*   [Nake (⭐225)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 
 ### Database
 
-*   [Streamstone (⭐386)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐387)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ---
 

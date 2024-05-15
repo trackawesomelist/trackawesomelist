@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [sentinel (⭐107)](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
+*   [sentinel (⭐106)](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

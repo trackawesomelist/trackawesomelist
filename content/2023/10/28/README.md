@@ -20,7 +20,7 @@
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
@@ -32,17 +32,17 @@
 
 ### Configuration / Text-Based User Interfaces
 
-*   [Gestalt (⭐22)](https://github.com/gestalt-config/gestalt) - Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
+*   [Gestalt (⭐57)](https://github.com/gestalt-config/gestalt) - Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
 
 ### Monitoring / Text-Based User Interfaces
 
 *   [Dropwizard Metrics (⭐7.8k)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
 *   [Micrometer (⭐4.3k)](https://github.com/micrometer-metrics/micrometer) - Vendor-neutral metrics/observability facade for the most popular metrics/observability libraries.
-*   [Micrometer Tracing (⭐206)](https://github.com/micrometer-metrics/tracing) - Vendor-neutral distributed tracing facade for the most popular tracer libraries.
+*   [Micrometer Tracing (⭐224)](https://github.com/micrometer-metrics/tracing) - Vendor-neutral distributed tracing facade for the most popular tracer libraries.
 
 ### Serialization / Other
 
-*   [Fury (⭐2.5k)](https://github.com/alipay/fury) - Blazing fast object graph serialization framework powered by JIT and zero-copy.
+*   [Fury (⭐2.7k)](https://github.com/alipay/fury) - Blazing fast object graph serialization framework powered by JIT and zero-copy.
 
 ### Testing / Asynchronous
 
@@ -50,13 +50,13 @@
 
 ### Testing / Fixtures
 
-*   [Datafaker (⭐932)](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
+*   [Datafaker (⭐1k)](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
 
 ### Utility / Mocking
 
-*   [dregex (⭐41)](https://github.com/marianobarrios/dregex) - Regular expression engine that uses deterministic finite automata. It supports some Perl-style features and yet retains linear matching time, and also offers set operations.
+*   [dregex (⭐43)](https://github.com/marianobarrios/dregex) - Regular expression engine that uses deterministic finite automata. It supports some Perl-style features and yet retains linear matching time, and also offers set operations.
 *   [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
-*   [Semver4j (⭐53)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
+*   [Semver4j (⭐60)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -68,17 +68,17 @@
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐92)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐137)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Productivity and Time
 
-*   [Errands (⭐200)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Errands (⭐242)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Graphics
 
-*   [ASCII Draw (⭐105)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
+*   [ASCII Draw (⭐137)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 
 ### Utilities
 
@@ -86,12 +86,12 @@
 
 ### Development and Design
 
-*   [Forge Sparks (⭐50)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Forge Sparks (⭐56)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 ## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 
@@ -120,7 +120,7 @@
 ### Libraries / C#
 
 *   C#: Geometry
-    *   🎉 [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+    *   🎉 [DotRecast (⭐380)](https://github.com/ikpil/DotRecast) - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

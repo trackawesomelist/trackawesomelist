@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splash (⭐130)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [vue-splash (⭐129)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -51,26 +51,26 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐162)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐172)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Algorithms and Design Patterns
 
 *   Algorithms
-    *   [algorithms (⭐23k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    *   [python-ds (⭐2.6k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
+    *   [algorithms (⭐24k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
+    *   [python-ds (⭐2.7k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
     *   [sortedcontainers (⭐3.2k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [thealgorithms (⭐176k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [thealgorithms (⭐178k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐7.6k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐7.8k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Asynchronous Programming
 
 *   [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
-*   [uvloop (⭐9.9k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+*   [uvloop (⭐10k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ### Built-in Classes Enhancement
 
@@ -78,9 +78,9 @@
 
 ### Code Analysis
 
-*   Static Type Checkers, also see [awesome-python-typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing)
+*   Static Type Checkers, also see [awesome-python-typing (⭐1.6k)](https://github.com/typeddjango/awesome-python-typing)
     *   [mypy (⭐17k)](https://github.com/python/mypy) - Check variable types during compile time.
-    *   [pyre-check (⭐6.6k)](https://github.com/facebook/pyre-check) - Performant type checking.
+    *   [pyre-check (⭐6.7k)](https://github.com/facebook/pyre-check) - Performant type checking.
     *   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 
 ### Computer Vision
@@ -89,28 +89,28 @@
 
 ### Configuration Files
 
-*   [hydra (⭐8k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
+*   [hydra (⭐8.2k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 
 ### Data Visualization
 
-*   [plotnine (⭐3.7k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
+*   [plotnine (⭐3.8k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 
 ### DevOps Tools
 
 *   Configuration Management
-    *   [ansible (⭐60k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    *   [cloudinit (⭐2.5k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    *   [ansible (⭐61k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+    *   [cloudinit (⭐2.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
     *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
-    *   [pyinfra (⭐2.5k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    *   [pyinfra (⭐2.6k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐14k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
 ### Distribution
 
-*   [pyarmor (⭐2.8k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐2.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐7.9k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐8.2k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### Job Scheduler
 
@@ -123,13 +123,13 @@
 ### Package Management
 
 *   [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-    *   [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+    *   [pip-tools (⭐7.5k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
     *   [PyPI](https://pypi.org/)
 *   [poetry (⭐29k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 ### Package Repositories
 
-*   [warehouse (⭐3.4k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+*   [warehouse (⭐3.5k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
 ### RPC Servers
 
@@ -137,7 +137,7 @@
 
 ### Search
 
-*   [elasticsearch-dsl-py (⭐3.7k)](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch.
+*   [elasticsearch-dsl-py (⭐3.8k)](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch.
 *   [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 
 ### Static Site Generator
@@ -147,11 +147,11 @@
 
 ### Template Engine
 
-*   [Jinja2 (⭐9.8k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐9.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐3.1k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐3.2k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Apps / E-commerce
 
-*   [django-oscar-wagtail (⭐96)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+*   [django-oscar-wagtail (⭐97)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 
 ### Apps / Forms
 
@@ -50,7 +50,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Table of Contents / Architectural
 
-*   [Porter (⭐606)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+*   [Porter (⭐607)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 
 ## [6. Bots](/content/hackerkid/bots/README.md)
 

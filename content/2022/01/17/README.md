@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐214)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐221)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -33,13 +33,13 @@
 
 ### Development tools / IDEs
 
-*   [lapce (⭐31k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐33k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐406)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐429)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐108)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [openrndr/orx (⭐113)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐292)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐323)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -118,11 +118,11 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot Game Of Life (⭐29)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐31)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐216)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐233)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -133,11 +133,11 @@
 
 ### Communications / Ethernet
 
-*   [micropy-ENC28J60 (⭐17)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
+*   [micropy-ENC28J60 (⭐18)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
 
 ### Communications / IR
 
-*   [pico-ir (⭐11)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐14)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

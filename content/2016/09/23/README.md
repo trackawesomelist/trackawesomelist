@@ -6,22 +6,18 @@
 
 
 
-## [1. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Maxim Salnikov](https://twitter.com/webmaxru)
+
+## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Interesting Readings
 
 *   [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) - Guide to monitoring Apache Kafka, including native methods for metrics collection.
 *   [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection.
-
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Maxim Salnikov](https://twitter.com/webmaxru)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular Webpack Starter (⭐90)](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 
 ## [3. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

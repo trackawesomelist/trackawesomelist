@@ -10,7 +10,7 @@
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐29)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [PAYONE (⭐28)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 *   [Stripe (⭐47)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)

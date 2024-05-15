@@ -10,17 +10,17 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐432)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐442)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐952)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
+*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐958)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
 *   [WordPress](https://wordpress.org/) - World's most-used blogging and CMS engine. ([Source Code (⭐19k)](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
 ### Software / Software Development - Project Management
 
-*   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐9k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
+*   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐9.1k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
 
 ## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -43,7 +43,7 @@
 ### System Programming
 
 *   **Embedded systems**
-    *   [OMicroB (⭐126)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+    *   [OMicroB (⭐130)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
     *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
     *   [ocaml-esp32 (⭐18)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
@@ -55,7 +55,7 @@
 
 ### Bindings
 
-*   [libvulkan.lua (⭐48)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
+*   [libvulkan.lua (⭐55)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
 
 ## [6. Awesome C](/content/inputsh/awesome-c/README.md)
 

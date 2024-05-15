@@ -22,7 +22,7 @@
 
 ### Software / HPGL
 
-*   [Chiplotle3 (⭐4)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
+*   [Chiplotle3 (⭐6)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
 ## [4. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -42,7 +42,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐674)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐723)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

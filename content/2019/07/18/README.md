@@ -38,7 +38,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Contents / Components
 
-*   [Preact Translate (⭐65)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐64)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -57,7 +57,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Reference
 
-*   [adalib (⭐17)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+*   [adalib (⭐19)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ### Database / Apache License
 
@@ -74,7 +74,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Patterns / Apache License
 
-*   [rxada (⭐16)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐17)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 

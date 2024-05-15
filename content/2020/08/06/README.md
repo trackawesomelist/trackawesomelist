@@ -10,7 +10,7 @@
 
 ### Calendar
 
-*   [ElegantCalendar (⭐773)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐806)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -22,13 +22,13 @@
 
 ### General
 
-*   [Fluent System Icons (⭐4.4k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent System Icons (⭐5.5k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [EventFlow.Example (⭐202)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.3k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+*   [EventFlow.Example (⭐201)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.3k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Foundations of Mathematics / Logic
 
-*   [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
+*   📝 [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

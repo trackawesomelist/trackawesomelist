@@ -24,7 +24,7 @@
 
 ### ORM
 
-*   [LINQ to DB (⭐2.8k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+*   [LINQ to DB (⭐2.9k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
 ## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐765)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐767)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14 - Jun 20, 2021
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Table
 
-*   [ka-table (⭐644)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐677)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -129,7 +129,13 @@
 
 *   [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 
-## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [Evidently (⭐4.6k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+
+## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Archives
 
@@ -189,71 +195,57 @@
 *   [BON 2 (⭐180)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 *   [Bearded Octo Nemesis (⭐129)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Images
 
 *   [gi (⭐4)](https://github.com/LangPham/gi) - An Elixir wrapper for GraphicsMagick command line.
 
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Blockchain/Crypto/NFT
 
 *   [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
-## [12. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Clipboard / Web
 
 *   [ClipBoardMonitor](https://github.com/536/my-startup-ahk-scripts/blob/master/startup/ClipBoardMonitor/ClipBoardMonitor.ahk) - Monitor clipboard changes, show  tooltip of word count for text or a temporary GUI for pictures.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Groupware
 
-*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.4k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
+*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.5k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
 
 ### Software / Resource Planning
 
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐16k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐17k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
-## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### ORM / Database / Datamapping
 
 *   🍰 [Icings/Partitionable plugin (⭐16)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
-## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### JavaScript / FrameWorks
 
-*   [portfolio-allocation (⭐169)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
-
-## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-externals (⭐162)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
-
-### Libraries / Community
-
-*   [vite-ssr (⭐802)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
-
-### Frameworks / Community
-
-*   [vitedge (⭐719)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [portfolio-allocation (⭐171)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
 
 ## [17. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Layout
 
-*   [MondrianLayout (⭐159)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+*   [MondrianLayout (⭐161)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
 ## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
-*   [TFSec (⭐6.4k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
+*   [TFSec (⭐6.6k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 
 ### Operating Systems / Privacy & Security
 
@@ -261,7 +253,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Talks & Videos (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
+*   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
 ## [19. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -285,7 +277,7 @@
 
 ### Geometry and Topology / Differential Geometry
 
-*   [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
+*   📝 [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
 ## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -295,7 +287,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [CaptainHook (⭐936)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+*   [CaptainHook (⭐951)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
 ## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -316,8 +308,8 @@
 
 ### Resources / Examples
 
-*   [Google Keep Clone with Vue + Firestore (⭐97)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐113)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
+*   [Google Keep Clone with Vue + Firestore (⭐98)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
+*   [Vue 3 Shopping Cart (⭐125)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 
 ### Components & Libraries / UI Components
 
@@ -325,8 +317,8 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-ui (⭐3.2k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
-*   [vuestic-admin (⭐9.7k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+*   [vuestic-ui (⭐3.3k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
+*   [vuestic-admin (⭐10k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 
 ## [26. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -338,25 +330,25 @@
 
 ### Automation / DSL
 
-*   [jmeter-as-code (⭐30)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+*   [jmeter-as-code (⭐31)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
 *   [ormar](https://collerek.github.io/ormar/) - Ormar is an async ORM that uses Pydantic validation and can be used directly in FastAPI requests and responses so you are left with only one set of models to maintain. Alembic migrations included.
-    *   [FastAPI Example](https://collerek.github.io/ormar/fastapi/) - Using FastAPI with ormar.
+    *   [FastAPI Example](https://collerek.github.io/ormar/latest/fastapi/) - Using FastAPI with ormar.
 
 ### Boilerplate / Other Tools
 
-*   [openapi-python-client (⭐898)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+*   [openapi-python-client (⭐1.1k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
 ## [29. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-semantic-admin (⭐110)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐820)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐118)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐835)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -393,34 +385,34 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Flare (⭐5.6k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-*   [Kuiper (⭐700)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
-*   [Velociraptor (⭐2.5k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
+*   [Flare (⭐5.8k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+*   [Kuiper (⭐713)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
+*   [Velociraptor (⭐2.6k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 
 ### IR Tools Collection / Evidence Collection
 
-*   [artifactcollector (⭐211)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
-*   [Forensic Artifacts (⭐946)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+*   [artifactcollector (⭐234)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+*   [Forensic Artifacts (⭐966)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 *   [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 
 ### IR Tools Collection / Knowledge Bases
 
-*   [Digital Forensics Artifact Knowledge Base (⭐64)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+*   [Digital Forensics Artifact Knowledge Base (⭐68)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 *   [Windows Events Attack Samples (⭐2.1k)](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
-*   [Windows Registry Knowledge Base (⭐145)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+*   [Windows Registry Knowledge Base (⭐150)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [LogonTracer (⭐2.6k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
-*   [Sigma (⭐7.3k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
+*   [Sigma (⭐7.5k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Volatility 3 (⭐2k)](https://github.com/volatilityfoundation/volatility3) - The volatile memory extraction framework (successor of Volatility)
+*   [Volatility 3 (⭐2.2k)](https://github.com/volatilityfoundation/volatility3) - The volatile memory extraction framework (successor of Volatility)
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Forensics (⭐3.4k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
+*   [Awesome Forensics (⭐3.5k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
 *   [Didier Stevens Suite (⭐1.8k)](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 
 ### IR Tools Collection / Playbooks
@@ -429,23 +421,23 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Ghidra (⭐46k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
-*   [Rizin (⭐2.3k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
+*   [Ghidra (⭐47k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
+*   [Rizin (⭐2.4k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
 
 ### IR Tools Collection / Scanner Tools
 
-*   [Fenrir (⭐644)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
-*   [Spyre (⭐154)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
+*   [Fenrir (⭐657)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+*   [Spyre (⭐157)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Hoarder (⭐183)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
+*   [Hoarder (⭐186)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 
 ## [33. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
-*   [Silk.NET (⭐3k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
+*   [Silk.NET (⭐3.6k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
 
 ### Tools
 
@@ -464,8 +456,8 @@
 
 ### Example Projects
 
-*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐229)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐94)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐241)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
+*   [Example of adding API Key authentication to Keycloak (⭐101)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 
@@ -485,25 +477,19 @@
 
 *   [Super](https://super.so) - Build websites with the simplicity of Notion.
 
-## [37. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
-
-### Visualization
-
-*   [Evidently (⭐4.4k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
-
-## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
-## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [38. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Machine Learning
 
-*   [Summit (⭐75)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+*   [Summit (⭐106)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
-## [40. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [39. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Wallets
 
@@ -573,21 +559,21 @@
 *   [Official Stacks Forum](https://forum.stacks.org/) - Stacks community forum.
 *   [r/stacks](https://www.reddit.com/r/stacks) - Stacks subreddit.
 
-## [41. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secrets Scanning / Ansible
 
-*   [Detect Secrets (⭐3.3k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
+*   [Detect Secrets (⭐3.5k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 
-## [42. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [41. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐89)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐88)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐9)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐45)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐51)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -595,7 +581,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐187)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐28k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐188)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐29k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -603,9 +589,9 @@
 
 ### Framework Components
 
-*   [mochi (⭐24)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
+*   [mochi (⭐25)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐53)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐153)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐154)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -626,13 +612,13 @@
 ### Editor Plugins
 
 *   Geany
-    *   [geany-crystal (⭐10)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
+    *   [geany-crystal (⭐8)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐408)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐410)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
-## [44. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [43. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Official Resources
 
@@ -645,18 +631,18 @@
 
 *   [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 
-## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Crowdsourced transit data
 
 *   [GTFS-Hub (⭐25)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
-## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐544)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
-*   [jwstegemann/fritz2 (⭐587)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [hexagonkt/hexagon (⭐553)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [jwstegemann/fritz2 (⭐604)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ### Libraries/Frameworks / Misc
 
@@ -664,9 +650,9 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/glm (⭐118)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+*   [kotlin-graphics/glm (⭐120)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -680,11 +666,11 @@
 
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 
-## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
-- API: [Ciprand (⭐6)](https://github.com/polarspetroll/ciprand)
+- API: [Ciprand (⭐10)](https://github.com/polarspetroll/ciprand)
 
   Description: Secure random string generator
 
@@ -710,34 +696,34 @@
 
 
 
-## [49. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [48. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐38)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐40)](https://github.com/virtual-vehicle/pointcloudset)
 
-## [50. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [49. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Graphics / TikZ
 
 *   [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
-## [51. Amas](/content/sindresorhus/amas/week/README.md)
+## [50. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
-## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐1.4k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐1.5k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐155)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐162)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -745,13 +731,13 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐271)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐273)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐1k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐1.2k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
-## [53. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [52. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -761,7 +747,7 @@
 
 *   [pydiogment (⭐76)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐76)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [54. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [53. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -804,7 +790,7 @@
 *   [Uber](https://medium.com/uber-design)
 *   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-## [55. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [54. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Xamarin.Forms
 

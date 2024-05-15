@@ -10,14 +10,14 @@
 
 ### Domain Analysis / Other Resources
 
-*   [dnstwist (⭐3.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
+*   [dnstwist (⭐4.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
     engine for detecting typo squatting, phishing and corporate espionage.
-*   [mailchecker (⭐1.4k)](https://github.com/FGRibreau/mailchecker) - Cross-language
+*   [mailchecker (⭐1.6k)](https://github.com/FGRibreau/mailchecker) - Cross-language
     temporary email detection library.
 
 ### Browser Malware / Other Resources
 
-*   [Krakatau (⭐1.6k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
+*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
     assembler, and disassembler.
 
 ### Network / Other Resources
@@ -28,14 +28,14 @@
 
 ### Memory Forensics / Other Resources
 
-*   [evolve (⭐250)](https://github.com/JamesHabben/evolve) - Web interface for the
+*   [evolve (⭐259)](https://github.com/JamesHabben/evolve) - Web interface for the
     Volatility Memory Forensics Framework.
-*   [VolUtility (⭐342)](https://github.com/kevthehermit/VolUtility) - Web Interface for
+*   [VolUtility (⭐373)](https://github.com/kevthehermit/VolUtility) - Web Interface for
     Volatility Memory Analysis framework.
 
 ### Other / Other Resources
 
-*   [File Formats posters (⭐6k)](https://github.com/corkami/pics) - Nice visualization
+*   [File Formats posters (⭐10k)](https://github.com/corkami/pics) - Nice visualization
     of commonly used file format (including PE & ELF).
 *   [Malware Analysis Tutorials](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) -
     The Malware Analysis Tutorials by Dr. Xiang Fu, a great resource for learning
@@ -102,7 +102,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.3k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.6k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ---
 

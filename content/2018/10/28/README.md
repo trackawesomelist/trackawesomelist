@@ -39,9 +39,9 @@
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
-### UI
+### UI / List
 
-*   [Snaplist (⭐438)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐450)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

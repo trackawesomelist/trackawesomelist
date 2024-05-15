@@ -49,7 +49,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐34)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐43)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -80,7 +80,7 @@
 
 ### JSON Schema Tools
 
-*   [js-schema (⭐387)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+*   [js-schema (⭐386)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ---
 

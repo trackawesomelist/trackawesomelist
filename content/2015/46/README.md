@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16 - Nov 22, 2015
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -142,11 +142,11 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [HonSSH (⭐366)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
+*   [HonSSH (⭐369)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Moloch (⭐5.9k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
+*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
 
 ### Network / VPN
 
@@ -160,7 +160,7 @@
 
 ### Malware Collection / Honeypots
 
-*   [Conpot (⭐1k)](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
+*   [Conpot (⭐1.2k)](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
 
 ### Detection and Classification / Other Resources
 
@@ -432,7 +432,13 @@
 
 *   [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 
-## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript / Node Based
+
+*   [DefinitelyTyped Repository (GitHub) (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
+## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Scheduling
 
@@ -546,7 +552,7 @@
 
 *   [2010](http://leoneu.github.io/) - **Yahoo** - S4: Distributed Stream Computing Platform.
 
-## [19. Tools](/content/lvwzhen/tools/week/README.md)
+## [20. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Favicon
 
@@ -569,7 +575,7 @@
 
 *   [Jquery API](http://www.jquery123.com/)
 
-## [20. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [21. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -600,7 +606,7 @@
 *   [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 *   [Recast (⭐4.3k)](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator (⭐3.7k)](https://github.com/facebook/regenerator) and [es6-arrow-function (⭐52)](https://github.com/esnext/es6-arrow-function).
 
-## [21. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [22. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### File Uploading / Omniauth
 
@@ -610,13 +616,13 @@
 
 *   [elasticsearch-rails (⭐3k)](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails.
 
-## [22. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [23. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Documentation
 
 *   [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 
-## [23. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [24. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Parsers
 
@@ -629,7 +635,7 @@
 
 *   [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 
-## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -647,7 +653,7 @@
 
 *   [mysql-native (⭐80)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
-## [25. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [26. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Creation / These sites are good for building a basic framework for the site.
 
@@ -668,7 +674,7 @@
 *   [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 *   [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
@@ -696,7 +702,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐81k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐84k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -704,15 +710,15 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐35)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐38)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐689)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐691)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.6k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐2.7k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -733,7 +739,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐36k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐37k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -744,7 +750,7 @@
 *   [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
 *   [Sticky Bits](https://blog.feabhas.com/)
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -752,7 +758,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐72)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
@@ -765,7 +771,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐478)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐485)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -773,7 +779,7 @@
 
 ### Networking
 
-*   [sshex (⭐154)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐157)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
@@ -782,11 +788,11 @@
 
 ### Package Management
 
-*   [rebar3\_hex (⭐97)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐99)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐717)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐716)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -796,7 +802,7 @@
 
 *   [fitex (⭐2)](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 
-## [28. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [29. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / HTTP Handler
 
@@ -810,7 +816,7 @@
 
 *   [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 
-## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [30. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
@@ -818,15 +824,15 @@
 
 ### Structural Migrations
 
-*   [Migratus (⭐617)](https://github.com/yogthos/migratus)
+*   [Migratus (⭐628)](https://github.com/yogthos/migratus)
 
 ### Security
 
-*   [Buddy (⭐824)](https://github.com/funcool/buddy)
+*   [Buddy (⭐826)](https://github.com/funcool/buddy)
 
 ### Monads
 
-*   [cats (⭐939)](https://github.com/funcool/cats)
+*   [cats (⭐935)](https://github.com/funcool/cats)
 
 ### Science and Data Analysis
 
@@ -836,7 +842,7 @@
 
 *   [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 
-## [30. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [31. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### *Basics*
 
@@ -1047,7 +1053,7 @@
 *   [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
 *   [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
 
-## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Package Managers
 
@@ -1111,7 +1117,7 @@
 
 *   [instanceofpro/awesome-backbone (⭐406)](https://github.com/sadcitizen/awesome-backbone)
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -1153,7 +1159,7 @@
 
 *   [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
-## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1187,7 +1193,7 @@
 *   [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson.
 *   [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - Martin Thompson.
 
-## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Charts
 
@@ -1217,20 +1223,20 @@
 
 *   [Groovy Language Support for Android (⭐855)](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 
-## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [36. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Tools
 
 *   [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)\
     Open Source Vulnerability Analysis for your Containers.
 
-## [36. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [37. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [User Flow (⭐1.4k)](https://github.com/abynim/UserFlows)
 
-## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [38. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -1240,27 +1246,6 @@
 
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
-
-## [38. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### HTML and CSS
-
-*   [CSS3 Tutorial 《CSS3 教程》 (⭐203)](https://github.com/waylau/css3-tutorial)
-*   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-*   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
-
-### JavaScript
-
-*   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
-
-### Python / Symfony
-
-*   [Python 中文学习大本营](http://www.pythondoc.com)
-
-### R / Django
-
-*   [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
-*   [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
 
 ## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -1371,7 +1356,7 @@ $0.99
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Pattern Recognition and Machine Learning (⭐5.9k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
+*   [Pattern Recognition and Machine Learning (⭐6k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -1499,33 +1484,22 @@ $0.99
 
 *   [Nadieh Bremer](https://twitter.com/NadiehBremer)
 
-## [50. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### TypeScript General Resources / Components
-
-*   [DefinitelyTyped Repository (GitHub) (⭐46k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
-
-### TypeScript Seed Projects / Components
-
-*   [ng2-play (⭐536)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-*   [Spring Boot and Angular2 tutorial (⭐142)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
-
-## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [50. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Google2FA (⭐1.5k)](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
-## [52. Amas](/content/sindresorhus/amas/week/README.md)
+## [51. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
-*   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
+*   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at Alipay.
+*   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of PresentBook.
 *   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
-*   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
+*   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I blog about my experiences learning code and working as a junior developer.
 
-## [53. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [52. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 

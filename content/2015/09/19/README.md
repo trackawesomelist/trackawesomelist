@@ -124,7 +124,7 @@
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐41k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -181,7 +181,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Ask these people anything!
 
-*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
+*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at Docker. JavaScript. Haskell. Builder of products and tooling.
 
 ---
 

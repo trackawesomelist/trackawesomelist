@@ -45,7 +45,7 @@
 
 ### For Electron / Other
 
-*   [electron-store (⭐4.3k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.5k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

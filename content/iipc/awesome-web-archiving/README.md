@@ -6,6 +6,19 @@ An Awesome List for getting started with web archiving
 
 [ Daily / [Weekly](/content/iipc/awesome-web-archiving/week/README.md) / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [May 09, 2024](/content/2024/05/09/README.md)
+
+### Tools & Software / WARC I/O Libraries
+
+*   [Jwat (⭐3)](https://github.com/netarchivesuite/jwat) - Libraries for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
+*   [Jwat-Tools (⭐4)](https://github.com/netarchivesuite/jwat-tools) - Tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
+
+## [May 06, 2024](/content/2024/05/06/README.md)
+
+### Tools & Software / Utilities
+
+*   [warc-safe (⭐2)](https://github.com/natliblux/warc-safe) - Automatic detection of viruses and NSFW content in WARC files.
+
 ## [Apr 25, 2024](/content/2024/04/25/README.md)
 
 ### Tools & Software / Replay
@@ -193,7 +206,7 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Acquisition
 
-*   [Wayback (⭐1.6k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
+*   [Wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
 ## [Jul 20, 2021](/content/2021/07/20/README.md)
 
@@ -344,7 +357,6 @@ An Awesome List for getting started with web archiving
 ### Tools & Software / WARC I/O Libraries
 
 *   [HadoopConcatGz (⭐9)](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
-*   [Jwat](https://sbforge.org/display/JWAT/JWAT) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
 *   [node-warc (⭐91)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
 *   [Warcat (⭐135)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
 

@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [stream\_data (⭐833)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
+*   [stream\_data (⭐844)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Games / Apache License
 
-*   [eepers (⭐205)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐18k)](https://github.com/raysan5/raylib)).
+*   [eepers (⭐285)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Thomas Laforge](https://twitter.com/laforge_toma)
 
@@ -41,17 +41,17 @@
 ### Third-Party Packages / Monitoring
 
 *   [django-prometheus (⭐1.4k)](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics to Prometheus.
-*   [django-mixin (⭐32)](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
+*   [django-mixin (⭐34)](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
 
 ### Third-Party Packages / Task Queues
 
-*   [django-q2 (⭐262)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
+*   [django-q2 (⭐280)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Wave Terminal (⭐2.3k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+*   [Wave Terminal (⭐2.5k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Codel (⭐737)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social)
+*   [Codel (⭐1.9k)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social)
 
 ## [10. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Hardware / Plotters
 
-*   [PlotterXY (⭐28)](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+*   [PlotterXY (⭐34)](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -108,31 +108,31 @@
 
 ### AI / Diagnostics
 
-*   [simplegpt.nvim (⭐5)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+*   [simplegpt.nvim (⭐8)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ### File Explorer / Diagnostics
 
-*   [prichrd/netrw.nvim (⭐166)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
+*   [prichrd/netrw.nvim (⭐182)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ### Utility / Diagnostics
 
-*   [SUSTech-data/neopyter (⭐2)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
-*   [terje/simctl.nvim (⭐1)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
+*   [SUSTech-data/neopyter (⭐37)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [terje/simctl.nvim (⭐24)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 
 ### Git / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.diff (⭐3.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
+*   [echasnovski/mini.nvim#mini.diff (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐157)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐166)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars\_ta (⭐26)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
-*   [QuickEcharts (⭐11)](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
+*   [polars\_ta (⭐49)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
+*   [QuickEcharts (⭐15)](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
 
 ### Resources / Blog posts
 
@@ -142,60 +142,36 @@
 
 ### Templates / Vue 3
 
-*   [vue3-vant-mobile (⭐682)](https://github.com/easy-temps/vue3-vant-mobile) - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
-*   [vite-plugin-vue-style-bundler (⭐2)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
+*   [vue3-vant-mobile (⭐767)](https://github.com/easy-temps/vue3-vant-mobile) - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+*   [vite-plugin-vue-style-bundler (⭐3)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
 
 ### Templates / React
 
-*   [vite-complete-react-app (⭐1)](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
+*   [vite-complete-react-app (⭐2)](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@import-meta-env/unplugin (⭐171)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+*   [@import-meta-env/unplugin (⭐178)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 
 ## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
-*   [natiu-mqtt (⭐77)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
+*   [natiu-mqtt (⭐79)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 
 ## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐128) (⭐128)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-
 ### Projects / API Gateway
 
-*   [Ocelot (⭐8.1k) (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐603) (⭐603)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ETL
-
-*   [Pentaho Data Integration (⭐7.3k) (⭐7.3k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Messaging
-
-*   [Centrifugo (⭐7.8k) (⭐7.8k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
+*   [Ocelot (⭐8.1k) (⭐8.2k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐34k) (⭐34k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
+*   [Apache Airflow (⭐34k) (⭐35k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
 
 ### Resources / API Specification
 
 *   [JSON:API (⭐7.3k) (⭐7.3k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
-
-### Resources / Data Formats
-
-*   [YAML (⭐305) (⭐305)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐3.1k) (⭐3.1k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [18. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -226,7 +202,7 @@
 
 ### Miscellaneous
 
-*   [procaptcha (⭐12)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+*   [procaptcha (⭐27)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 
 ## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -245,7 +221,7 @@
 ### Science Logology / Laboratory Automation
 
 *   [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.science.org/doi/full/10.1126/science.aav2211) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf)]. \[[Perspective: Democratizing synthesis by automation](https://www.science.org/doi/10.1126/science.aav8816)]. This paper develops an autonomous compiler and robotic laboratory platform to synthesize organic compounds on the basis of standardized methods descriptions. The platform comprises conventional equipment such as round-bottom flasks, separatory funnels, and a rotary evaporator to maximize its compatibility with extant literature. The authors showcase the system with short syntheses of three common pharmaceuticals that proceeded comparably to manual synthesis.
-*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
+*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[XDL Schema Database](https://zenodo.org/records/3955107)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
 *   [Digitization and validation of a chemical synthesis literature database in the ChemPU](https://www.science.org/doi/full/10.1126/science.abo0058) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17368503277308594977)]. \[[Preprint](https://www.researchgate.net/profile/Aamir-Khan/publication/361857872_Digitization_and_validation_of_a_chemical_synthesis_literature_database_in_the_ChemPU/links/62cd356d00d0b451104cbfe9/Digitization-and-validation-of-a-chemical-synthesis-literature-database-in-the-ChemPU.pdf)]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist.
 
 ## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
@@ -258,22 +234,22 @@
 
 ### Applications / Blockchain
 
-*   [Hyperlane (⭐166)](https://github.com/hyperlane-xyz/hyperlane-monorepo).
+*   [Hyperlane (⭐211)](https://github.com/hyperlane-xyz/hyperlane-monorepo).
     Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 
 ### Applications / Emulators
 
 *   Nintendo 64
-    *   [gopher64 (⭐55)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
+    *   [gopher64 (⭐63)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
 
 ### Applications / System tools
 
-*   [ynqa/jnv (⭐3.7k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
+*   [ynqa/jnv (⭐4.3k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
-*   [fzf-make (⭐50)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
-*   [typos (⭐1.9k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
+*   [fzf-make (⭐52)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
+*   [typos (⭐2.1k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
 
 ## [26. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -305,7 +281,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail EditorJS (⭐1)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
+*   [Wagtail EditorJS (⭐5)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 
 ## [28. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -321,13 +297,13 @@
 
 ### Tools / Community providers
 
-*   [cf-terraforming (⭐831)](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
+*   [cf-terraforming (⭐864)](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
 
 ## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [cpp-lazy (⭐319)](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. \[MIT]
+*   [cpp-lazy (⭐325)](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. \[MIT]
 
 ### Build Systems
 
@@ -365,7 +341,7 @@
 
 ### E-Commerce and Payments
 
-*   [SmartStoreNET (⭐1k)](https://github.com/smartstore/Smartstore) - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
+*   [SmartStoreNET (⭐1.1k)](https://github.com/smartstore/Smartstore) - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
 
 ## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -376,7 +352,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fbi (⭐0)](https://github.com/bateman/fbi-zsh-theme) - Powerline-inspired fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with decorators for `nvm` environment, `git` status, username\@hostname and current directory.
-*   [ninik (⭐1)](https://github.com/NimaNikfar/ninik-zsh-theme) - Inspired by [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) and [ubunly (⭐21)](https://github.com/alejandromume/ubunly-zsh-theme). Includes decorators for OS, current directory, python virtualenv and `git` status. Requires a Nerd Font or Powerline-patched font.
+*   [ninik (⭐2)](https://github.com/NimaNikfar/ninik-zsh-theme) - Inspired by [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) and [ubunly (⭐22)](https://github.com/alejandromume/ubunly-zsh-theme). Includes decorators for OS, current directory, python virtualenv and `git` status. Requires a Nerd Font or Powerline-patched font.
 
 ## [37. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 

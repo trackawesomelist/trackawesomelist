@@ -34,7 +34,7 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Shodan Queries (⭐4.9k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
+*   [Awesome Shodan Queries (⭐5.1k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -55,7 +55,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐393)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐396)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐862)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐885)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 
-*   [Nonius (⭐356)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐357)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

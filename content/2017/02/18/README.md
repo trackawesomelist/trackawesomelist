@@ -36,7 +36,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 

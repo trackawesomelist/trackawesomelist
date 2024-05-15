@@ -10,20 +10,20 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nixfmt (⭐510)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐628)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
 ### Development / Discovery
 
-*   [nix-direnv (⭐1.3k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐1.5k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐348)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐516)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐350)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐526)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐54)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [awesome-nix-hpc (⭐60)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 
 ## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -55,11 +55,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐66)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐73)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐93)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐95)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐176)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐179)](https://github.com/change/linguist) - Elixir Internationalization library.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

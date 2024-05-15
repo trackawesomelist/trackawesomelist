@@ -18,7 +18,7 @@
 
 ### Ask these people anything!
 
-*   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
+*   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at Refinery29, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 
 ## [3. Awesome Frege](/content/sfischer13/awesome-frege/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐206k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐207k)](https://github.com/vuejs/vue)
 
 ---
 

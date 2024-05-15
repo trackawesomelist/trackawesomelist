@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2016
 
-62 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -61,7 +61,7 @@
 
 ### JSON
 
-*   [json (⭐39k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐40k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ### Math
 
@@ -73,7 +73,7 @@
 
 *   [Malware Samples and Traffic](http://malware-traffic-analysis.net/) - This
     blog focuses on network traffic related to malware infections.
-*   [RPISEC Malware Analysis (⭐3.3k)](https://github.com/RPISEC/Malware) - These are the
+*   [RPISEC Malware Analysis (⭐3.6k)](https://github.com/RPISEC/Malware) - These are the
     course materials used in the Malware Analysis course at at Rensselaer Polytechnic
     Institute during Fall 2015.
 
@@ -93,17 +93,9 @@
 
 ### Threat Intelligence / Forensics
 
-*   [CIFv2 (⭐225)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
+*   [CIFv2 (⭐227)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Haxe General Resources / Components
-
-*   [Haxe on Wikipedia](https://en.wikipedia.org/wiki/Haxe)
-*   [Haxe Usage Survey results](https://github.com/PatrickJS/awesome-angular/blob/gh-pages/README.md/blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-*   [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
-
-## [14. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [13. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Resources for inspiration / Pinterest boards
 
@@ -145,7 +137,7 @@
 *   <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>
 *   <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/fliptheweb/motion-ui-design&p[images][0]=&p[title]=Motion%20UI%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
-## [15. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [14. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -311,20 +303,20 @@ or use one of the following commands to pull a font archive with `curl`:
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-light.png" width="725">
 
-## [16. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [15. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
 *   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 
-## [17. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [16. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [Bitcore Playground](https://bitcore.io/playground/)
 
-## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [17. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -338,7 +330,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [es6-promise (⭐7.3k)](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
 
-## [19. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [18. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Blog and CMS / Social Sciences
 
@@ -378,7 +370,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [fuck (⭐371)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
-## [20. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [19. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Official
 
@@ -422,7 +414,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [Reddit 'ripple'](https://www.reddit.com/r/ripple/)
 *   [Reddit 'ripplers'](https://www.reddit.com/r/ripplers/)
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -454,7 +446,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 *   [Praxis (⭐300)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
-*   [Scorched (⭐275)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+*   [Scorched (⭐274)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 
 ### API Gateways / Edge Services / Scala
 
@@ -469,7 +461,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 *   [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 
-## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source)
 
@@ -480,7 +472,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [GTFS-realtime Nagio Plugin (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - Provides a [Nagios](https://www.nagios.org/) plugin for monitoring a GTFS-realtime feed
 
-## [23. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [22. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
@@ -511,7 +503,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/application/internet_of_things.php)
 *   [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
 
-## [24. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [23. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -521,7 +513,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Where@ (⭐38)](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
 
-## [25. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [24. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -535,13 +527,13 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 
-## [26. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [25. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
 *   [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 
-## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -564,7 +556,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Redash (⭐23k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 
-## [28. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [27. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computational Photography
 
@@ -602,7 +594,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [awesome-deep-learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-## [29. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [28. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Communities
 
@@ -612,7 +604,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 
-## [30. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [29. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -622,7 +614,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [paranoia (⭐2.8k)](https://github.com/rubysherpas/paranoia) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 
-## [31. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [30. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -638,7 +630,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [PostCSS BEM Linter (⭐548)](https://github.com/postcss/postcss-bem-linter)
 
-## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [31. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
@@ -654,7 +646,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
 
-## [33. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [32. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### Icons, Fonts and Colors
 
@@ -664,7 +656,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [md-timepicker (⭐12)](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
 
-## [34. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
+## [33. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
 
 ### Node modules
 
@@ -687,13 +679,13 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [UnCSS (⭐9.3k)](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt (⭐3.9k)](https://github.com/addyosmani/grunt-uncss), [Gulp (⭐960)](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
-## [35. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [34. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [om-tools (⭐437)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
-## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [35. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -703,7 +695,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 
-## [37. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [36. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -714,7 +706,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [pcollections (⭐700)](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 *   [RoaringBitmap (⭐2.8k)](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 
-## [38. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [37. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
@@ -729,29 +721,29 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 
-## [39. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [38. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Backoffice extensions
 
 *   [refinerycms-tinymce (⭐7)](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6.2k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.3k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ### Packages / Miscellaneous
 
 *   [json-strictify (⭐19)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
-## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [serverless/serverless :fire::fire::fire::fire::fire: (⭐45k)](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 
-## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
@@ -769,19 +761,19 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   Raymond Chen <https://blogs.msdn.microsoft.com/oldnewthing/>
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Bioinformatics
 
 *   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries.
 
-## [44. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [43. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
 
-## [45. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [44. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -806,7 +798,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [markdown-js (⭐7.6k)](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 *   [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
-## [46. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -817,7 +809,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [scid (⭐89)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 *   [dstats (⭐25)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
-## [47. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -839,7 +831,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [enpeem-search (⭐4)](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 *   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
-## [48. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [47. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -859,35 +851,35 @@ or use one of the following commands to pull a font archive with `curl`:
     *   [Labs (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
     *   [Projects (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
 
-## [49. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [48. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [Molgav (⭐2)](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 
-## [50. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [49. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Facebook Accounts / Book Deals (Affiliated) 🛍
 
 *   [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 
-*   [faker (⭐142)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐144)](https://github.com/askn/faker) - A library for generating fake data
 
 ### Official Documentation Translations
 
 *   [carc.in](https://carc.in/) - A web service that runs your code and displays the result
 
-## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐785)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐795)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
-## [53. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [52. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Color / Runner
 
@@ -897,13 +889,13 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [scrollMonitor (⭐3.3k)](https://github.com/stutrek/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 
-## [54. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [53. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Other Libraries
 
 *   [Moment.cfc (⭐46)](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 
-## [55. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [54. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
@@ -942,7 +934,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - A shorter overview of the language, up to date for Lua 5.2, and available online.
 
-## [56. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [55. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
@@ -952,7 +944,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Cursive (IntelliJ)](https://cursive-ide.com/)
 
-## [57. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [56. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -969,7 +961,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [StackExachange Robotics community](https://robotics.stackexchange.com)
 *   [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
-## [58. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [57. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Caching
 
@@ -977,7 +969,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Date and Time
 
-*   [filtrex (⭐191)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐192)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### HTTP
 
@@ -990,7 +982,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐4.1k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4.2k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### ORM and Datamapping
 
@@ -1000,7 +992,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [ex\_marshal (⭐39)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 
-## [59. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [58. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -1030,7 +1022,7 @@ or use one of the following commands to pull a font archive with `curl`:
 *   [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100\&p\[url]=https://github.com/neutraltone/awesome-stock-resources\&p\[images]\[0]=\&p\[title]=Awesome%20Stock%20Resources\&p\[summary]=)
 *   [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true\&url=https://github.com/neutraltone/awesome-stock-resources\&title=Awesome%20Stock%20Resources\&summary=\&source=)
 
-## [60. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [59. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -1044,7 +1036,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [mqtt2opcua (⭐71)](https://github.com/nzfarmer1/mqtt2opcua) - Bi Directional MQTT to OPCUA Bridge.
 
-## [61. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [60. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Ranges
 
@@ -1139,7 +1131,7 @@ or use one of the following commands to pull a font archive with `curl`:
     options it provides. Sometimes, additional sections for omni completion (`:h
     ft-php-omni`) or filetype plugins (`:h ft-tex-plugin`) are available.
 
-## [62. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [61. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 

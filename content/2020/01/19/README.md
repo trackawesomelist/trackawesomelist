@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,21 +27,15 @@
 ### Physics
 
 *   [Simbody (⭐2.2k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐833)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐864)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [4. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / User Interface
 
-*   [PieMenu (⭐71)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
+*   [PieMenu (⭐74)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards aggregators
-
-*   [Meerkad](https://meerkad.com/) - Handpicked and curated by community jobs from most popular remote job boards, companies' websites, Facebook groups, Twitter search, Reddit, StackOverflow, HackerNews, Dribbble, Behance, and many others
-
-## [6. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [5. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### Netherlands / Amsterdam
 
@@ -60,42 +54,42 @@
 
 *   [Ars Electronica Festival](https://ars.electronica.art/news/en/) - Festival for art, technology and society. **(September)**
 
-## [7. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Board
 
 *   Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
 
-## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Articles / Bare metal / kernel development
 
 *   [Hidden treasures in the D standard library](https://web.archive.org/web/20171119072212/http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
 *   [wagtail-opengraph-image-generator (⭐37)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 
-## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
-*   [CoqEAL (⭐65)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
+*   [CoqEAL (⭐64)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 
 ### Projects / Libraries
 
-*   [Metalib (⭐68)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
+*   [Metalib (⭐69)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 
 ### Projects / Package and Build Management
 
-*   [Docker-Coq (⭐35)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
+*   [Docker-Coq (⭐36)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
 
 ### Projects / Tools
 
 *   [lngen (⭐29)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
-*   [mCoq (⭐26)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
+*   [mCoq (⭐27)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 
 ### Resources / Books
 
@@ -106,7 +100,7 @@
 *   [Programs and Proofs](https://ilyasergey.net/pnp/) - Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.
 *   [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 
-## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 

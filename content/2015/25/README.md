@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐680)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐685)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐396)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐402)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -85,18 +85,18 @@
 
 ### Application Templates
 
-*   [ProjectScaffold (⭐514)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
+*   [ProjectScaffold (⭐515)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 
 ### MVVM
 
 *   [MVVMCross (⭐3.8k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐938)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐957)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / HTTP
 
-*   [Retrofit (⭐156)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+*   [Retrofit (⭐157)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -136,7 +136,7 @@
 
 ### Data Validation
 
-*   [Bouncer (⭐359)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
 
 ## [16. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Web Frameworks
 
-*   [Hobbit (⭐273)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐274)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [18. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐460)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐462)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
@@ -282,7 +282,7 @@
 
 ### Logging
 
-*   [metrix (⭐49)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐51)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 
@@ -292,7 +292,7 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐182)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐181)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

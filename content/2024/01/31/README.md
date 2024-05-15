@@ -16,7 +16,7 @@
 
 ### Router / Mouse Events
 
-*   [tanstack-router (⭐6.5k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐7.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -41,7 +41,7 @@
 ### Specialty Topics / Shaders
 
 *   Water / Refraction
-    *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
+    *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in *libGDX*.
 
 ## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 

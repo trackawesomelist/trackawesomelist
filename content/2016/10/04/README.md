@@ -26,7 +26,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐52)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐53)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -34,7 +34,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [prometheus-plugs (⭐53)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
+*   [prometheus-plugs (⭐54)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
 
 ### Macros
 

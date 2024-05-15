@@ -40,31 +40,23 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [apple/ml-no-token-left-behind (⭐135)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+*   [apple/ml-no-token-left-behind (⭐136)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Font
-
-*   [Bunny](https://bunny.net)
-    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!
-    *   [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
-
 ### CDN and Protection
 
-*   [Gcore](https://gcorelabs.com/)
-    *   [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
-    *   [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
+*   [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐138)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐146)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐12k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐15k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [7. Awesome Esports](/content/Strift/awesome-esports/README.md)
 

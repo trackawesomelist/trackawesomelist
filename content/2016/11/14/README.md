@@ -67,7 +67,7 @@
 
 ### Documents and Shellcode / Other Resources
 
-*   [box-js (⭐517)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
+*   [box-js (⭐595)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
 ## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

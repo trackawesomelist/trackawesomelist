@@ -25,33 +25,33 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐481)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
+    *   [statrs-dev/statrs (⭐503)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
 ### Libraries / Cryptography
 
-*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
+*   [klutzy/suruga (⭐124)](https://github.com/klutzy/suruga) — Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Time Tracking
 
-*   [Timetrap (⭐1.4k)](https://github.com/samg/timetrap) - Simple timetracker.
+*   [Timetrap (⭐1.5k)](https://github.com/samg/timetrap) - Simple timetracker.
 
 ### Productivity / Note Taking and Lists
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐675)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐732)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Internet Speedtest
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
 *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.7k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
-*   [teachcode (⭐361)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
+*   [teachcode (⭐374)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
 *   [GitHub Repository (⭐25k)](https://github.com/directus/directus)
@@ -61,7 +61,7 @@
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐413)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐434)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / New Libraries
 
-*   [exojax (⭐37)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+*   [exojax](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

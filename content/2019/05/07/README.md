@@ -10,13 +10,13 @@
 
 ### Development / Npm
 
-*   [updates (⭐89)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+*   [updates (⭐95)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
-*   [celerystalk (⭐390)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+*   [celerystalk (⭐393)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
 ## [3. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 

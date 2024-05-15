@@ -163,7 +163,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐802)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐804)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -245,12 +245,12 @@
 
 ### Applications
 
-*   [tty2048 (⭐153)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐154)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
 *   [librex (⭐35)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
-*   [zarex (⭐25)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+*   [zarex (⭐26)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ### Framework Components
 
@@ -258,13 +258,13 @@
 
 ### Testing
 
-*   [espec (⭐798)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐801)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐141)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐143)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
@@ -281,7 +281,7 @@
 ### Databases
 
 *   [lowdb (⭐21k)](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
-*   [JSON ODM (⭐100)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
+*   [JSON ODM (⭐101)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 
 ### Transformations
 

@@ -34,7 +34,7 @@
 
 ### Code Analysis and Linter
 
-*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
+*   [clj-kondo (⭐1.7k)](https://github.com/borkdude/clj-kondo)
 
 ## [6. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 

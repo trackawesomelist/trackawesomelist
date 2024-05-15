@@ -1,42 +1,36 @@
 # Awesome List Updates on Oct 29, 2023
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Science Logology / Democratization of Science
-
-*   [A mobile robotic chemist](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf) - ***Nature***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324\&hl=en\&as_sdt=0,5)].
-
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### PDF
 
-*   [PDF-Writer (⭐812)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+*   [PDF-Writer (⭐843)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 
-## [3. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [2. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### 3D
 
 *   [3DFY](https://app.3dfy.ai/) - Generate high-quality 3D models, automatically, in certain object categories using text-prompts. `#paid`
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
 *   [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
 
-## [5. Magictools](/content/ellisonleao/magictools/README.md)
+## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+*   :tada: [DotRecast (⭐394)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Algorithms / Supervised Learning
 

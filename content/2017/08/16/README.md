@@ -41,7 +41,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.3k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.4k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -76,12 +76,12 @@
 
 ### Multimedia
 
-*   [Vocal (⭐344)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐347)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 
 ### Graphics
 
-*   [Coulr (⭐35)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐40)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### System and Customization
 
@@ -95,7 +95,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.2k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.3k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -103,11 +103,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐179)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐181)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐265)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐266)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -125,7 +125,7 @@
 ### Exceptions and Error Handling
 
 *   [Perseverance (⭐178)](https://github.com/grammarly/perseverance)
-*   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
+*   [Dire (⭐483)](https://github.com/MichaelDrogalis/dire)
 
 ### Archives and Compression
 

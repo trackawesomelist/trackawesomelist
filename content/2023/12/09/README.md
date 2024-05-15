@@ -14,7 +14,7 @@
 
 ### Boilerplates / Testing
 
-*   [MVC Flask (⭐46)](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
+*   [MVC Flask (⭐52)](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
 
 ---
 

@@ -39,7 +39,7 @@
 
 ### Probability and Statistics / Statistical Learning
 
-*   [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
+*   📝 [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
 
 ## [5. Tips](/content/git-tips/tips/week/README.md)
 
@@ -78,22 +78,18 @@ git log --show-notes='*'
 
 *   [redis-store](http://redis-store.org/) - Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeouts, single or multiple nodes, and namespaces.
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Maxim Salnikov](https://twitter.com/webmaxru)
+
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Interesting Readings
 
 *   [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) - Guide to monitoring Apache Kafka, including native methods for metrics collection.
 *   [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection.
-
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Maxim Salnikov](https://twitter.com/webmaxru)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular Webpack Starter (⭐90)](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 
 ## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -220,7 +216,7 @@ git log --show-notes='*'
 
 *   [CppCon 2016 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
 *   [CppCon 2015 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
-*   [CppCon 2014 Presentation Materials (⭐2.2k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
+*   [CppCon 2014 Presentation Materials (⭐2.3k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
 ## [20. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -417,7 +413,7 @@ git log --show-notes='*'
 
 ### Packages / Parsing
 
-*   [ref (⭐446)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐447)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -431,7 +427,7 @@ git log --show-notes='*'
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐536)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐542)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -486,7 +482,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Blogging/news
 
-*   [wagtail-blog-app (⭐37)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
+*   [wagtail-blog-app (⭐38)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
 
 ### Apps / Rich text editor extensions
 
@@ -513,7 +509,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐211)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐219)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
@@ -525,11 +521,11 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Misc
 
-*   [Wagtail Themes (⭐98)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐101)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐165)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -571,7 +567,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Web Frameworks
 
-*   [FubuMVC (⭐425)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
+*   [FubuMVC (⭐426)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 
 ---
 

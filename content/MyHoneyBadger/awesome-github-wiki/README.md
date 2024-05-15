@@ -2,7 +2,7 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 187 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 198 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
 
@@ -28,7 +28,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐4.8k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐4.9k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐312)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐321)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐196)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐195)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
@@ -59,12 +59,6 @@
 ### Useful Stack Overflow questions & answers
 
 *   [ToC or Sidebar in GitHub Wiki](https://stackoverflow.com/questions/9239588/toc-or-sidebar-in-github-wiki)
-
-## [Apr 09, 2023](/content/2023/04/09/README.md)
-
-### Examples
-
-*   [golang/go (⭐119k)](https://github.com/golang/go/wiki)
 
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
@@ -136,7 +130,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐809)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐812)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
@@ -175,7 +169,7 @@
 
 ### Examples
 
-*   [facebook/react-native (⭐115k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐116k)](https://github.com/facebook/react-native/wiki)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 

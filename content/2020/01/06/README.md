@@ -147,11 +147,11 @@
 
 ### Status Bar
 
-*   [gitmux (⭐488)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐550)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐94)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐102)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [9. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

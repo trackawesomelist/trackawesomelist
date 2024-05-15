@@ -10,7 +10,7 @@
 
 ### Tools / Collection View Layout
 
-*   [Xcodes.app (⭐6.1k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐6.4k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
 ## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -595,28 +595,28 @@ Language: English \ <br>
 *   [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
     (C/C++/Fortran/Java/Python, [custom open-source
     license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
-    [GitHub (⭐427)](https://github.com/Unidata/netcdf-c/))
+    [GitHub (⭐481)](https://github.com/Unidata/netcdf-c/))
 *   [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-    (C/Fortran, BSD, [GitHub (⭐342)](https://github.com/HDFGroup/hdf5))
+    (C/Fortran, BSD, [GitHub (⭐472)](https://github.com/HDFGroup/hdf5))
 *   [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 *   [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
-    (Python, MIT, [GitHub (⭐1.1k)](https://github.com/zarr-developers/zarr-python))
+    (Python, MIT, [GitHub (⭐1.3k)](https://github.com/zarr-developers/zarr-python))
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
-    (Python, Apache 2.0, [GitHub (⭐760)](https://github.com/dswah/pyGAM))
+    (Python, Apache 2.0, [GitHub (⭐830)](https://github.com/dswah/pyGAM))
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [rockpack (⭐571)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+*   [rockpack (⭐568)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 
 ### Server-Side Rendering / Lazy Load
 
-*   [iSSR (⭐102)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
+*   [iSSR (⭐103)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 
 ---
 

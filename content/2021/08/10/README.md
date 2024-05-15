@@ -23,16 +23,16 @@
 ### Libraries
 
 *   Neural Network Libraries
-    *   [Flax (⭐5k)](https://github.com/google/flax) - Centered on flexibility and clarity. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
-    *   [Haiku (⭐2.7k)](https://github.com/deepmind/dm-haiku) - Focused on simplicity, created by the authors of Sonnet at DeepMind. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
-    *   [Objax (⭐748)](https://github.com/google/objax) - Has an object oriented design similar to PyTorch. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
+    *   [Flax](https://github.com/google/flax) - Centered on flexibility and clarity. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
+    *   [Haiku](https://github.com/deepmind/dm-haiku) - Focused on simplicity, created by the authors of Sonnet at DeepMind. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
+    *   [Objax](https://github.com/google/objax) - Has an object oriented design similar to PyTorch. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
     *   [Elegy](https://poets-ai.github.io/elegy/) - A High Level API for Deep Learning in JAX. Supports Flax, Haiku, and Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
-    *   [Trax (⭐7.8k)](https://github.com/google/trax) - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
-    *   [Jraph (⭐1.3k)](https://github.com/deepmind/jraph) - Lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
-    *   [Neural Tangents (⭐2.2k)](https://github.com/google/neural-tangents) - High-level API for specifying neural networks of both finite and *infinite* width. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
-    *   [HuggingFace (⭐118k)](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
-    *   [Equinox (⭐1.6k)](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
-    *   [Scenic (⭐2.7k)](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
+    *   [Trax](https://github.com/google/trax) - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
+    *   [Jraph](https://github.com/deepmind/jraph) - Lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
+    *   [Neural Tangents](https://github.com/google/neural-tangents) - High-level API for specifying neural networks of both finite and *infinite* width. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
+    *   [HuggingFace](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+    *   [Equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
+    *   [Scenic](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
 
 ## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -43,11 +43,11 @@
 
 ### Projects / Tools
 
-*   [Alectryon (⭐213)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+*   [Alectryon (⭐217)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 
 ### Projects / Verified Software
 
-*   [Ceramist (⭐121)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
+*   [Ceramist (⭐122)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
 
 ### Resources / Tutorials and Hints
 
@@ -67,6 +67,8 @@
 
   CORS: Yes
 
+  Postman: 
+
 
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -79,7 +81,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Kafka Module (⭐78)](https://github.com/SnuK87/keycloak-kafka)
+*   [Keycloak Kafka Module (⭐82)](https://github.com/SnuK87/keycloak-kafka)
 
 ## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -95,7 +97,7 @@
 
 ### Applications / Blockchain
 
-*   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
+*   [Bitcoin Satoshi's Vision (⭐58)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
 *   [hdwallet (⭐31)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
 *   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Implementation of BIP39.
 
@@ -105,20 +107,20 @@
 
 ### Applications / System tools
 
-*   [buster/rrun (⭐112)](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
+*   [buster/rrun (⭐113)](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
 
 ### Applications / Text processing
 
-*   [whitfin/bytelines (⭐60)](https://github.com/whitfin/bytelines) \[[bytelines](https://crates.io/crates/bytelines)] — Read input lines as byte slices for high efficiency.
+*   [whitfin/bytelines (⭐59)](https://github.com/whitfin/bytelines) \[[bytelines](https://crates.io/crates/bytelines)] — Read input lines as byte slices for high efficiency.
 
 ### Libraries / Astronomy
 
-*   [flosse/rust-sun (⭐45)](https://github.com/flosse/rust-sun) \[[sun](https://crates.io/crates/sun)] — A rust port of the JS library suncalc
+*   [flosse/rust-sun (⭐46)](https://github.com/flosse/rust-sun) \[[sun](https://crates.io/crates/sun)] — A rust port of the JS library suncalc
 
 ### Libraries / Computation
 
 *   [GSL](http://www.gnu.org/software/gsl/)
-    *   [GuillaumeGomez/rust-GSL (⭐183)](https://github.com/GuillaumeGomez/rust-GSL) — GSL bindings
+    *   [GuillaumeGomez/rust-GSL (⭐188)](https://github.com/GuillaumeGomez/rust-GSL) — GSL bindings
 
 ### Libraries / Database
 
@@ -135,8 +137,8 @@
 *   HAR
     *   [mandrean/har-rs (⭐39)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] — A HTTP Archive Format (HAR) serialization & deserialization library
 *   YAML
-    *   [chyh1990/yaml-rust (⭐575)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation.
-    *   [dtolnay/serde-yaml (⭐898)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.4k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
+    *   [chyh1990/yaml-rust (⭐597)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation.
+    *   [dtolnay/serde-yaml (⭐938)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.6k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
     *   [vitiral/stfu8 (⭐25)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
 
 ### Libraries / Network programming
@@ -144,11 +146,11 @@
 *   NNTP
     *   [mattnenterprise/rust-nntp (⭐17)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
 *   POP3
-    *   [mattnenterprise/rust-pop3 (⭐29)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
+    *   [mattnenterprise/rust-pop3 (⭐31)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
 
 ### Libraries / Parsing
 
-*   [nrc/zero (⭐46)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
+*   [nrc/zero (⭐47)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
 
 ### Libraries / Platform specific
 
@@ -157,19 +159,19 @@
 
 ### Libraries / Scripting
 
-*   [rhaiscript/rhai (⭐3.4k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
-*   [rune-rs/rune (⭐1.5k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language
+*   [rhaiscript/rhai (⭐3.5k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
+*   [rune-rs/rune (⭐1.6k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language
 
 ### Libraries / Text processing
 
 *   [pwoolcoc/ngrams (⭐27)](https://github.com/pwoolcoc/ngrams) \[[ngrams](https://crates.io/crates/ngrams)] — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators
-*   [yaa110/rake-rs (⭐31)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
+*   [yaa110/rake-rs (⭐32)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmex (⭐67)](https://github.com/evnp/tmex) A minimalist tmux layout manager
+*   [tmex (⭐79)](https://github.com/evnp/tmex) A minimalist tmux layout manager
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

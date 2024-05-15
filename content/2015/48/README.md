@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-33 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,11 +52,11 @@
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐4.9k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐5k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
-*   [Elmah MVC (⭐267)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
+*   [Elmah MVC (⭐266)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 
 ### Metrics
 
@@ -64,9 +64,9 @@
 
 ### Misc
 
-*   [CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-*   [Shielded (⭐233)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
+*   [CsvHelper (⭐4.5k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.5k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.4k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [Shielded (⭐236)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
 
@@ -74,7 +74,7 @@
 
 ### Queue
 
-*   [EasyNetQ (⭐2.8k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
+*   [EasyNetQ (⭐2.9k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 
 ### Search
 
@@ -82,8 +82,8 @@
 
 ### WebSocket
 
-*   [SignalR (⭐9k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.7k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SignalR (⭐9.1k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+*   [SuperSocket (⭐3.8k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐522)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -340,7 +340,7 @@
 *   [rebar3\_idl\_compiler (⭐0)](https://github.com/sebastiw/rebar3_idl_compiler) - This is a plugin for compiling Erlang IDL files using Rebar3.
 *   [rebar3\_live (⭐3)](https://github.com/pvmart/rebar3_live) - Rebar3 live plugin.
 *   [rebar3\_neotoma\_plugin (⭐2)](https://github.com/zamotivator/rebar3_neotoma_plugin) - Rebar3 neotoma (Parser Expression Grammar) compiler.
-*   [rebar3\_run (⭐24)](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
+*   [rebar3\_run (⭐25)](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
 *   [rebar3\_yang\_plugin (⭐0)](https://github.com/surik/rebar3_yang_plugin) - Rebar3 yang compiler.
 
 ### Debugging
@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐586)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐596)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 
@@ -393,7 +393,7 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐911)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐913)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -405,17 +405,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Universal Seed Projects / Components
-
-*   [universal-starter (⭐2k)](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
-
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

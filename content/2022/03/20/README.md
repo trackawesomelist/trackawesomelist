@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐154)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐161)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Files and Directories / Files
 
-*   [chokidar-cli (⭐775)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
+*   [chokidar-cli (⭐807)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -294,11 +294,7 @@
 
 ### YouTube
 
-*   [Yattee (⭐2.1k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
-
-### Reddit
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐451)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+*   [Yattee (⭐2.2k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 
 ### Teamworking Tools
 

@@ -168,7 +168,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.3k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 

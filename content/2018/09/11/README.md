@@ -63,7 +63,7 @@
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐142)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐144)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
     *   [tis-interpreter (⭐561)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
@@ -129,7 +129,7 @@
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐273)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐274)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
     *   [Awesome multicore OCaml (⭐136)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
@@ -150,13 +150,9 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [William Grasel](https://twitter.com/willgmbr)
-
-### TypeScript Seed Projects / Components
-
-*   [angular-app-example (⭐60)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -168,11 +164,11 @@
 
 ### Command-line tools
 
-*   [jl (⭐473)](https://github.com/chrisdone/jl) - Functional sed for JSON.
+*   [jl (⭐474)](https://github.com/chrisdone/jl) - Functional sed for JSON.
 
 ### Resources
 
-*   [Awesome jq (⭐707)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+*   [Awesome jq (⭐736)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
 ---
 

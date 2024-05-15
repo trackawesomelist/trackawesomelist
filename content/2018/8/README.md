@@ -55,25 +55,25 @@
 
 ### Models/Projects
 
-*   [SRGAN (⭐2.9k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-*   [Seq2seq-Chatbot (⭐822)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐310)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐574)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
-*   [im2im (⭐71)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
-*   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐159)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
-*   [Policy Gradient (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
-*   [Deep Q-Network (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
-*   [AC (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
-*   [A3C (⭐7.1k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐66)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐400)](https://github.com/ugo-nama-kun/gym_torcs)
-*   [TRPO (⭐44)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐448)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [SRGAN (⭐3.2k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [Seq2seq-Chatbot (⭐837)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
+*   [DCGAN (⭐332)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐592)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [im2im (⭐73)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
+*   [Improved CycleGAN (⭐90)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
+*   [DAGAN (⭐173)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [Policy Gradient (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
+*   [Deep Q-Network (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
+*   [AC (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
+*   [A3C (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
+*   [DAGGER (⭐70)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐411)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [TRPO (⭐43)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
+*   [U-Net (⭐484)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐35)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
-*   [TensorLayer (⭐7.1k)](https://github.com/tensorlayer/tensorlayer) - Deep learning and reinforcement learning library for researchers and engineers
+*   [TensorLayer (⭐7.3k)](https://github.com/tensorlayer/tensorlayer) - Deep learning and reinforcement learning library for researchers and engineers
 
 ### Papers
 
@@ -130,7 +130,7 @@
 
 ### Git Tools
 
-*   [GitRead.Net (⭐16)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
+*   [GitRead.Net (⭐17)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
 
 ## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -563,13 +563,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tour (⭐2.3k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+*   [vue-tour (⭐2.4k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 ## [28. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
-*   [Sawmill (⭐109)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
+*   [Sawmill (⭐110)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
 ## [29. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
@@ -581,7 +581,7 @@
 
 ### Table of Contents / Strings
 
-*   [Device Detector (⭐2.6k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Device Detector (⭐2.7k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 
 ### Configuration / PHP Websites
 
@@ -625,7 +625,7 @@
 
 *   [elm-boilerplate (⭐3)](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
 *   [elm-init (⭐11)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
-*   [elm-new (⭐82)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
+*   [elm-new (⭐81)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 
 ## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -657,11 +657,11 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐284)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐285)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
-*   [jason (⭐1.5k)](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
+*   [jason (⭐1.6k)](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
 
 ### Networking
 
@@ -669,7 +669,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_facade (⭐70)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
+*   [ecto\_facade (⭐69)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
 ## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -725,7 +725,7 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
+    *   [kkawakam/rustyline (⭐1.5k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality
     *   [murarth/linefeed (⭐183)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
     *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — command line editing library
@@ -734,7 +734,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Hacker101 (⭐13k)](https://github.com/Hacker0x01/hacker101)
+- Repository: [Hacker101 (⭐14k)](https://github.com/Hacker0x01/hacker101)
 
   Description: A free class for web security by HackerOne
 
@@ -762,7 +762,7 @@
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐763)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐848)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
 ## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -782,7 +782,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐174)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐175)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

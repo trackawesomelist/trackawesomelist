@@ -34,20 +34,20 @@
 
 ### Learn
 
-*   [Haskell to Elm (⭐68)](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
+*   [Haskell to Elm (⭐67)](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐762)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
-*   [Fabulous (⭐1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+*   [Elmish (⭐809)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Fabulous (⭐1.1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games
 
-*   [iOS (⭐160)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
-*   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-*   [elm-serverless (⭐170)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+*   [iOS (⭐159)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+*   [elmish-wasm (⭐18)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+*   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
 ## [6. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

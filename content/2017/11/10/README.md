@@ -35,7 +35,7 @@ Topics: React, JavaScript\
 
 ### Algebra / Linear Algebra
 
-*   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
+*   📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

@@ -16,8 +16,8 @@
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.7k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [BitcoinJS (⭐5.5k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.9k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 *   [Cytoscape.js (⭐9.7k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 *   [isomorphic-git (⭐7.2k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
@@ -30,15 +30,15 @@
 
 ### Packages / Functional programming
 
-*   [Ramda (⭐23k)](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
+*   [Ramda (⭐24k)](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 *   [Mout (⭐1.3k)](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 
 ### Packages / Command-line utilities
 
 *   [yargs (⭐11k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 *   [get-stdin (⭐333)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-*   [Ink (⭐25k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐603)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [Ink (⭐26k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+*   [terminal-link (⭐607)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
 *   [terminal-image (⭐948)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐19k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐98)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
@@ -60,11 +60,11 @@
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐597)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [delay (⭐599)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐58)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
     *   [p-map (⭐1.2k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-    *   [More… (⭐4.5k)](https://github.com/sindresorhus/promise-fun)
+    *   [More… (⭐4.6k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
@@ -101,7 +101,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐4.2k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐59k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐60k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -109,7 +109,7 @@
 
 ### Packages / Blogging
 
-*   [Ghost (⭐45k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
+*   [Ghost (⭐46k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
 *   [Hexo (⭐38k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Packages / Miscellaneous
@@ -198,13 +198,13 @@
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐626)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐637)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Databases
 
-*   [razi (⭐32)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+*   [razi (⭐37)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

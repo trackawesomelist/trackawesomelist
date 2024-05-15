@@ -10,13 +10,13 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐256)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐263)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [cl-mock (⭐17)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
+*   [cl-mock (⭐18)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐649)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐685)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

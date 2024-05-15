@@ -29,32 +29,19 @@
 
 *   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Books / Testing
 
-*   [**{{** add\_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+*   [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
 
-### Webpack / Components
+### Security / Node Based
 
-*   [Official web page](https://webpack.js.org)
-*   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
-
-### Books / Components
-
-*   [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
-
-### TypeScript Seed Projects / Components
-
-*   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
-
-### Security / Components
-
-*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+*   [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
-*   [LetterAvatarKit (⭐218)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
+*   [LetterAvatarKit (⭐219)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 
 ### Localization / Barcode
 

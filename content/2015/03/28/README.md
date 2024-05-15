@@ -31,7 +31,7 @@
 ### Differencing
 
 *   [JSON-Patch (⭐1.7k)](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
-*   [jiff (⭐604)](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
+*   [jiff (⭐614)](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
 *   [json-patch-php (⭐111)](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
 
 ### Format Extensions
@@ -46,12 +46,12 @@
 
 ### Libraries
 
-*   [ArduinoJson (⭐6.5k)](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
-*   [JSON++ (⭐40)](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
+*   [ArduinoJson (⭐6.6k)](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
+*   [JSON++ (⭐41)](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
 *   [json11 (⭐2.5k)](https://github.com/dropbox/json11) - A tiny library for C++11.
 *   [data.json](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 *   [Fast JSON Processor (⭐26k)](https://github.com/alibaba/fastjson)
-*   [JSON-js (⭐8.6k)](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
+*   [JSON-js (⭐8.7k)](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
 *   [Webmozart JSON (⭐357)](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 *   [simplejson (⭐1.6k)](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
 *   [jsonpickle](http://jsonpickle.github.io/) - Library for serializing any arbitrary object graph.
@@ -81,8 +81,8 @@
 ### Testing
 
 *   [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
-*   [JSONassert (⭐960)](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
-*   [JsonUnit (⭐847)](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
+*   [JSONassert (⭐963)](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
+*   [JsonUnit (⭐854)](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 
 ### Text Editor Plugins
 
@@ -90,15 +90,15 @@
 
 ### Transformations
 
-*   [trans (⭐177)](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
-*   [osmtogeojson (⭐661)](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
-*   [JSONC (⭐645)](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
+*   [trans (⭐178)](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
+*   [osmtogeojson (⭐669)](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
+*   [JSONC (⭐646)](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
 *   [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 *   [JSONtoFoundation (⭐42)](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 
 ### Queries
 
-*   [JSON Mask (⭐859)](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
+*   [JSON Mask (⭐862)](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 
 ### JSON Schema Tools
 
@@ -106,11 +106,11 @@
 
 ### JSON Schema Validators
 
-*   [json-schema-benchmark (⭐380)](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
-*   [is-my-json-valid (⭐955)](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
+*   [json-schema-benchmark (⭐384)](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
+*   [is-my-json-valid (⭐957)](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
 *   [jsen (⭐156)](https://github.com/bugventure/jsen) - A validator built for speed.
 *   [themis (⭐60)](https://github.com/playlyfe/themis) - A blazing fast validator.
-*   [jsck (⭐158)](https://github.com/pandastrike/jsck) - JSON Schema Compiled checK.
+*   [jsck (⭐159)](https://github.com/pandastrike/jsck) - JSON Schema Compiled checK.
 *   [z-schema (⭐338)](https://github.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
 *   [jjv (⭐196)](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 *   [request-validator (⭐0)](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.

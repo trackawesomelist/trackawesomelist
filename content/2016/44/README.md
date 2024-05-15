@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [Jot (⭐591)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐604)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [3. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐966)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐973)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
@@ -95,7 +95,7 @@
 *   [Neural Style (⭐3.1k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 *   [Pretty Tensor (⭐1.2k)](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 *   [Neural Style (⭐5.5k)](https://github.com/anishathalye/neural-style) - An implementation of neural style
-*   [NeuralArt (⭐496)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+*   [NeuralArt (⭐493)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 
 ### Libraries
 
@@ -148,78 +148,16 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 ### Community
 
 *   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [AngularJS on Google+](https://plus.google.com/+AngularJS)
 *   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 *   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Deborah Kurata](https://twitter.com/deborahkurata)
 
-### Series / Components
-
-*   Auth0
-    *   Angular
-        *   [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
-        *   [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
-        *   [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
-        *   [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
-
-### Video Tutorials / Components
-
-*   [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-*   [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-
-### On-Site Training / Components
+### On-Site Training / Testing
 
 *   [Angular Boot Camp](https://angularbootcamp.com)
-
-### Approach and Explanation / Components
-
-*   Victor Savkin
-
-    *   [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
-    *   [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
-    *   [Angular Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
-    *   [The Core Concepts of Angular 2](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04)
-    *   [Two Phases of Angular 2 Applications](https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be)
-    *   [Change Detection in Angular 2](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
-    *   [Better Support For Functional Programming In](https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in)
-    *   [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
-    *   [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
-
-### Integrations / Components
-
-*   [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU\&feature=youtu.be)
-
-### TypeScript Seed Projects / Components
-
-*   [Reaper (⭐10)](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
-
-### Angular 2 in Cordova / Components
-
-*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
-*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
-
-### Babel Seed Projects / Components
-
-*   [angular2-es6-starter (⭐488)](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
-
-### Babel Demo, Samples, and Examples / Components
-
-*   [angular2-es6-todomvc (⭐130)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
-
-### Meteor General Resources / Components
-
-*   [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
-
-### NativeScript Seed Projects / Components
-
-*   [angular2-seed-advanced (⭐2.3k)](https://github.com/NathanWalker/angular-seed-advanced)
-
-### Security / Components
-
-*   [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -347,7 +285,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Applications
 
-*   [Fractalide (⭐847)](https://github.com/fractalide/fractalide) — Simple microservices
+*   [Fractalide (⭐854)](https://github.com/fractalide/fractalide) — Simple microservices
 
 ## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -372,7 +310,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Open Source / Other
 
-*   [Extraterm (⭐2.4k)](https://github.com/sedwards2009/extraterm) - Terminal.
+*   [Extraterm (⭐2.5k)](https://github.com/sedwards2009/extraterm) - Terminal.
 
 ### Closed Source / Other
 
@@ -385,7 +323,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Using Electron / Other
 
-*   [electron-mocha (⭐343)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
+*   [electron-mocha (⭐345)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 
 ### Components / Other
 
@@ -423,12 +361,12 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [CoreStore (⭐3.9k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐17)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [Graph (⭐871)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### Gesture
 
-*   [SwipyCell (⭐251)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐252)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ### UI / Barcode
 
@@ -491,7 +429,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 ### Traffic Analysis/Inspection
 
 *   [Suricata](https://suricata-ids.org): Suricata is a free and open source, mature, fast and robust network threat detection engine.  The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing.
-*   [Tcptrace (⭐68)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
+*   [Tcptrace (⭐75)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
 
 ## [42. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -503,7 +441,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Contents / High-Availability
 
-*   [BDR (⭐355)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐357)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -589,7 +527,7 @@ git blame -L <start>,<end>
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐587)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐602)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Instrumenting / Monitoring
 
@@ -597,7 +535,7 @@ git blame -L <start>,<end>
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐95)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐96)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ### Third Party APIs
 

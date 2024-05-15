@@ -37,7 +37,7 @@
 
 ### Other / Other Resources
 
-*   [Forensics (⭐2.2k)](https://github.com/Cugu/awesome-forensics)
+*   [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics)
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

@@ -2,7 +2,7 @@
 
 Convenience shortname repository for asdf community plugins
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/asdf-vm/asdf-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) · ⭐ 1K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/asdf-vm/asdf-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) · ⭐ 1.1K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/asdf-vm/asdf-plugins/week/README.md) / [Overview](/content/asdf-vm/asdf-plugins/readme/README.md) ]
 
@@ -21,13 +21,13 @@ Convenience shortname repository for asdf community plugins
 
 ### Creating a new Plugin
 
-*   Read the [creating plugins guide (⭐19k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+*   Read the [creating plugins guide (⭐20k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
 
 ## [Jul 16, 2021](/content/2021/07/16/README.md)
 
 ### Creating a new Plugin
 
-*   Consider using our [Template (⭐93)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+*   Consider using our [Template (⭐98)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
 
 ### Contributing a new Plugin / `asdf-community`
 

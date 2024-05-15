@@ -29,7 +29,7 @@
 ### Web Development
 
 *   **Tools**:
-    *   [COW (⭐106)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
+    *   [COW (⭐107)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
         has many relevant web libraries —
         [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
@@ -51,12 +51,12 @@
     *   [Syndic (⭐34)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
     *   [ocaml-mustache (⭐80)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
     *   [atdjs (⭐9)](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js\_of\_ocaml.
-    *   [jingoo (⭐115)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+    *   [jingoo (⭐118)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
     *   [dispatch (⭐47)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-    *   [Lambda Soup (⭐371)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+    *   [Lambda Soup (⭐375)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     *   [Markup.ml (⭐146)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
     *   [gen\_js\_api (⭐177)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-    *   [routes (⭐136)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+    *   [routes (⭐138)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -95,10 +95,6 @@
 ### Getting Started
 
 *   [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
-
-### Best Practices
-
-*   [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
 
 ### Trainings & Courses / Utilities
 

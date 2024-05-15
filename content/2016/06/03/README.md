@@ -99,7 +99,7 @@
 
 ### Powered by TensorFlow
 
-*   [Magenta (⭐18k)](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
+*   [Magenta (⭐19k)](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 ## [10. Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md)
 

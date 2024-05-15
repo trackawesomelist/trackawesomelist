@@ -30,7 +30,7 @@
 
 ### Algebra / Abstract Algebra
 
-*   [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
+*   📝 [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 
 ## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -50,7 +50,7 @@
 ### Community Extensions
 
 *   [CAS Protocol Support (⭐66)](https://github.com/Doccrazy/keycloak-protocol-cas)
-*   [WS-FED Support (⭐36)](https://github.com/cloudtrust/keycloak-wsfed)
+*   [WS-FED Support (⭐37)](https://github.com/cloudtrust/keycloak-wsfed)
 
 ### Integrations
 
@@ -58,8 +58,8 @@
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐589)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐589)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐599)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐599)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

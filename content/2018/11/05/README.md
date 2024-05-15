@@ -28,8 +28,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.5k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐356)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.6k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐355)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -46,7 +46,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -86,20 +86,20 @@
 
 ### IoC
 
-*   [DryIoc (⭐942)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐966)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Advanced datastructures
 
-*   [Persistent AVL trees (⭐122)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+*   [Persistent AVL trees (⭐124)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
 *   [Finger Tree (⭐213)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
 *   [Hitchhiker Tree (⭐1.2k)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
 *   [Hierarchical set (⭐7)](https://github.com/llasram/hier-set)
-*   [Ordered (⭐248)](https://github.com/amalloy/ordered): ordered sets and maps
+*   [Ordered (⭐255)](https://github.com/amalloy/ordered): ordered sets and maps
 *   [Lazy Map (⭐48)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-*   [Durable Queue (⭐379)](https://github.com/Factual/durable-queue): queue persisted on disk
-*   [bifurcan (⭐953)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐953)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+*   [Durable Queue (⭐381)](https://github.com/Factual/durable-queue): queue persisted on disk
+*   [bifurcan (⭐957)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐957)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
 
 ---
 

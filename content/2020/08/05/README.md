@@ -16,7 +16,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐65)](https://github.com/dgroup/lazylead)) `MIT` `Ruby/Docker`
+*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐68)](https://github.com/dgroup/lazylead)) `MIT` `Ruby/Docker`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-rough (⭐25)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
+*   [vue-rough (⭐27)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

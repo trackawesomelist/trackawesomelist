@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 24, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,13 +20,7 @@
 *   [gs-collections (⭐1.8k)](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 *   [transducers-java (⭐117)](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Universal Seed Projects / Components
-
-*   [universal-starter (⭐2k)](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-
-## [4. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### iBeacon for Developers
 
@@ -36,13 +30,13 @@
 
 *   [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐522)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 

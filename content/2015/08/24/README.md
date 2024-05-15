@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,7 @@
 
 *   [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 
-## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
-
-## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Tools
 
@@ -49,21 +43,21 @@
 *   [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 *   [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Testing
 
 *   Mock
     *   [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    *   [freezegun (⭐3.9k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    *   [httmock (⭐462)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    *   [freezegun (⭐4k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    *   [httmock (⭐463)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
     *   [httpretty (⭐2.1k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐270)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [mocket (⭐272)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
     *   [responses (⭐4k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.6k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
-## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 

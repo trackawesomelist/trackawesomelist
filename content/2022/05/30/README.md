@@ -32,13 +32,13 @@
 
 ### Error Handling
 
-*   [exception (⭐27)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
+*   [exception (⭐28)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐1.1k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.2k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -103,7 +103,7 @@
 
 ### UI
 
-*   [Slicy (⭐9)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
+*   [Slicy (⭐10)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 
 ---
 

@@ -30,7 +30,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐871)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐880)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐16k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐17k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Machine Learning
 
-*   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+*   [MindsDB (⭐21k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 
 ### Miscellaneous
 
@@ -84,7 +84,7 @@
 
 ### Games & Comics
 
-- API: [GW2Spidy (⭐232)](https://github.com/rubensayshi/gw2spidy/wiki)
+- API: [GW2Spidy (⭐231)](https://github.com/rubensayshi/gw2spidy/wiki)
 
   Description: GW2Spidy API, Items data on the Guild Wars 2 Trade Market
 

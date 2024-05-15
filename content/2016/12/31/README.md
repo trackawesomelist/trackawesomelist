@@ -10,7 +10,7 @@
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐624)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐649)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [2. Colorful](/content/Siddharth11/Colorful/README.md)
 

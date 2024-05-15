@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05 - Oct 11, 2020
 
-108 awesome lists updated this week.
+107 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,7 +51,7 @@
 
 ### ORM / Database / Datamapping
 
-*   🍰 [Itosho/EasyQuery plugin (⭐25)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
+*   🍰 [Itosho/EasyQuery plugin (⭐26)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -96,7 +96,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.5k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.6k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [10. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
@@ -154,7 +154,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [angr](https://angr.io/) - Platform-agnostic binary analysis framework.
-*   [Detect It Easy(DiE) (⭐6.2k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [Detect It Easy(DiE) (⭐6.5k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ### Steganography Tools / Social Engineering Tools
 
@@ -221,11 +221,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Web
 
-*   [apollographql/apollo-android (⭐3.6k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
+*   [apollographql/apollo-android (⭐3.7k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐711)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐727)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -234,7 +234,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐447)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐448)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
 *   [marcoferrer/kroto-plus (⭐493)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
@@ -255,18 +255,18 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Tools
 
-*   [Vorlonsoft/EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle Script plugin to generate documentation by Dokka for Kotlin and Java, Android and non-Android projects.
-*   [Vorlonsoft/GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle Script plugin to upload Gradle Android/Kotlin/Java Artifacts to Maven repositories (JCenter, Maven Central, ...).
+*   [Vorlonsoft/EasyDokkaPlugin (⭐14)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle Script plugin to generate documentation by Dokka for Kotlin and Java, Android and non-Android projects.
+*   [Vorlonsoft/GradleMavenPush (⭐22)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle Script plugin to upload Gradle Android/Kotlin/Java Artifacts to Maven repositories (JCenter, Maven Central, ...).
 *   [kohesive/keplin (⭐25)](https://github.com/kohesive/keplin) - Secure Kotlin scripting and binary lambda-scripts.
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [aafanasev/sekret (⭐108)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐151)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [aafanasev/sekret (⭐110)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
+*   [AhmedMourad0/no-copy (⭐154)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐476)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐477)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
@@ -291,19 +291,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Extensions
 
 *   [hankdavidson/ktime (⭐26)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
-*   [LukasForst/katlib (⭐80)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
+*   [LukasForst/katlib (⭐82)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐50)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.5k)](https://github.com/SaschaWillems/Vulkan)
+*   [java-opengl-labs/Vulkan (⭐48)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.8k)](https://github.com/SaschaWillems/Vulkan)
 *   [nwillc/ksvg (⭐78)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐202)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [markaren/three.kt (⭐203)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐504)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
+*   [breandan/kotlingrad (⭐509)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -319,7 +319,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Projects / Misc
 
 *   [sureshg/InstallCerts (⭐15)](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
-*   [vicboma1/GameBoyEmulatorEnvironment (⭐20)](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
+*   [vicboma1/GameBoyEmulatorEnvironment (⭐21)](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
 *   [jenkinsci/doktor-plugin (⭐22)](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
 
 ### Kotlin JavaScript / Frontend
@@ -333,7 +333,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐623)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐628)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
 ## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -612,19 +612,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Foundations of Mathematics / Type Theory
 
-*   [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
+*   📝 [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
 
 ### Algebra / Analytic Number Theory
 
-*   [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
+*   📝 [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Analysis / Real Analysis
 
-*   [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
+*   📝 [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
 ### Analysis / Harmonic Analysis
 
-*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
+*   📝 [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
 ## [36. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -668,13 +668,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Plugins & Libraries
 
-*   [flame\_texturepacker (⭐21)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+*   [flame\_texturepacker (⭐22)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
 ## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Calendars
 
-*   [vdirsyncer (⭐1.3k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+*   [vdirsyncer (⭐1.5k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## [41. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -766,7 +766,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Logging / Barcode
 
-*   [HeliumLogger (⭐176)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
+*   [HeliumLogger (⭐175)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 
 ### Network / Barcode
 
@@ -787,8 +787,8 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Cryptography / Barcode
 
-*   [BlueCryptor (⭐187)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
-*   [BlueRSA (⭐129)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
+*   [BlueCryptor (⭐189)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
+*   [BlueRSA (⭐128)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 
 ### System / Barcode
 
@@ -798,11 +798,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐956)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐963)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐488)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐501)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -891,7 +891,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### C / General-Purpose Machine Learning
 
-*   [cONNXr (⭐171)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+*   [cONNXr (⭐173)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 ### C / Computer Vision
 
@@ -899,7 +899,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐396)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐402)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### C++ / General-Purpose Machine Learning
 
@@ -909,7 +909,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Python / Natural Language Processing
 
 *   [colibri-core (⭐122)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-*   [genius (⭐237)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
+*   [genius (⭐235)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
 *   [python-zpar (⭐48)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
 *   [DeepPavlov (⭐6.5k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
@@ -945,7 +945,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MLPNeuralNet (⭐895)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
+*   [MLPNeuralNet (⭐896)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
 *   [BPN-NeuralNetwork (⭐33)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
 *   [Multi-Perceptron-NeuralNetwork (⭐24)](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - It implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers.
 *   [KRHebbian-Algorithm (⭐12)](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisory and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. **\[Deprecated]**
@@ -953,24 +953,24 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Python / Computer Vision
 
-*   [face\_recognition (⭐51k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
+*   [face\_recognition (⭐52k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
 *   [imutils (⭐4.5k)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 
 ### Python / General-Purpose Machine Learning
 
 *   [ML Model building (⭐22)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
-*   [steppy (⭐136)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
-*   [SimpleAI (⭐950)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
+*   [steppy (⭐135)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
+*   [SimpleAI (⭐953)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 *   [neuropredict (⭐99)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 *   [imbalanced-learn](https://imbalanced-learn.org/stable/) - Python module to perform under sampling and oversampling with various techniques.
 *   [stacked\_generalization (⭐117)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
-*   [PyGrid (⭐611)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐610)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ### Python / Data Analysis / Data Visualization
 
 *   [DataVisualization (⭐35)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Mars (⭐2.7k)](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
-*   [pastalog (⭐417)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐416)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### R / General-Purpose Machine Learning
 
@@ -979,7 +979,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Tools / Misc
 
-*   [Sacred (⭐4.1k)](https://github.com/IDSIA/sacred) - Python tool to help  you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
+*   [Sacred (⭐4.2k)](https://github.com/IDSIA/sacred) - Python tool to help  you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
 *   [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
 
 ## [55. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
@@ -1159,11 +1159,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.9k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
+*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐3k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
 
 ### Software / File Transfer & Synchronization
 
-*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐11k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
+*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐12k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 
 ### Software / Miscellaneous
 
@@ -1171,15 +1171,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Software / Resource Planning
 
-*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4.8k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
+*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4.9k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
 
 ### Software / Search Engines
 
-*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐17k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++/Docker/K8S/deb`
-
-### Software / Ticketing
-
-*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Source Code (⭐3.4k)](https://github.com/erxes/erxes)) `GPL-3.0` `Docker`
+*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐18k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++/Docker/K8S/deb`
 
 ## [60. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -1202,11 +1198,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐643)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐668)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 
-*   [djangox (⭐1.9k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [djangox (⭐2k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 
 ## [62. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -1297,7 +1293,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Top / Game Engine resources
 
-*   [Fwitter (⭐3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [Fwitter (⭐3.6k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 
 ## [70. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
@@ -1399,17 +1395,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [DevSecOps Hub](https://snyk.io/devsecops/) - *Snyk* - Introduction to key DevSecOps concepts, processes and technologies.
 
-### Infrastructure as Code Analysis / Containers
-
-*   [Anchore Engine](https://anchore.com/opensource/) - *Anchore, Inc* - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
-
 ### Secrets Management / Ansible
 
-*   [Gopass (⭐5.5k)](https://github.com/gopasspw/gopass) - *Gopass* - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
+*   [Gopass (⭐5.7k)](https://github.com/gopasspw/gopass) - *Gopass* - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 
 ### Static Analysis / Multi-Language Support
 
-*   [Hawkeye (⭐358)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
+*   [Hawkeye (⭐359)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 
 ## [78. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -1417,7 +1409,134 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [BioJava](https://biojava.org/) - Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
-## [79. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [79. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [AngularAir](https://angularair.com/) podcast and live broadcast.
+*   [Angular Expo](https://angularexpo.com/) showcase.
+
+### Books / Testing
+
+*   [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) - `Packt Publishing`
+
+### Calendars / Testing
+
+*   [angular-calendar (⭐2.7k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
+*   [ng-fullcalendar (⭐1k)](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular.
+
+### Charts / Testing
+
+*   [ng2-charts (⭐2.3k)](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
+*   [ngx-charts (⭐4.3k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+
+### Drag/Drop / Testing
+
+*   [ng2-dragula (⭐1.9k)](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
+
+### Editor Components / Testing
+
+*   [@ctrl/ngx-codemirror (⭐277)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
+*   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
+*   [angular2-froala-wysiwyg (⭐727)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
+
+### File Upload / Testing
+
+*   [ng2-file-upload (⭐1.9k)](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
+*   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
+*   [ngx-flow (⭐58)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload.
+
+### Form Controls / Testing
+
+*   [ngx-color (⭐431)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+*   [angular-imask (⭐4.8k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
+*   [angular2-multiselect-dropdown (⭐280)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
+*   [ng-select (⭐3.2k)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
+
+### Icons / Testing
+
+*   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
+*   [ng2-fontawesome (⭐21)](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
+
+### Layout Components / Testing
+
+*   [angular-fullpage (⭐173)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
+*   [angular-split (⭐814)](https://github.com/bertrandg/angular-split) - Angular split component.
+*   [egjs-infinitegrid (⭐1.9k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
+*   [ngx-scrolltop (⭐30)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`).
+
+### Loaders / Testing
+
+*   [angular2-promise-buttons (⭐87)](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo.
+*   [ngx-progressbar (⭐989)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+
+### Maps / Testing
+
+*   [angular-cesium (⭐179)](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+*   [ngx-mapbox-gl (⭐340)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
+
+### Notifications / Testing
+
+*   [ngx-toastr (⭐2.5k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
+
+### State Management / Testing
+
+*   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
+
+### Tables / Testing
+
+*   [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
+
+### UI Libraries / General
+
+*   [Nebular (⭐8k)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
+*   [NG ZORRO MOBILE (⭐795)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
+*   [NG ZORRO (⭐8.8k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+*   [ngx-ui (⭐700)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+*   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
+
+### UI Libraries / Material Based
+
+*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
+
+### UI Libraries / Bootstrap Based
+
+*   [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) - Material Design
+    for Bootstrap 5 & Angular 17.
+*   [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
+
+### Viewers / Node Based
+
+*   [egjs-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
+*   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
+*   [ngu-carousel (⭐322)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
+
+### Misc Components / Node Based
+
+*   [ngx-countdown (⭐193)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
+*   [xng-breadcrumb (⭐232)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+
+### TypeScript / Node Based
+
+*   [TypeScript](https://www.typescriptlang.org/) - Official Website for TypeScript.
+*   [REPL](https://www.typescriptlang.org/play/) - Official TypeScript REPL that runs entirely in your browser.
+
+### Ionic / Node Based
+
+*   [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework.
+
+### Authentication / Node Based
+
+*   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps.
+*   [casl-angular (⭐5.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.6k)](https://github.com/stalniy/casl) with Angular2+.
+*   [ngx-auth-firebaseui (⭐591)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
+*   [ngx-permissions (⭐922)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+
+### Analytics / Node Based
+
+*   [ng2-adsense (⭐136)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
+
+## [80. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Pastebins
 
@@ -1448,19 +1567,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [OnionScan (⭐2.7k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
-## [80. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [81. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
-*   [Pant (⭐25)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐22k)](https://github.com/youzan/vant).
+*   [Pant (⭐24)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐23k)](https://github.com/youzan/vant).
 
-## [81. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [82. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Principles
 
 *   [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
 
-## [82. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
+## [83. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
 
 ### Apps / Readers
 
@@ -1479,7 +1598,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [zxing (⭐30k)](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
-## [83. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [84. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -1495,7 +1614,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Exploits & Payloads / Development
 
-*   [PayloadsAllTheThings (⭐54k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [PayloadsAllTheThings (⭐57k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ### Operating Systems / Online resources
 
@@ -1505,7 +1624,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [AWS Security](https://www.manning.com/books/aws-security?utm_source=github\&utm_medium=organic\&utm_campaign=book_shields_aws_1_31_20) - This early-access book covers commong AWS security issues and best practices for access policies, data protection, auditing, continuous monitoring, and incident response.
 
-## [84. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [85. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Add-ons / Third Party Add-ons
 
@@ -1515,11 +1634,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [AppDaemon (⭐689)](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 
-## [85. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [86. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
-*   [elasticsearch\_elixir\_bulk\_processor (⭐12)](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
+*   [elasticsearch\_elixir\_bulk\_processor (⭐14)](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 
 ### Testing
 
@@ -1529,7 +1648,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Nova Elixir (⭐9)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 
-## [86. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [87. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -1544,7 +1663,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 *   [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
-## [87. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [88. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Videos / Automation
 
@@ -1554,21 +1673,21 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 
-## [88. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [89. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐994)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐1.1k)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐45)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐49)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐78)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐79)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
-## [89. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [90. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -1582,7 +1701,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
 
-## [90. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [91. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Demos / Program generation and analysis
 
@@ -1592,7 +1711,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 
-## [91. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [92. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -1614,22 +1733,22 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Projects Using Vue.js / Open Source
 
 *   [jsettlers-web (⭐24)](https://github.com/generateui/jsettlers-web) - Popular German board game to build hexes, settlements, cities, roads with earned resources
-*   [Roast (⭐300)](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
-*   [Buefy Shop (⭐258)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
+*   [Roast (⭐299)](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
+*   [Buefy Shop (⭐260)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
 *   [sysmon (⭐117)](https://github.com/Lt0/sysmon) - A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
-*   [eth-vue (⭐242)](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
+*   [eth-vue (⭐243)](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
 *   [Nippon-color (⭐112)](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
 *   [Saleina CMS (⭐27)](https://github.com/saleina/SaleinaCMS) - A static site content management system built with vue using git as a backend.
 *   [Vuido (⭐6.1k)](https://github.com/mimecorg/vuido) - A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
-*   [YouGet (⭐192)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
+*   [YouGet (⭐194)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
 *   [Vue Pug Stylus (⭐43)](https://github.com/wesssel/vue-pug-stylus) - Vue + Pug + Stylus boilerplate 💚 🐶 🖌
-*   [Crypto News (⭐27)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
-*   [Epiboard (⭐325)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
+*   [Crypto News (⭐28)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
+*   [Epiboard (⭐327)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
 *   [zhudyos/duic (⭐293)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
-*   [Vuemmerce (⭐414)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
-*   [Carpoolear (⭐91)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
+*   [Vuemmerce (⭐419)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
+*   [Carpoolear (⭐94)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
 *   [RosterWebApp (⭐19)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
-*   [Eplee (⭐347)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
+*   [Eplee (⭐349)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1638,23 +1757,23 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Projects Using Vue.js / Interactive Experiences
 
-*   [Thing (⭐0)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
+*   [Thing (⭐1)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 
 ### Components & Libraries / UI Components
 
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
 *   [@bananajs/vue3-book-component (⭐6)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 *   [@bananajs/vue2-book-component (⭐2)](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
-*   [vue-image-zoomer (⭐80)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
-*   [vue3-scroll-picker (⭐26)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue-image-zoomer (⭐94)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue3-scroll-picker (⭐29)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-inline-svg (⭐172)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐173)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-cordova (⭐417)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
+*   [vue-cli-plugin-cordova (⭐416)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
 *   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
 *   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
 *   [vue-cli-plugin-element (⭐22)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
@@ -1663,12 +1782,6 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [vue-cli-plugin-clean (⭐19)](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
 *   [vue-cli-plugin-mock (⭐30)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 *   [vue-cli-plugin-ci (⭐10)](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
-
-## [92. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Open Source / Community
-
-*   [TroisJS (⭐4k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ## [93. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
@@ -1740,11 +1853,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐935)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐946)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐129)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐139)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 ### Payments / Bank Accounts
@@ -1782,7 +1895,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Development tools / Services
 
-*   [deps.rs (⭐408)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐412)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [97. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -1899,7 +2012,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Python / Financial Instruments and Pricing
 
-*   [FinancePy (⭐1.8k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐1.9k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [105. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
@@ -1924,345 +2037,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [chip8-multiply (⭐2)](https://github.com/jdeeny/chip8-multiply) - Multiplication routines for CHIP-8, written in Octo.
 
-## [106. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Community
-
-*   [AngularAir](https://angularair.com/) podcast and live broadcast.
-*   [Angular Expo](https://angularexpo.com/) showcase.
-
-### Test / Components
-
-*   [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
-*   [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
-
-### Ahead-of-Time Compilation / Components
-
-*   [Ahead-of-Time Compilation in Angular](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
-*   [Building an Angular Application for Production](https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
-*   [Demystifying Ahead-Of-Time Compilation In Angular 2](https://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
-
-### Series / Components
-
-*   Ionic
-    *   Angular
-        *   [Introduction](https://blog.ionic.io/angular-2-series-introduction/)
-        *   [Components](https://blog.ionic.io/angular-2-series-components/)
-
-### Video Tutorials / Components
-
-*   [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
-*   [Angular Pro Screencast](https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb)
-
-### Books / Components
-
-*   [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) `Packt Publishing`
-
-### On-Site Training / Components
-
-*   [thoughtram](https://thoughtram.io/training.html)
-*   [Angular 2 Workshop](https://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
-*   [Web Age Solutions](https://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
-
-### Approach and Explanation / Components
-
-*   Hristo Georgiev
-
-    *   [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
-*   Helgevold Consulting
-
-    *   [Web Workers in Angular 2.0](https://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
-    *   [Creating a Virtualized Grid](https://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0)
-    *   [Socket.io with Observables](https://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
-    *   [Change Detection](https://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
-
-### Integrations / Components
-
-*   [Angular2-Meteor](https://angular-meteor.com/angular2)
-
-### Site Templates / Components
-
-*   [NG-Dashboard (⭐60)](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light (⭐40)](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](https://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
-
-### Bootstrap Based / Components
-
-*   [fuel-ui (⭐303)](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
-*   [@firebaseui/ng-bootstrap (⭐50)](https://github.com/firebaseui/ng-bootstrap) - Angular Bootstrap UI library for `firebase` `authentication` powered by @ng-bootstrap
-*   [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
-*   [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
-*   [ng2-bootstrap (⭐5.5k)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
-*   [ng2-bs (⭐8)](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
-*   [ng2-modal (⭐107)](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3
-*   [ng2-paginator (⭐30)](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
-*   [ng2-tabs (⭐36)](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
-
-### Generators / Components
-
-*   Dart
-    *   Stagehand
-        *   [dart-lang/stagehand (⭐659)](https://github.com/dart-lang/stagehand)
-
-### Developer tools / Components
-
-*   [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) - Helps you debug Angular component state. Supports Angular 1/2+/Ivy.
-
-### TodoMVC / Components
-
-*   [Official Angular 2.0](http://todomvc.com/examples/angular2/)
-
-### Animations / Components
-
-*   [lottie-angular2 (⭐334)](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
-*   [ng-animate (⭐717)](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
-*   [ngx-interactive-paycard (⭐78)](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
-
-### Auth Components / Components
-
-*   [casl-angular (⭐5.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.2k)](https://github.com/stalniy/casl) with Angular2+
-*   [ng2-permission (⭐52)](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
-*   [ngx-auth-firebaseui (⭐590)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
-*   [ngx-auth (⭐57)](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
-*   [ngx-permissions (⭐905)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
-
-### Backend Components / Components
-
-*   [Cloudinary (⭐307)](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
-*   [ng-s-resource (⭐9)](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-*   [ngx-restangular (⭐782)](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
-
-### Calendars / Components
-
-*   [angular-calendar (⭐2.6k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-*   [ng-data-picker (⭐24)](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
-*   [ng-fullcalendar (⭐1k)](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
-
-### Charts / Components
-
-*   [@ctrl/ngx-chartjs (⭐55)](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
-*   [dl-chart (⭐9)](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
-*   [ng2-charts (⭐2.3k)](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
-*   [ngx-charts (⭐4.2k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
-*   [ngx-f2 (⭐7)](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
-*   [ngx-trend (⭐117)](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
-
-### Drag/Drop / Components
-
-*   [angular2-grid (⭐357)](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
-*   [ng2-dragula (⭐1.9k)](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
-
-### Editor Components / Components
-
-*   [@ctrl/ngx-codemirror (⭐270)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
-*   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor
-*   [angular2-froala-wysiwyg (⭐725)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
-*   [ng2-ace (⭐32)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
-*   [ng2-quill-editor (⭐230)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
-
-### File Upload / Components
-
-*   [@ctrl/ngx-droppable (⭐34)](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
-*   [file-droppa (⭐0)](https://github.com/chenyukunJoshHub/fileDroppa) Simple files drop and upload component with files list
-*   [ng2-file-upload (⭐1.9k)](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
-*   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
-*   [ngx-dropzone (⭐130)](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
-*   [ngx-flow (⭐56)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload
-
-### Form Controls / Components
-
-*   [@ctrl/ngx-emoji-mart (⭐421)](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
-*   [angular-imask (⭐4.5k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
-*   [angular2-multiselect-dropdown (⭐275)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
-*   [angular2-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) Angular 2 input mask directive
-*   [ng-fveh (⭐6)](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
-*   [ng-select (⭐3.2k)](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
-*   [ng2-dropdown (⭐65)](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
-*   [ng2-radio-group (⭐45)](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
-*   [ng2-select (⭐676)](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
-*   [ngx-color (⭐422)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
-*   [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
-*   [ngx-flag-picker (⭐14)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
-*   [ngx-flexible-select (⭐6)](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
-*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
-
-### Icons / Components
-
-*   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-*   [ng2-fontawesome (⭐20)](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
-
-### Keyboard Mouse / Components
-
-*   [@ctrl/ngx-rightclick (⭐81)](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
-*   [angular-clickable-click (⭐5)](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
-*   [angular-esc (⭐3)](https://github.com/DanielKucal/angular-esc) - Adds `(esc)` output fired by the Escape key
-*   [ngx-konami (⭐36)](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
-
-### Layout Components / Components
-
-*   [angular-fullpage (⭐167)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
-*   [angular-split (⭐774)](https://github.com/bertrandg/angular-split) Angular split component
-*   [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
-*   [egjs-infinitegrid (⭐1.7k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
-*   [ng2-card (⭐7)](https://github.com/c-bata/ng2-card) - Card view component for Angular2
-*   [ng2-fullpage (⭐278)](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
-*   [ng2-sheet (⭐2)](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly
-*   [ng2-swipeable-card (⭐15)](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
-*   [ngx-scrolltop (⭐27)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`)
-*   [od-virtualscroll (⭐134)](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
-
-### Loaders / Components
-
-*   [@kken94/ngx-progress (⭐21)](https://github.com/kKen94/ngx-progress)  The most powerful and customizable progress bar for Angular ✨
-*   [angular-epic-spinners (⭐166)](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
-*   [angular2-busy (⭐317)](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
-*   [angular2-promise-buttons (⭐86)](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
-*   [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
-*   [ng-spinners (⭐29)](https://github.com/JoshK2/ng-spinners) - Amazing collection of pure CSS angular spinners components.
-*   [ng2-progress-bar (⭐21)](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
-*   [ngx-config (⭐145)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
-*   [ngx-img-fallback (⭐81)](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
-*   [ngx-progressbar (⭐973)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-
-### Maps / Components
-
-*   [angular-cesium (⭐175)](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
-*   [angular2-google-maps (⭐2k)](https://github.com/SebastianM/angular-google-maps) Angular2 directives for Google Maps
-*   [ngx-mapbox-gl (⭐332)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
-
-### Notifications / Components
-
-*   [ng-snotify (⭐325)](https://github.com/artemsky/ng-snotify/) - Angular 4 Notification Center
-*   [ng2-sweetalert2 (⭐48)](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
-*   [ngx-popper (⭐185)](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(<https://popper.js.org/>)
-*   [ngx-toastr (⭐2.4k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
-
-### State Management / Components
-
-*   [angular2-query-builder (⭐286)](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
-*   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
-*   [angular2-cookie (⭐111)](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
-*   [angular-safeguard (⭐76)](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
-*   [ng2-storage (⭐14)](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
-*   [ngx-store (⭐168)](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
-*   [ng-http-cache (⭐25)](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
-*   [ngx-cache (⭐156)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
-*   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
-
-### Tables / Components
-
-*   [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-*   [ng2-handsontable (⭐277)](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
-*   [ng2-smart-table (⭐1.6k)](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
-*   [ng2-table (⭐560)](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
-*   [ngfb-sortable-table (⭐26)](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
-*   [ngx-datatable (⭐4.6k)](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
-
-### General / Components
-
-*   [@ngx-kit/sula (⭐18)](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
-*   [Axponents: of Accessible Web Components (Dylan Barrell) (⭐19)](https://github.com/dylanb/Axponents/tree/master/angular2)
-*   [Element Angular (⭐527)](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
-*   [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
-*   [Nebular (⭐7.9k)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
-*   [NG ZORRO MOBILE (⭐787)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
-*   [NG ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-*   [ng-lightning (⭐915)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
-*   [ng-metro4 (⭐38)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-*   [ng-sq-ui (⭐98)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
-*   [ngSemantic (⭐980)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
-*   [ngx-qrcode2 (⭐192)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
-*   [ngx-ui (⭐691)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-*   [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
-*   [vmware clarity (⭐6.4k)](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
-*   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
-
-### Material Based / Components
-
-*   [@angular-material-extensions/contacts (⭐44)](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-*   [@angular-material-extensions/faq (⭐29)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-*   [@angular-material-extensions/google-maps-autocomplete (⭐164)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-*   [@angular-material-extensions/link-preview (⭐55)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
-*   [@angular-material-extensions/pages (⭐50)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-*   [@angular-material-extensions/password-strength (⭐276)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
-*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
-*   [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-*   [Material 2 (⭐24k)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-*   [Teradata covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
-
-### UX Components / Components
-
-*   [angular-shepherd (⭐196)](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐12k)](https://github.com/shipshapecode/shepherd)
-*   [ng2-archwizard (⭐301)](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
-*   [ngx-app-tour (⭐20)](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
-
-### Viewers / Components
-
-*   [egjs-flicking (⭐2.5k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
-*   [ng2-pdf-viewer (⭐1.2k)](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
-*   [ng2-safe-img (⭐10)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
-*   [ngu-carousel (⭐311)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
-*   [ngx-siema](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
-
-### Misc Components / Components
-
-*   [@ngx-context (⭐134)](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
-*   [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
-*   [angular2-simple-countdown (⭐27)](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
-*   [ng-chat (⭐154)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
-*   [ng-google-sheets-db (⭐40)](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
-*   [ng-katex (⭐101)](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
-*   [ng-wormhole (⭐18)](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
-*   [ng2-adsense (⭐132)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
-*   [ngx-avatar (⭐239)](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
-*   [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
-*   [ngx-countdown (⭐180)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
-*   [ngx-i18n-router (⭐35)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
-*   [ngx-linkifyjs (⭐41)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
-*   [ngx-meta (⭐334)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-*   [ngx-wheel (⭐27)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
-*   [xng-breadcrumb (⭐214)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
-
-### TypeScript General Resources / Components
-
-*   [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
-*   [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
-
-### TypeScript Seed Projects / Components
-
-*   [Angular Lab (⭐147)](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout (⭐5.9k)](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
-
-### Ionic 2 in Angular 2 / Components
-
-*   [Ionic Framework](https://ionicframework.com) Official Website for Ionic Framework
-*   [Ionic Documentation](https://ionicframework.com/docs/) Official for Ionic Framework
-
-### Babel Angular 2 Online Playground / Components
-
-*   [Plunker: Angular 2 + Babel](https://plnkr.co/edit/PxCzCu?p=preview)
-
-### Babel Seed Projects / Components
-
-*   [babel-angular2-app (⭐261)](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
-
-### Meteor General Resources / Components
-
-*   [Angular Meteor](https://angular-meteor.com/) Official Website for Angular Meteor
-
-### NativeScript General Resources / Components
-
-*   [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
-
-### Haxe General Resources / Components
-
-*   [Haxe.org](https://haxe.org)
-*   [Haxe compiler targets](https://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
-*   [Haxe: working with JavaScript libraries](https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
-*   [A success story for Haxe](https://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
-
-### NgRx / Components
-
-*   [Authentication in Angular with NGRX](https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
-
-## [107. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [106. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
@@ -2273,7 +2048,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
 
-## [108. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [107. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Feature management
 

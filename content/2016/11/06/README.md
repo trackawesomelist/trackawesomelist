@@ -22,7 +22,7 @@
 
 ### Misc
 
-*   [Jot (⭐591)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐604)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 
@@ -30,90 +30,29 @@
 
 *   [redux-ship (⭐615)](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
-## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
+*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
+
+### On-Site Training / Testing
+
+*   [Angular Boot Camp](https://angularbootcamp.com)
+
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Community Resources
 
 *   [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Community
-
-*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [AngularJS on Google+](https://plus.google.com/+AngularJS)
-*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
-
-### Series / Components
-
-*   Auth0
-    *   Angular
-        *   [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
-        *   [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
-        *   [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
-        *   [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
-
-### Video Tutorials / Components
-
-*   [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-
-### On-Site Training / Components
-
-*   [Angular Boot Camp](https://angularbootcamp.com)
-
-### Approach and Explanation / Components
-
-*   Victor Savkin
-
-    *   [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
-    *   [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
-    *   [Angular Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
-    *   [The Core Concepts of Angular 2](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04)
-    *   [Two Phases of Angular 2 Applications](https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be)
-    *   [Change Detection in Angular 2](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
-    *   [Better Support For Functional Programming In](https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in)
-    *   [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
-    *   [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
-
-### Integrations / Components
-
-*   [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU\&feature=youtu.be)
-
-### TypeScript Seed Projects / Components
-
-*   [Reaper (⭐10)](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
-
-### Angular 2 in Cordova / Components
-
-*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
-*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
-
-### Babel Seed Projects / Components
-
-*   [angular2-es6-starter (⭐488)](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
-
-### Babel Demo, Samples, and Examples / Components
-
-*   [angular2-es6-todomvc (⭐130)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
-
-### Meteor General Resources / Components
-
-*   [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
-
-### NativeScript Seed Projects / Components
-
-*   [angular2-seed-advanced (⭐2.3k)](https://github.com/NathanWalker/angular-seed-advanced)
-
-### Security / Components
-
-*   [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
-
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Science
 
-*   [bcbio-nextgen (⭐966)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐973)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 

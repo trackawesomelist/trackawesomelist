@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐150)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐183)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Validation / Playground
 
-*   [computed-types (⭐364)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐366)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -67,11 +67,11 @@
 
 *   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
-### API / Forms
+### Forms / Normal Forms
 
-*   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
+*   [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
 
 ---
 

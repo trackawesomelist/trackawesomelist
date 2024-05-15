@@ -21,10 +21,8 @@
 ### Stub packages
 
 *   [django-stubs (⭐1.4k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐76k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐394)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐40k)](https://github.com/grpc/grpc).
-*   [ordered-set-stubs (⭐2)](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet (⭐204)](https://github.com/LuminosoInsight/ordered-set).
-*   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
+*   [djangorestframework-stubs (⭐397)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐41k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -32,11 +30,11 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐86)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐90)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐613)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐616)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
@@ -58,7 +56,7 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐199k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐203k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -83,7 +81,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [PortEx (⭐413)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
+*   [PortEx (⭐487)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
 
 ## [7. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 

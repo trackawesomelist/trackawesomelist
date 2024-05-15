@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25 - Jul 31, 2016
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,7 +57,7 @@
 
 ### Models/Projects
 
-*   [End-To-End Memory Networks (⭐339)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
+*   [End-To-End Memory Networks (⭐342)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -380,41 +380,25 @@
 *   Dart
     *   [Vert.x Dart SockJS (⭐0)](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Angular Team on twitter
-
-*   [@mhevery](https://twitter.com/mhevery)
-*   [@IgorMinar](https://twitter.com/IgorMinar)
-*   [@naomitraveller](https://twitter.com/naomitraveller)
-
-### Experts on Twitter
-
-*   [@scotups](https://twitter.com/scotups)
-
-### NgRx / Components
-
-*   [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
-
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Scientific Computing
 
-*   [Trilinos (⭐1.1k)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐1.2k)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
-## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐651)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 
-## [31. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Resources
 
 *   [jQuery guide for teams (⭐30)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
-## [32. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [31. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
@@ -430,25 +414,25 @@
 *   [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 *   [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
 *   [IBAnimatable (⭐8.7k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 
-## [34. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [33. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Productivity
 
 *   [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 
-## [35. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [minimongo (⭐332)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+*   [minimongo (⭐334)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
-## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -467,19 +451,19 @@
 
 
 
-## [37. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [38. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [37. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### usage stats
 
 *   **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard\&author=\&from=\&to=)** - npm registry download count
 
-## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
@@ -493,7 +477,7 @@
 
 *   [ezknitr (⭐110)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -505,11 +489,11 @@
 
 ### Game
 
-*   [UrhoSharp (⭐458)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐463)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐153)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐156)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ### ORM
 
@@ -517,9 +501,9 @@
 
 ### Template Engine
 
-*   [Stubble (⭐382)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐390)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
-## [41. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Tutorials
 
@@ -530,7 +514,7 @@
 *   [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 *   [Learning how to ride: an introduction to Cycle.js](https://youtu.be/31URmaeNHSs) - by Fernando Macias Pereznieto at [JS Monthly London](http://www.meetup.com/js-monthly-london/)
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -547,11 +531,11 @@
 
 ### Examples and funny stuff
 
-*   [stranger (⭐65)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
-*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
+*   [graphql\_parser (⭐20)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_fprof (⭐4)](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
 *   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
@@ -562,18 +546,18 @@
 
 ### HTTP
 
-*   [tesla (⭐1.9k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
+*   [tesla (⭐2k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 
 ### Networking
 
-*   [eio (⭐13)](https://github.com/falood/eio) - Elixir server of engine.io.
+*   [eio (⭐14)](https://github.com/falood/eio) - Elixir server of engine.io.
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.9k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto (⭐6k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐116)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [sql\_dust (⭐118)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 
@@ -603,21 +587,21 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐396)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.8k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐398)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.9k)](https://github.com/rrrene/credo).
 
-## [43. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [42. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### PHP / Symfony2
 
 *   [NelmioApiDocBundle (⭐2.1k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
-## [44. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [43. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Browser
 
 *   [document-ready (⭐59)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
-## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Project Generators
 

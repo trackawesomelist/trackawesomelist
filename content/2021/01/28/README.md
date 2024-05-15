@@ -67,7 +67,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Text / Barcode
 
-*   [TwitterTextEditor (⭐2.9k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
+*   [TwitterTextEditor (⭐3k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,13 +86,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐391)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐397)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
-*   Emacs: [pico8-mode (⭐25)](https://github.com/Kaali/pico8-mode)
+*   Emacs: [pico8-mode (⭐26)](https://github.com/Kaali/pico8-mode)
 
 ## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 

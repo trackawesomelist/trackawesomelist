@@ -22,8 +22,8 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Fileintel (⭐101)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
-*   [Hostintel (⭐234)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
+*   [Fileintel (⭐113)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+*   [Hostintel (⭐258)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Database
 
-*   [Yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
+*   [Yessql (⭐1.2k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 
 ### Misc
 
@@ -174,9 +174,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐375)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐382)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.2k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.1k)](https://github.com/tcdi/pgx)
+*   Rust: [rust-postgresql (⭐3.3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.2k)](https://github.com/tcdi/pgx)
 
 ## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -221,7 +221,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐996)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐1k)](https://github.com/nelson-brochado/understanding-math)
 
 ## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -452,7 +452,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Configuration
 
-*   [confex (⭐296)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐300)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
@@ -464,8 +464,8 @@ Webpage: <http://www.deysbreeker.nl/>
 *   [bottler (⭐39)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐803)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [gatling (⭐498)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [heroku-buildpack-elixir (⭐809)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 

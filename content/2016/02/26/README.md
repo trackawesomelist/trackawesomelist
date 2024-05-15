@@ -31,7 +31,7 @@ git commit --only <file_path>
 
 ### Libraries / Delphi
 
-*   [TMongoWire (⭐100)](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
+*   [TMongoWire (⭐102)](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

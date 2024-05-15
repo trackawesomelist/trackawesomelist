@@ -94,7 +94,7 @@
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐43)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ## [6. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
@@ -124,11 +124,11 @@
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐410)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐414)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐797)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐798)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

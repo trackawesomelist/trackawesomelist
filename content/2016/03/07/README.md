@@ -159,7 +159,7 @@ Webpage: <http://www.tosci.com/>
 
 ### Third Party APIs
 
-*   [sparkpost (⭐45)](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
+*   [sparkpost (⭐44)](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 
 ## [16. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

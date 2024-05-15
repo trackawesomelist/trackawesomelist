@@ -46,13 +46,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7.3k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7.4k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐484)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐487)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4.3k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐647)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -65,7 +65,7 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.8k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐8.9k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [conf (⭐1.2k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 *   [cli-truncate (⭐85)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
@@ -87,7 +87,7 @@
 *   Observables
     *   [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
     *   [observable-to-promise (⭐46)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-    *   [More… (⭐333)](https://github.com/sindresorhus/awesome-observables)
+    *   [More… (⭐332)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -95,7 +95,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐8.2k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐8.3k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -103,7 +103,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐33k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐34k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -113,17 +113,17 @@
 ### Packages / Compression
 
 *   [yazl (⭐317)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐664)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [yauzl (⭐672)](https://github.com/thejoshwolfe/yauzl) - Unzip.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐12k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-    *   [Redis (⭐13k)](https://github.com/luin/ioredis) - Redis client.
+    *   [Redis (⭐14k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐622)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐196)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [couchdb-nano (⭐625)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
     *   [Couchbase (⭐462)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.9k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
@@ -146,11 +146,11 @@
 
 ### Packages / Weird
 
-*   [cows (⭐405)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐406)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐6.2k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐6.3k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5.4k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.7k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.7k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).

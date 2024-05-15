@@ -16,7 +16,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐18k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [3. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 

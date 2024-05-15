@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -61,12 +61,6 @@
 *   [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.\
     ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social\&label=Star)
     [Repo (⭐1.6k)](https://github.com/tylerchilds/cutestrap)
-
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Style Guides / Components
-
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐173)](https://github.com/ng-seed/angular-tslint-rules)
 
 ---
 

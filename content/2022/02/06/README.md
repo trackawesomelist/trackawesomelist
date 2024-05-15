@@ -16,20 +16,20 @@
 
 ### Libraries / General Purpose
 
-*   [CGRtools (⭐26)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
+*   [CGRtools (⭐38)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 
 ## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐311)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
-*   [SnmpSharpNet (⭐59)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+*   [sharpSNMP (⭐341)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+*   [SnmpSharpNet (⭐78)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
 
 *   [joeSNMP](https://sourceforge.net/projects/joesnmp/) - joeSNMP is an open-source Java SNMP class library published under the LGPL.
 *   [Westhawk's SNMP](https://snmp.westhawk.co.uk/) - An open-sourced Java library that can be used for SNMP v1/v2c/v3. Supports traps, authentication and privacy. As authentication protocols it offers MD5 and SHA1.
-*   [mibble (⭐105)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
+*   [mibble (⭐110)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
 
 ### Tools / GUIs
 
@@ -59,8 +59,8 @@
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.5k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐805)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐1.6k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐846)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -80,7 +80,7 @@
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Democratization of Science
+### Theory of Mind / AI Assisted Research
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
@@ -88,7 +88,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐391)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐397)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

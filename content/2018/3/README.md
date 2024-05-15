@@ -29,7 +29,7 @@
 
 ### Libraries
 
-*   [jsoniter-scala (⭐698)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
+*   [jsoniter-scala (⭐707)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐31)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐37)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -277,18 +277,18 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐107)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐694)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐110)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐731)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
-*   [GroupWork (⭐41)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
+*   [GroupWork (⭐42)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 
 ### Gesture
 
-*   [ShowTime (⭐493)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐505)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -298,7 +298,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐809)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐811)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -308,11 +308,11 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐82)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐84)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
-*   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+*   [puppet-mongodb (⭐93)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -332,14 +332,14 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐146)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐150)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐85)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
@@ -362,7 +362,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐3.1k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐3.3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ## [30. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -511,11 +511,11 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐313)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐325)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
-*   [magnum (⭐4.6k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.7k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
 ## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -529,7 +529,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐204)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐210)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -540,7 +540,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐705)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
+*   [vue-datepicker (⭐703)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
 *   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
 *   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
 

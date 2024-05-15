@@ -16,13 +16,13 @@
 
 ### Example Projects
 
-*   [Custom User Storage Provider .ear with jboss-cli setup (⭐91)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*   [Custom User Storage Provider .ear with jboss-cli setup (⭐92)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [Argh! (⭐1.2k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
+*   [Argh! (⭐1.3k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐351)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

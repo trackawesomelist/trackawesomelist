@@ -63,13 +63,13 @@
 
 ### Web Framework
 
-*   [Compojure (⭐4k)](https://github.com/weavejester/compojure)
+*   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
-*   [Effective Tensorflow (⭐8.7k)](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
+*   [Effective Tensorflow (⭐8.6k)](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 
 ## [6. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
@@ -83,32 +83,19 @@
 
 *   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Books / Testing
 
-*   [**{{** add\_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+*   [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
 
-### Webpack / Components
+### Security / Node Based
 
-*   [Official web page](https://webpack.js.org)
-*   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
-
-### Books / Components
-
-*   [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
-
-### TypeScript Seed Projects / Components
-
-*   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
-
-### Security / Components
-
-*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+*   [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
-*   [LetterAvatarKit (⭐218)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
+*   [LetterAvatarKit (⭐219)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 
 ### Localization / Barcode
 
@@ -231,7 +218,7 @@
 
 ### View helpers
 
-*   [auto\_html (⭐786)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
+*   [auto\_html (⭐787)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
 ## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -261,7 +248,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐67)](https://github.com/melisgl/mgl-mat) and [LLA (⭐88)](https://github.com/tpapp/lla).
+*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐69)](https://github.com/melisgl/mgl-mat) and [LLA (⭐89)](https://github.com/tpapp/lla).
 
 ## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -290,7 +277,7 @@
 
 ### Application Frameworks
 
-*   [AspectCore Framework (⭐1.6k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
+*   [AspectCore Framework (⭐1.7k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 
 ## [30. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
@@ -316,13 +303,13 @@
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐889)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐886)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
 ## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐928)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐930)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 ## [34. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -412,18 +399,18 @@
 ### Frameworks
 
 *   [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. \[LGPL]
-*   [tbox (⭐4.6k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
+*   [tbox (⭐4.7k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 
 ### Concurrency
 
 *   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
-*   [concurrentqueue (⭐8.6k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [concurrentqueue (⭐8.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [cupla (⭐4)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
-*   [readerwriterqueue (⭐3.4k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐3.5k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
-*   [Yue (⭐3.2k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
+*   [Yue (⭐3.3k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
 
 ### Graphics
 
@@ -436,11 +423,11 @@
 
 ### Scripting
 
-*   [ctypes.sh (⭐1.9k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
+*   [ctypes.sh (⭐2k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐717)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐724)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

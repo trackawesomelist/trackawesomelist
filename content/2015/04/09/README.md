@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### JavaScript / Misc
 
-*   [regression-js (⭐927)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐930)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -59,16 +59,6 @@ RewriteRule ^ %1 [R=301,L]
 ### Resources / Scriptable by Lua
 
 *   [KoReader (⭐12k)](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
-
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Datasets
-
-*   [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
-
-### Transformations
-
-*   [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 
 ---
 

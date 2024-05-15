@@ -44,7 +44,7 @@
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.9k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐4k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Debugging
 
-*   [rexbug (⭐237)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐239)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -66,7 +66,7 @@
 
 ### Framework Components
 
-*   [plug\_checkup (⭐72)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
+*   [plug\_checkup (⭐73)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
 
 ### Miscellaneous
 
@@ -79,7 +79,7 @@
 ### Templating
 
 *   [calliope (⭐196)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐359)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [slime (⭐364)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
@@ -87,7 +87,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐475)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐476)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -95,7 +95,7 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐221)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐222)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 

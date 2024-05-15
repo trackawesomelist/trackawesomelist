@@ -16,7 +16,7 @@
 
 ### Ask these people anything!
 
-*   [Zeno Rocha (⭐71)](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+*   [Zeno Rocha (⭐71)](https://github.com/zenorocha/ama) - Developer Advocate at Liferay.
 
 ## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐205)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐204)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -83,7 +83,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐206k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐207k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -92,7 +92,7 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐206k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐207k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ---
 

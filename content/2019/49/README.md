@@ -264,7 +264,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐183)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐222)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -273,9 +273,9 @@
 *   [VTK](https://vtk.org/) - Process images and create 3D computer graphics.
     (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
 *   [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
-    (Python, BSD, [GitHub (⭐1.1k)](https://github.com/enthought/mayavi))
+    (Python, BSD, [GitHub (⭐1.2k)](https://github.com/enthought/mayavi))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
-    (C++, MIT, [GitHub (⭐1.4k)](https://github.com/nmwsharp/polyscope))
+    (C++, MIT, [GitHub (⭐1.6k)](https://github.com/nmwsharp/polyscope))
 
 ### Community / Mesh tools
 
@@ -285,7 +285,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐733)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐737)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -297,18 +297,18 @@
 
 ### Status Bar
 
-*   [tmux-nordvpn (⭐16)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
+*   [tmux-nordvpn (⭐17)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
 ## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Beautiful\_Popup (⭐608)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+*   [Beautiful\_Popup (⭐660)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1.1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐1.8k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
 ## [20. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.1k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -394,7 +394,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐224)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐231)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -444,7 +444,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐960)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐974)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -466,7 +466,7 @@
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐224)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐227)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Peripheral Access Crates / XMC

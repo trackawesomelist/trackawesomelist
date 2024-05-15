@@ -22,7 +22,7 @@
 
 ### Scheduling
 
-*   [que-scheduler (⭐107)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
+*   [que-scheduler (⭐108)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
 ## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Programming Languages
 
-*   [Python (⭐197k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-    *   [Asyncio (⭐4.3k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+*   [Python (⭐206k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+    *   [Asyncio (⭐4.4k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐590)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-    *   [Data Science (⭐2.2k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-    *   [Typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐1.1k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [CircuitPython (⭐606)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [Data Science (⭐2.4k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+    *   [Typing (⭐1.6k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+    *   [MicroPython (⭐1.2k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
@@ -102,14 +102,14 @@
 
 ### Communications / GPS
 
-*   [mpy-agps (⭐9)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
+*   [mpy-agps (⭐10)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
 
 ### Storage / Database
 
 *   [uPyMySQL (⭐22)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐21)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐9)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
-*   [micropg (⭐20)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
+*   [micropg (⭐23)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 
 ### Community / SRAM
 

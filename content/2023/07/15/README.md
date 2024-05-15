@@ -10,7 +10,7 @@
 
 ### Object to object mapping
 
-*   [Mapperly (⭐2.2k)](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
+*   [Mapperly (⭐2.3k)](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 
 ## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Software / Database Management
 
-*   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐20k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
+*   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐21k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Hyv (⭐17)](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)
+*   [Hyv (⭐20)](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)
 
 ## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -45,10 +45,6 @@
 ### Blockchain
 
 *   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
-
-### Tech / Aggregator
-
-*   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -66,11 +62,11 @@
 
 ### Applications / System tools
 
-*   [GQL (⭐2.9k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
+*   [GQL (⭐3k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
 
 ### Applications / Utilities
 
-*   [rustic-rs/rustic (⭐1.4k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
+*   [rustic-rs/rustic (⭐1.5k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -108,7 +104,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [creativenull/efmls-configs-nvim (⭐239)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/efmls-configs-nvim (⭐251)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 
 ## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

@@ -28,12 +28,12 @@
 
 ### Algorithms and Data structures
 
-*   [combination (⭐31)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [combination (⭐32)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 *   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
 ### Testing
 
-*   [ex\_unit\_fixtures (⭐12)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
+*   [ex\_unit\_fixtures (⭐13)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
 ## [5. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 

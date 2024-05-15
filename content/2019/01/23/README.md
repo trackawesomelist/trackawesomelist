@@ -10,11 +10,11 @@
 
 ### Interoperability
 
-*   [PInvoke Interop Assistant (⭐406)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
+*   [PInvoke Interop Assistant (⭐414)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 
 ### Search
 
-*   [SolrExpress (⭐65)](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
+*   [SolrExpress (⭐66)](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 
 ## [2. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -78,11 +78,11 @@
 ### Projects / Open Source Projects
 
 *   [Newspaper app with custom user model, full user auth (⭐1.1k)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
-*   [Image Sharing Blog (⭐69)](https://github.com/MeNsaaH/soMedia)
+*   [Image Sharing Blog (⭐76)](https://github.com/MeNsaaH/soMedia)
 
 ### Django REST Framework / DRF Resources
 
-*   [DRF Source Code (⭐27k)](https://github.com/encode/django-rest-framework)
+*   [DRF Source Code (⭐28k)](https://github.com/encode/django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 
@@ -112,7 +112,7 @@
 ### Contents / Business
 
 *   [Invoice Ninja (⭐1.5k)](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
-*   [Flutter Jobs App (⭐224)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐224)](https://github.com/Rahiche/flutter_jobs_app).
+*   [Flutter Jobs App (⭐225)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐225)](https://github.com/Rahiche/flutter_jobs_app).
 
 ### Contents / Personalization
 
@@ -120,21 +120,21 @@
 
 ### Contents / Productivity
 
-*   [GSYGithubAppFlutter (⭐14k)](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
+*   [GSYGithubAppFlutter (⭐15k)](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
 
 ### Contents / Tools
 
-*   [Trovami (⭐251)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+*   [Trovami (⭐252)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Contents / Travel
 
-*   [Tourism (⭐300)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
+*   [Tourism (⭐301)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Download Management Tools / Audio Record and Process
 
-*   [youtube-dl (⭐127k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [youtube-dl (⭐129k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

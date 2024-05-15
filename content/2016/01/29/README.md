@@ -335,7 +335,7 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐158)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐160)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

@@ -16,14 +16,14 @@
 
 ### Status Bar
 
-*   [tmux-nordvpn (⭐16)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
+*   [tmux-nordvpn (⭐17)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1.1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐1.8k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
 ## [4. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 

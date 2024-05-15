@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 29 - Mar 06, 2016
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -134,7 +134,7 @@
 
 ### Tutorials
 
-*   [TensorFlow Examples (⭐42k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+*   [TensorFlow Examples (⭐43k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 
 ### Models/Projects
 
@@ -144,7 +144,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.5k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.6k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -280,7 +280,7 @@ git log Branch1 ^Branch2
 
 ### File Extraction
 
-*   [pcapfex (⭐200)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
+*   [pcapfex (⭐208)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -365,7 +365,7 @@ git log Branch1 ^Branch2
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐995)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -401,7 +401,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.6k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.7k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
@@ -421,7 +421,7 @@ git log Branch1 ^Branch2
 ### Packages / Miscellaneous
 
 *   [mem (⭐1.1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐53)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐54)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -488,13 +488,7 @@ git log Branch1 ^Branch2
 *   [neo4j-shell-tools (⭐287)](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell.
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 
-## [40. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
-
-## [41. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [40. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -502,7 +496,7 @@ git log Branch1 ^Branch2
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
-## [42. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [41. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### ViewPager
 
@@ -524,19 +518,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
 *   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
-## [44. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [43. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 
-## [45. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [44. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -564,19 +558,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [rtsp-server (⭐29)](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 *   [utp-native (⭐99)](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 
-## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
-*   [electron-packager (⭐44)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐95)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
-## [47. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [46. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
 *   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 
-## [48. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [47. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
@@ -587,7 +581,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 *   [Twitter](https://twitter.com/ava__js)
 
-## [49. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [48. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Community / Related Lists
 

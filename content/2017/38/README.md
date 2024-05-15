@@ -48,7 +48,7 @@
 
 ### GTFS Libraries / Python
 
-*   [partridge (⭐140)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+*   [partridge (⭐146)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐281)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐282)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐264)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -92,7 +92,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐108)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐107)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [12. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -149,17 +149,17 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐909)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐913)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Protocols
 
-*   [FluentFTP (⭐2.9k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐3k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ### Tools
 
-*   [Fake JSON Server (⭐371)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
+*   [Fake JSON Server (⭐379)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
 ## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -186,9 +186,9 @@
 
 ## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### TypeScript Seed Projects / Components
+### Site Templates / Testing
 
-*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+.
 
 ## [19. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -321,11 +321,11 @@
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐370)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐372)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
-*   [pgtune (⭐1.9k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
+*   [pgtune (⭐2k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 *   [pgconfig.org (⭐89)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 
 ## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
@@ -357,15 +357,15 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue2-pwa-vision (⭐39)](https://github.com/aofdev/vue-pwa-vision) - A Face Detection Google Cloud Vision with Vue2 + Vuetify + Progressive Web App
-*   [vue2-pwa-rekognition (⭐40)](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
+*   [vue2-pwa-rekognition (⭐41)](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
 
 ### Components & Libraries / UI Components
 
-*   [vue-inputmask (⭐119)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
+*   [vue-inputmask (⭐120)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐772)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐779)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [25. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -377,8 +377,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.6k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐839)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.7k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐858)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -443,7 +443,7 @@
 *   [lablqml (⭐157)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐336)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+*   [Notty (⭐338)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
@@ -453,7 +453,7 @@
 
 ### Job boards
 
-*   [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐28k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ## [32. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 

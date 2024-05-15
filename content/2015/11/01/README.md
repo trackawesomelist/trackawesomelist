@@ -32,7 +32,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Polygon Merge (⭐16)](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+*   [Polygon Merge (⭐17)](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 *   [Simplex 2D/3D (⭐25)](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 *   [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 

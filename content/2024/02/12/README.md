@@ -138,7 +138,7 @@
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐715)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐741)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -186,7 +186,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [css-media-splitter/vite-plugin (⭐23)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐29)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 ### React / Loaders
 
@@ -202,11 +202,11 @@
 
 ### Zig development tools / Messaging
 
-*   [weskoerber/zvm (⭐2)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
+*   [weskoerber/zvm (⭐3)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
 ### Parser / Package managers
 
-*   [weskoerber/kewpie (⭐0)](https://github.com/weskoerber/kewpie) - A simple query string parser.
+*   [weskoerber/kewpie (⭐1)](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -216,11 +216,11 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [IP2Location.io Java SDK (⭐5)](https://github.com/ip2location/ip2location-io-java) - Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API.
+*   [IP2Location.io Java SDK (⭐4)](https://github.com/ip2location/ip2location-io-java) - Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API.
 
 ### Testing / Miscellaneous
 
-*   [Selfie (⭐25)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+*   [Selfie (⭐40)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -234,17 +234,17 @@
 
 ### Game
 
-*   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+*   [Foster (⭐342)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [artemave/workspace-diagnostics.nvim (⭐49)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+*   [artemave/workspace-diagnostics.nvim (⭐91)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ### Terminal Integration / Diagnostics
 
-*   [RAprogramm/nekifoch (⭐8)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
+*   [RAprogramm/nekifoch (⭐9)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 
 ---
 

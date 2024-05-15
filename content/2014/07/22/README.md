@@ -10,7 +10,7 @@
 
 ### Application Frameworks
 
-*   [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
+*   [ASP.NET Boilerplate (⭐12k)](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 
 ## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [t3chnoboy/awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 ---
 

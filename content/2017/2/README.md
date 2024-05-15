@@ -1,55 +1,49 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2017
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 管理和监控
-
-*   [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
-
-## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [1. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Logging / Firmwares for ESP based Devices
 
 *   [mqtthandler (⭐19)](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 
-## [3. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [2. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Source Code Repos
 
 *   [Package Drone (⭐66)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 
-## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
-## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [cernan (⭐310)](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 
-## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
 *   [chromepet (⭐30)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 *   [chrome-ext-downloader (⭐48)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -62,7 +56,7 @@
     *   [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
     *   [Using C# and .NET Core in Amazon Web Services (AWS) Lambda](https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/)
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -70,13 +64,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7.3k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7.4k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐484)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐487)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4.3k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐647)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -90,7 +84,7 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.8k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐8.9k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [conf (⭐1.2k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 *   [cli-truncate (⭐85)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
@@ -116,7 +110,7 @@
 *   Observables
     *   [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
     *   [observable-to-promise (⭐46)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-    *   [More… (⭐333)](https://github.com/sindresorhus/awesome-observables)
+    *   [More… (⭐332)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -124,7 +118,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐8.2k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐8.3k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -132,7 +126,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐33k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐34k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -142,17 +136,17 @@
 ### Packages / Compression
 
 *   [yazl (⭐317)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐664)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [yauzl (⭐672)](https://github.com/thejoshwolfe/yauzl) - Unzip.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐12k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-    *   [Redis (⭐13k)](https://github.com/luin/ioredis) - Redis client.
+    *   [Redis (⭐14k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐622)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐196)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [couchdb-nano (⭐625)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
     *   [Couchbase (⭐462)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.9k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
@@ -175,11 +169,11 @@
 
 ### Packages / Weird
 
-*   [cows (⭐405)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐406)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐6.2k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐6.3k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5.4k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.7k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.7k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
@@ -188,7 +182,7 @@
 
 *   [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Encryption
 
@@ -199,7 +193,7 @@
 *   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.3k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
-## [11. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [10. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
@@ -216,7 +210,7 @@
 
 *   [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code (⭐5)](https://github.com/eliaslecomte/ibeacon-scanner-app)
 
-## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [11. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -237,7 +231,7 @@
 *   [WizToWar (⭐40)](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
 *   [wizard-in-a-box (⭐30)](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
-## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [12. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -249,7 +243,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -263,25 +257,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 
-## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Monitoring
 
 *   [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
 *   [awscr-signer (⭐22)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
 
-## [17. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [16. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 
-## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -291,32 +285,32 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
 
-## [19. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [18. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
 *   [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
-## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [tinyrenderers (⭐452)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+*   [tinyrenderers (⭐458)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 
-## [21. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [20. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
 *   [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 
-## [22. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [21. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 *   [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
-## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / \# companies
 
@@ -471,13 +465,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   Rust <https://blog.rust-lang.org/>
 
-## [24. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [23. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
 
-## [25. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [24. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
@@ -489,7 +483,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Dva Antd Starter (⭐27)](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
 *   [Dva Antd Mobile Starter (⭐116)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 
-## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -497,25 +491,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### Datastores / Online resources
 
-*   [Sops (⭐14k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+*   [Sops (⭐15k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Intelligence (⭐6.8k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
+*   [Awesome Threat Intelligence (⭐7.3k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
-## [27. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [26. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/) - Learn about functional data structures and their uses in this overview of Facebook's popular library for JavaScript: Immutable.js.
 
-## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Database technologies / Postgres
 
 *   [PostgreSQL Interview Q\&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
-## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -545,13 +539,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
         [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
         [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 
-## [31. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [30. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
@@ -574,25 +568,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [32. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [31. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [Node.js API Starter Kit (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 
-## [33. Amas](/content/sindresorhus/amas/week/README.md)
+## [32. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -600,23 +594,23 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐736)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐747)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ### Protocols
 
-*   [protox (⭐255)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐261)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 
 *   [dockerex (⭐19)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
-## [36. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 
-## [37. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [36. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 

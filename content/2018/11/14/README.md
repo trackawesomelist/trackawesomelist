@@ -30,7 +30,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐7.1k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐7.3k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

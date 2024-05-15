@@ -10,11 +10,11 @@
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Magic Number Detector (⭐542)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐541)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 
 ### Table of Contents / Event
 
-*   [Fast CGI Client (⭐546)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+*   [Fast CGI Client (⭐548)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 
 ### Table of Contents / PDF
 
@@ -24,7 +24,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Foster (⭐288)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+*   :tada: [Foster (⭐342)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐301)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐319)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [shared-row (⭐16)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
+*   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
 ## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -51,13 +51,13 @@
 
 ### Coordination & Governance / Scala
 
-*   [Temporal (⭐9.1k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐9.6k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Hardbin (⭐248)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐249)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 

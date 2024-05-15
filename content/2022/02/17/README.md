@@ -29,12 +29,12 @@
 
 ### Programming Languages / PHP
 
-*   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐126)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [composer-plugin-nixify (⭐13)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
+*   [nix-shell (⭐132)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐145)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐424)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐154)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐454)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -164,7 +164,7 @@
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [StackExchange](https://stackoverflow.com/company/work-here)
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
@@ -330,14 +330,14 @@
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐264)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [GitHub (⭐273)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 *   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 *   [@brettz9/eslint-plugin (⭐2)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
 *   [Babel (⭐43k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin (⭐171)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐180)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
@@ -345,13 +345,13 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐343)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
-*   [eslint-plugin-write-good-comments (⭐29)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐5.2k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+*   [ESLint Comments (⭐350)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [eslint-plugin-write-good-comments (⭐30)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐5.3k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐305)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐331)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
 ## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

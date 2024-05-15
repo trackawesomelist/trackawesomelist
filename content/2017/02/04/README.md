@@ -128,8 +128,8 @@
 
 ### Ask these people anything!
 
-*   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
-*   [CJ Patoilo (⭐2)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
+*   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on ArchLinux. Perfectionist. Revolutionist. Founder of RegexHQ, core member at JSTransformers and part of dwylhq.
+*   [CJ Patoilo (⭐2)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, DEV IO co-Founder.
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

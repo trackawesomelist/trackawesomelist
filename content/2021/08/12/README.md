@@ -64,7 +64,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐290)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐294)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -88,11 +88,11 @@
 
 ### Projects / Frameworks
 
-*   [Q\*cert (⭐54)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
+*   [Q\*cert (⭐55)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 
 ### Projects / Libraries
 
-*   [Bignums (⭐23)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
+*   [Bignums (⭐22)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 
 ### Projects / Package and Build Management
 
@@ -139,7 +139,7 @@
 
 ### Contents / Games
 
-*   [Space Empires (⭐87)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐90)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ## [14. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Beyond the DOM / Games
 
-*   [elm-posix (⭐86)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+*   [elm-posix (⭐87)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
 ## [15. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

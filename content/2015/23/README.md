@@ -157,7 +157,7 @@
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐169)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐171)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Debugger
 
@@ -190,7 +190,7 @@
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐286)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐289)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
 ## [16. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Ruby Libraries
 
-*   [Bitcoin-ruby (⭐907)](https://github.com/lian/bitcoin-ruby)
+*   [Bitcoin-ruby (⭐917)](https://github.com/lian/bitcoin-ruby)
 
 ### Python Libraries
 
@@ -299,7 +299,7 @@
 
 ### Debugging
 
-*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐280)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Documentation
 
@@ -315,7 +315,7 @@
 
 ### Images
 
-*   [identicon (⭐26)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
+*   [identicon (⭐27)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 
 ### Logging
 
@@ -324,7 +324,7 @@
 ### ORM and Datamapping
 
 *   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
-*   [mysql (⭐357)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐358)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐8)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Third Party APIs
@@ -333,7 +333,7 @@
 
 ### Reading
 
-*   [xElixir (⭐586)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐594)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

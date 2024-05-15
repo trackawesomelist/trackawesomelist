@@ -32,7 +32,7 @@
 
 ### Date and Time
 
-*   [cronex (⭐47)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
+*   [cronex (⭐48)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

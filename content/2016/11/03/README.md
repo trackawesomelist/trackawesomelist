@@ -74,7 +74,7 @@
 
 ### Gesture
 
-*   [SwipyCell (⭐251)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐252)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Open Source / Other
 
-*   [Extraterm (⭐2.4k)](https://github.com/sedwards2009/extraterm) - Terminal.
+*   [Extraterm (⭐2.5k)](https://github.com/sedwards2009/extraterm) - Terminal.
 
 ### For Electron / Other
 
@@ -111,7 +111,7 @@
 
 ### Using Electron / Other
 
-*   [electron-mocha (⭐343)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
+*   [electron-mocha (⭐345)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 
 ### Components / Other
 

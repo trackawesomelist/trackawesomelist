@@ -14,7 +14,7 @@
 
 ### Supersets
 
-*   [HanSON (⭐152)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+*   [HanSON (⭐153)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 
 ### Related formats
 

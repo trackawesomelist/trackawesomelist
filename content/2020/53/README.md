@@ -48,19 +48,19 @@
     *   [by @kennyledet (⭐2.2k)](https://github.com/kennyledet/Algorithm-Implementations)
     *   [by @indy256 (⭐1.8k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
+    *   [by @patmorin (⭐1.2k)](https://github.com/patmorin/ods)
     *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [bpe (⭐256)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐261)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
 *   [chat (⭐6)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -69,7 +69,7 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐51)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐54)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
@@ -87,7 +87,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐299)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐304)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -110,11 +110,11 @@
 ### Document
 
 *   Khronos
-    *   [Vulkan Guide (⭐1.6k)](https://github.com/KhronosGroup/Vulkan-Guide)
+    *   [Vulkan Guide (⭐1.8k)](https://github.com/KhronosGroup/Vulkan-Guide)
 
 ### Bindings
 
-*   [vulkan-zig (⭐294)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐366)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ## [11. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Model Explanation / Others
 
-*   [Shapley (⭐202)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐210)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
 ## [14. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Plugins
 
-*   [Spark (⭐298)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
+*   [Spark (⭐332)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
 
 ## [19. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -196,7 +196,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [revo-grid (⭐2.6k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
+*   [revo-grid (⭐2.7k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 
 ## [23. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Network / Barcode
 
-*   [TermiNetwork (⭐95)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+*   [TermiNetwork (⭐98)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 
 ## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -341,7 +341,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐2k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐2.1k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### Cryptocurrency
 
-- API: [Binance (⭐3.4k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐3.7k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 
@@ -465,14 +465,14 @@
 
 ### Libraries / New Libraries
 
-*   [jax-flows (⭐252)](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
-*   [sklearn-jax-kernels (⭐41)](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-*   [efax (⭐46)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
+*   [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
+*   [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
+*   [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 ### Models and Projects / JAX
 
-*   [kalman-jax (⭐88)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
-*   [jaxns (⭐110)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
+*   [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
+*   [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
 ## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -490,11 +490,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-copy-to-clipboard (⭐12)](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
+*   [vue-copy-to-clipboard (⭐13)](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lang-router (⭐67)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
+*   [vue-lang-router (⭐66)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 
 ### Components & Libraries / Utilities
 
@@ -532,11 +532,11 @@
 
 *   [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
 *   [awesome-3d-engines-for-plotters (⭐76)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 

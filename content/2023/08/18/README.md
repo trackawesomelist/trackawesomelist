@@ -10,19 +10,19 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [examor (⭐996)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+*   [examor (⭐1k)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐356)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [ParthJadhav/Rust\_Search (⭐116)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
-    *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [Camino (⭐388)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐127)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
+    *   [pop-os/dbus-udisks2 (⭐17)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐40)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐49)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐225)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+    *   [webdesus/fs\_extra (⭐233)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -51,24 +51,24 @@
 
 ### Utilities
 
-*   [go-qr (⭐14)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
-*   [yogo (⭐36)](https://github.com/antham/yogo) - Check yopmail mails from command line.
+*   [go-qr (⭐16)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
+*   [yogo (⭐38)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [kubeshark (⭐10k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
+*   [kubeshark (⭐11k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 
 ## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐523)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐530)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
-*   [overpy (⭐219)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpy (⭐223)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
 *   [overpassforge (⭐4)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
-*   [humanized\_opening\_hours (⭐25)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+*   [humanized\_opening\_hours (⭐26)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -96,17 +96,17 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.operators (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+*   [echasnovski/mini.nvim#mini.operators (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [radio-active (⭐183)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+*   [radio-active (⭐451)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Productivity / HTTP Client
 
-*   [fjira (⭐29)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐88)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-digital-transform (⭐58)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
+*   [vue-digital-transform (⭐60)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 ## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 

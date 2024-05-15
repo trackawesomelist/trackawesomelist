@@ -398,7 +398,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6.2k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.3k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ## [27. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -437,7 +437,7 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐4.1k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4.2k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 

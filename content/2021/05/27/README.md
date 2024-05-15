@@ -88,7 +88,7 @@
 
 ### Tools / Community providers
 
-*   [yor (⭐759)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐778)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -110,12 +110,12 @@
 
 ### R / Factor Analysis
 
-*   [FactorAnalytics (⭐61)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
-*   [Expected Returns (⭐33)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
+*   [FactorAnalytics (⭐63)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
+*   [Expected Returns (⭐35)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
 
 ### CSharp / Data Visualization
 
-*   [TDAmeritrade.DotNetCore (⭐53)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
+*   [TDAmeritrade.DotNetCore (⭐54)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
 
 ## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -197,13 +197,13 @@
 
 ### Finite Elements
 
-*   [scikit-fem (⭐319)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+*   [scikit-fem (⭐416)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
     (Python, BSD/GPL, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
-    (C++/Python, BSD, [GitHub (⭐356)](https://github.com/topology-tool-kit/ttk))
+    (C++/Python, BSD, [GitHub (⭐393)](https://github.com/topology-tool-kit/ttk))
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -225,8 +225,8 @@
 
 ### DevOps / Development
 
-*   [Preflight (⭐141)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
-*   [Teller (⭐1.9k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+*   [Preflight (⭐149)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+*   [Teller (⭐2.5k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
 ## [17. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -238,7 +238,7 @@
 
 ### Dynamic Analysis
 
-*   [Netz (⭐360)](https://github.com/spectralops/netz) - *Spectral* - Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Netz (⭐373)](https://github.com/spectralops/netz) - *Spectral* - Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### Secrets Scanning / Ansible
 
@@ -262,11 +262,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐322)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐333)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐557)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐572)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

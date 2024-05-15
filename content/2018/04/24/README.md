@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-1password (⭐236)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐248)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

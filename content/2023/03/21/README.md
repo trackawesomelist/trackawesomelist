@@ -34,27 +34,27 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐561)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [GraphQL Constraint Directive (⭐563)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
 *   [Validator.js Wrapper Directive (⭐3)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐34)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐38)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Game / Diagnostics
 
-*   [alanfortlink/blackjack.nvim (⭐50)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [alanfortlink/blackjack.nvim (⭐52)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
 *   [jim-fx/sudoku.nvim (⭐58)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / VPN
 
-*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐989)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
+*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐1.1k)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 
 ---
 

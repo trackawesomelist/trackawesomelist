@@ -38,22 +38,22 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Python package polars-ds (⭐145)](https://github.com/abstractqqq/polars_ds_extension) - Python package that contains multiple extension to simplify common numerical/string data analysis procedures by [@abstractqqq](https://github.com/abstractqqq).
+*   [Python package polars-ds (⭐229)](https://github.com/abstractqqq/polars_ds_extension) - Python package that contains multiple extension to simplify common numerical/string data analysis procedures by [@abstractqqq](https://github.com/abstractqqq).
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Design Practises
 
-*   [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260\&hl=en\&as_sdt=0,5)]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
+*   [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260)]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
 
 ## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Internationalisation (i18n)
 
-*   [django-localflavor (⭐793)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
-*   [django-modeltrans (⭐48)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
+*   [django-localflavor (⭐799)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
+*   [django-modeltrans (⭐54)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 *   [django-modeltranslations (⭐1.3k)](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
-*   [django-rosetta (⭐989)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
+*   [django-rosetta (⭐997)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Extensions / Tools
 
-*   [Directus Sync (⭐63)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+*   [Directus Sync (⭐81)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
 
 ## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Base Tools / Other
 
-*   [SparkView (⭐6)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
+*   [SparkView (⭐9)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
 
 ---
 

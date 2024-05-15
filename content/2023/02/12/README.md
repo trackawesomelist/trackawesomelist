@@ -10,7 +10,7 @@
 
 ### Interfaces to Multiple Backends
 
-*   [go-transaction-manager (⭐142)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+*   [go-transaction-manager (⭐164)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Misc
 
-*   [observable (⭐8)](https://github.com/TPei/observable) - Implementation of the observer pattern
+*   [observable (⭐9)](https://github.com/TPei/observable) - Implementation of the observer pattern
 
 ### Editor Plugins
 
@@ -33,11 +33,11 @@
 
 ### Computer Science
 
-*   [Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐4.9k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Decentralized Systems
 
-*   [ZeroNet (⭐54)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+*   [ZeroNet (⭐59)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 

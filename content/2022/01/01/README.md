@@ -17,7 +17,7 @@
 
 ### Tools / Community providers
 
-*   [prettyplan (⭐152)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
+*   [prettyplan (⭐155)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐25k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐26k)](https://github.com/lutzroeder/netron)
 
 ---
 

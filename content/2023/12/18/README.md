@@ -10,7 +10,7 @@
 
 ### Official
 
-*   [Official registry (⭐112)](https://github.com/opentofu/registry)
+*   [Official registry (⭐196)](https://github.com/opentofu/registry)
 
 ## [2. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
@@ -28,5 +28,5 @@
 
 ---
 
-- Prev: [Dec 20, 2023](/content/2023/12/20/README.md)
+- Prev: [Dec 19, 2023](/content/2023/12/19/README.md)
 - Next: [Dec 16, 2023](/content/2023/12/16/README.md)

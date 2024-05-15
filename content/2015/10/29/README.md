@@ -42,7 +42,7 @@
 
 ### Table of Contents / Repos
 
-*   [Idris Koans (⭐173)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+*   [Idris Koans (⭐176)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 
 ## [2. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
@@ -62,11 +62,11 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐134)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐133)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
-*   [FluentAutomation (⭐234)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
+*   [FluentAutomation (⭐233)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -76,11 +76,11 @@
 
 ### Assets
 
-*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
-*   [JWT (⭐3.5k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
+*   [JWT (⭐3.6k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 
 ### Configuration
 
@@ -122,7 +122,7 @@
 
 ### Third-party APIs
 
-*   [Pusher (⭐662)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐663)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 

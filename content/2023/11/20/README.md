@@ -61,35 +61,35 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-bundle-analyzer (⭐66)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+*   [vite-bundle-analyzer (⭐80)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 
 ### React / Community
 
-*   [Viject (⭐27)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐39)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐182)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [jpmcb/nvim-llama (⭐214)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐98)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐16k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐117)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐17k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
-*   [rafamadriz/friendly-snippets (⭐1.5k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+*   [rafamadriz/friendly-snippets (⭐1.7k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
 ### Editing Support / Diagnostics
 
-*   [nat-418/boole.nvim (⭐133)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [nat-418/boole.nvim (⭐144)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 
 ## [5. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
 ### Archive/abandoned projects / macOS
 
-*   [macOS Defaults (⭐1.2k)](https://github.com/kevinSuttle/macOS-Defaults)
+*   [macOS Defaults (⭐1.3k)](https://github.com/kevinSuttle/macOS-Defaults)
 
 ## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -118,7 +118,7 @@
 
 ### GUI / Text-Based User Interfaces
 
-*   [SnapKit (⭐180)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
+*   [SnapKit (⭐191)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
 
 ### IDE / Text-Based User Interfaces
 
@@ -126,7 +126,7 @@
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Microsoft JDK (⭐299)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+*   [Microsoft JDK (⭐306)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 ### Science / Other
 

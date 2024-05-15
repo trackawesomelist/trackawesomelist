@@ -25,7 +25,7 @@
 
 ### JSON
 
-*   [jute (⭐71)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
+*   [jute (⭐70)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
 *   [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. \[?]
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
@@ -45,7 +45,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ods (⭐47)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+*   [ods (⭐48)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 *   [combine (⭐35)](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 
 ### Compilers and Compiler Tools

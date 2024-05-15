@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2017
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Contents / Example Apps
 
-*   [Hueify (⭐91)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
+*   [Hueify (⭐90)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐731)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐732)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -208,7 +208,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐983)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐992)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -243,14 +243,14 @@
 
 ### Example Projects
 
-*   [Example of custom password hash SPI for Keycloak (⭐23)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
 ## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
-*   [Attentive Object Tracking (⭐147)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
+*   [Attentive Object Tracking (⭐146)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 
 ## [24. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
@@ -302,7 +302,7 @@
 *   [confidant (⭐1.8k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
 *   [dotgpg (⭐161)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 *   [redoctober (⭐1.4k)](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
-*   [aws-vault (⭐7.9k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
+*   [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 *   [credstash (⭐2.1k)](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
 *   [chamber (⭐2.4k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 *   [passpie (⭐923)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
@@ -381,13 +381,7 @@
 
 *   [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
-
-## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [33. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
@@ -397,13 +391,13 @@
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Interactive / Other
 

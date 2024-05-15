@@ -16,7 +16,7 @@
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Ferry (⭐531)](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
+*   [Ferry (⭐582)](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Documentation and Resources / Display Manager
 
-*   [KDE Configs (⭐379)](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
+*   [KDE Configs (⭐699)](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others / Others
 
-*   [Generators.Blazor (⭐67)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
+*   [Generators.Blazor (⭐68)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Resources / Recipes
 
-*   [Serafeim's Wagtail FAQ (⭐37)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+*   [Serafeim's Wagtail FAQ (⭐39)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
 ## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

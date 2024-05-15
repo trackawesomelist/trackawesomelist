@@ -21,7 +21,7 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐44k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐46k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
@@ -56,7 +56,7 @@
 
 ### Demo
 
-*   [Vue.js Demo App (⭐50)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
+*   [Vue.js Demo App (⭐49)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

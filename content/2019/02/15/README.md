@@ -22,7 +22,7 @@
 
 ### Networking
 
-*   [PcapPlusPlus (⭐2.5k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
+*   [PcapPlusPlus (⭐2.6k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
 ## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐17)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐455)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
-*   [tmux-maildir-counter (⭐31)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐963)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐162)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐501)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-battery (⭐471)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-maildir-counter (⭐32)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
+*   [tmux-mem-cpu-load (⭐981)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-online-status (⭐161)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐536)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 
 ## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

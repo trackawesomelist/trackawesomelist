@@ -39,7 +39,7 @@
 
 ### Localization
 
-*   [pt\_BR (⭐70)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐69)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Ask these people anything!
 
-*   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Dart lover.
+*   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at FIT CTU, Dart lover.
 
 ## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -83,20 +83,20 @@
 
 ### Socket / Barcode
 
-*   [RxWebSocket (⭐56)](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
+*   [RxWebSocket (⭐55)](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 
 ### UI / Barcode
 
-*   [Mandoline (⭐896)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐894)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐976)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [FlowingMenu (⭐975)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 *   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐825)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐839)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

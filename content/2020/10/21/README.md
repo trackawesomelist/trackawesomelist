@@ -511,7 +511,7 @@
 
 ### Email / Other Tools
 
-*   [FastAPI Mail (⭐552)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+*   [FastAPI Mail (⭐603)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
 ## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -572,14 +572,14 @@
 
 ### Transition
 
-*   [DropdownTransition (⭐69)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [DropdownTransition (⭐70)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vnodes (⭐110)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [vnodes (⭐114)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 ## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -681,7 +681,7 @@
 
 ### Communities
 
-*   [##remotes (⭐12)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
+*   [##remotes (⭐15)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
 *   [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 *   [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
 

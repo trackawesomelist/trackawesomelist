@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29, 2024
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,9 @@
 
 ### Tools / CI
 
-*   [TF-via-PR (⭐42)](https://github.com/DevSecTop/TF-via-PR) - GitHub Action to automate OpenTofu or Terraform CLI commands via pull request interaction.
+*   [TF-via-PR (⭐43)](https://github.com/DevSecTop/TF-via-PR) - GitHub Action to automate OpenTofu or Terraform CLI commands via pull request interaction.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### APILayer APIs
 
@@ -95,31 +89,31 @@
 
 
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-fluid-dnd (⭐43)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
-## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
 *   [Dradis](https://dradis.com/) - Open-source reporting and collaboration tool for IT security professionals.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [happly (⭐283)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 
-## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Mailing
 
 *   [django-pony-express (⭐40)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
@@ -127,4 +121,5 @@
 
 ---
 
+- Prev: [Apr 30, 2024](/content/2024/04/30/README.md)
 - Next: [Apr 28, 2024](/content/2024/04/28/README.md)

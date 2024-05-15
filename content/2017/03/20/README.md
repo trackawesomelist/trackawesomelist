@@ -34,7 +34,7 @@
 
 ### HTTP
 
-*   [http-protection (⭐72)](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
+*   [http-protection (⭐71)](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
 
 ## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

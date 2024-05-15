@@ -20,7 +20,7 @@
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐18k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐26k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [obs (⭐189)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+*   [obs (⭐294)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

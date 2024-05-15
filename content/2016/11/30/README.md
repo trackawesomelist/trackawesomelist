@@ -1008,7 +1008,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐15k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐16k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 

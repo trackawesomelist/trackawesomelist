@@ -50,7 +50,7 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐5k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [attrs (⭐5.1k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 *   [bidict (⭐1.4k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 
 ### Database Drivers

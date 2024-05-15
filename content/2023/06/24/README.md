@@ -10,17 +10,13 @@
 
 ### File Explorer / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.files (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [sekke276/dark\_flat.nvim (⭐34)](https://github.com/sekke276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+*   [echasnovski/mini.nvim#mini.files (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 
 ## [2. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [API Viewer (⭐103)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
+*   [API Viewer (⭐109)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
 
 ---
 

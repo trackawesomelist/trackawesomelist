@@ -17,8 +17,8 @@
 ### Performance Testing / RPC Frameworks
 
 *   [JMeter gRPC Plugin (⭐43)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐167)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
-*   [JMeter Dubbo Plugin (⭐559)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
+*   [JMeter gRPC Request (⭐168)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter Dubbo Plugin (⭐557)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ### Tools / Plugins
 
@@ -35,7 +35,6 @@
 ### Websites / Godot version unknown
 
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
-*   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## [4. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐3)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐5)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Algorithms and Data Structures
 
-*   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+*   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
 *   [Ke (⭐49)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 

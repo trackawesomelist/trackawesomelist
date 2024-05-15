@@ -14,11 +14,6 @@
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
-### Online Scanners and Sandboxes / Other Resources
-
-*   [AVCaesar](https://avcaesar.malware.lu/) - Malware.lu online scanner and
-    malware repository.
-
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [pestudio](https://winitor.com/) - Perform static analysis of Windows
@@ -26,7 +21,7 @@
 
 ### Memory Forensics / Other Resources
 
-*   [VolDiff (⭐185)](https://github.com/aim4r/VolDiff) - Run Volatility on memory
+*   [VolDiff (⭐192)](https://github.com/aim4r/VolDiff) - Run Volatility on memory
     images before and after malware execution, and report changes.
 
 ## [3. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)

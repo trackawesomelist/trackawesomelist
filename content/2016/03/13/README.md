@@ -80,7 +80,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [pig (⭐452)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+*   [pig (⭐459)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 
 ## [4. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2022
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Source Generator
 
-*   [Supernova.Enum.Generators (⭐131)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+*   [Supernova.Enum.Generators (⭐165)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -22,22 +22,16 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [L-Briand/TT (⭐3)](https://github.com/L-Briand/TT) - A powerful key:value template processor.
-*   [Kotlin/kotlin-interactive-shell (⭐576)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
+*   [L-Briand/TT (⭐2)](https://github.com/L-Briand/TT) - A powerful key:value template processor.
+*   [Kotlin/kotlin-interactive-shell (⭐582)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 
 ### Libraries/Frameworks / Misc
 
-*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐764)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
+*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐784)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-head (⭐7)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
-
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Roland DXY-990 Operation Manual (1986)](https://archive.org/details/roland-dxy-990)
 

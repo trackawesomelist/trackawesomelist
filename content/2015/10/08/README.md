@@ -45,7 +45,7 @@
 ### Pattern Matching
 
 *   [core.match (⭐1.2k)](https://github.com/clojure/core.match)
-*   [defun (⭐462)](https://github.com/killme2008/defun)
+*   [defun (⭐464)](https://github.com/killme2008/defun)
 
 ## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

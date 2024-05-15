@@ -120,7 +120,7 @@
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐683)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐700)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐735)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐785)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

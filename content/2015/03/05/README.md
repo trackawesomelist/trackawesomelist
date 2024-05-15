@@ -35,7 +35,7 @@
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐248)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐249)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ---
 

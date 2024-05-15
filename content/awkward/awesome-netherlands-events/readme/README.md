@@ -2,7 +2,7 @@
 
 🦄  Curated list of awesome Dutch (tech related) events
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awkward/awesome-netherlands-events/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awkward/awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events) · ⭐ 50 · 🏷️ Events
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awkward/awesome-netherlands-events/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awkward/awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events) · ⭐ 61 · 🏷️ Events
 
 [ [Daily](/content/awkward/awesome-netherlands-events/README.md) / [Weekly](/content/awkward/awesome-netherlands-events/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@ This list contains awesome (tech related) events happening (and are mostly recur
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-*   [What is an awesome list? (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [What is an awesome list? (⭐301k)](https://github.com/sindresorhus/awesome)
 *   [Contribution guide](https://github.com/awkward/awesome-netherlands-events/blob/master/README.md/contributing.md)
 
 ***
@@ -53,7 +53,6 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 *   [Lead Developers Amsterdam](https://www.meetup.com/Lead-Developers-Amsterdam) - For Lead Developers, Tech Leads, Chapter Leads and Senior Engineers heading towards Lead positions.
 *   [DevOps Day Amsterdam](https://www.devopsdays.org/events/2019-amsterdam/welcome/) - Development, operations, QA, InfoSec, management, and leadership.
 *   [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (April 21) on all things React.
-*   [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
 

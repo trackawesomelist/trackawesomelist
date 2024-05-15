@@ -14,9 +14,9 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Community
+### Local and regional groups
 
-*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐8.8k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐9k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐203)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐207)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

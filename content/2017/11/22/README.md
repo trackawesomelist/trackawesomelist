@@ -22,7 +22,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐6.7k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐6.8k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
@@ -42,7 +42,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐83)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐85)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,7 +58,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Contents / Components
 
-*   [Preact Fluid (⭐185)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
+*   [Preact Fluid (⭐186)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
 
 ## [7. Bots](/content/hackerkid/bots/README.md)
 

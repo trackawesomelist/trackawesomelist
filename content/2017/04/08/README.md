@@ -16,7 +16,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Binwalk (⭐8.6k)](https://github.com/devttys0/binwalk) - Firmware analysis tool.
+*   [Binwalk (⭐10k)](https://github.com/devttys0/binwalk) - Firmware analysis tool.
 *   [LIEF](https://lief.quarkslab.com/) - LIEF provides a cross-platform library
     to parse, modify and abstract ELF, PE and MachO formats.
 
@@ -30,7 +30,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 

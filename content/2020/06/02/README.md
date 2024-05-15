@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [BluePill (⭐91)](https://github.com/season-lab/bluepill) - Framework for executing and debugging evasive malware and protected executables.
+*   [BluePill (⭐114)](https://github.com/season-lab/bluepill) - Framework for executing and debugging evasive malware and protected executables.
 
 ## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -110,7 +110,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-card-stack (⭐74)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
+*   [vue-card-stack (⭐76)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -147,7 +147,7 @@ Language: English
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐178)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐180)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [14. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

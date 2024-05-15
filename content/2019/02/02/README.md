@@ -13,12 +13,12 @@
 *   [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.\
     ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social\&label=Star)
     [Docs](https://concisecss.com/documentation/),
-    [Repo (⭐939)](https://github.com/ConciseCSS/concise.css)
+    [Repo (⭐941)](https://github.com/ConciseCSS/concise.css)
     \| #SCSS
 *   [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.\
     ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social\&label=Star)
     [Docs](https://responsivebp.com/getting-started/),
-    [Repo (⭐864)](https://github.com/responsivebp/responsive)
+    [Repo (⭐865)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)

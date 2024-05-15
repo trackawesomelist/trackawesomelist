@@ -10,7 +10,7 @@
 
 ### Tooling / Frameworks
 
-*   [yew-fmt (⭐11)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
+*   [yew-fmt (⭐18)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐323)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐341)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -125,12 +125,12 @@
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐72)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.4k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐670)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ### Configuration / Text Editors and IDEs
 
@@ -187,13 +187,13 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [PHPArkitect (⭐653)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+*   [PHPArkitect (⭐677)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 ## [16. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [POMWright (⭐14)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [POMWright (⭐20)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
 ## [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -206,7 +206,7 @@
 
 ### Free Music Scores
 
-*   [Lavender Blue Open-Scores (⭐10)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
+*   [Lavender Blue Open-Scores (⭐13)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
 ## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Literate programming / Third-party APIs
 
-*   [papyrus (⭐27)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
+*   [papyrus (⭐39)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
 ## [22. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -268,33 +268,25 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [State Design System (DSFR) starter (⭐18)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+*   [State Design System (DSFR) starter (⭐23)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
 *   [Dredd (⭐4.1k) (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
-*   [OpenAPI Generator (⭐19k) (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-*   [OpenAPI Style Validator (⭐189) (⭐189)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Documentation
 
-*   [Redoc (⭐22k) (⭐22k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
+*   [Redoc (⭐22k) (⭐23k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
 
 ### Projects / API Gateway
 
-*   [Spring Cloud Gateway (⭐4.3k) (⭐4.3k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
-*   [Tyk API Gateway (⭐9.1k) (⭐9.1k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐56) (⭐56)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
+*   [Spring Cloud Gateway (⭐4.3k) (⭐4.4k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 
 ### Resources / API Specification
 
 *   [API Blueprint (⭐8.6k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
-*   [AsyncAPI (⭐3.7k) (⭐3.7k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
 ## [26. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -306,35 +298,35 @@
 
 ### Platforms
 
-*   [Bluetooth Low Energy (⭐18)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
-*   [Uno Platform (⭐23)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+*   [Bluetooth Low Energy (⭐30)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+*   [Uno Platform (⭐32)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 
 ### Front-End Development
 
-*   [Frontend GIS (⭐287)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
+*   [Frontend GIS (⭐329)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ### Back-End Development
 
-*   [Kustomize (⭐72)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+*   [Kustomize (⭐83)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 
 ### Miscellaneous
 
-*   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
-*   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
+*   [Stock Trading (⭐55)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
+*   [Astrophotography (⭐46)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
 ## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐7)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐23)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ### 3D / Godot 4.2
 
-*   [LibreAim (⭐17)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐53)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Spin Button (⭐34)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+*   [Godot Spin Button (⭐48)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
 ## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -357,21 +349,21 @@
 
 ### Database
 
-*   [Reindexer (⭐751)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+*   [Reindexer (⭐752)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
 ## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
-*   [Hot Glue (⭐153)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
+*   [Hot Glue (⭐156)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
 
 ### Optimizations
 
-*   [fast\_count (⭐205)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
+*   [fast\_count (⭐210)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
 ## [33. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
@@ -379,21 +371,21 @@
 
 ### Gems / Other external resources
 
-*   [alba (⭐843)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
+*   [alba (⭐846)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
 ## [35. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### **AI/ML**
 
 *   [OpenWeedLocator (⭐284)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
-*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
+*   [Plant disease (⭐34)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 ### **Grow Automation**
 
 *   [DROMatic OS (⭐297)](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
 *   [MudPi (⭐259)](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
 *   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
-*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+*   [gardenAutomation (⭐392)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 *   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
 ### **Calculators**
@@ -519,7 +511,6 @@
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/pdf/10.1145/3571249) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225\&hl=en\&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
 *   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
@@ -527,11 +518,11 @@
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐715)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐741)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ### Libraries / Markup language
 
@@ -596,15 +587,15 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [vite-plugin-oxlint (⭐15)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [css-media-splitter/vite-plugin (⭐23)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐29)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [unplugin-detect-duplicated-deps (⭐30)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+*   [unplugin-detect-duplicated-deps (⭐65)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 
 ### React / Loaders
 
@@ -620,11 +611,11 @@
 
 ### Zig development tools / Messaging
 
-*   [weskoerber/zvm (⭐2)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
+*   [weskoerber/zvm (⭐3)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
 ### Parser / Package managers
 
-*   [weskoerber/kewpie (⭐0)](https://github.com/weskoerber/kewpie) - A simple query string parser.
+*   [weskoerber/kewpie (⭐1)](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
 ## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -634,11 +625,11 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [IP2Location.io Java SDK (⭐5)](https://github.com/ip2location/ip2location-io-java) - Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API.
+*   [IP2Location.io Java SDK (⭐4)](https://github.com/ip2location/ip2location-io-java) - Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API.
 
 ### Testing / Miscellaneous
 
-*   [Selfie (⭐25)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+*   [Selfie (⭐40)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 
 ## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -652,7 +643,7 @@
 
 ### Game
 
-*   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+*   [Foster (⭐342)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ### Visual Studio Plugins
 
@@ -662,23 +653,23 @@
 
 ### Plugin Manager
 
-*   [echasnovski/mini.nvim#mini.deps (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+*   [echasnovski/mini.nvim#mini.deps (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [artemave/workspace-diagnostics.nvim (⭐49)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+*   [artemave/workspace-diagnostics.nvim (⭐91)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ### Note Taking / Diagnostics
 
-*   [backdround/global-note.nvim (⭐67)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+*   [backdround/global-note.nvim (⭐100)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
 ### Terminal Integration / Diagnostics
 
-*   [RAprogramm/nekifoch (⭐8)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
+*   [RAprogramm/nekifoch (⭐9)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐6)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐15)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ---
 

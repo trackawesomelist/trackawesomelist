@@ -16,7 +16,7 @@
 
 ### Libraries
 
-*   [keras-js (⭐4.9k)](https://github.com/transcranial/keras-js) - Run Keras models (tensorflow backend) in the browser, with GPU support
+*   [keras-js (⭐5k)](https://github.com/transcranial/keras-js) - Run Keras models (tensorflow backend) in the browser, with GPU support
 
 ### Books
 
@@ -77,7 +77,7 @@
 
 ### Web Frameworks
 
-*   [DotVVM (⭐716)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+*   [DotVVM (⭐736)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 
 ---
 

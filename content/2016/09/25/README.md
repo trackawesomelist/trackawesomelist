@@ -60,7 +60,7 @@
 
 ### Probability and Statistics / Statistical Learning
 
-*   [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
+*   📝 [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

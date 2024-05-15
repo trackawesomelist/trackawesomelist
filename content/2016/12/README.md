@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2016
 
-28 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [immutable (⭐200)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐201)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
@@ -150,7 +150,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐885)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐928)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -514,27 +514,15 @@
 
 ### Traffic Analysis/Inspection
 
-*   [yaraprocessor (⭐94)](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
+*   [yaraprocessor (⭐96)](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Experts on Twitter
-
-*   [@amcdnl](https://twitter.com/amcdnl)
-
-### Video Tutorials / Components
-
-*   [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
-*   [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
-*   [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
-
-## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
 *   [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_34)
 
-## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [16. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
@@ -553,19 +541,19 @@
 
 *   [is-generator (⭐15)](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
-## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐182)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐185)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
-## [19. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [18. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -579,25 +567,25 @@
 
 *   Hypriot <http://blog.hypriot.com/>
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Infrastructure
 
 *   [php-pm (⭐6.5k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
-## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [21. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐292)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐295)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Permissions / Barcode
 
 *   [Permission (⭐2.9k)](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 
-## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [23. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Contracts
 
@@ -607,7 +595,7 @@
 
 *   [No Starch Press](https://www.nostarch.com/writeforus.htm)
 
-## [25. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [24. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
@@ -625,27 +613,27 @@
 *   [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 *   [GitHub Issues (⭐47k)](https://github.com/ReactiveX/RxJava/issues)
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
 *   [DGraph (⭐19k)](https://github.com/dgraph-io/dgraph) - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
 
-## [27. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [26. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Wavesurfer.js (⭐7.9k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 
-*   [ex\_guard (⭐80)](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
+*   [ex\_guard (⭐84)](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 
 ### Framework Components
 
-*   [sentinel (⭐107)](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
+*   [sentinel (⭐106)](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
 
 ### ORM and Datamapping
 
@@ -653,7 +641,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐123)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐127)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ---
 

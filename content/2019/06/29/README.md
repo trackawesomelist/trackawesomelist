@@ -10,7 +10,7 @@
 
 ### Development / Devops
 
-*   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+*   [ops (⭐1.2k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ## [2. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Packages / Job queues
 
-*   [better-queue (⭐478)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐482)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 

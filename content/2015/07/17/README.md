@@ -15,8 +15,8 @@
 ### ORM and Datamapping
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
-*   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [dqe (⭐10)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
+*   [elastix (⭐254)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Ask these people anything!
 
-*   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
+*   [Hugo Giraudel (⭐43)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐876)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐875)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

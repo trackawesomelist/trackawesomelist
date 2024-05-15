@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐363)](https://github.com/opentyrian/opentyrian):flower\_playing\_cards: - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐399)](https://github.com/opentyrian/opentyrian):flower\_playing\_cards: - An open-source port of Tyrian from Turbo Pascal to C.
 
 ### Online
 
-*   [Ryzom Core (⭐312)](https://github.com/ryzom/ryzomcore):flower\_playing\_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐324)](https://github.com/ryzom/ryzomcore):flower\_playing\_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐27k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐28k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -72,14 +72,14 @@
 
 ### WebAssembly
 
-*   [lumen (⭐3.5k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐482)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [lumen (⭐3.6k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
+*   [wasmex (⭐512)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vuex-light (⭐8)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
+*   [vuex-light (⭐7)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
 
 ### Components & Libraries / Scaffold
 
@@ -89,7 +89,7 @@
 
 ### React Forms
 
-*   [react-jsonschema-form (⭐13k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
+*   [react-jsonschema-form (⭐14k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 
 ### React Native Awesome Components
 
@@ -99,7 +99,7 @@
 
 ### Miscellaneous
 
-*   [Veganism (⭐62)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐65)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

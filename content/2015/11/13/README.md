@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-29 awesome lists updated today.
+28 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Pattern Recognition and Machine Learning (⭐5.9k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
+*   [Pattern Recognition and Machine Learning (⭐6k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -128,7 +128,13 @@
 
 *   [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript / Node Based
+
+*   [DefinitelyTyped Repository (GitHub) (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
@@ -235,7 +241,7 @@
 *   [TempoIQ](https://www.tempoiq.com/) - Cloud-based sensor analytics.
 *   [Pubnub](https://www.pubnub.com/) - Data stream network
 
-## [7. Tools](/content/lvwzhen/tools/README.md)
+## [8. Tools](/content/lvwzhen/tools/README.md)
 
 ### Favicon
 
@@ -258,7 +264,7 @@
 
 *   [Jquery API](http://www.jquery123.com/)
 
-## [8. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [9. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Transpilers
 
@@ -289,19 +295,19 @@
 *   [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 *   [Recast (⭐4.3k)](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator (⭐3.7k)](https://github.com/facebook/regenerator) and [es6-arrow-function (⭐52)](https://github.com/esnext/es6-arrow-function).
 
-## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### File Uploading / Omniauth
 
 *   [Paperclip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord.
 
-## [10. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Documentation
 
 *   [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 
-## [11. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Parsers
 
@@ -314,7 +320,7 @@
 
 *   [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 
-## [12. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [13. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
@@ -332,7 +338,7 @@
 
 *   [mysql-native (⭐80)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
-## [13. Inspire](/content/noahbuscher/inspire/README.md)
+## [14. Inspire](/content/noahbuscher/inspire/README.md)
 
 ### Creation / These sites are good for building a basic framework for the site.
 
@@ -353,7 +359,7 @@
 *   [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 *   [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Standard Libraries
 
@@ -381,7 +387,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐81k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐84k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -389,15 +395,15 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐35)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐38)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐689)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐691)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.6k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐2.7k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -418,7 +424,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐36k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐37k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -429,7 +435,7 @@
 *   [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
 *   [Sticky Bits](https://blog.feabhas.com/)
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -437,7 +443,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐72)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
@@ -450,7 +456,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐478)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐485)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -458,7 +464,7 @@
 
 ### Networking
 
-*   [sshex (⭐154)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐157)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
@@ -467,11 +473,11 @@
 
 ### Package Management
 
-*   [rebar3\_hex (⭐97)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐99)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐717)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐716)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -481,7 +487,7 @@
 
 *   [fitex (⭐2)](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 
-## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [17. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / HTTP Handler
 
@@ -495,7 +501,7 @@
 
 *   [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 
-## [17. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [18. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
@@ -503,15 +509,15 @@
 
 ### Structural Migrations
 
-*   [Migratus (⭐617)](https://github.com/yogthos/migratus)
+*   [Migratus (⭐628)](https://github.com/yogthos/migratus)
 
 ### Security
 
-*   [Buddy (⭐824)](https://github.com/funcool/buddy)
+*   [Buddy (⭐826)](https://github.com/funcool/buddy)
 
 ### Monads
 
-*   [cats (⭐939)](https://github.com/funcool/cats)
+*   [cats (⭐935)](https://github.com/funcool/cats)
 
 ### Science and Data Analysis
 
@@ -521,7 +527,7 @@
 
 *   [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 
-## [18. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [19. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### *Basics*
 
@@ -580,7 +586,7 @@
 *   [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
 *   [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -644,7 +650,7 @@
 
 *   [instanceofpro/awesome-backbone (⭐406)](https://github.com/sadcitizen/awesome-backbone)
 
-## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [21. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -686,7 +692,7 @@
 
 *   [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
@@ -720,7 +726,7 @@
 *   [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson.
 *   [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - Martin Thompson.
 
-## [22. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [23. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Charts
 
@@ -754,26 +760,26 @@
 
 *   [Groovy Language Support for Android (⭐855)](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 
-## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [24. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Tools
 
 *   [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)\
     Open Source Vulnerability Analysis for your Containers.
 
-## [24. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [25. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [User Flow (⭐1.4k)](https://github.com/abynim/UserFlows)
 
-## [25. Amas](/content/sindresorhus/amas/README.md)
+## [26. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
+*   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I blog about my experiences learning code and working as a junior developer.
 
-## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Community
 
@@ -784,42 +790,11 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [27. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### HTML and CSS
-
-*   [CSS3 Tutorial 《CSS3 教程》 (⭐203)](https://github.com/waylau/css3-tutorial)
-*   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-*   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
-
-### JavaScript
-
-*   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
-
-### Python / Symfony
-
-*   [Python 中文学习大本营](http://www.pythondoc.com)
-
-### R / Django
-
-*   [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
-*   [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
-
 ## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Geospatial
 
 *   [Georust](https://github.com/georust) — geospatial tools and libraries written
-
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript General Resources / Components
-
-*   [DefinitelyTyped Repository (GitHub) (⭐46k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
-
-### TypeScript Seed Projects / Components
-
-*   [Spring Boot and Angular2 tutorial (⭐142)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 
 ---
 

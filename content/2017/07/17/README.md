@@ -31,7 +31,7 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐790)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐792)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Models/Projects
 
-*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.7k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
+*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.8k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 
 ---
 

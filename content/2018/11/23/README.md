@@ -65,21 +65,17 @@
 ### General
 
 *   [Super Tiny Icons (⭐14k)](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-*   [Weather icons (⭐6.6k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+*   [Weather icons (⭐6.9k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 
 ### Logos
 
-*   [Browser Logos (⭐5.8k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
-*   [Cryptocoins (⭐823)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
+*   [Browser Logos (⭐5.9k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
+*   [Cryptocoins (⭐830)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 
 ### Special
 
-*   [Flag Kit (⭐2.9k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
+*   [Flag Kit (⭐3k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 *   [Mapsicon (⭐2.1k)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
-
-### Other / Paid
-
-*   [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 
 ## [9. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -103,7 +99,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐72)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐73)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ---
 

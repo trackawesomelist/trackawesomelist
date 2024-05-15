@@ -26,26 +26,26 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐162)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐172)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Algorithms and Design Patterns
 
 *   Algorithms
-    *   [algorithms (⭐23k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    *   [python-ds (⭐2.6k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
+    *   [algorithms (⭐24k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
+    *   [python-ds (⭐2.7k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
     *   [sortedcontainers (⭐3.2k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [thealgorithms (⭐176k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [thealgorithms (⭐178k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐7.6k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐7.8k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Asynchronous Programming
 
 *   [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
-*   [uvloop (⭐9.9k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+*   [uvloop (⭐10k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ### Built-in Classes Enhancement
 
@@ -53,9 +53,9 @@
 
 ### Code Analysis
 
-*   Static Type Checkers, also see [awesome-python-typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing)
+*   Static Type Checkers, also see [awesome-python-typing (⭐1.6k)](https://github.com/typeddjango/awesome-python-typing)
     *   [mypy (⭐17k)](https://github.com/python/mypy) - Check variable types during compile time.
-    *   [pyre-check (⭐6.6k)](https://github.com/facebook/pyre-check) - Performant type checking.
+    *   [pyre-check (⭐6.7k)](https://github.com/facebook/pyre-check) - Performant type checking.
     *   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 
 ### Computer Vision
@@ -64,28 +64,28 @@
 
 ### Configuration Files
 
-*   [hydra (⭐8k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
+*   [hydra (⭐8.2k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 
 ### Data Visualization
 
-*   [plotnine (⭐3.7k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
+*   [plotnine (⭐3.8k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 
 ### DevOps Tools
 
 *   Configuration Management
-    *   [ansible (⭐60k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    *   [cloudinit (⭐2.5k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    *   [ansible (⭐61k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+    *   [cloudinit (⭐2.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
     *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
-    *   [pyinfra (⭐2.5k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    *   [pyinfra (⭐2.6k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐14k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
 ### Distribution
 
-*   [pyarmor (⭐2.8k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐2.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐7.9k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐8.2k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### Job Scheduler
 
@@ -98,13 +98,13 @@
 ### Package Management
 
 *   [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-    *   [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+    *   [pip-tools (⭐7.5k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
     *   [PyPI](https://pypi.org/)
 *   [poetry (⭐29k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 ### Package Repositories
 
-*   [warehouse (⭐3.4k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+*   [warehouse (⭐3.5k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
 ### RPC Servers
 
@@ -112,7 +112,7 @@
 
 ### Search
 
-*   [elasticsearch-dsl-py (⭐3.7k)](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch.
+*   [elasticsearch-dsl-py (⭐3.8k)](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch.
 *   [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 
 ### Static Site Generator
@@ -122,11 +122,11 @@
 
 ### Template Engine
 
-*   [Jinja2 (⭐9.8k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐9.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐3.1k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐3.2k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -197,11 +197,11 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPreview (⭐96)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
+*   [RSSPreview (⭐97)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐130)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐134)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -272,30 +272,30 @@
 
 ### Visualization / Interactive plots
 
-*   [Bokeh (⭐18k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+*   [Bokeh (⭐19k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
-*   [bqplot (⭐3.5k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
+*   [bqplot (⭐3.6k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 
 ### Visualization / Automatic Plotting
 
-*   [HoloViews (⭐2.5k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐1.5k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
-*   [SweetViz (⭐2.6k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+*   [HoloViews (⭐2.6k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+*   [AutoViz (⭐1.6k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [SweetViz (⭐2.8k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
 
-*   [pyLDAvis (⭐1.7k)](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
+*   [pyLDAvis (⭐1.8k)](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
 ### Data Manipulation / Data Frames
 
-*   [pandas\_profiling (⭐11k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐12k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Web Scraping / Synthetic Data
 
 *   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
 *   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
-*   [twitterscraper (⭐2.3k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
+*   [twitterscraper (⭐2.4k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -341,7 +341,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [RustScan (⭐11k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+*   [RustScan (⭐12k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
 ### Web / Scanning / Pentesting
 
@@ -394,7 +394,7 @@
 
 ### Community resources
 
-*   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Documentation Primitives (⭐35)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -423,7 +423,7 @@
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐4.6k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐5k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [33. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -455,12 +455,12 @@
 
 ### Third-Party Packages / APIs
 
-*   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
-*   [django-cors-headers (⭐5.2k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
-*   [dj-rest-auth (⭐1.5k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
+*   [django-rest-framework (⭐28k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
+*   [django-cors-headers (⭐5.3k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
+*   [dj-rest-auth (⭐1.6k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
 *   [django-rest-knox (⭐1.1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
-*   [djoser (⭐2.4k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
-*   [djaq (⭐70)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
+*   [djoser (⭐2.5k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
+*   [djaq (⭐71)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
 *   [django-rest-framework-simplejwt (⭐3.8k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
 *   [django-webpack-loader (⭐2.5k)](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 *   [drf-yasg (⭐3.3k)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
@@ -468,7 +468,7 @@
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐177)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐184)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [36. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -509,16 +509,16 @@
 
 ### General
 
-*   [GitHub repository (⭐33k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
+*   [GitHub repository (⭐34k)](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square\&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
 
 ### 2D/3D Rendering engines / API
 
-*   [Blazor.Canvas (⭐183)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐205)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐1k)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [BlazorApplicationInsights (⭐157)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [bUnit - a testing library for Blazor components (⭐1.1k)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [BlazorApplicationInsights (⭐169)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -534,35 +534,35 @@
 
 ### Courses & Books & Blogs
 
-*   [Advanced-Deep-Trading (⭐503)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
+*   [Advanced-Deep-Trading (⭐524)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
 
 ### Event Drive
 
-*   🌟🌟 [stockpredictionai (⭐3.8k)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
+*   🌟🌟 [stockpredictionai (⭐3.9k)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
 
 ### Time Series Data
 
-*   [tf\_deep\_rl\_trader (⭐225)](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
-*   [trading-gym (⭐226)](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
-*   [deep\_rl\_trader (⭐382)](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
-*   [DeepLearningNotes (⭐345)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
-*   [stock\_market\_reinforcement\_learning (⭐773)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
+*   [tf\_deep\_rl\_trader (⭐229)](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
+*   [trading-gym (⭐228)](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
+*   [deep\_rl\_trader (⭐396)](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
+*   [DeepLearningNotes (⭐358)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
+*   [stock\_market\_reinforcement\_learning (⭐783)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 
 ### Portfolio Management
 
-*   [Deep-Reinforcement-Stock-Trading (⭐454)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
-*   [qtrader (⭐422)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
-*   [PGPortfolio (⭐1.6k)](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
+*   [Deep-Reinforcement-Stock-Trading (⭐512)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
+*   [qtrader (⭐445)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
+*   [PGPortfolio (⭐1.7k)](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 
 ### High Frequency Trading
 
-*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐1.6k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐1.8k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
 
 ### Crypto Currencies Strategies
 
-*   [LSTM-Crypto-Price-Prediction (⭐267)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
-*   [tforce\_btc\_trader (⭐790)](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
-*   [Tensorflow-NeuroEvolution-Trading-Bot (⭐149)](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
+*   [LSTM-Crypto-Price-Prediction (⭐275)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
+*   [tforce\_btc\_trader (⭐799)](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
+*   [Tensorflow-NeuroEvolution-Trading-Bot (⭐155)](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
 *   [gekkoga (⭐305)](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
 *   [bitcoin\_prediction (⭐233)](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
 
@@ -570,63 +570,63 @@
 
 *   [gekko\_trading\_stuff (⭐109)](https://github.com/thegamecat/gekko-trading-stuff) - Awesome crypto currency trading platform.
 *   [Bitcoin\_MACD\_Strategy (⭐9)](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD crossover trading strategy backtest.
-*   [crypto-signal (⭐4.5k)](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
+*   [crypto-signal (⭐4.7k)](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 
 ### Arbitrage
 
-*   [r2 (⭐744)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
-*   [cryptocurrency-arbitrage (⭐1.1k)](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
-*   [bitcoin-arbitrage (⭐2.3k)](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
-*   [blackbird (⭐5.8k)](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
+*   [r2 (⭐757)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
+*   [cryptocurrency-arbitrage (⭐1.2k)](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
+*   [bitcoin-arbitrage (⭐2.4k)](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
+*   [blackbird (⭐5.9k)](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
 
 ### Data Sources / Traditional Markets
 
 *   🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
-*   [Tushare (⭐12k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
+*   [Tushare (⭐13k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 
 ### Data Sources / Crypto Currencies
 
-*   [CryptoInscriber (⭐38)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
-*   [Gekko-Datasets (⭐160)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+*   [CryptoInscriber (⭐43)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
+*   [Gekko-Datasets (⭐165)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 ### Research Tools / Crypto Currencies
 
-*   🌟🌟 [TensorTrade (⭐4.3k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
-*   [JAQS (⭐601)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
-*   [empyrical (⭐1.1k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
+*   🌟🌟 [TensorTrade (⭐4.4k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
+*   [JAQS (⭐610)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
+*   [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 
 ### Traditional Market / Crypto Currencies
 
 *   🌟🌟 [zipline (⭐17k)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
-*   [rqalpha (⭐5k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
-*   [backtrader (⭐12k)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
-*   [kungfu (⭐2.9k)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+*   [rqalpha (⭐5.2k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
+*   [backtrader (⭐13k)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
+*   [kungfu (⭐3.1k)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 
 ### Crypto Currencies / Plugins
 
 *   [CoinMarketCapBacktesting (⭐3)](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting) - Tests bt and Quantopian Zipline as backtesting frameworks for coin trading strategy.
-*   [Gekko-BacktestTool (⭐223)](https://github.com/xFFFFF/Gekko-BacktestTool) - Batch backtest, import and strategy params optimalization for Gekko Trading Bot.
+*   [Gekko-BacktestTool (⭐224)](https://github.com/xFFFFF/Gekko-BacktestTool) - Batch backtest, import and strategy params optimalization for Gekko Trading Bot.
 
 ### Crypto Currencies / Crypto Currencies
 
 *   [zenbot (⭐8.2k)](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
 *   [bot18 (⭐194)](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
 *   [magic8bot (⭐335)](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
-*   [catalyst (⭐2.4k)](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
+*   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
 *   [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 
 ### TA Lib / Plugins
 
-*   [tulipnode (⭐473)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
+*   [tulipnode (⭐486)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 
 ### Exchange API / Plugins
 
-*   [HuobiFeeder (⭐38)](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
+*   [HuobiFeeder (⭐39)](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 
 ### GYM Environment / Plugins
 
-*   🌟 [TradingGym (⭐1.2k)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
-*   [TradzQAI (⭐166)](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
+*   🌟 [TradingGym (⭐1.5k)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
+*   [TradzQAI (⭐165)](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
 
 ### Others / Plugins
 
@@ -634,7 +634,7 @@
 
 ### Others / Other Resource
 
-*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐2.1k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
+*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐2.4k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 
 ## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -654,7 +654,7 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI Cache (⭐204)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
+*   [FastAPI Cache (⭐209)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
 ## [44. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -697,7 +697,7 @@
 
 ### Tools / XML
 
-*   [denofn-selfhosted (⭐29)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+*   [denofn-selfhosted (⭐30)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -739,7 +739,7 @@
 
 ### Finance
 
-- API: [Real Time Finance (⭐58)](https://github.com/Real-time-finance/finance-websocket-API/)
+- API: [Real Time Finance (⭐62)](https://github.com/Real-time-finance/finance-websocket-API/)
 
   Description: Websocket API to access realtime stock data
 
@@ -748,6 +748,8 @@
   HTTPS: No
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -781,10 +783,10 @@
 ### Components & Libraries / UI Components
 
 *   [vue-grid-responsive (⭐30)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
-*   [vue-splash (⭐130)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-*   [@geospoc/v-mapbox (⭐173)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [vue-splash (⭐129)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [@geospoc/v-mapbox (⭐180)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
-*   [ckeditor4-vue (⭐71)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [ckeditor4-vue (⭐74)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 *   [vue-scratchable (⭐53)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ### Components & Libraries / UI Utilities
@@ -805,13 +807,13 @@
 
 ### Database
 
-*   [ObjectBox (⭐411)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐416)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐66)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐67)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

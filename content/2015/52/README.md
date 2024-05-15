@@ -16,7 +16,7 @@
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐109)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐111)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐381)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐379)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
@@ -38,7 +38,7 @@
 
 ### Testing
 
-*   [minitest.cr (⭐145)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐144)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
 ## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -156,7 +156,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Development / Mobile Development
 
-*   [mobicon-cli (⭐103)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon-cli (⭐110)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [13. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
@@ -300,7 +300,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Boilerplates / Other
 
-*   [electron-react-boilerplate (⭐22k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+*   [electron-react-boilerplate (⭐23k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 
 ### Videos / Other
 
@@ -322,9 +322,9 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Debug
 
-*   [benchmark (⭐8.2k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
-*   [Google Mock (⭐32k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
-*   [Google Test (⭐32k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
+*   [benchmark (⭐8.4k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [Google Mock (⭐33k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
+*   [Google Test (⭐33k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 
 ### Build Systems
 

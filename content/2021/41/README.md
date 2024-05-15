@@ -12,13 +12,7 @@
 
 *   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
-## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
-
-### Tools / Working with types
-
-*   [pep585-upgrade (⭐54)](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
-
-## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 
@@ -41,7 +35,7 @@
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 *   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
-## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Books
 
@@ -51,11 +45,17 @@
 
 *   [PWA Summit](https://pwasummit.org/) – A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
 
+## [4. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+
+### Demo Apps / Community Plugins
+
+*   [capacitor-firebase-plugin-demo (⭐12)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+
 ## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐44)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐43)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -182,13 +182,13 @@
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐148)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐174)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [19. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [Record-Builder (⭐593)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐656)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -226,13 +226,9 @@
 
 ## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
-### Applications
-
-*   [datafusion (⭐4.7k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
-
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐289)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐305)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
@@ -272,7 +268,7 @@
 *   [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) \[4.3]
 *   [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) \[4.5]
 
-### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* / [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.0]
+### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
 
 *   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) \[4.0] 🔥
 *   [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) \[4.4]
@@ -288,7 +284,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐13)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐15)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -336,7 +332,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐13)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐14)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
@@ -358,13 +354,13 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐324)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐322)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐327)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [38. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -496,13 +492,13 @@
 
 ### Game
 
-*   [osu!framework (⭐1.5k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [osu!framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## [45. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐496)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐502)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -535,17 +531,7 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [49. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Web
-
-*   [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
-
-### Rust / Django
-
-*   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
-
-## [50. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [49. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Imgur
 
@@ -554,23 +540,23 @@
     *   Example album on Imgur.com: <https://imgur.com/a/GD6p5Fi>
     *   Same album on Imgin: <https://imgin.voidnet.tech/a/GD6p5Fi>
 
-## [51. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [50. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [52. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐297)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐297)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐307)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐307)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazor File Drop Zone (⭐17)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
+*   [Blazor File Drop Zone (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
-## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -591,19 +577,19 @@
 *   [Pravatar](https://pravatar.cc/) - Generate a random/placeholder fake avatar whose URL can be directly hot-linked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. The URLs can be directly hot-linked in your web/app. Support config parameters via the URL.
 
-## [54. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [53. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-shared-modules (⭐26)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [56. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [55. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 8\. Installation
 
@@ -615,7 +601,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [57. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [56. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Academic Research / Blockchain projects for AI algorithms
 
@@ -629,34 +615,55 @@
 *   [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 *   [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
-## [58. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [57. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
-*   [meander (⭐891)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
+*   [meander (⭐906)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
 
-## [59. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [58. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
 
-## [60. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [59. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [Harshit Pandey -(Oyecode)](http://www.oyecode.dev/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
 
-## [61. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [60. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐1.9k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐2k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐268)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐274)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
+
+## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
+*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
+
+### Blockchain
+
+*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+
+### Data Science
+
+*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+
+### Misc
+
+*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 
 ## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -676,13 +683,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐377)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐437)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [64. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐87k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -732,7 +739,7 @@
   CORS: No
 
 
-- API: [Movebank (⭐110)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐124)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -781,6 +788,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ### Books
@@ -809,6 +818,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tenders in Hungary](https://tenders.guru/hu/api)
 
@@ -819,6 +830,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 - API: [Tenders in Poland](https://tenders.guru/pl/api)
@@ -831,6 +844,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tenders in Romania](https://tenders.guru/ro/api)
 
@@ -841,6 +856,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 - API: [Tenders in Spain](https://tenders.guru/es/api)
@@ -853,6 +870,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Tenders in Ukraine](https://tenders.guru/ua/api)
 
@@ -863,6 +882,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -878,6 +899,8 @@
 
   CORS: Unknown
 
+  Postman: 
+
 
 - API: [Pinata](https://docs.pinata.cloud/)
 
@@ -888,6 +911,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Postman: 
 
 
 
@@ -915,7 +940,7 @@
   CORS: Unknown
 
 
-- API: [npm Registry (⭐396)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
+- API: [npm Registry (⭐432)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
 
   Description: Query information about your favorite Node.js libraries programatically
 
@@ -990,7 +1015,7 @@
   CORS: Unknown
 
 
-- API: [NaMoMemes (⭐25)](https://github.com/theIYD/NaMoMemes)
+- API: [NaMoMemes (⭐27)](https://github.com/theIYD/NaMoMemes)
 
   Description: Memes on Narendra Modi
 
@@ -1001,7 +1026,7 @@
   CORS: Unknown
 
 
-- API: [Yo Momma Jokes (⭐55)](https://github.com/beanboi7/yomomma-apiv2)
+- API: [Yo Momma Jokes (⭐69)](https://github.com/beanboi7/yomomma-apiv2)
 
   Description: REST API for Yo Momma Jokes
 
@@ -1039,6 +1064,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/)
 
@@ -1049,6 +1076,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -1112,7 +1141,7 @@
   CORS: Unknown
 
 
-- API: [Sakura CardCaptor (⭐48)](https://github.com/JessVel/sakura-card-captor-api)
+- API: [Sakura CardCaptor (⭐55)](https://github.com/JessVel/sakura-card-captor-api)
 
   Description: Sakura CardCaptor Cards Information
 
@@ -1463,7 +1492,7 @@
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐59k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐65k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -1488,7 +1517,7 @@
   CORS: Unknown
 
 
-- API: [Readme typing SVG (⭐3.5k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐4.7k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 
@@ -1577,7 +1606,7 @@
 
 ### Social
 
-- API: [Lanyard (⭐772)](https://github.com/Phineas/lanyard)
+- API: [Lanyard (⭐875)](https://github.com/Phineas/lanyard)
 
   Description: Retrieve your presence on Discord through an HTTP REST API or WebSocket
 

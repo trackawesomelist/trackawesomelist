@@ -18,7 +18,7 @@
 
 ### Adminhtml / Backend
 
-*   [Disable Stock Reservation (⭐190)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+*   [Disable Stock Reservation (⭐207)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
 ## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Tools / Community providers
 
-*   [tftui (⭐828)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
+*   [tftui (⭐883)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ---
 

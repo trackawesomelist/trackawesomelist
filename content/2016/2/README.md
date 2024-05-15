@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-42 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -126,7 +126,7 @@ git commit --amend --reset-author --no-edit
 
 ### Concurrency
 
-*   [ArrayFire (⭐4.3k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
+*   [ArrayFire (⭐4.4k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
 ## [12. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -370,7 +370,7 @@ git commit --amend --reset-author --no-edit
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.7k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.8k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [28. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -463,11 +463,11 @@ git commit --amend --reset-author --no-edit
 
 ### Files and Directories
 
-*   [exfswatch (⭐248)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐254)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
-*   [phoenix\_slime (⭐309)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
+*   [phoenix\_slime (⭐310)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 *   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### Games
@@ -481,20 +481,20 @@ git commit --amend --reset-author --no-edit
 ### Logging
 
 *   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐176)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐177)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐253)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
-*   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
+*   [arc\_ecto (⭐255)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
 
-*   [elixir\_nsq (⭐89)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐90)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ### Utilities
 
-*   [exjprop (⭐1)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
+*   [exjprop (⭐0)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 
 ### Community
 
@@ -510,13 +510,7 @@ git commit --amend --reset-author --no-edit
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
-
-## [35. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [34. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -529,33 +523,33 @@ git commit --amend --reset-author --no-edit
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐66)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐70)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐315)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐337)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
-*   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+*   [file-type-cli (⭐70)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
-## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐69)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐483)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [diff2html-cli (⭐492)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -721,7 +715,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00 |
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -739,17 +733,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
-## [40. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Android
-
-*   [Android Note(开发过程中积累的知识点) (⭐3.4k)](https://github.com/CharonChui/AndroidNote)
-
-### Swift / Django
-
-*   [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
-
-## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -759,7 +743,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [40. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

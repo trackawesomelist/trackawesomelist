@@ -14,32 +14,32 @@
 
 ### Tools / Wrappers
 
-*   [Terramate (⭐2.9k)](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
+*   [Terramate (⭐3.1k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 *   [easy\_infra (⭐65)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
-*   [tfam (⭐20)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
+*   [tfam (⭐21)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 *   [tfexe (⭐2)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
-*   [tfwrapper (⭐123)](https://github.com/claranet/tfwrapper) - Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
+*   [tfwrapper (⭐128)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 
 ### Tools / CI
 
-*   [pre-commit-opentofu (⭐17)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
+*   [pre-commit-opentofu (⭐28)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 
 ### Tools / State
 
-*   [tfmigrate (⭐1k)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
+*   [tfmigrate (⭐1.1k)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
 
 ### Tools / Platforms
 
-*   [digger (⭐2.6k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-*   [walrus (⭐333)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
+*   [digger (⭐2.7k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+*   [walrus (⭐400)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
 
 ### Tools / Registry
 
-*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+*   [boring-registry (⭐153)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
-*   [terratag (⭐866)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [terratag (⭐899)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 
 ### Learning / Helpers
 
@@ -63,7 +63,6 @@
 ### Applications
 
 *   [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
-*   [Visual JSON](https://apps.apple.com/us/app/visual-json/id488709442?mt=12) ([github (⭐301)](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 
 ### Binary Serialization
 
@@ -72,22 +71,22 @@
 
 ### Browser Extensions
 
-*   [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github (⭐3.6k)](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
-*   [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github (⭐3.2k)](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
+*   [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github (⭐3.7k)](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
+*   [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github (⭐3.3k)](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
 *   [JSON Finder](https://chromewebstore.google.com/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github (⭐39)](https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
-*   [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github (⭐518)](https://github.com/rbrahul/Awesome-JSON-Viewer) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
+*   [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github (⭐526)](https://github.com/rbrahul/Awesome-JSON-Viewer) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
 *   [Discoverable JSON](https://chromewebstore.google.com/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg) ([github (⭐3)](https://github.com/noitcudni/discoverable-json)) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.
 
 ### Command-line tools
 
-*   [jq (⭐28k)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
-    *   [jaq (⭐2.4k)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
-    *   [gojq (⭐3k)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
-*   [livejq (⭐10)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
+*   [jq (⭐29k)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+    *   [jaq (⭐2.5k)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+    *   [gojq (⭐3.1k)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
+*   [livejq (⭐11)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 *   [json-search (⭐4)](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
 *   [jshon](https://web.archive.org/web/20240206155217/http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
-*   [jc (⭐7.4k)](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
-*   [logdy (⭐166)](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
+*   [jc (⭐7.6k)](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
+*   [logdy (⭐417)](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 
 ### Differencing
 
@@ -99,18 +98,17 @@
 
 ### Format Extensions
 
-*   [NDJSON](https://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 *   [survey.js](https://surveyjs.io/form-library) - JSON based survey library.
 *   [J<sub>ack</sub>SON: JSON secret keeper (⭐18)](https://github.com/rosehgal/jackson) - JSONic way of storing secrets in config file.
 
 ### Frontend components
 
-*   [@textea/json-viewer (⭐355)](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
+*   [@textea/json-viewer (⭐363)](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
 
 ### Libraries
 
-*   [Jansson (⭐2.9k)](https://github.com/akheron/jansson) - A C library for encoding, decoding and manipulating data.
-*   [oboe.js (⭐4.7k)](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
+*   [Jansson (⭐3k)](https://github.com/akheron/jansson) - A C library for encoding, decoding and manipulating data.
+*   [oboe.js (⭐4.8k)](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 
 ### Online tools
 
@@ -123,7 +121,7 @@
 ### Schema Specifications
 
 *   [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
-*   [Kwalify (⭐21)](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
+*   [Kwalify (⭐22)](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
 *   [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ### Services
@@ -145,7 +143,7 @@
 ### JSON Schema Resources
 
 *   [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
-*   [Awesome JSON Schema (⭐91)](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
+*   [Awesome JSON Schema (⭐101)](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
 ### JSON Schema Validators
 
@@ -184,7 +182,7 @@
 
 ### Plugins
 
-*   💼🧬🧩 [Fluid (⭐21)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
+*   💼🧬🧩 [Fluid (⭐196)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
 
 ## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -196,11 +194,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐30)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐41)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐29)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐36)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -210,7 +208,7 @@
 
 ## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
-### Programming Languages / [Other](#other-1)
+### Multiple languages / [Other](#other-1)
 
 *   [Codemodder](https://codemodder.io/) — Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 *   [Pixee](https://pixee.ai) :copyright: — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
@@ -219,13 +217,13 @@
 
 ### Workflow
 
-*   [Multiwoven (⭐139)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
+*   [Multiwoven (⭐605)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 
 ## [13. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [multiwoven (⭐139)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+*   [multiwoven (⭐605)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 
 ---
 

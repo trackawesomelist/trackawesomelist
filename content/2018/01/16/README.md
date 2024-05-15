@@ -135,7 +135,7 @@
 
 ### Graphics
 
-*   [magnum (⭐4.6k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.7k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

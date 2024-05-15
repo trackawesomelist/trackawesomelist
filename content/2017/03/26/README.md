@@ -24,10 +24,6 @@
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
-### Malware Collection / Honeypots
-
-*   [HoneyDrive](http://bruteforcelab.com/honeydrive) - Honeypot bundle Linux distro.
-
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [Triton](https://triton.quarkslab.com/) - A dynamic binary analysis (DBA) framework.

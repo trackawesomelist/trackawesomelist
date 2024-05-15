@@ -72,7 +72,7 @@
 
 *   [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 *   [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman (⭐5.8k)](https://github.com/ddollar/foreman)
+*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman (⭐6k)](https://github.com/ddollar/foreman)
 
 ### Web Frameworks-Like / Middlewares
 

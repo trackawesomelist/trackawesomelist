@@ -25,8 +25,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐680)](https://github.com/llogiq/flame) —
-    *   [mrhooray/torch (⭐129)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐686)](https://github.com/llogiq/flame) —
+    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -40,10 +40,10 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Angular CLI / Components
+### CLI / Testing
 
 *   [Official web page](https://cli.angular.io/)
-*   [Official repository (⭐26k)](https://github.com/angular/angular-cli)
+*   [Official repository (⭐27k)](https://github.com/angular/angular-cli)
 
 ## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

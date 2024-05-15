@@ -248,7 +248,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Network / Other Resources
 
-*   [Laika BOSS (⭐701)](https://github.com/lmco/laikaboss) - Laika BOSS is a file-centric
+*   [Laika BOSS (⭐720)](https://github.com/lmco/laikaboss) - Laika BOSS is a file-centric
     malware analysis and intrusion detection system.
 
 ---

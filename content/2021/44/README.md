@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01 - Nov 07, 2021
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐4.8k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐5.3k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [7. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -54,9 +54,9 @@
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Community
+### Local and regional groups
 
-*   [German Open Transport Meetup (⭐40)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐40)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐316k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -186,12 +186,12 @@
 
 *   [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 *   [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
-*   [fancontrol-gui (⭐198)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
+*   [fancontrol-gui (⭐281)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
 *   [KDE Wallet Manager](https://apps.kde.org/kwalletmanager5/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
 *   [KFind](https://apps.kde.org/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
 *   [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 *   [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
-*   [Yin-Yang (⭐364)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
+*   [Yin-Yang (⭐545)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 
 ### Development & Programming
 
@@ -204,11 +204,11 @@
 
 ### Plasma desktop / Extensions
 
-*   [Bismuth (⭐1.4k)](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad).
-*   [Dynamic Wallpaper Engine (⭐241)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
-*   [Kvantum (⭐1.2k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+*   [Bismuth (⭐2.3k)](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad). (**NOTE** for KDE Plasma 6, check Polonium listed below)
+*   [Dynamic Wallpaper Engine (⭐317)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
+*   [Kvantum (⭐1.5k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 *   [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-*   [Window Title Applet (⭐207)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+*   [Window Title Applet (⭐243)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 
 ### Plasma desktop / KCM Modules and Systems
 
@@ -217,29 +217,29 @@
 
 ### Plasma desktop / Themes
 
-*   [ChromeOS (⭐107)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Fluent (⭐111)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
+*   [ChromeOS (⭐147)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
+*   [Fluent (⭐156)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 *   [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
-*   [Hello (⭐219)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
-*   [Materia KDE (⭐494)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
-*   [McMojave (⭐212)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
-*   [Orchis (⭐122)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Qogir (⭐139)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
-*   [WhiteSur (⭐606)](https://github.com/vinceliuice/WhiteSur-kde) - A MacOS Big Sur theme for KDE Plasma.
+*   [Hello (⭐220)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
+*   [Materia KDE (⭐598)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+*   [McMojave (⭐235)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
+*   [Orchis (⭐195)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
+*   [Qogir (⭐162)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
+*   [WhiteSur (⭐820)](https://github.com/vinceliuice/WhiteSur-kde) - A MacOS Big Sur theme for KDE Plasma.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [Akava-Kv (⭐190)](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
-*   [Chrome-KDE5BreezeDark (⭐19)](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
-*   [KDE-Rounded-Corners (⭐168)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
-*   [SierraBreeze (⭐352)](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
+*   [Akava-Kv (⭐193)](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
+*   [Chrome-KDE5BreezeDark (⭐23)](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
+*   [KDE-Rounded-Corners (⭐167)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
+*   [SierraBreeze (⭐358)](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
 
 ### Plasma desktop / Icons
 
-*   [Candy (⭐713)](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
-*   [Flatery (⭐294)](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
-*   [Papirus (⭐5.4k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
-*   [Zafiro (⭐379)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+*   [Candy (⭐979)](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
+*   [Flatery (⭐304)](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
+*   [Papirus (⭐6.3k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Zafiro (⭐435)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 
 ### Plasma desktop / Scripts
 
@@ -276,7 +276,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐557)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐556)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -287,7 +287,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐19)](https://github.com/CityOfBoston/digital)
+  Source code \*: [:octocat: (⭐20)](https://github.com/CityOfBoston/digital)
 
 
 - : [Semi Design](https://semi.design/en-US)
@@ -298,7 +298,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7.6k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐7.9k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -309,7 +309,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐11)](https://github.com/govtechsg/sgds)
 
 
 - : [VMware Clarity Design System](https://clarity.design/)
@@ -348,19 +348,19 @@
 
 ### Hybrid
 
-*   [RemoteBlazorWebView (⭐24)](https://github.com/budcribar/RemoteBlazorWebView) - ![last commit](https://img.shields.io/github/last-commit/budcribar/RemoteBlazorWebView?style=flat-square\&cacheSeconds=86400) RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser.
+*   [RemoteBlazorWebView (⭐28)](https://github.com/budcribar/RemoteBlazorWebView) - ![last commit](https://img.shields.io/github/last-commit/budcribar/RemoteBlazorWebView?style=flat-square\&cacheSeconds=86400) RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser.
 
 ### Others
 
-*   [FFmpegBlazor (⭐114)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐12k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐123)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐13k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Component bundles
 
-*   [MudBlazor (⭐6.5k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
+*   [MudBlazor (⭐7.1k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
 
 ### Real-World applications / Others
 
-*   [Try .NET (⭐2.7k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+*   [Try .NET (⭐2.8k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## [25. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -373,7 +373,7 @@
 ### Projects / Libraries
 
 *   [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - Tactics for performing proofs of inequalities on expressions of real numbers.
-*   [MathComp Extra (⭐4)](https://github.com/thery/mathcomp-extra) - Extra material for the Mathematical Components library, including the AKS primality test and RSA encryption and decryption.
+*   [MathComp Extra (⭐5)](https://github.com/thery/mathcomp-extra) - Extra material for the Mathematical Components library, including the AKS primality test and RSA encryption and decryption.
 
 ### Projects / Package and Build Management
 
@@ -392,8 +392,8 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [artart222/CodeArt (⭐868)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
-*   [shaeinst/roshnivim (⭐177)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [artart222/CodeArt (⭐871)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+*   [shaeinst/roshnivim (⭐183)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -406,7 +406,7 @@
 
 ### Uncategorized
 
-*   [Vignette (⭐463)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐492)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -418,19 +418,19 @@
 
 ### Getting Started
 
-*   [ARHeadsetKit Tutorials (⭐119)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
+*   [ARHeadsetKit Tutorials (⭐122)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
 
 ## [33. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [statix (⭐485)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐506)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐517)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [nixpkgs-mozilla (⭐484)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
-*   [rust-overlay (⭐701)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [fenix (⭐563)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [nixpkgs-mozilla (⭐490)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [rust-overlay (⭐758)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Community / Webinterface
 
@@ -440,16 +440,10 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue2-gmap-custom-marker (⭐134)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
+*   [vue2-gmap-custom-marker (⭐135)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
 *   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 
-## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Open Source / Community
-
-*   [îles (⭐1k)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
-
-## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Books / iOS
 
@@ -477,7 +471,7 @@
 *   [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - A guide on how to setup your Raspberry Pi to play classic games, and how to make your own games.
 *   [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews.
 
-## [37. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [36. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Mail / Text
 
@@ -563,44 +557,44 @@
 
 *   [Cyberduck (⭐2.7k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Libs
 
 *   🍰 [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Game Development
 
 *   [libktx/ktx (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
-*   [korlibs/KorGE (⭐2.2k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [korlibs/KorGE (⭐2.3k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
-## [40. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [39. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Platform-specific tools
 
 *   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
-## [41. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Miscellaneous
 
 *   [Filterms (⭐2)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 
-## [42. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Presentations / XML
 
 *   [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 
-## [43. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [42. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
-*   [Flask-SimpleLogin (⭐194)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
+*   [Flask-SimpleLogin (⭐198)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -632,47 +626,47 @@
 
 *   [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free public service.
 
-## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - A book about how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. (early access, published continuously, final release fall 2021)
 
-## [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Interesting Instagram Accounts, Posts and Reels / Deforum
 
 *   [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
 
-## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [uutils/coreutils (⭐16k)](https://github.com/uutils/coreutils) — A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
+*   [uutils/coreutils (⭐17k)](https://github.com/uutils/coreutils) — A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐256)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐267)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
-    *   [bracket-lib (⭐1.4k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
+    *   [bracket-lib (⭐1.5k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
     *   [tomassedovic/tcod-rs (⭐229)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings.
     *   Warning: Not maintained anymore
 
 ### Registries / Web programming
 
-*   [w4/chartered (⭐128)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐129)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
-## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Database
 
 *   [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
-## [49. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [48. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
@@ -699,13 +693,13 @@
 *   [Twitter](https://twitter.com/NodeRED)
 *   [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
 
-## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Advanced
 
 *   [Programming Algorithms in Lisp](https://link.springer.com/book/10.1007/978-1-4842-6428-7) - Updated version of "[Programming Algorithms](https://leanpub.com/progalgs)"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp.
 
-## [51. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [50. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -715,37 +709,34 @@
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 
-## [52. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [51. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Declarative Authorisation Middleware (⭐77)](https://github.com/joindeed/prisma-auth)
 
-## [53. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [52. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [54. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### Golang
+### Algorithms & Data Structures
 
-*   [Go 命令教程 (⭐3.5k)](https://github.com/hyper-carrot/go_command_tutorial)
+*   [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 
-### Groovy
+### Containers
 
-*   [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
+*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐82)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐192)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
-### HTML and CSS
-
-*   [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
-
-## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
-- API: [PoetryDB (⭐438)](https://github.com/thundercomb/poetrydb#readme)
+- API: [PoetryDB (⭐478)](https://github.com/thundercomb/poetrydb#readme)
 
   Description: Enables you to get instant data from our vast poetry collection
 
@@ -768,6 +759,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -801,7 +794,7 @@
 
 ### Music
 
-- API: [Gaana (⭐94)](https://github.com/cyberboysumanjay/GaanaAPI)
+- API: [Gaana (⭐106)](https://github.com/cyberboysumanjay/GaanaAPI)
 
   Description: API to retrieve song information from Gaana
 

@@ -10,7 +10,7 @@
 
 ### Tutorials
 
-*   [TensorFlow Examples (⭐42k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+*   [TensorFlow Examples (⭐43k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 
 ### Models/Projects
 
@@ -20,13 +20,13 @@
 
 ### Packages / Miscellaneous
 
-*   [adit (⭐53)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐54)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.5k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.6k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -38,7 +38,7 @@
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐995)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

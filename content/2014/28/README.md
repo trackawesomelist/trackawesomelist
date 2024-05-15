@@ -320,12 +320,12 @@
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐420)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐421)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-*   [globby (⭐2.4k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
+*   [globby (⭐2.5k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Real-time
 
@@ -334,14 +334,14 @@
 ### Packages / Image
 
 *   [sharp (⭐28k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-*   [image-type (⭐357)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
+*   [image-type (⭐361)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 *   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐569)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐110)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [escape-string-regexp (⭐570)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐111)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 *   [strip-indent (⭐132)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
@@ -351,12 +351,12 @@
 ### Packages / Humanize
 
 *   [pretty-bytes (⭐1.1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐992)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-ms (⭐1k)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 *   [pretty-error (⭐1.5k)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 
 ### Packages / Network
 
-*   [get-port (⭐842)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐845)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -387,7 +387,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Cebe Markdown (⭐995)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+*   [Cebe Markdown (⭐996)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 
 ### Table of Contents / Deployment
 
@@ -563,7 +563,7 @@
 
 ### Date and Time
 
-*   [clj-time (⭐738)](https://github.com/clj-time/clj-time)
+*   [clj-time (⭐737)](https://github.com/clj-time/clj-time)
 
 ### Audio
 
@@ -583,7 +583,7 @@
 
 ### ORM and SQL generation
 
-*   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
+*   [stch-library/sql (⭐41)](https://github.com/stch-library/sql)
 *   [sqlingvo (⭐208)](https://github.com/r0man/sqlingvo)
 *   [honeysql (⭐1.7k)](https://github.com/jkk/honeysql)
 
@@ -607,11 +607,11 @@
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐903)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐905)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
-*   [algo.monads (⭐442)](https://github.com/clojure/algo.monads)
+*   [algo.monads (⭐444)](https://github.com/clojure/algo.monads)
 
 ### WebSocket
 
@@ -623,13 +623,13 @@
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐458)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐474)](https://github.com/technomancy/slamhound)
 *   [eastwood (⭐1.1k)](https://github.com/jonase/eastwood)
-*   [kibit (⭐1.7k)](https://github.com/jonase/kibit)
+*   [kibit (⭐1.8k)](https://github.com/jonase/kibit)
 
 ### Text Processing
 
-*   [clojure-opennlp (⭐745)](https://github.com/dakrone/clojure-opennlp)
+*   [clojure-opennlp (⭐747)](https://github.com/dakrone/clojure-opennlp)
 
 ### Websites / YouTube
 

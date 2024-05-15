@@ -49,8 +49,8 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C
-    *   [by @fragglet (⭐3k)](https://github.com/fragglet/c-algorithms)
-    *   [by @TheAlgorithms (⭐17k)](https://github.com/TheAlgorithms/C)
+    *   [by @fragglet (⭐3.2k)](https://github.com/fragglet/c-algorithms)
+    *   [by @TheAlgorithms (⭐18k)](https://github.com/TheAlgorithms/C)
 
 ## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-leaflet-widget (⭐21)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
+*   [wagtail-leaflet-widget (⭐22)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

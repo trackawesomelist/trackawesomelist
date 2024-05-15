@@ -10,7 +10,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [easyWSL (⭐531)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [easyWSL (⭐542)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -38,25 +38,25 @@
 
 ### Development / Books
 
-*   [grex (⭐6.2k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+*   [grex (⭐6.5k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Development / Devops
 
-*   [PingMe (⭐664)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+*   [PingMe (⭐719)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 
 ### Development / Release
 
-*   [semantic-release (⭐19k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+*   [semantic-release (⭐20k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Utilities / Markdown
 
-*   [DocToc (⭐4k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
-*   [grip (⭐6.1k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
-*   [mdv (⭐1.7k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
+*   [DocToc (⭐4.2k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+*   [grip (⭐6.4k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
+*   [mdv (⭐1.8k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 
 ### Data Manipulation / Text
 
-*   [stegcloak (⭐3k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
+*   [stegcloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ### Files and Directories / File Managers
 
@@ -64,20 +64,19 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [rename-cli (⭐156)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
-*   [diskonaut (⭐1.9k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
+*   [rename-cli (⭐161)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+*   [diskonaut (⭐2.1k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files and Directories / Files
 
-*   [unix-permissions (⭐121)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
-*   [entr (⭐3.4k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
-*   [organize-cli (⭐311)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-*   [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+*   [unix-permissions (⭐131)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+*   [entr (⭐4k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+*   [organize-cli (⭐326)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [rclone (⭐40k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
-*   [ffsend (⭐6.7k)](https://github.com/timvisee/ffsend) - Quick file share.
+*   [rclone (⭐44k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+*   [ffsend (⭐6.8k)](https://github.com/timvisee/ffsend) - Quick file share.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -100,13 +99,13 @@
 
 ### Uncategorized
 
-*   [CrowdSec (⭐7.6k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐7.8k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
-*   🍰 [OPCache Preloader (⭐9)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
+*   🍰 [OPCache Preloader (⭐10)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

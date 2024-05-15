@@ -15,9 +15,9 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### TypeScript Seed Projects / Components
+### Site Templates / Testing
 
-*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+.
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

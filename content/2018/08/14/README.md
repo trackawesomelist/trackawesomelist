@@ -22,7 +22,7 @@
 
 ### Community Extensions
 
-*   [Realm export REST resource by Cloudtrust (⭐51)](https://github.com/cloudtrust/keycloak-export)
+*   [Realm export REST resource by Cloudtrust (⭐52)](https://github.com/cloudtrust/keycloak-export)
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

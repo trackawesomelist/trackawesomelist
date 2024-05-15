@@ -103,7 +103,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Email
 
-*   [mail (⭐379)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐383)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

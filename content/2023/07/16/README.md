@@ -14,7 +14,7 @@
 
 ### Debugging / Diagnostics
 
-*   [niuiic/dap-utils (⭐30)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+*   [niuiic/dap-utils (⭐33)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -24,7 +24,7 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Story of AI Winters and What it Teaches Us Today](https://www.turingpost.com/p/aiwinters)
 *   [There Would Have Been No LLMs Without This (episode#3 in the History series)](https://www.turingpost.com/p/llmshistory3): timeline of LLMs by Turing Post
@@ -38,7 +38,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐300)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐372)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,23 +62,23 @@
 
 ### Resources / Editors
 
-*   [Mundus (⭐86)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
+*   [Mundus (⭐142)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 
 ### Resources / Setup and Deployment
 
-*   [libgdx-library-template (⭐4)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
+*   [libgdx-library-template (⭐9)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
 
 ### Resources / User Interface
 
-*   [TextraTypist (⭐72)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+*   [TextraTypist (⭐86)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 
 ### Resources / Visual Effects
 
-*   [colorful-gdx (⭐59)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
+*   [colorful-gdx (⭐67)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
 
 ### Resources / Others
 
-*   [anim8-gdx (⭐28)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
+*   [anim8-gdx (⭐34)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
 
 ---
 

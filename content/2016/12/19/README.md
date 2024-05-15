@@ -54,19 +54,9 @@
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Documentation tools / Components
+### Documentation tools / Testing
 
-*   [Compodoc (⭐3.9k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
-
-### TypeScript Seed Projects / Components
-
-*   [famn (⭐26)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
-
-### Haxe General Resources / Components
-
-*   [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
-*   [Haxe and Node.js](https://github.com/PatrickJS/awesome-angular/blob/gh-pages/README.md/matthijskamstra.github.io/haxenode/)
-*   [News And Information For Haxe Developers](https://haxe.io/)
+*   [Compodoc (⭐4k)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -76,7 +66,7 @@
 
 ### Logging
 
-*   [Blackhole (⭐198)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐200)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -88,7 +78,7 @@
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐463)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐464)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

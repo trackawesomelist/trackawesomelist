@@ -10,13 +10,13 @@
 
 ### Ask these people anything!
 
-*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, tiborsimon.io.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Editors
 
-*   [Alchemist.vim (⭐652)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐651)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

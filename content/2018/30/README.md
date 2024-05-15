@@ -20,7 +20,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐268)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐275)](https://github.com/ElementsProject/libwally-core)
 
 ## [3. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -41,29 +41,29 @@
 *   [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
     (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 *   [SciPy](https://scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
-    (Python, mostly BSD, [GitHub (⭐11k)](https://github.com/scipy/scipy/))
+    (Python, mostly BSD, [GitHub (⭐12k)](https://github.com/scipy/scipy/))
 *   [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
-    (Python, BSD, [GitHub (⭐23k)](https://github.com/numpy/numpy))
+    (Python, BSD, [GitHub (⭐26k)](https://github.com/numpy/numpy))
 
 ### Finite Elements
 
 *   [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
-    (C++, LGPL 2.1, [GitHub (⭐557)](https://github.com/libMesh/libmesh))
+    (C++, LGPL 2.1, [GitHub (⭐607)](https://github.com/libMesh/libmesh))
 *   [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
-    (C++, LGPL 2.1, [GitHub (⭐1.1k)](https://github.com/dealii/dealii))
+    (C++, LGPL 2.1, [GitHub (⭐1.2k)](https://github.com/dealii/dealii))
 *   [Netgen/NGSolve](https://ngsolve.org) - High performance multiphysics finite element software.
-    (C++, LGPL 2.1, [GitHub (⭐204)](https://github.com/NGSolve/netgen))
+    (C++, LGPL 2.1, [GitHub (⭐253)](https://github.com/NGSolve/netgen))
 *   [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
-    (Python, LGPL 3, [GitHub (⭐391)](https://github.com/firedrakeproject/firedrake))
+    (Python, LGPL 3, [GitHub (⭐457)](https://github.com/firedrakeproject/firedrake))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
     (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 *   [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
-    (Python, MIT, [GitHub (⭐419)](https://github.com/inducer/meshpy))
+    (Python, MIT, [GitHub (⭐468)](https://github.com/inducer/meshpy))
 *   [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
-    (C++, mixed LGPL/GPL, [GitHub (⭐3.8k)](https://github.com/CGAL/cgal))
+    (C++, mixed LGPL/GPL, [GitHub (⭐4.4k)](https://github.com/CGAL/cgal))
 *   [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
     (C++, AGPLv3)
 *   [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
@@ -72,25 +72,25 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
-    (C, mostly BSD, [GitHub (⭐187)](https://github.com/xiaoyeli/superlu))
+    (C, mostly BSD, [GitHub (⭐249)](https://github.com/xiaoyeli/superlu))
 *   [PyAMG](https://pyamg.readthedocs.io/en/latest/) - Algebraic Multigrid Solvers in Python.
-    (Python, MIT, [GitHub (⭐463)](https://github.com/pyamg/pyamg))
+    (Python, MIT, [GitHub (⭐527)](https://github.com/pyamg/pyamg))
 
 ### Other libraries and tools / Mesh tools
 
 *   [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
-    (C, GPL2, [GitHub (⭐2.3k)](https://github.com/FFTW/fftw3))
+    (C, GPL2, [GitHub (⭐2.6k)](https://github.com/FFTW/fftw3))
 *   [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
     (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
-    [GitHub (⭐588)](https://github.com/qhull/qhull/))
+    [GitHub (⭐672)](https://github.com/qhull/qhull/))
 *   [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
     (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 *   [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
-    (C++, GPL 3, [GitHub (⭐1.1k)](https://github.com/OpenFOAM/OpenFOAM-dev))
+    (C++, GPL 3, [GitHub (⭐1.4k)](https://github.com/OpenFOAM/OpenFOAM-dev))
 *   [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
     (Python, [custom open-source
     license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
-    [GitHub (⭐403)](https://github.com/usnistgov/fipy))
+    [GitHub (⭐457)](https://github.com/usnistgov/fipy))
 
 ## [6. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
@@ -150,23 +150,23 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐571)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐572)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Work
 
-*   [Code Review (⭐4.1k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4.2k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐156)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-*   [Captcha (⭐1.1k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Calculators (⭐163)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Captcha (⭐1.2k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
-*   [EdMon (⭐7)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
+*   [EdMon (⭐8)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 
 ## [11. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -324,21 +324,21 @@
 
 ## [25. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 *   [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
-*   [awesome-generative-art (⭐1.6k)](https://github.com/kosmos/awesome-generative-art)
+*   [awesome-generative-art (⭐1.7k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐12k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
-*   [cride (⭐48)](https://github.com/j8r/cride) - A light CLI text editor/IDE
+*   [cride (⭐49)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
 ### Converters
 
@@ -371,7 +371,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Development Tools
 
-*   [Cirq (⭐3.9k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Cirq (⭐4.1k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 
 ### Blogs
@@ -418,7 +418,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Dialogflow (⭐209)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
+*   [Dialogflow (⭐214)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
 ## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -479,7 +479,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐224)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐225)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [41. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -497,11 +497,11 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Contents / Backups
 
-*   [pg\_back (⭐327)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐332)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐364)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐367)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
 ## [44. Awesome](/content/craftcms/awesome/week/README.md)

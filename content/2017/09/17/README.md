@@ -31,7 +31,7 @@
 
 ### Office
 
-*   [ExcelDataReader (⭐3.7k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+*   [ExcelDataReader (⭐3.8k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Machine Learning
 
-*   [crystal-fann (⭐81)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐80)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ---
 

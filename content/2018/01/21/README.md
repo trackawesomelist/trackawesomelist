@@ -35,7 +35,7 @@
 
 ### Libraries
 
-*   [jsoniter-scala (⭐698)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
+*   [jsoniter-scala (⭐707)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐31)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐37)](https://github.com/kallewoof/btcdeb)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

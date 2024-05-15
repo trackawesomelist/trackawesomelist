@@ -16,7 +16,7 @@
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐76)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐77)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -31,7 +31,7 @@
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐99)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐102)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Third Party APIs
 
@@ -63,7 +63,7 @@
 
 ### Configuration
 
-*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐93)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Web Frameworks
 
@@ -79,7 +79,7 @@
 
 ### Bindings
 
-*   [Vulkan-hpp (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*   [Vulkan-hpp (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

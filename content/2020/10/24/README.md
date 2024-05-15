@@ -24,7 +24,7 @@
 
 ### Table of Contents / Build Tools
 
-*   [Box (⭐1k)](https://github.com/box-project/box) - A utility to build PHAR files.
+*   [Box (⭐1.1k)](https://github.com/box-project/box) - A utility to build PHAR files.
 
 ### Table of Contents / NoSQL
 

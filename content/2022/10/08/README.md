@@ -38,7 +38,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jooby-project/jooby (⭐1.6k)](https://github.com/jooby-project/jooby) - Modular micro web framework for Java and Kotlin
+*   [jooby-project/jooby (⭐1.7k)](https://github.com/jooby-project/jooby) - Modular micro web framework for Java and Kotlin
 
 ### Libraries/Frameworks / Functional Programming
 

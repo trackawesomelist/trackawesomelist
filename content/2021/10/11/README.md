@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Advanced datastructures
 
-*   [meander (⭐891)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
+*   [meander (⭐906)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -42,14 +42,21 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐1.9k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐2k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐268)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐274)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
-## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
+*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
+
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Examples / Hardware Offload
 
@@ -59,19 +66,19 @@
 
 *   [redbpf (⭐1.7k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐377)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐437)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
-## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐87k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -119,7 +126,7 @@
   CORS: No
 
 
-- API: [Movebank (⭐110)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐124)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -154,6 +161,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 
 ### Development
@@ -180,7 +189,7 @@
   CORS: Unknown
 
 
-- API: [npm Registry (⭐396)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
+- API: [npm Registry (⭐432)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
 
   Description: Query information about your favorite Node.js libraries programatically
 
@@ -228,6 +237,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -333,7 +344,7 @@
 
 ### Social
 
-- API: [Lanyard (⭐772)](https://github.com/Phineas/lanyard)
+- API: [Lanyard (⭐875)](https://github.com/Phineas/lanyard)
 
   Description: Retrieve your presence on Discord through an HTTP REST API or WebSocket
 
@@ -387,7 +398,7 @@
 
 
 
-## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

@@ -11,13 +11,13 @@
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kakoune-lsp (⭐564)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐576)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐80)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.4k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐81)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.4k)](https://github.com/seek-oss/capsize).
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -29,7 +29,7 @@
 
 ### GraphQL
 
-*   [graphene (⭐7.9k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+*   [graphene (⭐8k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
 
 ## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Auth
 
-*   [FastAPI Simple Security (⭐255)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
+*   [FastAPI Simple Security (⭐303)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 
 ## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-highcharts (⭐43)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
+*   [vue3-highcharts (⭐44)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 
 ### Components & Libraries / Integrations
 

@@ -10,9 +10,9 @@
 
 ### Applications / File manager
 
-*   [joshuto (⭐3.1k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-*   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐6.7k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [joshuto (⭐3.3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
+*   [xplr (⭐3.9k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐8.2k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -25,15 +25,11 @@
 
 ### Treesitter Based / Diagnostics
 
-*   [atusy/treemonkey.nvim (⭐22)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
-
-### Scrolling / Diagnostics
-
-*   [nkakouros-original/scrollofffraction.nvim (⭐6)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+*   [atusy/treemonkey.nvim (⭐23)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
 
@@ -69,7 +65,7 @@
 
 ### Communication / Apache License
 
-*   [ada-enet (⭐19)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+*   [ada-enet (⭐20)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries / Apache License
 
@@ -79,7 +75,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ohmyzsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ohmyzsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 

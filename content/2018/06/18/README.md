@@ -89,7 +89,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Framework Components
 
-*   [device\_detector (⭐21)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Official Documentation Translations
 
@@ -115,7 +115,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐270)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐275)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -136,7 +136,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐189)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐191)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

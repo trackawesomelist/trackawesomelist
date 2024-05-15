@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,31 @@
 
 *   [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
 
-## [3. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Graphical User Interfaces
+
+*   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
+
+## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Developer
 
 *   [JetBrains (⭐596)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+
+### SCALE Codec
+
+*   [C++ (⭐4)](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Keyboard / Barcode
 
 *   [ISEmojiView (⭐496)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -41,38 +53,27 @@
 *   [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591) - March 31, 2022 - Mastering Blazor - Part 1: DOM Integration.
 *   [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-1-382d) - March 18, 2022 - Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory. [Part 2](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-2-1ppd).
 
-## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [8. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Content and utilities for content
 
 *   [dexterity.membrane (⭐3)](https://github.com/collective/dexterity.membrane) - Enables content to be used as users and groups in Plone sites.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Data / Scripts
 
 *   [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Shapash (⭐2.6k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐197)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
-*   [Colossal-AI (⭐36k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+*   [Eurybia (⭐200)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Colossal-AI (⭐38k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
-## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
-
-### SCALE Codec
-
-*   [C++ (⭐4)](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
-*   JavaScript / TypeScript implementations:
-    *   [paritytech/parity-scale-codec-ts (⭐57)](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
-    *   [polkadot-js/api (⭐1k)](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-    *   [scale-ts (⭐13)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
-    *   [soramitsu/scale-codec-js-library (⭐3)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
-
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Pastebins
 
@@ -86,39 +87,33 @@
 
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Plugin
 
 *   [tdengine\_hivemq (⭐0)](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Electron
 
-*   [electron-vite-vue (⭐3.6k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
-*   [electron-vite-react (⭐1.5k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
-*   [electron-vite-boilerplate (⭐200)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
-*   [electron-vite-quick-start (⭐53)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
-*   [electron-vite-template (⭐352)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-*   [fast-vite-electron (⭐148)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
-*   [fast-vite-nestjs-electron (⭐229)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
-*   [vite-plugin-electron-quick-start (⭐81)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐2.1k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-*   [vite-reactts-electron-starter (⭐273)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
-*   [Vitectron (⭐13)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+*   [electron-vite-vue (⭐3.8k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐1.6k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-boilerplate (⭐201)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+*   [electron-vite-template (⭐365)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐159)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐250)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [vite-plugin-electron-quick-start (⭐111)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+*   [vite-electron-builder (⭐2.2k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-reactts-electron-starter (⭐285)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 
-### Framework-agnostic Plugins / Bundling
-
-*   [vite-plugin-progress (⭐204)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
-
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Scheduling
 

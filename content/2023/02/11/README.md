@@ -16,8 +16,8 @@
 
 ### Data conversion tools
 
-*   [gpxstudio (⭐479)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
-*   [img2geojson (⭐13)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+*   [gpxstudio (⭐550)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [img2geojson (⭐14)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 
 ### Helpers
 
@@ -42,14 +42,14 @@
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐179)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐195)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/neodev.nvim (⭐1.8k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐38)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [folke/neodev.nvim (⭐2k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [nvim-neorocks/luarocks-tag-release (⭐39)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ## [6. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 

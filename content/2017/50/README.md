@@ -60,13 +60,13 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐260)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐45)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐267)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐46)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
 
-*   [corona (⭐49)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
+*   [corona (⭐50)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐445)](https://github.com/scrutinizer-ci/php-analyzer).
+*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐444)](https://github.com/scrutinizer-ci/php-analyzer).
 
 ### Table of Contents / Code Quality
 
@@ -120,18 +120,18 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Exakat (⭐374)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+*   [Exakat (⭐377)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 *   [Mondrian (⭐393)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐552)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐551)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHP Metrics (⭐2.4k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 *   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-*   [PHPStan (⭐12k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+*   [PHPStan (⭐13k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ### Table of Contents / Database
 
 *   [Atlas.Orm (⭐426)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.SqlQuery (⭐444)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Aura.SqlQuery (⭐445)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 
 ### Configuration / Text Editors and IDEs
 
@@ -183,7 +183,7 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐473)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
+*   [ocaml-containers (⭐475)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
 ## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐943)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐948)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
@@ -305,8 +305,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-*   [vue-cleave-component (⭐282)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-cleave-component (⭐280)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [35. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

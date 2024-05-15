@@ -35,7 +35,7 @@
 
 ### Framework Components
 
-*   [exdjango (⭐19)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐20)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### HTTP
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐504)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐515)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -63,7 +63,7 @@
 
 ### Text and Numbers
 
-*   [bencode (⭐17)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
+*   [bencode (⭐18)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 *   [elixir-range-extras (⭐8)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 
 ### Third Party APIs
@@ -78,7 +78,7 @@
 
 ### Version Control / Git
 
-*   [dev-time (⭐181)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐983)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐988)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

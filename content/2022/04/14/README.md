@@ -10,7 +10,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐580)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐594)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/learn-OpenGL (⭐36)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
+*   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐2.2k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐2.5k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/rasmus.nvim (⭐135)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐187)](https://github.com/rsms/sublime-theme) theme.
+*   [kvrohit/rasmus.nvim (⭐150)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐190)](https://github.com/rsms/sublime-theme) theme.
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Complexity & Information Theory / Visual Complexity
 
-*   [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102\&hl=en\&as_sdt=0,5)].
+*   [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102)].
 
 ### Explainability / Explainable Deep Learning
 
@@ -109,7 +109,7 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐79)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐83)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ---
 

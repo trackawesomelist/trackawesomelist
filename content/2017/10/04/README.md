@@ -21,7 +21,7 @@
 
 ### HTML Manipulation
 
-*   [selmer (⭐945)](https://github.com/yogthos/Selmer)
+*   [selmer (⭐957)](https://github.com/yogthos/Selmer)
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -79,7 +79,7 @@
 
 ### GIS
 
-*   [GeoJSON.NET (⭐426)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+*   [GeoJSON.NET (⭐431)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 

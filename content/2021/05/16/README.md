@@ -10,19 +10,19 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-google-autocomplete (⭐432)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+*   [react-google-autocomplete (⭐450)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Text Editor Plugins
 
-*   [nvim-jqx (⭐268)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
+*   [nvim-jqx (⭐276)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Logging
 
-*   [fmtlog (⭐705)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
+*   [fmtlog (⭐731)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
 ---
 

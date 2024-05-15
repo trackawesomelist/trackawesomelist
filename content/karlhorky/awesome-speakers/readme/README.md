@@ -2,7 +2,7 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 761 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 757 · 🏷️ Miscellaneous
 
 [ [Daily](/content/karlhorky/awesome-speakers/README.md) / [Weekly](/content/karlhorky/awesome-speakers/week/README.md) / Overview ]
 
@@ -522,14 +522,6 @@ Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
 **Wassim Chegham**\
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
 <https://twitter.com/manekinekko>
-
-### Strasbourg
-
-<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
-
-**Sven Sauleau**\
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
-<https://twitter.com/svensauleau>
 
 ## Germany 🇩🇪
 
@@ -1556,6 +1548,12 @@ Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 **Sebastian Witalec**\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
+
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,13 +42,7 @@ Webpage: <http://copenhagencoffeelab.com/>
 | ---- | ----- | ------------------------------------------------------------------- | ----------------------------------- |
 | ✘    | ✔     | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00 |
 
-## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / Ruby
-
-*   [RubyNow](https://jobs.rubynow.com/)
-
-## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [3. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Articles
 
@@ -75,13 +69,13 @@ Webpage: <http://copenhagencoffeelab.com/>
 
 *   [Hikr (⭐42)](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
 *   [ncw/rclone :fire::fire::fire::fire::fire: (⭐38k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
@@ -89,22 +83,22 @@ Webpage: <http://copenhagencoffeelab.com/>
 
 ### JavaScript Engines
 
-*   [Jint (⭐3.8k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐833)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.9k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐856)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
-## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Chat & Messaging / ORM
 
 *   [Qiscus SDK (⭐197)](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 
-## [9. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [8. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Development APIs / Geolocation
 

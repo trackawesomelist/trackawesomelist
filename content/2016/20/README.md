@@ -16,13 +16,13 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐113)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐114)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [doctest (⭐5.5k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.6k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -136,8 +136,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐680)](https://github.com/llogiq/flame) —
-    *   [mrhooray/torch (⭐129)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐686)](https://github.com/llogiq/flame) —
+    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
@@ -146,10 +146,10 @@
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Angular CLI / Components
+### CLI / Testing
 
 *   [Official web page](https://cli.angular.io/)
-*   [Official repository (⭐26k)](https://github.com/angular/angular-cli)
+*   [Official repository (⭐27k)](https://github.com/angular/angular-cli)
 
 ## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -192,9 +192,12 @@
 
 ## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
+### Reference resources
+
+*   [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
+
 ### Community
 
-*   [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 *   [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 
 ## [16. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
@@ -304,13 +307,13 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐348)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐347)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐354)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐356)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -657,14 +660,14 @@
 
 ### Domain Analysis / Other Resources
 
-*   [dnstwist (⭐3.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
+*   [dnstwist (⭐4.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
     engine for detecting typo squatting, phishing and corporate espionage.
-*   [mailchecker (⭐1.4k)](https://github.com/FGRibreau/mailchecker) - Cross-language
+*   [mailchecker (⭐1.6k)](https://github.com/FGRibreau/mailchecker) - Cross-language
     temporary email detection library.
 
 ### Browser Malware / Other Resources
 
-*   [Krakatau (⭐1.6k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
+*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
     assembler, and disassembler.
 
 ### Network / Other Resources
@@ -675,14 +678,14 @@
 
 ### Memory Forensics / Other Resources
 
-*   [evolve (⭐250)](https://github.com/JamesHabben/evolve) - Web interface for the
+*   [evolve (⭐259)](https://github.com/JamesHabben/evolve) - Web interface for the
     Volatility Memory Forensics Framework.
-*   [VolUtility (⭐342)](https://github.com/kevthehermit/VolUtility) - Web Interface for
+*   [VolUtility (⭐373)](https://github.com/kevthehermit/VolUtility) - Web Interface for
     Volatility Memory Analysis framework.
 
 ### Other / Other Resources
 
-*   [File Formats posters (⭐6k)](https://github.com/corkami/pics) - Nice visualization
+*   [File Formats posters (⭐10k)](https://github.com/corkami/pics) - Nice visualization
     of commonly used file format (including PE & ELF).
 *   [Malware Analysis Tutorials](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) -
     The Malware Analysis Tutorials by Dr. Xiang Fu, a great resource for learning
@@ -725,7 +728,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.3k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.6k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
@@ -843,7 +846,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Hardware
 
-*   [nerves (⭐2.1k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2.2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Images
 
@@ -881,7 +884,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐38k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐40k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
@@ -894,7 +897,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -910,7 +913,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐852)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 
@@ -1043,7 +1046,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Libraries
 
-*   [TensorFrames (⭐757)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐751)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ### Books
 

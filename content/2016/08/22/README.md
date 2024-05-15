@@ -51,7 +51,7 @@
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.5k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.6k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
 ## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

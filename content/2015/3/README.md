@@ -433,15 +433,15 @@
 
 ### Money
 
-*   [Monetize (⭐395)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐407)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
 *   Import
-    *   [ActiveRecord Import (⭐3.9k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐819)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [ActiveRecord Import (⭐4k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
+    *   [bulk\_insert (⭐818)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
     *   [data\_miner (⭐301)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
-    *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
+    *   [ferry (⭐244)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -494,7 +494,7 @@
 
 *   [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 *   [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman (⭐5.8k)](https://github.com/ddollar/foreman)
+*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman (⭐6k)](https://github.com/ddollar/foreman)
 
 ### Profiling / NoSQL Databases
 
@@ -552,7 +552,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [bayandin/awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
+*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
 
 ## [21. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

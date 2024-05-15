@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Source Code (⭐142)](https://github.com/gentee/eonza)) `MIT` `Go`
+*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Source Code (⭐150)](https://github.com/gentee/eonza)) `MIT` `Go`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -29,21 +29,21 @@
 
 ### Complexity & Information Theory / Theory
 
-*   [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. \[[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864\&hl=en\&as_sdt=0,5)].
+*   [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. \[[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864)].
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [blog-rs (⭐52)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
+*   [blog-rs (⭐54)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database / Text-Based User Interfaces
 
 *   [QueryStream (⭐15)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
-*   [QuestDB (⭐13k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
-*   [Spring Data JPA MongoDB Expressions (⭐89)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
+*   [QuestDB (⭐14k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+*   [Spring Data JPA MongoDB Expressions (⭐92)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 *   [Trino](https://trino.io) - Distributed SQL query engine for big data.
 
 ### Distribution / Text-Based User Interfaces
@@ -58,7 +58,7 @@
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐201)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐236)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ---
 

@@ -34,7 +34,7 @@
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Michelle Chandra](https://www.dirtalleydesign.com/)
 
@@ -82,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐562)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐592)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Logging / Barcode
 
-*   [Gedatsu (⭐531)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐532)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Hardware
 
-*   [Plotters (⭐962)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐1k)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
 ## [17. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

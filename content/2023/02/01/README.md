@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,21 +78,15 @@
 
 ### Chart
 
-*   [react-dashboard (⭐1.5k)](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+*   [react-dashboard (⭐1.6k)](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Loaders
-
-*   [vite-plugin-gltf (⭐118)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
-
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.6k)](https://github.com/kubernetes/kubectl).
+*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.7k)](https://github.com/kubernetes/kubectl).
 
-## [14. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Data Analysis
 

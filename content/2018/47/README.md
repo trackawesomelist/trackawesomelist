@@ -22,11 +22,11 @@
 
 ### Tutorial
 
-*   [Vulkan Demos and Tutorials (⭐70)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
+*   [Vulkan Demos and Tutorials (⭐71)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐349)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐358)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [4. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
@@ -110,21 +110,17 @@
 ### General
 
 *   [Super Tiny Icons (⭐14k)](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-*   [Weather icons (⭐6.6k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+*   [Weather icons (⭐6.9k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 
 ### Logos
 
-*   [Browser Logos (⭐5.8k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
-*   [Cryptocoins (⭐823)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
+*   [Browser Logos (⭐5.9k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
+*   [Cryptocoins (⭐830)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 
 ### Special
 
-*   [Flag Kit (⭐2.9k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
+*   [Flag Kit (⭐3k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 *   [Mapsicon (⭐2.1k)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
-
-### Other / Paid
-
-*   [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 
 ## [14. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -134,7 +130,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐72)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐73)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -144,12 +140,12 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.1k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.2k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
 *   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐17k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐101)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐102)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 
 ### Software / Software Development - Project Management
 
@@ -174,7 +170,7 @@
 
 ### Serialization
 
-*   [yojson (⭐306)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+*   [yojson (⭐310)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 
 ## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
@@ -284,10 +280,10 @@
 
 ### Parser Library
 
-*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐788)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐503)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐956)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Sprache (⭐2.3k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+*   [Pidgin (⭐830)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐510)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐975)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -371,13 +367,13 @@
 
 ### Geometry and Topology / Algebraic Geometry
 
-*   [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+*   📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
 ## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [sqlpp11 (⭐2.3k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
+*   [sqlpp11 (⭐2.4k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
 
 ### Graphics
 

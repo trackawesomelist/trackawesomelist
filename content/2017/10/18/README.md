@@ -67,8 +67,8 @@
 
 ### Libraries
 
-*   [Lattice (⭐505)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
-*   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
+*   [Lattice (⭐519)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+*   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
 
 ## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -108,9 +108,9 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [TidyTab (⭐68)](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
-*   [peregrine-cms (⭐51)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
-*   [concept-to-clinic (⭐368)](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
+*   [TidyTab (⭐69)](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
+*   [peregrine-cms (⭐52)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
+*   [concept-to-clinic (⭐369)](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 
 ## [16. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

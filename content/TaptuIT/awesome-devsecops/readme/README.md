@@ -2,7 +2,7 @@
 
 Curating the best DevSecOps resources and tooling.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TaptuIT/awesome-devsecops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) · ⭐ 1.1K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TaptuIT/awesome-devsecops/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) · ⭐ 1.3K · 🏷️ Security
 
 [ [Daily](/content/TaptuIT/awesome-devsecops/README.md) / [Weekly](/content/TaptuIT/awesome-devsecops/week/README.md) / Overview ]
 
@@ -57,6 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Articles
 
 *   [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - *Pager Duty* - Guidelines to running security training within an organisation.
+*   [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops) - *Spacelift* - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.
 
 ### Books
 
@@ -64,7 +65,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Communities
 
-*   [MyDevSecOps](https://www.mydevsecops.io/) - *Snyk* - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
+*   [DevSecCon](https://www.devseccon.com/) - *Snyk* - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.
+*   [TAG Security](https://tag-security.cncf.io/) - *Cloud Native Computing Foundation* - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
 ### Conferences
 
@@ -97,7 +99,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - *Synopsys* - A framework for software security created by observing and analysing data from leading software security initiatives.
 *   [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - *Microsoft* - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 *   [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - *NIST* - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
-*   [Software Assurance Maturity Model (⭐394)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
+*   [Software Assurance Maturity Model (⭐395)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Toolchains
 
@@ -129,7 +131,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
 
-*   [Deepfence ThreatMapper (⭐4.5k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+*   [Deepfence ThreatMapper (⭐4.7k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 *   [Dependabot](https://dependabot.com/) - *GitHub* - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
 *   [Dependency-Check](https://owasp.org/www-project-dependency-check/) - *OWASP* - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
 *   [Dependency-Track](https://dependencytrack.org/) - *OWASP* - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
@@ -137,16 +139,16 @@ Open source software packages can speed up the development process by allowing d
 *   [NPM Audit](https://docs.npmjs.com/cli/audit) - *NPM* - Vulnerable package auditing for node packages built into the npm CLI.
 *   [Renovate](https://renovate.whitesourcesoftware.com/) - *WhiteSource* - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 *   [Requires.io](https://requires.io/) - *Olivier Mansion & Alexis Tabary* - Automated vulnerable dependency monitoring and upgrades for Python projects.
-*   [Snyk Open Source](https://snyk.io/) - *Snyk* - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+*   [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - *Snyk* - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
 Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
 
-*   [Automatic API Attack Tool (⭐414)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
+*   [Automatic API Attack Tool (⭐438)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
 *   [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - *PortSwigger* - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
-*   [Gauntlt (⭐967)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
-*   [Netz (⭐360)](https://github.com/spectralops/netz) - *Spectral* - Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Gauntlt (⭐972)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+*   [Netz (⭐373)](https://github.com/spectralops/netz) - *Spectral* - Discover internet-wide misconfigurations, using zgrab2 and others.
 *   [SSL Labs Scan (⭐1.7k)](https://github.com/ssllabs/ssllabs-scan) - *SSL Labs* - Automated scanning for SSL / TLS configuration issues.
 *   [Zed Attack Proxy (ZAP) (⭐12k)](https://github.com/zaproxy/zaproxy) - *OWASP* - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
@@ -156,10 +158,10 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 #### Multi-Platform
 
-*   [Checkov (⭐6.2k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
-*   [KICS (⭐1.8k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+*   [Checkov (⭐6.6k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+*   [KICS (⭐1.9k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 *   [Spectral DeepConfig](https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/) - *Spectral* - Find misconfiguration both in infrastructure as well as apps as early as commit time.
-*   [Terrascan (⭐4.3k)](https://github.com/accurics/terrascan) - *Accurics* - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+*   [Terrascan (⭐4.5k)](https://github.com/accurics/terrascan) - *Accurics* - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
 <!-- omit in toc -->
 
@@ -171,51 +173,55 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 #### Containers
 
-*   [Anchore Engine](https://anchore.com/opensource/) - *Anchore, Inc* - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
-*   [Clair (⭐9.9k)](https://github.com/quay/clair) - *Quay* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+*   [Clair (⭐10k)](https://github.com/quay/clair) - *Red Hat* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 *   [Dagda (⭐1.1k)](https://github.com/eliasgranderubio/dagda/) - *Elías Grande* - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
-*   [Docker-Bench-Security (⭐8.7k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-*   [Hadolint (⭐9.3k)](https://github.com/hadolint/hadolint) - *Hadolint* - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
+*   [Docker-Bench-Security (⭐8.9k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [Grype (⭐7.9k)](https://github.com/anchore/grype/) - *Anchore* - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
+*   [Hadolint (⭐9.8k)](https://github.com/hadolint/hadolint) - *Hadolint* - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 *   [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - *Snyk* - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
-*   [Trivy (⭐20k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
+*   [Trivy (⭐22k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
 
 <!-- omit in toc -->
 
 #### Terraform
 
-*   [Regula (⭐908)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
+*   [Regula (⭐934)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 *   [Terraform Compliance](https://terraform-compliance.com/) - *terraform-compliance* - A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
-*   [Tfsec (⭐6.4k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
+*   [Tfsec (⭐6.6k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
 <!-- omit in toc -->
 
 #### Kubernetes
 
 *   [Kubescape](https://kubescape.io/) - *Cloud Native Computing Foundation* - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
-*   [Kube-Score (⭐2.4k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
-*   [Kubectrl Kubesec (⭐495)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+*   [Kube-Score (⭐2.6k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
+*   [Kubectrl Kubesec (⭐501)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
 #### Ansible
 
-*   [Ansible-Lint (⭐3.2k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
+*   [Ansible-Lint (⭐3.4k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
 
 ### Intentionally Vulnerable Applications
 
 Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
 
 *   [Bad SSL (⭐2.7k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
-*   [Cfngoat (⭐88)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+*   [Cfngoat (⭐90)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 *   [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - *Ryan Dewhurst* - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
-*   [Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
+*   [Juice Shop (⭐9.6k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
+*   [Kubernetes Goat (⭐4k)](https://github.com/madhuakula/kubernetes-goat) - *Madhu Akula* - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 *   [NodeGoat (⭐1.8k)](https://github.com/OWASP/NodeGoat) - *OWASP* - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
+*   [Pentest-Ground](https://pentest-ground.com/) - *Pentest-Tools.com* - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 *   [Terragoat (⭐1.1k)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 *   [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - *OWASP* - A collection of vulnerable web applications for learning purposes.
+*   [WrongSecrets (⭐1.2k)](https://github.com/OWASP/wrongsecrets) - *OWASP* - Vulnerable app with examples showing how to not use secrets
 
 ### Monitoring
 
 It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
 
 *   [Csper](https://csper.io/report-uri) - *Csper* - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
+*   [Streamdal](https://streamdal.com) - *Streamdal* - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
 
 ### Secrets Management
 
@@ -231,27 +237,27 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 *   [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - *CyberArk* - Secrets management for applications including secret rotation and auditing.
 *   [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - *Docker* - Store and manage access to secrets within a Docker swarm.
 *   [Git Secrets (⭐12k)](https://github.com/awslabs/git-secrets) - *Amazon AWS* - Scan git repositories for secrets committed within code or commit messages.
-*   [Gopass (⭐5.5k)](https://github.com/gopasspw/gopass) - *Gopass* - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
+*   [Gopass (⭐5.7k)](https://github.com/gopasspw/gopass) - *Gopass* - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 *   [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - *Google Cloud Platform* - Securely store secrets within GCP.
 *   [HashiCorp Vault](https://www.vaultproject.io/) - *HashiCorp* - Securely store secrets via UI, CLI or HTTP API.
-*   [Keyscope (⭐369)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
+*   [Keyscope (⭐376)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 *   [Pinterest Knox (⭐1.2k)](https://github.com/pinterest/knox) - *Pinterest* - Securely store, rotate and audit secrets.
-*   [Secrets Operations (SOPS) (⭐14k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
-*   [Teller (⭐1.9k)](https://github.com/spectralops/teller) - *Spectral* - A secrets management tool for developers - never leave your command line for secrets.
+*   [Secrets Operations (SOPS) (⭐15k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+*   [Teller (⭐2.5k)](https://github.com/spectralops/teller) - *Spectral* - A secrets management tool for developers - never leave your command line for secrets.
 
 ### Secrets Scanning
 
 Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
 
 *   [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - *Microsoft* - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
-*   [Detect Secrets (⭐3.3k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
+*   [Detect Secrets (⭐3.5k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 *   [GitGuardian](https://www.gitguardian.com/) - *GitGuardian* - A web-based solution that scans and monitors public and private git repositories for secrets.
-*   [Gitleaks (⭐14k)](https://github.com/zricethezav/gitleaks) - *Zachary Rice* - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
+*   [Gitleaks (⭐15k)](https://github.com/zricethezav/gitleaks) - *Zachary Rice* - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
 *   [git-secrets (⭐12k)](https://github.com/awslabs/git-secrets) - *AWS Labs* - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
 *   [Nightfall](https://nightfall.ai/solutions/product/github) - *Nightfall* - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
-*   [Repo-supervisor (⭐631)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+*   [Repo-supervisor (⭐633)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 *   [SpectralOps](https://spectralops.io) - *Spectral* - Automated code security, secrets, tokens and sensitive data scanning.
-*   [truffleHog (⭐13k)](https://github.com/trufflesecurity/truffleHog) - *Truffle Security* - Searches through git repositories for secrets, digging deep into commit history and branches.
+*   [truffleHog (⭐14k)](https://github.com/trufflesecurity/truffleHog) - *Truffle Security* - Searches through git repositories for secrets, digging deep into commit history and branches.
 
 ### Static Analysis
 
@@ -261,9 +267,9 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 #### Multi-Language Support
 
-*   [DevSkim (⭐857)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
-*   [Graudit (⭐1.3k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
-*   [Hawkeye (⭐358)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
+*   [DevSkim (⭐884)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
+*   [Graudit (⭐1.4k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
+*   [Hawkeye (⭐359)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 *   [LGTM](https://lgtm.com/) - *Semmle* - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
 *   [RIPS](https://www.ripstech.com/) - *RIPS Technologies* - Automated static analysis for PHP, Java and Node.js projects.
 *   [SemGrep](https://semgrep.dev/) - *r2c* - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
@@ -274,19 +280,20 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 #### C / C++
 
-*   [FlawFinder (⭐421)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
+*   [FlawFinder (⭐454)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
 
 <!-- omit in toc -->
 
 #### C\#
 
-*   [Puma Scan (⭐430)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
+*   [Puma Scan (⭐438)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
 
 <!-- omit in toc -->
 
 #### Configuration Files
 
-*   [Conftest (⭐2.7k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
+*   [Conftest (⭐2.8k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
+*   [Selefra (⭐509)](https://github.com/selefra/selefra) - *Selefra* - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 <!-- omit in toc -->
 
@@ -294,7 +301,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 *   [Deep Dive](https://discotek.ca/deepdive.xhtml) - *Discotek.ca* - Static analysis for JVM deployment units including Ear, War, Jar and APK.
 *   [Find Security Bugs (⭐2.2k)](https://github.com/find-sec-bugs/find-sec-bugs/) - *OWASP* - SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.
-*   [SpotBugs (⭐3.3k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
+*   [SpotBugs (⭐3.4k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
 
 <!-- omit in toc -->
 
@@ -306,51 +313,53 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 #### Go
 
-*   [Golang Security Checker (⭐7.3k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
+*   [Golang Security Checker (⭐7.5k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
 
 <!-- omit in toc -->
 
 #### .NET
 
-*   [Security Code Scan (⭐893)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
+*   [Security Code Scan (⭐920)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
 
 <!-- omit in toc -->
 
 #### PHP
 
 *   [Phan (⭐5.5k)](https://github.com/phan/phan) - *Phan* - Broad static analysis for PHP applications with some support for security scanning features.
-*   [PHPCS Security Audit (⭐689)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
-*   [Progpilot (⭐305)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
+*   [PHPCS Security Audit (⭐703)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
+*   [Progpilot (⭐313)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
 
 <!-- omit in toc -->
 
 #### Python
 
-*   [Bandit (⭐5.7k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
+*   [Bandit (⭐6k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
 
 <!-- omit in toc -->
 
 #### Ruby
 
-*   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
-*   [DawnScanner (⭐723)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+*   [Brakeman (⭐6.9k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+*   [DawnScanner (⭐731)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
 
 ### Supply Chain Security
 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
-*   [Harden Runner GitHub Action (⭐426)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
-*   [Preflight (⭐141)](https://github.com/spectralops/preflight) - *Spectral* - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
-*   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐581)](https://github.com/sigstore/fulcio), [cosign (⭐3.8k)](https://github.com/sigstore/cosign) and [rekor (⭐802)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+*   [Harden Runner GitHub Action (⭐525)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
+*   [Overlay (⭐209)](https://github.com/os-scar/overlay) - *SCAR* - a browser extension helping developers evaluate open source packages before picking them.
+*   [Preflight (⭐149)](https://github.com/spectralops/preflight) - *Spectral* - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+*   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐607)](https://github.com/sigstore/fulcio), [cosign (⭐4.1k)](https://github.com/sigstore/cosign) and [rekor (⭐839)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+*   [Syft (⭐5.5k)](https://github.com/anchore/syft/) - *Anchore* - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ### Threat Modelling
 
 Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
 
-*   [Awesome Threat Modelling (⭐1.1k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modelling resources.
+*   [Awesome Threat Modelling (⭐1.3k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modelling resources.
 *   [SecuriCAD](https://www.foreseeti.com/) - *Forseeti* - Treat modelling and attack simulations for IT infrastructure.
 *   [IriusRisk](https://iriusrisk.com/) - *IriusRisk* - Draw threat models and capture threats and countermeasures and manage risk.
-*   [Raindance Project (⭐42)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+*   [Raindance Project (⭐43)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
 *   [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - *Security Compass* - Identify and rank threats, generate actionable tasks and track related tickets.
 *   [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - *OWASP* - Threat model diagramming tool.
 *   [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - *Microsoft* - Threat model diagramming tool.
@@ -358,8 +367,9 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 
 ## Related Lists
 
-*   [Awesome Dynamic Analysis (⭐816)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
-*   [Awesome Static Analysis (⭐12k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
-*   [Awesome Threat Modelling (⭐1.1k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
+*   [Awesome Dynamic Analysis (⭐877)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
+*   [Awesome Platform Engineering (⭐290)](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for *Platform Engineering*
+*   [Awesome Static Analysis (⭐13k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
+*   [Awesome Threat Modelling (⭐1.3k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
 *   [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - *OWASP* - A collection of vulnerable web applications for learning purposes.
 

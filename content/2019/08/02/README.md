@@ -16,7 +16,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐815)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐848)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Algebra / Linear Algebra
 
-*   [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+*   📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 
 ## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

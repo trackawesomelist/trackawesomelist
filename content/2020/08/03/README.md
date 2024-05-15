@@ -10,7 +10,7 @@
 
 ### General
 
-*   [Teenyicons (⭐1.7k)](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching\_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
+*   [Teenyicons (⭐1.8k)](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching\_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -214,36 +214,36 @@
 
 ### Foundations of Mathematics / Logic
 
-*   [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
+*   📝 [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
 
 ### Algebra / Linear Algebra
 
-*   [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
-*   [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
+*   📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
+*   📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 
 ### Geometry and Topology / Graph Theory
 
-*   [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
+*   📝 [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
 
 ### Analysis / Complex Analysis
 
-*   [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
+*   📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
 ### Probability and Statistics / Probability Theory
 
-*   [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
+*   📝 [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
 
 ### Probability and Statistics / Statistics
 
-*   [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
-*   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
-*   [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
-*   [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
-*   [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
+*   📝 [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
+*   📝 [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
+*   📝 [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
+*   📝 [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
+*   📝 [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
 
 ### Mathematics for Computer Science / Stochastic processes
 
-*   [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
+*   📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
 
 ---
 

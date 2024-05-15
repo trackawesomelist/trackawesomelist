@@ -139,8 +139,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐820)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
-*   [vue2-persian-datepicker (⭐102)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
+*   [vue-hotel-datepicker (⭐830)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue2-persian-datepicker (⭐100)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
 
@@ -163,7 +163,7 @@
 
 ### Libraries / Visualization
 
-*   [rdeditor (⭐56)](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
+*   [rdeditor (⭐75)](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 
 ## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Platforms
 
-*   [Flutter (⭐50k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐52k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
 ## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

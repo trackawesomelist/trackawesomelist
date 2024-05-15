@@ -57,12 +57,12 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Malfunction (⭐186)](https://github.com/Dynetics/Malfunction) - Catalog and
+*   [Malfunction (⭐190)](https://github.com/Dynetics/Malfunction) - Catalog and
     compare malware at a function level.
 
 ### Other / Other Resources
 
-*   [APT Notes (⭐1.4k)](https://github.com/aptnotes/data) - A collection of papers
+*   [APT Notes (⭐1.6k)](https://github.com/aptnotes/data) - A collection of papers
     and notes related to Advanced Persistent Threats.
 
 ## [4. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)

@@ -79,7 +79,7 @@
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐124)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐125)](https://github.com/stianst/keycloak-experimental)
 
 ---
 

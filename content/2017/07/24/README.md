@@ -85,7 +85,7 @@
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐136)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐144)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

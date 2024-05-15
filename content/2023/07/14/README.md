@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐67)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐105)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
 ## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Files and Directories / File Managers
 
-*   [far2l (⭐1.5k)](https://github.com/elfmz/far2l) - Orthodox file manager.
+*   [far2l (⭐1.7k)](https://github.com/elfmz/far2l) - Orthodox file manager.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -74,23 +74,23 @@
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐766)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐796)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Caching
 
-*   [request\_cache\_plug (⭐19)](https://github.com/MikaAK/request_cache_plug) - Easy to use caching for requests in either Phoenix Controllers or GraphQL resolvers. Bypasses JSON encoding/decoding for a large speedup.
+*   [request\_cache\_plug (⭐21)](https://github.com/MikaAK/request_cache_plug) - Easy to use caching for requests in either Phoenix Controllers or GraphQL resolvers. Bypasses JSON encoding/decoding for a large speedup.
 
 ### Errors and Exception Handling
 
-*   [elixir\_error\_message (⭐17)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
+*   [elixir\_error\_message (⭐30)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 
 ## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Internet and Networking
 
-*   [Parabolic (⭐568)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+*   [Parabolic (⭐628)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 

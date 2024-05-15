@@ -16,7 +16,7 @@
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
-*   [eslint-config-prettier (⭐5.1k)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
+*   [eslint-config-prettier (⭐5.2k)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -63,13 +63,13 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [simaxme/java.nvim (⭐15)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+*   [simaxme/java.nvim (⭐17)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zsh-expand (⭐25)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
+*   [zsh-expand (⭐27)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

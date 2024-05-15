@@ -27,13 +27,13 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐215)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Debugging
 
-*   [debugger (⭐263)](https://github.com/razum2um/clj-debugger)
+*   [debugger (⭐264)](https://github.com/razum2um/clj-debugger)
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

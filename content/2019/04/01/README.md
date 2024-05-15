@@ -86,11 +86,11 @@
 
 ### UI / Bottom bars
 
-*   [Bottom Navy Bar (⭐921)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+*   [Bottom Navy Bar (⭐983)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 
 ### UI / Sliders
 
-*   [RangeSlider (⭐367)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
+*   [RangeSlider (⭐376)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
 ## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐9.3k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐9.7k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ---
 

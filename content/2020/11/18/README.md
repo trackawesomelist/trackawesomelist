@@ -67,9 +67,9 @@
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Schematics / Components
+### Site Templates / Testing
 
-*   [Threejs (⭐214)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
+*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

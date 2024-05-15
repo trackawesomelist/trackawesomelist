@@ -11,7 +11,7 @@
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐255)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐257)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
@@ -67,7 +67,7 @@
 
 ### HTTP
 
-*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-comment-grid (⭐159)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [sandboxapi (⭐116)](https://github.com/InQuest/python-sandboxapi) - Python library for
+*   [sandboxapi (⭐131)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
 ---

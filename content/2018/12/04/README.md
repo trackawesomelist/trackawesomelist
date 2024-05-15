@@ -197,7 +197,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [is-wsl for Node (⭐182)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [is-wsl for Node (⭐185)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

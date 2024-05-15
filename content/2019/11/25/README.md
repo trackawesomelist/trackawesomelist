@@ -62,11 +62,11 @@
 
 ### Entertainment / Music
 
-*   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐17k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 
@@ -78,7 +78,7 @@
 
 ### Command Line
 
-*   [ModuleInterface (⭐77)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
+*   [ModuleInterface (⭐81)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

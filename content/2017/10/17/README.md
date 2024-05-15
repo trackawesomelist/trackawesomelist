@@ -10,13 +10,13 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome YARA (⭐3k)](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+*   [Awesome YARA (⭐3.3k)](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Other / Other Resources
 
-*   [YARA (⭐2.3k)](https://github.com/InQuest/awesome-yara)
+*   [YARA (⭐3.3k)](https://github.com/InQuest/awesome-yara)
 
 ## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

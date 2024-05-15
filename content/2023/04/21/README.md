@@ -16,8 +16,8 @@
 
 ### Tools / Community Chat Rooms
 
-*   [espflash (⭐422)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐184)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐439)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐200)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Peripheral Access Crates / Espressif
 
@@ -33,7 +33,7 @@
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.3k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -67,20 +67,20 @@
 
 ### Chart
 
-*   [echarts for react (⭐4.3k)](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
+*   [echarts for react (⭐4.4k)](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 
 ## [10. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Frameworks
 
-*   [next (⭐117k)](https://github.com/vercel/next.js) - The React Framework
+*   [next (⭐120k)](https://github.com/vercel/next.js) - The React Framework
 *   [blitz (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
 *   [gatsby (⭐55k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-*   [refine (⭐20k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+*   [refine (⭐24k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
 ### React Awesome Components
 
-*   [kbar (⭐4.5k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+*   [kbar (⭐4.6k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 *   [tagify (⭐3.2k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ### React Native General Resources

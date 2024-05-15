@@ -10,7 +10,7 @@
 
 ### Extensions / Community
 
-*   [Image Scout (⭐120)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Image Scout (⭐126)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 *   [Date Picker Interface (⭐14)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
@@ -23,7 +23,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-ali-oss (⭐26)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-ali-oss (⭐29)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ## [4. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 

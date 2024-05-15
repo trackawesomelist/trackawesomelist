@@ -10,7 +10,7 @@
 
 ### Build Automation and Package management
 
-*   [clojurephant (⭐170)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
+*   [clojurephant (⭐171)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

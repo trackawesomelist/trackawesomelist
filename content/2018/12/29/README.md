@@ -10,7 +10,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐702)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐731)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -44,13 +44,7 @@
 
 *   [sn0int (⭐1.8k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Packages / Security
-
-*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
-
-## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Logging / Text-Based User Interfaces
 
@@ -78,11 +72,17 @@
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [nanopb (⭐3.9k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐4.1k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+
+## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Web / Development
+
+*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 
 ## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

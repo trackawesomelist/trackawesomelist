@@ -16,7 +16,7 @@
 
 ### CLI / Argument Parsing
 
-*   [jbock (⭐78)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐79)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 
@@ -26,17 +26,17 @@
 
 ### Action
 
-*   [Rigel Engine (⭐839)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐879)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### Online
 
-*   [Space Station 14 (⭐1.7k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐1.9k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Advanced datastructures
 
-*   [Duratom (⭐190)](https://github.com/jimpil/duratom): persisted atoms
+*   [Duratom (⭐193)](https://github.com/jimpil/duratom): persisted atoms
 
 ### Version Control Management
 
@@ -50,13 +50,13 @@
 
 *   [Monger](http://clojuremongodb.info/): for MongoDB
 *   [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
-*   [clj-rethinkdb (⭐203)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
+*   [clj-rethinkdb (⭐204)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
 *   [Revise (⭐146)](https://github.com/bitemyapp/revise): for RethinkDB
-*   [Spandex (⭐251)](https://github.com/mpenet/spandex): for ElasticSearch
+*   [Spandex (⭐257)](https://github.com/mpenet/spandex): for ElasticSearch
 *   [Elastisch](http://clojureelasticsearch.info/): for ElasticSearch
 *   [neocons](http://clojureneo4j.info/): for Neo4j
-*   [Alia (⭐242)](https://github.com/mpenet/alia): for Cassandra
-*   [aerospike-clj (⭐29)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
+*   [Alia (⭐245)](https://github.com/mpenet/alia): for Cassandra
+*   [aerospike-clj (⭐28)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
 
 ### Security
 
@@ -73,12 +73,12 @@
 ### Machine Learning
 
 *   [neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal): fast matrix library
-*   [clojurecuda (⭐172)](https://github.com/uncomplicate/clojurecuda)
-*   [clojurecl (⭐276)](https://github.com/uncomplicate/clojurecl)
+*   [clojurecuda (⭐173)](https://github.com/uncomplicate/clojurecuda)
+*   [clojurecl (⭐273)](https://github.com/uncomplicate/clojurecl)
 *   [bayadera (⭐360)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
 *   [Flare (⭐284)](https://github.com/aria42/flare)
 *   [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
-*   [clj-ml (⭐148)](https://github.com/antoniogarrote/clj-ml)
+*   [clj-ml (⭐147)](https://github.com/antoniogarrote/clj-ml)
 *   [Clatern (⭐67)](https://github.com/rinuboney/clatern)
 *   [k9 (⭐104)](https://github.com/gigasquid/k9)
 *   [Statistiker (⭐63)](https://github.com/clojurewerkz/statistiker)
@@ -87,7 +87,7 @@
 
 ### Computer Vision
 
-*   [origami (⭐112)](https://github.com/hellonico/origami): OpenCV 4 wrapper
+*   [origami (⭐113)](https://github.com/hellonico/origami): OpenCV 4 wrapper
 
 ### Editor Plugins
 
@@ -95,19 +95,19 @@
 
 ### Documentation
 
-*   [codox (⭐657)](https://github.com/weavejester/codox)
+*   [codox (⭐662)](https://github.com/weavejester/codox)
 
 ### Miscellaneous
 
-*   [clj-grpc (⭐12)](https://github.com/otwieracz/clj-grpc)
+*   [clj-grpc (⭐15)](https://github.com/otwieracz/clj-grpc)
 
 ### Terminal UI
 
-*   [clojure-lanterna (⭐214)](https://github.com/MultiMUD/clojure-lanterna)
+*   [clojure-lanterna (⭐212)](https://github.com/MultiMUD/clojure-lanterna)
 
 ### Exercises / YouTube
 
-*   [rich4clojure (⭐182)](https://github.com/PEZ/rich4clojure)
+*   [rich4clojure (⭐193)](https://github.com/PEZ/rich4clojure)
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -168,7 +168,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [Ghostfolio (⭐3.2k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+*   [Ghostfolio (⭐3.6k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -180,14 +180,14 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFTimewolf (⭐265)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
+*   [DFTimewolf (⭐271)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
 *   [Shuffle (⭐1.2k)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐918)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [Raccine (⭐930)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
 *   [sysmon-config (⭐4.5k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
-*   [sysmon-modular (⭐2.4k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+*   [sysmon-modular (⭐2.5k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
 ## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

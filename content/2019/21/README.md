@@ -47,11 +47,11 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Caprine (⭐6.8k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Caprine (⭐6.9k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
-*   [Gifski (⭐7.4k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
+*   [Gifski (⭐7.5k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 
 ### Utilities / Productivity
 
@@ -61,26 +61,26 @@
 
 ### Resources / Entity Component System (ECS)
 
-*   [Artemis-odb (⭐750)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
-*   [Ashley (⭐820)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+*   [Artemis-odb (⭐758)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+*   [Ashley (⭐840)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
 ### Resources / Services
 
-*   [gdx-facebook (⭐61)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
-*   [gdx-fireapp (⭐62)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
+*   [gdx-facebook (⭐60)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
+*   [gdx-fireapp (⭐63)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 *   [gdx-firebase (⭐35)](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
-*   [gdx-gamesvcs (⭐108)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
-*   [gdx-pay (⭐213)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
+*   [gdx-gamesvcs (⭐112)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
+*   [gdx-pay (⭐220)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 
 ### Resources / User Interface
 
-*   [gdx-skins (⭐472)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
+*   [gdx-skins (⭐490)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
 *   [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 
 ### Tutorials / Getting Started
 
 *   [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
-*   [Progress Bar Design (⭐381)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
+*   [Progress Bar Design (⭐414)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 
 ### Community / Advanced
 
@@ -88,11 +88,11 @@
 
 ### Other Lists / Advanced
 
-*   [Game Networking (⭐5.9k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
-*   [Game Talks (⭐976)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
-*   [Java (⭐37k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+*   [Game Networking (⭐6.7k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
+*   [Game Talks (⭐1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
+*   [Java (⭐40k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 *   [Kotlin (⭐11k)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
-*   [Magic Tools (⭐12k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
+*   [Magic Tools (⭐13k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 
 ## [5. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -109,13 +109,13 @@
 
 ### Ask these people anything!
 
-*   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at [Adobe](https://www.adobe.com), [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy).
+*   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at Adobe, blogger, streamer, tweeter.
 
 ## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Cryptography
 
-*   [paramiko (⭐8.7k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
+*   [paramiko (⭐8.8k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 
 ### Editor Plugins and IDEs
 
@@ -124,13 +124,13 @@
 
 ### Environment Management
 
-*   [virtualenv (⭐4.6k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
+*   [virtualenv (⭐4.7k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 ### GUI Development
 
 *   [Eel (⭐6.1k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
 *   [PySimpleGUI (⭐13k)](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
-*   [pywebview (⭐4.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+*   [pywebview (⭐4.3k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
 ### Game Development
 
@@ -139,7 +139,7 @@
 
 ### Geolocation
 
-*   [django-countries (⭐1.3k)](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
+*   [django-countries (⭐1.4k)](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
 
 ### HTML Manipulation
 
@@ -160,20 +160,20 @@
 *   Fake Data
     *   [fake2db (⭐2.3k)](https://github.com/emirozer/fake2db) - Fake database generator.
     *   [faker (⭐17k)](https://github.com/joke2k/faker) - A Python package that generates fake data.
-    *   [mimesis (⭐4.2k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
+    *   [mimesis (⭐4.3k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
     *   [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
 
 ### Text Processing
 
 *   General
-    *   [chardet (⭐2k)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+    *   [chardet (⭐2.1k)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
     *   [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     *   [ftfy (⭐3.7k)](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
     *   [fuzzywuzzy (⭐9.1k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     *   [Levenshtein (⭐1.2k)](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
-    *   [pangu.py (⭐229)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
+    *   [pangu.py (⭐233)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
     *   [pyfiglet (⭐1.3k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    *   [pypinyin (⭐4.6k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+    *   [pypinyin (⭐4.7k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
     *   [textdistance (⭐3.3k)](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
     *   [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 
@@ -183,7 +183,7 @@
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@PatrickJS\_\_](https://twitter.com/PatrickJS__)
 
@@ -231,7 +231,7 @@
 
 ### Sample Projects / PHP
 
-*   [Eric Evans DDD Cargo Sample (⭐797)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
+*   [Eric Evans DDD Cargo Sample (⭐798)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 
 ## [16. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -255,12 +255,11 @@
 
 ### Websites / Blogs
 
-*   [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 *   [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
 
 ### Storage / Preferences
 
-*   [Streaming Shared Preferences (⭐245)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
+*   [Streaming Shared Preferences (⭐247)](https://github.com/roughike/streaming_shared_preferences) <!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
 ## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -378,14 +377,14 @@
 
 ### Books
 
-*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐121)](https://github.com/yfain/getts)
+*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐122)](https://github.com/yfain/getts)
 *   :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 
 ## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐343)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐350)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -414,13 +413,16 @@
 
 ### Python
 
-*   [cl4py (⭐84)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
-*   [py4cl (⭐211)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-python (⭐364)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
+*   [cl4py (⭐91)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
+*   [py4cl (⭐223)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
+    *   its fork [py4cl2 (⭐40)](https://github.com/digikar99/py4cl2), at first less stable, now more developped and faster.
+    *   [py4cl2-cffi (⭐33)](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
+        *   "When capable, the CFFI approach can be a 50 times faster than py4cl2."
+*   [cl-python (⭐366)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐725)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -463,15 +465,15 @@
 
 ### Firebase
 
-*   [Ballcap (⭐227)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
+*   [Ballcap (⭐228)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
 
 ### Game Engine
 
-*   [glide engine (⭐480)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+*   [glide engine (⭐484)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 
 ### Validation / Barcode
 
-*   [ATGValidator (⭐50)](https://github.com/altayer-digital/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
+*   [ATGValidator (⭐51)](https://github.com/altayer-digital/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
 
 ## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -484,7 +486,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐427)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐446)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -497,7 +499,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐809)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐847)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -561,15 +563,15 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐142)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
+*   [dynamic\_bitset (⭐145)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐804)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐825)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Internationalization
 
-*   [utf8proc (⭐965)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐980)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ### Web Application Framework
 
@@ -579,8 +581,8 @@
 
 ### Development Tools
 
-*   [NISQAI (⭐36)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
-*   [Qurry (⭐23)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
+*   [NISQAI (⭐38)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
+*   [Qurry (⭐24)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 
 ### Books
 
@@ -629,17 +631,17 @@
 
 ### Platforms
 
-*   [Android (⭐10k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+*   [Android (⭐11k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 *   [React Native (⭐34k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-*   [Adafruit IO (⭐50)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [Adafruit IO (⭐54)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ### Programming Languages
 
-*   [C/C++ (⭐53k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐56k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Front-End Development
 
-*   [Storybook (⭐350)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐358)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ### Back-End Development
 
@@ -647,7 +649,7 @@
 
 ### Learn
 
-*   [Product Management (⭐1.2k)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
+*   [Product Management (⭐1.3k)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
 ## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 

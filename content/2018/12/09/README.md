@@ -78,7 +78,7 @@
 
 ### Apps / Blogging/news
 
-*   [Snotra\_RSS (⭐14)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
+*   [Snotra\_RSS (⭐15)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
 
 ### Apps / Misc
 
@@ -86,17 +86,17 @@
 
 ### Open-source sites / Lists
 
-*   [Project TIER (⭐10)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
+*   [Project TIER (⭐11)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐18k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐38k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐901)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐13)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐19k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐39k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐916)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐15)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [12. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 

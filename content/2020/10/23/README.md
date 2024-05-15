@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Developer tools / Components
+### Developer tools / Testing
 
 *   [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 
@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐886)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐903)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -38,22 +38,11 @@
 
 *   [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
 
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Python / Symfony
-
-*   [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
-
-### Python / Django
-
-*   [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
-*   [Django book 2.0](http://djangobook.py3k.cn/2.0/)
-
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [CraftCMS (⭐3.1k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+*   [CraftCMS (⭐3.2k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 *   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 
@@ -61,27 +50,27 @@
 
 *   [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 
-## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Esoteric languages
 
 *   [strategic-communication (⭐315)](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Integrations / Navigation Demos
 
 *   [react-native-bugfender \*7 (⭐24)](https://github.com/bugfender/rn-bugfender) - A React Native wrapper for Bugfender log and error reporting.
 
-## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Language Support
 
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
 *   [playwright-python (⭐10k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
-*   [playwright-java (⭐953)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
+*   [playwright-java (⭐991)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 
-## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering to Management Transition
 
@@ -115,25 +104,25 @@
 
 *   “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an opportunity for great new ventures.
 
-## [12. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [11. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Testing
 
 *   [antwaremx:meteorman (⭐48)](https://github.com/antwaremx/meteorman) - Meteorman: A DDP Client with GUI to test Meteor methods and publications (like Postman).
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Frameworks
 
 *   [wasm-bindgen-action (⭐9)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [Weights & Biases](https://www.wandb.com/) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
 
-## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Disassemblers and debuggers
 

@@ -39,7 +39,7 @@
 
 ### Serialization
 
-*   [Migrant (⭐45)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+*   [Migrant (⭐46)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 
 ### Source Generator
 

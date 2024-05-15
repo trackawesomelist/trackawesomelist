@@ -30,7 +30,7 @@
 
 ### Statistics
 
-*   [numerix (⭐181)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐183)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Third Party APIs
 
@@ -38,11 +38,11 @@
 
 ### Utilities
 
-*   [retry (⭐429)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐433)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Video
 
-*   [ffmpex (⭐209)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐215)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Pattern Matching
 
-*   [Akar (⭐174)](https://github.com/missingfaktor/akar)
+*   [Akar (⭐173)](https://github.com/missingfaktor/akar)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [cpp-lazy (⭐319)](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. \[MIT]
+*   [cpp-lazy (⭐325)](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. \[MIT]
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -44,7 +44,7 @@
 
 ### E-Commerce and Payments
 
-*   [SmartStoreNET (⭐1k)](https://github.com/smartstore/Smartstore) - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
+*   [SmartStoreNET (⭐1.1k)](https://github.com/smartstore/Smartstore) - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -55,7 +55,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fbi (⭐0)](https://github.com/bateman/fbi-zsh-theme) - Powerline-inspired fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with decorators for `nvm` environment, `git` status, username\@hostname and current directory.
-*   [ninik (⭐1)](https://github.com/NimaNikfar/ninik-zsh-theme) - Inspired by [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) and [ubunly (⭐21)](https://github.com/alejandromume/ubunly-zsh-theme). Includes decorators for OS, current directory, python virtualenv and `git` status. Requires a Nerd Font or Powerline-patched font.
+*   [ninik (⭐2)](https://github.com/NimaNikfar/ninik-zsh-theme) - Inspired by [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) and [ubunly (⭐22)](https://github.com/alejandromume/ubunly-zsh-theme). Includes decorators for OS, current directory, python virtualenv and `git` status. Requires a Nerd Font or Powerline-patched font.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

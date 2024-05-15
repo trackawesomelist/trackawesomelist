@@ -40,7 +40,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [One Time Address (⭐60)](https://github.com/alexk111/One-Time-Address)
+- Processor: [One Time Address (⭐63)](https://github.com/alexk111/One-Time-Address)
 
   Fees: No fees
 
@@ -72,7 +72,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐575)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

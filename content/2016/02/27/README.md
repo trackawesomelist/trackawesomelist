@@ -20,13 +20,13 @@
 
 ### Other / Other Resources
 
-*   [Incident-Response (⭐5.6k)](https://github.com/meirwah/awesome-incident-response)
+*   [Incident-Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response)
 
 ## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐151k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐201k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)

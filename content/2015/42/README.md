@@ -26,7 +26,7 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jack Franklin](https://twitter.com/jack_franklin)
 *   [Thierry Chatel](https://twitter.com/ThierryChatel)
@@ -386,7 +386,7 @@
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐296)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐297)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
 ## [31. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -905,7 +905,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐97)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐98)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Third Party APIs
 

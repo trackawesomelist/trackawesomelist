@@ -10,8 +10,8 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [FedoraWSL (⭐130)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AmazonWSL (⭐111)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [FedoraWSL (⭐133)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AmazonWSL (⭐116)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -20,7 +20,6 @@
 *   [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *   [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *   [Keycloak Discourse Group](https://keycloak.discourse.group/)
-*   [Keycloak Developer Chat](https://keycloak.zulipchat.com)
 *   [Inactive - User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
 *   [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 
@@ -28,18 +27,18 @@
 
 ### Python / Trading & Backtesting
 
-*   [quantstats (⭐4k)](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-*   [Quantdom (⭐684)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
+*   [quantstats (⭐4.3k)](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
+*   [Quantdom (⭐695)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quantitative-Notebooks (⭐897)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
+*   [Quantitative-Notebooks (⭐941)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Npm
 
-*   [wipe-modules (⭐333)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+*   [wipe-modules (⭐343)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -99,15 +98,15 @@
 ### Tools & Software / Search & Discovery
 
 *   [webarchive-discovery (⭐113)](https://github.com/ukwa/webarchive-discovery) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
-    *   [Shine (⭐41)](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/). *(Stable)*
-    *   [SolrWayback (⭐89)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐89)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
+    *   [Shine (⭐42)](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/). *(Stable)*
+    *   [SolrWayback (⭐94)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐94)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
     *   [Warclight (⭐48)](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. *(In Development)*
-    *   [Wasp (⭐23)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
+    *   [Wasp (⭐25)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
     *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐113)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 ### Tools & Software / Utilities
 
-*   [ArchiveTools (⭐63)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
+*   [ArchiveTools (⭐66)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
 *   [har2warc (⭐42)](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).
 *   [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported (macOS only, Proprietary app).
 *   [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser (macOS only, Proprietary app).
@@ -115,9 +114,9 @@
 ### Tools & Software / WARC I/O Libraries
 
 *   [jwarc (⭐42)](https://github.com/iipc/jwarc) - Read and write WARC files with a type safe API (Java).
-*   [warcio (⭐328)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python). *(Stable)*
-*   [warctools (⭐134)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
-*   [webarchive (⭐16)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
+*   [warcio (⭐343)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python). *(Stable)*
+*   [warctools (⭐141)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
+*   [webarchive (⭐17)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
 
 ### Tools & Software / Quality Assurance
 
@@ -126,12 +125,12 @@
 *   [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US\&gl=US) - Browser extension: link harvester on a page.
 *   [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text.
 *   [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs.
-*   [FlameShot (⭐22k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
+*   [FlameShot (⭐23k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
 *   [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu.
 *   [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
 *   [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture).
 *   [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
-*   [xDoTool (⭐2.9k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
+*   [xDoTool (⭐3k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
 *   [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows.
 
 ### Community Resources / Slack
@@ -423,9 +422,9 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
-    (C++, GPL 3, [GitHub (⭐483)](https://github.com/Yixin-Hu/TetWild))
+    (C++, GPL 3, [GitHub (⭐570)](https://github.com/Yixin-Hu/TetWild))
 *   [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
-    (C++, MPL 2, [GitHub (⭐256)](https://github.com/wildmeshing/fTetWild))
+    (C++, MPL 2, [GitHub (⭐357)](https://github.com/wildmeshing/fTetWild))
 
 ### Other libraries and tools / Mesh tools
 
@@ -436,24 +435,24 @@
 
 ### Props from server / Mouse Events
 
-*   [axios-react (⭐44)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
+*   [axios-react (⭐45)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Databases / Lazy Load
 
 *   [crisp-bigquery (⭐43)](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
-*   [react-server-routing-example (⭐299)](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
+*   [react-server-routing-example (⭐298)](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
 
 ## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
-*   [toml++ (⭐1.3k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐1.4k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐331)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐340)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

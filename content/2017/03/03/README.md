@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐523)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐525)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -48,19 +48,13 @@
     *   *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://twitter.com/rugginoso) <sup>\[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
     *   *Practical Data Science in Ruby* by Bobby Grayson <sup>\[[slides](http://slides.com/bobbygrayson/p#/)]</sup>
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Documentation tools / Components
-
-*   [NgModule-Viz (⭐37)](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
-
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [tiny-dnn (⭐5.7k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
+*   [tiny-dnn (⭐5.8k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
 
-## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Tools
 

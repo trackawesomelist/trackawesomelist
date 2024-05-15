@@ -31,7 +31,7 @@
 
 ### CLI
 
-*   [Gui.cs (⭐8.9k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐9.2k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-gallery-slideshow (⭐168)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+*   [vue-gallery-slideshow (⭐169)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
 ---
 

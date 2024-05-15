@@ -14,13 +14,13 @@
 
 ### Walkthrough / Barcode
 
-*   [Gecco (⭐15)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
+*   [Gecco (⭐16)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Installation Media / Discovery
 
-*   [nix-installer (⭐1.4k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐1.6k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -66,7 +66,7 @@
 ### Libraries / Game development
 
 *   Skillratings
-    *   [atomflunder/skillratings (⭐29)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+    *   [atomflunder/skillratings (⭐35)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -94,38 +94,37 @@
 ### Libraries/Frameworks / Misc
 
 *   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
-*   [kryptokrona/kryptokrona-kotlin-sdk (⭐48)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [Warchaeology](https://nlnwa.github.io/warchaeology/) - Warchaeology is a collection of tools for inspecting, manipulating, deduplicating and validating WARC-files. *Stable*
-*   [warcrefs (⭐5)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *Stable*
+*   [warcrefs (⭐6)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *Stable*
 
 ## [12. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygalmesh (⭐459)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+*   [pygalmesh (⭐528)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
     (Python, GPL 3, GitHub)
-*   [dmsh (⭐186)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+*   [dmsh (⭐201)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
     (Python, proprietary, GitHub)
 
 ### Meshing / Mesh tools
 
-*   [optimesh (⭐504)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
+*   [optimesh (⭐550)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
     (Python, proprietary, GitHub)
-*   [meshplex (⭐99)](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
+*   [meshplex (⭐104)](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
     (Python, proprietary, GitHub)
 
 ### Other libraries and tools / Mesh tools
 
-*   [quadpy (⭐718)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
+*   [quadpy (⭐750)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
     (Python, proprietary, GitHub)
-*   [accupy (⭐99)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
+*   [accupy (⭐101)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
     (Python, GPL 3, GitHub)
-*   [orthopy (⭐168)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
+*   [orthopy (⭐179)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
     (Python, proprietary, GitHub)
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -150,11 +149,11 @@
 
 ### Git / Diagnostics
 
-*   [aaronhallaert/advanced-git-search.nvim (⭐249)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐273)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-alt-substitute (⭐40)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
+*   [chrisgrieser/nvim-alt-substitute (⭐42)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
 
 ---
 

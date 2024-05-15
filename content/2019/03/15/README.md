@@ -28,7 +28,7 @@ Free
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐946)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐983)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -95,7 +95,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐47)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐48)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -229,7 +229,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐8k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

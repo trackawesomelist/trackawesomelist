@@ -28,38 +28,38 @@
 
 ### Malware Collection / Malware Corpora
 
-*   [Zeus Source Code (⭐1.2k)](https://github.com/Visgean/Zeus) - Source for the Zeus
+*   [Zeus Source Code (⭐1.4k)](https://github.com/Visgean/Zeus) - Source for the Zeus
     trojan leaked in 2011.
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ioc\_writer (⭐185)](https://github.com/mandiant/ioc_writer) - Python library for
+*   [ioc\_writer (⭐199)](https://github.com/mandiant/ioc_writer) - Python library for
     working with OpenIOC objects, from Mandiant.
-*   [threataggregator (⭐74)](https://github.com/jpsenior/threataggregator) -
+*   [threataggregator (⭐78)](https://github.com/jpsenior/threataggregator) -
     Aggregates security threats from a number of sources, including some of
     those listed below in [other resources](#other-resources).
-*   [TIQ-test (⭐158)](https://github.com/mlsecproject/tiq-test) - Data visualization
+*   [TIQ-test (⭐165)](https://github.com/mlsecproject/tiq-test) - Data visualization
     and statistical analysis of Threat Intelligence feeds.
 
 ### Open Source Threat Intelligence / Other Resources
 
-*   [FireEye IOCs (⭐441)](https://github.com/fireeye/iocs) - Indicators of Compromise
+*   [FireEye IOCs (⭐460)](https://github.com/fireeye/iocs) - Indicators of Compromise
     shared publicly by FireEye.
 
 ### Detection and Classification / Other Resources
 
-*   [MASTIFF (⭐156)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis
+*   [MASTIFF (⭐173)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis
     framework.
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [DRAKVUF (⭐827)](https://github.com/tklengyel/drakvuf) - Dynamic malware analysis
+*   [DRAKVUF (⭐1k)](https://github.com/tklengyel/drakvuf) - Dynamic malware analysis
     system.
-*   [Malheur (⭐338)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
+*   [Malheur (⭐362)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
     of malware behavior.
 *   [Malwr](https://malwr.com/) - Free analysis with an online Cuckoo Sandbox
     instance.
-*   [Noriben (⭐920)](https://github.com/Rurik/Noriben) - Uses Sysinternals Procmon to
+*   [Noriben (⭐1.1k)](https://github.com/Rurik/Noriben) - Uses Sysinternals Procmon to
     collect information about malware in a sandboxed environment.
 
 ### Deobfuscation / Other Resources
@@ -70,15 +70,15 @@
     & [iheartxor](http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html) -
     Two tools from Alexander Hanel for working with single-byte XOR encoded
     files.
-*   [NoMoreXOR (⭐74)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
+*   [NoMoreXOR (⭐81)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
     XOR key using frequency analysis.
-*   [unxor (⭐129)](https://github.com/tomchop/unxor/) - Guess XOR keys using
+*   [unxor (⭐135)](https://github.com/tomchop/unxor/) - Guess XOR keys using
     known-plaintext attacks.
 *   [XORBruteForcer](http://eternal-todo.com/var/scripts/xorbruteforcer) -
     A Python script for brute forcing single-byte XOR keys.
 *   [XORSearch & XORStrings](https://blog.didierstevens.com/programs/xorsearch/) -
     A couple programs from Didier Stevens for finding XORed data.
-*   [xortool (⭐1.2k)](https://github.com/hellman/xortool) - Guess XOR key length, as
+*   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - Guess XOR key length, as
     well as the key itself.
 
 ### Network / Other Resources
@@ -87,7 +87,7 @@
     scale; both file and network protocols.
 *   [Fiddler](https://www.telerik.com/fiddler) - Intercepting web proxy designed
     for "web debugging."
-*   [Hale (⭐170)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
+*   [Hale (⭐183)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
 
 ### Miscellaneous / Other Resources
 

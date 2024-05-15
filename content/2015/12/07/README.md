@@ -58,7 +58,7 @@
 
 ### Third Party APIs
 
-*   [apns (⭐71)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
+*   [apns (⭐70)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 
 ## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
@@ -306,7 +306,7 @@
 ### Table of Contents / Repos
 
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐305)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
 ---
 

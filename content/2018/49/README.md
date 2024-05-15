@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 03 - Dec 09, 2018
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,7 +56,7 @@
 
 ### Apps / Blogging/news
 
-*   [Snotra\_RSS (⭐14)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
+*   [Snotra\_RSS (⭐15)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
 
 ### Apps / Misc
 
@@ -64,17 +64,17 @@
 
 ### Open-source sites / Lists
 
-*   [Project TIER (⭐10)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
+*   [Project TIER (⭐11)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
 ## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐18k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐38k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐901)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐13)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐19k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐39k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐916)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐15)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
@@ -135,17 +135,11 @@
 
 *   [Veldrid (⭐2.4k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Universal Seed Projects / Components
-
-*   [angular-universal-heroku-starter (⭐23)](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
-
-## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐179)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐181)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -163,7 +157,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.8k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.9k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -190,23 +184,23 @@
 *   [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 *   [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 
-## [18. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [17. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Applications / Apache License
 
-*   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+*   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
 ### Generators / Apache License
 
-*   [svd2ada (⭐60)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐61)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SCM Breeze (⭐2.8k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 
@@ -215,9 +209,9 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐648)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐651)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
-## [21. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [20. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Conferences
 
@@ -227,19 +221,19 @@
 
 *   [Developers, Entrepreneurs And Depression - Business Of Software 2015](https://www.youtube.com/watch?v=zUQjZZJjKsY) - By Greg Baugues.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
 
-## [23. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [22. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Misc / Case Study
 
 *   [LaravelLinks Telegram Channel](https://telegram.me/laravellinks)
 
-## [24. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [23. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -283,7 +277,7 @@
 
 
 
-## [25. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [24. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
@@ -406,7 +400,7 @@
 
 *   [the-art-of-command-line (⭐112k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
-## [26. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [25. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Science and Medicine
 
@@ -432,7 +426,7 @@
 
 
 
-## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [26. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Angular
 
@@ -455,25 +449,25 @@
 
 *   [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Style Guides
 
 *   [Google](https://google.github.io/swift/) - This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.
 
-## [29. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [28. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
 *   [EcmaScript (⭐870)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [Meadow (⭐135)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
-## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
@@ -492,23 +486,23 @@
 *   [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
 *   [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
-## [32. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [31. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [is-wsl for Node (⭐182)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [is-wsl for Node (⭐185)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [33. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [32. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
 *   [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
-*   [Wave (⭐949)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+*   [Wave (⭐1.1k)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 
 ### State management / Standard
 
@@ -516,9 +510,9 @@
 
 ### Top / Game Engine resources
 
-*   [Transform Widget (⭐27)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
+*   [Transform Widget (⭐26)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
-## [35. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [34. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Documentation Generation
 
@@ -528,7 +522,7 @@
 
 *   [GLFW](https://www.glfw.org/) - Multi-platform library for creating windows with OpenGL contexts. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
@@ -544,13 +538,13 @@
 
 *   [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 
-## [37. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Charcoal (⭐196)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
@@ -560,14 +554,14 @@
 
 *   [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
 
-## [39. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [38. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### JS
 
 *   [AngularJS (⭐17k)](https://github.com/angular/material) — Material design for AngularJS.
 *   [Angular (⭐23k)](https://github.com/angular/material2) — Material design for Angular.
 
-## [40. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [39. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -578,7 +572,7 @@
 *   [Firecracker (⭐20k)](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 *   [Cirrus (⭐102)](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
 
-## [41. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [40. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2012
 
@@ -587,19 +581,19 @@
     *   [Part 2](https://youtu.be/AlJdI6yNo4U) \[15:41]
     *   [Part 3](https://youtu.be/LZK-ObWu_5I) \[33:31]
 
-## [42. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 
-## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐71)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
-## [44. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [43. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 

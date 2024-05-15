@@ -48,7 +48,7 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐668)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐676)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 

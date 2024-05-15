@@ -39,7 +39,7 @@
 
 ### Miscellaneous
 
-*   [html\_entities (⭐84)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
+*   [html\_entities (⭐86)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 
 ## [3. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 

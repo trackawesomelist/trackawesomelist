@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10 - Dec 16, 2018
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,8 +76,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐820)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
-*   [vue2-persian-datepicker (⭐102)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
+*   [vue-hotel-datepicker (⭐830)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue2-persian-datepicker (⭐100)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
 
@@ -99,7 +99,7 @@
 
 ### Platforms
 
-*   [Flutter (⭐50k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐52k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
 ## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -167,11 +167,11 @@
 
 ### Templates / Preferences
 
-*   [DrawApp (⭐234)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
+*   [DrawApp (⭐239)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
 ### Top / Game Engine resources
 
-*   [Deer (⭐386)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Deer (⭐421)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ## [23. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
@@ -237,20 +237,20 @@
 
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
-*   [somafm-cli (⭐126)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐1.9k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [somafm-cli (⭐133)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+*   [mpd (⭐2.1k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
-*   [musikcube (⭐3.7k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+*   [musikcube (⭐4k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
 ### Development / Text Editors
 
-*   [emacs (⭐4k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
-*   [vim (⭐33k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
+*   [emacs (⭐4.2k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+*   [vim (⭐35k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 
 ### Files and Directories / File Managers
 
-*   [ranger (⭐14k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
-*   [midnight-commander (⭐2.1k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
+*   [ranger (⭐15k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [midnight-commander (⭐2.4k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
 ## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -294,55 +294,23 @@
 
 ### Components / Apache License
 
-*   [gnatcoll-json (⭐6)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
+*   [gnatcoll-json (⭐7)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 
-## [36. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Java
-
-*   [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
-*   [Nutz文档](https://nutzam.com/core/nutz_preface.html)
-
-### MySQL / Zepto.js
-
-*   [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
-*   [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
-
-### NoSQL / Zepto.js
-
-*   [Disque 使用教程](http://disque.huangz.me)
-*   [Redis 命令参考](http://redisdoc.com)
-*   [Redis 设计与实现](http://redisbook.com)
-*   [The Little MongoDB Book (⭐520)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-*   [The Little Redis Book (⭐589)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-
-### PostgreSQL / Symfony
-
-*   [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
-*   [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
-*   [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
-*   [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
-*   [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
-
-### VBA (Microsoft Visual Basic Applications) / Deno
-
-*   [简明Excel VBA (⭐510)](https://github.com/Youchien/concise-excel-vba)
-
-## [37. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [36. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [pokecry (⭐5)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
-*   [Yocto/GL (⭐2.7k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
+*   [Yocto/GL (⭐2.8k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
 
 ### Logging
 
-*   [plog (⭐2k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
+*   [plog (⭐2.1k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 
 ### Physics
 
@@ -350,17 +318,17 @@
 
 ### Sorting
 
-*   [pdqsort (⭐2.2k)](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. \[zlib]
+*   [pdqsort (⭐2.3k)](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. \[zlib]
 
 ### Miscellaneous
 
-*   [DynaMix (⭐655)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐656)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐438)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐443)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -376,9 +344,9 @@
 
 ### Tools / Misc
 
-*   [Notebooks (⭐31)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+*   [Notebooks (⭐32)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
-## [40. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [39. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
@@ -392,7 +360,7 @@
 
 *   [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 
-## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -402,7 +370,7 @@
 
 *   [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 
-## [42. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [41. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / Indonesia 🇮🇩
 
@@ -576,24 +544,24 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 Topics: React, JavaScript, jQuery\
 <https://twitter.com/raphamorims>
 
-## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
 *   [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 
-## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [43. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Visualization
 
-*   [rdeditor (⭐56)](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
+*   [rdeditor (⭐75)](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 
 ### Journals / Others
 
 *   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 *   [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -611,14 +579,14 @@ Topics: React, JavaScript, jQuery\
 
 *   [aspnetcore-security-headers (⭐243)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
-## [46. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Packagist Mirrors / IRC
 
 *   Africa
     *   South Africa - [packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/README.md/packagist.co.za)
 
-## [47. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [46. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -805,7 +773,7 @@ Topics: React, JavaScript, jQuery\
 *   [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
 *   [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 
-## [48. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [47. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -816,7 +784,7 @@ Topics: React, JavaScript, jQuery\
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -828,15 +796,15 @@ Topics: React, JavaScript, jQuery\
 
 ### GUI
 
-*   [SciterSharp (⭐102)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
+*   [SciterSharp (⭐104)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
 
 ### Mathematics
 
-*   [UnitConversion (⭐176)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+*   [UnitConversion (⭐178)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 
 ### Trading
 
-*   [StockSharp (⭐6.4k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
+*   [StockSharp (⭐6.6k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ### Visual Studio Plugins
 

@@ -10,7 +10,7 @@
 
 ### Ask these people anything!
 
-*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
+*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at Refinery29. Avid mentor and developer evangelist, especially for women and minorities.
 
 ## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 

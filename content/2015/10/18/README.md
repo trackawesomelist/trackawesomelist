@@ -39,7 +39,7 @@
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jack Franklin](https://twitter.com/jack_franklin)
 *   [Thierry Chatel](https://twitter.com/ThierryChatel)
@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐97)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐98)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Community
 

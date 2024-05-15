@@ -8,44 +8,32 @@
 
 ## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Experts on Twitter
+### Twitter / Experts
 
 *   [@waterplea](https://twitter.com/waterplea)
 *   [@marsibarsi](https://twitter.com/marsibarsi)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Alex Inkin](https://twitter.com/waterplea)
-
-### Server-Side Rendering
-
-*   [ng-web-apis/universal — an opensource set of native API fallbacks and stubs (⭐117)](https://github.com/ng-web-apis/universal)
-
-### Books / Components
-
-*   [Angular Institute](https://angular.institute/) `angular.institute`
-
-### TypeScript Seed Projects / Components
-
-*   [TinkoffCreditSystems/angular-open-source-starter (⭐247)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐992)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐1k)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Trivy (⭐20k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
+*   [Trivy (⭐22k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [MeTube (⭐3k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐3.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -169,7 +157,7 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐133)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐135)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -189,13 +177,13 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [gs-quant (⭐2.3k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+*   [gs-quant (⭐2.7k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 
 ## [12. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub collapse markdown (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
+*   [GitHub collapse markdown (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
 ## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

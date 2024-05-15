@@ -1271,7 +1271,7 @@
 
 ### Ask these organizations anything!
 
-*   [Ansible Taiwan (⭐32)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
+*   [Ansible Taiwan (⭐33)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 
 ## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -1479,7 +1479,7 @@
 
 ### Miscellaneous
 
-*   [countriex (⭐29)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
+*   [countriex (⭐30)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 
 ### Protocols
 
@@ -1493,7 +1493,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐513)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐517)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [37. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -1505,7 +1505,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐15k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐16k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 
@@ -1513,7 +1513,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Security List (⭐1.6k)](https://github.com/zbetcheckin/Security_list)
+- Repository: [Security List (⭐1.7k)](https://github.com/zbetcheckin/Security_list)
 
   Description: Great security list for fun and profit
 

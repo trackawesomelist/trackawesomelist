@@ -29,7 +29,7 @@
 
 ### Models/Projects
 
-*   [Domain Transfer Network (⭐864)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
+*   [Domain Transfer Network (⭐862)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐991)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐1k)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -221,13 +221,13 @@
 
 ### Ask these people anything!
 
-*   [Travis Northcutt (⭐0)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
+*   [Travis Northcutt (⭐1)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Trading
 
-*   [Lean (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8.7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
@@ -272,13 +272,13 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.9k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐868)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐888)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -312,7 +312,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐4k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐4.1k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Altium
 
@@ -327,13 +327,9 @@
 
 ## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Books / Components
+### Books / Testing
 
-*   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
-
-### Meteor Seed Projects / Components
-
-*   [Angular2 Meteor Seed (⭐5)](https://github.com/KyneSilverhide/angular2-meteor-seed)
+*   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
 
 ## [28. Tips](/content/git-tips/tips/week/README.md)
 
@@ -353,7 +349,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐853)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐856)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -418,7 +414,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 ### Inspiration / Other
 
 *   [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
-*   [People You Should Follow on CodePen (⭐676)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐678)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ### Blogs • Websites / Other
 
@@ -426,10 +422,10 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Related / Other
 
-*   [Awesome opengl (⭐2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome opengl (⭐2.1k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [Awesome canvas (⭐1.5k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
-*   [Awesome audio visualization (⭐4.4k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome audio visualization (⭐4.5k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+*   [Awesome computer vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

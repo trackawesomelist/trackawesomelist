@@ -17,7 +17,7 @@
 
 ### SMS and Phone calls
 
-*   [Twilio-csharp (⭐646)](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
+*   [Twilio-csharp (⭐656)](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -81,7 +81,6 @@ git stash push --all
 *   [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - Active Ruby meetup with frequent, large events.
 *   [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - Monthly Elixir meetups.
 *   [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust.
-*   [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ### Everywhere
 
@@ -100,7 +99,7 @@ git stash push --all
 ### Supersets
 
 *   [TOML (⭐19k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
-*   [HCL (⭐5k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
+*   [HCL (⭐5.1k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

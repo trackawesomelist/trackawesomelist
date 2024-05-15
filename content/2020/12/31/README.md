@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [Spark (⭐298)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
+*   [Spark (⭐332)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

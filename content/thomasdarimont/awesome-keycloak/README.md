@@ -6,12 +6,68 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [May 15, 2024](/content/2024/05/15/README.md)
+
+### Discussion Groups and Mailing Lists
+
+*   [Inactive - Keycloak Developer Chat](https://keycloak.zulipchat.com)
+*   [GitHub Discussions (⭐20k)](https://github.com/keycloak/keycloak/discussions)
+*   [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
+
+### Articles
+
+*   [Writing Keycloak Extensions: Key Concepts and Anti-Patterns](https://www.zone2.tech/blog/writing-keycloak-extensions-key-concepts-and-anti-patterns)
+*   [Keycloak Multi-Tenancy and the Pulumi Automation API: Part 1](https://www.zone2.tech/blog/keycloak-multi-tenancy-and-the-pulumi-automation-api-part-1)
+*   [Instant User Management, SSO, and Secure Pages for ReactJS](https://dev.to/phasetwo/instant-user-management-sso-and-secure-pages-for-reactjs-with-keycloak-4hej)
+*   [Securing a Next.js Application with Keycloak](https://dev.to/phasetwo/securing-a-nextjs-application-with-keycloak-gm3)
+*   [Django Web Authentication with Keycloak](https://dev.to/phasetwo/django-web-authentication-with-keycloak-3hl2)
+
+### Video Playlists
+
+*   [KeycloakDevDay 2024 by dasniko](https://www.youtube.com/watch?v=lQH-yNrF_As\&list=PLNn3plN7ZiaqXjiDSB1KDaF3bCDuQmDgw)
+
+### Community Extensions
+
+*   [Admin Portal for User and Organization management by p2-inc (⭐16)](https://github.com/p2-inc/phasetwo-admin-portal)
+*   [Email Notifications when login from a new IP and Login History (⭐5)](https://github.com/eliskachylikova/keycloak-extensions)
+*   [Keycloak Authenticator for Duo's Universal Prompt (⭐46)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
+*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐90)](https://github.com/anarsultanov/keycloak-multi-tenancy)
+
+### Integrations
+
+*   [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
+*   [mantelo (Python Admin Client) (⭐7)](https://github.com/derlin/mantelo)
+
+### Themes
+
+*   [Keycloak login theme template (⭐32)](https://github.com/p2-inc/keycloak-theme-template)
+*   [Extension for runtime loading of CSS themes (⭐24)](https://github.com/p2-inc/keycloak-themes)
+*   [3 CSS-only Keycloak theme examples (⭐24)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+
+### Docker
+
+*   [Keycloak with CRDB Support](https://quay.io/repository/phasetwo/keycloak-crdb) ([CockroachDB](https://www.cockroachlabs.com/))
+
+### Tools
+
+*   [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
+
+### Example Projects
+
+*   [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey (⭐2)](https://github.com/christian-2/oidc-passkey)
+*   [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak\_oidc (⭐19)](https://github.com/Amsterdam/keycloak_oidc)
+
+### Commercial Offerings
+
+*   [Red Hat build of Keycloak](https://access.redhat.com/products/red-hat-build-of-keycloak)
+*   Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
+*   [Skycloak](https://skycloak.io/)
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Example Projects
 
-*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐117)](https://github.com/bcgov/vc-authn-oidc)
-*   [FIDO2 with Keycloak  for 1FA and 2FA christian-2/oidc-passkey (⭐2)](https://github.com/christian-2/oidc-passkey)
+*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐119)](https://github.com/bcgov/vc-authn-oidc)
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -21,11 +77,11 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Clients
 
-*   [.NET / C# Keycloak.RestApiClient (⭐23)](https://github.com/fschick/Keycloak.RestApiClient)
+*   [.NET / C# Keycloak.RestApiClient (⭐31)](https://github.com/fschick/Keycloak.RestApiClient)
 
 ### Example Projects
 
-*   [How to: Keycloak - ASP.NET Core - Angular (⭐18)](https://github.com/fschick/Keycloak.ASPNet.Angular)
+*   [How to: Keycloak - ASP.NET Core - Angular (⭐21)](https://github.com/fschick/Keycloak.ASPNet.Angular)
 
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
@@ -35,17 +91,17 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐7)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐14)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐20)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐29)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
 ### Community Extensions
 
-*   [rciam/keycloak-group-management (⭐8)](https://github.com/rciam/keycloak-group-management)
+*   [rciam/keycloak-group-management (⭐10)](https://github.com/rciam/keycloak-group-management)
 
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
@@ -61,7 +117,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [softwarefactory-project/keycloak-filter-provider-users (⭐7)](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
+*   [softwarefactory-project/keycloak-filter-provider-users (⭐8)](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
@@ -73,7 +129,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐110)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐111)](https://github.com/TNG/keycloak-mock)
 
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
@@ -83,20 +139,20 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Example for using Keycloak Authorization with ASP.NET Core (⭐276)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐354)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
 ## [Mar 04, 2023](/content/2023/03/04/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Metrics based on Micrometer (⭐22)](https://github.com/kokuwaio/keycloak-event-metrics)
+*   [Keycloak Metrics based on Micrometer (⭐25)](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ## [Mar 02, 2023](/content/2023/03/02/README.md)
 
 ### Community Extensions
 
-*   [Organizations for Keycloak by p2-inc (⭐275)](https://github.com/p2-inc/keycloak-orgs)
-*   [MagicLink Authenticator by p2-inc (⭐160)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Organizations for Keycloak by p2-inc (⭐338)](https://github.com/p2-inc/keycloak-orgs)
+*   [MagicLink Authenticator by p2-inc (⭐192)](https://github.com/p2-inc/keycloak-magic-link)
 
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
@@ -114,7 +170,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [2FA with Code sent via Email (⭐87)](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
+*   [2FA with Code sent via Email (⭐110)](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
@@ -124,19 +180,18 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [NextJS + tailwind + keycloak integration (⭐6)](https://github.com/santiblanko/keycloak-nextjs-auth)
-*   [Vault Keycloak Plugin (⭐8)](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
-*
+*   [NextJS + tailwind + keycloak integration (⭐7)](https://github.com/santiblanko/keycloak-nextjs-auth)
+*   [Vault Keycloak Plugin (⭐9)](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
 
 ### Themes
 
-*   [TailwindUI theme (⭐22)](https://github.com/santiblanko/tailwind-keycloak-theme)
+*   [TailwindUI theme (⭐32)](https://github.com/santiblanko/tailwind-keycloak-theme)
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
 ### Integrations
 
-*   [Keycloak Python Client (⭐26)](https://github.com/keycloak-client/keycloak-client)
+*   [Keycloak Python Client (⭐33)](https://github.com/keycloak-client/keycloak-client)
 
 ## [May 09, 2022](/content/2022/05/09/README.md)
 
@@ -144,19 +199,15 @@ A curated list of resources for learning about http://www.keycloak.org
 
 *   [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter (⭐7)](https://github.com/authbroker/authbroker)
 
-### Commercial Offerings
-
-*   [Phase Two](https://phasetwo.io/)
-
 ## [Jan 27, 2022](/content/2022/01/27/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Metrics SPI (⭐486)](https://github.com/aerogear/keycloak-metrics-spi)
+*   [Keycloak Metrics SPI (⭐513)](https://github.com/aerogear/keycloak-metrics-spi)
 
 ### Themes
 
-*   [Keywind: Component-based theme built with Tailwind CSS (⭐590)](https://github.com/lukin/keywind)
+*   [Keywind: Component-based theme built with Tailwind CSS (⭐695)](https://github.com/lukin/keywind)
 
 ### Commercial Offerings
 
@@ -166,7 +217,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐189)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐214)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [Dec 06, 2021](/content/2021/12/06/README.md)
 
@@ -178,7 +229,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐119)](https://github.com/p2-inc/keycloak-events)
+*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐147)](https://github.com/p2-inc/keycloak-events)
 
 ## [Oct 06, 2021](/content/2021/10/06/README.md)
 
@@ -196,13 +247,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐81)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐85)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [Aug 21, 2021](/content/2021/08/21/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Benchmark Project (⭐114)](https://github.com/keycloak/keycloak-benchmark)
+*   [Keycloak Benchmark Project (⭐123)](https://github.com/keycloak/keycloak-benchmark)
 
 ## [Aug 13, 2021](/content/2021/08/13/README.md)
 
@@ -214,7 +265,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Keycloak Kafka Module (⭐78)](https://github.com/SnuK87/keycloak-kafka)
+*   [Keycloak Kafka Module (⭐82)](https://github.com/SnuK87/keycloak-kafka)
 
 ## [Jun 29, 2021](/content/2021/06/29/README.md)
 
@@ -226,13 +277,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [keycloak-scanner Python CLI (⭐43)](https://github.com/NeuronAddict/keycloak-scanner)
+*   [keycloak-scanner Python CLI (⭐45)](https://github.com/NeuronAddict/keycloak-scanner)
 
 ## [Jun 21, 2021](/content/2021/06/21/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐172)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐178)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [Jun 15, 2021](/content/2021/06/15/README.md)
 
@@ -247,8 +298,8 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐229)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐94)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐241)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
+*   [Example of adding API Key authentication to Keycloak (⭐101)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 
@@ -263,14 +314,14 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [Keycloak on AWS (⭐161)](https://github.com/aws-samples/keycloak-on-aws)
-*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐81)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak on AWS (⭐171)](https://github.com/aws-samples/keycloak-on-aws)
+*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐85)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [May 18, 2021](/content/2021/05/18/README.md)
 
 ### Example Projects
 
-*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐284)](https://github.com/thomasdarimont/keycloak-project-example)
+*   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐313)](https://github.com/thomasdarimont/keycloak-project-example)
 
 ### Miscellaneous
 
@@ -288,13 +339,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Keycloak Last Login Date Event Listener (⭐22)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
+*   [Keycloak Last Login Date Event Listener (⭐23)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## [Apr 23, 2021](/content/2021/04/23/README.md)
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐143)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐155)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [Apr 20, 2021](/content/2021/04/20/README.md)
 
@@ -310,7 +361,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Themes
 
-*   [keycloakify: Create Keycloak themes using React (⭐1.1k)](https://github.com/InseeFrLab/keycloakify)
+*   [keycloakify: Create Keycloak themes using React (⭐1.3k)](https://github.com/InseeFrLab/keycloakify)
 
 ## [Apr 09, 2021](/content/2021/04/09/README.md)
 
@@ -351,13 +402,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [Keycloak Pulumi (⭐28)](https://github.com/pulumi/pulumi-keycloak)
+*   [Keycloak Pulumi (⭐34)](https://github.com/pulumi/pulumi-keycloak)
 
 ## [Dec 20, 2020](/content/2020/12/20/README.md)
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐106)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐109)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [Dec 07, 2020](/content/2020/12/07/README.md)
 
@@ -401,7 +452,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Have I Been Pwned? Keycloak Password Policy (⭐20)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
+*   [Have I Been Pwned? Keycloak Password Policy (⭐19)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -417,7 +468,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐880)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐946)](https://github.com/Nerzal/gocloak)
 
 ## [Jun 29, 2020](/content/2020/06/29/README.md)
 
@@ -428,7 +479,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐618)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐682)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [Jun 25, 2020](/content/2020/06/25/README.md)
 
@@ -441,13 +492,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐116)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐124)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [Jun 17, 2020](/content/2020/06/17/README.md)
 
 ### Clients
 
-*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐173)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐175)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## [Jun 15, 2020](/content/2020/06/15/README.md)
 
@@ -466,7 +517,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐948)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐950)](https://github.com/louketo/louketo-proxy)
 
 ## [May 27, 2020](/content/2020/05/27/README.md)
 
@@ -476,17 +527,17 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [oidc-bash-client (⭐90)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐95)](https://github.com/please-openit/oidc-bash-client)
 
 ## [May 22, 2020](/content/2020/05/22/README.md)
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐193)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐200)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐620)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐662)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -517,7 +568,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐264)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐271)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [May 06, 2020](/content/2020/05/06/README.md)
 
@@ -540,13 +591,13 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Tools
 
-*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐162)](https://github.com/ccouzens/keycloak-openapi)
+*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐166)](https://github.com/ccouzens/keycloak-openapi)
 
 ## [Apr 07, 2020](/content/2020/04/07/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐28)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐30)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [Mar 31, 2020](/content/2020/03/31/README.md)
 
@@ -556,11 +607,11 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐429)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐103)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐105)](https://github.com/klg71/keycloakmigration)
 
 ## [Mar 25, 2020](/content/2020/03/25/README.md)
 
@@ -586,7 +637,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐108)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐118)](https://github.com/wadahiro/keycloak-discord)
 
 ## [Feb 27, 2020](/content/2020/02/27/README.md)
 
@@ -601,7 +652,6 @@ A curated list of resources for learning about http://www.keycloak.org
 *   [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *   [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *   [Keycloak Discourse Group](https://keycloak.discourse.group/)
-*   [Keycloak Developer Chat](https://keycloak.zulipchat.com)
 *   [Inactive - User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
 *   [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 
@@ -609,7 +659,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [React/NextJS Keycloak Bindings (⭐551)](https://github.com/panz3r/react-keycloak)
+*   [React/NextJS Keycloak Bindings (⭐556)](https://github.com/panz3r/react-keycloak)
 
 ## [Jan 19, 2020](/content/2020/01/19/README.md)
 
@@ -664,7 +714,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐575)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [Jun 05, 2019](/content/2019/06/05/README.md)
 
@@ -682,7 +732,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐343)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐350)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -698,7 +748,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Themes
 
-*   [GOV.UK Theme (⭐117)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*   [GOV.UK Theme (⭐119)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
 ## [May 06, 2019](/content/2019/05/06/README.md)
 
@@ -709,7 +759,7 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Community Extensions
 
 *   [CAS Protocol Support (⭐66)](https://github.com/Doccrazy/keycloak-protocol-cas)
-*   [WS-FED Support (⭐36)](https://github.com/cloudtrust/keycloak-wsfed)
+*   [WS-FED Support (⭐37)](https://github.com/cloudtrust/keycloak-wsfed)
 
 ### Integrations
 
@@ -717,14 +767,14 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐589)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐589)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐599)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐599)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [May 02, 2019](/content/2019/05/02/README.md)
 
 ### Integrations
 
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐75)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐77)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [Apr 30, 2019](/content/2019/04/30/README.md)
 
@@ -740,7 +790,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐29)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐30)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
 ## [Apr 15, 2019](/content/2019/04/15/README.md)
 
@@ -829,19 +879,19 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐630)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐649)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [Sep 25, 2018](/content/2018/09/25/README.md)
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐33)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐34)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [Aug 14, 2018](/content/2018/08/14/README.md)
 
 ### Community Extensions
 
-*   [Realm export REST resource by Cloudtrust (⭐51)](https://github.com/cloudtrust/keycloak-export)
+*   [Realm export REST resource by Cloudtrust (⭐52)](https://github.com/cloudtrust/keycloak-export)
 
 ## [Aug 10, 2018](/content/2018/08/10/README.md)
 
@@ -871,19 +921,19 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐124)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐125)](https://github.com/stianst/keycloak-experimental)
 
 ## [Jan 04, 2018](/content/2018/01/04/README.md)
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐929)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐950)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [Sep 05, 2017](/content/2017/09/05/README.md)
 
 ### Example Projects
 
-*   [Custom User Storage Provider .ear with jboss-cli setup (⭐91)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*   [Custom User Storage Provider .ear with jboss-cli setup (⭐92)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ## [Sep 04, 2017](/content/2017/09/04/README.md)
 
@@ -900,7 +950,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Example of custom password hash SPI for Keycloak (⭐23)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
 ## [Jul 31, 2017](/content/2017/07/31/README.md)
@@ -943,7 +993,7 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐200)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐201)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [Jun 26, 2017](/content/2017/06/26/README.md)
 
@@ -981,18 +1031,18 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐948)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐950)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
-*   [Keycloak support for Aurelia (⭐3)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐186)](https://github.com/stevenmaguire/oauth2-keycloak)
-*   [Jenkins Keycloak Authentication Plugin (⭐33)](https://github.com/jenkinsci/keycloak-plugin)
+*   [Keycloak support for Aurelia (⭐4)](https://github.com/waynepennington/aurelia-keycloak)
+*   [Keycloak OAuth2 Auth for PHP (⭐194)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Jenkins Keycloak Authentication Plugin (⭐34)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
 
 *   [Community Keycloak Ionic Theme (⭐21)](https://github.com/lfryc/keycloak-ionic-theme)
-*   [A Keycloak theme based on the AdminLTE UI library (⭐89)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
+*   [A Keycloak theme based on the AdminLTE UI library (⭐90)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ### Docker
 
@@ -1001,11 +1051,11 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Official Examples (⭐19k)](https://github.com/keycloak/keycloak/tree/master/examples)
-*   [Keycloak Quickstarts (⭐1.7k)](https://github.com/keycloak/keycloak-quickstarts)
+*   [Official Examples (⭐20k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Keycloak Quickstarts (⭐1.8k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
-*   [BeerCloak: a comprehensive KeyCloak extension example (⭐124)](https://github.com/dteleguin/beercloak)
+*   [BeerCloak: a comprehensive KeyCloak extension example (⭐133)](https://github.com/dteleguin/beercloak)
 *   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
 
 ### Benchmarks

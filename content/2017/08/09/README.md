@@ -48,7 +48,7 @@
 
 ### Development Utilities
 
-*   [Auto Cache Flush (⭐23)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
+*   [Auto Cache Flush (⭐25)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

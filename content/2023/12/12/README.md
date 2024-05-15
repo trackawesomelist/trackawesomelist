@@ -6,27 +6,23 @@
 
 
 
-## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Other Development Tools / Smart Contracts
-
-*   [puya (⭐58)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
-
-## [2. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
-
-### Authorization / Policy models
-
-*   [Authorization Academy](https://www.osohq.com/academy) - An in-depth, vendor-agnostic treatment of authorization that emphasizes mental models. This guide shows the reader how to think about their authorization needs in order to make good decisions about their authorization architecture and model.
-
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Caching
-
-*   🍰 [CakeDC/CachedRouting (⭐3)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
+## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Migration
 
 *   🍰 [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
+
+## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Other Development Tools / Smart Contracts
+
+*   [puya (⭐73)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+
+## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Authorization / Policy models
+
+*   [Authorization Academy](https://www.osohq.com/academy) - An in-depth, vendor-agnostic treatment of authorization that emphasizes mental models. This guide shows the reader how to think about their authorization needs in order to make good decisions about their authorization architecture and model.
 
 ---
 

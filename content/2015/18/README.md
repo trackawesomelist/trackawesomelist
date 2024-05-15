@@ -41,7 +41,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐680)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐685)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.7k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.8k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Supersets
 
-*   [HanSON (⭐152)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+*   [HanSON (⭐153)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 
 ### Related formats
 
@@ -226,7 +226,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐657)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐665)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

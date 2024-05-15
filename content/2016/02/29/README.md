@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 29, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,13 +52,7 @@
 *   [neo4j-shell-tools (⭐287)](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell.
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### TypeScript Seed Projects / Components
-
-*   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
-
-## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [4. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 
@@ -66,7 +60,7 @@
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
-## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Progress
 
@@ -78,19 +72,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Implementations/Compilers
 
 *   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
-## [8. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [7. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 
-## [9. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
+## [8. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
 ### High level
 
@@ -118,19 +112,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [rtsp-server (⭐29)](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 *   [utp-native (⭐99)](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [electron-packager (⭐44)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐95)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
-## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Books
 
 *   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 
-## [12. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [11. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
@@ -141,7 +135,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 *   [Twitter](https://twitter.com/ava__js)
 
-## [13. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Community / Related Lists
 

@@ -40,7 +40,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐319)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐318)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

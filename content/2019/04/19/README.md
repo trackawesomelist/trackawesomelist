@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐600)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐618)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -51,28 +51,14 @@
 *   [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
 *   [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### HTTP / Components
-
-*   [Official HttpClient](https://angular.io/guide/http)
-
-### Router / Components
-
-*   [Official Routing & Navigation](https://angular.io/guide/router)
-
-### Style Guides / Components
-
-*   [Official Angular style guide](https://angular.io/guide/styleguide)
-
-## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Blogposts and opinions
 
 *   [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
 *   [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
 
-## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [8. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Code Coverage & CI [↗](https://awesomestacks.dev/code-coverage-and-ci) / Resources
 

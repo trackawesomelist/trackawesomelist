@@ -55,7 +55,7 @@
 
 ### ASGI Servers
 
-*   [daphne (⭐2.2k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
+*   [daphne (⭐2.3k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 
 ## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -71,22 +71,22 @@
 
 ### Programming Languages
 
-*   [JavaScript (⭐32k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐33k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.6k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐383)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐385)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐13k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐547)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐551)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
     *   [npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
     *   [AVA (⭐345)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [ESLint (⭐4.1k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐5.9k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐333)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [Observables (⭐332)](https://github.com/sindresorhus/awesome-observables#readme)
     *   [npm scripts (⭐720)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐118k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [30 Seconds of Code (⭐119k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
     *   [Ponyfills (⭐53)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
@@ -165,7 +165,7 @@
 
 ### Testing
 
-*   🍰 [CakephpFixtureFactories plugin (⭐79)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   🍰 [CakephpFixtureFactories plugin (⭐82)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -177,15 +177,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.6k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.6k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.7k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.7k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐9)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐19k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐73)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐20k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐76)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 

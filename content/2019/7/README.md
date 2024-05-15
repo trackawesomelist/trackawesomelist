@@ -10,7 +10,7 @@
 
 ### Contents / Toolkits
 
-*   [Storybook Preact (⭐81k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
+*   [Storybook Preact (⭐83k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐528)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐533)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐108)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐110)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -114,11 +114,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐455)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
-*   [tmux-maildir-counter (⭐31)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐963)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐162)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐501)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-battery (⭐471)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-maildir-counter (⭐32)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
+*   [tmux-mem-cpu-load (⭐981)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-online-status (⭐161)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐536)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 *   [tmux-weather (⭐34)](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -171,7 +171,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐188)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐200)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [21. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -188,17 +188,13 @@
 
 ## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### CLI
-
-*   [Clara (⭐646)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
-
 ### Memory Allocation
 
 *   [memory (⭐1.4k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
 
 ### Networking
 
-*   [PcapPlusPlus (⭐2.5k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
+*   [PcapPlusPlus (⭐2.6k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -216,7 +212,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.9k)](https://github.com/gotify/server), [Clients (⭐790)](https://github.com/gotify/android)) `MIT` `Go/Docker`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐10k)](https://github.com/gotify/server), [Clients (⭐832)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ### Software / Learning and Courses
 
@@ -253,19 +249,19 @@
 
 ### UI / Bottom bars
 
-*   [Circular Bottom Navigation (⭐558)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+*   [Circular Bottom Navigation (⭐616)](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 
 ### Templates / Preferences
 
-*   [Feather (⭐599)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
+*   [Feather (⭐657)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [GeoFlutterFire (⭐293)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
+*   [GeoFlutterFire (⭐305)](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Drawing Animation (⭐460)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
+*   [Drawing Animation (⭐479)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 
 ## [29. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -287,18 +283,18 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐309)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
-*   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐820)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Vue Org Chart (⭐314)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Beep (⭐156)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
+*   [Vue CRUD (⭐827)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐862)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-ctk-date-time-picker (⭐872)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-progressbar (⭐84)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
+*   [vue-scroll-progressbar (⭐85)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
 
 ## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -354,7 +350,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Streaker (⭐179)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
+*   [Streaker (⭐178)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
 
 ## [37. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -372,7 +368,7 @@
 
 ### Deobfuscation / Other Resources
 
-*   [un{i}packer (⭐490)](https://github.com/unipacker/unipacker) - Automatic and
+*   [un{i}packer (⭐606)](https://github.com/unipacker/unipacker) - Automatic and
     platform-independent unpacker for Windows binaries based on emulation.
 
 ### Other / Other Resources
@@ -381,7 +377,7 @@
     Presentation introducing the concepts of malware analysis, threat intelligence
     and reverse engineering. Experience or prior knowledge is not required. Labs
     link in description.
-*   [Windows Registry specification (⭐254)](https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md) -
+*   [Windows Registry specification (⭐304)](https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md) -
     Windows registry file format specification.
 
 ## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
@@ -428,7 +424,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3.6k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.7k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [42. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -457,11 +453,11 @@
 ### Modules / Utils
 
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
-*   [lazy (⭐30)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+*   [lazy (⭐31)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐661)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐660)](https://github.com/chenshenhai/deno_note/)
 
 ## [46. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -491,7 +487,7 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐17)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
 
 ## [49. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -592,11 +588,11 @@ Topics: Terraform, AWS, Devops\
 
 ### Camera
 
-*   [CameraKit-iOS (⭐661)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐667)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐484)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐485)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ### Auto Layout / Barcode
 

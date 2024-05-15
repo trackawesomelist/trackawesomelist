@@ -14,18 +14,18 @@
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐138)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐489)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐78)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
-*   [C++Now 2023 Presentations (⭐74)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [CppCon 2023 Presentation Materials (⭐201)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐501)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐85)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
-*   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
+*   [C++Now 2021 Presentations (⭐3)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Forms
 
-*   [checker (⭐6)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
+*   [checker (⭐8)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
 
 ### Server Applications
 
@@ -41,13 +41,13 @@
 
 ### Database
 
-*   [karlseguin/pg.zig (⭐67)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
+*   [karlseguin/pg.zig (⭐102)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐119)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [3body-lang (⭐158)](https://github.com/rustq/3body-lang) - The Three Body Language
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Tools / Playground
 
-*   [biome (⭐9.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [biome (⭐9.5k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
 ---
 

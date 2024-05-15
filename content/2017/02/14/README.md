@@ -261,14 +261,6 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [@Angular on Twitter](https://twitter.com/angular)
 
-### Pipes / Components
-
-*   [angular2-camelcase (⭐3)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
-
-### Cordova Seed Projects / Components
-
-*   [Angular 2 Seed CLI Admin (Template) (⭐67)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
-
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Videos

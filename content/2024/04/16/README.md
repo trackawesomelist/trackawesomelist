@@ -17,7 +17,7 @@
 ### Libraries / Compression
 
 *   zstd
-    *   [gyscos/zstd-rs (⭐455)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
+    *   [gyscos/zstd-rs (⭐458)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
 
 ## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [composer-dependency-analyser (⭐114)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
+*   [composer-dependency-analyser (⭐243)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 *   💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 *   ⚡ Performant: Scans 15 000 files in 2s!
 *   ⚙️ Configurable: Fine-grained ignores via PHP config
@@ -82,4 +82,5 @@
 
 ---
 
+- Prev: [Apr 17, 2024](/content/2024/04/17/README.md)
 - Next: [Apr 15, 2024](/content/2024/04/15/README.md)

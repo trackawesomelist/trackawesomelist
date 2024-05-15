@@ -29,7 +29,7 @@
 
 ### Packages / Command-line apps
 
-*   [carbon-now-cli (⭐5.6k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Software / Make your life easier
 
-*   [TestLink (⭐1.3k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 
 ### Books / Other
 
@@ -116,13 +116,13 @@
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 *   [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 *   [Generative Art Subreddit](https://www.reddit.com/r/generative)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)

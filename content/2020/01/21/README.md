@@ -8,7 +8,7 @@
 
 ## [1. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Geoffrey Bradway](https://www.chromatocosmos.com/)
 
@@ -22,7 +22,7 @@
 
 ### Integrations
 
-*   [React/NextJS Keycloak Bindings (⭐551)](https://github.com/panz3r/react-keycloak)
+*   [React/NextJS Keycloak Bindings (⭐556)](https://github.com/panz3r/react-keycloak)
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐652)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐673)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -73,8 +73,8 @@
 
 ### Marketplace / Online Ads
 
-*   [RTB Budget Pacing Summarized (⭐4)](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - A collection of budget pacing resources for targeted online advertisements.
-*   [Samsung's online ads platform/exchange war story (⭐135)](https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md) - How to scale to 5M bid request/s, 2ms Max Response Time.
+*   [RTB Budget Pacing Summarized (⭐5)](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - A collection of budget pacing resources for targeted online advertisements.
+*   [Samsung's online ads platform/exchange war story (⭐136)](https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md) - How to scale to 5M bid request/s, 2ms Max Response Time.
 *   [`RTB4Free`](https://github.com/RTB4FREE) - Open Source Bidder and Demand Side Platform (DSP).
 
 ## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -88,12 +88,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐755)](https://github.com/koute/pinky) —
-    *   [pcwalton/sprocketnes (⭐741)](https://github.com/pcwalton/sprocketnes)
+    *   [koute/pinky (⭐762)](https://github.com/koute/pinky) —
+    *   [pcwalton/sprocketnes (⭐748)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐600)](https://github.com/mathall/rim) — Vim-like text editor.
+*   [mathall/rim (⭐601)](https://github.com/mathall/rim) — Vim-like text editor.
 
 ### Applications / Text processing
 
@@ -102,18 +102,18 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐805)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐475)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
+    *   [arrayfire/arrayfire-rust (⭐804)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐473)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐169)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐8.3k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐352)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
+*   [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
+    *   [nuklear-rust (⭐355)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
 
 ### Libraries / Logging
 
-*   [rust-lang/log (⭐2k)](https://github.com/rust-lang/log) — Logging implementation
+*   [rust-lang/log (⭐2.1k)](https://github.com/rust-lang/log) — Logging implementation
 
 ## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
@@ -147,7 +147,7 @@ And run this to remove the attributes:
 
 ### For Electron / Other
 
-*   [electronmon (⭐118)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+*   [electronmon (⭐129)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 
 ### Articles / Other
 
@@ -169,8 +169,8 @@ And run this to remove the attributes:
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2.4k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐183)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.5k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐191)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
@@ -182,7 +182,7 @@ And run this to remove the attributes:
 
 ### Events
 
-*   [Creative Tech Events (⭐141)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐147)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

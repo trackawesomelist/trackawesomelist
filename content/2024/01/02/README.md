@@ -10,13 +10,13 @@
 
 ### Python / Trading & Backtesting
 
-*   [skfolio (⭐801)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
+*   [skfolio (⭐923)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Configuration
 
-*   [django-classy-settings (⭐31)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐32)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
 
 ## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -28,7 +28,7 @@
 
 ### RPG
 
-*   [Abyss Engine (⭐390)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
+*   [Abyss Engine (⭐8)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 
 ## [5. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐4.7k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐4.9k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

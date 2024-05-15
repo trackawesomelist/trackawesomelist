@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 11, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-upload (⭐25)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
+*   [vue-file-upload (⭐30)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
 
 ### Components & Libraries / UI Utilities
 
@@ -36,7 +36,7 @@
 
 ### Misc / Apache License
 
-*   [ada-chess (⭐5)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
+*   [ada-chess (⭐6)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Packages / Image
 
-*   [image-dimensions (⭐341)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
+*   [image-dimensions (⭐383)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 
 ### Packages / Miscellaneous
 
-*   [uint8array-extras (⭐183)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+*   [uint8array-extras (⭐189)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -97,19 +97,13 @@
 
 *   [How to bypass the GFW on Qubes OS when you’re in China](https://forum.qubes-os.org/t/how-to-bypass-the-gfw-on-qubes-os-when-youre-in-china-qubes-os/14957) - The purpose of this article is to provide several feasible ways to bypass the GFW for you to choose.
 
-## [6. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
-
-### Scripts / Google
-
-*   [GoogleGPT](https://googlegpt.kudoai.com/greasemonkey) - Display ChatGPT answers in Google Search sidebar (powered by GPT-4!)
-
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-markdown-mermaid (⭐2)](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-markdown-mermaid (⭐3)](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

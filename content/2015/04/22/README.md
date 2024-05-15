@@ -16,7 +16,7 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐438)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐440)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
@@ -28,7 +28,7 @@
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐719)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐720)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
@@ -54,7 +54,7 @@
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.6k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.7k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -68,19 +68,19 @@
 ### Build Tools
 
 *   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [mad (⭐173)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐479)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐487)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
-*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐436)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
-*   [fs (⭐229)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐232)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 
@@ -100,7 +100,7 @@
 
 ### Version Control
 
-*   [gitex (⭐64)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+*   [gitex (⭐68)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ---
 

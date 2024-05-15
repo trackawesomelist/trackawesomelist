@@ -10,15 +10,15 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐502)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐502)](https://github.com/google/transit/pull/303).
-*   [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui).)
+*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐530)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐530)](https://github.com/google/transit/pull/303).
+*   [GTFS Editor (⭐134)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐116)](https://github.com/ibi-group/datatools-ui).)
 *   [GTFS Editor for Vagrant (⭐6)](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / NFC
 
-*   [micropython\_pn532 (⭐4)](https://github.com/luiz-brandao/micropython_pn532) - Driver for PN532 NFC/RFID breakout boards based on Adafruit CircuitPython (UART).
+*   [micropython\_pn532 (⭐5)](https://github.com/luiz-brandao/micropython_pn532) - Driver for PN532 NFC/RFID breakout boards based on Adafruit CircuitPython (UART).
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -36,31 +36,31 @@
 
 ### Bit Sets
 
-*   [bitset (⭐1.2k)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+*   [bitset (⭐1.3k)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
 
 ### Bloom and Cuckoo Filters
 
-*   [bloom (⭐2.2k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
+*   [bloom (⭐2.3k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
 
 ## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Drawing
 
-*   [grove.draworder (⭐9)](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
+*   [grove.draworder (⭐10)](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
 
 ### Helpers
 
-*   [grove.color (⭐9)](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
+*   [grove.color (⭐10)](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
 
 ## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
-*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐202)](https://github.com/adamfranco/curvature))
+*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐203)](https://github.com/adamfranco/curvature))
 
 ### Maps / Map Games
 
-*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐76)](https://github.com/adam-lynch/back-of-your-hand))
+*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐77)](https://github.com/adam-lynch/back-of-your-hand))
 
 ## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐40)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐44)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Status Bar
 
-*   [tmux-packet-loss (⭐9)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
+*   [tmux-packet-loss (⭐10)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 
 ## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐31)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐31)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐14k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

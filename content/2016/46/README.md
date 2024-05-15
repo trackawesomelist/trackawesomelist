@@ -115,7 +115,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐258)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐260)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -136,7 +136,7 @@
 ### For Electron / Other
 
 *   [electron-is-accelerator (⭐16)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐274)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐280)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -286,7 +286,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐370)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐371)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [20. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -322,12 +322,12 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐9.8k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐10k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
 *   [P (⭐2.9k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
@@ -348,7 +348,7 @@
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
 ## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -373,7 +373,7 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐98k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐99k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 *   [regl (⭐5.1k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -489,8 +489,8 @@
 
 ### Ask these people anything!
 
-*   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐125)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+*   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of React Styleguidist and passionate photographer.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of React Slidy. Love videogames, embrace StandardJS. Living in Barcelona.
 
 ## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -569,7 +569,7 @@
 
 ### Documents and Shellcode / Other Resources
 
-*   [box-js (⭐517)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
+*   [box-js (⭐595)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
 ### Storage and Workflow / Other Resources

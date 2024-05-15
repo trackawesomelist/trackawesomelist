@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [BAP (⭐1.7k)](https://github.com/BinaryAnalysisPlatform/bap) - Multiplatform and
+*   [BAP (⭐2k)](https://github.com/BinaryAnalysisPlatform/bap) - Multiplatform and
     open source (MIT) binary analysis framework developed at CMU's Cylab.
 *   [FPort](https://www.mcafee.com/us/downloads/free-tools/fport.aspx) - Reports
     open TCP/IP and UDP ports in a live system and maps them to the owning application.

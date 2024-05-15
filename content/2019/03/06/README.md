@@ -37,7 +37,7 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐570)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐569)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
@@ -53,7 +53,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐762)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐814)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -73,9 +73,9 @@
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
-### UI / UI Helpers
+### UI / List
 
-*   [Reorderables (⭐632)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐714)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -87,16 +87,16 @@
 
 ### Malware Collection / Honeypots
 
-*   [Cowrie (⭐44)](https://github.com/micheloosterhof/cowrie) - SSH honeypot, based
+*   [Cowrie (⭐4.9k)](https://github.com/micheloosterhof/cowrie) - SSH honeypot, based
     on Kippo.
-*   [DemoHunter (⭐51)](https://github.com/RevengeComing/DemonHunter) - Low interaction Distributed Honeypots.
-*   [Dionaea (⭐611)](https://github.com/DinoTools/dionaea) - Honeypot designed to trap malware.
+*   [DemoHunter (⭐58)](https://github.com/RevengeComing/DemonHunter) - Low interaction Distributed Honeypots.
+*   [Dionaea (⭐681)](https://github.com/DinoTools/dionaea) - Honeypot designed to trap malware.
 
 ### Open Source Threat Intelligence / Other Resources
 
 *   [SystemLookup](https://www.systemlookup.com/) - SystemLookup hosts a collection of lists that provide information on
     the components of legitimate and potentially unwanted programs.
-*   [YETI (⭐1.3k)](https://github.com/yeti-platform/yeti) - Yeti is a platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
+*   [YETI (⭐1.6k)](https://github.com/yeti-platform/yeti) - Yeti is a platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 
 ### Online Scanners and Sandboxes / Other Resources
 
@@ -104,7 +104,7 @@
 
 ### Other / Other Resources
 
-*   [Ember (⭐730)](https://github.com/endgameinc/ember) - Endgame Malware BEnchmark for Research,
+*   [Ember (⭐899)](https://github.com/endgameinc/ember) - Endgame Malware BEnchmark for Research,
     a repository that makes it easy to (re)create a machine learning model that can be used
     to predict a score for a PE file based on static analysis.
 *   [Malware Search+++](https://addons.mozilla.org/fr/firefox/addon/malware-search-plusplusplus/) Firefox extension allows

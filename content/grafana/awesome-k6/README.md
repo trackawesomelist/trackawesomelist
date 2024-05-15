@@ -2,25 +2,32 @@
 
 A curated list of awesome tools, content and projects using k6
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 505 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 522 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
+
+## [May 15, 2024](/content/2024/05/15/README.md)
+
+### Articles
+
+*   [Best practices organizing performance testing projects with k6](https://grafana.com/blog/2024/04/30/organizing-your-grafana-k6-performance-testing-suite-best-practices-to-get-started/) - Guidelines to scale your performance testing across multiple teams and projects.
+    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/).
 
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
 ### Articles
 
-*   [k6 OSS workshop (⭐3)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
+*   [k6 OSS workshop (⭐5)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
 
 ### Examples/Templates
 
-*   [k6 QuickPizza examples (⭐46)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
+*   [k6 QuickPizza examples (⭐49)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 
 ## [Jan 18, 2024](/content/2024/01/18/README.md)
 
 ### Examples/Templates
 
-*   [k6-rollup-example (⭐2)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
+*   [k6-rollup-example (⭐3)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
 
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
@@ -43,13 +50,13 @@ A curated list of awesome tools, content and projects using k6
 ### Examples/Templates
 
 *   [tom-miseur/k6-templates (⭐34)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
-*   [SwissLife-OSS/k6-multiscenario-template (⭐51)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [SwissLife-OSS/k6-multiscenario-template (⭐52)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [Im5tu/template-k6 (⭐5)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 *   [mohsenny/k6-test-template (⭐3)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 *   [kwidera/k6\_framework (⭐0)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
-*   [Sahanipe/pet\_store (⭐0)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+*   [Sahanipe/pet\_store (⭐1)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
 *   [lreimer/continuous-k6k8s (⭐17)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [luketn/docker-k6-grafana-influxdb (⭐146)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [luketn/docker-k6-grafana-influxdb (⭐152)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -78,8 +85,8 @@ A curated list of awesome tools, content and projects using k6
 
 ### Related
 
-*   [How They Load Test (⭐79)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐145)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐84)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐147)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 *   [awesome-http-benchmark (⭐3.2k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
@@ -98,7 +105,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Articles
 
-*   [k6 Learn (⭐276)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+*   [k6 Learn (⭐289)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
 ## [Sep 05, 2022](/content/2022/09/05/README.md)
 
@@ -110,7 +117,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-typescript-template (⭐256)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
+*   [k6-typescript-template (⭐261)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 
 ## [Aug 29, 2022](/content/2022/08/29/README.md)
 
@@ -203,7 +210,7 @@ A curated list of awesome tools, content and projects using k6
     *   [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file, by the DevOps Directive.
     *   [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
     *   [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6.
-    *   [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
+    *   [Performance Testing From Zero to Hero with K6 & Azure](https://youtu.be/71N4_2Fv3I4?si=4eoRcvQfXNJR4aaa) - Jose Luis Latorre Millas at NDC Oslo 2021.
     *   [AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀](https://www.youtube.com/watch?v=RYyPduBqGM4) - In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code.
 
 ### Tools
@@ -253,7 +260,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6-reporter (⭐346)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-reporter (⭐354)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
 
 ## [Mar 01, 2021](/content/2021/03/01/README.md)
 

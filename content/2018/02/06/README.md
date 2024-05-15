@@ -16,7 +16,7 @@
 
 ### Security and Cryptography
 
-*   [Digestif (⭐84)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
+*   [Digestif (⭐85)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -88,8 +88,8 @@
 
 ### Database
 
-*   [SQLiteC++ (⭐2k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐841)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [SQLiteC++ (⭐2.1k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
+*   [sqlite\_modern\_cpp (⭐854)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

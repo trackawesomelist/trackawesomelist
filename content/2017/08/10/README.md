@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10, 2017
 
-8 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,18 +23,10 @@
 
 ### Ask these people anything!
 
-*   [Lizzie Siegle (⭐0)](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
+*   [Lizzie Siegle (⭐0)](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, Spectra organizer, racially ambiguous.
 *   [Sami CHNITER (⭐0)](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
 
-## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### PHP / Zepto.js
-
-*   [Composer中文文档](http://docs.phpcomposer.com)
-*   [PHP标准规范中文版](https://psr.phphub.org)
-*   [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
-
-## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
@@ -48,28 +40,22 @@
 
 *   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Video Tutorials / Components
-
-*   [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
-
-## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### File Carving / Other Resources
 
-*   [SFlock (⭐74)](https://github.com/jbremer/sflock) - Nested archive
+*   [SFlock (⭐81)](https://github.com/jbremer/sflock) - Nested archive
     extraction/unpacking (used in Cuckoo Sandbox).
 
 ### Network / Other Resources
 
-*   [HTTPReplay (⭐89)](https://github.com/jbremer/httpreplay) - Library for parsing
+*   [HTTPReplay (⭐94)](https://github.com/jbremer/httpreplay) - Library for parsing
     and reading out PCAP files, including TLS streams using TLS Master Secrets
     (used in Cuckoo Sandbox).
 

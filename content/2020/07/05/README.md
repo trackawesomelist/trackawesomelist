@@ -22,7 +22,7 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐3.1k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -105,7 +105,7 @@
 ### Components & Libraries / UI Components
 
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-*   [vue-picture-cut (⭐81)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+*   [vue-picture-cut (⭐85)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 
 ---
 

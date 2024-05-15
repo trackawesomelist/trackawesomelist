@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Deployment / Distribution / Collection View Layout
+### Deployment / Distribution
 
 *   [Screenplay](https://screenplay.dev) - Instant rollbacks and canary deployments for iOS.
 
@@ -28,7 +28,7 @@
 
 *   [SRT Alliance](https://www.srtalliance.org/)  - Home page for the SRT protocol
 *   [SRT Cookbook](https://srtlab.github.io/srt-cookbook/)  - More in-depth technical documentaion on the SRT protocol and library.
-*   [SRT Open Source project (⭐2.8k)](https://github.com/Haivision/srt)  -
+*   [SRT Open Source project (⭐2.9k)](https://github.com/Haivision/srt)  -
 *   [Streaming With SRT Protocol in OBS](https://obsproject.com/wiki/Streaming-With-SRT-Protocol)  -
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
@@ -55,12 +55,12 @@
 
 ### Utilities
 
-*   [Nigiri (⭐245)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [hal (⭐140)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [Nigiri (⭐253)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [hal (⭐155)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐882)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐935)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -68,7 +68,7 @@
 
 ### Full nodes
 
-*   [btcd (⭐5.7k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐6.1k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [echarts-for-vue (⭐78)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
+*   [echarts-for-vue (⭐79)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 
 ### Components & Libraries / Utilities
 
@@ -90,14 +90,14 @@
 
 ### Shell
 
-*   [xonsh (⭐7.8k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
+*   [xonsh (⭐8k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [xxh (⭐4.8k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [xxh (⭐5k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

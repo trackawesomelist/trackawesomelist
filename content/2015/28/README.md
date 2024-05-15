@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [DeBot (⭐36)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
+*   [DeBot (⭐35)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐28k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐29k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -108,7 +108,7 @@
 
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-*   [Wes Bos (⭐282)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Wes Bos (⭐281)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 *   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 *   [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -121,15 +121,15 @@
 *   [Vishnu Ks (⭐2)](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 *   [Nick Desaulniers (⭐0)](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
 *   [Mikola Lysenko (⭐8)](https://github.com/mikolalysenko/ama) - Geometry vagrant.
-*   [Drew Minns (⭐0)](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
-*   [Heather Payne (⭐1)](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
-*   [Ryan Christiani (⭐0)](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
-*   [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
-*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
-*   [Nicholas C. Zakas (⭐14)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+*   [Drew Minns (⭐0)](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with HackerYou.
+*   [Heather Payne (⭐1)](https://github.com/heatherpayne/ama) - CEO of HackerYou, founder of Ladies Learning Code.
+*   [Ryan Christiani (⭐0)](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at HackerYou in Toronto.
+*   [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at Mashape. Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
+*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at Refinery29. Avid mentor and developer evangelist, especially for women and minorities.
+*   [Nicholas C. Zakas (⭐15)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
 *   [Lance He (⭐0)](https://github.com/indigofeather/ama) - Full stack developer and speaker.
-*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
-*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
+*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, author and screencaster.
+*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at Segment, maker of things.
 
 ## [15. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -222,7 +222,7 @@
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.4k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.5k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [20. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 

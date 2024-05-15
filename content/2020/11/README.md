@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2020
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,7 +79,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.1k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.2k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Network Tools / Wireless Network Tools
 
-*   [PSKracker (⭐360)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
+*   [PSKracker (⭐372)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Books
 
-*   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
+*   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) is a book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.
 
 ### Organizations
 
@@ -151,7 +151,7 @@
 
 ### Validation
 
-*   [validator (⭐28)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐29)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ### Unofficial
 
@@ -178,19 +178,13 @@
 
 *   [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
 
-## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Development / Docker
-
-*   [docker-shell (⭐383)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
-
-## [20. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [19. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [Cordage (⭐52)](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
 
-## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Markup
 
@@ -204,7 +198,7 @@
 
 *   🍰 [Ratings plugin (⭐9)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
-## [22. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Composer
 
@@ -222,11 +216,11 @@
 
 *   [Packeton (⭐220)](https://github.com/vtsykun/packeton) - Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.
 
-## [23. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [22. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Frameworks
 
-*   [Performance testing framework (⭐385)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+*   [Performance testing framework (⭐390)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -238,13 +232,13 @@
     *   [AutoMeter (⭐55)](https://github.com/intuit/autometer) - An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.
     *   [JMeter Docker Extension](https://hub.docker.com/extensions/qainsights/jmeter-docker-extension) - Docker extension to run JMeter tests from Docker Desktop.
 
-## [24. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [23. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐631)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐638)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
-## [25. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [24. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Research / Software
 
@@ -257,31 +251,31 @@
 *   [macro\_puzzles (⭐72)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
 *   [pydsge (⭐37)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
 
-## [26. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [25. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### UI Layout / Syntax Highlight
 
 *   [react-colrow (⭐6)](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
 
-## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [26. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Boilerplates / Other
 
 *   [secure-electron-template (⭐1.6k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 
-## [28. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [27. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [futil-js (⭐933)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
-## [29. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [28. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### CMS & Blogs
 
 *   [Hummingbird CMS (⭐8)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
-## [30. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [29. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Culture / Procrastination
 
@@ -293,7 +287,7 @@
 
 ### Remote Work / Technical Debt
 
-*   [Awesome Remote Job (⭐27k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐28k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ### Agile / Tickets
 
@@ -304,7 +298,7 @@
 *   [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing an improvement of an algorithm.
 *   [Writing for Business](https://docs.google.com/document/d/1PqbdAnYM79tLvO3yWCt2QH2T1HuQ58poNUsM7QzuE-c) - Some tips on how to write in a business context.
 
-## [31. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [30. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing
 
@@ -317,7 +311,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐81k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐84k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
@@ -341,13 +335,13 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐36k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐37k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
 
-## [32. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [31. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Developer Resources / JavaScript Libraries
 
@@ -357,13 +351,13 @@
 
 *   [peerjs-python (⭐66)](https://github.com/ambianic/peerjs-python) - Python port of the PeerJS peer-to-peer connection library.
 
-## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [32. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [DSHR's Blog](https://blog.dshr.org/) - David Rosenthal regularly reviews and summarizes work done in the Digital Preservation field.
 
-## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -371,27 +365,27 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐411)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐417)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
-*   [CachyKit (⭐126)](https://github.com/Sadmansamee/CachyKit) - A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.
+*   [CachyKit (⭐125)](https://github.com/Sadmansamee/CachyKit) - A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.
 
 ### Date
 
-*   [Chronology (⭐2.1k)](https://github.com/davedelong/time) - Building a better date/time library.
+*   [Chronology (⭐2.3k)](https://github.com/davedelong/time) - Building a better date/time library.
 
 ### UI / Barcode
 
-*   [Windless (⭐950)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
+*   [Windless (⭐951)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
 
 ### 3D / Barcode
 
-*   [Insert3D (⭐93)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
+*   [Insert3D (⭐94)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
 
-## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Translation Tools / Audio Record and Process
 
@@ -401,160 +395,156 @@
 
 *   [Plash](https://sindresorhus.com/plash) - Make any website your desktop wallpaper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Plash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/plash/id1494023538)
 
-## [37. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [36. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
-*   [Carnage3D (⭐445)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
-*   [donut (⭐376)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
+*   [Carnage3D (⭐458)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
+*   [donut (⭐391)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
 *   [OpenJK (⭐1.9k)](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
-*   [OpenLara (⭐4.4k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
-*   [OpenMB (⭐110)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.
-*   [OpenTomb (⭐1.3k)](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
-*   [remc2 (⭐106)](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
-*   [San Andreas Unity (⭐1.9k)](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
-*   [TOMB5 (⭐480)](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
+*   [OpenLara (⭐4.5k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
+*   [OpenMB (⭐112)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.
+*   [OpenTomb (⭐1.4k)](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
+*   [remc2 (⭐108)](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
+*   [San Andreas Unity (⭐2k)](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
+*   [TOMB5 (⭐486)](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 
 ### Adventure
 
-*   [ScummVM (⭐2.1k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
+*   [ScummVM (⭐2.2k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 
 ### Arcade
 
 *   [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
-*   [C-Dogs SDL (⭐813)](https://github.com/cxong/cdogs-sdl):flower\_playing\_cards: - Classic overhead run-and-gun game.
-*   [Mr.Boom (⭐189)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
-*   [OpenClonk (⭐301)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
-*   [Open Kick-Off (⭐39)](https://github.com/ssenegas/kickoff):flower\_playing\_cards: - Rewriting attempt of the cult football game Kick Off 2.
-*   [Taisei (⭐849)](https://github.com/taisei-project/taisei):flower\_playing\_cards: - Fan-made, open-source clone of the Touhou series.
-*   [The Great Escape in C (⭐105)](https://github.com/dpt/The-Great-Escape-in-C):flower\_playing\_cards: - Classic ZX Spectrum game The Great Escape in portable C.
-*   [Zelda Classic (⭐436)](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
+*   [C-Dogs SDL (⭐842)](https://github.com/cxong/cdogs-sdl):flower\_playing\_cards: - Classic overhead run-and-gun game.
+*   [Mr.Boom (⭐195)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
+*   [OpenClonk (⭐310)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
+*   [Open Kick-Off (⭐40)](https://github.com/ssenegas/kickoff):flower\_playing\_cards: - Rewriting attempt of the cult football game Kick Off 2.
+*   [Taisei (⭐877)](https://github.com/taisei-project/taisei):flower\_playing\_cards: - Fan-made, open-source clone of the Touhou series.
+*   [The Great Escape in C (⭐111)](https://github.com/dpt/The-Great-Escape-in-C):flower\_playing\_cards: - Classic ZX Spectrum game The Great Escape in portable C.
+*   [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ### FPS
 
-*   [Allegiance (⭐77)](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
-*   [CatacombGL (⭐128)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
-*   [Chocolate Doom (⭐1.7k)](https://github.com/chocolate-doom/chocolate-doom):flower\_playing\_cards: - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
+*   [Allegiance (⭐79)](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
+*   [CatacombGL (⭐135)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
+*   [Chocolate Doom (⭐1.8k)](https://github.com/chocolate-doom/chocolate-doom):flower\_playing\_cards: - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
 *   [Doom Legacy](https://sourceforge.net/projects/doomlegacy/):flower\_playing\_cards: - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
-*   [DoomRetro (⭐602)](https://github.com/bradharding/doomretro):flower\_playing\_cards: - Classic, refined DOOM source port for Windows PC.
+*   [DoomRetro (⭐621)](https://github.com/bradharding/doomretro):flower\_playing\_cards: - Classic, refined DOOM source port for Windows PC.
 *   [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
 *   [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
-*   [ezQuake (⭐256)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
-*   [Freedoom (⭐922)](https://github.com/freedoom/freedoom):flower\_playing\_cards: - Free software FPS based on the classic DOOM engine.
-*   [GZDoom (⭐2.1k)](https://github.com/coelckers/gzdoom):flower\_playing\_cards: - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
+*   [ezQuake (⭐262)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
+*   [Freedoom (⭐974)](https://github.com/freedoom/freedoom):flower\_playing\_cards: - Free software FPS based on the classic DOOM engine.
+*   [GZDoom (⭐2.2k)](https://github.com/coelckers/gzdoom):flower\_playing\_cards: - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
 *   [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
-*   [ioquake3 (⭐2.2k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
-*   [NBlood (⭐516)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
-*   [Odamex (⭐159)](https://github.com/odamex/odamex):flower\_playing\_cards: - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
+*   [ioquake3 (⭐2.3k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
+*   [NBlood (⭐561)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
+*   [Odamex (⭐164)](https://github.com/odamex/odamex):flower\_playing\_cards: - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
 *   [OpenSpades (⭐1.1k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
-*   [RBDOOM-3-BFG (⭐1.3k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
+*   [RBDOOM-3-BFG (⭐1.4k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 *   [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
-*   [The Eternity Engine (⭐212)](https://github.com/team-eternity/eternity):flower\_playing\_cards: - Advanced DOOM source port.
-*   [Tyrquake (⭐37)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
-*   [Yamagi Quake II (⭐774)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
+*   [The Eternity Engine (⭐216)](https://github.com/team-eternity/eternity):flower\_playing\_cards: - Advanced DOOM source port.
+*   [Tyrquake (⭐39)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
+*   [Yamagi Quake II (⭐818)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 
 ### Online
 
-*   [2006rebotted (⭐21)](https://github.com/dginovker/2006rebotted):flower\_playing\_cards: - A 2006 Runescape Emulation Server.
-*   [FreeSO (⭐767)](https://github.com/riperiperi/FreeSO):flower\_playing\_cards: - Reimplementation of The Sims Online, targetted mainly at mobile devices.
-*   [Meridian 59 (⭐363)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
+*   [2006rebotted (⭐25)](https://github.com/dginovker/2006rebotted):flower\_playing\_cards: - A 2006 Runescape Emulation Server.
+*   [FreeSO (⭐790)](https://github.com/riperiperi/FreeSO):flower\_playing\_cards: - Reimplementation of The Sims Online, targetted mainly at mobile devices.
+*   [Meridian 59 (⭐375)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 *   [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
-*   [RuneLite (⭐4.4k)](https://github.com/runelite/runelite):flower\_playing\_cards: - Open source old school RuneScape client.
+*   [RuneLite (⭐4.6k)](https://github.com/runelite/runelite):flower\_playing\_cards: - Open source old school RuneScape client.
 
 ### RPG
 
-*   [Arx Libertatis (⭐871)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
-*   [Barony (⭐441)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
+*   [Arx Libertatis (⭐902)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+*   [Barony (⭐466)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 *   [BtBuilder (⭐38)](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
-*   [Daggerfall Unity (⭐2.1k)](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
+*   [Daggerfall Unity (⭐2.6k)](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
 *   [Devilution (⭐8.6k)](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
-*   [DevilutionX (⭐7.3k)](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
-*   [DGEngine (⭐234)](https://github.com/dgengin/DGEngine) - Implementation of the Diablo game engine.
-*   [Exult (⭐444)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
-*   [Falltergeist (⭐840)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
-*   [Freeablo (⭐2.1k)](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
-*   [FreeFT (⭐153)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
-*   [GemRB (⭐884)](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
-*   [OpenGothic (⭐985)](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
-*   [OpenMW (⭐5k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
-*   [OpenTESArena (⭐880)](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
-*   [OpenVIII (⭐612)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
-*   [REGoth (⭐426)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
-*   [Riiablo (⭐798)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
-*   [sfall (⭐280)](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
-*   [Shockolate (⭐777)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
-*   [UAlbion (⭐122)](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
+*   [DevilutionX (⭐7.5k)](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
+*   [DGEngine (⭐237)](https://github.com/dgengin/DGEngine) - Implementation of the Diablo game engine.
+*   [Exult (⭐464)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
+*   [Falltergeist (⭐849)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
+*   [Freeablo (⭐2.2k)](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
+*   [FreeFT (⭐156)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
+*   [GemRB (⭐911)](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+*   [OpenGothic (⭐1.1k)](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
+*   [OpenMW (⭐5.1k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
+*   [OpenTESArena (⭐903)](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
+*   [OpenVIII (⭐621)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
+*   [REGoth (⭐432)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
+*   [Riiablo (⭐839)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
+*   [sfall (⭐298)](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
+*   [Shockolate (⭐795)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
+*   [UAlbion (⭐124)](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
 *   [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 *   [xoreos (⭐1.1k)](https://github.com/xoreos/xoreos) - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 *   [zorkClone (⭐17)](https://github.com/vatbub/zorkClone) - Reimplementation of the original Zork game developed by Infocom.
 
 ### Platformer
 
-*   [Alive Reversing (⭐287)](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
+*   [Alive Reversing (⭐307)](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
 *   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius):flower\_playing\_cards: - Modern Interpreter for the Commander Keen Games.
-*   [Jazz² Resurrection (⭐455)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
-*   [Lionheart Remake (⭐74)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
-*   [NXEngine-evo (⭐451)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
-*   [Prince-Monogame (⭐35)](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
-*   [SDLPoP (⭐1k)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
-*   [The Secret Chronicles of Dr. M (⭐199)](https://github.com/secretchronicles/TSC):flower\_playing\_cards: - Adaptation of Secret Mario Chronicles.
-*   [VVVVV (⭐6.7k)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
+*   [Jazz² Resurrection (⭐469)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
+*   [Lionheart Remake (⭐78)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
+*   [NXEngine-evo (⭐466)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
+*   [Prince-Monogame (⭐38)](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
+*   [SDLPoP (⭐1.1k)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
+*   [The Secret Chronicles of Dr. M (⭐203)](https://github.com/secretchronicles/TSC):flower\_playing\_cards: - Adaptation of Secret Mario Chronicles.
+*   [VVVVV (⭐6.8k)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ### Racing
 
-*   [DreeRally (⭐76)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
-*   [OpenNFS (⭐498)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
-*   [Vangers (⭐610)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
+*   [DreeRally (⭐80)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
+*   [OpenNFS (⭐512)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
+*   [Vangers (⭐628)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 
 ### Simulator
 
-*   [DXX-Rebirth (⭐429)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
-*   [FS2Open (⭐370)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
-*   [Librelancer (⭐468)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
+*   [DXX-Rebirth (⭐457)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+*   [FS2Open (⭐386)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
+*   [Librelancer (⭐479)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
 ### Strategy
 
-*   [Antares (⭐98)](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
-*   [CivOne (⭐236)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
-*   [CorsixTH (⭐2.9k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
-*   [Cortex Command Community Project Source (⭐203)](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
+*   [Antares (⭐99)](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
+*   [CivOne (⭐242)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
+*   [CorsixTH (⭐3.8k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
+*   [Cortex Command Community Project Source (⭐204)](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
 *   [FreeCol](https://sourceforge.net/projects/freecol/) - Turn-based strategy game based on the old game Colonization.
-*   [Jagged Alliance Stracciatella (⭐423)](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
+*   [Jagged Alliance Stracciatella (⭐444)](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
 *   [Julius (⭐2.5k)](https://github.com/bvschaik/julius) - Reimplementation of Caesar III.
-*   [KaM Remake (⭐342)](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
-*   [KeeperRL (⭐739)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
+*   [KaM Remake (⭐347)](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
+*   [KeeperRL (⭐830)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [openage (⭐12k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
-*   [OpenApocalypse (⭐463)](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
-*   [openblack (⭐801)](https://github.com/openblack/openblack) - Reimplementation of Black & White.
-*   [OpenDUNE (⭐1.5k)](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
-*   [Open Fodder (⭐426)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+*   [OpenApocalypse (⭐487)](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
+*   [openblack (⭐835)](https://github.com/openblack/openblack) - Reimplementation of Black & White.
+*   [OpenDUNE (⭐1.6k)](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
+*   [Open Fodder (⭐441)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
 *   [OpenLoco (⭐1.1k)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
-*   [Open Panzer (⭐144)](https://github.com/nicupavel/openpanzer):flower\_playing\_cards: - HTML5 Panzer General 2.
+*   [Open Panzer (⭐152)](https://github.com/nicupavel/openpanzer):flower\_playing\_cards: - HTML5 Panzer General 2.
 *   [OpenRA (⭐14k)](https://github.com/OpenRA/OpenRA) - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
 *   [OpenRCT2 (⭐13k)](https://github.com/OpenRCT2/OpenRCT2) - Recreation of RollerCoaster Tycoon 2.
-*   [OpenSAGE (⭐1.2k)](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
+*   [OpenSAGE (⭐1.3k)](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 *   [OpenSC2K (⭐4.9k)](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
-*   [OpenTTD (⭐5.5k)](https://github.com/OpenTTD/OpenTTD):flower\_playing\_cards: - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
+*   [OpenTTD (⭐5.9k)](https://github.com/OpenTTD/OpenTTD):flower\_playing\_cards: - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 *   [OpenXcom (⭐1.8k)](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
-*   [OutpostHD (⭐90)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
-*   [Race into Space (⭐158)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
-*   [Return To The Roots (⭐453)](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
-*   [Sourcehold (⭐240)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
-*   [VCMI (⭐3.7k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
-*   [Wargus (⭐324)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
-*   [Warzone 2100 (⭐2.9k)](https://github.com/Warzone2100/warzone2100):flower\_playing\_cards: - Free and open-source real time strategy game.
+*   [OutpostHD (⭐100)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
+*   [Race into Space (⭐163)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
+*   [Return To The Roots (⭐462)](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
+*   [Sourcehold (⭐244)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+*   [VCMI (⭐3.9k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
+*   [Wargus (⭐337)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
+*   [Warzone 2100 (⭐3k)](https://github.com/Warzone2100/warzone2100):flower\_playing\_cards: - Free and open-source real time strategy game.
 *   [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
 *   [Vue.js DEV Community](https://dev.to/t/vue) - Official tag for the Vue.js JavaScript Framework on DEV.to
-
-### Resources / Job Portal
-
-*   [Prokarman Resume Builder](https://prokarman.com/) - A Free Resume Builder for crafting resumes for your dream job.
 
 ### Resources / Community
 
@@ -578,38 +568,38 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Idea Re-Vue (⭐14)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
-*   [VueFront (⭐387)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
-*   [MQTTX (⭐3.2k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [VueFront (⭐389)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
+*   [MQTTX (⭐3.5k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 *   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
 ### Components & Libraries / UI Components
 
-*   [vue2-timepicker (⭐431)](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)
+*   [vue2-timepicker (⭐432)](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-trip-wire (⭐3)](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions.
 *   [v-intersect (⭐11)](https://github.com/kholid060/v-intersect) - A Vue directive and component that detect element when it's visible or hidden on viewport
 
-## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Generators / Other
 
 *   [Docusaurus (⭐51k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
-## [40. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [39. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Language Models / BERT models
 
 *   [SciBERT (⭐1.3k)](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
 
-## [41. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [40. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐738)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐798)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
-## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -619,7 +609,7 @@
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 
-## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Aveiro
 
@@ -647,7 +637,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 | ---- | ----- | ------------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00 |
 
-## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [43. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### National government datasets
 
@@ -659,9 +649,9 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐116)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐134)](https://github.com/conveyal/gtfs-editor).)
 
-## [45. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [44. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -675,7 +665,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 *   [k6-to-junit (⭐18)](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 *   [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -694,13 +684,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 *   [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
 
-## [47. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [46. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) - An interview with Tom Dyson on Wagtail, the leading Django-based CMS used by tens of thousands of organizations including Google, NASA, and the British NHS.
 
-## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Actions / Actions for GitHub Automation
 
@@ -726,38 +716,38 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 *   [Setup Cassandra Schema (⭐2)](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
 
-## [49. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [SObjectizer (⭐438)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐456)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
 *   [VarTypes (⭐15)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
 
-## [50. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [microfft](https://crates.io/crates/microfft): Embedded-friendly (`no_std`, no-`alloc`) fast fourier transforms - ![crates.io](https://img.shields.io/crates/v/microfft.svg)
 
-## [51. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Testing
 
-*   [Testing (⭐1.6k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐413)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-*   [TAP (⭐616)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐671)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [Selenium (⭐984)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐422)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [TAP (⭐617)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+*   [JMeter (⭐687)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ### Related
 
-*   [Awesome CLI (⭐461)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐475)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
-## [52. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [51. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
@@ -773,13 +763,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 *   [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
 *   [SDN A Comprehensive Survey](https://arxiv.org/pdf/1406.0440.pdf)
 
-## [53. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [52. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Map / Image Picker
 
-*   [AMap (⭐523)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+*   [AMap (⭐539)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
-## [54. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [53. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -790,7 +780,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 *   [wasm-pack-action (⭐50)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 
-## [55. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [54. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -800,7 +790,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 *   [Michaela Greiler on Code Reviews - SE Radio 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/) Michaela Greiler discusses the importance of code reviews and how to conduct them on the Software Engineering Radio podcast.
 
-## [56. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [55. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Architecture Patterns
 
@@ -808,7 +798,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐810)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐816)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

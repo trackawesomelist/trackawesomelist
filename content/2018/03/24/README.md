@@ -22,7 +22,7 @@
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [AutoTTP (⭐243)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
+*   [AutoTTP (⭐244)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
 *   [Red Team Automation (RTA) (⭐1k)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [4. Awesome Jquery](/content/petk/awesome-jquery/README.md)
@@ -51,7 +51,7 @@
 
 ### Ask these people anything!
 
-*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
+*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at iDiD. Creator of RE:DOM, Deck of Cards and other open source projects.
 *   [Rifat Nabi (⭐2)](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
 
 ---

@@ -31,7 +31,7 @@
 
 ### Bindings
 
-*   [racket-vulkan (⭐43)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
+*   [racket-vulkan (⭐44)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Extensions / Collection View Layout
 
-*   [nef (⭐197)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐198)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
@@ -233,9 +233,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐69)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐73)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐50)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐57)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

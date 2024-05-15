@@ -82,13 +82,13 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [AgentVerse (⭐3.5k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
+*   [AgentVerse (⭐3.7k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Accessories and Adapters
 
-*   [PlotAdapter (⭐15)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
+*   [PlotAdapter (⭐17)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
 
 ### Inspiration, Instruction, and Research / Fonts
 

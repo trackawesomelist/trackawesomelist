@@ -82,7 +82,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐502)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐530)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ## [11. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -125,7 +125,7 @@
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
     [Demo](https://picnicss.com/tests),
     [Docs](https://picnicss.com/documentation),
-    [Repo (⭐3.7k)](https://github.com/franciscop/picnic)
+    [Repo (⭐3.8k)](https://github.com/franciscop/picnic)
     \| #SCSS
 *   [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.\
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
@@ -140,13 +140,13 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐165k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐168k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 *   [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.\
     ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social\&label=Star)
     [Demo](https://bulma.io/expo/),
     [Docs](https://bulma.io/documentation/overview/start/),
-    [Repo (⭐48k)](https://github.com/jgthms/bulma)
+    [Repo (⭐49k)](https://github.com/jgthms/bulma)
     \| #Sass
 *   [**UIkit**](https://getuikit.com) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.\
     ![](https://img.shields.io/github/stars/uikit/uikit.svg?style=social\&label=Star)
@@ -174,19 +174,19 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐72k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐79k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐8.2k)](https://github.com/jdan/98.css)
+    [Repo (⭐8.6k)](https://github.com/jdan/98.css)
     \| #CSS
 *   [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.\
     ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social\&label=Star)
     [Demo](https://bafs.github.io/Gutenberg/),
-    [Docs (⭐4.7k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
+    [Docs (⭐4.8k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
     \| #SCSS
 *   [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.\
     ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social\&label=Star)
@@ -204,7 +204,7 @@
     \| #Sass
 *   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
     ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
-    [Repo (⭐5.1k)](https://github.com/csstools/sanitize.css)
+    [Repo (⭐5.2k)](https://github.com/csstools/sanitize.css)
     \| #CSS
 *   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
     ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
@@ -239,7 +239,7 @@
 
 ### Other Awesome Lists
 
-*   [example-ios-apps (⭐996)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [example-ios-apps (⭐1k)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 
 ### Tab / Barcode
 
@@ -261,7 +261,7 @@
 
 ### Top / Game Engine resources
 
-*   [Taskist (⭐873)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
+*   [Taskist (⭐959)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐549)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐552)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 
@@ -393,7 +393,7 @@
 
 ### Frameworks
 
-*   [ETL (⭐1.9k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐2k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ### Podcasts
 
@@ -496,7 +496,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐26)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐27)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [37. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 

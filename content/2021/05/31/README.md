@@ -1,34 +1,24 @@
 # Awesome List Updates on May 31, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Community
-
-*   \[Top rated Angular stackoverflow questions Dashboard] (<https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/>)
-
-### Misc Components / Components
-
-*   [@ngneat/transloco (⭐1.8k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
-
-## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.7k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.8k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
-## [3. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [2. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### GFF BED File Utilities / Structural variant callers
 
 *   **[AGAT (⭐281)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 
-## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Built Environment
 
@@ -36,15 +26,15 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐96)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐100)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐424)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐431)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
-## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Specialty Search Engines
 
@@ -177,7 +167,7 @@
 *   [OSINT Belarus](https://t.me/s/osintby)
 *   [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online
 
@@ -188,7 +178,7 @@
 
 *   [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 
-## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -198,7 +188,7 @@
 
 *   [ReTiSAR (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
 
-## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Books
 
@@ -217,7 +207,7 @@
 *   [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
 *   [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 
-## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -231,19 +221,19 @@
 
 *   [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
-## [11. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Extensions
 
 *   [Eventbus Service (⭐8)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [buckets (⭐25)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
-## [13. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [12. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Miscellaneous
 

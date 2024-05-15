@@ -20,9 +20,9 @@
 
 ### Project skeletons / Third-party APIs
 
-*   [cl-project (⭐226)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-project (⭐234)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-project-with-docs (⭐4)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-cookieproject (⭐55)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-cookieproject (⭐65)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
@@ -90,7 +90,7 @@
 
 ## [7. Computer Science](/content/ossu/computer-science/README.md)
 
-### How to show your progress / Which programming languages should I use?
+### How to show your progress / Advanced math
 
 *   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 *   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer

@@ -16,7 +16,7 @@
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐292)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐295)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Files and Directories
 
-*   [ex\_guard (⭐80)](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
+*   [ex\_guard (⭐84)](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 
 ---
 

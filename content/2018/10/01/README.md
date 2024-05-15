@@ -16,7 +16,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [SysmonSearch (⭐406)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
+*   [SysmonSearch (⭐408)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
 ## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -514,6 +514,12 @@ Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
 
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
 **Inayaili de León**\
@@ -552,7 +558,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Testing
 
-*   [kaocha (⭐760)](https://github.com/lambdaisland/kaocha)
+*   [kaocha (⭐778)](https://github.com/lambdaisland/kaocha)
 
 ## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -574,7 +580,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Miscellaneous
 
-*   [Speakers (⭐759)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐757)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
 ## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -608,7 +614,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Ask these people anything!
 
-*   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+*   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
 ## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

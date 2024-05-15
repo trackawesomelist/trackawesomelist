@@ -68,7 +68,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Shaders (⭐2.6k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐2.7k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Social
 
-- API: [4chan (⭐964)](https://github.com/4chan/4chan-API)
+- API: [4chan (⭐1k)](https://github.com/4chan/4chan-API)
 
   Description: Simple image-based bulletin board dedicated to a variety of topics
 
@@ -199,7 +199,7 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐349)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐360)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [12. Awesome Italy Events](/content/ildoc/awesome-italy-events/README.md)
 

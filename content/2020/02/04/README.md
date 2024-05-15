@@ -10,13 +10,13 @@
 
 ### Network / Scanning / Pentesting
 
-*   [scapy (⭐168)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
+*   [scapy (⭐196)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐429)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐447)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐170)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐173)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐2.7k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Utilities / Theming and Customization
 
@@ -102,11 +102,11 @@
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐617)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐616)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ### Web / Playground
 
-*   :octocat: [Dnote (⭐2.6k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+*   :octocat: [Dnote (⭐2.7k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
 ---
 

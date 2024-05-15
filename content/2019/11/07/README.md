@@ -64,8 +64,8 @@
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐64)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐178)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐65)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐191)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -154,7 +154,7 @@
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐92k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐93k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

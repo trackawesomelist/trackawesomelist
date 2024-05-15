@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 28, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Tools / Community providers
 
-*   [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [tfaction (⭐224)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tflint (⭐4.5k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [tfsec (⭐6.5k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [validIaC (⭐218)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [terraform-docs (⭐4k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [tfaction (⭐244)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tflint (⭐4.6k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [tfsec (⭐6.6k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [validIaC (⭐217)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -37,13 +37,19 @@
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
-## [4. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Containers
+
+*   [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
+
+## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Books / Devops
 
 *   [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Global
 
@@ -62,23 +68,23 @@
 
 *   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 
-## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### OAuth2 & OpenID / Macaroons
 
 *   [a12n-server (⭐411)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐100)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐116)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐33)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐35)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
 
-## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Onboarding / Negotiation
 
@@ -88,7 +94,7 @@
 
 *   [Dear Manager, You're Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings) - “Employee productivity was 71% higher when meetings were reduced by 40%. This is largely because employees felt more empowered and autonomous. Rather than a schedule being the boss, they owned their to-do lists and held themselves accountable.”
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -96,11 +102,11 @@
 *   [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NeurIPS'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292\&hl=en\&as_sdt=0,5)].
 *   [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766\&hl=en\&as_sdt=0,5)].
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 
-*   [dynago (⭐11)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐12)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ---
 

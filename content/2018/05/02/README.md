@@ -21,7 +21,7 @@
 
 ### See Also / Books
 
-*   [awesome-python-chemistry (⭐764)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
+*   [awesome-python-chemistry (⭐999)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Resources / Tutorials
 
-*   [Kubernetes examples (⭐5.8k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+*   [Kubernetes examples (⭐6k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

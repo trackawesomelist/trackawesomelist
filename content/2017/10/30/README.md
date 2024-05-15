@@ -22,7 +22,7 @@
 
 ### Frameworks / Runtimes
 
-*   [ScaleCube (⭐596)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
+*   [ScaleCube (⭐600)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
 ## [4. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 

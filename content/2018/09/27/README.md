@@ -29,7 +29,7 @@
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐293)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐303)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

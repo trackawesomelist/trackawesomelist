@@ -28,7 +28,7 @@
 
 ### Related Lists
 
-*   [awesome-pcaptools (⭐2.9k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
+*   [awesome-pcaptools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
@@ -135,18 +135,18 @@
 
 ### UI
 
-*   [Flushbar (⭐933)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐983)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### Device / Augmented Reality
 
-*   [WebView (⭐1.4k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
+*   [WebView (⭐1.5k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
 ## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐477)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐479)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -163,7 +163,7 @@
 
 ### Static Page Generation
 
-*   [glayu (⭐76)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
+*   [glayu (⭐79)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 
 ### Third Party APIs
 
@@ -171,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐431)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐435)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -198,7 +198,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐142)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐143)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

@@ -159,7 +159,7 @@
 
 ### Projects
 
-*   [Ceil (⭐43)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [Ceil (⭐44)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -172,13 +172,13 @@
 ### Other libraries and tools / Mesh tools
 
 *   [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
-    (Python, 2-clause BSD, [GitHub (⭐219)](https://github.com/pymor/pymor/))
+    (Python, 2-clause BSD, [GitHub (⭐266)](https://github.com/pymor/pymor/))
 
 ## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [Gears VK (⭐11)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
+*   [Gears VK (⭐13)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
 
 ---
 

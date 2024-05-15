@@ -10,7 +10,7 @@
 
 ### Robotics
 
-*   [PythonRobotics (⭐21k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
+*   [PythonRobotics (⭐22k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐158)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐159)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Top / Game Engine resources
 
-*   [Tourism (⭐289)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐289)](https://github.com/bluemix/tourism-demo)
+*   [Tourism (⭐302)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐302)](https://github.com/bluemix/tourism-demo)
 
 ## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -262,7 +262,7 @@
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐142)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐144)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
     *   [tis-interpreter (⭐561)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
@@ -332,7 +332,7 @@
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐273)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐274)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
     *   [Awesome multicore OCaml (⭐136)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
@@ -353,14 +353,10 @@
 
 ## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [William Grasel](https://twitter.com/willgmbr)
 *   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
-
-### TypeScript Seed Projects / Components
-
-*   [angular-app-example (⭐60)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 
 ## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -372,11 +368,11 @@
 
 ### Command-line tools
 
-*   [jl (⭐473)](https://github.com/chrisdone/jl) - Functional sed for JSON.
+*   [jl (⭐474)](https://github.com/chrisdone/jl) - Functional sed for JSON.
 
 ### Resources
 
-*   [Awesome jq (⭐707)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+*   [Awesome jq (⭐736)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
 ## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -388,7 +384,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐233)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐236)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -497,11 +493,11 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐24)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐26)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ### Miscellaneous / Development and testing
 
-*   [sublime-tmux (⭐8)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
+*   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
 ## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -560,7 +556,7 @@
 
 ### Anime
 
-- API: [AniList (⭐951)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -632,7 +628,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐314)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐334)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -714,6 +710,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [Gmail](https://developers.google.com/gmail/api/)
 
@@ -724,6 +722,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -773,7 +773,7 @@
   CORS: Unknown
 
 
-- API: [Non-Working Days (⭐20)](https://github.com/gadael/icsdb)
+- API: [Non-Working Days (⭐21)](https://github.com/gadael/icsdb)
 
   Description: Database of ICS files for non working days
 
@@ -784,7 +784,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐25)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐27)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -808,6 +808,8 @@
 
   CORS: Unknown
 
+  Postman: 
+
 
 - API: [Dropbox](https://www.dropbox.com/developers)
 
@@ -819,6 +821,8 @@
 
   CORS: Unknown
 
+  Postman: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+
 
 - API: [Google Drive](https://developers.google.com/drive/)
 
@@ -829,6 +833,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Postman: 
 
 
 
@@ -1018,6 +1024,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [PurgoMalum](http://www.purgomalum.com)
 
@@ -1028,6 +1036,8 @@
   HTTPS: No
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -1143,7 +1153,7 @@
   CORS: Unknown
 
 
-- API: [License-API (⭐4)](https://github.com/cmccandless/license-api/blob/master/README.md)
+- API: [License-API (⭐5)](https://github.com/cmccandless/license-api/blob/master/README.md)
 
   Description: Unofficial REST API for choosealicense.com
 
@@ -1330,6 +1340,8 @@
 
   CORS: Unknown
 
+  Call this API: 
+
 
 - API: [IG](https://labs.ig.com/gettingstarted)
 
@@ -1340,6 +1352,8 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+  Call this API: 
 
 
 
@@ -1378,7 +1392,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐110)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐120)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1389,7 +1403,7 @@
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐24)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐25)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -1736,7 +1750,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐63)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐66)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -2326,7 +2340,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐314)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐333)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -2370,7 +2384,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐185)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐186)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2461,7 +2475,7 @@
   CORS: Unknown
 
 
-- API: [Universities List (⭐1.1k)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.2k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -2834,7 +2848,7 @@
   CORS: Unknown
 
 
-- API: [HackerNews (⭐10k)](https://github.com/HackerNews/API)
+- API: [HackerNews (⭐11k)](https://github.com/HackerNews/API)
 
   Description: Social news for CS and entrepreneurship
 
@@ -3366,7 +3380,7 @@
   CORS: Unknown
 
 
-- API: [Transport for The Netherlands (⭐83)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
+- API: [Transport for The Netherlands (⭐90)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
 
   Description: OVAPI, country-wide public transport
 
@@ -3496,7 +3510,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐316)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐370)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -3540,7 +3554,7 @@
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐294)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐296)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

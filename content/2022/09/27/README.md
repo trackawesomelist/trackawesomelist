@@ -20,11 +20,11 @@
 
 ## [3. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Hacker Tab (⭐346)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Hacker Tab (⭐350)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 347 | Last update: n/a
+Installs: 2000 | Stars: 350 | Last update: n/a
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -57,25 +57,25 @@ Installs: 2000 | Stars: 347 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐7.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐7.9k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐109)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐132)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [txtai (⭐6.5k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐6.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐1.1k)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1.3k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

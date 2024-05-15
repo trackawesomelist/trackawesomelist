@@ -16,7 +16,7 @@
 
 ### Audio Libraries
 
-*   [mxml (⭐19)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
+*   [mxml (⭐20)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 
 ### Music Notation
 

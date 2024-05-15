@@ -26,12 +26,12 @@
 ### Libraries / General Purpose
 
 *   [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-*   [Indigo (⭐218)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+*   [Indigo (⭐270)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 *   [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
 ### Libraries / Format Checking
 
-*   [MolVS (⭐117)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+*   [MolVS (⭐143)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 
 ### Libraries / Visualization
 
@@ -39,19 +39,19 @@
 
 ### Libraries / Molecular Descriptors
 
-*   [mordred (⭐250)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-*   [mol2vec (⭐202)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mordred (⭐317)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+*   [mol2vec (⭐239)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 ### Libraries / Web APIs
 
-*   [webchem (⭐136)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
-*   [Beaker (⭐42)](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
+*   [webchem (⭐153)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
+*   [Beaker (⭐47)](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 
 ### Libraries / Molecular Dynamics
 
 *   [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 *   [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-*   [MDTraj (⭐418)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
+*   [MDTraj (⭐533)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 
 ### Resources / Courses
 
@@ -92,7 +92,7 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐8.7k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐8.8k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
@@ -100,15 +100,15 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐63k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐64k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.3k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.4k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
-*   [multimath (⭐65)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+*   [multimath (⭐66)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Packages / Parsing
 
@@ -116,19 +116,19 @@
 
 ### Packages / Network
 
-*   [netcat (⭐400)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐406)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐5.4k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐5.5k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3.5k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.6k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
-*   [snappy (⭐480)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [snappy (⭐479)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 *   [compactr (⭐100)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous

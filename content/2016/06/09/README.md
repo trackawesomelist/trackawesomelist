@@ -39,7 +39,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐439)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐440)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Web Application Framework
 
-*   [TreeFrog Framework (⭐1.2k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
+*   [TreeFrog Framework (⭐1.3k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
 
 ## [8. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 

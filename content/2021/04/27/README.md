@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.5k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.6k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

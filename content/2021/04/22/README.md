@@ -51,7 +51,7 @@
 ### Debugging
 
 *   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐94)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [debug.cr (⭐93)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 
@@ -74,10 +74,10 @@
 ### React State Management and Data Fetching
 
 *   [mobx (⭐27k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-*   [zustand (⭐39k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [zustand (⭐42k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 *   [recoil (⭐19k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-*   [effector (⭐4.4k)](https://github.com/zerobias/effector) - Business logic with ease
-*   [immer (⭐26k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+*   [effector (⭐4.5k)](https://github.com/zerobias/effector) - Business logic with ease
+*   [immer (⭐27k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
@@ -147,11 +147,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐1.4k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.5k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.1k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐3.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

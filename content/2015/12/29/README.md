@@ -16,7 +16,7 @@
 
 *   [IOC Editor](https://www.fireeye.com/services/freeware/ioc-editor.html) -
     A free editor for XML IOC files.
-*   [PyIOCe (⭐15)](https://github.com/pidydx/PyIOCe) - A Python OpenIOC editor.
+*   [PyIOCe (⭐16)](https://github.com/pidydx/PyIOCe) - A Python OpenIOC editor.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

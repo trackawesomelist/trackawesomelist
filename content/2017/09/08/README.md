@@ -16,7 +16,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Test Utils (⭐8)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
+*   [Preact Test Utils (⭐7)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -55,8 +55,8 @@
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐327)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐327)](https://github.com/justinhough/Centurion)
+    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐326)](https://github.com/justinhough/Centurion)
 
 ## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

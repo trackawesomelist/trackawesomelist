@@ -28,7 +28,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐702)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐731)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -62,13 +62,7 @@
 
 *   [sn0int (⭐1.8k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
-
-### Packages / Security
-
-*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
-
-## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Logging / Text-Based User Interfaces
 
@@ -95,6 +89,12 @@
 
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
+
+## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+
+### Web / Development
+
+*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 
 ## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐29)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [PAYONE (⭐28)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 *   [Stripe (⭐47)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ## [20. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
@@ -1265,7 +1265,7 @@ Topics: Standards, Web Assembly\
 
 ### Serialization
 
-*   [nanopb (⭐3.9k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐4.1k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -1286,7 +1286,6 @@ Topics: Standards, Web Assembly\
 
 *   [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 *   [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
-*   [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
 
 ### Beginner
 
@@ -1298,15 +1297,15 @@ Topics: Standards, Web Assembly\
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Inject (⭐867)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
+*   [Inject (⭐868)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3.1k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.2k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ### Premium / Game Engine resources
 
-*   [History Of Everything (⭐6.3k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+*   [History Of Everything (⭐6.4k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
 ## [39. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 

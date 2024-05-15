@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Other / Other Resources
 
-*   [Infosec (⭐4.2k)](https://github.com/onlurking/awesome-infosec)
+*   [Infosec (⭐5k)](https://github.com/onlurking/awesome-infosec)
 
 ## [2. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
@@ -40,12 +40,12 @@
 
 *   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [System (⭐606)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [System (⭐607)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
 *   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐554)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐564)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -68,13 +68,7 @@
 
 *   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Community
-
-*   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
-
-## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Python
 
@@ -88,7 +82,7 @@
 
 *   [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
 
-## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Frameworks
 
@@ -102,7 +96,7 @@
 
 *   [LoopDrop App (⭐821)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
-## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### User / Authentication
 
@@ -112,7 +106,7 @@
 
 *   [brakeman (⭐6.5k)](https://github.com/presidentbeef/brakeman) - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 
-## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Editors / Paid Books
 

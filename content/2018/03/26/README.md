@@ -27,7 +27,7 @@
 
 ### Redis
 
-*   [celtuce (⭐48)](https://github.com/lerouxrgd/celtuce)
+*   [celtuce (⭐49)](https://github.com/lerouxrgd/celtuce)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -47,10 +47,10 @@
 ### Testing
 
 *   Testing Frameworks
-    *   [hypothesis (⭐7.2k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+    *   [hypothesis (⭐7.3k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
     *   [nose2 (⭐771)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
     *   [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    *   [Robot Framework (⭐8.8k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    *   [Robot Framework (⭐9k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)

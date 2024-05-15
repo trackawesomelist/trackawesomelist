@@ -67,13 +67,13 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐309)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐394)](https://github.com/esa/pygmo2))
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [OPAL (Open Policy Administration Layer) (⭐12)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
+*   [OPAL (Open Policy Administration Layer) (⭐13)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -132,13 +132,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐96)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐98)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 
-*   [Python Turtle (⭐337)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+*   [Python Turtle (⭐395)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

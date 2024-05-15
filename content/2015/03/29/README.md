@@ -39,7 +39,7 @@
 ### Differencing
 
 *   [dffptch (⭐170)](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (Javascript)
-*   [jsondiffpatch (⭐4.6k)](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
+*   [jsondiffpatch (⭐4.7k)](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
 
 ### Editors
 
@@ -61,27 +61,23 @@
 
 *   [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 
-### Services
-
-*   [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
-
 ### Text Editor Plugins
 
 *   [JSON Reformat (⭐172)](https://github.com/gongo/json-reformat) - Reformat tool.
 
 ### Transformations
 
-*   [json2json (⭐188)](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
+*   [json2json (⭐190)](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
 
 ### Queries
 
-*   [searchjs (⭐307)](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
+*   [searchjs (⭐309)](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 
 ### JSON Schema Tools
 
 *   [prmd (⭐2.1k)](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
 *   [jsonschema2pojo (⭐6.1k)](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
-*   [Matic (⭐174)](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
+*   [Matic (⭐176)](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 
 ---
 

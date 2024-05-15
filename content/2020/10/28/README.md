@@ -23,8 +23,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.7k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐517)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.8k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐534)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Editor Plugins
 
-*   [clojureVSCode (VSCode) (⭐207)](https://github.com/avli/clojureVSCode)
+*   [clojureVSCode (VSCode) (⭐205)](https://github.com/avli/clojureVSCode)
 
 ## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
@@ -121,7 +121,7 @@ Free (Open Source)
 ### IR Tools Collection / Incident Management
 
 *   [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
-*   [Sandia Cyber Omni Tracker (SCOT) (⭐239)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+*   [Sandia Cyber Omni Tracker (SCOT) (⭐241)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -133,7 +133,7 @@ Free (Open Source)
 
 ### IR Tools Collection / Other Tools
 
-*   [rastrea2r (⭐229)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+*   [rastrea2r (⭐231)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -141,13 +141,13 @@ Free (Open Source)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [CAPEv2 (⭐1.5k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
+*   [CAPEv2 (⭐1.6k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
 *   [Cuckoo (⭐5.4k)](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
 
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
-*   [RegRipper (⭐460)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+*   [RegRipper (⭐477)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -165,7 +165,7 @@ Free (Open Source)
 
 ### WSL Tools / Terminals
 
-*   [Alacritty (⭐51k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+*   [Alacritty (⭐52k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 
 ## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -181,7 +181,7 @@ Free (Open Source)
 
 ### App Routing
 
-*   [MonarchRouter (⭐39)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
+*   [MonarchRouter (⭐40)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
 ## [18. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

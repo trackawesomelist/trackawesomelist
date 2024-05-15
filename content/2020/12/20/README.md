@@ -10,13 +10,13 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐106)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐109)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐26k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐28k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
@@ -161,7 +161,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [SwiftGoogleTranslate (⭐90)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐94)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 
 ### Articles / Introductions to internationalization
 
@@ -201,7 +201,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐367)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐394)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

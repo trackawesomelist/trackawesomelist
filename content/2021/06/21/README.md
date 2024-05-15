@@ -41,7 +41,7 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐249)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐252)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐220)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐250)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -128,13 +128,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.6k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3.7k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐172)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐178)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

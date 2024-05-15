@@ -55,7 +55,7 @@
 ### Inspired by Elm / Games
 
 *   [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-*   [Iced (⭐20k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [Iced (⭐23k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 *   [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 ## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -74,7 +74,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6.1k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6.3k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

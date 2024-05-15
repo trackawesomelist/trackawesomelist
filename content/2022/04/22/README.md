@@ -39,13 +39,13 @@
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
-*   [Beginner's guide to eBPF (⭐1.5k)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐1.6k)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Storage / Scala
 
-*   [Citus (⭐9.4k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
+*   [Citus (⭐9.8k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐67)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐73)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

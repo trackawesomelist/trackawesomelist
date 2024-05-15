@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06 - Oct 12, 2014
 
-11 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -90,12 +90,12 @@
 
 ### Caching
 
-*   [con\_cache (⭐891)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐901)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
 *   [coverex (⭐100)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐796)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [excoveralls (⭐803)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Configuration
 
@@ -119,13 +119,13 @@
 
 ### Frameworks
 
-*   [phoenix (⭐20k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
+*   [phoenix (⭐21k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 *   [placid (⭐189)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐426)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [sugar (⭐428)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐599)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐610)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
@@ -134,25 +134,25 @@
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐735)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐745)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐831)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐843)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐926)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐927)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐42)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
 *   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐684)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [socket (⭐688)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### OTP
@@ -170,12 +170,12 @@
 
 ### REST and API
 
-*   [signaturex (⭐23)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+*   [signaturex (⭐25)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 *   [urna (⭐95)](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 
 ### Static Page Generation
 
-*   [coil (⭐66)](https://github.com/badosu/coil) - Minimalistic static content engine.
+*   [coil (⭐67)](https://github.com/badosu/coil) - Minimalistic static content engine.
 
 ### Statistics
 
@@ -184,13 +184,13 @@
 ### Testing
 
 *   [amrita (⭐199)](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
-*   [excheck (⭐317)](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
+*   [excheck (⭐316)](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 *   [hound (⭐1.3k)](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 
 ### XML
 
 *   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐166)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐168)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ### Other Awesome Lists
 
@@ -225,12 +225,6 @@
 ### Shell Script Development / Directory Navigation
 
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-
-## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Perl / Zepto.js
-
-*   [Perl 教程](http://www.yiibai.com/perl)
 
 ---
 

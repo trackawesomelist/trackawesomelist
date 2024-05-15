@@ -63,7 +63,7 @@
 
 ### Bindings
 
-*   [ErupteD (⭐46)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
+*   [ErupteD (⭐51)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 
 ## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

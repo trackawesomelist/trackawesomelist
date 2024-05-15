@@ -55,7 +55,7 @@
 
 ### Boilerplates / Other
 
-*   [generator-electron (⭐714)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+*   [generator-electron (⭐717)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 
 ### Community / Other
 
@@ -95,7 +95,7 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐438)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐440)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
@@ -107,11 +107,11 @@
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐955)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐954)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐719)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐720)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [8. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
@@ -131,7 +131,7 @@
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.6k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.7k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [11. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
@@ -597,11 +597,11 @@ to this,
 ### Build Tools
 
 *   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [mad (⭐173)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐479)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐487)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Date and Time
 
@@ -609,12 +609,12 @@ to this,
 
 ### Debugging
 
-*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐436)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐229)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐232)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Formulars
 
@@ -622,14 +622,14 @@ to this,
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐272)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐297)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐27)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐46)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 
 ### Frameworks
 
-*   [rest (⭐80)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
+*   [rest (⭐82)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 
 ### HTTP
 
@@ -637,16 +637,16 @@ to this,
 
 ### Images
 
-*   [chunky\_svg (⭐30)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+*   [chunky\_svg (⭐31)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 
 ### JSON
 
 *   [json\_pointer (⭐11)](https://github.com/xavier/json_pointer) - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document.
-*   [world\_json (⭐6)](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
+*   [world\_json (⭐8)](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
 ### Lexical analysis
 
-*   [ex\_abnf (⭐60)](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
+*   [ex\_abnf (⭐61)](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
 
 ### Miscellaneous
 
@@ -658,7 +658,7 @@ to this,
 
 ### OTP
 
-*   [immortal (⭐174)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
+*   [immortal (⭐176)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 
 ### Queue
 
@@ -668,11 +668,11 @@ to this,
 
 ### REST and API
 
-*   [detergentex (⭐62)](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
+*   [detergentex (⭐63)](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
 
 ### Templating
 
-*   [mustache (⭐55)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
+*   [mustache (⭐57)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 
 ### Testing
 
@@ -687,11 +687,11 @@ to this,
 *   [expr (⭐12)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 *   [palette (⭐2)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐13)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐114)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐118)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐330)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [ex\_twilio (⭐332)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
 *   [google\_sheets (⭐39)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
@@ -703,7 +703,7 @@ to this,
 
 ### Version Control
 
-*   [gitex (⭐64)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+*   [gitex (⭐68)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

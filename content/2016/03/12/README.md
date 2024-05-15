@@ -51,7 +51,7 @@
 
 ### Third-party APIs
 
-*   [simple-slack-bot (⭐158)](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
+*   [simple-slack-bot (⭐157)](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
 
 ## [5. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 

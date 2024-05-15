@@ -23,7 +23,7 @@
 
 ### React Development Tools
 
-*   [million (⭐14k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
+*   [million (⭐15k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 
 ## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -36,16 +36,16 @@
 
 ### Web / Other
 
-*   [dockemon (⭐532)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
-*   [dockge (⭐7.9k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
+*   [dockemon (⭐581)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
+*   [dockge (⭐9.5k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 
 ### CI/CD / Other
 
-*   [Gantry (⭐16)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+*   [Gantry (⭐21)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
 
 ### Garbage Collection / Other
 
-*   [Docuum (⭐545)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
+*   [Docuum (⭐566)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
 
 ## [6. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-imagemin (⭐11)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
+*   [vite-plugin-imagemin (⭐13)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 
 ## [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Router / Mouse Events
 
-*   [tanstack-router (⭐6.5k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐7.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -171,14 +171,14 @@
 
 ### Libraries/Frameworks / Cryptography
 
-*   [appmattus/crypto (⭐74)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [appmattus/crypto (⭐77)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
 
 ## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Shaders
 
 *   Water / Refraction
-    *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
+    *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in *libGDX*.
 
 ## [19. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [bpfman (⭐260)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
+*   [bpfman (⭐417)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 
 ## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -210,7 +210,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+*   [rasbt/LLMs-from-scratch (⭐15k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
 
 ### Online Tools and Applications
 
@@ -261,7 +261,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐412)](https://github.com/porsche-design-system/porsche-design-system)
+  Source code \*: [:octocat: (⭐441)](https://github.com/porsche-design-system/porsche-design-system)
 
 
 
@@ -312,17 +312,17 @@
 
 ## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
-### Other Xcode / Collection View Layout
+### Newsletters
 
-*   [Swift Macros 🚀 (⭐1.8k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
+*   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
-### News, Blogs and more / Collection View Layout
+### Websites / Collection View Layout
 
 *   [Point Free](https://www.pointfree.co/) - A video series exploring functional programming and Swift.
 
-### Newsletters / Collection View Layout
+### Other Xcode / Collection View Layout
 
-*   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
+*   [Swift Macros 🚀 (⭐2k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
 ## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -335,25 +335,25 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [QuestSystem (⭐51)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
+*   [QuestSystem (⭐119)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
 ## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐147)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐171)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐14)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐19)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sontungexpt/witch (⭐14)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐21)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐27)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐31)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ### Resource / Diagnostics
 
@@ -365,7 +365,7 @@
 
 *   [cdhist (⭐4)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
 *   [redo (⭐3)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
-*   [selector (⭐3)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
+*   [selector (⭐4)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

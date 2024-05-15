@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐7.7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐7.8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Articles / Why Elm?
 
-*   [FP with games in Elm (⭐1.5k)](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
+*   [FP with games in Elm (⭐1.6k)](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 
 ### Package managers / Individual Podcast episodes
 
-*   [elm-package (⭐216)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+*   [elm-package (⭐213)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 ### More awesome / Games
 
@@ -225,7 +225,7 @@
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐162)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐163)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -259,11 +259,6 @@
 
 ## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
-### Online Scanners and Sandboxes / Other Resources
-
-*   [AVCaesar](https://avcaesar.malware.lu/) - Malware.lu online scanner and
-    malware repository.
-
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [pestudio](https://winitor.com/) - Perform static analysis of Windows
@@ -271,7 +266,7 @@
 
 ### Memory Forensics / Other Resources
 
-*   [VolDiff (⭐185)](https://github.com/aim4r/VolDiff) - Run Volatility on memory
+*   [VolDiff (⭐192)](https://github.com/aim4r/VolDiff) - Run Volatility on memory
     images before and after malware execution, and report changes.
 
 ## [25. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)

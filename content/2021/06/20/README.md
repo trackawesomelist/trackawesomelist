@@ -20,13 +20,13 @@
 
 ### Table
 
-*   [ka-table (⭐644)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐677)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐271)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐273)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Software / Groupware
 
-*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.4k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
+*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.5k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Bindings
 
-*   [Silk.NET (⭐3k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
+*   [Silk.NET (⭐3.6k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
 
 ## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -75,8 +75,8 @@
 
 ### Resources / Examples
 
-*   [Google Keep Clone with Vue + Firestore (⭐97)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐113)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
+*   [Google Keep Clone with Vue + Firestore (⭐98)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
+*   [Vue 3 Shopping Cart (⭐125)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

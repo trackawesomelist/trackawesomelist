@@ -107,7 +107,7 @@
 
 ### Ask these people anything!
 
-*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building [ImportJS (⭐519)](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building ImportJS and Diffux CI. Web infra at Airbnb.
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

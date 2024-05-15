@@ -28,7 +28,7 @@
 
 ### Build and Package / Apache License
 
-*   [alire (⭐243)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐261)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -70,7 +70,7 @@
 ### Text / Barcode
 
 *   [BonMot (⭐3.5k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
-*   [VEditorKit (⭐485)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
+*   [VEditorKit (⭐484)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
 ### Label / Barcode
 
@@ -153,7 +153,7 @@
 
 ### Plasma desktop / Cursors
 
-*   [Capitaine (⭐908)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze.
+*   [Capitaine (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 ## [17. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -169,14 +169,19 @@
 
 ## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
+### Development / Database
+
+*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
+*   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
+
 ### Entertainment
 
 *   [football-cli (⭐1.1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
 
 ### Entertainment / Music
 
-*   [cmus (⭐5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
-*   [itunes-remote (⭐427)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [cmus (⭐5.3k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+*   [itunes-remote (⭐429)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 ### Entertainment / Social Media
 
@@ -185,75 +190,75 @@
 
 ### Entertainment / Video
 
-*   [youtube-dl (⭐123k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-*   [streamlink (⭐9k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-*   [mps-youtube (⭐7.6k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
+*   [youtube-dl (⭐128k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
+*   [streamlink (⭐9.6k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+*   [mps-youtube (⭐7.9k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
 ### Entertainment / Movies
 
-*   [moviemon (⭐192)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie (⭐148)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [moviemon (⭐198)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+*   [movie (⭐152)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Development / Books
 
-*   [legit (⭐554)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
-*   [mklicense (⭐172)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+*   [legit (⭐556)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+*   [mklicense (⭐183)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
 
-*   [kakoune (⭐9k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
+*   [kakoune (⭐9.6k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 
 ### Productivity / HTTP Client
 
-*   [doing (⭐1k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
-*   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
+*   [doing (⭐1.1k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐42)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐834)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐860)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.8k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐6.1k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 
 ### Productivity / Time Tracking
 
-*   [moro (⭐454)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
+*   [moro (⭐465)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 
 ### Productivity / Note Taking and Lists
 
-*   [idea (⭐211)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-*   [sncli (⭐382)](https://github.com/insanum/sncli) - Simplenote client.
-*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+*   [idea (⭐225)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
+*   [sncli (⭐393)](https://github.com/insanum/sncli) - Simplenote client.
+*   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Productivity / Finance
 
-*   [moeda (⭐134)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐209)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
-*   [cointop (⭐3.7k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+*   [moeda (⭐138)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
+*   [cash-cli (⭐227)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cointop (⭐3.9k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 *   [decktape (⭐2.1k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-*   [mdp (⭐4.7k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
+*   [mdp (⭐4.9k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Utilities / Calendars
 
-*   [aria2 (⭐31k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+*   [aria2 (⭐34k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 
 ### Utilities / macOS
 
-*   [osx-wifi-cli (⭐87)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
-*   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
+*   [osx-wifi-cli (⭐90)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
+*   [stronghold (⭐1.1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 
 ### Utilities / Terminal Sharing Utilities
 
-*   [localtunnel (⭐17k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+*   [localtunnel (⭐18k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 *   [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
-*   [OverTime (⭐406)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+*   [OverTime (⭐409)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Utilities / Theming and Customization
 
-*   [pywal (⭐7.5k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+*   [pywal (⭐8k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 
 ## [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -339,7 +344,7 @@ Topics: Chrome DevTools, Performance\
 *   [Nipe (⭐1.8k)](https://github.com/GouveaHeitor/nipe) - Script to redirect all traffic from the machine to the Tor network.
 *   [OnionScan](https://onionscan.org/) - Tool for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
 *   [Tor](https://www.torproject.org/) - Free software and onion routed overlay network that helps you defend against traffic analysis.
-*   [kalitorify (⭐961)](https://github.com/brainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
+*   [kalitorify (⭐979)](https://github.com/brainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
 
 ### Anti-virus Evasion Tools / Tor Tools
 
@@ -348,7 +353,7 @@ Topics: Chrome DevTools, Performance\
 *   [Shellter](https://www.shellterproject.com/) - Dynamic shellcode injection tool, and the first truly dynamic PE infector ever created.
 *   [UniByAv](https://github.com/Mr-Un1k0d3r/UniByAv) - Simple obfuscator that takes raw shellcode and generates Anti-Virus friendly executables by using a brute-forcable, 32-bit XOR key.
 *   [Veil](https://www.veil-framework.com/) - Generate metasploit payloads that bypass common anti-virus solutions.
-*   [peCloakCapstone (⭐101)](https://github.com/v-p-b/peCloakCapstone) - Multi-platform fork of the peCloak.py automated malware antivirus evasion tool.
+*   [peCloakCapstone (⭐102)](https://github.com/v-p-b/peCloakCapstone) - Multi-platform fork of the peCloak.py automated malware antivirus evasion tool.
 
 ### Books / Tor Tools
 
@@ -366,12 +371,12 @@ Topics: Chrome DevTools, Performance\
 
 ### CTF Tools / Malware Analysis Books
 
-*   [ctf-tools (⭐8k)](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools easily and quickly deployable to new machines.
+*   [ctf-tools (⭐8.2k)](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools easily and quickly deployable to new machines.
 *   [shellpop (⭐1.4k)](https://github.com/0x00-0x00/shellpop) - Easily generate sophisticated reverse or bind shell commands to help you save time during penetration tests.
 
 ### Collaboration Tools / Malware Analysis Books
 
-*   [RedELK (⭐2.2k)](https://github.com/outflanknl/RedELK) - Track and alarm about Blue Team activities while providing better usability in long term offensive operations.
+*   [RedELK (⭐2.3k)](https://github.com/outflanknl/RedELK) - Track and alarm about Blue Team activities while providing better usability in long term offensive operations.
 
 ### Conferences and Events / Malware Analysis Books
 
@@ -405,28 +410,28 @@ Topics: Chrome DevTools, Performance\
 
 ### GNU/Linux Utilities / Zealandia
 
-*   [Hwacha (⭐105)](https://github.com/n00py/Hwacha) - Post-exploitation tool to quickly execute payloads via SSH on one or more Linux systems simultaneously.
-*   [Linux Exploit Suggester (⭐1.7k)](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
+*   [Hwacha (⭐104)](https://github.com/n00py/Hwacha) - Post-exploitation tool to quickly execute payloads via SSH on one or more Linux systems simultaneously.
+*   [Linux Exploit Suggester (⭐1.8k)](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
 *   [Lynis](https://cisofy.com/lynis/) - Auditing tool for UNIX-based systems.
 *   [checksec.sh](https://www.trapkit.de/tools/checksec.html) - Shell script designed to test what standard Linux OS and PaX security features are being used.
 
 ### Hash Cracking Tools / Zealandia
 
-*   [BruteForce Wallet (⭐318)](https://github.com/glv2/bruteforce-wallet) - Find the password of an encrypted wallet file (i.e. `wallet.dat`).
+*   [BruteForce Wallet (⭐334)](https://github.com/glv2/bruteforce-wallet) - Find the password of an encrypted wallet file (i.e. `wallet.dat`).
 *   [CeWL](https://digi.ninja/projects/cewl.php) - Generates custom wordlists by spidering a target's website and collecting unique words.
 *   [Hashcat](http://hashcat.net/hashcat/) - The more fast hash cracker.
-*   [JWT Cracker (⭐897)](https://github.com/lmammino/jwt-cracker) - Simple HS256 JSON Web Token (JWT) token brute force cracker.
+*   [JWT Cracker (⭐944)](https://github.com/lmammino/jwt-cracker) - Simple HS256 JSON Web Token (JWT) token brute force cracker.
 *   [John the Ripper](http://www.openwall.com/john/) - Fast password cracker.
 *   [Rar Crack](http://rarcrack.sourceforge.net) - RAR bruteforce cracker.
 
 ### Hex Editors / Zealandia
 
-*   [Bless (⭐63)](https://github.com/bwrsandman/Bless) - High quality, full featured, cross-platform graphical hex editor written in Gtk#.
+*   [Bless (⭐65)](https://github.com/bwrsandman/Bless) - High quality, full featured, cross-platform graphical hex editor written in Gtk#.
 *   [Frhed](http://frhed.sourceforge.net/) - Binary file editor for Windows.
 *   [Hex Fiend](http://ridiculousfish.com/hexfiend/) - Fast, open source, hex editor for macOS with support for viewing  binary diffs.
 *   [HexEdit.js](https://hexed.it) - Browser-based hex editing.
 *   [Hexinator](https://hexinator.com/) - World's finest (proprietary, commercial) Hex Editor.
-*   [hexedit (⭐92)](https://github.com/pixel/hexedit) - Simple, fast, console-based hex editor.
+*   [hexedit (⭐95)](https://github.com/pixel/hexedit) - Simple, fast, console-based hex editor.
 *   [wxHexEditor](http://www.wxhexeditor.org/) - Free GUI hex editor for GNU/Linux, macOS, and Windows.
 
 ### Industrial Control and SCADA Systems / Zealandia
@@ -438,21 +443,21 @@ Topics: Chrome DevTools, Performance\
 *   [Armitage](http://fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
 *   [AutoSploit (⭐4.9k)](https://github.com/NullArray/AutoSploit) - Automated mass exploiter, which collects target by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query.
 *   [Decker (⭐286)](https://github.com/stevenaldinger/decker) - Penetration testing orchestration and automation framework, which allows writing declarative, reusable configurations capable of ingesting variables and using outputs of tools it has run as inputs to others.
-*   [Faraday (⭐4.5k)](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
+*   [Faraday (⭐4.6k)](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
 *   [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
-*   [Pupy (⭐8k)](https://github.com/n1nj4sec/pupy) - Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool.
+*   [Pupy (⭐8.1k)](https://github.com/n1nj4sec/pupy) - Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool.
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [CrackMapExec (⭐8k)](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for pentesting networks.
-*   [IKEForce (⭐228)](https://github.com/SpiderLabs/ikeforce) - Command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.
-*   [Legion (⭐958)](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3  and forked from SPARTA.
+*   [CrackMapExec (⭐8.1k)](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for pentesting networks.
+*   [IKEForce (⭐231)](https://github.com/SpiderLabs/ikeforce) - Command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.
+*   [Legion (⭐983)](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3  and forked from SPARTA.
 *   [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 *   [Praeda](http://h.foofus.net/?page_id=218) - Automated multi-function printer data harvester for gathering usable data during security assessments.
-*   [Printer Exploitation Toolkit (PRET) (⭐3.7k)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
-*   [THC Hydra (⭐8.7k)](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
+*   [Printer Exploitation Toolkit (PRET) (⭐3.8k)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
+*   [THC Hydra (⭐9k)](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
 *   [dsniff](https://www.monkey.org/~dugsong/dsniff/) - Collection of tools for network auditing and pentesting.
-*   [impacket (⭐12k)](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
+*   [impacket (⭐13k)](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
 *   [routersploit (⭐12k)](https://github.com/reverse-shell/routersploit) - Open source exploitation framework similar to Metasploit but dedicated to embedded devices.
 
 ### Network Tools / DDoS Tools
@@ -461,13 +466,13 @@ Topics: Chrome DevTools, Performance\
 *   [Memcrashed (⭐1.3k)](https://github.com/649/Memcrashed-DDoS-Exploit) - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
 *   [SlowLoris (⭐2.3k)](https://github.com/gkbrk/slowloris) - DoS tool that uses low bandwidth on the attacking side.
 *   [T50](https://gitlab.com/fredericopissarra/t50/) - Faster network stress tool.
-*   [UFONet (⭐2k)](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
+*   [UFONet (⭐2.1k)](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [ACLight (⭐752)](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
+*   [ACLight (⭐765)](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
 *   [DNSDumpster](https://dnsdumpster.com/) - Online DNS recon and search service.
-*   [Mass Scan (⭐22k)](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+*   [Mass Scan (⭐23k)](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 *   [XRay (⭐2.1k)](https://github.com/evilsocket/xray) - Network (sub)domain discovery and reconnaissance automation tool.
 *   [fierce (⭐1.5k)](https://github.com/mschwager/fierce) - Python3 port of the original `fierce.pl` DNS reconnaissance tool for locating non-contiguous IP space.
 *   [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
@@ -484,33 +489,33 @@ Topics: Chrome DevTools, Performance\
 
 *   [BetterCAP](https://www.bettercap.org/) - Modular, portable and easily extensible MITM framework.
 *   [Ettercap](http://www.ettercap-project.org) - Comprehensive, mature suite for machine-in-the-middle attacks.
-*   [Habu (⭐841)](https://github.com/portantier/habu) - Python utility implementing a variety of network attacks, such as ARP poisoning, DHCP starvation, and more.
+*   [Habu (⭐856)](https://github.com/portantier/habu) - Python utility implementing a variety of network attacks, such as ARP poisoning, DHCP starvation, and more.
 *   [Lambda-Proxy (⭐38)](https://github.com/puresec/lambda-proxy) - Utility for testing SQL Injection vulnerabilities on AWS Lambda serverless functions.
 *   [MITMf (⭐3.5k)](https://github.com/byt3bl33d3r/MITMf) - Framework for Man-In-The-Middle attacks.
-*   [dnschef (⭐825)](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
-*   [mallory (⭐315)](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH.
-*   [oregano (⭐22)](https://github.com/nametoolong/oregano) - Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.
+*   [dnschef (⭐847)](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
+*   [mallory (⭐319)](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH.
+*   [oregano (⭐23)](https://github.com/nametoolong/oregano) - Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.
 
 ### Network Tools / Transport Layer Security Tools
 
 *   [SSLyze (⭐3.1k)](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
-*   [crackpkcs12 (⭐130)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
-*   [testssl.sh (⭐7.5k)](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
-*   [tls\_prober (⭐252)](https://github.com/WestpointLtd/tls_prober) - Fingerprint a server's SSL/TLS implementation.
+*   [crackpkcs12 (⭐135)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
+*   [testssl.sh (⭐7.6k)](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
+*   [tls\_prober (⭐260)](https://github.com/WestpointLtd/tls_prober) - Fingerprint a server's SSL/TLS implementation.
 
 ### Network Tools / Wireless Network Tools
 
 *   [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
-*   [Airgeddon (⭐5.8k)](https://github.com/v1s1t0r1sh3r3/airgeddon) - Multi-use bash script for Linux systems to audit wireless networks.
+*   [Airgeddon (⭐6k)](https://github.com/v1s1t0r1sh3r3/airgeddon) - Multi-use bash script for Linux systems to audit wireless networks.
 *   [BoopSuite](https://github.com/MisterBianco/BoopSuite) - Suite of tools written in Python for wireless auditing.
 *   [Bully](http://git.kali.org/gitweb/?p=packages/bully.git;a=summary) - Implementation of the WPS brute force attack, written in C.
-*   [Cowpatty (⭐164)](https://github.com/joswr1ght/cowpatty) - Brute-force dictionary attack against WPA-PSK.
-*   [Fluxion (⭐4.6k)](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
-*   [KRACK Detector (⭐179)](https://github.com/securingsam/krackdetector) - Detect and prevent KRACK attacks in your network.
+*   [Cowpatty (⭐167)](https://github.com/joswr1ght/cowpatty) - Brute-force dictionary attack against WPA-PSK.
+*   [Fluxion (⭐4.7k)](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
+*   [KRACK Detector (⭐180)](https://github.com/securingsam/krackdetector) - Detect and prevent KRACK attacks in your network.
 *   [Kismet](https://kismetwireless.net/) - Wireless network detector, sniffer, and IDS.
 *   [Reaver](https://code.google.com/archive/p/reaver-wps) - Brute force attack against WiFi Protected Setup.
 *   [WiFi-Pumpkin (⭐3.1k)](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for rogue Wi-Fi access point attack.
-*   [Wifite (⭐3k)](https://github.com/derv82/wifite) - Automated wireless attack tool.
+*   [Wifite (⭐3.1k)](https://github.com/derv82/wifite) - Automated wireless attack tool.
 *   [infernal-twin (⭐1.2k)](https://github.com/entropy1337/infernal-twin) - Automated wireless hacking tool.
 *   [krackattacks-scripts (⭐3.3k)](https://github.com/vanhoefm/krackattacks-scripts) - WPA2 Krack attack scripts.
 *   [wifi-arsenal (⭐1.8k)](https://github.com/0x90/wifi-arsenal) - Resources for Wi-Fi Pentesting.
@@ -524,7 +529,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
-*   [ACSTIS (⭐286)](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+*   [ACSTIS (⭐288)](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
 *   [Arachni](http://www.arachni-scanner.com/) - Scriptable framework for evaluating the security of web applications.
 *   [JCS (⭐62)](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
 *   [Nikto](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
@@ -534,7 +539,7 @@ Topics: Chrome DevTools, Performance\
 *   [WebReaver](https://www.webreaver.com/) - Commercial, graphical web application vulnerability scanner designed for macOS.
 *   [cms-explorer](https://code.google.com/archive/p/cms-explorer/) - Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
 *   [joomscan](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) - Joomla vulnerability scanner.
-*   [w3af (⭐4.4k)](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
+*   [w3af (⭐4.5k)](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
 
 ### Online Resources / Online Operating Systems Resources
 
@@ -553,37 +558,37 @@ Topics: Chrome DevTools, Performance\
 ### Online Resources / Other Lists Online
 
 *   [.NET Programming (⭐18k)](https://github.com/quozd/awesome-dotnet) - Software framework for Microsoft Windows platform development.
-*   [Android Exploits (⭐669)](https://github.com/sundaysec/Android-Exploits) - Guide on Android Exploitation and Hacks.
-*   [Android Security (⭐7.5k)](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
-*   [AppSec (⭐5.9k)](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
+*   [Android Exploits (⭐701)](https://github.com/sundaysec/Android-Exploits) - Guide on Android Exploitation and Hacks.
+*   [Android Security (⭐7.7k)](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
+*   [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
 *   [Awesome Awesomness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
-*   [C/C++ Programming (⭐53k)](https://github.com/fffaraz/awesome-cpp) - One of the main language for open source security tools.
-*   [CTFs (⭐8.9k)](https://github.com/apsdehal/awesome-ctf) - Capture The Flag frameworks, libraries, etc.
-*   [Forensics (⭐3.4k)](https://github.com/Cugu/awesome-forensics) - Free (mostly open source) forensic analysis tools and resources.
+*   [C/C++ Programming (⭐56k)](https://github.com/fffaraz/awesome-cpp) - One of the main language for open source security tools.
+*   [CTFs (⭐9.2k)](https://github.com/apsdehal/awesome-ctf) - Capture The Flag frameworks, libraries, etc.
+*   [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics) - Free (mostly open source) forensic analysis tools and resources.
 *   [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) - Tutorials, tools, and resources.
-*   [Honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
-*   [InfoSec § Hacking challenges (⭐492)](https://github.com/AnarchoTechNYC/meta/wiki/InfoSec#hacking-challenges) - Comprehensive directory of CTFs, wargames, hacking challenge websites, pentest practice lab exercises, and more.
-*   [Infosec (⭐4.9k)](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
-*   [JavaScript Programming (⭐32k)](https://github.com/sorrycc/awesome-javascript) - In-browser development and scripting.
+*   [Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
+*   [InfoSec § Hacking challenges (⭐499)](https://github.com/AnarchoTechNYC/meta/wiki/InfoSec#hacking-challenges) - Comprehensive directory of CTFs, wargames, hacking challenge websites, pentest practice lab exercises, and more.
+*   [Infosec (⭐5k)](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
+*   [JavaScript Programming (⭐33k)](https://github.com/sorrycc/awesome-javascript) - In-browser development and scripting.
 *   [Kali Linux Tools](http://tools.kali.org/tools-listing) - List of tools present in Kali Linux.
-*   [Node.js Programming by @sindresorhus (⭐55k)](https://github.com/sindresorhus/awesome-nodejs) - Curated list of delightful Node.js packages and resources.
+*   [Node.js Programming by @sindresorhus (⭐56k)](https://github.com/sindresorhus/awesome-nodejs) - Curated list of delightful Node.js packages and resources.
 *   [Pentest Cheat Sheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
-*   [Python Programming by @svaksha (⭐924)](https://github.com/svaksha/pythonidae) - General Python programming.
-*   [Python Programming by @vinta (⭐196k)](https://github.com/vinta/awesome-python) - General Python programming.
+*   [Python Programming by @svaksha (⭐936)](https://github.com/svaksha/pythonidae) - General Python programming.
+*   [Python Programming by @vinta (⭐204k)](https://github.com/vinta/awesome-python) - General Python programming.
 *   [Python tools for penetration testers (⭐2.7k)](https://github.com/dloss/python-pentest-tools) - Lots of pentesting tools are written in Python.
 *   [Ruby Programming by @Sdogruyol (⭐1.2k)](https://github.com/Sdogruyol/awesome-ruby) - The de-facto language for writing exploits.
 *   [Ruby Programming by @dreikanter (⭐2.2k)](https://github.com/dreikanter/ruby-bookmarks) - The de-facto language for writing exploits.
 *   [Ruby Programming by @markets (⭐13k)](https://github.com/markets/awesome-ruby) - The de-facto language for writing exploits.
-*   [SecLists (⭐52k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
+*   [SecLists (⭐54k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
 *   [SecTools](http://sectools.org/) - Top 125 Network Security Tools.
-*   [Security Talks (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
+*   [Security Talks (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
 *   [Security (⭐11k)](https://github.com/sbilly/awesome-security) - Software, libraries, documents, and other resources.
-*   [Shell Scripting (⭐30k)](https://github.com/alebcay/awesome-shell) - Command line frameworks, toolkits, guides and gizmos.
-*   [YARA (⭐3.1k)](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
+*   [Shell Scripting (⭐31k)](https://github.com/alebcay/awesome-shell) - Command line frameworks, toolkits, guides and gizmos.
+*   [YARA (⭐3.3k)](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
 
 ### Online Resources / Penetration Testing Report Templates
 
-*   [Public Pentesting Reports (⭐7.9k)](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+*   [Public Pentesting Reports (⭐8.1k)](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 *   [T\&VS Pentesting Report Template](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 *   [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
 
@@ -591,13 +596,13 @@ Topics: Chrome DevTools, Performance\
 
 *   [Android Tamer](https://androidtamer.com/) - Distribution built for Android security professionals that includes tools required for Android security testing.
 *   [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
-*   [AttifyOS (⭐897)](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+*   [AttifyOS (⭐923)](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 *   [BlackArch](https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
 *   [Buscador](https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
 *   [Kali](https://www.kali.org/) - Rolling Debian-based GNU/Linux distribution designed for penetration testing and digital forensics.
 *   [Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) - Fedora-based GNU/Linux bootable live Operating System designed to provide easy access to best-of-breed open source network security applications.
 *   [PentestBox](https://pentestbox.org/) - Open source pre-configured portable penetration testing environment for the Windows Operating System.
-*   [The Pentesters Framework (⭐4.9k)](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that omits less frequently used utilities.
+*   [The Pentesters Framework (⭐5k)](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that omits less frequently used utilities.
 
 ### Periodicals / Web application and resource analysis tools
 
@@ -609,7 +614,7 @@ Topics: Chrome DevTools, Performance\
 *   [AT Commands](https://atcommands.org/) - Use AT commands over an Android device's USB port to rewrite device firmware, bypass security mechanisms, exfiltrate sensitive information, perform screen unlocks, and inject touch events.
 *   [Bash Bunny](https://www.hak5.org/gear/bash-bunny) - Local exploit delivery tool in the form of a USB thumbdrive in which you write payloads in a DSL called BunnyScript.
 *   [LAN Turtle](https://lanturtle.com/) - Covert "USB Ethernet Adapter" that provides remote access, network intelligence gathering, and MITM capabilities when installed in a local network.
-*   [PCILeech (⭐4.1k)](https://github.com/ufrisk/pcileech) - Uses PCIe hardware devices to read and write from the target system memory via Direct Memory Access (DMA) over PCIe.
+*   [PCILeech (⭐4.3k)](https://github.com/ufrisk/pcileech) - Uses PCIe hardware devices to read and write from the target system memory via Direct Memory Access (DMA) over PCIe.
 *   [Packet Squirrel](https://www.hak5.org/gear/packet-squirrel) - Ethernet multi-tool designed to enable covert remote access, painless packet captures, and secure VPN connections with the flip of a switch.
 *   [Poisontap](https://samy.pl/poisontap/) - Siphons cookies, exposes internal (LAN-side) router and installs web backdoor on locked computers.
 *   [Proxmark3](https://proxmark3.com/) - RFID/NFC cloning, replay, and spoofing toolkit often used for analyzing and attacking proximity cards/readers, wireless keys/keyfobs, and more.
@@ -623,7 +628,7 @@ Topics: Chrome DevTools, Performance\
 *   [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).
 *   [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
 *   [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
-*   [UEFITool (⭐3.9k)](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor.
+*   [UEFITool (⭐4.1k)](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor.
 *   [binwalk (⭐10k)](https://github.com/devttys0/binwalk) - Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 *   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - Tool to reverse engineer .NET assemblies.
 *   [plasma (⭐3k)](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
@@ -641,24 +646,24 @@ Topics: Chrome DevTools, Performance\
 
 ### Social Engineering / Social Engineering Tools
 
-*   [Beelogger (⭐952)](https://github.com/4w4k3/BeeLogger) - Tool for generating keylooger.
-*   [Catphish (⭐595)](https://github.com/ring0lab/catphish) - Tool for phishing and corporate espionage written in Ruby.
-*   [FiercePhish (⭐1.2k)](https://github.com/Raikia/FiercePhish) - Full-fledged phishing framework to manage all phishing engagements.
+*   [Beelogger (⭐973)](https://github.com/4w4k3/BeeLogger) - Tool for generating keylooger.
+*   [Catphish (⭐594)](https://github.com/ring0lab/catphish) - Tool for phishing and corporate espionage written in Ruby.
+*   [FiercePhish (⭐1.3k)](https://github.com/Raikia/FiercePhish) - Full-fledged phishing framework to manage all phishing engagements.
 *   [Gophish](https://getgophish.com) - Open-source phishing framework.
 *   [King Phisher (⭐2.1k)](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
-*   [Modlishka (⭐4.6k)](https://github.com/drk1wi/Modlishka) - Flexible and powerful reverse proxy with real-time two-factor authentication.
-*   [ReelPhish (⭐495)](https://github.com/fireeye/ReelPhish) - Real-time two-factor phishing tool.
-*   [Social Engineer Toolkit (SET) (⭐9.9k)](https://github.com/trustedsec/social-engineer-toolkit) - Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
-*   [SocialFish (⭐3.8k)](https://github.com/UndeadSec/SocialFish) - Social media phishing framework that can run on an Android phone or in a Docker container.
-*   [phishery (⭐955)](https://github.com/ryhanson/phishery) - TLS/SSL enabled Basic Auth credential harvester.
+*   [Modlishka (⭐4.7k)](https://github.com/drk1wi/Modlishka) - Flexible and powerful reverse proxy with real-time two-factor authentication.
+*   [ReelPhish (⭐501)](https://github.com/fireeye/ReelPhish) - Real-time two-factor phishing tool.
+*   [Social Engineer Toolkit (SET) (⭐10k)](https://github.com/trustedsec/social-engineer-toolkit) - Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
+*   [SocialFish (⭐3.9k)](https://github.com/UndeadSec/SocialFish) - Social media phishing framework that can run on an Android phone or in a Docker container.
+*   [phishery (⭐959)](https://github.com/ryhanson/phishery) - TLS/SSL enabled Basic Auth credential harvester.
 *   [wifiphisher (⭐13k)](https://github.com/sophron/wifiphisher) - Automated phishing attacks against WiFi networks.
 
 ### Static Analyzers / Social Engineering Tools
 
-*   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - Static analysis security vulnerability scanner for Ruby on Rails applications.
+*   [Brakeman (⭐6.9k)](https://github.com/presidentbeef/brakeman) - Static analysis security vulnerability scanner for Ruby on Rails applications.
 *   [FindBugs](http://findbugs.sourceforge.net/) - Free software static analyzer to look for bugs in Java code.
-*   [Progpilot (⭐306)](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
-*   [RegEx-DoS (⭐164)](https://github.com/jagracey/RegEx-DoS) - Analyzes source code for Regular Expressions susceptible to Denial of Service attacks.
+*   [Progpilot (⭐312)](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
+*   [RegEx-DoS (⭐163)](https://github.com/jagracey/RegEx-DoS) - Analyzes source code for Regular Expressions susceptible to Denial of Service attacks.
 *   [bandit](https://pypi.python.org/pypi/bandit/) - Security oriented static analyser for Python code.
 *   [cppcheck](http://cppcheck.sourceforge.net/) - Extensible C/C++ static analyzer focused on finding bugs.
 *   [sobelow (⭐1.6k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
@@ -677,11 +682,11 @@ Topics: Chrome DevTools, Performance\
 
 ### Web Exploitation / Social Engineering Tools
 
-*   [FuzzDB (⭐7.8k)](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+*   [FuzzDB (⭐8k)](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 *   [Offensive Web Testing Framework (OWTF)](https://www.owasp.org/index.php/OWASP_OWTF) - Python-based framework for pentesting Web applications based on the OWASP Testing Guide.
 *   [Raccoon (⭐3k)](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
 *   [WPSploit (⭐210)](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
-*   [badtouch (⭐377)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker.
+*   [badtouch (⭐385)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker.
 *   [sslstrip2 (⭐310)](https://github.com/LeonardoNve/sslstrip2) - SSLStrip version to defeat HSTS.
 *   [sslstrip](https://www.thoughtcrime.org/software/sslstrip/) - Demonstration of the HTTPS stripping attacks.
 
@@ -691,21 +696,21 @@ Topics: Chrome DevTools, Performance\
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [weevely3 (⭐3k)](https://github.com/epinna/weevely3) - Weaponized PHP-based web shell.
+*   [weevely3 (⭐3.1k)](https://github.com/epinna/weevely3) - Weaponized PHP-based web shell.
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Bloodhound (⭐9.2k)](https://github.com/adaptivethreat/Bloodhound/wiki) - Graphical Active Directory trust relationship explorer.
-*   [DeathStar (⭐1.5k)](https://github.com/byt3bl33d3r/DeathStar) - Python script that uses Empire's RESTful API to automate gaining Domain Admin rights in Active Directory environments.
+*   [Bloodhound (⭐9.4k)](https://github.com/adaptivethreat/Bloodhound/wiki) - Graphical Active Directory trust relationship explorer.
+*   [DeathStar (⭐1.6k)](https://github.com/byt3bl33d3r/DeathStar) - Python script that uses Empire's RESTful API to automate gaining Domain Admin rights in Active Directory environments.
 *   [Empire](https://www.powershellempire.com/) - Pure PowerShell post-exploitation agent.
-*   [Fibratus (⭐2k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
-*   [LaZagne (⭐8.9k)](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project.
+*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+*   [LaZagne (⭐9.1k)](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project.
 *   [MailSniper (⭐2.8k)](https://github.com/dafthack/MailSniper) - Modular tool for searching through email in a Microsoft Exchange environment, gathering the Global Address List from Outlook Web Access (OWA) and Exchange Web Services (EWS), and more.
 *   [PowerSploit (⭐11k)](https://github.com/PowerShellMafia/PowerSploit) - PowerShell Post-Exploitation Framework.
-*   [RID\_ENUM (⭐224)](https://github.com/trustedsec/ridenum) - Python script that can enumerate all users from a Windows Domain Controller and crack those user's passwords using brute-force.
-*   [Responder (⭐4.3k)](https://github.com/SpiderLabs/Responder) - Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and mDNS poisoner.
-*   [Ruler (⭐2k)](https://github.com/sensepost/ruler) - Abuses client-side Outlook features to gain a remote shell on a Microsoft Exchange server.
-*   [SCOMDecrypt (⭐112)](https://github.com/nccgroup/SCOMDecrypt) - Retrieve and decrypt RunAs credentials stored within Microsoft System Center Operations Manager (SCOM) databases.
+*   [RID\_ENUM (⭐227)](https://github.com/trustedsec/ridenum) - Python script that can enumerate all users from a Windows Domain Controller and crack those user's passwords using brute-force.
+*   [Responder (⭐4.4k)](https://github.com/SpiderLabs/Responder) - Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and mDNS poisoner.
+*   [Ruler (⭐2.1k)](https://github.com/sensepost/ruler) - Abuses client-side Outlook features to gain a remote shell on a Microsoft Exchange server.
+*   [SCOMDecrypt (⭐113)](https://github.com/nccgroup/SCOMDecrypt) - Retrieve and decrypt RunAs credentials stored within Microsoft System Center Operations Manager (SCOM) databases.
 *   [Windows Credentials Editor](https://www.ampliasecurity.com/research/windows-credentials-editor/) - Inspect logon sessions and add, change, list, and delete associated credentials, including Kerberos tickets.
 *   [Windows Exploit Suggester (⭐3.8k)](https://github.com/GDSSecurity/Windows-Exploit-Suggester) - Detects potential missing patches on the target.
 *   [mimikatz](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows operating system.
@@ -716,7 +721,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Device / Augmented Reality
 
-*   [VPN (⭐296)](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
+*   [VPN (⭐329)](https://github.com/X-dea/Flutter_VPN) <!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 
 ### Top / Game Engine resources
 
@@ -728,15 +733,6 @@ Topics: Chrome DevTools, Performance\
 *   Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
 ## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
-
-### CLI / dbcli
-
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-*   [athenacli (⭐206)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐2k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
-*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
-*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 ### IDE
 
@@ -762,6 +758,13 @@ Topics: Chrome DevTools, Performance\
 ### CLI
 
 *   [pg\_top (⭐103)](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
+
+### CLI / dbcli
+
+*   [athenacli (⭐206)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [litecli (⭐2k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
+*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 ### Schema / Changes
 
@@ -838,7 +841,7 @@ Topics: Chrome DevTools, Performance\
 
 ### GUI
 
-*   [AdonisUI (⭐1.6k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+*   [AdonisUI (⭐1.7k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ### Testing
 
@@ -863,17 +866,17 @@ Topics: Chrome DevTools, Performance\
 
 ### Networking
 
-*   [MQTT-C (⭐698)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
-*   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
+*   [MQTT-C (⭐721)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [WAFer (⭐691)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
 *   [Better Enums (⭐1.6k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐215)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
-*   [CPP-Reflection (⭐624)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [CPFG (⭐214)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
+*   [CPP-Reflection (⭐634)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
 *   [Nameof (⭐1.9k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-*   [Ponder (⭐620)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
-*   [RTTR (⭐2.9k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
+*   [Ponder (⭐628)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [RTTR (⭐3k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis
 

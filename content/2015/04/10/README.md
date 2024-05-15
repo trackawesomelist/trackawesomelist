@@ -33,7 +33,7 @@
 
 ### Libraries
 
-*   [moshi (⭐9.4k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+*   [moshi (⭐9.5k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 ### Online tools
 
@@ -62,7 +62,7 @@
 
 ### Error Handling
 
-*   [Exception Handler (⭐505)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐506)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### Web Frameworks
 

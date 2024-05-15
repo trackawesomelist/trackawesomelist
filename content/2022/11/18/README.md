@@ -22,7 +22,7 @@
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [OTF (⭐473)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐477)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration. :skull:
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

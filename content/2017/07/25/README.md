@@ -83,13 +83,13 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐65)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐72)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐995)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -212,7 +212,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐784)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐785)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ---
 

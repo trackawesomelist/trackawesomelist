@@ -48,7 +48,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐194)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐203)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
