@@ -6,6 +6,12 @@ Useful resources for creating apps with Electron
 
 [ [Daily](/content/sindresorhus/awesome-electron/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-electron/readme/README.md) ]
 
+## [May 13 - May 19, 2024](/content/2024/20/README.md)
+
+### Closed Source / Other
+
+*   [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
+
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
 ### Open Source / Other
@@ -44,7 +50,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Ostara (⭐297)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
+*   [Ostara (⭐298)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -345,7 +351,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Motrix (⭐43k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐44k)](https://github.com/agalwood/Motrix) - Download manager.
 
 ## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
 

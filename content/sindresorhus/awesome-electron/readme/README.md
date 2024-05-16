@@ -154,7 +154,7 @@ Made with Electron.
 *   [Etcher (⭐28k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 *   [Notable (⭐22k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 *   [Unsplash Wallpapers (⭐334)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
-*   [Motrix (⭐43k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐44k)](https://github.com/agalwood/Motrix) - Download manager.
 *   [Franz (⭐4.5k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 *   [Gmail Desktop (⭐793)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 *   [Upcount (⭐347)](https://github.com/madisvain/upcount) - Invoicing.
@@ -175,7 +175,7 @@ Made with Electron.
 *   [linked (⭐846)](https://github.com/lostdesign/linked) - Daily journal.
 *   [shadowsocks-electron (⭐310)](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
 *   [Sigma File Manager (⭐3.6k)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
-*   [Ostara (⭐297)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
+*   [Ostara (⭐298)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 *   [PikaTorrent (⭐294)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 *   [Wave Terminal (⭐2.5k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
@@ -227,6 +227,7 @@ Made with Electron.
 *   [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 *   [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 *   [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
+*   [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
 
 ### Samples
 
