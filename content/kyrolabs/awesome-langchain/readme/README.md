@@ -21,7 +21,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-*   [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
+*   [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
     *   [Table of Contents](#table-of-contents)
     *   [LangChain Framework](#langchain-framework)
     *   [Ports to other languages](#ports-to-other-languages)
@@ -328,6 +328,7 @@ List of non-official ports of LangChain to other languages.
 *   [AgentScope (⭐2.2k)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
 *   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 *   [Pipecat (⭐856)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Phidata (⭐7k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social)
 
 ## Complement to this list
 

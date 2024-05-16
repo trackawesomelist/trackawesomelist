@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 16, 2024](/content/2024/05/16/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Phidata (⭐7k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social)
+
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
 ### Other LLM Frameworks / Videos Playlists

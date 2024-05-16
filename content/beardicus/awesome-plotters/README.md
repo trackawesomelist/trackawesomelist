@@ -6,6 +6,23 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [May 16, 2024](/content/2024/05/16/README.md)
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [Roland DXY 1300 Plotter Self Test](https://www.youtube.com/watch?v=BMVq8vuH4sw)
+*   [Vintage Aritma 0507 Plotter drawing Sierpinski triangles in one stroke](https://www.youtube.com/watch?v=kfL3K8mQp5I) — Aritma Minigraf 0507 video
+*   [Plotter (Artima Minigraf 0507)](https://www.youtube.com/watch?v=Xso0gfLp8IE\&t=34s)
+*   <https://jiristepanovsky.cz/project.php?p=13plotter> — Blog post on the Aritma Minigraf 0507 plotter from Czechoslovakia.
+*   [Another drawing on Aritma Minigraf 0507](https://www.youtube.com/watch?v=EwFyIusdH7g)
+*   [Aritma Minigraf 0507 Plotting Space Shuttle](https://www.youtube.com/watch?v=YY0ivdyhLpo)
+*   [Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter](https://www.youtube.com/watch?v=nkxiFXCnbj8\&t=131s) — The video description has some interesting details about this plotter.
+*   [OrCAD 386 and a plotter Colorgraf Aritma 512](http://simandl.cz/stranky/elektro/spoje/pcb.htm) — Article about using a Colorgraf 512 plotter with OrCAD 386 for making printed circuit boards.
+
+### Manuals, Ephemera, Papers, and Patents / Manuals
+
+*   [Aritma Colorgraf 512](http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm) – Website with scanned schematics and manual.
+
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
 ### Software / Vector Creation

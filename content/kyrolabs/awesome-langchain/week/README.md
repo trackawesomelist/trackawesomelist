@@ -11,6 +11,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Pipecat (⭐856)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Phidata (⭐7k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social)
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
