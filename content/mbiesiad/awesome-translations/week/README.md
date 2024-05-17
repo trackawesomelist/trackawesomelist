@@ -12,6 +12,10 @@
 
 *   [Alexa Translations](https://alexatranslations.com/) - Alexa Translations A.I. brings leading AI and machine translation to the legal, financial and government sectors.
 
+### Tools / Other tools
+
+*   [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Platforms / Localization and translation platforms

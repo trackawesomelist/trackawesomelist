@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/mbiesiad/awesome-translations/week/README.md) / [Overview](/content/mbiesiad/awesome-translations/readme/README.md) ]
 
+## [May 17, 2024](/content/2024/05/17/README.md)
+
+### Tools / Other tools
+
+*   [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
+
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
 ### Tools / Automatic translation for end users
