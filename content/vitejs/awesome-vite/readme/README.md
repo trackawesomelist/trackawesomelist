@@ -283,6 +283,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-ms-clarity (⭐2)](https://github.com/KermanX/vite-plugin-ms-clarity) - Inject the Microsoft Clarity script to `index.html`.
 *   [@cyco130/vite-plugin-mdx (⭐9)](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
 *   [vite-awesome-svg-loader (⭐6)](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
+*   [vite-plugin-dir2json (⭐2)](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
 
 #### Bundling
 
@@ -398,6 +399,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [unplugin-detect-duplicated-deps (⭐65)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 *   [vite-plugin-vitepress-auto-nav (⭐10)](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
 *   [vite-plugin-pretty-module-classnames (⭐0)](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the -module suffix to the class names of CSS modules.
+*   [vite-plugin-serve-static (⭐3)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
 
 #### Testing
 
@@ -449,6 +451,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   ![v2] [vite-plugin-vue2-svg (⭐18)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 *   ![v3] [unplugin-svg-component (⭐41)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 *   ![v23] [vite-plugin-markdown-mermaid (⭐3)](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
+*   ![v3] [vite-plugin-style-vw-loader (⭐5)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - Converting the inline style px to vw.
 
 #### SSG
 

@@ -1,12 +1,66 @@
 # Awesome List Updates on May 17, 2024
 
-6 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+### Queue
+
+*   [honeycomb (⭐18)](https://github.com/Hentioe/honeycomb) - Another scheduling system, focusing on the collection of results for one-time tasks.
+
+### Release Management
+
+*   [expublish (⭐21)](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages.
+
+## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### Terminal-based / programmable RSS readers / Outline Processor Markup Language
+
+*   [Syndicationd (⭐54)](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ymgyt/syndicationd)
+    ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
+
+## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Downloading, Installing, Upgrading, and Building
+
+*   [Qubes OS 4.2.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.1 download.
+*   [Qubes OS 4.2.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
+
+## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### FPS
+
+*   [Doomsday Engine (⭐259)](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen. :flower\_playing\_cards:
+
+### Strategy
+
+*   [Ancient Beast (⭐1.6k)](https://github.com/FreezingMoon/AncientBeast) - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-dir2json (⭐2)](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-serve-static (⭐3)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
+
+### Vue / Loaders
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-style-vw-loader (⭐5)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - Converting the inline style px to vw.
+
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+
+### Configuration
+
+*   [XDT Transform playground)](https://akarzazi.github.io/xdt-playground) - A playground IDE for you to play/test XDT Transformation of .NET config wiles.
+
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Android
 
@@ -53,20 +107,20 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [8. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Other tools
 
 *   [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
 
-## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [9. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Prisma Audit Trails (⭐64)](https://github.com/BemiHQ/bemi-prisma)
 *   [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files (⭐124)](https://github.com/MrLeebo/prisma-ast)
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -80,7 +134,7 @@
 
 *   [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Others
 
@@ -101,7 +155,7 @@
 *   [Introducing Smart Components Experiment for Blazor, MVC, and Razor Pages](https://www.youtube.com/watch?v=ZWH4yJGJaeg) - ![duration](https://img.shields.io/badge/Duration:%20-10%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 19, 2024 - Add genuinely useful AI-powered features to your web app, just by dropping in pre-built Smart Components that upgrade your existing pages and forms in minutes. Steve Sanderson shows how SmartPaste, SmartTextArea, and SmartComboBox can all delight your users and make them more productive. This is a new experiment from the .NET team, and they want feedbacks.
 *   [Let's Learn .NET - Blazor](https://www.youtube.com/watch?v=EhCz4s2Gh3I) - ![duration](https://img.shields.io/badge/Duration:%20-121%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 25, 2024 - Live with the lead Blazor Product Manager, Daniel Roth, we will learn about basic web development with .NET Blazor! Then, build an interactive web-based game application with Blazor. Come to learn something new and leave with something that we all built, together, live with experts.
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 

@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [May 17, 2024](/content/2024/05/17/README.md)
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-dir2json (⭐2)](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-serve-static (⭐3)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
+
+### Vue / Loaders
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-style-vw-loader (⭐5)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - Converting the inline style px to vw.
+
 ## [May 13, 2024](/content/2024/05/13/README.md)
 
 ### Templates / React

@@ -54,14 +54,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Arcade
 
 *   [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
-*   [C-Dogs SDL (⭐853)](https://github.com/cxong/cdogs-sdl):flower\_playing\_cards: - Classic overhead run-and-gun game.
+*   [C-Dogs SDL (⭐853)](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower\_playing\_cards:
 *   [Mr.Boom (⭐196)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 *   [OpenClonk (⭐312)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 *   [OpenJazz (⭐254)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
-*   [Open Kick-Off (⭐40)](https://github.com/ssenegas/kickoff):flower\_playing\_cards: - Rewriting attempt of the cult football game Kick Off 2.
-*   [OpenTyrian (⭐402)](https://github.com/opentyrian/opentyrian):flower\_playing\_cards: - An open-source port of Tyrian from Turbo Pascal to C.
-*   [Taisei (⭐895)](https://github.com/taisei-project/taisei):flower\_playing\_cards: - Fan-made, open-source clone of the Touhou series.
-*   [The Great Escape in C (⭐111)](https://github.com/dpt/The-Great-Escape-in-C):flower\_playing\_cards: - Classic ZX Spectrum game The Great Escape in portable C.
+*   [Open Kick-Off (⭐40)](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower\_playing\_cards:
+*   [OpenTyrian (⭐402)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
+*   [Taisei (⭐895)](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series. :flower\_playing\_cards:
+*   [The Great Escape in C (⭐111)](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C. :flower\_playing\_cards:
 *   [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ## FPS
@@ -70,46 +70,46 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [BetterSpades (⭐229)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 *   [BStone (⭐295)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 *   [CatacombGL (⭐136)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
-*   [Chocolate Doom (⭐1.8k)](https://github.com/chocolate-doom/chocolate-doom):flower\_playing\_cards: - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
-*   [ClassiCube (⭐1.2k)](https://github.com/ClassiCube/ClassiCube):flower\_playing\_cards: - Minecraft Classic compatible client written in C from scratch.
-*   [Doom Legacy](https://sourceforge.net/projects/doomlegacy/):flower\_playing\_cards: - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
-*   [DoomRetro (⭐625)](https://github.com/bradharding/doomretro):flower\_playing\_cards: - Classic, refined DOOM source port for Windows PC.
-*   [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine:flower_playing_cards::flower_playing_cards:):flower\_playing\_cards: - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
+*   [Chocolate Doom (⭐1.8k)](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower\_playing\_cards:
+*   [ClassiCube (⭐1.2k)](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
+*   [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc. :flower\_playing\_cards:
+*   [DoomRetro (⭐625)](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC. :flower\_playing\_cards:
+*   [Doomsday Engine (⭐259)](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen. :flower\_playing\_cards:
 *   [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
 *   [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
 *   [ezQuake (⭐263)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
-*   [FreeCS](https://sourceforge.net/projects/freecs-1-5/):flower\_playing\_cards: - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine.
-*   [Freedoom (⭐990)](https://github.com/freedoom/freedoom):flower\_playing\_cards: - Free software FPS based on the classic DOOM engine.
+*   [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower\_playing\_cards:
+*   [Freedoom (⭐990)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine. :flower\_playing\_cards:
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
-*   [GZDoom (⭐2.2k)](https://github.com/coelckers/gzdoom):flower\_playing\_cards: - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
+*   [GZDoom (⭐2.2k)](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower\_playing\_cards:
 *   [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 *   [ioquake3 (⭐2.3k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 *   [NBlood (⭐572)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
-*   [Odamex (⭐166)](https://github.com/odamex/odamex):flower\_playing\_cards: - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
+*   [Odamex (⭐166)](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower\_playing\_cards:
 *   [OpenSpades (⭐1.1k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 *   [RBDOOM-3-BFG (⭐1.4k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 *   [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
 *   [SurrealEngine (⭐402)](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
-*   [The Eternity Engine (⭐217)](https://github.com/team-eternity/eternity):flower\_playing\_cards: - Advanced DOOM source port.
+*   [The Eternity Engine (⭐217)](https://github.com/team-eternity/eternity) - Advanced DOOM source port. :flower\_playing\_cards:
 *   [The Force Engine (⭐928)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 *   [Tyrquake (⭐39)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 *   [Yamagi Quake II (⭐826)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
-*   [Zandronum](https://zandronum.com/):flower\_playing\_cards: - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
+*   [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife. :flower\_playing\_cards:
 
 ## Online
 
-*   [2006rebotted (⭐26)](https://github.com/dginovker/2006rebotted):flower\_playing\_cards: - A 2006 RuneScape 2 Emulation Server.
-*   [2004scape](https://2004scape.org):flower\_playing\_cards: - A free & open-source remake of 2004 era RuneScape 2.
-*   [2009scape](https://2009scape.org):flower\_playing\_cards: - A free & open-source remake of 2009 era RuneScape 2.
-*   [FreeSO (⭐797)](https://github.com/riperiperi/FreeSO):flower\_playing\_cards: - Reimplementation of The Sims Online, targetted mainly at mobile devices.
+*   [2006rebotted (⭐26)](https://github.com/dginovker/2006rebotted) - A 2006 RuneScape 2 Emulation Server. :flower\_playing\_cards:
+*   [2004scape](https://2004scape.org) - A free & open-source remake of 2004 era RuneScape 2. :flower\_playing\_cards:
+*   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower\_playing\_cards:
+*   [FreeSO (⭐797)](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower\_playing\_cards:
 *   [Meridian 59 (⭐386)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
-*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2):flower\_playing\_cards: - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
+*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine. :flower\_playing\_cards:
 *   [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
-*   [OpenRSC](https://gitlab.com/open-runescape-classic/core):flower\_playing\_cards: - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos.
-*   [RSC-C (⭐62)](https://github.com/2003scape/rsc-c):flower\_playing\_cards: - Rewrite of the RuneScape Classic (2001-2003) game client in portable C.
-*   [RuneLite (⭐4.6k)](https://github.com/runelite/runelite):flower\_playing\_cards: - Open source Old School RuneScape (OSRS) client.
-*   [Ryzom Core (⭐326)](https://github.com/ryzom/ryzomcore):flower\_playing\_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [OpenRSC](https://gitlab.com/open-runescape-classic/core) - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos. :flower\_playing\_cards:
+*   [RSC-C (⭐62)](https://github.com/2003scape/rsc-c) - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower\_playing\_cards:
+*   [RuneLite (⭐4.6k)](https://github.com/runelite/runelite) - Open source Old School RuneScape (OSRS) client. :flower\_playing\_cards:
+*   [Ryzom Core (⭐326)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 *   [Space Station 14 (⭐2k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## RPG
@@ -146,14 +146,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Platformer
 
 *   [Alive Reversing (⭐308)](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
-*   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius):flower\_playing\_cards: - Modern Interpreter for the Commander Keen Games.
+*   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games. :flower\_playing\_cards:
 *   [Jazz² Resurrection (⭐472)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
 *   [Lionheart Remake (⭐78)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
 *   [NXEngine-evo (⭐472)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
 *   [Omnispeak (⭐287)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 *   [Prince-Monogame (⭐39)](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
 *   [SDLPoP (⭐1.1k)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
-*   [The Secret Chronicles of Dr. M (⭐203)](https://github.com/secretchronicles/TSC):flower\_playing\_cards: - Adaptation of Secret Mario Chronicles.
+*   [The Secret Chronicles of Dr. M (⭐203)](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles. :flower\_playing\_cards:
 *   [VVVVV (⭐6.9k)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ## Racing
@@ -163,7 +163,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [OpenNFS (⭐520)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 *   [Vangers (⭐651)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 *   [Vange-rs (⭐409)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
-*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite):flower\_playing\_cards: - This is a re-implementation of the 1995 PSX game wipEout.
+*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
 
 ## Simulator
 
@@ -174,6 +174,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Strategy
 
+*   [Ancient Beast (⭐1.6k)](https://github.com/FreezingMoon/AncientBeast) - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.
 *   [Antares (⭐100)](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
 *   [CivOne (⭐241)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
 *   [CorsixTH (⭐3.9k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
@@ -191,14 +192,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [openblack (⭐838)](https://github.com/openblack/openblack) - Reimplementation of Black & White.
 *   [OpenDUNE (⭐1.6k)](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
 *   [Open Fodder (⭐442)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
-*   [OpenHV (⭐801)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐801)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 *   [OpenLoco (⭐1.2k)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
-*   [Open Panzer (⭐153)](https://github.com/nicupavel/openpanzer):flower\_playing\_cards: - HTML5 Panzer General 2.
+*   [Open Panzer (⭐153)](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2. :flower\_playing\_cards:
 *   [OpenRA (⭐14k)](https://github.com/OpenRA/OpenRA) - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
 *   [OpenRCT2 (⭐13k)](https://github.com/OpenRCT2/OpenRCT2) - Recreation of RollerCoaster Tycoon 2.
 *   [OpenSAGE (⭐1.3k)](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 *   [OpenSC2K (⭐4.9k)](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
-*   [OpenTTD (⭐5.9k)](https://github.com/OpenTTD/OpenTTD):flower\_playing\_cards: - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
+*   [OpenTTD (⭐5.9k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
 *   [OpenXcom (⭐1.8k)](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
 *   [OutpostHD (⭐101)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
@@ -209,6 +210,6 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [VanillaConquer (⭐324)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 *   [VCMI (⭐4k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 *   [Wargus (⭐343)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
-*   [Warzone 2100 (⭐3.1k)](https://github.com/Warzone2100/warzone2100):flower\_playing\_cards: - Free and open-source real time strategy game.
+*   [Warzone 2100 (⭐3.1k)](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game. :flower\_playing\_cards:
 *   [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 

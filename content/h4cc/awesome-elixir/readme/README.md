@@ -52,7 +52,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     *   [Feature Flags and Toggles](#feature-flags-and-toggles)
     *   [Feeds](#feeds)
     *   [Files and Directories](#files-and-directories)
-    *   [Formulars](#formulars)
+    *   [Forms](#forms)
     *   [Framework Components](#framework-components)
     *   [Frameworks](#frameworks)
     *   [Games](#games)
@@ -194,7 +194,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [qcomplex (⭐5)](https://github.com/q60/complex) - Elixir library implementing complex numbers and math operations for them.
 *   [qex (⭐30)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 *   [qrational (⭐7)](https://github.com/q60/rational) - Elixir library implementing rational numbers and math operations for them.
-*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 *   [red\_black\_tree (⭐38)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 *   [remodel (⭐142)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 *   [rendezvous (⭐9)](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
@@ -588,7 +588,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [extrace (⭐49)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 *   [git\_hooks (⭐151)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 *   [inspector (⭐15)](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience.
-*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
+*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
 *   [quaff (⭐82)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 *   [rexbug (⭐239)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 *   [visualixir (⭐1.3k)](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
@@ -717,7 +717,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [lolcat (⭐6)](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 *   [magnetissimo (⭐3k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 *   [oop (⭐303)](https://github.com/wojtekmach/oop) - OOP in Elixir.
-*   [phoenix-chat-example (⭐736)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+*   [phoenix-chat-example (⭐736)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
 *   [phoenix-ecto-encryption-example (⭐270)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 *   [phoenix-flux-react (⭐160)](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 *   [phoenix-liveview-counter-tutorial (⭐349)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
@@ -772,9 +772,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [waffle (⭐696)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 *   [zarex (⭐26)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
-## Formulars
+## Forms
 
-*Handling web formulars and similar stuff.*
+*Handling web forms and similar stuff.*
 
 *   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
@@ -1435,6 +1435,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [flume (⭐74)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 *   [gen\_rmq (⭐181)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 *   [heapq (⭐8)](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
+*   [honeycomb (⭐18)](https://github.com/Hentioe/honeycomb) - Another scheduling system, focusing on the collection of results for one-time tasks.
 *   [honeydew (⭐716)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 *   [hulaaki (⭐115)](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
 *   [kaffe (⭐149)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
@@ -1465,6 +1466,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [changex (⭐47)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 *   [distillery (⭐3k)](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 *   [eliver (⭐56)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [expublish (⭐21)](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages.
 *   [exrm (⭐925)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 *   [exrm\_deb (⭐74)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 *   [exrm\_heroku (⭐45)](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
