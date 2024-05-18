@@ -30,7 +30,7 @@ Table of contents:
     *   [Official Resources](#official-resources)
     *   [Community](#community)
     *   [Newsletters](#newsletters)
-    *   [Twitter](#twitter)
+    *   [X](#X)
         *   [angular-team](#angular-team)
         *   [experts](#experts)
         *   [google-developer-experts](#google-developer-experts)
@@ -54,6 +54,7 @@ Table of contents:
     *   [Animations](#animations)
     *   [Calendars](#calendars)
     *   [Carousels](#carousels)
+    *   [Dates](#dates)
     *   [Charts](#charts)
     *   [DOM](#dom)
     *   [Drag/Drop](#drag/drop)
@@ -110,10 +111,10 @@ Table of contents:
 
 #### Community
 
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
+*   [`#angular`](https://x.com/hashtag/angular) hashtag on X.
 *   [Gitter Channel](https://gitter.im/angular/angular)
 *   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
-*   [@Angular on Twitter](https://twitter.com/angular)
+*   [@Angular on X](https://x.com/angular)
 *   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 *   [AngularAir](https://angularair.com/) podcast and live broadcast.
 *   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
@@ -124,7 +125,7 @@ Table of contents:
 *   [angular-logos (⭐77)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 *   [madewithangular (⭐79)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 *   [angular.love](https://angular.love/) - Polish community for Angular fans.
-*   [angular hub (⭐33)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+*   [angular hub (⭐39)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 #### Newsletters
 
@@ -135,82 +136,82 @@ Table of contents:
 *   [danywalls](https://www.danywalls.com/newsletter)
 *   [ultimate courses](https://ultimatecourses.com/newsletter)
 
-#### Twitter
+#### X
 
 ##### Angular Team
 
-*   [Minko Gechev](https://twitter.com/mgechev)
-*   [Alan Agius](https://twitter.com/AlanAgius4)
-*   [Matthieu Riegler](https://twitter.com/jean__meche)
-*   [Alex Rickabaugh](https://twitter.com/synalx)
-*   [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
-*   [Paul Gschwendtner](https://twitter.com/devversion)
-*   [Joost Koehoorn](https://twitter.com/devjoost)
-*   [Simona Cotin](https://twitter.com/simona_cotin)
+*   [Minko Gechev](https://x.com/mgechev)
+*   [Alan Agius](https://x.com/AlanAgius4)
+*   [Matthieu Riegler](https://x.com/jean__meche)
+*   [Alex Rickabaugh](https://x.com/synalx)
+*   [Kristiyan Kostadinov](https://x.com/_crisbeto)
+*   [Paul Gschwendtner](https://x.com/devversion)
+*   [Joost Koehoorn](https://x.com/devjoost)
+*   [Simona Cotin](https://x.com/simona_cotin)
 *   [Jessica Janiuk](https://mastodon.social/@jessicajaniuk)
 *   [Doug Parker](https://mastodon.social/@develwithoutacause@techhub.social)
-*   [Emma Twersky](https://twitter.com/twerske)
-*   [Mark Thompson](https://twitter.com/marktechson)
-*   [Pawel Kozlowski](https://twitter.com/pkozlowski_os)
-*   [Dylan Hunn](https://twitter.com/dylhunn)
+*   [Emma Twersky](https://x.com/twerske)
+*   [Mark Thompson](https://x.com/marktechson)
+*   [Pawel Kozlowski](https://x.com/pkozlowski_os)
+*   [Dylan Hunn](https://x.com/dylhunn)
 
 ##### Experts
 
-> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
+> List of Angular experts you should follow on X (in no particular order). This list is by no means complete.
 
-*   [@PatrickJS\_\_](https://twitter.com/PatrickJS__)
-*   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
-*   [@eggheadio](https://twitter.com/eggheadio)
-*   [@hirez\_io](https://twitter.com/hirez_io)
-*   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
-*   [@victorsavkin](https://twitter.com/victorsavkin)
-*   [@jeffbcross](https://twitter.com/jeffbcross)
-*   [@waterplea](https://twitter.com/waterplea)
-*   [@marsibarsi](https://twitter.com/marsibarsi)
-*   [@maciejtreder](https://twitter.com/maciejtreder)
-*   [@maartentibau](https://twitter.com/maartentibau)
+*   [@PatrickJS\_\_](https://x.com/PatrickJS__)
+*   [@pkozlowski\_os](https://x.com/pkozlowski_os)
+*   [@eggheadio](https://x.com/eggheadio)
+*   [@hirez\_io](https://x.com/hirez_io)
+*   [@cedric\_exbrayat](https://x.com/cedric_exbrayat)
+*   [@victorsavkin](https://x.com/victorsavkin)
+*   [@jeffbcross](https://x.com/jeffbcross)
+*   [@waterplea](https://x.com/waterplea)
+*   [@marsibarsi](https://x.com/marsibarsi)
+*   [@maciejtreder](https://x.com/maciejtreder)
+*   [@maartentibau](https://x.com/maartentibau)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Jack Franklin](https://twitter.com/jack_franklin)
-*   [Thierry Chatel](https://twitter.com/ThierryChatel)
-*   [Uri Shaked](https://twitter.com/urishaked)
-*   [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
-*   [Sharon DiOrio](https://twitter.com/sharondio)
-*   [John Papa](https://twitter.com/John_Papa)
-*   [Dan Wahlin](https://twitter.com/danwahlin)
-*   [Christian Weyer](https://twitter.com/christianweyer)
-*   [Todd Motto](https://twitter.com/toddmotto)
-*   [Tim Ruffles](https://twitter.com/timruffles)
-*   [Wassim Chegham](https://twitter.com/manekinekko)
-*   [Aaron Frost](https://twitter.com/js_dev)
-*   [Wilson Mendes](https://twitter.com/willmendesneto)
-*   [Jared Williams](https://twitter.com/jaredwilli)
-*   [Gerard Sans](https://twitter.com/gerardsans)
-*   [Pascal Precht](https://twitter.com/PascalPrecht)
-*   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
-*   [Raúl Jiménez](https://twitter.com/elecash/)
-*   [Maxim Salnikov](https://twitter.com/webmaxru)
-*   [Deborah Kurata](https://twitter.com/deborahkurata)
-*   [Shai Reznik](https://twitter.com/shai_reznik)
-*   [Manfred Steyer](https://twitter.com/manfredsteyer)
-*   [Juri Strumpflohner](https://twitter.com/juristr)
-*   [William Grasel](https://twitter.com/willgmbr)
-*   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
-*   [Nir kaufman](https://twitter.com/nirkaufman)
-*   [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
-*   [Jeff Delaney](https://twitter.com/jeffdelaney23)
-*   [Nishu Goel](https://twitter.com/TheNishuGoel)
-*   [Alex Inkin](https://twitter.com/waterplea)
-*   [Santosh Yadav](https://twitter.com/SantoshYadavDev)
-*   [Ankit](https://twitter.com/ankitsharma_007)
-*   [Siddharth Ajmera](https://twitter.com/SiddAjmera)
-*   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
-*   [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend)
-*   [Michael Hladky](https://twitter.com/Michael_Hladky)
-*   [Fabio Biondi](https://github.com/fabiobiondi)
-*   [Thomas Laforge](https://twitter.com/laforge_toma)
-*   [codewith\_ahsan](https://twitter.com/codewith_ahsan)
+*   [Jack Franklin](https://x.com/jack_franklin)
+*   [Thierry Chatel](https://x.com/ThierryChatel)
+*   [Uri Shaked](https://x.com/urishaked)
+*   [Gonzalo Ruiz de Villa Suárez](https://x.com/gruizdevilla)
+*   [Sharon DiOrio](https://x.com/sharondio)
+*   [John Papa](https://x.com/John_Papa)
+*   [Dan Wahlin](https://x.com/danwahlin)
+*   [Christian Weyer](https://x.com/christianweyer)
+*   [Todd Motto](https://x.com/toddmotto)
+*   [Tim Ruffles](https://x.com/timruffles)
+*   [Wassim Chegham](https://x.com/manekinekko)
+*   [Aaron Frost](https://x.com/js_dev)
+*   [Wilson Mendes](https://x.com/willmendesneto)
+*   [Jared Williams](https://x.com/jaredwilli)
+*   [Gerard Sans](https://x.com/gerardsans)
+*   [Pascal Precht](https://x.com/PascalPrecht)
+*   [Jeff Whelpley](https://x.com/jeffwhelpley/)
+*   [Raúl Jiménez](https://x.com/elecash/)
+*   [Maxim Salnikov](https://x.com/webmaxru)
+*   [Deborah Kurata](https://x.com/deborahkurata)
+*   [Shai Reznik](https://x.com/shai_reznik)
+*   [Manfred Steyer](https://x.com/manfredsteyer)
+*   [Juri Strumpflohner](https://x.com/juristr)
+*   [William Grasel](https://x.com/willgmbr)
+*   [Alyssa Nicoll](https://x.com/AlyssaNicoll)
+*   [Nir kaufman](https://x.com/nirkaufman)
+*   [Dmitriy Shekhovtsov](https://x.com/valorkin)
+*   [Jeff Delaney](https://x.com/jeffdelaney23)
+*   [Nishu Goel](https://x.com/TheNishuGoel)
+*   [Alex Inkin](https://x.com/waterplea)
+*   [Santosh Yadav](https://x.com/SantoshYadavDev)
+*   [Ankit](https://x.com/ankitsharma_007)
+*   [Siddharth Ajmera](https://x.com/SiddAjmera)
+*   [Muhammad Ahsan Ayaz](https://x.com/codewith_ahsan)
+*   [Dmytro Mezhenskyi](https://x.com/DecodedFrontend)
+*   [Michael Hladky](https://x.com/Michael_Hladky)
+*   [Fabio Biondi](https://x.com/biondifabio)
+*   [Thomas Laforge](https://x.com/laforge_toma)
+*   [codewith\_ahsan](https://x.com/codewith_ahsan)
 
 #### Blogs
 
@@ -485,7 +486,7 @@ Table of contents:
 
 *   [ng2-charts (⭐2.3k)](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
 *   [ngx-charts (⭐4.3k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
-*   [ng-apexcharts (⭐297)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐301)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 *   [ng-chartist (⭐125)](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js.
 *   [org-chart (⭐788)](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 *   [ag-charts (⭐108)](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
@@ -493,6 +494,20 @@ Table of contents:
 *   [ngx-gantt (⭐216)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 *   [carbon-charts (⭐866)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 *   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
+
+#### Dates
+
+*   [ngx-date-fns (⭐162)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+*   [luxon-angular (⭐26)](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
+*   [angular-globalize (⭐1)](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
+*   [ngx-mat-timepicker (⭐104)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+*   [angular-bootstrap-datetimepicker (⭐1.3k)](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
+*   [ngx-datetime-range-picker (⭐25)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+*   [mat-datetimepicker (⭐148)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+*   [angular-datepicker (⭐487)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+*   [ngx-daterangepicker-material (⭐244)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+*   [ngx-multiple-dates (⭐10)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+*   [ng-datetime (⭐0)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 
 #### DOM
 
@@ -539,7 +554,7 @@ Table of contents:
 #### Form Controls
 
 *   [ngx-emoji-mart (⭐439)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
-*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 *   [ngx-colors (⭐78)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
 *   [ngx-color-picker (⭐442)](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
 *   [angular-colorful (⭐9)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
@@ -555,7 +570,7 @@ Table of contents:
 *   [ngx-formly (⭐2.7k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
 *   [formio (⭐612)](https://github.com/formio/angular) - JSON powered forms for Angular.
 *   [ng-dynamic-forms (⭐1.3k)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-*   [reactive-forms (⭐609)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
@@ -565,7 +580,7 @@ Table of contents:
 *   [ng-icons (⭐299)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
 *   [primeicons (⭐236)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 *   [angular-svg-icon (⭐238)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
-*   [svg-icon (⭐251)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+*   [svg-icon (⭐252)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 #### Keyboard Mouse
 
@@ -624,7 +639,7 @@ Table of contents:
 #### Modals
 
 *   [ngx-awesome-popup (⭐72)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
-*   [dialog (⭐371)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+*   [dialog (⭐372)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 *   [ngx-modal-ease (⭐10)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 *   [ngx-smart-modal (⭐320)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
@@ -754,7 +769,7 @@ Table of contents:
 *   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 *   [rx-computed (⭐228)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 *   [microwave (⭐228)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-*   [edit-in-place (⭐254)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+*   [edit-in-place (⭐256)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 *   [falso (⭐3.1k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 *   [helipopper (⭐392)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 *   [popover (⭐227)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
@@ -819,7 +834,7 @@ Table of contents:
 
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
 *   [ng-http-caching (⭐43)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
-*   [cashew (⭐671)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+*   [cashew (⭐672)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 *   [convoyr (⭐41)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 *   [angular-http-cache-interceptor (⭐4)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 *   [apollo-angular (⭐1.5k)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
@@ -883,7 +898,7 @@ Table of contents:
 
 #### SEO
 
-*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 *   [ngaox](https://www.npmjs.com/package/@ngaox/seo) - Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More.
 *   [ngx-seo (⭐11)](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
 *   [seo-analyzer (⭐69)](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
@@ -921,7 +936,7 @@ Table of contents:
 
 ***
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
+enjoy — [**PatrickJS**](https://x.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ***
 

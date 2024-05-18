@@ -6,72 +6,31 @@
 
 
 
-## [1. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### Schema / Diagrams
+
+*   [DrawDB (⭐11k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
+## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [Syndicationd (⭐54)](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ymgyt/syndicationd)
     ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
 
-## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
 *   [Qubes OS 4.2.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.1 download.
 *   [Qubes OS 4.2.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
 
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Configuration
 
 *   [XDT Transform playground)](https://akarzazi.github.io/xdt-playground) - A playground IDE for you to play/test XDT Transformation of .NET config wiles.
-
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐175)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [5. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -658,6 +617,82 @@
 
 ## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
+### Community
+
+*   [`#angular`](https://x.com/hashtag/angular) hashtag on X.
+*   [@Angular on X](https://x.com/angular)
+
+### X / Angular Team
+
+*   [Minko Gechev](https://x.com/mgechev)
+*   [Alan Agius](https://x.com/AlanAgius4)
+*   [Matthieu Riegler](https://x.com/jean__meche)
+*   [Alex Rickabaugh](https://x.com/synalx)
+*   [Kristiyan Kostadinov](https://x.com/_crisbeto)
+*   [Paul Gschwendtner](https://x.com/devversion)
+*   [Joost Koehoorn](https://x.com/devjoost)
+*   [Simona Cotin](https://x.com/simona_cotin)
+*   [Emma Twersky](https://x.com/twerske)
+*   [Mark Thompson](https://x.com/marktechson)
+*   [Pawel Kozlowski](https://x.com/pkozlowski_os)
+*   [Dylan Hunn](https://x.com/dylhunn)
+
+### X / Experts
+
+*   [@PatrickJS\_\_](https://x.com/PatrickJS__)
+*   [@pkozlowski\_os](https://x.com/pkozlowski_os)
+*   [@eggheadio](https://x.com/eggheadio)
+*   [@hirez\_io](https://x.com/hirez_io)
+*   [@cedric\_exbrayat](https://x.com/cedric_exbrayat)
+*   [@victorsavkin](https://x.com/victorsavkin)
+*   [@jeffbcross](https://x.com/jeffbcross)
+*   [@waterplea](https://x.com/waterplea)
+*   [@marsibarsi](https://x.com/marsibarsi)
+*   [@maciejtreder](https://x.com/maciejtreder)
+*   [@maartentibau](https://x.com/maartentibau)
+
+### X / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jack Franklin](https://x.com/jack_franklin)
+*   [Thierry Chatel](https://x.com/ThierryChatel)
+*   [Uri Shaked](https://x.com/urishaked)
+*   [Gonzalo Ruiz de Villa Suárez](https://x.com/gruizdevilla)
+*   [Sharon DiOrio](https://x.com/sharondio)
+*   [John Papa](https://x.com/John_Papa)
+*   [Dan Wahlin](https://x.com/danwahlin)
+*   [Christian Weyer](https://x.com/christianweyer)
+*   [Todd Motto](https://x.com/toddmotto)
+*   [Tim Ruffles](https://x.com/timruffles)
+*   [Wassim Chegham](https://x.com/manekinekko)
+*   [Aaron Frost](https://x.com/js_dev)
+*   [Wilson Mendes](https://x.com/willmendesneto)
+*   [Jared Williams](https://x.com/jaredwilli)
+*   [Gerard Sans](https://x.com/gerardsans)
+*   [Pascal Precht](https://x.com/PascalPrecht)
+*   [Jeff Whelpley](https://x.com/jeffwhelpley/)
+*   [Raúl Jiménez](https://x.com/elecash/)
+*   [Maxim Salnikov](https://x.com/webmaxru)
+*   [Deborah Kurata](https://x.com/deborahkurata)
+*   [Shai Reznik](https://x.com/shai_reznik)
+*   [Manfred Steyer](https://x.com/manfredsteyer)
+*   [Juri Strumpflohner](https://x.com/juristr)
+*   [William Grasel](https://x.com/willgmbr)
+*   [Alyssa Nicoll](https://x.com/AlyssaNicoll)
+*   [Nir kaufman](https://x.com/nirkaufman)
+*   [Dmitriy Shekhovtsov](https://x.com/valorkin)
+*   [Jeff Delaney](https://x.com/jeffdelaney23)
+*   [Nishu Goel](https://x.com/TheNishuGoel)
+*   [Alex Inkin](https://x.com/waterplea)
+*   [Santosh Yadav](https://x.com/SantoshYadavDev)
+*   [Ankit](https://x.com/ankitsharma_007)
+*   [Siddharth Ajmera](https://x.com/SiddAjmera)
+*   [Muhammad Ahsan Ayaz](https://x.com/codewith_ahsan)
+*   [Dmytro Mezhenskyi](https://x.com/DecodedFrontend)
+*   [Michael Hladky](https://x.com/Michael_Hladky)
+*   [Fabio Biondi](https://x.com/biondifabio)
+*   [Thomas Laforge](https://x.com/laforge_toma)
+*   [codewith\_ahsan](https://x.com/codewith_ahsan)
+
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
@@ -670,6 +705,20 @@
 
 *   [angular-cli-diff (⭐320)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 *   [mantis-cli (⭐60)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
+
+### Dates / Testing
+
+*   [ngx-date-fns (⭐162)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+*   [luxon-angular (⭐26)](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
+*   [angular-globalize (⭐1)](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
+*   [ngx-mat-timepicker (⭐104)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+*   [angular-bootstrap-datetimepicker (⭐1.3k)](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
+*   [ngx-datetime-range-picker (⭐25)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+*   [mat-datetimepicker (⭐148)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+*   [angular-datepicker (⭐487)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+*   [ngx-daterangepicker-material (⭐244)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+*   [ngx-multiple-dates (⭐10)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+*   [ng-datetime (⭐0)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 
 ### DOM / Testing
 
@@ -705,7 +754,10 @@
 *   [explain-shell (brokentoaster) (⭐0)](https://github.com/brokentoaster/zsh-explainshell) - Uses [lynx](https://lynx.browser.org/) to look up the current command line on [explainshell.com](https://explainshell.com).
 *   [explain-shell (gmatheu) (⭐25)](https://github.com/gmatheu/shell-plugins) - Opens commands on [explainshell.com](https://explainshell.com).
 *   [fixnumpad-osx (⭐3)](https://github.com/zackintosh/fixnumpad-osx.plugin.zsh) - Enables numpad keys of Apple keyboards to be recognized in ZSH.
+*   [fzf-plugin (atlas34) (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
+*   [fzf-plugin (hwk929) (⭐0)](https://github.com/hwk929/zsh-fzf) - [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [goenv (cda0) (⭐1)](https://github.com/CDA0/zsh-goenv/) - Plugin for installing, updating and loading `goenv`.
+*   [hist-delete (⭐0)](https://github.com/p1r473/zsh-hist-delete-fzf/) - Delete history items from zsh's [fzf (⭐60k)](https://github.com/junegunn/fzf) Ctrl+R history search.
 *   [ollama (⭐0)](https://github.com/plutowang/zsh-ollama-command) - Integrates the OLLAMA AI model with [fzf (⭐60k)](https://github.com/junegunn/fzf) to provide intelligent command suggestions based on user input requirements.
 *   [raspberryPi4Temperature (⭐0)](https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin) - Puts the Raspberry Pi temperature into a spaceship prompt segment
 *   [ros2-env (⭐0)](https://github.com/Butakus/ros2-env) - Manage [ROS 2](https://github.com/ros2) environment and workspaces.
@@ -717,6 +769,8 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [candy-fantasy (⭐0)](https://github.com/fffelix-huang/candy-fantasy) - Modified version of [Candy Kingdowm (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/candy-kingdom.zsh-theme)theme.
+*   [cezhanne (⭐0)](https://github.com/gambardellawill/cezshanne) - Minimalist ZSH theme with `git` status decorators. Requires a [Nerd Font](https://www.nerdfonts.com).
+*   [get-to-work (⭐0)](https://github.com/Diogo13Antunes/Get_To_Work) - Minimalistic design, includes decorators for `git` status, virtual environment and the time.
 
 ---
 

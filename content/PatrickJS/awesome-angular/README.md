@@ -6,6 +6,98 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 18, 2024](/content/2024/05/18/README.md)
+
+### Community
+
+*   [`#angular`](https://x.com/hashtag/angular) hashtag on X.
+*   [@Angular on X](https://x.com/angular)
+
+### X / Angular Team
+
+*   [Minko Gechev](https://x.com/mgechev)
+*   [Alan Agius](https://x.com/AlanAgius4)
+*   [Matthieu Riegler](https://x.com/jean__meche)
+*   [Alex Rickabaugh](https://x.com/synalx)
+*   [Kristiyan Kostadinov](https://x.com/_crisbeto)
+*   [Paul Gschwendtner](https://x.com/devversion)
+*   [Joost Koehoorn](https://x.com/devjoost)
+*   [Simona Cotin](https://x.com/simona_cotin)
+*   [Emma Twersky](https://x.com/twerske)
+*   [Mark Thompson](https://x.com/marktechson)
+*   [Pawel Kozlowski](https://x.com/pkozlowski_os)
+*   [Dylan Hunn](https://x.com/dylhunn)
+
+### X / Experts
+
+*   [@PatrickJS\_\_](https://x.com/PatrickJS__)
+*   [@pkozlowski\_os](https://x.com/pkozlowski_os)
+*   [@eggheadio](https://x.com/eggheadio)
+*   [@hirez\_io](https://x.com/hirez_io)
+*   [@cedric\_exbrayat](https://x.com/cedric_exbrayat)
+*   [@victorsavkin](https://x.com/victorsavkin)
+*   [@jeffbcross](https://x.com/jeffbcross)
+*   [@waterplea](https://x.com/waterplea)
+*   [@marsibarsi](https://x.com/marsibarsi)
+*   [@maciejtreder](https://x.com/maciejtreder)
+*   [@maartentibau](https://x.com/maartentibau)
+
+### X / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jack Franklin](https://x.com/jack_franklin)
+*   [Thierry Chatel](https://x.com/ThierryChatel)
+*   [Uri Shaked](https://x.com/urishaked)
+*   [Gonzalo Ruiz de Villa Suárez](https://x.com/gruizdevilla)
+*   [Sharon DiOrio](https://x.com/sharondio)
+*   [John Papa](https://x.com/John_Papa)
+*   [Dan Wahlin](https://x.com/danwahlin)
+*   [Christian Weyer](https://x.com/christianweyer)
+*   [Todd Motto](https://x.com/toddmotto)
+*   [Tim Ruffles](https://x.com/timruffles)
+*   [Wassim Chegham](https://x.com/manekinekko)
+*   [Aaron Frost](https://x.com/js_dev)
+*   [Wilson Mendes](https://x.com/willmendesneto)
+*   [Jared Williams](https://x.com/jaredwilli)
+*   [Gerard Sans](https://x.com/gerardsans)
+*   [Pascal Precht](https://x.com/PascalPrecht)
+*   [Jeff Whelpley](https://x.com/jeffwhelpley/)
+*   [Raúl Jiménez](https://x.com/elecash/)
+*   [Maxim Salnikov](https://x.com/webmaxru)
+*   [Deborah Kurata](https://x.com/deborahkurata)
+*   [Shai Reznik](https://x.com/shai_reznik)
+*   [Manfred Steyer](https://x.com/manfredsteyer)
+*   [Juri Strumpflohner](https://x.com/juristr)
+*   [William Grasel](https://x.com/willgmbr)
+*   [Alyssa Nicoll](https://x.com/AlyssaNicoll)
+*   [Nir kaufman](https://x.com/nirkaufman)
+*   [Dmitriy Shekhovtsov](https://x.com/valorkin)
+*   [Jeff Delaney](https://x.com/jeffdelaney23)
+*   [Nishu Goel](https://x.com/TheNishuGoel)
+*   [Alex Inkin](https://x.com/waterplea)
+*   [Santosh Yadav](https://x.com/SantoshYadavDev)
+*   [Ankit](https://x.com/ankitsharma_007)
+*   [Siddharth Ajmera](https://x.com/SiddAjmera)
+*   [Muhammad Ahsan Ayaz](https://x.com/codewith_ahsan)
+*   [Dmytro Mezhenskyi](https://x.com/DecodedFrontend)
+*   [Michael Hladky](https://x.com/Michael_Hladky)
+*   [Fabio Biondi](https://x.com/biondifabio)
+*   [Thomas Laforge](https://x.com/laforge_toma)
+*   [codewith\_ahsan](https://x.com/codewith_ahsan)
+
+### Dates / Testing
+
+*   [ngx-date-fns (⭐162)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+*   [luxon-angular (⭐26)](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
+*   [angular-globalize (⭐1)](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
+*   [ngx-mat-timepicker (⭐104)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+*   [angular-bootstrap-datetimepicker (⭐1.3k)](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
+*   [ngx-datetime-range-picker (⭐25)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+*   [mat-datetimepicker (⭐148)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+*   [angular-datepicker (⭐487)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+*   [ngx-daterangepicker-material (⭐244)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+*   [ngx-multiple-dates (⭐10)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+*   [ng-datetime (⭐0)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
+
 ## [May 16, 2024](/content/2024/05/16/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -135,14 +227,10 @@
 
 ## [May 08, 2024](/content/2024/05/08/README.md)
 
-### Twitter / Angular Team
+### X / Angular Team
 
 *   [Jessica Janiuk](https://mastodon.social/@jessicajaniuk)
 *   [Doug Parker](https://mastodon.social/@develwithoutacause@techhub.social)
-*   [Emma Twersky](https://twitter.com/twerske)
-*   [Mark Thompson](https://twitter.com/marktechson)
-*   [Pawel Kozlowski](https://twitter.com/pkozlowski_os)
-*   [Dylan Hunn](https://twitter.com/dylhunn)
 
 ## [May 06, 2024](/content/2024/05/06/README.md)
 
@@ -249,7 +337,7 @@
 
 ### Community
 
-*   [angular hub (⭐33)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+*   [angular hub (⭐39)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 ### Charts / Testing
 
@@ -257,11 +345,11 @@
 
 ### Form Controls / Testing
 
-*   [reactive-forms (⭐609)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 ### Icons / Testing
 
-*   [svg-icon (⭐251)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+*   [svg-icon (⭐252)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 ### Keyboard Mouse / Testing
 
@@ -277,11 +365,11 @@
 
 ### Modals / Testing
 
-*   [dialog (⭐371)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+*   [dialog (⭐372)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 
 ### Misc Components / Node Based
 
-*   [edit-in-place (⭐254)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+*   [edit-in-place (⭐256)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 *   [falso (⭐3.1k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 *   [helipopper (⭐392)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
@@ -292,7 +380,7 @@
 
 ### HTTP / Node Based
 
-*   [cashew (⭐671)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+*   [cashew (⭐672)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 
 ## [May 01, 2024](/content/2024/05/01/README.md)
 
@@ -377,10 +465,6 @@
 
 *   [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular.
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [codewith\_ahsan](https://twitter.com/codewith_ahsan)
-
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
@@ -450,19 +534,6 @@
 *   [rxjs-challenge (⭐559)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
 ## [Apr 24, 2024](/content/2024/04/24/README.md)
-
-### Twitter / Angular Team
-
-*   [Matthieu Riegler](https://twitter.com/jean__meche)
-*   [Alex Rickabaugh](https://twitter.com/synalx)
-*   [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
-*   [Paul Gschwendtner](https://twitter.com/devversion)
-*   [Joost Koehoorn](https://twitter.com/devjoost)
-*   [Simona Cotin](https://twitter.com/simona_cotin)
-
-### Twitter / Experts
-
-*   [@maartentibau](https://twitter.com/maartentibau)
 
 ### Online Training / Testing
 
@@ -832,19 +903,13 @@
 
 ### Charts / Testing
 
-*   [ng-apexcharts (⭐297)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐301)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 
 ### SEO / Node Based
 
-*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
-
-## [Mar 30, 2024](/content/2024/03/30/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Thomas Laforge](https://twitter.com/laforge_toma)
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
@@ -881,12 +946,6 @@
 *   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 *   [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 
-## [Oct 19, 2023](/content/2023/10/19/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Fabio Biondi](https://github.com/fabiobiondi)
-
 ## [Oct 11, 2023](/content/2023/10/11/README.md)
 
 ### UI Libraries / Tailwind CSS Based
@@ -899,11 +958,6 @@
 
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend)
-*   [Michael Hladky](https://twitter.com/Michael_Hladky)
-
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Developer Roadmap](https://roadmap.sh/angular)
@@ -914,10 +968,6 @@
 
 ## [Aug 22, 2022](/content/2022/08/22/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
-
 ### Books / Testing
 
 *   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
@@ -926,17 +976,7 @@
 
 *   [ngx-focus-control (⭐1)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
 
-## [Apr 15, 2022](/content/2022/04/15/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Nishu Goel](https://twitter.com/TheNishuGoel)
-
 ## [Mar 08, 2022](/content/2022/03/08/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 
 ### Developer tools / Testing
 
@@ -998,12 +1038,6 @@
 
 *   [Threejs (⭐221)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 
-## [Nov 17, 2020](/content/2020/11/17/README.md)
-
-### Twitter / Experts
-
-*   [@maciejtreder](https://twitter.com/maciejtreder)
-
 ## [Oct 23, 2020](/content/2020/10/23/README.md)
 
 ### Developer tools / Testing
@@ -1012,34 +1046,9 @@
 
 ## [Oct 16, 2020](/content/2020/10/16/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ankit](https://twitter.com/ankitsharma_007)
-
 ### Books / Testing
 
 *   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
-
-## [Oct 08, 2020](/content/2020/10/08/README.md)
-
-### Twitter / Experts
-
-*   [@waterplea](https://twitter.com/waterplea)
-*   [@marsibarsi](https://twitter.com/marsibarsi)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Alex Inkin](https://twitter.com/waterplea)
-
-## [Oct 07, 2020](/content/2020/10/07/README.md)
-
-### Twitter / Angular Team
-
-*   [Alan Agius](https://twitter.com/AlanAgius4)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
@@ -1080,7 +1089,7 @@
 
 ### Form Controls / Testing
 
-*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 *   [angular-imask (⭐4.8k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 *   [angular2-multiselect-dropdown (⭐280)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 *   [ng-select (⭐3.2k)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
@@ -1185,59 +1194,17 @@
 
 *   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 
-## [May 25, 2019](/content/2019/05/25/README.md)
-
-### Twitter / Experts
-
-*   [@PatrickJS\_\_](https://twitter.com/PatrickJS__)
-
 ## [May 11, 2019](/content/2019/05/11/README.md)
 
 ### Server-Side Rendering / Node Based
 
 *   [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 
-## [Feb 10, 2019](/content/2019/02/10/README.md)
-
-### Twitter / Angular Team
-
-*   [Minko Gechev](https://twitter.com/mgechev)
-
-## [Feb 08, 2019](/content/2019/02/08/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Jeff Delaney](https://twitter.com/jeffdelaney23)
-
 ## [Nov 18, 2018](/content/2018/11/18/README.md)
 
 ### On-Site Training / Testing
 
 *   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
-
-## [Oct 23, 2018](/content/2018/10/23/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
-
-## [Sep 29, 2018](/content/2018/09/29/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Nir kaufman](https://twitter.com/nirkaufman)
-
-## [Sep 12, 2018](/content/2018/09/12/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
-
-## [Sep 11, 2018](/content/2018/09/11/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [William Grasel](https://twitter.com/willgmbr)
 
 ## [Aug 09, 2018](/content/2018/08/09/README.md)
 
@@ -1252,11 +1219,6 @@
 *   [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 
 ## [Feb 15, 2018](/content/2018/02/15/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Manfred Steyer](https://twitter.com/manfredsteyer)
-*   [Juri Strumpflohner](https://twitter.com/juristr)
 
 ### Books / Testing
 
@@ -1281,10 +1243,6 @@
 *   [Storybook (⭐83k)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use.
 
 ## [Dec 09, 2017](/content/2017/12/09/README.md)
-
-### Community
-
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 
 ### Books / Testing
 
@@ -1313,16 +1271,6 @@
 
 *   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
-## [Nov 15, 2017](/content/2017/11/15/README.md)
-
-### Twitter / Experts
-
-*   [@hirez\_io](https://twitter.com/hirez_io)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Shai Reznik](https://twitter.com/shai_reznik)
-
 ## [Sep 21, 2017](/content/2017/09/21/README.md)
 
 ### Site Templates / Testing
@@ -1346,19 +1294,6 @@
 ### Books / Testing
 
 *   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
-
-## [Apr 04, 2017](/content/2017/04/04/README.md)
-
-### Twitter / Experts
-
-*   [@victorsavkin](https://twitter.com/victorsavkin)
-*   [@jeffbcross](https://twitter.com/jeffbcross)
-
-## [Feb 14, 2017](/content/2017/02/14/README.md)
-
-### Community
-
-*   [@Angular on Twitter](https://twitter.com/angular)
 
 ## [Jan 16, 2017](/content/2017/01/16/README.md)
 
@@ -1384,18 +1319,6 @@
 
 *   [Angular Boot Camp](https://angularbootcamp.com)
 
-## [Nov 04, 2016](/content/2016/11/04/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Deborah Kurata](https://twitter.com/deborahkurata)
-
-## [Sep 23, 2016](/content/2016/09/23/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Maxim Salnikov](https://twitter.com/webmaxru)
-
 ## [May 20, 2016](/content/2016/05/20/README.md)
 
 ### CLI / Testing
@@ -1409,50 +1332,11 @@
 
 *   [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
 
-## [Dec 31, 2015](/content/2015/12/31/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Raúl Jiménez](https://twitter.com/elecash/)
-
 ## [Nov 13, 2015](/content/2015/11/13/README.md)
 
 ### TypeScript / Node Based
 
 *   [DefinitelyTyped Repository (GitHub) (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-
-## [Oct 19, 2015](/content/2015/10/19/README.md)
-
-### Twitter / Experts
-
-*   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
-*   [@eggheadio](https://twitter.com/eggheadio)
-*   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
-
-## [Oct 18, 2015](/content/2015/10/18/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Jack Franklin](https://twitter.com/jack_franklin)
-*   [Thierry Chatel](https://twitter.com/ThierryChatel)
-*   [Uri Shaked](https://twitter.com/urishaked)
-*   [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
-*   [Sharon DiOrio](https://twitter.com/sharondio)
-*   [John Papa](https://twitter.com/John_Papa)
-*   [Dan Wahlin](https://twitter.com/danwahlin)
-*   [Christian Weyer](https://twitter.com/christianweyer)
-*   [Todd Motto](https://twitter.com/toddmotto)
-*   [Tim Ruffles](https://twitter.com/timruffles)
-*   [Wassim Chegham](https://twitter.com/manekinekko)
-*   [Aaron Frost](https://twitter.com/js_dev)
-*   [Wilson Mendes](https://twitter.com/willmendesneto)
-*   [Jared Williams](https://twitter.com/jaredwilli)
-*   [Gerard Sans](https://twitter.com/gerardsans)
-*   [Pascal Precht](https://twitter.com/PascalPrecht)
 
 ## [Oct 07, 2015](/content/2015/10/07/README.md)
 
