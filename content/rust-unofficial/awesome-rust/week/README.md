@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [Pinepods (⭐124)](https://github.com/madeofpendletonwool/PinePods) — A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
 
+### Applications / Database
+
+*   [lancedb (⭐3.1k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] — A serverless, low-latency vector database for AI applications
+
 ### Applications / Task scheduling
 
 *   [tasklet (⭐16)](https://github.com/stav121/tasklet) \[[tasklet](https://crates.io/crates/tasklet)] - A task scheduling library written in Rust ![Build Status](https://img.shields.io/github/actions/workflow/status/stav121/tasklet/rust.yml)
@@ -20,6 +24,14 @@ A curated list of Rust code and resources.
 
 *   [Mobslide (⭐328)](https://github.com/thewh1teagle/mobslide) — Desktop application that turns your smartphone into presentation remote controller.
 *   [Vibe (⭐156)](https://github.com/thewh1teagle/vibe) — Transcribe audio or video in every language on every platform.
+
+### Libraries / Artificial Intelligence
+
+*   [guillaume-be/rust-bert (⭐2.4k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] — Ready-to-use NLP pipelines and language models
+
+### Libraries / Computation
+
+*   [faer-rs (⭐1.6k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] — Linear algebra foundation for Rust
 
 ### Libraries / Data processing
 

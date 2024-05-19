@@ -6,6 +6,20 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 19, 2024](/content/2024/05/19/README.md)
+
+### Applications / Database
+
+*   [lancedb (⭐3.1k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] — A serverless, low-latency vector database for AI applications
+
+### Libraries / Artificial Intelligence
+
+*   [guillaume-be/rust-bert (⭐2.4k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] — Ready-to-use NLP pipelines and language models
+
+### Libraries / Computation
+
+*   [faer-rs (⭐1.6k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] — Linear algebra foundation for Rust
+
 ## [May 18, 2024](/content/2024/05/18/README.md)
 
 ### Applications / Task scheduling

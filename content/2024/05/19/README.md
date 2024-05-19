@@ -1,12 +1,52 @@
 # Awesome List Updates on May 19, 2024
 
-5 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+### System tools / Messaging
+
+*   [weskoerber/mac\_address (⭐0)](https://github.com/weskoerber/mac_address) - A cross-platform library to retrieve the MAC address from your network interfaces without libc.
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Continuous Integration
+
+*   [go-beautiful-html-coverage (⭐3)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
+
+### Embeddable Scripting Languages
+
+*   [Wa/凹语言 (⭐736)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+
+### Security
+
+*   [multikey (⭐3)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Database
+
+*   [lancedb (⭐3.1k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] — A serverless, low-latency vector database for AI applications
+
+### Libraries / Artificial Intelligence
+
+*   [guillaume-be/rust-bert (⭐2.4k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] — Ready-to-use NLP pipelines and language models
+
+### Libraries / Computation
+
+*   [faer-rs (⭐1.6k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] — Linear algebra foundation for Rust
+
+## [4. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+
+### Platforms / Business Process Management
+
+*   [Naologic](https://naologic.com/) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -85,13 +125,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Lowcoder](https://lowcoder.cloud/) - A low-code platform that allows users to build custom software applications with minimal coding
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 
@@ -106,7 +146,7 @@
 
 *   [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -116,7 +156,7 @@
 
 *   [berghain (⭐0)](https://github.com/meshkinyar/berghain.zsh-theme) - Minimalist theme. Includes decorators for the exit code of the last command run and for `git` status.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 

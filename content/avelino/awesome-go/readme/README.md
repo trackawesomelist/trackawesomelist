@@ -60,7 +60,7 @@ We use the *[Golang Bridge (⭐400)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐206k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐207k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -425,7 +425,7 @@ Please take a quick gander at the [contribution guidelines (⭐121k)](https://gi
 *   [go-getoptions (⭐56)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 *   [gocmd (⭐66)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐182)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
-*   [job (⭐141)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+*   [job (⭐142)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 *   [kingpin (⭐3.4k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 *   [liner (⭐1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mcli (⭐25)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
@@ -519,7 +519,7 @@ Please take a quick gander at the [contribution guidelines (⭐121k)](https://gi
 *   [CDS (⭐4.4k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 *   [dot (⭐13)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
 *   [drone (⭐32k)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
-*   [duci (⭐74)](https://github.com/duck8823/duci) - A simple ci server no needs domain specific languages.
+*   [go-beautiful-html-coverage (⭐3)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 *   [go-fuzz-action (⭐11)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 *   [go-semver-release (⭐7)](https://github.com/s0ders/go-semver-release) - Automate the semantic versioning of Git repositories.
 *   [go-test-coverage (⭐56)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
@@ -1055,6 +1055,7 @@ additional ordered map implementations.
 *   [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 *   [starlet (⭐5)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 *   [tengo (⭐3.5k)](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
+*   [Wa/凹语言 (⭐736)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
 
 **[⬆ back to top](#contents)**
 
@@ -1194,7 +1195,7 @@ additional ordered map implementations.
 *   [go3d (⭐288)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet (⭐1.2k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.5k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
-*   [Harfang3D (⭐470)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐510)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 *   [Leaf (⭐5.1k)](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano (⭐2.7k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.5k)](https://github.com/oakmound/oak) - Pure Go game engine.
@@ -1633,7 +1634,7 @@ additional ordered map implementations.
 *   [Beaver (⭐1.5k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 *   [Benthos (⭐7.6k)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 *   [Bus (⭐329)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
-*   [Centrifugo (⭐7.9k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
+*   [Centrifugo (⭐8k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.2k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
 *   [Commander (⭐64)](https://github.com/jeroenrinzema/commander) - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 *   [Confluent Kafka Golang Client (⭐4.4k)](https://github.com/confluentinc/confluent-kafka-go) - confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -2186,7 +2187,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [argon2pw (⭐89)](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
 *   [autocert](https://pkg.go.dev/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 *   [BadActor (⭐321)](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
-*   [beelzebub (⭐575)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐580)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 *   [booster (⭐462)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 *   [Cameradar (⭐3.9k)](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 *   [certificates (⭐37)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
@@ -2205,6 +2206,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Interpol (⭐3)](https://github.com/avahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
 *   [lego (⭐7.3k)](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 *   [memguard (⭐2.5k)](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
+*   [multikey (⭐3)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 *   [nacl (⭐543)](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
 *   [optimus-go (⭐357)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐289)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
@@ -2914,7 +2916,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 *   [Don (⭐46)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 *   [Echo (⭐29k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐32k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐60)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐428)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐486)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.

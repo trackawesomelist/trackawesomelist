@@ -4,14 +4,14 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
   - [Awesome Machine Learning](/content/content/josephmisiti/awesome-machine-learning/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Cpp](/content/content/fffaraz/awesome-cpp/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
-  - [Public Apis](/content/content/public-apis/public-apis/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
+  - [Public Apis](/content/content/public-apis/public-apis/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Awesome Datascience](/content/content/academic/awesome-datascience/README.md)
   - [Awesome Remote Job](/content/content/lukasz-madon/awesome-remote-job/README.md)

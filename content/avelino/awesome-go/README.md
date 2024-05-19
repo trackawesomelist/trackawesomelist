@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 19, 2024](/content/2024/05/19/README.md)
+
+### Continuous Integration
+
+*   [go-beautiful-html-coverage (⭐3)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
+
+### Embeddable Scripting Languages
+
+*   [Wa/凹语言 (⭐736)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+
+### Security
+
+*   [multikey (⭐3)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
+
 ## [May 11, 2024](/content/2024/05/11/README.md)
 
 ### Configuration
@@ -351,7 +365,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [beelzebub (⭐575)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐580)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
@@ -1044,7 +1058,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [Harfang3D (⭐470)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐510)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -2412,7 +2426,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-flags (⭐2.5k)](https://github.com/jessevdk/go-flags) - go command line option parser.
 *   [gocmd (⭐66)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐182)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
-*   [job (⭐141)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+*   [job (⭐142)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 *   [kingpin (⭐3.4k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 *   [liner (⭐1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mitchellh/cli (⭐1.7k)](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
@@ -2483,7 +2497,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [CDS (⭐4.4k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 *   [drone (⭐32k)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
-*   [duci (⭐74)](https://github.com/duck8823/duci) - A simple ci server no needs domain specific languages.
 *   [gomason (⭐63)](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace.
 *   [goveralls (⭐778)](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
 *   [overalls (⭐114)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
@@ -3183,7 +3196,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Beaver (⭐1.5k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 *   [Benthos (⭐7.6k)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 *   [Bus (⭐329)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
-*   [Centrifugo (⭐7.9k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
+*   [Centrifugo (⭐8k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.2k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
 *   [Commander (⭐64)](https://github.com/jeroenrinzema/commander) - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 *   [Confluent Kafka Golang Client (⭐4.4k)](https://github.com/confluentinc/confluent-kafka-go) - confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -4090,7 +4103,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Banjo (⭐24)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐29k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐32k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐60)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐428)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐486)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
