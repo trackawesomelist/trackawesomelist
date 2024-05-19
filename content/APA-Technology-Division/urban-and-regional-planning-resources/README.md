@@ -6,6 +6,21 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [May 19, 2024](/content/2024/05/19/README.md)
+
+### Public Data Resources / Climate
+
+*   [National Stormwater Calculator](https://swcweb.epa.gov/stormwatercalculator/) - An EPA resource including different features and controls for planning, pricing out projects that also shows the outcomes of stormwater retention interventions based on green infrastructure decisions.
+
+### Public Data Resources / Environment and Ecosystem Services
+
+*   [American Conservation and Stewardship Atlas](https://www.conservation.gov/pages/atlas-and-data) - An interagency resource intended to help illustrate and document locally led, partnership-driven conservation and restoration work that is underway in communities across America.
+*   [National Biogeographic Map](https://www.usgs.gov/tools/national-biogeographic-map) - A platform maintained by the United States Geological Survey (USGS) that provides a platform for analysis of questions about what species are where, how well protected they are, how vulnerable they are to stressors, and what management options will have the greatest benefit for conservation of biodiversity.  Additional Links: [More Information about the Tool](https://www.usgs.gov/news/technical-announcement/new-species-habitat-distribution-maps-now-support-conservation-planning)
+
+### Platforms and Software Resources / AI in Planning Tools and Platforms
+
+*   [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
+
 ## [May 10, 2024](/content/2024/05/10/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
@@ -721,9 +736,9 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Climate
 
-*   [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
-*   [MACA](https://climate.northwestknowledge.net/MACA/) - The MACA method is a statistical downscaling method for removing biases from global climate model outputs.
 *   [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs).
+*   [MACA](https://climate.northwestknowledge.net/MACA/) - The MACA method is a statistical downscaling method for removing biases from global climate model outputs.
+*   [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
 
 ### Public Data Resources / Employment
 
