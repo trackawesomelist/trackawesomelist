@@ -2,9 +2,15 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 75K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 84K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/papers-we-love/papers-we-love/week/README.md) / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [May 20, 2024](/content/2024/05/20/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -99,7 +105,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Services Engineering Reading List (⭐3.5k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 
 ## [Apr 09, 2014](/content/2014/04/09/README.md)
 

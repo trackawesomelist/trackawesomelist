@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [May 20, 2024](/content/2024/05/20/README.md)
+
+### Frameworks
+
+*   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
+
 ## [May 17, 2024](/content/2024/05/17/README.md)
 
 ### Queue

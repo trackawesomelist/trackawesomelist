@@ -1,24 +1,89 @@
 # Awesome List Updates on May 20 - May 26, 2024
 
-3 awesome lists updated this week.
+9 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [1. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Frameworks
+
+*   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Manufacturing
+
+*   [Manyfold](https://manyfold.app) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. ([Source Code (⭐515)](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
+
+### Software / Photo and Video Galleries
+
+*   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐7.8k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
+## [4. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+
+### Node.js
+
+*   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
+
+## [5. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+
+### Audio Editing
+
+*   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
+
+### Markdown and LaTeX / Diagnostics
+
+*   [arminveres/md-pdf.nvim (⭐28)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
+
+### Marks / Diagnostics
+
+*   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
+
+### Note Taking / Diagnostics
+
+*   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+*   [slugbyte/whip.nvim (⭐1)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
+
+### Utility / Diagnostics
+
+*   [AlejandroSuero/freeze-code.nvim (⭐2)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
+
+### Terminal Integration / Diagnostics
+
+*   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+
+## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
 *   [ActiveAnalytics (⭐390)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Monitoring
+
+*   [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code (⭐9.3k)](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
 
 ### Software / PaaS
 

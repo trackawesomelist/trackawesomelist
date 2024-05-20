@@ -8,6 +8,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ## [May 20, 2024](/content/2024/05/20/README.md)
 
+### Software / Monitoring
+
+*   [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code (⭐9.3k)](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
+
 ### Software / PaaS
 
 *   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐12k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
