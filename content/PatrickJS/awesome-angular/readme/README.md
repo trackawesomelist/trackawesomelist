@@ -20,6 +20,8 @@
 
 This is the original Awesome list of the Angular framework, and it contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
+> Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)   PRs welcomed!
+
 ##### Current Angular version:
 
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
@@ -60,7 +62,10 @@ Table of contents:
     *   [Drag/Drop](#drag/drop)
     *   [Editor Components](#editor-components)
     *   [File Upload](#file-upload)
-    *   [Form Controls](#form-controls)
+    *   [Forms](#forms)
+        *   [General](#general)
+        *   [Form Controls](#form-controls)
+        *   [Validation](#validation)
     *   [Icons](#icons)
     *   [Keyboard Mouse](#keyboard-mouse)
     *   [Layout Components](#layout-components)
@@ -551,35 +556,53 @@ Table of contents:
 *   [ngx-flow (⭐58)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload.
 *   [ngx-uploadx (⭐42)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
-#### Form Controls
+#### Forms
 
-*   [ngx-emoji-mart (⭐439)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
-*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
-*   [ngx-colors (⭐78)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
-*   [ngx-color-picker (⭐442)](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
-*   [angular-colorful (⭐9)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
+##### General
+
 *   [angular-imask (⭐4.8k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 *   [ngx-mask (⭐1.1k)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 *   [maskito (⭐557)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+*   [ngx-formly (⭐2.7k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+*   [formio (⭐612)](https://github.com/formio/angular) - JSON powered forms for Angular.
+*   [ng-dynamic-forms (⭐1.3k)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
+*   [fluent-form (⭐41)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+*   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [ng-signal-forms (⭐95)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+*   [ngx-sub-form (⭐314)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+*   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+##### Form Controls
+
+*   [ngx-emoji-mart (⭐439)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
+*   [ngx-colors (⭐78)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
+*   [ngx-color-picker (⭐442)](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
+*   [angular-colorful (⭐9)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
 *   [angular2-multiselect-dropdown (⭐280)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 *   [ng-select (⭐3.2k)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 *   [ngx-numeric-range-form-field (⭐4)](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
 *   [file-input-accessor (⭐29)](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+
+##### Validation
+
+*   [ngx-valdemort (⭐193)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
+    Angular 7+ Validator, a library handle validation messages easy and automatic.
+*   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+*   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
+*   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 *   [ngx-formcontrol-errors (⭐0)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 *   [error-tailor (⭐478)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
-*   [ngx-formly (⭐2.7k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-*   [formio (⭐612)](https://github.com/formio/angular) - JSON powered forms for Angular.
-*   [ng-dynamic-forms (⭐1.3k)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-*   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
 *   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
 *   [ng2-fontawesome (⭐21)](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
 *   [ngx-icon-blur (⭐5)](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
-*   [ng-icons (⭐299)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
-*   [primeicons (⭐236)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
-*   [angular-svg-icon (⭐238)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+*   [ng-icons (⭐302)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐239)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐241)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 *   [svg-icon (⭐252)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 #### Keyboard Mouse
@@ -641,13 +664,16 @@ Table of contents:
 *   [jscutlery devkit (⭐228)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 *   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 *   [lithium-angular (⭐12)](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
+*   [rxweb (⭐400)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+*   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+*   [ngspot (⭐22)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 
 #### Modals
 
 *   [ngx-awesome-popup (⭐72)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
 *   [dialog (⭐372)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
-*   [ngx-modal-ease (⭐10)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
-*   [ngx-smart-modal (⭐320)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+*   [ngx-modal-ease (⭐11)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
+*   [ngx-smart-modal (⭐321)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
 #### Notifications
 
@@ -744,11 +770,11 @@ Table of contents:
 ##### Tailwind CSS Based
 
 *   [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
-*   [David UI Angular (⭐49)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+*   [David UI Angular (⭐52)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ##### Node Based
 
-*   [ngx-vflow (⭐43)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+*   [ngx-vflow (⭐46)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 #### UX Components
 
@@ -934,7 +960,7 @@ Table of contents:
 *   [ngx-tolgee (⭐218)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [localess (⭐32)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 *   [typesafe-i18n (⭐2.1k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
-*   [angular-l10n (⭐382)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+*   [angular-l10n (⭐381)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
 *   [I18N (⭐70)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
 *   [ng-extract-i18n-merge (⭐155)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
 *   [ng-translate (⭐8)](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).

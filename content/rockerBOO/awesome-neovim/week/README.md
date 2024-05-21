@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
+### (requires Neovim 0.5)
+
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+
 ### AI / Diagnostics
 
 *   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
@@ -19,6 +23,10 @@ Collections of awesome neovim plugins.
 ### Marks / Diagnostics
 
 *   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
+
+### Color / Diagnostics
+
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
 ### Note Taking / Diagnostics
 

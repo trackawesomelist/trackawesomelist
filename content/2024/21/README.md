@@ -1,25 +1,81 @@
 # Awesome List Updates on May 20 - May 26, 2024
 
-13 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Books, blogs, and training materials / Community Chat Rooms
+
+*   [Embedded Rust (no\_std) on Espressif](https://docs.esp-rs.org/no_std-training/) - Training for Rust using no\_std approach development on ESP32-C3.
+*   [Embedded Rust (std) on Espressif](https://docs.esp-rs.org/std-training/) - Training for Rust using std approach development on ESP32-C3 by Ferrous Systems.
+
+### Peripheral Access Crates / Espressif
+
+*   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
+
+## [2. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+
+### Related awesome / Object detection and object tracking
+
+*   [Awesome LiDAR Place Recognition :octocat:](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Official Resources
+
+*   [Documentation](https://vuejs.org/)
+*   [GitHub Repo](https://github.com/vuejs/)
+*   [Release Notes (⭐45k)](https://github.com/vuejs/core/releases)
+*   [IDE Language Support (⭐5.5k)](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
+*   [Awesome Vite (⭐13k)](https://github.com/vitejs/awesome-vite)
+
+### Components & Libraries / Utilities
+
+*   [unplugin-vue-components (⭐3.6k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
+*   [unplugin-auto-import (⭐3k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
+
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Forms / General
+
+*   [fluent-form (⭐41)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+*   [ng-signal-forms (⭐95)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+*   [ngx-sub-form (⭐314)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+*   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+### Forms / Validation
+
+*   [ngx-valdemort (⭐193)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
+    Angular 7+ Validator, a library handle validation messages easy and automatic.
+*   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+*   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
+*   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
+
+### Mixed utilities / Validation
+
+*   [rxweb (⭐400)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+*   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+*   [ngspot (⭐22)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Data Science
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [2. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
 *   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -44,25 +100,25 @@
 *   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 *   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Frameworks
 
 *   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Manufacturing
 
@@ -72,19 +128,23 @@
 
 *   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐7.8k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [8. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
 *   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 
-## [9. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [13. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
 *   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
 
 ### AI / Diagnostics
 
@@ -97,6 +157,10 @@
 ### Marks / Diagnostics
 
 *   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
+
+### Color / Diagnostics
+
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
 ### Note Taking / Diagnostics
 
@@ -111,19 +175,19 @@
 
 *   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
 *   [ActiveAnalytics (⭐390)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
@@ -139,7 +203,7 @@
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.6k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐215)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐247)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ---

@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 21, 2024](/content/2024/05/21/README.md)
+
+### (requires Neovim 0.5)
+
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+
+### Color / Diagnostics
+
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+
 ## [May 20, 2024](/content/2024/05/20/README.md)
 
 ### AI / Diagnostics

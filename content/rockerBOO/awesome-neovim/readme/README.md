@@ -159,6 +159,7 @@ Collections of awesome neovim plugins.
 *   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 *   [hinell/lsp-timeout.nvim (⭐181)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 *   [nvimtools/none-ls.nvim (⭐2k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
 *   [vxpm/ferris.nvim (⭐84)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 *   [mrcjkb/rustaceanvim (⭐1k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 *   [soulis-1256/eagle.nvim (⭐186)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
@@ -431,6 +432,7 @@ Collections of awesome neovim plugins.
 *   [miversen33/sunglasses.nvim (⭐99)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 *   [rasulomaroff/reactive.nvim (⭐159)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 *   [moyiz/command-and-cursor.nvim (⭐14)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
 ## Colorscheme
 
