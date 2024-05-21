@@ -29,6 +29,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Browser Games](#browser-games)
 *   [IO Games](#io-games)
 *   [Messenger Games](#messenger-games)
+*   [YouTube Playables](#youtube-playables)
 *   [Automotive](#automotive)
 *   [Product Configurators](#product-configurators)
 *   [AR/VR/XR](#arvrxr)
@@ -37,7 +38,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## PlayCanvas
 
 *   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-*   [Engine (⭐9.1k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐9.2k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
@@ -79,7 +80,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [playcanvas-spine (⭐46)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐55)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐41)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [tween.js (⭐9.6k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.7k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
@@ -117,12 +118,15 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Build Land](https://poki.com/en/g/build-land) - Grow your island by collecting resources.
 *   [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 *   [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
+*   [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
 *   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 *   [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 *   [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 *   [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 *   [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
 *   [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
+*   [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
+*   [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
 *   [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
 *   [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
 *   [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
@@ -132,11 +136,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 *   [Mahjong World](https://play.famobi.com/mahjong-world) - 3D Mahjong puzzle game.
 *   [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
+*   [Master Archer](https://playcanv.as/p/JERg21J8/) - Shoot the fruit from the top of Bob's head.
 *   [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 *   [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
 *   [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 *   [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
+*   [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 *   [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 *   [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
@@ -166,12 +172,18 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Messenger Games
 
-*   [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
-*   [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) - Archery simulator.
-*   [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
-*   [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
-*   [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
-*   [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
+*   [GameWave](https://apps.apple.com/us/app/gamewave-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
+
+## YouTube Playables
+
+*   [Cannon Balls 3D](https://www.youtube.com/playables/UgkxtJBl0ZoeInS-4l5yzLRPqToF7zHv4dhr) - Use the cannon to destroy the various structures in this physics-based game.
+*   [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
+*   [Farm Land](https://www.youtube.com/playables/Ugkxsk_eNi3xerLPa1SuoUIftBIWxzlTCbAN) - Grow produce to expand your land.
+*   [Free Kick Football](https://www.youtube.com/playables/UgkxjX3-84ZFPZHSm99ZIsn9eqPQQSoWJPxS) - Curve the ball to score goals.
+*   [Full Speed Racing](https://www.youtube.com/playables/UgkxbgLQk7KP4zQKHctwKY-XKtpJ_OBWL4aO) - Drive as far as you can before the time runs out.
+*   [Om Nom Run](https://www.youtube.com/playables/UgkxiSWh_UPnG4BImBX7gI3KVDLxT2Wm1PiJ) - Endless runner.
+*   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
+*   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
 ## Automotive
 

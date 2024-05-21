@@ -6,6 +6,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [May 21, 2024](/content/2024/05/21/README.md)
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
+*   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
+
 ## [May 16, 2024](/content/2024/05/16/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts

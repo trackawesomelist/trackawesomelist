@@ -6,6 +6,31 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [May 20 - May 26, 2024](/content/2024/21/README.md)
+
+### Browser Games
+
+*   [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
+*   [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
+*   [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
+*   [Master Archer](https://playcanv.as/p/JERg21J8/) - Shoot the fruit from the top of Bob's head.
+*   [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
+
+### Messenger Games
+
+*   [GameWave](https://apps.apple.com/us/app/gamewave-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
+
+### YouTube Playables
+
+*   [Cannon Balls 3D](https://www.youtube.com/playables/UgkxtJBl0ZoeInS-4l5yzLRPqToF7zHv4dhr) - Use the cannon to destroy the various structures in this physics-based game.
+*   [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
+*   [Farm Land](https://www.youtube.com/playables/Ugkxsk_eNi3xerLPa1SuoUIftBIWxzlTCbAN) - Grow produce to expand your land.
+*   [Free Kick Football](https://www.youtube.com/playables/UgkxjX3-84ZFPZHSm99ZIsn9eqPQQSoWJPxS) - Curve the ball to score goals.
+*   [Full Speed Racing](https://www.youtube.com/playables/UgkxbgLQk7KP4zQKHctwKY-XKtpJ_OBWL4aO) - Drive as far as you can before the time runs out.
+*   [Om Nom Run](https://www.youtube.com/playables/UgkxiSWh_UPnG4BImBX7gI3KVDLxT2Wm1PiJ) - Endless runner.
+*   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
+*   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
+
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### Browser Games
@@ -350,7 +375,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐9.1k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐9.2k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -394,12 +419,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 
-## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
-
-### Messenger Games
-
-*   [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
-
 ## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
 
 ### Browser Games
@@ -437,15 +456,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Automotive
 
 *   [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
-
-## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
-
-### Messenger Games
-
-*   [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) - Archery simulator.
-*   [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
-*   [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
-*   [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
@@ -503,10 +513,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 
-### Messenger Games
-
-*   [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
-
 ### Automotive
 
 *   [BMW i8](http://car.playcanvas.com) - Car visualizer.
@@ -530,7 +536,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Extensions and Utilities
 
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.6k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.7k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 

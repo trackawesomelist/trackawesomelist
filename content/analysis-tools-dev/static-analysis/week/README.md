@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [May 20 - May 26, 2024](/content/2024/21/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Other / [Other](#other-1)
