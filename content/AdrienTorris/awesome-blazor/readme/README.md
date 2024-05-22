@@ -409,7 +409,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 *   [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
 *   [EventHorizon Blazor TypeScript Interop Generator (⭐128)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 *   [Generators.Blazor (⭐70)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
-*   [Blazork8s (⭐128)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
+*   [Blazork8s (⭐131)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
 
 ## Source generators
 
@@ -548,6 +548,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 ## Articles
 
+*   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
 *   [Per-User Blazor 8 State](https://blog.lhotka.net/2023/11/28/Per-User-Blazor-8-State) - November 28, 2023 - Per-User Blazor 8 State.
 *   [Blazor 8 State Management](https://blog.lhotka.net/2023/10/12/Blazor-8-State-Management) - October 12, 2023 - Blazor 8 State Management.
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.

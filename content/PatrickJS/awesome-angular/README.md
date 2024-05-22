@@ -6,6 +6,99 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 22, 2024](/content/2024/05/22/README.md)
+
+### CLI / Testing
+
+*   [angular-serve-and-run (⭐3)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
+
+### Integrations / Testing
+
+*   [google-pay-button (⭐239)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
+*   [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
+### Exercises / Testing
+
+*   [angular-debugging-challenge (⭐0)](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
+*   [angular-api-challenge (⭐0)](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
+
+### Charts / Testing
+
+*   [ngx-simple-charts (⭐5)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+
+### Dates / Testing
+
+*   [time2blocks-ngx (⭐1)](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
+
+### DOM / Testing
+
+*   [ngxd (⭐315)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
+*   [ngx-quicklink (⭐744)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+
+### Editor Components / Testing
+
+*   [ngx-tiptap (⭐95)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+
+### Forms / Form Controls
+
+*   [ngx-bootstrap-icons-picker (⭐6)](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
+*   [ngx-filesaver (⭐86)](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js (⭐21k)](https://github.com/eligrey/FileSaver.js).
+*   [angular-star-rating (⭐216)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
+
+### Icons / Validation
+
+*   [angular-fontawesome (⭐1.4k)](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5+.
+*   [ng-svg-icon-sprite (⭐58)](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 16+ package for generating and using inline SVG icons in your project.
+*   [Angular-Svg-Sprite (⭐0)](https://github.com/bodnya29179/Angular-Svg-Sprite) - Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites.
+*   [ng-hero-icons (⭐14)](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
+*   [ionic-angular-collect-icons (⭐2)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file.
+*   [ngx-fluent-ui (⭐11)](https://github.com/bennymeg/ngx-fluent-ui) - Angular & online library for Microsoft Fluent UI icons.
+*   [angular-remix-icon (⭐10)](https://github.com/adisreyaj/angular-remix-icon) - Angular wrapper for Remixicon icon library.
+*   [angular-line-awesome (⭐5)](https://github.com/marco-martins/angular-line-awesome) - Angular Line Awesome is an Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
+*   [ngx-bootstrap-icons (⭐33)](https://github.com/avmaisak/ngx-bootstrap-icons) - This Angular module allows you to use the Bootstrap Icons in your Angular application without additional dependencies.
+*   [ngx-icon (⭐0)](https://github.com/anedomansky/ngx-icon) - An Angular component for displaying SVG icons.
+*   [angular-feather (⭐155)](https://github.com/michaelbazos/angular-feather) - This package allows you to use [Feather Icons (⭐25k)](https://github.com/feathericons/feather) in your Angular applications.
+*   [angular-tabler-icons (⭐20)](https://github.com/pierreavn/angular-tabler-icons) - This package allows you to use the [Tabler Icons](https://tabler.io/icons) in your Angular applications.
+*   [icon-lib-builder (⭐1)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
+*   [svg-icons-builder (⭐19)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
+*   [ngx-fast-svg (⭐51)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+
+### Mixed utilities / Validation
+
+*   [ngx-grpc (⭐224)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
+*   [ts-cacheable (⭐338)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
+*   [ngxtension-platform (⭐470)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
+*   [spartan (⭐959)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
+
+### State Management / Validation
+
+*   [ngx-collection (⭐23)](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
+*   [xstate (⭐26k)](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+
+### Tables / Validation
+
+*   [ngx-export-as (⭐66)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+
+### UI Libraries / General
+
+*   [ngx-float-ui (⭐10)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
+*   [orchestrator (⭐16)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
+
+### UX Components / Node Based
+
+*   [ngx-tour-wizard (⭐13)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+
+### Misc Components / Node Based
+
+*   [ngx-cookieconsent (⭐161)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+*   [ngx-cookie-service (⭐525)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies (⭐64)](https://github.com/BCJTI/ng2-cookies) library.
+*   [gui (⭐75)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+
+### RxJS / Node Based
+
+*   [observable-webworker (⭐219)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
+*   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+
 ## [May 21, 2024](/content/2024/05/21/README.md)
 
 ### Forms / General
@@ -181,9 +274,9 @@
 *   [rx-sandbox (⭐171)](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
 *   [observer-spy (⭐368)](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
 *   [ngx-operators (⭐133)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
-*   [rxjs-toolbox (⭐10)](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
+*   [rxjs-toolbox (⭐10)](https://github.com/kievsash/rxjs-toolbox) - RxJS-toolbox - set of custom operators and handy factory functions for RxJS.
 *   [subscribable-things (⭐43)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
-*   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone.
+*   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 *   [rxjs-broker (⭐24)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
 *   [rxjs-insights (⭐355)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 
@@ -192,19 +285,22 @@
 ### Exercises / Testing
 
 *   [angular-fundamental-lessons (⭐45)](https://github.com/MarkTechson/angular-fundamentals-lessons)
-*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
+*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 
+### DOM / Testing
+
+*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+
 ### Misc Components / Node Based
 
-*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 *   [popover (⭐227)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
 *   [ngx-device-detector (⭐507)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 *   [ngx-feature-toggle (⭐100)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 *   [ng-polymorpheus (⭐370)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 
 ## [May 10, 2024](/content/2024/05/10/README.md)
 
@@ -385,6 +481,10 @@
 
 *   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
+### DOM / Testing
+
+*   [edit-in-place (⭐256)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+
 ### Forms / General
 
 *   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
@@ -411,7 +511,6 @@
 
 ### Misc Components / Node Based
 
-*   [edit-in-place (⭐256)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 *   [falso (⭐3.1k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 *   [helipopper (⭐392)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
@@ -792,7 +891,7 @@
 
 *   [angular-shepherd (⭐208)](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐12k)](https://github.com/shepherd-pro/shepherd).
 *   [skyux (⭐23)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
-*   [ngx-ui-tour (⭐148)](https://github.com/hakimio/ngx-ui-tour) - ngx-ui-tour is a UI tour library inspired by angular-ui-tour.
+*   [ngx-ui-tour (⭐148)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour (⭐163)](https://github.com/benmarch/angular-ui-tour).
 
 ### Ionic / Node Based
 
@@ -1030,14 +1129,14 @@
 
 *   [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
-### State Management / Validation
-
-*   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
-
-### Misc Components / Node Based
+### DOM / Testing
 
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+
+### State Management / Validation
+
+*   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 ## [Jun 05, 2021](/content/2021/06/05/README.md)
 
@@ -1065,10 +1164,13 @@
 
 ## [Mar 29, 2021](/content/2021/03/29/README.md)
 
+### DOM / Testing
+
+*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+
 ### Misc Components / Node Based
 
 *   [ng-portal (⭐16)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
-*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
 ### HTTP / Node Based
 

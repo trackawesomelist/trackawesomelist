@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 22, 2024](/content/2024/05/22/README.md)
+
+### (requires Neovim 0.5)
+
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
+
+### Code Runner / Diagnostics
+
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
 ## [May 21, 2024](/content/2024/05/21/README.md)
 
 ### (requires Neovim 0.5)
@@ -53,7 +63,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [CopilotC-Nvim/CopilotChat.nvim (⭐889)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [CopilotC-Nvim/CopilotChat.nvim (⭐971)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ## [May 05, 2024](/content/2024/05/05/README.md)
 

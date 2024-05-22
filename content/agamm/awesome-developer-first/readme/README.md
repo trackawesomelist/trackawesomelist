@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 789 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 794 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐789)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐794)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -165,6 +165,7 @@ For the latest additions [click here (⭐789)](https://github.com/agamm/awesome-
 *   [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 *   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 *   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/crate/crate)
+*   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
 *   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 *   [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 *   [Upstash](https://upstash.com/) - Serverless tailored redis provider.
@@ -352,7 +353,7 @@ For the latest additions [click here (⭐789)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐445)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐456)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -451,5 +452,5 @@ For the latest additions [click here (⭐789)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐789)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐794)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

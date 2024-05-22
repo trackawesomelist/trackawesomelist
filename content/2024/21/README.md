@@ -1,12 +1,43 @@
 # Awesome List Updates on May 20 - May 26, 2024
 
-19 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [1. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+
+### Project Management
+
+*   [Trello](https://productivity.directory/trello)
+*   [Zoho Projects](https://productivity.directory/zoho-projects)
+*   [Asana](https://productivity.directory/asana)
+*   [Smartsheet](https://productivity.directory/smartsheet)
+*   [Wrike](https://productivity.directory/wrike)
+*   [ClickUp](https://productivity.directory/clickup)
+*   [Microsoft Project](https://productivity.directory/microsoft-project)
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+*   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Articles / Others
+
+*   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
+
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Databases & Spreadsheets
+
+*   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
+
+## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
@@ -16,7 +47,7 @@
 
 *   [geoos (⭐605)](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -65,7 +96,7 @@
 
 *   [AsyncAPI (⭐3.9k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-## [3. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
@@ -79,7 +110,7 @@
 
 *   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐20k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
@@ -90,13 +121,13 @@
 
 *   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
 
-## [5. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [9. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome LiDAR Place Recognition :octocat:](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -111,7 +142,38 @@
 *   [unplugin-vue-components (⭐3.6k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 *   [unplugin-auto-import (⭐3k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### CLI / Testing
+
+*   [angular-serve-and-run (⭐3)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
+
+### Integrations / Testing
+
+*   [google-pay-button (⭐239)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
+*   [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
+### Exercises / Testing
+
+*   [angular-debugging-challenge (⭐0)](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
+*   [angular-api-challenge (⭐0)](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
+
+### Charts / Testing
+
+*   [ngx-simple-charts (⭐5)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+
+### Dates / Testing
+
+*   [time2blocks-ngx (⭐1)](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
+
+### DOM / Testing
+
+*   [ngxd (⭐315)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
+*   [ngx-quicklink (⭐744)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+
+### Editor Components / Testing
+
+*   [ngx-tiptap (⭐95)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 
 ### Forms / General
 
@@ -119,6 +181,12 @@
 *   [ng-signal-forms (⭐95)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 *   [ngx-sub-form (⭐314)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 *   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+### Forms / Form Controls
+
+*   [ngx-bootstrap-icons-picker (⭐6)](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
+*   [ngx-filesaver (⭐86)](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js (⭐21k)](https://github.com/eligrey/FileSaver.js).
+*   [angular-star-rating (⭐216)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
 
 ### Forms / Validation
 
@@ -129,20 +197,71 @@
 *   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
 *   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 
+### Icons / Validation
+
+*   [angular-fontawesome (⭐1.4k)](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5+.
+*   [ng-svg-icon-sprite (⭐58)](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 16+ package for generating and using inline SVG icons in your project.
+*   [Angular-Svg-Sprite (⭐0)](https://github.com/bodnya29179/Angular-Svg-Sprite) - Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites.
+*   [ng-hero-icons (⭐14)](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
+*   [ionic-angular-collect-icons (⭐2)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file.
+*   [ngx-fluent-ui (⭐11)](https://github.com/bennymeg/ngx-fluent-ui) - Angular & online library for Microsoft Fluent UI icons.
+*   [angular-remix-icon (⭐10)](https://github.com/adisreyaj/angular-remix-icon) - Angular wrapper for Remixicon icon library.
+*   [angular-line-awesome (⭐5)](https://github.com/marco-martins/angular-line-awesome) - Angular Line Awesome is an Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
+*   [ngx-bootstrap-icons (⭐33)](https://github.com/avmaisak/ngx-bootstrap-icons) - This Angular module allows you to use the Bootstrap Icons in your Angular application without additional dependencies.
+*   [ngx-icon (⭐0)](https://github.com/anedomansky/ngx-icon) - An Angular component for displaying SVG icons.
+*   [angular-feather (⭐155)](https://github.com/michaelbazos/angular-feather) - This package allows you to use [Feather Icons (⭐25k)](https://github.com/feathericons/feather) in your Angular applications.
+*   [angular-tabler-icons (⭐20)](https://github.com/pierreavn/angular-tabler-icons) - This package allows you to use the [Tabler Icons](https://tabler.io/icons) in your Angular applications.
+*   [icon-lib-builder (⭐1)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
+*   [svg-icons-builder (⭐19)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
+*   [ngx-fast-svg (⭐51)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+
 ### Mixed utilities / Validation
 
 *   [rxweb (⭐400)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
 *   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 *   [ngspot (⭐22)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
+*   [ngx-grpc (⭐224)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
+*   [ts-cacheable (⭐338)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
+*   [ngxtension-platform (⭐470)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
+*   [spartan (⭐959)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+### State Management / Validation
+
+*   [ngx-collection (⭐23)](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
+*   [xstate (⭐26k)](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+
+### Tables / Validation
+
+*   [ngx-export-as (⭐66)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+
+### UI Libraries / General
+
+*   [ngx-float-ui (⭐10)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
+*   [orchestrator (⭐16)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
+
+### UX Components / Node Based
+
+*   [ngx-tour-wizard (⭐13)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+
+### Misc Components / Node Based
+
+*   [ngx-cookieconsent (⭐161)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+*   [ngx-cookie-service (⭐525)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies (⭐64)](https://github.com/BCJTI/ng2-cookies) library.
+*   [gui (⭐75)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+
+### RxJS / Node Based
+
+*   [observable-webworker (⭐219)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
+*   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+
+## [12. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
 *   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
-## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -167,25 +286,25 @@
 *   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 *   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
-## [11. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [15. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Frameworks
 
 *   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Manufacturing
 
@@ -195,23 +314,24 @@
 
 *   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐7.8k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [14. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [18. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
 *   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 
-## [15. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [19. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
 *   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 
 ### AI / Diagnostics
 
@@ -242,19 +362,23 @@
 
 *   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
 
-## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+### Code Runner / Diagnostics
+
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
 *   [ActiveAnalytics (⭐390)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 

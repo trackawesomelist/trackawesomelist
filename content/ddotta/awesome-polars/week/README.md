@@ -6,6 +6,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [May 20 - May 26, 2024](/content/2024/21/README.md)
+
+### Resources / Blog posts
+
+*   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+*   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### Resources / Talks and videos

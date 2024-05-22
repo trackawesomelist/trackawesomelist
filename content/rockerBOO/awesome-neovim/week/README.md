@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### (requires Neovim 0.5)
 
 *   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 
 ### AI / Diagnostics
 
@@ -41,11 +42,15 @@ Collections of awesome neovim plugins.
 
 *   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
 
+### Code Runner / Diagnostics
+
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
 ## [May 06 - May 12, 2024](/content/2024/19/README.md)
 
 ### AI / Diagnostics
 
-*   [CopilotC-Nvim/CopilotChat.nvim (⭐889)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [CopilotC-Nvim/CopilotChat.nvim (⭐971)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ### Utility / Diagnostics
 

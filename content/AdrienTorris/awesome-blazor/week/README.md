@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [May 20 - May 26, 2024](/content/2024/21/README.md)
+
+### Articles / Others
+
+*   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
+
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### 2D/3D Rendering engines / Others
@@ -19,7 +25,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Others / Others
 
-*   [Blazork8s (⭐128)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
+*   [Blazork8s (⭐131)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
 
 ### Videos / Others
 

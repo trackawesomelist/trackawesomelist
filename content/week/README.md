@@ -121,66 +121,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐247)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
-#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5)
-
-*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
-
-##### AI / Diagnostics
-
-*   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [arminveres/md-pdf.nvim (⭐28)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
-
-##### Marks / Diagnostics
-
-*   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
-
-##### Color / Diagnostics
-
-*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
-
-##### Note Taking / Diagnostics
-
-*   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
-*   [slugbyte/whip.nvim (⭐1)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
-
-##### Utility / Diagnostics
-
-*   [AlejandroSuero/freeze-code.nvim (⭐2)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
-
-##### Terminal Integration / Diagnostics
-
-*   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
-
-#### [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Forms / General
-
-*   [fluent-form (⭐41)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
-*   [ng-signal-forms (⭐95)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
-*   [ngx-sub-form (⭐314)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
-*   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
-
-##### Forms / Validation
-
-*   [ngx-valdemort (⭐193)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
-*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
-    Angular 7+ Validator, a library handle validation messages easy and automatic.
-*   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
-*   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
-*   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
-
-##### Mixed utilities / Validation
-
-*   [rxweb (⭐400)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
-*   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
-*   [ngspot (⭐22)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
-
-#### [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Resources / Official Resources
 
@@ -195,13 +136,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [unplugin-vue-components (⭐3.6k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 *   [unplugin-auto-import (⭐3k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
-#### [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Related awesome / Object detection and object tracking
 
 *   [Awesome LiDAR Place Recognition :octocat:](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
 
-#### [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Books, blogs, and training materials / Community Chat Rooms
 
@@ -212,7 +153,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
 
-#### [17. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+#### [15. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ##### CMS
 
@@ -226,7 +167,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐20k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
-#### [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -275,7 +216,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AsyncAPI (⭐3.9k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-#### [19. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [17. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Databases Implemented in Go
 
@@ -284,6 +225,189 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Geographic
 
 *   [geoos (⭐605)](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms.
+
+#### [18. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+##### Databases & Spreadsheets
+
+*   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
+
+#### [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
+
+##### AI / Diagnostics
+
+*   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [arminveres/md-pdf.nvim (⭐28)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
+
+##### Marks / Diagnostics
+
+*   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
+
+##### Color / Diagnostics
+
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+
+##### Note Taking / Diagnostics
+
+*   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+*   [slugbyte/whip.nvim (⭐1)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
+
+##### Utility / Diagnostics
+
+*   [AlejandroSuero/freeze-code.nvim (⭐2)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
+
+##### Terminal Integration / Diagnostics
+
+*   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+
+##### Code Runner / Diagnostics
+
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
+#### [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### CLI / Testing
+
+*   [angular-serve-and-run (⭐3)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
+
+##### Integrations / Testing
+
+*   [google-pay-button (⭐239)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
+*   [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
+##### Exercises / Testing
+
+*   [angular-debugging-challenge (⭐0)](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
+*   [angular-api-challenge (⭐0)](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
+
+##### Charts / Testing
+
+*   [ngx-simple-charts (⭐5)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+
+##### Dates / Testing
+
+*   [time2blocks-ngx (⭐1)](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
+
+##### DOM / Testing
+
+*   [ngxd (⭐315)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
+*   [ngx-quicklink (⭐744)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+
+##### Editor Components / Testing
+
+*   [ngx-tiptap (⭐95)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+
+##### Forms / General
+
+*   [fluent-form (⭐41)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+*   [ng-signal-forms (⭐95)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+*   [ngx-sub-form (⭐314)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+*   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+##### Forms / Form Controls
+
+*   [ngx-bootstrap-icons-picker (⭐6)](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
+*   [ngx-filesaver (⭐86)](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js (⭐21k)](https://github.com/eligrey/FileSaver.js).
+*   [angular-star-rating (⭐216)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
+
+##### Forms / Validation
+
+*   [ngx-valdemort (⭐193)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
+    Angular 7+ Validator, a library handle validation messages easy and automatic.
+*   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+*   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
+*   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
+
+##### Icons / Validation
+
+*   [angular-fontawesome (⭐1.4k)](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5+.
+*   [ng-svg-icon-sprite (⭐58)](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 16+ package for generating and using inline SVG icons in your project.
+*   [Angular-Svg-Sprite (⭐0)](https://github.com/bodnya29179/Angular-Svg-Sprite) - Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites.
+*   [ng-hero-icons (⭐14)](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
+*   [ionic-angular-collect-icons (⭐2)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file.
+*   [ngx-fluent-ui (⭐11)](https://github.com/bennymeg/ngx-fluent-ui) - Angular & online library for Microsoft Fluent UI icons.
+*   [angular-remix-icon (⭐10)](https://github.com/adisreyaj/angular-remix-icon) - Angular wrapper for Remixicon icon library.
+*   [angular-line-awesome (⭐5)](https://github.com/marco-martins/angular-line-awesome) - Angular Line Awesome is an Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
+*   [ngx-bootstrap-icons (⭐33)](https://github.com/avmaisak/ngx-bootstrap-icons) - This Angular module allows you to use the Bootstrap Icons in your Angular application without additional dependencies.
+*   [ngx-icon (⭐0)](https://github.com/anedomansky/ngx-icon) - An Angular component for displaying SVG icons.
+*   [angular-feather (⭐155)](https://github.com/michaelbazos/angular-feather) - This package allows you to use [Feather Icons (⭐25k)](https://github.com/feathericons/feather) in your Angular applications.
+*   [angular-tabler-icons (⭐20)](https://github.com/pierreavn/angular-tabler-icons) - This package allows you to use the [Tabler Icons](https://tabler.io/icons) in your Angular applications.
+*   [icon-lib-builder (⭐1)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
+*   [svg-icons-builder (⭐19)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
+*   [ngx-fast-svg (⭐51)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+
+##### Mixed utilities / Validation
+
+*   [rxweb (⭐400)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+*   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+*   [ngspot (⭐22)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
+*   [ngx-grpc (⭐224)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
+*   [ts-cacheable (⭐338)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
+*   [ngxtension-platform (⭐470)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
+*   [spartan (⭐959)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
+
+##### State Management / Validation
+
+*   [ngx-collection (⭐23)](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
+*   [xstate (⭐26k)](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+
+##### Tables / Validation
+
+*   [ngx-export-as (⭐66)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+
+##### UI Libraries / General
+
+*   [ngx-float-ui (⭐10)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
+*   [orchestrator (⭐16)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
+
+##### UX Components / Node Based
+
+*   [ngx-tour-wizard (⭐13)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+
+##### Misc Components / Node Based
+
+*   [ngx-cookieconsent (⭐161)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+*   [ngx-cookie-service (⭐525)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies (⭐64)](https://github.com/BCJTI/ng2-cookies) library.
+*   [gui (⭐75)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+
+##### RxJS / Node Based
+
+*   [observable-webworker (⭐219)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
+*   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+
+#### [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+##### Articles / Others
+
+*   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
+
+#### [22. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+*   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
+
+#### [23. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+##### Project Management
+
+*   [Trello](https://productivity.directory/trello)
+*   [Zoho Projects](https://productivity.directory/zoho-projects)
+*   [Asana](https://productivity.directory/asana)
+*   [Smartsheet](https://productivity.directory/smartsheet)
+*   [Wrike](https://productivity.directory/wrike)
+*   [ClickUp](https://productivity.directory/clickup)
+*   [Microsoft Project](https://productivity.directory/microsoft-project)
 
 ---
 
@@ -305,20 +429,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 12. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 24K 📝 05&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 13. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 28K 📝 05&#x2F;15 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 14. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 29K 📝 05&#x2F;15 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-15. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 05&#x2F;16 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
-16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 05&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 05&#x2F;22 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+16. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 05&#x2F;16 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 17. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 05&#x2F;21 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 18. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 40K 📝 05&#x2F;09 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 19. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 05&#x2F;20 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 20. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 05&#x2F;19 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 21. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 05&#x2F;20 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.3K 📝 05&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-23. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 13K 📝 05&#x2F;17 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-24. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 05&#x2F;06 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
-25. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 9.6K 📝 05&#x2F;18 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-26. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 204K 📝 04&#x2F;15 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-27. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.7K 📝 05&#x2F;21 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-28. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8.5K 📝 05&#x2F;17 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.3K 📝 05&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+23. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8.5K 📝 05&#x2F;22 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+24. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 41K 📝 05&#x2F;06 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
+25. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 13K 📝 05&#x2F;17 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+26. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 9.6K 📝 05&#x2F;18 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+27. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 204K 📝 04&#x2F;15 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+28. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.7K 📝 05&#x2F;21 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 29. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 17K 📝 05&#x2F;08 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
 30. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 18K 📝 05&#x2F;07 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 31. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.8K 📝 05&#x2F;16 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -399,7 +523,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Billing](/content/kdeldycke/awesome-billing/README.md) - ([Source ⭐ 826, 📝 05&#x2F;15 ](https://github.com/kdeldycke/awesome-billing)) - 💰 Billing & Payments knowledge for cloud platforms
 - [Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md) - ([Source ⭐ 377, 📝 23&#x2F;04&#x2F;25 ](https://github.com/nglgzz/awesome-clean-tech)) - A community curated list of awesome clean tech companies
-- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 789, 📝 05&#x2F;03 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
+- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 794, 📝 05&#x2F;22 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
 - [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source ⭐ 1.9K, 📝 05&#x2F;15 ](https://github.com/kdeldycke/awesome-engineering-team-management)) - 👔 How to transition from software development to engineering management
 - [Awesome Indie](/content/mezod/awesome-indie/README.md) - ([Source ⭐ 8K, 📝 22&#x2F;01&#x2F;09 ](https://github.com/mezod/awesome-indie)) - Resources for independent developers to make money
 - [Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md) - ([Source ⭐ 6.8K, 📝 21&#x2F;10&#x2F;12 ](https://github.com/LappleApple/awesome-leading-and-managing)) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -546,7 +670,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;22 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -570,11 +694,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.3K, 📝 05&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.3K, 📝 05&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;09&#x2F;04 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
-- [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8.5K, 📝 05&#x2F;17 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8.5K, 📝 05&#x2F;22 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Awesome Browserify](/content/browserify/awesome-browserify/README.md) - ([Source ⭐ 82, 📝 17&#x2F;01&#x2F;04 ](https://github.com/browserify/awesome-browserify)) - :crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.
 - [Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md) - ([Source ⭐ 110, 📝 23&#x2F;05&#x2F;16 ](https://github.com/componently-com/awesome-building-blocks-for-web-apps)) - Standalone features to be integrated into web applications
 - [Awesome Canvas](/content/raphamorim/awesome-canvas/README.md) - ([Source ⭐ 1.4K, 📝 01&#x2F;14 ](https://github.com/raphamorim/awesome-canvas)) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
@@ -613,7 +737,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Preact](/content/preactjs/awesome-preact/README.md) - ([Source ⭐ 852, 📝 04&#x2F;05 ](https://github.com/preactjs/awesome-preact)) - A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 - [Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md) - ([Source ⭐ 1.5K, 📝 17&#x2F;11&#x2F;24 ](https://github.com/TalAter/awesome-progressive-web-apps)) - :sunrise: A collection of awesome resources for building progressive web apps
 - [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 62K, 📝 04&#x2F;11 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
-- [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K, 📝 05&#x2F;06 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
+- [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 41K, 📝 05&#x2F;06 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 - [Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md) - ([Source ⭐ 1.1K, 📝 19&#x2F;05&#x2F;27 ](https://github.com/glauberfc/awesome-react-hooks)) - A curated list about React Hooks
 - [Awesome Redux](/content/brillout/awesome-redux/README.md) - ([Source ⭐ 363, 📝 17&#x2F;01&#x2F;27 ](https://github.com/brillout/awesome-redux)) - Catalog of Redux Libraries & Learning Material
 - [Awesome Relay](/content/expede/awesome-relay/README.md) - ([Source ⭐ 257, 📝 17&#x2F;01&#x2F;09 ](https://github.com/expede/awesome-relay)) - Awesome resources for Relay
@@ -865,7 +989,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md) - ([Source ⭐ 809, 📝 16&#x2F;07&#x2F;05 ](https://github.com/jagracey/Awesome-Unicode)) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1.5K, 📝 05&#x2F;05 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
 - [Awesome Veganism](/content/sdassow/awesome-veganism/README.md) - ([Source ⭐ 56, 📝 23&#x2F;09&#x2F;15 ](https://github.com/sdassow/awesome-veganism)) - curated list of awesome resources, pointers, and tips related to veganism
-- [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.4K, 📝 05&#x2F;08 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.4K, 📝 01&#x2F;23 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 3.1K, 📝 23&#x2F;08&#x2F;27 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
 - [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.8K, 📝 05&#x2F;09 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
@@ -956,7 +1080,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Productivity Tools
 
-- [Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md) - ([Source ⭐ 44, 📝 03&#x2F;02 ](https://github.com/ProductivityDirectory/awesome-productivity-tools)) - My Awesome list of productivity tools and products
+- [Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md) - ([Source ⭐ 51, 📝 05&#x2F;22 ](https://github.com/ProductivityDirectory/awesome-productivity-tools)) - My Awesome list of productivity tools and products
 
 ### Programming Languages
 
@@ -1009,7 +1133,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 655, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 30K, 📝 04&#x2F;12 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 601, 📝 05&#x2F;16 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 601, 📝 05&#x2F;22 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.

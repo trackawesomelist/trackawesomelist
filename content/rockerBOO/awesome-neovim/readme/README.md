@@ -168,6 +168,7 @@ Collections of awesome neovim plugins.
 *   [lopi-py/luau-lsp.nvim (⭐30)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 *   [LukasPietzschmann/boo.nvim (⭐32)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 *   [zeioth/garbage-day.nvim (⭐213)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 
 #### LSP Installer
 
@@ -213,7 +214,7 @@ Collections of awesome neovim plugins.
 *   [olimorris/codecompanion.nvim (⭐101)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 *   [simplegpt.nvim (⭐9)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 *   [Exafunction/codeium.nvim (⭐553)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
-*   [CopilotC-Nvim/CopilotChat.nvim (⭐889)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [CopilotC-Nvim/CopilotChat.nvim (⭐971)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ## Programming Languages Support
 
@@ -875,6 +876,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [bfredl/nvim-ipy (⭐420)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
 *   [pianocomposer321/officer.nvim (⭐19)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 *   [speelbarrow/spLauncher.nvim (⭐4)](https://github.com/speelbarrow/spLauncher.nvim) - For launching tasks, I guess.
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
 
 ## Neovim Lua Development
 
