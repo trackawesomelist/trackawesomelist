@@ -6,6 +6,20 @@ Carefully curated list of awesome Jamstack resources
 
 [ Daily / [Weekly](/content/automata/awesome-jamstack/week/README.md) / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 
+## [May 22, 2024](/content/2024/05/22/README.md)
+
+### CMS
+
+*   [Decap CMS](https://decapcms.org/) - Open source Git-based CMS *(Formerly known as [Netlify CMS](https://v1.netlifycms.org/))*.
+
+### API / Authentication
+
+*   [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
+
+### API / E-commerce
+
+*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐20k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+
 ## [Oct 06, 2023](/content/2023/10/06/README.md)
 
 ### API / Database
@@ -56,7 +70,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐58)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐73)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -92,7 +106,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Authentication
 
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐112k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐121k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -243,7 +257,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### Serverless / Automation
 
-*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
 
@@ -427,7 +441,6 @@ Carefully curated list of awesome Jamstack resources
 
 ### CMS
 
-*   [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 
 ## [Sep 04, 2019](/content/2019/09/04/README.md)
@@ -459,7 +472,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐580)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐583)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 20, 2019](/content/2019/03/20/README.md)
 
@@ -541,7 +554,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Coisas (⭐316)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐325)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -560,7 +573,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐991)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐998)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 
