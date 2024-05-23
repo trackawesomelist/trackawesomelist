@@ -222,72 +222,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
 
-#### [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5)
-
-*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
-*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
-
-##### AI / Diagnostics
-
-*   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [arminveres/md-pdf.nvim (⭐28)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
-
-##### Marks / Diagnostics
-
-*   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
-
-##### Color / Diagnostics
-
-*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
-
-##### Note Taking / Diagnostics
-
-*   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
-*   [slugbyte/whip.nvim (⭐1)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
-
-##### Utility / Diagnostics
-
-*   [AlejandroSuero/freeze-code.nvim (⭐2)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
-
-##### Terminal Integration / Diagnostics
-
-*   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
-
-##### Code Runner / Diagnostics
-
-*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
-
-#### [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Articles / Others
 
 *   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
 
-#### [20. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [19. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 *   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 
-#### [21. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
-
-##### Project Management
-
-*   [Trello](https://productivity.directory/trello)
-*   [Zoho Projects](https://productivity.directory/zoho-projects)
-*   [Asana](https://productivity.directory/asana)
-*   [Smartsheet](https://productivity.directory/smartsheet)
-*   [Wrike](https://productivity.directory/wrike)
-*   [ClickUp](https://productivity.directory/clickup)
-*   [Microsoft Project](https://productivity.directory/microsoft-project)
-
-#### [22. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### CLI / Testing
 
@@ -408,25 +356,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [observable-webworker (⭐219)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 *   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 
-#### [23. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+#### [21. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ##### editors & viewers
 
 *   [point\_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 
-#### [24. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
 *   [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API\`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
 
-#### [25. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+#### [23. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ##### Scripts / YouTube
 
 *   [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 
-#### [26. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [24. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Databases Implemented in Go
 
@@ -552,13 +500,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [kubeblocks (⭐1.7k)](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 *   [podinfo (⭐5.2k)](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops.
 
-#### [27. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [25. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Reference
 
 *   [Ada 2022 Reference Card (⭐5)](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
-#### [28. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/README.md)
+#### [26. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/README.md)
 
 ##### Project Management Tools
 
@@ -648,6 +596,78 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Push to the Branch (`git push origin feature/AmazingFeature`)
 *   Open a Pull Request
 
+#### [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [zeioth/none-ls-autoload.nvim (⭐2)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+*   [luckasRanarison/clear-action.nvim (⭐85)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
+
+##### AI / Diagnostics
+
+*   [Aaronik/GPTModels.nvim (⭐6)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [arminveres/md-pdf.nvim (⭐28)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
+
+##### Marks / Diagnostics
+
+*   [niuiic/track.nvim (⭐2)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
+
+##### Color / Diagnostics
+
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [slugbyte/lackluster.nvim (⭐0)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+
+##### Note Taking / Diagnostics
+
+*   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+*   [slugbyte/whip.nvim (⭐1)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
+
+##### Utility / Diagnostics
+
+*   [AlejandroSuero/freeze-code.nvim (⭐2)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
+
+##### Terminal Integration / Diagnostics
+
+*   [NeViRAIDE/nekifoch.nvim (⭐9)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+
+##### Code Runner / Diagnostics
+
+*   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
+##### Git / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
+
+#### [28. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+
+##### :safety_vest: Community Prisma Tools
+
+*   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
+
+#### [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Design Theory
+
+*   [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
+
+#### [30. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+##### Project Management
+
+*   [Trello](https://productivity.directory/trello)
+*   [Zoho Projects](https://productivity.directory/zoho-projects)
+*   [Asana](https://productivity.directory/asana)
+*   [Smartsheet](https://productivity.directory/smartsheet)
+*   [Wrike](https://productivity.directory/wrike)
+*   [ClickUp](https://productivity.directory/clickup)
+*   [Microsoft Project](https://productivity.directory/microsoft-project)
+
 ---
 
 - Next: [May 13 - May 19, 2024](&#x2F;content&#x2F;2024&#x2F;20&#x2F;README.md)
@@ -666,9 +686,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 292K 📝 04&#x2F;29 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 11. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 23K 📝 05&#x2F;20 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 12. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 24K 📝 05&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-13. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 28K 📝 05&#x2F;15 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-14. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 29K 📝 05&#x2F;15 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 05&#x2F;22 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 05&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+14. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 28K 📝 05&#x2F;15 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+15. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 29K 📝 05&#x2F;15 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
 16. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 05&#x2F;16 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 17. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 05&#x2F;21 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 18. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 40K 📝 05&#x2F;09 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -909,7 +929,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;22 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -1196,7 +1216,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 19, 📝 04&#x2F;10 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
 - [Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md) - ([Source ⭐ 29, 📝 01&#x2F;03 ](https://github.com/ecohealthalliance/awesome-parasite)) - A curated list of host-parasite information
 - [Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md) - ([Source ⭐ 503, 📝 22&#x2F;06&#x2F;15 ](https://github.com/tobiasbueschel/awesome-pokemon)) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
-- [Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md) - ([Source ⭐ 593, 📝 05&#x2F;17 ](https://github.com/catalinmiron/awesome-prisma)) - A collection of awesome things regarding Prisma ecosystem.
+- [Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md) - ([Source ⭐ 593, 📝 05&#x2F;23 ](https://github.com/catalinmiron/awesome-prisma)) - A collection of awesome things regarding Prisma ecosystem.
 - [Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md) - ([Source ⭐ 2.2K, 📝 03&#x2F;21 ](https://github.com/ttt30ga/awesome-product-design)) - A collection of bookmarks, resources, articles for product designers.
 - [Awesome Project Management](/content/santiagoxlopez/awesome-project-management/README.md) - ([Source ⭐ 6, 📝 05&#x2F;22 ](https://github.com/santiagoxlopez/awesome-project-management)) - a curated list of project management tools and things
 - [Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md) - ([Source ⭐ 1.1K, 📝 23&#x2F;04&#x2F;02 ](https://github.com/melvin0008/awesome-projects-boilerplates)) - Boilerplates for mobile and web apps
@@ -1441,7 +1461,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 250, 📝 05&#x2F;15 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 250, 📝 05&#x2F;23 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 18K, 📝 04&#x2F;26 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 03&#x2F;12 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

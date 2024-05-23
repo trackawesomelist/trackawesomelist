@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [May 23, 2024](/content/2024/05/23/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
+
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis

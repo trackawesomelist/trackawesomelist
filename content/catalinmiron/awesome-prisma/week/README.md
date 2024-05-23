@@ -6,6 +6,12 @@ A collection of awesome things regarding Prisma ecosystem.
 
 [ [Daily](/content/catalinmiron/awesome-prisma/README.md) / Weekly / [Overview](/content/catalinmiron/awesome-prisma/readme/README.md) ]
 
+## [May 20 - May 26, 2024](/content/2024/21/README.md)
+
+### :safety_vest: Community Prisma Tools
+
+*   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
+
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### :safety_vest: Community Prisma Tools
@@ -89,7 +95,7 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools / :man_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐1.6k)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.7k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 

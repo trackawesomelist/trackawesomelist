@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 23, 2024](/content/2024/05/23/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [slugbyte/lackluster.nvim (⭐0)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+
+### Git / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
+
 ## [May 22, 2024](/content/2024/05/22/README.md)
 
 ### (requires Neovim 0.5)

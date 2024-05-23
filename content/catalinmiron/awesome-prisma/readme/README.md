@@ -77,10 +77,11 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 *   [Schemix - Generate Prisma Schemas with TypeScript (⭐473)](https://github.com/ridafkih/schemix)
 *   [Prismock - Run tests in isolation with an in-memory implementation of Prisma (⭐153)](https://github.com/morintd/prismock)
 *   [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files (⭐124)](https://github.com/MrLeebo/prisma-ast)
+*   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
 
 ### :man\_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐1.6k)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.7k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ### :gear: Schema Visualization Tools
 

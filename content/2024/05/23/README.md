@@ -1,18 +1,40 @@
 # Awesome List Updates on May 23, 2024
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
+
+## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+
+### :safety_vest: Community Prisma Tools
+
+*   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [slugbyte/lackluster.nvim (⭐0)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+
+### Git / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
+
+## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Reference
 
 *   [Ada 2022 Reference Card (⭐5)](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 
@@ -130,25 +152,25 @@
 *   [kubeblocks (⭐1.7k)](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 *   [podinfo (⭐5.2k)](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops.
 
-## [3. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [6. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API\`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
 
-## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### editors & viewers
 
 *   [point\_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Images / Validation
 

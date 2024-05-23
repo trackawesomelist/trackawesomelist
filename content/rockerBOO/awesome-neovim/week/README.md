@@ -29,6 +29,10 @@ Collections of awesome neovim plugins.
 
 *   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [slugbyte/lackluster.nvim (⭐0)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+
 ### Note Taking / Diagnostics
 
 *   [nvim-telekasten/telekasten.nvim (⭐1.2k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
@@ -45,6 +49,10 @@ Collections of awesome neovim plugins.
 ### Code Runner / Diagnostics
 
 *   [al1-ce/just.nvim (⭐5)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+
+### Git / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
 
 ## [May 06 - May 12, 2024](/content/2024/19/README.md)
 
