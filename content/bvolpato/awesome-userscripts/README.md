@@ -2,9 +2,15 @@
 
 📖  A curated list of Awesome Userscripts.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) · ⭐ 1.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) · ⭐ 1.6K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/bvolpato/awesome-userscripts/week/README.md) / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
+
+## [May 23, 2024](/content/2024/05/23/README.md)
+
+### Scripts / YouTube
+
+*   [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 
 ## [May 05, 2024](/content/2024/05/05/README.md)
 
@@ -72,7 +78,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐35)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐37)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 
@@ -94,13 +100,13 @@
 
 ### Scripts / GitHub
 
-*   [GitHub collapse markdown (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
+*   [GitHub collapse markdown (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
 ## [May 18, 2020](/content/2020/05/18/README.md)
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐18)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐19)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
 ## [Feb 03, 2020](/content/2020/02/03/README.md)
 
@@ -173,34 +179,34 @@
 
 ### Scripts / GitHub
 
-*   [Gist to dabblet (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
+*   [Gist to dabblet (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 *   [GitHub Custom Emojis (⭐70)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐548)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
-*   [GitHub code colors (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
-*   [GitHub code folding (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
-*   [GitHub code guides (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
-*   [GitHub code show whitespace (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files.
-*   [GitHub collapse in comment (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments.
-*   [GitHub custom hotkeys (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub.
-*   [GitHub custom navigation (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere.
-*   [GitHub diff files filter (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
-*   [GitHub diff links (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - Add next and previous buttons to each diff file.
-*   [GitHub font preview (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files.
-*   [GitHub image preview (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode.
-*   [GitHub indent comments (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments.
-*   [GitHub issue comments (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries.
-*   [GitHub issue counts (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view.
-*   [GitHub issue highlighter (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue.
-*   [GitHub label color picker (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor.
-*   [GitHub remove diff signs (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs.
-*   [GitHub rtl comments (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments.
-*   [GitHub search autocomplete (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub.
-*   [GitHub sort content (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
-*   [GitHub static time (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
-*   [GitHub table of contents (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages.
-*   [GitHub title notification (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
-*   [GitHub toggle expanders (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
-*   [GitHub toggle wiki sidebar (⭐1.7k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
+*   [GitHub Dark Script (⭐549)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub code colors (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
+*   [GitHub code folding (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
+*   [GitHub code guides (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
+*   [GitHub code show whitespace (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files.
+*   [GitHub collapse in comment (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments.
+*   [GitHub custom hotkeys (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub.
+*   [GitHub custom navigation (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere.
+*   [GitHub diff files filter (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
+*   [GitHub diff links (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - Add next and previous buttons to each diff file.
+*   [GitHub font preview (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files.
+*   [GitHub image preview (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode.
+*   [GitHub indent comments (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments.
+*   [GitHub issue comments (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries.
+*   [GitHub issue counts (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view.
+*   [GitHub issue highlighter (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue.
+*   [GitHub label color picker (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor.
+*   [GitHub remove diff signs (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs.
+*   [GitHub rtl comments (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments.
+*   [GitHub search autocomplete (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub.
+*   [GitHub sort content (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
+*   [GitHub static time (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
+*   [GitHub table of contents (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages.
+*   [GitHub title notification (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
+*   [GitHub toggle expanders (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
+*   [GitHub toggle wiki sidebar (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
 
 ## [Jan 22, 2017](/content/2017/01/22/README.md)
 
@@ -212,7 +218,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐767)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐772)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ## [Jul 31, 2016](/content/2016/07/31/README.md)
 
