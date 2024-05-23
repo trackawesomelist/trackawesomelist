@@ -142,7 +142,7 @@
 
 ### IoT
 
-*   [PresenceLight (⭐414)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
+*   [PresenceLight (⭐412)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
 ## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.4k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.5k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [21. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -521,7 +521,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐156)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐157)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ### Components & Libraries / Frameworks
 
@@ -712,7 +712,7 @@
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Liuli (⭐867)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+*   [Liuli (⭐884)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
 ### RSS2KINDLE / Docsify
 
@@ -764,7 +764,7 @@
 
 ### Misc libraries
 
-*   [SasLuca/zig-nanoid (⭐23)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
+*   [SasLuca/zig-nanoid (⭐24)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
 ## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -813,7 +813,7 @@
 
 *   [hrsh7th/nvim-cmp (⭐7.2k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
     *   [lukas-reineke/cmp-under-comparator (⭐164)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [SergioRibera/cmp-dotenv (⭐37)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
+    *   [SergioRibera/cmp-dotenv (⭐45)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -842,8 +842,8 @@
 
 ### operations
 
-*   [turf (⭐8.5k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
-*   [turf\_dart (⭐45)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+*   [turf (⭐8.8k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf\_dart (⭐59)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 
 ## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

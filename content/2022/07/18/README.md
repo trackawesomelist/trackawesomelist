@@ -17,7 +17,7 @@
 ### Parser / Package managers
 
 *   [goto-bus-stop/ziguid (⭐6)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
-*   [sam701/zig-cli (⭐133)](https://github.com/sam701/zig-cli) - Package for building command line apps.
+*   [sam701/zig-cli (⭐142)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
 ## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -114,10 +114,6 @@
 
 *   [bin (⭐362)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐518)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
-
-### Software / Software Development - FaaS & Serverless
-
-*   [fx (⭐2.1k)](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
 
 ### Software / Status / Uptime pages
 

@@ -28,7 +28,7 @@
 
 ### JavaScript / Demos and Scripts
 
-*   [The Bot (⭐5)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
+*   [The Bot (⭐6)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 *   [Half Beer (⭐7)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)

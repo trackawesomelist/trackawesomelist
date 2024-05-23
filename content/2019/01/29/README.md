@@ -130,7 +130,7 @@
 
 ### Python / Git
 
-*   [Crypto-Vinaigrette (⭐19)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
+*   [Crypto-Vinaigrette (⭐20)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
 ## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

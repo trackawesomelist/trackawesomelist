@@ -10,7 +10,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐181)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐182)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 

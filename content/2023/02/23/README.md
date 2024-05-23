@@ -77,7 +77,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [hwchase17/langchain (⭐84k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐85k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -91,7 +91,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [PBandJ (⭐108)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
+*   [PBandJ (⭐107)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

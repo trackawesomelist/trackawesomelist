@@ -63,12 +63,12 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐186)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐198)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
     *   [Selenium WebDriver (⭐29k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.

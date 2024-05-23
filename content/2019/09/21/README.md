@@ -34,7 +34,7 @@
 
 ### Audio
 
-*   [libsoundio (⭐1.8k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Coding Style Tools
 

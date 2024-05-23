@@ -59,7 +59,7 @@
 
 ### Image Processing
 
-*   [OpenJPEG (⭐938)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+*   [OpenJPEG (⭐940)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 

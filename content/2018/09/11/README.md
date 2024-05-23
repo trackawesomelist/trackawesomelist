@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -148,19 +148,13 @@
 
 *   [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum\&utm_medium=twitter\&utm_campaign=sentiment-analysis)
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [William Grasel](https://twitter.com/willgmbr)
-
-## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 

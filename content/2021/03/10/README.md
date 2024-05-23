@@ -137,7 +137,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.7k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4.8k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 

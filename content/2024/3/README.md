@@ -75,11 +75,11 @@
 
 ### Software / Database Management
 
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐273)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐286)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.5k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
+*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.6k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
 ### Software / Genealogy
 
@@ -87,11 +87,11 @@
 
 ### Software / Groupware
 
-*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐13k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
+*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐14k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [ybFeed (⭐22)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
+*   [ybFeed (⭐24)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -377,16 +377,16 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐64)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐70)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ### Utility / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.notify (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
-*   [theKnightsOfRohan/csvlens.nvim (⭐28)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐28)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.3k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
-*   [pianocomposer321/officer.nvim (⭐17)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+*   [pianocomposer321/officer.nvim (⭐19)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
 ## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -452,7 +452,7 @@
 
 ### Compression
 
-*   [Rapidgzip (⭐317)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
+*   [Rapidgzip (⭐324)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
 ### Inter-process communication
 
@@ -466,7 +466,7 @@
 
 ### Applications / Blockchain
 
-*   [beerus (⭐225)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+*   [beerus (⭐229)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 
 ### Applications / Database
 
@@ -478,13 +478,13 @@
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐72)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐74)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
 ## [30. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
-*   [AutoGen (⭐23k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐26k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [31. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 

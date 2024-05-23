@@ -64,7 +64,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.8k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.9k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -90,7 +90,7 @@
 
 ### OpenSource-Computer-Vision / Data Analysis / Data Visualization
 
-*   [OpenCV (⭐75k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+*   [OpenCV (⭐76k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
 
 ### Python / General-Purpose Machine Learning
 
@@ -98,9 +98,9 @@
 
 ### Python / Spiking Neural Networks
 
-*   [Rockpool (⭐42)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
-*   [Sinabs (⭐60)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
-*   [Tonic (⭐186)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+*   [Rockpool (⭐43)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
+*   [Sinabs (⭐67)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
+*   [Tonic (⭐191)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

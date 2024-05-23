@@ -124,7 +124,7 @@
 
 ### xConnect and xDB
 
-*   [XConnectHelper (⭐21)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on the last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
+*   [XConnectHelper (⭐23)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on the last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 
 ## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

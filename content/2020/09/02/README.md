@@ -33,7 +33,7 @@
 
 ### Mobile Development
 
-*   [PubNub (⭐121)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
+*   [PubNub (⭐120)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐149)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -129,7 +129,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐265)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐267)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 

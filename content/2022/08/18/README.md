@@ -86,7 +86,7 @@
 
 ### PowerShell / Symfony2
 
-*   [Pode (⭐671)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐784)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ## [13. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 

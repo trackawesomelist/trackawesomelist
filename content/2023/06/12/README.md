@@ -58,7 +58,7 @@
 
 ### Applications / Routing protocols
 
-*   [RustyBGP (⭐463)](https://github.com/osrg/rustybgp) - BGP
+*   [RustyBGP (⭐466)](https://github.com/osrg/rustybgp) - BGP
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -79,7 +79,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [RSS 阅读器](https://logspot.hocgin.top/addone-rss-reader) <sup>[1312](https://t.me/s/aboutrss/1312)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/bfdoopgbjcacghflbbdikollnphobemo)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [MeRead (⭐357)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [MeRead (⭐373)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Feedy](https://krillapps.com/feedy/) [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/feedy-rss-client/id588288104)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -98,7 +98,7 @@
 ### Other Apps / Outline Processor Markup Language
 
 *   Android Launcher
-    *   [Posidon launcher (⭐283)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
+    *   [Posidon launcher (⭐282)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
     *   [Stario Launcher](https://www.producthunt.com/products/stario-launcher) <sup>[1297](https://t.me/s/aboutrss/1297)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.stario.launcher)
 *   [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gedoor/legado)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Mastofeeder](https://mastofeeder.com/) <sup>[1327](https://t.me/s/aboutrss/1327)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jehna/mastofeeder)
@@ -126,7 +126,7 @@
 
 ### specifically from (*a certain platform*) / Telegram
 
-*   [tg-archive (⭐713)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
+*   [tg-archive (⭐759)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
 
 ### RSS2MAIL / Docsify
 

@@ -30,7 +30,7 @@
 
 ### Info / Other Good Places to Find Papers
 
-*   [Services Engineering Reading List (⭐3.5k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 *   [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)

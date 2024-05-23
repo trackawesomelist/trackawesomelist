@@ -218,7 +218,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Automation
 
-*   [Danger (⭐5.3k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
+*   [Danger (⭐5.4k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 
 ### CLI Utilities
 
@@ -226,7 +226,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐215)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐216)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -415,7 +415,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Software / Ticketing
 
-*   [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code (⭐637)](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`
+*   [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code (⭐643)](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`
 
 ### Software / Wikis
 

@@ -38,23 +38,23 @@
 
 ### operations
 
-*   [rfc7946-to-d3 (⭐11)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐987)](https://github.com/d3/d3-geo#d3-geo) conventions.
+*   [rfc7946-to-d3 (⭐11)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐1k)](https://github.com/d3/d3-geo#d3-geo) conventions.
 *   [geojsontools (⭐18)](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
 
 ### conversion
 
 *   **CSV**
-    *   [csv2geojson (⭐355)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
+    *   [csv2geojson (⭐360)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
     *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
 *   [vt-geojson (⭐60)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-*   [tokml (⭐177)](https://github.com/mapbox/tokml): convert GeoJSON to KML
-*   [wellknown (⭐257)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+*   [tokml (⭐183)](https://github.com/mapbox/tokml): convert GeoJSON to KML
+*   [wellknown (⭐261)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
 *   [geoxform (⭐14)](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 *   **SVG**
-    *   [geojson2svg (⭐199)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
-    *   [geojson-svgify (⭐16)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
+    *   [geojson2svg (⭐209)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
+    *   [geojson-svgify (⭐17)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
     *   [geojson-to-svg-cli (⭐26)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
-    *   [svg-to-geojson (⭐113)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
+    *   [svg-to-geojson (⭐114)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 *   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 *   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
 
@@ -140,13 +140,13 @@
 ### Database Tools
 
 *   [SecondBase (⭐221)](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
-*   [Standby (⭐87)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
+*   [Standby (⭐86)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 
 ### Scientific
 
 *   Utilities
-    *   [algorithms (⭐2.6k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
-    *   [jaro\_winkler (⭐187)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
+    *   [algorithms (⭐2.7k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
+    *   [jaro\_winkler (⭐190)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
     *   [primes-utils (⭐3)](https://github.com/jzakiya/primes-utils) - A Rubygem which provides a suite of extremely fast utility methods for testing and generating primes.
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
     *   [smarter\_csv (⭐1.4k)](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
@@ -570,7 +570,7 @@
 
 ### Python / Git
 
-*   [Crypto-Vinaigrette (⭐19)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
+*   [Crypto-Vinaigrette (⭐20)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
 ## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -856,7 +856,7 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 ### Contents / Language bindings
 
-*   Clojure: [clj-postgresql (⭐160)](https://github.com/remodoy/clj-postgresql)
+*   Clojure: [clj-postgresql (⭐161)](https://github.com/remodoy/clj-postgresql)
 
 ## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐251)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

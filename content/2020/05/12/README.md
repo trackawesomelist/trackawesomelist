@@ -70,7 +70,7 @@
 
 ### Software / Diagramming
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐38k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐39k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

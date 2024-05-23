@@ -428,7 +428,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐193)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐195)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [40. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 

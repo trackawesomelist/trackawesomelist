@@ -16,11 +16,11 @@
 
 ### Email
 
-*   [Sup (⭐876)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐882)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐887)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐893)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### RSS
 

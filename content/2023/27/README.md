@@ -219,11 +219,11 @@
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐26)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐27)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐53)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐59)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
@@ -404,7 +404,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐332)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐343)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -605,7 +605,7 @@
 
 ### Go / Natural Language Processing
 
-*   [Cybertron (⭐250)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+*   [Cybertron (⭐259)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 
 ### Go / General-Purpose Machine Learning
 
@@ -613,7 +613,7 @@
 
 ### Python / Computer Vision
 
-*   [joliGEN (⭐196)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+*   [joliGEN (⭐204)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -676,7 +676,7 @@
 
 ### Software / Service Discovery
 
-*   [etcd](https://etcd.io/) - Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code (⭐46k)](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
+*   [etcd](https://etcd.io/) - Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code (⭐47k)](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
 
 ### Software / Software Containers
 
@@ -738,11 +738,11 @@
 
 ### DSP
 
-*   [DSPFilters (⭐1.7k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐579)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
-*   [kissfft (⭐1.3k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
-*   [pocketfft (⭐53)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐337)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [DSPFilters (⭐1.8k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
+*   [iir1 (⭐587)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [kissfft (⭐1.4k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
+*   [pocketfft (⭐56)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
+*   [wavelib (⭐343)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
 ### Inter-process communication
 
@@ -752,11 +752,11 @@
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐246)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐251)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐313)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐323)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Finance
 
@@ -804,7 +804,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐257)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐60k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐263)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐60k)](https://github.com/junegunn/fzf) history and file searches.
 *   [fzf-tools (⭐8)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐60k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

@@ -26,11 +26,11 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐37)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐38)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐14)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐15)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 

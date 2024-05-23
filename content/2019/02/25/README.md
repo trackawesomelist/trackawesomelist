@@ -69,7 +69,7 @@
 
 ### PDF
 
-*   [InvoicePrinter (⭐870)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐872)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -81,7 +81,7 @@
 
 ### Social Networking
 
-*   [Mastodon (⭐4)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+*   [Mastodon (⭐5)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
 
 ### Third-party APIs
 

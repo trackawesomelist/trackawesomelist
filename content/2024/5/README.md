@@ -83,7 +83,7 @@
 
   Documentation: [Documentation](https://docs.dagger.io/)
 
-  Price: [Open Source (⭐9.6k)](https://github.com/dagger/dagger)
+  Price: [Open Source (⭐10k)](https://github.com/dagger/dagger)
 
   Stars: 
 
@@ -93,7 +93,7 @@
 
 ### JSS
 
-*   [jss21.4-nextjs-storybook7.4 (⭐3)](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
+*   [jss21.4-nextjs-storybook7.4 (⭐4)](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
 
 ## [9. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Router / Mouse Events
 
-*   [tanstack-router (⭐7.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐7.2k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -273,38 +273,38 @@
 
 ## [26. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
-### Contents / Task Management
+### Task Management
 
 *   **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
 *   **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
 *   **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
 *   **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
 
-### Contents / Time Tracking
+### Time Tracking
 
 *   **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - Easy time tracking for any project.
 *   **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 *   **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 
-### Contents / Note Taking
+### Note Taking
 
 *   **[Evernote](https://evernote.com)** - [review](https://productivity.directory/evernote) - Note-taking, organizing, and archiving.
 *   **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 *   **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
 
-### Contents / Collaboration
+### Collaboration
 
 *   **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
 *   **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
 *   **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
 
-### Contents / Project Management
+### Project Management
 
 *   **[Jira](https://www.atlassian.com/software/jira)** - [review](https://productivity.directory/jira) - Issue and project tracking for software teams.
 *   **[Monday.com](https://monday.com)** - [review](https://productivity.directory/mondaydotcom) - Work operating system for teams.
 *   **[Basecamp](https://basecamp.com)** - [review](https://productivity.directory/basecamp) - Real-time communication tool for teams.
 
-### Contents / Calendar and Scheduling
+### Calendar and Scheduling
 
 *   **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
 *   **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
@@ -341,7 +341,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐171)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐186)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ### AI / Diagnostics
 
@@ -349,7 +349,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sontungexpt/witch (⭐21)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐23)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -363,13 +363,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cdhist (⭐4)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
+*   [cdhist (⭐5)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
 *   [redo (⭐3)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
 *   [selector (⭐4)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ssh-config-suggestions (⭐0)](https://github.com/yngc0der/zsh-ssh-config-suggestions)- Loads completions for `ssh` from `~/.ssh/config`.
+*   [ssh-config-suggestions (⭐1)](https://github.com/yngc0der/zsh-ssh-config-suggestions)- Loads completions for `ssh` from `~/.ssh/config`.
 
 ## [32. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 

@@ -59,10 +59,10 @@
 
 ### Azure
 
-*   [ARM templates for Sitecore (⭐141)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+*   [ARM templates for Sitecore (⭐140)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 *   [Sitecore Advanced Azure Devops (⭐13)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
-*   [Language Understanding (LUIS) Samples (⭐86)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
+*   [Language Understanding (LUIS) Samples (⭐85)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
 *   [Sitecore Media Azure Blob Storage provider (⭐0)](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 *   [CloudMediaLibrary (⭐5)](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
 *   [Sitecore Publishing Service Azure Templates (⭐2)](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
@@ -77,7 +77,7 @@
 ### Commerce
 
 *   [Commerce Sample Plugins (⭐13)](https://github.com/Sitecore/SitecoreCommerce) - A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
-*   [HabitatHome Commerce (⭐25)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - An example built using SXA on XP and XC following the Helix architecture principles.
+*   [HabitatHome Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - An example built using SXA on XP and XC following the Helix architecture principles.
 *   [sitecore-commerce-configuration (⭐3)](https://github.com/richardszalay/sitecore-commerce-configuration) - Tools for configuring and boostrapping Sitecore Commerce Engine configuration.
 *   [Plumber for Sitecore Commerce (⭐1)](https://github.com/richardszalay/plumber-sc) - Tool to view Sitecore Commerce Engine Configuration.
 *   [Short Confirmation Codes (⭐0)](https://github.com/dsolovay/ShortConfirmationCodes) - Provides six-character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box.
@@ -89,7 +89,7 @@
 ### Containers
 
 *   [Repository of Sitecore Docker images (⭐176)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
-*   [Packer for Sitecore (⭐20)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
+*   [Packer for Sitecore (⭐21)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 *   [Docker SOLR with SSL (⭐11)](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate.
 
 ### Content Hub
@@ -116,14 +116,14 @@
 ### Demo
 
 *   [Sitecore.HabitatHome.Utilities (⭐38)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.
-*   [Sitecore.HabitatHome.Commerce (⭐25)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
+*   [Sitecore.HabitatHome.Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 *   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 *   [Sitecore User Group UK (⭐5)](https://github.com/steviemcg/scuguk) - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
 
 ### Deployment
 
 *   [PostDeploySteps (⭐0)](https://github.com/jst-cyr/NonlinearPostDeploySteps) - Post-deploy steps for use with TDS. 1) TDS Example project that triggers the post-deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.
-*   [Sitecore Devops with AppVeyor (⭐1)](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) - Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.
+*   [Sitecore Devops with AppVeyor](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) - Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.
 
 ### Extending Content Editor
 
@@ -151,7 +151,7 @@
 
 ### JSS
 
-*   [JSS (⭐248)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐253)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
@@ -163,7 +163,7 @@
 ### Helix
 
 *   [Sitecore Helix Documentation (⭐26)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
-*   [Helixbase (⭐105)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
+*   [Helixbase (⭐106)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
@@ -187,14 +187,14 @@
 
 ### Maintenance
 
-*   [Sitecore Instance Manager (⭐109)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
+*   [Sitecore Instance Manager (⭐108)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 
 ### Media
 
 *   [Autocropper (⭐0)](https://github.com/zkniebel/Autocropper) - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
 *   [Media-Framework-Brightcove-Edition (⭐3)](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - Brightcove connector for Sitecore Media Framework.
 *   [Shrink (⭐2)](https://github.com/robhabraken/shrink) - Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
-*   [Dianoga (⭐101)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
+*   [Dianoga (⭐102)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 
 ### ORM
 
@@ -252,7 +252,7 @@
 
 ### Serialization
 
-*   [Rainbow (⭐35)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
+*   [Rainbow (⭐34)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
 *   [Unicorn (⭐268)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
 *   [Sidekick (⭐47)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs-based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
@@ -264,12 +264,12 @@
 ### SPE (Sitecore PowerShell Extension)
 
 *   [Sitecore PowerShell](https://github.com/SitecorePowerShell) - Sitecore PowerShell Initiative official GitHub.
-*   [Sitecore.Utilities (⭐8)](https://github.com/alan-null/Sitecore.Utilities) - A set of small modules for Sitecore PowerShell Extensions.
+*   [Sitecore.Utilities (⭐9)](https://github.com/alan-null/Sitecore.Utilities) - A set of small modules for Sitecore PowerShell Extensions.
 
 ### SXA (Sitecore Experience Accelerator)
 
 *   [Sitecore Experience Accelerator index (⭐4)](https://github.com/alan-null/SXA.Index) - The whole set of dicumentation about SXA.
-*   [SXA Styleguide (⭐13)](https://github.com/markvanaalst/SXA.Styleguide) - An education site based on SXA that helps explain the inner workings and illustrate best practices.
+*   [SXA Styleguide (⭐14)](https://github.com/markvanaalst/SXA.Styleguide) - An education site based on SXA that helps explain the inner workings and illustrate best practices.
 *   [SXA.Styleguide.Frontend (⭐1)](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates.
 *   [SXA.Foundation.Variants (⭐4)](https://github.com/MartinMiles/SXA.Foundation.Variants) - A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
 *   [SXA Reference (⭐19)](https://github.com/alan-null/XA.Reference) - An example Sitecore project built on top of Sitecore Experience Accelerator.
@@ -280,7 +280,7 @@
 
 ### Testing
 
-*   [Sitecore FakeDb (⭐117)](https://github.com/sshushliapin/Sitecore.FakeDb) - A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
+*   [Sitecore FakeDb (⭐118)](https://github.com/sshushliapin/Sitecore.FakeDb) - A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
 
 ### Templates
 

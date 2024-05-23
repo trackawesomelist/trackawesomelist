@@ -6008,7 +6008,7 @@
 
 ### GUI
 
-*   [Jailer (⭐2.6k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐2.7k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
 ## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -6118,7 +6118,7 @@
 ### RSS2KINDLE / Docsify
 
 *   [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup>
-    *   [Reabble for Android (⭐113)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
+    *   [Reabble for Android (⭐115)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
 *   [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
@@ -6166,8 +6166,8 @@
 
 ### RSS2TelegramChannel / Docsify
 
-*   [Newspopper (⭐12)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
-*   [Rui (⭐7)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
+*   [Newspopper (⭐13)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
+*   [Rui (⭐8)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
 ### RSS2NOTION / Docsify
 
@@ -6234,7 +6234,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐762)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐775)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [19. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -6406,7 +6406,7 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Generator (⭐733)](https://github.com/keonik/prisma-erd-generator)
+*   [Prisma ERD Generator (⭐820)](https://github.com/keonik/prisma-erd-generator)
 
 ## [32. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -6491,19 +6491,19 @@
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐153)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐155)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
-*   [Vite Ruby (⭐1.1k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐1.2k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐319)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐318)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
-*   [attr-gather (⭐36)](https://github.com/ianks/attr-gather) - A gem for creating workflows that "enhance" entities with extra attributes. At a high level, attr-gather provides a process to fetch information from many data sources (such as third party APIs, legacy databases, etc.) in a fully parallelized fashion.
+*   [attr-gather (⭐37)](https://github.com/ianks/attr-gather) - A gem for creating workflows that "enhance" entities with extra attributes. At a high level, attr-gather provides a process to fetch information from many data sources (such as third party APIs, legacy databases, etc.) in a fully parallelized fashion.
 
 ### HTTP Clients and tools
 
@@ -6546,7 +6546,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐120)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐121)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Components & Libraries / UI Utilities

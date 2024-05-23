@@ -113,7 +113,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐296)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐298)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

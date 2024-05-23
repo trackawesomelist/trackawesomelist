@@ -10,7 +10,7 @@
 
 ### editors & viewers
 
-*   [gjv (⭐76)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
+*   [gjv (⭐75)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 
 ### data
 

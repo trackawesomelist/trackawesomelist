@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐281)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐285)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Rules
 
-*   [Sitecore Adaptive Rules (⭐6)](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
+*   [Sitecore Adaptive Rules](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

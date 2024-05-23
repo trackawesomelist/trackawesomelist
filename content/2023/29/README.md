@@ -71,7 +71,7 @@
 
 ### Applications
 
-*   [shoes (⭐163)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐165)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ### Development tools / Embedded
 
@@ -172,7 +172,7 @@
 
 ### Photo / Image
 
-*   [zoom-image (⭐277)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+*   [zoom-image (⭐278)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -305,16 +305,16 @@
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐96)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Stabilizer (⭐97)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐10)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐7)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
-*   [Card/IO ECG (⭐25)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
+*   [Card/IO ECG (⭐26)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
 
 ## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Apache License
 
-*   [hirtos (⭐22)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐26)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ### Science / Apache License
 
@@ -512,8 +512,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-fixed-header (⭐46)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
-*   [@tato30/vue-pdf (⭐297)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [vue-use-fixed-header (⭐47)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+*   [@tato30/vue-pdf (⭐312)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 *   [vue-hierarchy (⭐3)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
@@ -619,9 +619,9 @@
 ### JavaScript / Git
 
 *   noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
-    *   [noble-ciphers (⭐124)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
-    *   [noble-curves (⭐535)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐667)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐367)](https://github.com/paulmillr/noble-ed25519)
-    *   [noble-hashes (⭐440)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
+    *   [noble-ciphers (⭐144)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
+    *   [noble-curves (⭐591)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐698)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐392)](https://github.com/paulmillr/noble-ed25519)
+    *   [noble-hashes (⭐479)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
 
 ### Web-sites / Git
 

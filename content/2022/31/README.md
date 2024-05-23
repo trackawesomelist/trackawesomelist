@@ -36,7 +36,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Chips-n-Salsa (⭐49)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
+*   [Chips-n-Salsa (⭐52)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
 
 ## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -54,17 +54,17 @@
 
 ### Guidelines
 
-*   [Adidas REST API Guidelines (⭐243)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
+*   [Adidas REST API Guidelines (⭐266)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
 *   [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.
-*   [Cisco REST API Guide (⭐99)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
+*   [Cisco REST API Guide (⭐107)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 *   [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
-*   [Haufe API Style Guide (⭐195)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
+*   [Haufe API Style Guide (⭐217)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
 *   [Microsoft REST API Guidelines (⭐22k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-*   [Restful API Guidelines by Zalando (⭐1.9k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+*   [Restful API Guidelines by Zalando (⭐2.4k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ### Generators
 
-*   [openapi-generator (⭐17k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
@@ -435,7 +435,7 @@
 
 ### Datasets
 
-*   [Brno Urban Dataset :octocat: (⭐142)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+*   [Brno Urban Dataset :octocat: (⭐146)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
@@ -461,7 +461,7 @@
 
 ### GUI
 
-*   [capy-ui/capy (⭐1.3k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐1.4k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
 ## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -488,14 +488,14 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-finder (⭐12)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
-*   [shellfirm (⭐724)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
+*   [alias-finder (⭐13)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
+*   [shellfirm (⭐764)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [completions (clarketm) (⭐58)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.6k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (clarketm) (⭐58)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.7k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
 *   [completions (zchee) (⭐104)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
-*   [completions (zsh-users) (⭐6.6k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+*   [completions (zsh-users) (⭐6.7k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 *   [fzshell (⭐74)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
 *   [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
 
@@ -528,7 +528,7 @@
 
 ### Miscellaneous
 
-*   [D++ (DPP) (⭐947)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
+*   [D++ (DPP) (⭐959)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 
 ## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -590,7 +590,6 @@
 
 *   [Apache Solr](https://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. ([Source Code (⭐1k)](https://github.com/apache/solr)) `Apache-2.0` `Java/Docker/K8S`
 *   [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code (⭐6.8k)](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
-*   [NATS](https://nats.io/) - Publish/Subscribe event bus, durable queues, key-value store, object store, and more. Native multi-tenancy, multiple authentication and authorization mechanisms. Easy to self-host and federate. ([Source Code (⭐15k)](https://github.com/nats-io/nats-server), [Clients](https://github.com/nats-io)) `Apache-2.0` `Go/deb/Docker/K8S`
 
 ### Software / Money, Budgeting & Management
 
@@ -607,7 +606,7 @@
 
 ### Software / Software Development - Testing
 
-*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐481)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
+*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐483)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
 
 ## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -643,7 +642,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [intlify/vue-i18n-next (⭐1.9k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
+*   [intlify/vue-i18n-next (⭐2k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 
 ## [53. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐200)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐205)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

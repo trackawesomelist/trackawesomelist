@@ -43,7 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐941)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐946)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -390,7 +390,7 @@
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [neuml/txtai (⭐7k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐7.1k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ### Image Synthesis / Multi-agents
 
@@ -424,7 +424,7 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐17k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [Langflow (⭐18k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 
 ### Tools / Services
 
@@ -452,11 +452,11 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Paper QA (⭐3.6k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
+*   [Paper QA (⭐3.7k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 *   [Chat Langchain (⭐4.8k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 *   [Book GPT (⭐433)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 *   [Chat LangchainJS (⭐291)](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
-*   [Doc Search (⭐601)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
+*   [Doc Search (⭐600)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
 *   [Fact Checker (⭐261)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
 *   [QABot (⭐232)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
 *   [GPT Automator (⭐208)](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant. ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social)
@@ -692,7 +692,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vite-vue-ultimate-starter (⭐16)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
+*   [vite-vue-ultimate-starter (⭐17)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
 *   [vue-daisyui-theme-manager (⭐9)](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system.
 
 ### Components & Libraries / UI Components
@@ -703,7 +703,7 @@
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐789)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐817)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 

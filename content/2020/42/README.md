@@ -217,10 +217,6 @@
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ankit](https://twitter.com/ankitsharma_007)
-
 ### Books / Testing
 
 *   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
@@ -307,7 +303,7 @@
 
 ### Machine Learning
 
-*   [rumale (⭐734)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐743)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -1207,34 +1203,34 @@
 ### Clojure / Deep Learning
 
 *   [MXNet](https://mxnet.apache.org/versions/1.7.0/api/clojure) - Bindings to Apache MXNet - part of the MXNet project
-*   [Deep Diamond (⭐413)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
+*   [Deep Diamond (⭐414)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 *   [jutsu.ai (⭐99)](https://github.com/hswick/jutsu.ai) - Clojure wrapper for deeplearning4j with some added syntactic sugar.
 *   [dl4clj (⭐99)](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 
 ### Clojure / Data Analysis
 
-*   [Tablecloth (⭐261)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
+*   [Tablecloth (⭐269)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
 *   [Panthera (⭐187)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
-*   [Geni (⭐273)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
+*   [Geni (⭐277)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
 
 ### Clojure / Data Visualization
 
-*   [Hanami (⭐365)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
-*   [Saite (⭐134)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
-*   [Oz (⭐821)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
-*   [clojupyter (⭐812)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+*   [Hanami (⭐377)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+*   [Saite (⭐135)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
+*   [Oz (⭐823)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+*   [clojupyter (⭐815)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
 ### Clojure / Interop
 
 *   [Java Interop](https://clojure.org/reference/java_interop) - Clojure has Native Java Interop from which Java's ML ecosystem can be accessed
 *   [JavaScript Interop](https://clojurescript.org/reference/javascript-api) - ClojureScript has Native JavaScript Interop from which JavaScript's ML ecosystem can be accessed
 *   [Libpython-clj (⭐1k)](https://github.com/clj-python/libpython-clj) - Interop with Python
-*   [ClojisR (⭐141)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
+*   [ClojisR (⭐145)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
 
 ### Clojure / Misc
 
 *   [Neanderthal](https://neanderthal.uncomplicate.org/) - Fast Clojure Matrix Library (native CPU, GPU, OpenCL, CUDA)
-*   [fastmath (⭐212)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+*   [fastmath (⭐216)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
 *   [matlib (⭐24)](https://github.com/atisharma/matlib) - A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.
 
 ### Clojure / Extra
@@ -1257,7 +1253,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐942)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐943)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ### Components & Libraries / Dev Tools
 
@@ -1591,7 +1587,7 @@
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐955)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐958)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [76. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 

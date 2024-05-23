@@ -365,9 +365,9 @@
 ### Other Awesome Projects
 
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [algorithms (⭐5.2k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.2k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐83k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐84k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ### Concurrency
 
@@ -745,7 +745,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐38k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐39k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -755,7 +755,7 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐342)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐344)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -763,7 +763,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐362)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐368)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Lua / General-Purpose Machine Learning
 
@@ -800,7 +800,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐590)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐595)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -809,25 +809,25 @@
 ### Python / Natural Language Processing
 
 *   [SnowNLP (⭐6.3k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
-*   [Rosetta (⭐206)](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
+*   [Rosetta (⭐207)](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
 ### Python / General-Purpose Machine Learning
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [pattern (⭐8.6k)](https://github.com/clips/pattern) - Web mining module for Python.
+*   [pattern (⭐8.7k)](https://github.com/clips/pattern) - Web mining module for Python.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.9k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 *   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
-*   [Restricted Boltzmann Machines (⭐943)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐940)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐8.1k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [PyMC (⭐8.2k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 *   [SymPy (⭐12k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐9.5k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [statsmodels (⭐9.6k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -836,12 +836,12 @@
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.5k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐560)](https://github.com/ogrisel/notebooks)
+*   [ipython-notebooks (⭐558)](https://github.com/ogrisel/notebooks)
 *   [decision-weights (⭐33)](https://github.com/CamDavidsonPilon/decision-weights)
 *   [Sarah Palin LDA (⭐10)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
 *   [sentiment-analyzer (⭐52)](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
-*   [sentiment\_classifier (⭐171)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
-*   [jProcessing (⭐149)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
+*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [jProcessing (⭐148)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ### Python / Kaggle Competition Source Code
 
@@ -849,7 +849,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐659)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐660)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
@@ -864,7 +864,7 @@
 
 *   [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
 *   [Breeze (⭐3.4k)](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
-*   [FACTORIE (⭐554)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+*   [FACTORIE (⭐552)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -872,14 +872,14 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐964)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [adam (⭐967)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 *   [bioscala (⭐107)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 *   [BIDMach (⭐913)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
-*   [Figaro (⭐753)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐754)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐203k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐207k)](https://github.com/vinta/awesome-python)
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

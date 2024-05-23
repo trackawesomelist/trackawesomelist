@@ -10,7 +10,7 @@
 
 ### Applications / Blockchain
 
-*   [cairo-vm (⭐465)](https://github.com/lambdaclass/cairo-vm) — Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+*   [cairo-vm (⭐473)](https://github.com/lambdaclass/cairo-vm) — Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
 ### Libraries / Command-line
 
@@ -19,8 +19,8 @@
     *   [console-rs/dialoguer (⭐1.2k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] — Library for command line prompts and similar things.
     *   [LukasKalbertodt/bunt (⭐219)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
     *   [LukasKalbertodt/term-painter (⭐78)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output
-    *   [ogham/rust-ansi-term (⭐443)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
-    *   [SergioBenitez/yansi (⭐226)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+    *   [ogham/rust-ansi-term (⭐445)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
+    *   [SergioBenitez/yansi (⭐227)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ## [2. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 

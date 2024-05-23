@@ -455,7 +455,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyDexter (⭐32)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
+*   [PyDexter (⭐31)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

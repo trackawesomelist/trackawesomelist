@@ -152,7 +152,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐255)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐258)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

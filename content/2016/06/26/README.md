@@ -22,7 +22,7 @@
 
 ### Python / Git
 
-*   [PyElliptic (⭐126)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+*   [PyElliptic (⭐127)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 
 ### Web-sites / Git
 

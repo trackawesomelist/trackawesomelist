@@ -45,7 +45,7 @@
 ### Queues and Messaging
 
 *   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
-*   [March Hare (⭐98)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
+*   [March Hare (⭐97)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 

@@ -45,8 +45,8 @@
 ### Software / IT Asset Management
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
-*   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo (⭐2.1k)](https://github.com/allegro/ralph#live-demo), [Source Code (⭐2.1k)](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.6k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo (⭐2.2k)](https://github.com/allegro/ralph#live-demo), [Source Code (⭐2.2k)](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.8k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -124,7 +124,7 @@
 ### Libraries / Network programming
 
 *   IPNetwork
-    *   [achanda/ipnetwork (⭐114)](https://github.com/achanda/ipnetwork) — A library to work with IP networks
+    *   [achanda/ipnetwork (⭐117)](https://github.com/achanda/ipnetwork) — A library to work with IP networks
     *   [candrew/netsim (⭐132)](https://github.com/canndrew/netsim) — A library for network simulation and testing
 
 ## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)

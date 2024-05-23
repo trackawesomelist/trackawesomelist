@@ -40,7 +40,7 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.8k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.9k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 

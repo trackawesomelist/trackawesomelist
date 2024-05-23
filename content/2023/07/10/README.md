@@ -60,7 +60,7 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐353)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐355)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MetaGPT (⭐39k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+*   [MetaGPT (⭐40k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

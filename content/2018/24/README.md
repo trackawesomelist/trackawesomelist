@@ -17,14 +17,14 @@
 ### IDE
 
 *   [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
-*   [HeidiSQL (⭐4.3k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+*   [HeidiSQL (⭐4.5k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 *   [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
 *   [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 
 ### GUI
 
-*   [Adminer (⭐6k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [phpMyAdmin (⭐6.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+*   [Adminer (⭐6.1k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+*   [phpMyAdmin (⭐7.1k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
 ### Monitoring/Statistics/Perfomance / Samples
@@ -351,7 +351,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐8.3k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
+*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐8.5k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 
 ## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -493,7 +493,7 @@
 
 ### Image Processing
 
-*   [TinyEXIF (⭐103)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
+*   [TinyEXIF (⭐104)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
 
 ### Build Systems
 

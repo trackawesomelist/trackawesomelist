@@ -38,7 +38,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐673)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐674)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

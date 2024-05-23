@@ -69,7 +69,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-typical (⭐174)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
+*   [vue-typical (⭐173)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
 
 ## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 

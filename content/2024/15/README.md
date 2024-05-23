@@ -178,7 +178,7 @@
 
 ### SEO / Node Based
 
-*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 
 ## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Ice (⭐982)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Ice (⭐1.1k)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -313,12 +313,12 @@
 
 ### Libraries / F#
 
-*   📚 [Awesome F# (⭐1.1k)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
+*   📚 [Awesome F# (⭐1.2k)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
 *   🌎 [F#](https://fsharp.org) - Functional-first language for .NET, prioritizing expressive code and parallelism.
 *   F#: Audio
-    *   🔒 [FSound (⭐49)](https://github.com/albertp007/FSound) - Sound processing library.
+    *   🔒 [FSound (⭐48)](https://github.com/albertp007/FSound) - Sound processing library.
 *   F#: Entity Component System
-    *   🎉 [Garnet (⭐157)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+    *   🎉 [Garnet (⭐159)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
 *   F#: Game Engine w/Editor
     *   🎉 [Nu Game Engine (⭐1k)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 *   F#: Gui
@@ -342,11 +342,11 @@
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐400)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐402)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ### OS-specific / Diagnostics
 
-*   [m15a/flake-awesome-neovim-plugins (⭐36)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
+*   [m15a/flake-awesome-neovim-plugins (⭐41)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 
 ## [30. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -388,7 +388,7 @@
 
 ### Libraries / Data visualization
 
-*   [plotly (⭐961)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
+*   [plotly (⭐974)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
 
 ## [35. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -536,12 +536,12 @@
 
 ### Go / Reinforcement learning
 
-*   [stable-baselines3 (⭐7.8k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
+*   [stable-baselines3 (⭐8k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
 ### Python / General-Purpose Machine Learning
 
 *   [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
-*   [PyTorch Frame (⭐436)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+*   [PyTorch Frame (⭐457)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
 *   [PyTorch Geometric (⭐20k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
 
 ## [46. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
@@ -604,7 +604,7 @@
 
 ### Concurrency
 
-*   [Neco (⭐865)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
+*   [Neco (⭐1k)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
 
 ### Database
 
@@ -612,11 +612,11 @@
 
 ### Debug
 
-*   [libassert (⭐458)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
+*   [libassert (⭐465)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
 
 ### Math
 
-*   [Wagyu (⭐161)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
+*   [Wagyu (⭐162)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
 
 ### Miscellaneous
 

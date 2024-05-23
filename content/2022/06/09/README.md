@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐215)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐220)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐26k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐27k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

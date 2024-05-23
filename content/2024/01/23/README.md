@@ -10,7 +10,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐246)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐287)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -76,8 +76,6 @@
 
 ### Encoding / Talks Presentations Podcasts
 
-*   [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator)  - Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously [https://github.com/cbsinteractive/video-transcoding-api (⭐5)](https://github.com/cbsinteractive/video-transcoding-api) - cbsinteractive/transcode-orchestrator
-*   [natsuite/NatReader-API](https://github.com/natsuite/NatReader-API)  - NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API
 *   [realeyes-media/demo-encoder (⭐55)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
@@ -91,7 +89,6 @@
 ### FFMPEG / Web
 
 *   [cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile · master · nvidia / container-images / samples](https://gitlab.com/nvidia/container-images/samples/blob/master/cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile)  - Sample Dockerfiles for Docker Hub images
-*   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)

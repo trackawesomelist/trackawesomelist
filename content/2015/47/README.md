@@ -525,7 +525,7 @@ git help -g
 
 ### CLI Utilities
 
-*   [Paint (⭐365)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐366)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ### Third-party APIs
 

@@ -86,7 +86,7 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐892)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐894)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

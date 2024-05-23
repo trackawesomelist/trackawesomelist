@@ -50,7 +50,7 @@
 
 ### Rust / Git
 
-*   [recrypt (⭐140)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐141)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 

@@ -107,11 +107,11 @@
 
 ### Math
 
-*   [MIRACL (⭐626)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐628)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
-*   [access\_profiler (⭐70)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
+*   [access\_profiler (⭐71)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -397,7 +397,7 @@ git worktree add --detach <path> HEAD
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐954)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐952)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

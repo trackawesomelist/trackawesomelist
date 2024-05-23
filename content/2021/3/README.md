@@ -145,12 +145,12 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐220)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐221)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
 *   [ImGui (⭐56k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.5k)](https://github.com/imgui-rs/imgui-rs) — Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+    *   [imgui-rs (⭐2.6k)](https://github.com/imgui-rs/imgui-rs) — Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -227,16 +227,16 @@
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.9k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.9k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome point cloud analysis :octocat: (⭐4k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome robotics :octocat: (⭐4k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐2.1k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐9k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome artificial intelligence :octocat: (⭐9.7k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome machine learning :octocat: (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.6k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.7k)](https://github.com/aikorea/awesome-rl/#readme)
 *   [Awesome SLAM datasets :octocat: (⭐1.6k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.9k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -671,7 +671,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐335)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐347)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -824,7 +824,7 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
+*   [Sitecore MVP (⭐62)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 
 ### Containers
 

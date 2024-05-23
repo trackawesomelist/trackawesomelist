@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐597)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐609)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 5 | Stars: 21 | Last update: 30 Jan 2024
+Installs: 6 | Stars: 22 | Last update: 30 Jan 2024
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -155,7 +155,7 @@ Installs: 5 | Stars: 21 | Last update: 30 Jan 2024
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐144)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐150)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
 

@@ -46,15 +46,15 @@
 
 ### SQL / Über SQL
 
-*   [csvq (⭐1.4k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
-*   [dsq (⭐3.5k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [csvq (⭐1.5k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
+*   [dsq (⭐3.7k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 *   [OctoSQL (⭐4.7k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
-*   [trdsql (⭐1.7k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+*   [trdsql (⭐1.9k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 ### Papers / Compare
 
-*   [The "Database as Code" Manifesto (⭐82)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐85)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [awesome-image (⭐72)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
+*   [awesome-image (⭐73)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ### Components & Libraries / Frameworks
 
@@ -112,9 +112,9 @@
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐416)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
+    *   [hniksic/rust-subprocess (⭐419)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐779)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
+    *   [oconnor663/duct.rs (⭐787)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
     *   [rust-cli/rexpect (⭐315)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
     *   [zhiburt/expectrl (⭐162)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 

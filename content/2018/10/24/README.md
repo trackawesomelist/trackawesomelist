@@ -10,7 +10,7 @@
 
 ### Web / Apache License
 
-*   [aws (⭐124)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐126)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / Apache License
 

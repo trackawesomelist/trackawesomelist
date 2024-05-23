@@ -93,8 +93,8 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Heart\_Disease-Prediction (⭐0)](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
-*   [Flight Fare Prediction (⭐0)](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
+*   [Heart\_Disease-Prediction (⭐1)](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+*   [Flight Fare Prediction (⭐1)](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

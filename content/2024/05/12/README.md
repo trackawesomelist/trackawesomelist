@@ -23,19 +23,22 @@
 ### Exercises / Testing
 
 *   [angular-fundamental-lessons (⭐45)](https://github.com/MarkTechson/angular-fundamentals-lessons)
-*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
+*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 
+### DOM / Testing
+
+*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+
 ### Misc Components / Node Based
 
-*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 *   [popover (⭐227)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
 *   [ngx-device-detector (⭐507)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 *   [ngx-feature-toggle (⭐100)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 *   [ng-polymorpheus (⭐370)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 
 ---
 

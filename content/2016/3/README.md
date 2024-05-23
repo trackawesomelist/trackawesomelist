@@ -61,7 +61,7 @@
 
 ### JSON
 
-*   [json (⭐40k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐41k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ### Math
 

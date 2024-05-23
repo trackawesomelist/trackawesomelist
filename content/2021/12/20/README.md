@@ -22,7 +22,7 @@
 
 ### :safety_vest: Community Prisma Tools / :man_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐1.5k)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.6k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ## [4. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [Embassy start (⭐26)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐4.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐26)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐4.5k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

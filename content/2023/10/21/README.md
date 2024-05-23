@@ -16,7 +16,7 @@
 
 ### Configuration
 
-*   [toml11 (⭐932)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐947)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
 ## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -152,7 +152,7 @@
 
 *   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
 
-### Layout Components / Testing
+### Layout Components / Validation
 
 *   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
 

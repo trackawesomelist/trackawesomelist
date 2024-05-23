@@ -177,9 +177,9 @@ Language: English
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐831)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed OAuth2 client library
-*   [oxide-auth (⭐630)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-*   [yup-oauth2 (⭐204)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
+*   [oauth2 (⭐841)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed OAuth2 client library
+*   [oxide-auth (⭐632)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+*   [yup-oauth2 (⭐208)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
 
 ## [7. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
@@ -391,8 +391,8 @@ Language: English
 *   [vue-ui-preloader (⭐22)](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground.
 *   [vuesence-modal-window (⭐3)](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.
 *   [v-dropdown-menu (⭐29)](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for vuejs. SSR supported.
-*   [vue-lumino (⭐77)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
-*   [vue-img-cutter (⭐458)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
+*   [vue-lumino (⭐78)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-img-cutter (⭐459)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
 ### Components & Libraries / UI Utilities
 
@@ -402,7 +402,7 @@ Language: English
 
 ### Developer Tools / Command Line Tools
 
-*   [eureka (⭐734)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eureka (⭐739)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [22. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -710,7 +710,7 @@ Language: English
 
 ## [40. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
-- Name: [minci (⭐25)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐26)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 

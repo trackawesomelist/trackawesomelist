@@ -65,22 +65,18 @@
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Siddharth Ajmera](https://twitter.com/SiddAjmera)
-
 ### Developer tools / Testing
 
 *   [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
-### State Management / Testing
-
-*   [ng-simple-state (⭐38)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
-
-### Misc Components / Node Based
+### DOM / Testing
 
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+
+### State Management / Validation
+
+*   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -39,7 +39,7 @@
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐571)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐577)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 

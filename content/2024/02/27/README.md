@@ -117,23 +117,23 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/ts-error-translator.nvim (⭐191)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+*   [dmmulroy/ts-error-translator.nvim (⭐201)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
-*   [candle (⭐13k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+*   [candle (⭐14k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 ### Rust / Deep Learning
 
-*   [tch-rs (⭐3.8k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
+*   [tch-rs (⭐3.9k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
 *   [dfdx (⭐1.6k)](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
-*   [burn (⭐6.8k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+*   [burn (⭐7.3k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
 ### Rust / Natural Language Processing
 
-*   [huggingface/tokenizers (⭐8.3k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
+*   [huggingface/tokenizers (⭐8.5k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 *   [rust-bert (⭐2.4k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 ### Tools / Misc

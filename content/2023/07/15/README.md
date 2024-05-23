@@ -62,11 +62,11 @@
 
 ### Applications / System tools
 
-*   [GQL (⭐3k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
+*   [GQL (⭐3.1k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
 
 ### Applications / Utilities
 
-*   [rustic-rs/rustic (⭐1.5k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
+*   [rustic-rs/rustic (⭐1.6k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

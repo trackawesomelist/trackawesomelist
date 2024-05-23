@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [nghttp3 (⭐791)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐803)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
 ## [3. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

@@ -136,12 +136,12 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐220)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐221)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
 *   [ImGui (⭐56k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.5k)](https://github.com/imgui-rs/imgui-rs) — Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+    *   [imgui-rs (⭐2.6k)](https://github.com/imgui-rs/imgui-rs) — Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

@@ -32,7 +32,7 @@
 
 ### Python / Computer Vision
 
-*   [Exadel CompreFace (⭐3.8k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
+*   [Exadel CompreFace (⭐4.3k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

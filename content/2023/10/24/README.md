@@ -167,7 +167,7 @@
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 453 | Stars: 2893 | Last update: 1 Jan 2024
+Installs: 462 | Stars: 2947 | Last update: 1 Jan 2024
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

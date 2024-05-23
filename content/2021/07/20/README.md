@@ -78,7 +78,7 @@
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐217)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐229)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐9.3k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐9.4k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)

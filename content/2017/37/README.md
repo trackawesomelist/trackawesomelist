@@ -119,7 +119,7 @@ Webpage: <http://tartine.pt/>
 
 ### Miscellaneous / Symfony2
 
-*   [swagger-codegen (⭐16k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
+*   [swagger-codegen (⭐17k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
 ## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -147,11 +147,11 @@ Webpage: <http://tartine.pt/>
 
 ### CLI
 
-*   [PDCurses (⭐976)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐986)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ### Debug
 
-*   [utest.h (⭐765)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐775)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
@@ -159,11 +159,11 @@ Webpage: <http://tartine.pt/>
 
 ### JSON
 
-*   [json.h (⭐664)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐665)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐613)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐615)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.8k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
@@ -269,7 +269,7 @@ Webpage: <http://tartine.pt/>
 
 ### Components & Libraries / UI Components
 
-*   [@hscmap/vue-window (⭐296)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
+*   [@hscmap/vue-window (⭐295)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
 *   [vue-gallery (⭐468)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
 ## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)

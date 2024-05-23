@@ -111,7 +111,7 @@
 
 ### Audio / Video
 
-*   [material-ui-audio-player (⭐71)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
+*   [material-ui-audio-player (⭐72)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

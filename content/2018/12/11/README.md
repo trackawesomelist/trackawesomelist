@@ -37,11 +37,11 @@
 ### OS and Kernels / Apache License
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
-*   [bare-bones (⭐80)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+*   [bare-bones (⭐81)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
 ### Games / Apache License
 
-*   [co-terminal-apps (⭐27)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+*   [co-terminal-apps (⭐26)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐656)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐661)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 

@@ -48,12 +48,12 @@
 
 ### Python / Natural Language Processing
 
-*   [Neofuzz (⭐18)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
+*   [Neofuzz (⭐19)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
 
 ### Python / General-Purpose Machine Learning
 
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
-*   [topicwizard (⭐83)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
+*   [topicwizard (⭐87)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
 ---
 

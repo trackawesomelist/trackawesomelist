@@ -120,7 +120,7 @@
 ### Libraries / C#
 
 *   C#: Geometry
-    *   🎉 [DotRecast (⭐380)](https://github.com/ikpil/DotRecast) - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
+    *   🎉 [DotRecast (⭐411)](https://github.com/ikpil/DotRecast) - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

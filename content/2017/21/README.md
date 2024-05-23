@@ -426,7 +426,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐464)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐466)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -437,7 +437,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐345)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐346)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐215)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
@@ -477,7 +477,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐453)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐462)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 

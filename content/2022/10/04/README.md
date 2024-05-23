@@ -34,7 +34,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [einops (⭐7.8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+*   [einops (⭐8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 

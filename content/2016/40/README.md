@@ -244,10 +244,6 @@
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Resources / Official Resources
-
-*   [GitHub Repo (⭐207k)](https://github.com/vuejs/vue)
-
 ### Resources / Tutorials
 
 *   [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
@@ -410,7 +406,7 @@
 
 ### API Builder and Discovery
 
-*   [JSONAPI::Utils (⭐214)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
+*   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
 ## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -653,7 +649,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐476)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐477)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [37. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 

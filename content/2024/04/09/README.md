@@ -64,7 +64,7 @@
 
 ### Go / Reinforcement learning
 
-*   [stable-baselines3 (⭐7.8k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
+*   [stable-baselines3 (⭐8k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
 ### Python / General-Purpose Machine Learning
 

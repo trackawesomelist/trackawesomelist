@@ -321,7 +321,7 @@
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐372)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐373)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
@@ -365,7 +365,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐779)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐780)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [25. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -384,7 +384,7 @@
 
 ### Python / Git
 
-*   [Privy (⭐243)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐248)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

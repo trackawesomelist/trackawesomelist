@@ -54,7 +54,7 @@
 
 ### Applications / Video
 
-*   [vidmerger (⭐104)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐108)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Parsing
 

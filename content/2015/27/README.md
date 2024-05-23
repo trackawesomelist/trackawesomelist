@@ -275,20 +275,20 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 ### Database
 
-*   [MongoDB C Driver (⭐793)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
+*   [MongoDB C Driver (⭐795)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
 *   [MongoDB C++ Driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
 *   [MongoDB Libbson (⭐342)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug
 
-*   [Celero (⭐798)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
+*   [Celero (⭐801)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
 
 ### Graphics
 
 *   [GLFW (⭐12k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
 *   [OpenSubdiv (⭐2.8k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
-*   [Partio (⭐447)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
+*   [Partio (⭐448)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
 
 ### Image Processing
 
@@ -406,7 +406,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 ### Go / Symfony2
 
-*   [gocrud (⭐310)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐306)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [25. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

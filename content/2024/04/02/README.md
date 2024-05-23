@@ -77,7 +77,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [Floom (⭐19)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐22)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 
 ### Text-related Generative Tools / Multi-agents
 

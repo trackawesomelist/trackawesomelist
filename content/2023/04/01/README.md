@@ -34,7 +34,7 @@
 
 ### Infinite Scroll
 
-*   [virtua (⭐955)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
+*   [virtua (⭐979)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

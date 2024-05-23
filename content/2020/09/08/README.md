@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-router-tab (⭐466)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐468)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -62,7 +62,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐10k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository :octocat: (⭐11k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -397,7 +397,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐643)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐644)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

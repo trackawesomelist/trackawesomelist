@@ -16,7 +16,7 @@
 
 ### Network
 
-*   [MasterQ32/zig-network (⭐388)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+*   [MasterQ32/zig-network (⭐395)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 *   [dantecatalfamo/zig-dns (⭐54)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
@@ -86,7 +86,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Matcha - Daily RSS Digest (⭐378)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [Matcha - Daily RSS Digest (⭐392)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

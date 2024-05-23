@@ -44,7 +44,7 @@
 
 ### Miscellaneous / Symfony2
 
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

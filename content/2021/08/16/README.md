@@ -22,7 +22,7 @@
 
 ### Java / Git
 
-*   [Password4j (⭐321)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+*   [Password4j (⭐332)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
 ## [4. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐243)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [interBTC (⭐247)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐160)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐165)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

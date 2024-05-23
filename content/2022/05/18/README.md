@@ -126,7 +126,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐142)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐143)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 

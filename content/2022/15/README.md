@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2022
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,11 +34,11 @@
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐678)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+*   [orhun/rustypaste (⭐692)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐7.6k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
+*   [git-cliff (⭐7.7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -50,31 +50,25 @@
 
 *   [Probabilistic Programming and Bayesian Methods for Hackers (⭐26k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabalistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Nishu Goel](https://twitter.com/TheNishuGoel)
-
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
 *   [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlights utility classes in Visual Studio Code.
 
-## [8. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Algorithms, Containers and Protocols / Apache License
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
-## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Fediverse / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Misskey](https://misskey-hub.net/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/misskey-dev/misskey) - A forever evolving, sophisticated microblogging platform.
 
-## [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -120,25 +114,25 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Connector
 
 *   [node2tdengine (⭐1)](https://github.com/machine-w/node2tdengine)
 
-## [13. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [12. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [darkweak/souin (⭐594)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -148,7 +142,7 @@
 
 *   [nkakouros-original/numbers.nvim (⭐35)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
-## [15. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -156,17 +150,17 @@
 *   [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
 *   [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - How to use Postman collections to load test your API.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.4k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐2.6k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐26k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐27k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
-## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [16. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -186,7 +180,7 @@
 
 *   [https://github.com/slince/composer-registry-manager (⭐494)](https://github.com/slince/composer-registry-manager) - The plugin helps you to switch between different composer repositories.
 
-## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Specialty
 
@@ -218,7 +212,7 @@
 
 ### Libraries / Ruby
 
-*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐21k)](https://github.com/ruby/ruby)]
+*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐22k)](https://github.com/ruby/ruby)]
 
 ### Libraries / Rust
 
@@ -251,17 +245,17 @@
 ### Tools / Software / Audio Tools
 
 *   Music
-    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐3.6k)](https://github.com/Ardour/ardour)]
-    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐11k)](https://github.com/audacity/audacity)]
+    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐3.7k)](https://github.com/Ardour/ardour)]
+    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐12k)](https://github.com/audacity/audacity)]
     *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
     *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
     *   🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source (⭐1.5k)](https://github.com/BleuBleu/FamiStudio)]
     *   💸 [fmod](https://www.fmod.com) - Popular (*Hades*, *Celeste*, *Untitled Goose Game*) audio software for games.
-    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐7.5k)](https://github.com/lmms/lmms)]
+    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐7.6k)](https://github.com/lmms/lmms)]
     *   🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
-    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐425)](https://github.com/mbitsnbites/soundbox)]
+    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐427)](https://github.com/mbitsnbites/soundbox)]
     *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
-    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐405)](https://github.com/keithclark/ZzFXM)]
+    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐408)](https://github.com/keithclark/ZzFXM)]
 
 ### Tools / Software / Color / Palettes
 
@@ -269,7 +263,7 @@
 
 ### Tools / Software / Image Editors
 
-*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐4.5k)](https://github.com/GNOME/gimp)]
+*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐4.6k)](https://github.com/GNOME/gimp)]
 
 ### Tools / Software / Materials / Textures
 
@@ -285,11 +279,11 @@
 
 ### Tools / Software / Pixel Art
 
-*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐26k)](https://github.com/aseprite/aseprite)]
+*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐27k)](https://github.com/aseprite/aseprite)]
 
 ### Tools / Software / Vector Editors
 
-*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.9k)](https://github.com/inkscape/inkscape)]
+*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐2k)](https://github.com/inkscape/inkscape)]
 
 ### Video Game Assets / Graphic Assets
 
@@ -299,13 +293,13 @@
 
 *   🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically-based rendering.
 
-## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
 *   [wal-e (⭐3.4k)](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
 
-## [20. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [19. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
@@ -333,7 +327,7 @@
 *   [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
     *   Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -355,7 +349,7 @@
 
 *   [AlDente](https://apphousekitchen.com/) - Charge limiter app for MacBooks to keep your battery healthy even longer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidwernhart/AlDente)
 
-## [22. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -374,7 +368,7 @@
 
 *   [osm-livechanges](http://live.openstreetmap.fr/) - Near-real-time display of edits in the OpenStreetMap database. ([Source Code (⭐28)](https://github.com/cstenac/osm-livechanges))
 
-## [23. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [22. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Resources & Others / Communities
 
@@ -386,13 +380,13 @@
 *   [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
 *   [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
 
-## [24. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [23. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
 *   [UAC (⭐590)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
-## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [24. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official Resources
 
@@ -402,7 +396,7 @@
 
 *   [AlgoWorld-Contracts (⭐30)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 
-## [26. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [25. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Communication
 
@@ -424,7 +418,7 @@
 
 *   [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
 
-## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -442,15 +436,13 @@
 
 *   [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
 
-## [28. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [27. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Books
 
 *   [Circles of Confusion](https://tech.ebu.ch/publicaions/circles-of-confusion)  - 2009-01-01. Roberts, Alan.
-*   [The H.264 Advanced Video Compression Standard](https://www.amazon.de/-/en/Iain-Richardson/dp/0470516925)  - 2010-04-23. Richardson, Iain.
-*   [Video Demystified: A Handbook for the Digital Engineer](https://www.amazon.com/Video-Demystified-Handbook-Digital-Engineer/dp/0750683953)  - 2007-05-14. Jack, Keith.
 
-## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Blogs
 
@@ -475,13 +467,13 @@
 *   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 *   [kotlin-graphics/bullet (⭐41)](https://github.com/kotlin-graphics/bullet) - bullet port
 
-## [30. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [29. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
 *   [PHP SDK (⭐26)](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -503,19 +495,19 @@
 
 *   [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
 
-## [32. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [31. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Enterprise & Verticals / Scala
 
 *   [Medusa](https://medusajs.com/) - Headless open source commerce platform.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Oh-My-Zsh
 
@@ -532,7 +524,7 @@
 *   [biratime (⭐3)](https://github.com/vemonet/biratime) - Based on the [bira (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 *   [ortiz (andres-ortizl) (⭐3)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐19)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
-## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [34. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -549,7 +541,7 @@
 *   [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 
-## [36. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -560,7 +552,7 @@
 
 *   [electron-vite (⭐2.5k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
-## [37. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [36. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Desktop
 
@@ -581,7 +573,7 @@
 *   [WebCord (⭐1.7k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐3.3k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.3k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
-## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -620,7 +612,7 @@
 *   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐233)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 *   [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python/Docker`
 
-## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Code Search
 
@@ -634,7 +626,7 @@
 
 *   [Sub3 Suite (⭐452)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
@@ -644,7 +636,7 @@
 
 *   [bullmq (⭐5.1k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -667,13 +659,13 @@
 
 *   [vue-drawing-grid (⭐3)](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas.
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [41. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Media
 
 *   [Movies App (⭐179)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
-## [43. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [42. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -707,7 +699,7 @@
 *   [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730\&hl=en\&as_sdt=0,5)].
 *   [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105\&hl=en\&as_sdt=0,5)].
 
-## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -722,7 +714,7 @@
 
 *   [tailyew (⭐17)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 

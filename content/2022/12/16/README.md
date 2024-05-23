@@ -78,7 +78,7 @@
 
 ### Yaml
 
-*   [rapidyaml (⭐517)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
+*   [rapidyaml (⭐524)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
 
 ## [10. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

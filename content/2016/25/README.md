@@ -382,11 +382,11 @@ git remote add <remote-nickname> <remote-url>
 
 ### Standalone / Hash functions
 
-*   [cryptomator (⭐10k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [cryptomator (⭐11k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### Plugins / Git
 
-*   [git-crypt (⭐7.9k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐8k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
@@ -396,7 +396,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.6k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
@@ -412,27 +412,27 @@ git remote add <remote-nickname> <remote-url>
 
 ### JavaScript / Git
 
-*   [asmCrypto (⭐660)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+*   [asmCrypto (⭐656)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
 *   [cifre (⭐121)](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
 *   [closure-library (⭐4.8k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 *   [crypto-js (⭐15k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [libsodium.js (⭐929)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
-*   [OpenPGP.js (⭐5.5k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-*   [rusha (⭐276)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [libsodium.js (⭐940)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+*   [OpenPGP.js (⭐5.6k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 *   [URSA (⭐621)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ### Julia / Git
 
-*   [Nettle.jl (⭐49)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+*   [Nettle.jl (⭐50)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
     encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 
 ### Python / Git
 
-*   [PyElliptic (⭐126)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+*   [PyElliptic (⭐127)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 
 ### Scala / Git
 
-*   [scrypto (⭐202)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐201)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ### Web-sites / Git
 
@@ -447,7 +447,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐531)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [SOMPY (⭐532)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)

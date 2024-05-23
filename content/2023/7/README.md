@@ -317,15 +317,15 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐217)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
+*   [illacloud/illa (⭐218)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐949)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐966)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐70)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐71)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ### Libraries / System
 
@@ -367,13 +367,13 @@
 
 ### DevOps / Apache License
 
-*   [powerjoular (⭐45)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐47)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐2.1k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 
@@ -388,11 +388,11 @@
 ### Algorithms / Basic matching algorithms
 
 *   [Iterative closest point (ICP) :red\_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository :octocat: (⭐244)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
-    *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
+    *   [GitHub repository :octocat: (⭐264)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+    *   [GitHub repository :octocat: (⭐1.6k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
     *   [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 *   [KISS-ICP :red\_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
-    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/PRBonn/kiss-icp)
+    *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
@@ -416,7 +416,7 @@
 
 ### Prerequisites
 
-*   [Cascadia Code (⭐24k)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
+*   [Cascadia Code (⭐25k)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
 *   [Fira Mono (⭐5k)](https://github.com/mozilla/Fira) - Mozilla's Fira type family.
 *   [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed for source code and terminal usage.
 *   [Input Mono](https://input.djr.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes Powerline glyphs.
@@ -424,7 +424,7 @@
 *   [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 *   [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
 *   [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download nerd fonts.
-*   [Nerd fonts (⭐51k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
+*   [Nerd fonts (⭐52k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

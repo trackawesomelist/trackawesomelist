@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐99)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐100)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐3.1k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐3.2k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 
 ### Components & Libraries / UI Utilities
 

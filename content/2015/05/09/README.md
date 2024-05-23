@@ -30,7 +30,7 @@
 
 ### CLI Builder
 
-*   [Commander (⭐820)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐821)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

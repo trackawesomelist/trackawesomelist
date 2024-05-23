@@ -20,12 +20,12 @@
 
 ### Libraries / Caching
 
-*   [zkat/cacache-rs (⭐463)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+*   [zkat/cacache-rs (⭐470)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
 
 ### Libraries / Network programming
 
 *   gRPC
-    *   [hyperium/tonic (⭐9k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [hyperium/tonic (⭐9.1k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
     *   [tikv/grpc-rs (⭐1.8k)](https://github.com/tikv/grpc-rs) — The gRPC library built on C Core library and futures
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
@@ -90,7 +90,7 @@
 
 ### Command palette
 
-*   [kbar (⭐4.6k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
+*   [kbar (⭐4.7k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

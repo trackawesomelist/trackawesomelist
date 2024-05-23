@@ -34,14 +34,14 @@
 
 ### Web / Apache License
 
-*   [awa (⭐92)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+*   [awa (⭐93)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     *   [dynamo (⭐17)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     *   [ada-wiki (⭐19)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
     *   [ada-security (⭐22)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
     *   [ada-el (⭐7)](https://github.com/stcarrez/ada-el) - This library provides the support for a simple Expression Language close to the Java Unified Expression Language (EL).
     *   [ada-asf (⭐12)](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
     *   [ada-servlet (⭐7)](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
-*   [swagger-ada (⭐25)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
+*   [swagger-ada (⭐26)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 
 ### General Purpose Computing / Apache License
 

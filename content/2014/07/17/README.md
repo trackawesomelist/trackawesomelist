@@ -62,10 +62,10 @@
 
 ### Other Awesome Projects
 
-*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [algorithms (⭐5.2k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.2k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐83k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐84k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -85,12 +85,12 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐362)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐368)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [sentiment\_classifier (⭐171)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
-*   [jProcessing (⭐149)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
+*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [jProcessing (⭐148)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [cpp-dump (⭐168)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+*   [cpp-dump (⭐172)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

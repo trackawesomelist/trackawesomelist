@@ -53,7 +53,7 @@
 
 ### RSS services powered by utilizing Notion / Outline Processor Markup Language
 
-*   [NotionFeeder (⭐263)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
+*   [NotionFeeder (⭐273)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
 *   [Notion-Feed](https://notion-feed.com/) <sup>[1149](https://t.me/s/aboutrss/1149)</sup>
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
@@ -70,7 +70,7 @@
 
 ### universally from / multiple sources
 
-*   [RSSerpent (⭐211)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
+*   [RSSerpent (⭐212)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
 
 ### universally from / search results
 

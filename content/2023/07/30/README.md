@@ -39,7 +39,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐280)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐282)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)

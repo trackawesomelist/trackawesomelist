@@ -93,7 +93,7 @@
 
 ### Applications / Audio and Music
 
-*   [figsoda/mmtc (⭐82)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] — Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
+*   [figsoda/mmtc (⭐84)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] — Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
 
 ### Libraries / Graph algorithms
 
@@ -142,7 +142,7 @@
 ### Large Language Models (LLMs)
 
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐84k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐85k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -161,7 +161,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [PBandJ (⭐108)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
+*   [PBandJ (⭐107)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 
 ## [14. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+*   [tashy (⭐8)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 
 ### Automation / Apache License
@@ -607,7 +607,7 @@
 
 ### Software / Software Development - Testing
 
-*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐389)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐398)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 
 ### List of Licenses / Wikis
 
@@ -637,7 +637,7 @@
 
 ### Audio Libraries
 
-*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐2.1k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

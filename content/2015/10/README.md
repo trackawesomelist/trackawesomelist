@@ -213,7 +213,7 @@
 
 ### Compiler
 
-*   [8cc (⭐6k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐6.1k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2.1k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
@@ -226,7 +226,7 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby (⭐5.6k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.7k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ### Date and Time Processing
 

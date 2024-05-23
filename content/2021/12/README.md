@@ -193,10 +193,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐642)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐719)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐232)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐288)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐644)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐728)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐238)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐289)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐9)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -301,7 +301,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐68)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue3-signature (⭐69)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 *   [vue-signature (⭐196)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ### Components & Libraries / UI Utilities
@@ -311,10 +311,6 @@
 ### Components & Libraries / Utilities
 
 *   [vue-stripe-elements (⭐530)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
-
-### Components & Libraries / Dev Tools
-
-*   [Volar (⭐5.4k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -375,7 +371,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Backprop (⭐239)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+*   [Backprop (⭐242)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ## [37. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
@@ -404,11 +400,11 @@
 
 ### Automation
 
-*   [Runbook (⭐720)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐724)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐501)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐503)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Internationalization
 
@@ -416,8 +412,8 @@
 
 ### Machine Learning
 
-*   [TensorFlow (⭐365)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐625)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [TensorFlow (⭐369)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+*   [Torch.rb (⭐629)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [40. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 

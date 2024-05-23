@@ -10,7 +10,7 @@
 
 ### Documentation / Symfony2
 
-*   [Slate (⭐35k)](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
+*   [Slate (⭐36k)](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 
 ### SaaS Tools / Symfony2
 

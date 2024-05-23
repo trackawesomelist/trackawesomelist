@@ -210,7 +210,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐8k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐8.1k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ### Python / General-Purpose Machine Learning
 
@@ -218,7 +218,7 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐9.3k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐9.4k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
@@ -411,7 +411,7 @@
 
 ### Natural Language Processing
 
-*   [Sentimental (⭐453)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
+*   [Sentimental (⭐455)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 
 ## [35. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -3645,10 +3645,6 @@
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 
-### Messenger Games
-
-*   [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
-
 ### Automotive
 
 *   [BMW i8](http://car.playcanvas.com) - Car visualizer.
@@ -3716,7 +3712,7 @@
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐600)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐602)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ## [69. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 

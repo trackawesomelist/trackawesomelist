@@ -29,7 +29,7 @@
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐6.6k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐7k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -100,11 +100,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐679)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Picsur (⭐679)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting platform that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ### Software / Knowledge Management Tools
 
-*   [Atomic Server (⭐789)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
+*   [Atomic Server (⭐817)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
 
 ### Software / Money, Budgeting & Management
 
@@ -119,8 +119,8 @@
 ### Learning / Computer Graphics
 
 *   Awesome Collections
-    *   📚 [Awesome Demoscene (⭐255)](https://github.com/psykon/awesome-demoscene) - Underground computer art culture exploring computer graphics and sound.
-    *   📚 [Awesome Graphics Libraries (⭐366)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
+    *   📚 [Awesome Demoscene (⭐262)](https://github.com/psykon/awesome-demoscene) - Underground computer art culture exploring computer graphics and sound.
+    *   📚 [Awesome Graphics Libraries (⭐374)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 
 ### Libraries / Haxe
 

@@ -50,7 +50,7 @@
 
 ### Applications / Observability
 
-*   [Quickwit-oss/quickwit (⭐6.1k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
+*   [Quickwit-oss/quickwit (⭐6.2k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -218,31 +218,31 @@
 
 ### Schema / Changes
 
-*   [pg-osc (⭐397)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
+*   [pg-osc (⭐486)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
 
 ### Schema / Design
 
-*   [Database Design (⭐404)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
+*   [Database Design (⭐416)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgMonitor (⭐484)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
-*   [PostgreSQL Metrics (⭐583)](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
+*   [pgMonitor (⭐511)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
+*   [PostgreSQL Metrics (⭐588)](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
 *   [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
 
 ### SQL / Parsers
 
-*   [libpg\_query (⭐1k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
+*   [libpg\_query (⭐1.1k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
 
 ### SQL / Plan
 
-*   [pev2 (⭐2.2k)](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
-*   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
+*   [pev2 (⭐2.4k)](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
+*   [pg\_flame (⭐1.6k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
 
 ### Data / Catalog
 
-*   [Amundsen (⭐4.2k)](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-*   [DataHub (⭐8.9k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
+*   [Amundsen (⭐4.3k)](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+*   [DataHub (⭐9.3k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 *   [Marquez (⭐1.6k)](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
 ---

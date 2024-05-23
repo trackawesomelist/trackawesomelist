@@ -17,12 +17,12 @@
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐388)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [ParthJadhav/Rust\_Search (⭐127)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
-    *   [pop-os/dbus-udisks2 (⭐17)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [Camino (⭐393)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐128)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
+    *   [pop-os/dbus-udisks2 (⭐18)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐40)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐49)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐233)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+    *   [webdesus/fs\_extra (⭐234)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

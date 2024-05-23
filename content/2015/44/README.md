@@ -92,7 +92,7 @@
 
 ### Go / Symfony2
 
-*   [go-restful (⭐4.8k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
+*   [go-restful (⭐5k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 
 ### Querying / Symfony2
 
@@ -455,7 +455,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Assets
 
-*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
@@ -468,7 +468,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 ### DevOps Tools
 
 *   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7.4k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Chef (⭐7.5k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
@@ -482,7 +482,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Ebook
 
-*   [Bookshop (⭐9)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐10)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -494,19 +494,19 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Mobile Development
 
-*   [fastlane (⭐38k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐39k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### ORM/ODM
 
-*   [NoBrainer (⭐388)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
+*   [NoBrainer (⭐389)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 
 ### PDF
 
-*   [CombinePDF (⭐714)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐723)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
-*   [elasticsearch-ruby (⭐1.9k)](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch.
+*   [elasticsearch-ruby (⭐2k)](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch.
 
 ### Third-party APIs
 

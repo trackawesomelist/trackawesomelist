@@ -16,7 +16,7 @@
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐502)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐511)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -62,7 +62,7 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐307)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐307)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐310)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐310)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 

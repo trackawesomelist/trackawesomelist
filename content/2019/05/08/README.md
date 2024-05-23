@@ -10,7 +10,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.8k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.9k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐141)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐142)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐685)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐686)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐402)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐404)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 

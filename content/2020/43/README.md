@@ -207,9 +207,9 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐496)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐495)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐317)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐318)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -222,8 +222,8 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐9.6k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐204k)](https://github.com/vinta/awesome-python)
-*   [Data Science IPython Notebooks. (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks)
+*   [awesome-python (⭐207k)](https://github.com/vinta/awesome-python)
+*   [Data Science IPython Notebooks. (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐5.8k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -233,9 +233,9 @@
 *   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐980)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐495)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐599)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Gradient Boosting Papers (⭐982)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐497)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐602)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.7k)](https://github.com/mhagiwara/100-nlp-papers)
 
@@ -406,7 +406,7 @@
 
 ### Python / Computer Vision
 
-*   [lightly (⭐2.7k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+*   [lightly (⭐2.8k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
 ### Tools / Misc
 
@@ -2275,7 +2275,7 @@
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vue-toaster (⭐190)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
+*   [vue-toaster (⭐189)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 *   [vue3-router-tree (⭐34)](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view 🌲.
 *   [vnodes (⭐114)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 

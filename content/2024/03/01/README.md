@@ -34,7 +34,7 @@
 
 ### Miscellaneous
 
-*   [CRCpp (⭐290)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+*   [CRCpp (⭐307)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
 
 ---
 

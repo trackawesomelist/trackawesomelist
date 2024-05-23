@@ -63,7 +63,7 @@
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [Vercel for AI agents (⭐6.1k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
+*   [Vercel for AI agents (⭐6.2k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
 
 ### Image Segmentation / Deforum
 
@@ -71,7 +71,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [e2b-dev/e2b (⭐6.1k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [e2b-dev/e2b (⭐6.2k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -141,11 +141,11 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐1)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐9)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [bob (⭐2)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.2k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐16k)](https://github.com/Schniz/fnm) if it is missing.
+*   [archlinux (junker) (⭐10)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [bob (⭐2)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.3k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [fnm (dominik-schwabe) (⭐15)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐16k)](https://github.com/Schniz/fnm) if it is missing.
 *   [fnm (wintermi) (⭐3)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐16k)](https://github.com/Schniz/fnm).
-*   [vivid (⭐7)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.6k)](https://github.com/sharkdp/vivid).
+*   [vivid (⭐8)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.6k)](https://github.com/sharkdp/vivid).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

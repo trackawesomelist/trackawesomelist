@@ -145,11 +145,11 @@ git push origin HEAD
 
 ### Components & Libraries / UI Components
 
-*   [vue-concise-carousel (⭐20)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+*   [vue-concise-carousel (⭐23)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lazyload (⭐32)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐33)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ### Components & Libraries / Scaffold
 

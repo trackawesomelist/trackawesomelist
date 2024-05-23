@@ -210,11 +210,11 @@ Language: English
 
 ### Audio
 
-*   [AudioFile (⭐895)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
+*   [AudioFile (⭐908)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 
 ### CSV
 
-*   [csv2 (⭐513)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
+*   [csv2 (⭐519)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
 
 ### GUI
 
@@ -251,7 +251,7 @@ Language: English
 
 ### Examples and funny stuff
 
-*   [phoenix-chat-example (⭐736)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+*   [phoenix-chat-example (⭐736)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
 *   [phoenix-liveview-counter-tutorial (⭐349)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
 *   [phoenix-todo-list-tutorial (⭐184)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
@@ -791,7 +791,7 @@ git switch -c <branch-name>
 
 ### Components & Libraries / Utilities
 
-*   [vue-ics (⭐16)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
+*   [vue-ics (⭐17)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
 ## [56. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -815,7 +815,7 @@ git switch -c <branch-name>
 
 ### Games
 
-*   [ZXSpectrum (⭐77)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
+*   [ZXSpectrum (⭐78)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Others
 
@@ -823,7 +823,7 @@ git switch -c <branch-name>
 
 ### Others / Others
 
-*   [EventHorizon Blazor TypeScript Interop Generator (⭐126)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
+*   [EventHorizon Blazor TypeScript Interop Generator (⭐128)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
 ## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 

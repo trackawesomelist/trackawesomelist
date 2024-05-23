@@ -415,12 +415,12 @@ A secure OAuth2 server implementation
 ### Ruby Clients
 
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Spyke (⭐837)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
-*   [excon (⭐1.1k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [excon (⭐1.2k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ### Go Clients
 
-*   [gopencils (⭐446)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+*   [gopencils (⭐452)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 
 ### Python / Symfony2
 
@@ -531,11 +531,11 @@ A secure OAuth2 server implementation
 
 ### CLI Builder
 
-*   [Commander (⭐820)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐821)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ### DevOps Tools
 
-*   [Ruby-LXC (⭐128)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
+*   [Ruby-LXC (⭐131)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 
 ### Profiler and Optimization
 

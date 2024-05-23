@@ -107,7 +107,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐6.3k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐6.4k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
 ## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

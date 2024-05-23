@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐663)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐670)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema SDL (⭐110)](https://github.com/amplication/prisma-schema-dsl)
+*   [Prisma Schema SDL (⭐112)](https://github.com/amplication/prisma-schema-dsl)
 
 ## [13. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -874,10 +874,10 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐5k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 *   [Deep High-Resolution-Net (⭐4.2k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 *   [dream-creator (⭐61)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐580)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [Lucent (⭐587)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
@@ -1046,11 +1046,11 @@
 
 ### GUI
 
-*   [Glimmer (⭐488)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐513)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐999)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐1k)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [56. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -1116,7 +1116,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐425)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐427)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ### Components & Libraries / UI Components
 

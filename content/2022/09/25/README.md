@@ -70,7 +70,7 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Components & Libraries / Utilities
 
-*   [vue-facing-decorator (⭐331)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
+*   [vue-facing-decorator (⭐336)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
 
 ## [8. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

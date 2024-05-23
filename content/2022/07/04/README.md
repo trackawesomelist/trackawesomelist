@@ -32,10 +32,6 @@
 
 *   [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code (⭐1.1k)](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++/Docker`
 
-### Software / Miscellaneous
-
-*   [MyPaas (⭐370)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
-
 ### Software / Search Engines
 
 *   [ZincSearch](https://zincsearch.com) - Search engine that requires minimal resources (alternative to Elasticsearch). ([Demo (⭐17k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐17k)](https://github.com/zincsearch/zincsearch)) `Apache-2.0` `Go/Docker/K8S`
@@ -84,7 +80,7 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐284)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐290)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

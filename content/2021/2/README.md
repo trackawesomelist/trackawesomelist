@@ -159,7 +159,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Documentation Generator (⭐511)](https://github.com/pantharshit00/prisma-docs-generator)
+*   [Documentation Generator (⭐537)](https://github.com/pantharshit00/prisma-docs-generator)
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -402,7 +402,14 @@
     *   paper: <https://arxiv.org/pdf/2010.08422.pdf>
     *   github: [https://github.com/wissam-sib/dilbert (⭐15)](https://github.com/wissam-sib/dilbert)
 
-## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Shells, shells interfaces / Third-party APIs
+
+*   [cmd (⭐63)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
+    *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
+
+## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -413,14 +420,7 @@
 
 ### Tools & Utilities / Others
 
-*   [TextCopy (⭐474)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐474)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
-
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### Shells, shells interfaces / Third-party APIs
-
-*   [cmd (⭐63)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
-    *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
+*   [TextCopy (⭐481)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐481)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
 
 ## [23. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -492,17 +492,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐399)](https://github.com/opentyrian/opentyrian):flower\_playing\_cards: - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐402)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
 
 ### Online
 
-*   [Ryzom Core (⭐324)](https://github.com/ryzom/ryzomcore):flower\_playing\_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐326)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 
 ## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐28k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐29k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [33. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
@@ -514,7 +514,7 @@
 
 ### Security
 
-*   [SI Snitch (⭐5)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
+*   [SI Snitch (⭐7)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 
 ## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -527,7 +527,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-wait-for (⭐12)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
+*   [vue-wait-for (⭐13)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 *   [vue3-chart-v2 (⭐38)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 *   [vue-cloudinary-uploader (⭐4)](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
 

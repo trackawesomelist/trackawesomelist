@@ -58,7 +58,7 @@
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐236)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐260)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ---
 

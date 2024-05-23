@@ -20,7 +20,7 @@
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Icons / Testing
+### Icons / Validation
 
 *   [ngx-icon-blur (⭐5)](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
 

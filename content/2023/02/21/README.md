@@ -94,7 +94,7 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+*   [tashy (⭐8)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 
 ### Automation / Apache License

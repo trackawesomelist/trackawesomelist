@@ -10,9 +10,9 @@
 
 ### Concurrency
 
-*   [mitchellh/libxev (⭐998)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
-*   [kprotty/zefi (⭐34)](https://github.com/kprotty/zefi) - Fiber library.
-*   [rsepassi/zigcoro (⭐63)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
+*   [mitchellh/libxev (⭐1.6k)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
+*   [kprotty/zefi (⭐35)](https://github.com/kprotty/zefi) - Fiber library.
+*   [rsepassi/zigcoro (⭐80)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 *   [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
 
 ### Misc libraries
@@ -22,20 +22,20 @@
 ### Zig development tools / Package managers
 
 *   [mattnite/ezpkg (⭐25)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐60)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [nix-community/zon2nix (⭐61)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ### Parser / Package managers
 
-*   [InKryption/comath (⭐38)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
+*   [InKryption/comath (⭐39)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
 
 ### Learning resources / Package managers
 
-*   [zighelp/zighelp (⭐28)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
+*   [zighelp/zighelp (⭐30)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
 
 ### C/C++ libraries packaged for Zig / C
 
 *   [andrewrk/libz (⭐13)](https://github.com/andrewrk/libz) - Zlib data compression.
-*   [kassane/openssl-zig (⭐4)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
+*   [kassane/openssl-zig (⭐5)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
 *   [raysan5/raylib (⭐19k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 *   [jmcnamara/libxlsxwriter (⭐1.4k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 
@@ -46,7 +46,7 @@
 *   [kassane/unordered (⭐0)](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 *   [kassane/Standalone-Server (⭐2)](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐56k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐58k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

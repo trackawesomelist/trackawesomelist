@@ -46,7 +46,7 @@
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐231)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
+*   [Furtherance (⭐233)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
 
 ### Applications / System tools
 
@@ -81,15 +81,15 @@
 
 ### Table
 
-*   [mantine-datatable (⭐837)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+*   [mantine-datatable (⭐840)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 ### Menu
 
-*   [mantine-contextmenu (⭐112)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+*   [mantine-contextmenu (⭐114)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Form Components / Input Types
 
-*   [react-multi-email (⭐280)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+*   [react-multi-email (⭐281)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -101,7 +101,7 @@
 
 ### API / Samples
 
-*   [VulcanSQL (⭐572)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+*   [VulcanSQL (⭐597)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
 
 ### HA/Failover/Sharding / Zabbix
 

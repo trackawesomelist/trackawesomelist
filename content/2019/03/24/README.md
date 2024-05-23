@@ -22,7 +22,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.7k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

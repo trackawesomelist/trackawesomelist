@@ -11,8 +11,8 @@
 ### Libraries / Platform specific
 
 *   Linux
-    *   [hannobraun/inotify-rs (⭐245)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
-    *   [pop-os/distinst (⭐218)](https://github.com/pop-os/distinst/) — Linux distribution installer
+    *   [hannobraun/inotify-rs (⭐246)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
+    *   [pop-os/distinst (⭐219)](https://github.com/pop-os/distinst/) — Linux distribution installer
     *   [yaa110/rust-iptables (⭐81)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings
 
 ## [2. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
@@ -40,9 +40,9 @@
 
 ### Software / Software Containers
 
-*   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐32k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
-*   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.2k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
-*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐1.9k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+*   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐33k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
+*   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.3k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
+*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐2k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-full-autoupdate (⭐58)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
+*   [omz-full-autoupdate (⭐59)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
 
 ---
 

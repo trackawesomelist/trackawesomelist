@@ -35,8 +35,8 @@
 
 ### Chemistry
 
-*   [d-SEAMS (⭐33)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
-*   [LAMMPS (⭐2k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
+*   [d-SEAMS (⭐34)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
+*   [LAMMPS (⭐2.1k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
 
 ### Game Engine
 
@@ -64,8 +64,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Pivottable (⭐129)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
-*   [Vue Datamaps (⭐17)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
+*   [Vue Pivottable (⭐131)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+*   [Vue Datamaps (⭐19)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

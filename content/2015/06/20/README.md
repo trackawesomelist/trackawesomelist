@@ -30,7 +30,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐402)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐404)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

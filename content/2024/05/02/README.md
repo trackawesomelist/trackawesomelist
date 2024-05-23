@@ -10,39 +10,42 @@
 
 ### Community
 
-*   [angular hub (⭐33)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+*   [angular hub (⭐39)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 ### Charts / Testing
 
 *   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
-### Form Controls / Testing
+### DOM / Testing
 
-*   [reactive-forms (⭐609)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [edit-in-place (⭐256)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 
-### Icons / Testing
+### Forms / General
 
-*   [svg-icon (⭐251)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+*   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
-### Keyboard Mouse / Testing
+### Icons / Validation
+
+*   [svg-icon (⭐252)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+
+### Keyboard Mouse / Validation
 
 *   [hotkeys (⭐326)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
-### Layout Components / Testing
+### Layout Components / Validation
 
 *   [overview (⭐108)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
-### Loaders / Testing
+### Loaders / Validation
 
 *   [content-loader (⭐734)](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 
-### Modals / Testing
+### Modals / Validation
 
-*   [dialog (⭐371)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+*   [dialog (⭐372)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 
 ### Misc Components / Node Based
 
-*   [edit-in-place (⭐254)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 *   [falso (⭐3.1k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 *   [helipopper (⭐392)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
@@ -53,17 +56,17 @@
 
 ### HTTP / Node Based
 
-*   [cashew (⭐671)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+*   [cashew (⭐672)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [MeanderingProgrammer/markdown.nvim (⭐139)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
+*   [MeanderingProgrammer/markdown.nvim (⭐256)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
 
 ### Motion / Diagnostics
 
-*   [tris203/precognition.nvim (⭐86)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
+*   [tris203/precognition.nvim (⭐188)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -75,11 +78,11 @@
 
 ### Applications / Database
 
-*   [native\_db (⭐263)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
+*   [native\_db (⭐304)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
 
 ### Applications / Productivity
 
-*   [ShadoySV/work-break (⭐1)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
+*   [ShadoySV/work-break (⭐2)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -118,7 +121,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aloy (⭐11)](https://github.com/karetsu/aloy) - Fork of [@elenapan's (⭐3.4k)](https://github.com/elenapan/dotfiles) lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's [minimal (⭐256)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
+*   [aloy (⭐11)](https://github.com/karetsu/aloy) - Fork of [@elenapan's (⭐3.4k)](https://github.com/elenapan/dotfiles) lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's [minimal (⭐257)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
 
 ---
 

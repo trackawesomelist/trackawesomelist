@@ -581,24 +581,24 @@ Free (Open Source)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
-*   [XrmToolBox (⭐554)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
-*   [Levelup for Dynamics CRM (⭐183)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-*   [Power Platform Adoption Framework (⭐127)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
-*   [Flow & Power Apps Migrator (⭐127)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+*   [XrmToolBox (⭐558)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+*   [Levelup for Dynamics CRM (⭐188)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
+*   [Power Platform Adoption Framework (⭐128)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
+*   [Flow & Power Apps Migrator (⭐132)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
 *   [SharePoint Workflow Converter (⭐16)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Power Platform Connectors (⭐859)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+*   [Power Platform Connectors (⭐897)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐41)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐42)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Apps & Azure Lab (⭐40)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
-*   [PL-900: Power Platform Fundamentals (⭐232)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+*   [Power Apps & Azure Lab (⭐42)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+*   [PL-900: Power Platform Fundamentals (⭐237)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
 ### Learning Resources / Workato
 
@@ -606,11 +606,11 @@ Free (Open Source)
 
 ### Samples, Templates and Solutions / Power Platform (Microsoft)
 
-*   [Power Apps Samples (⭐365)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
-*   [PowerApps Samples (⭐66)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
-*   [Power Apps Branding Template (⭐58)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
-*   [SharePoint Power Platform Solutions (⭐139)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
-*   [Power Automate Samples (⭐216)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
+*   [Power Apps Samples (⭐383)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
+*   [PowerApps Samples (⭐68)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
+*   [Power Apps Branding Template (⭐62)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
+*   [SharePoint Power Platform Solutions (⭐144)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
+*   [Power Automate Samples (⭐234)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 *   [Automatic travel time (⭐2)](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
 *   [Message Center in Teams (⭐1)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
 *   [Consume Power BI (⭐19)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
@@ -644,7 +644,7 @@ Free (Open Source)
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome Microsoft Power Platform (⭐74)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
+*   [Awesome Microsoft Power Platform (⭐79)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
 ## [51. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -844,7 +844,7 @@ Free (Open Source)
 
 ### Python / Computer Vision
 
-*   [dockerface (⭐190)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
+*   [dockerface (⭐189)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
 ## [63. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -860,15 +860,15 @@ Free (Open Source)
 
 ### CLI
 
-*   [FINAL CUT (⭐931)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
+*   [FINAL CUT (⭐940)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
 
 ### Scientific Computing
 
-*   [preCICE (⭐670)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
+*   [preCICE (⭐683)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
 
 ### Serialization
 
-*   [cista (⭐1.6k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
+*   [cista (⭐1.7k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
 ## [65. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 

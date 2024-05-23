@@ -39,20 +39,20 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐374)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐396)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐563)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐578)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
-*   [facebook/opaque-ke (⭐275)](https://github.com/facebook/opaque-ke) — Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
+*   [facebook/opaque-ke (⭐274)](https://github.com/facebook/opaque-ke) — Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
 
 ### Libraries / Parsing
 
-*   [rust-bakery/nom (⭐9k)](https://github.com/rust-bakery/nom) — parser combinator library
+*   [rust-bakery/nom (⭐9.1k)](https://github.com/rust-bakery/nom) — parser combinator library
 
 ## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Clearnet & Anonymous Networking / Anonymity
 
-*   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+*   [ipfs (⭐23k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 
 ### Clearnet & Anonymous Networking / Crypto
 
@@ -85,7 +85,6 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cmaker (⭐8)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

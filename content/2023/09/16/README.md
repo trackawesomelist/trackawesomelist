@@ -30,7 +30,7 @@
 
 ### CSV
 
-*   [ssp (⭐47)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
+*   [ssp (⭐48)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 
 ### Integrated Development Environment
 
@@ -53,8 +53,8 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐274)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐658)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐282)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐663)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ---
 

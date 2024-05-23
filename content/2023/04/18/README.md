@@ -170,8 +170,8 @@
 
 ### conversion
 
-*   [topojson for Python (⭐167)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-*   [geomet (⭐163)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
+*   [topojson for Python (⭐175)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
+*   [geomet (⭐167)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
 ## [13. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

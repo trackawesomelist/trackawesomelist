@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐613)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐615)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -99,7 +99,7 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐102)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐103)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Software / Log Management
 
-*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐1.9k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
+*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐2k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
 ## [14. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 

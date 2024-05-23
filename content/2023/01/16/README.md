@@ -22,7 +22,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Insurance-system (⭐42)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+*   [Insurance-system (⭐43)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐803)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐802)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -81,7 +81,7 @@
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐601)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐600)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Image Synthesis / Multi-agents
@@ -124,7 +124,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [daivasmara (⭐65)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [daivasmara (⭐66)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
 ## [10. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 

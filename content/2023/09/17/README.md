@@ -22,7 +22,7 @@
 
 ### Strategy
 
-*   [GLSMAC (⭐346)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
+*   [GLSMAC (⭐353)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 
 ## [4. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

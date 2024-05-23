@@ -85,7 +85,7 @@
 
 ### FPS
 
-*   [The Force Engine (⭐919)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
+*   [The Force Engine (⭐928)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

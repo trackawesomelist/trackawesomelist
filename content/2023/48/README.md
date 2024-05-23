@@ -2161,11 +2161,11 @@
 
 ### Action
 
-*   [TR1X (⭐455)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
+*   [TR1X (⭐459)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
 ## [32. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
-- Name: [Pipelight (⭐249)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐272)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -2175,7 +2175,7 @@
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐249)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐272)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 
@@ -2185,19 +2185,19 @@
 
 ### Game Engine
 
-*   [JNGL (⭐215)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐216)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### Internationalization
 
-*   [simdutf (⭐956)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+*   [simdutf (⭐970)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 
 ### JSON
 
-*   [Sonic-Cpp (⭐779)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+*   [Sonic-Cpp (⭐781)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
 
 ### PDF
 
-*   [pdfio (⭐158)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
+*   [pdfio (⭐159)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 *   [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. \[BSD-3-Clause]
 
 ## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
@@ -2271,7 +2271,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-virtual-waterfall (⭐75)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
+*   [vue-virtual-waterfall (⭐80)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
 ## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 

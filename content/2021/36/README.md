@@ -327,13 +327,6 @@
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐516)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐9.3k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 
-### Software / Software Development - FaaS & Serverless
-
-*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐41k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
-*   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
-*   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
-
 ### Software / Software Development - IDE & Tools
 
 *   [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code (⭐6.9k)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
@@ -342,6 +335,10 @@
 
 *   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐1.2k)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`
 *   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐4.3k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
+
+### Software / Software Development - Low Code
+
+*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐41k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 
 ## [36. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
@@ -562,7 +559,7 @@
 ### GUI
 
 *   [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
-*   [sqlite-tui (⭐1.6k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
+*   [sqlite-tui (⭐1.7k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
 
 ### Reporting / Zabbix
 
@@ -647,15 +644,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-use-places-autocomplete (⭐31)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
-*   [v-perfect-signature (⭐229)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
+*   [v-use-places-autocomplete (⭐32)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
+*   [v-perfect-signature (⭐232)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
 
 ### Components & Libraries / Utilities
 
 *   [pinia (⭐12k)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 *   [mobx-vue-lite](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
-*   [pinia-shared-state (⭐250)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
-*   [pinia-undo (⭐65)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
+*   [pinia-shared-state (⭐253)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
+*   [pinia-undo (⭐67)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
 *   [pinia-xstate (⭐53)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
 ## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)

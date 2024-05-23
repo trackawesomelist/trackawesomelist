@@ -96,7 +96,7 @@
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐159)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐162)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

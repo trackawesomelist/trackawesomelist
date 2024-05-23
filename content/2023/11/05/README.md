@@ -39,7 +39,7 @@
 
 ### Database
 
-*   [Velox (⭐3.1k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3.2k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 

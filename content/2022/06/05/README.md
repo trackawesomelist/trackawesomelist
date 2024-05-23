@@ -34,7 +34,7 @@
 
 ### Software / Miscellaneous
 
-*   [Octave Online](https://octave-online.net/) - Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐308)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
+*   [Octave Online](https://octave-online.net/) - Infrastructure behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐308)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

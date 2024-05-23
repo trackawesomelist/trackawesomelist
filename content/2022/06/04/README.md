@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [Azure Data Studio (⭐7.4k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+*   [Azure Data Studio (⭐7.5k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -51,7 +51,6 @@
 ### Software / Miscellaneous
 
 *   [Baby Buddy (⭐2k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
-*   [PassCheck](https://passcheck.anhur.xyz/) - A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. ([Source Code (⭐61)](https://github.com/AtentumZero/PassCheck)) `MIT` `Javascript`
 *   [string.is](https://string.is/) - An open-source, privacy-friendly online string toolkit for developers. ([Source Code (⭐197)](https://github.com/recurser/string-is)) `AGPL-3.0` `Nodejs`
 
 ### Software / Money, Budgeting & Management

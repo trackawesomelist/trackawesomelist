@@ -285,7 +285,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐737)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐746)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -394,7 +394,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐231)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐230)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -444,7 +444,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐974)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐987)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -466,7 +466,7 @@
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐227)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐228)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Peripheral Access Crates / XMC

@@ -24,10 +24,10 @@
 
 *   QUIC
     *   [aws/s2n-quic (⭐1.1k)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
-    *   [cloudflare/quiche (⭐8.9k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+    *   [cloudflare/quiche (⭐9k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
     *   [mozilla/neqo (⭐1.8k)](https://github.com/mozilla/neqo) — an Implementation of QUIC
     *   [quinn-rs/quinn (⭐3.5k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
-    *   [tencent/tquic (⭐889)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
+    *   [tencent/tquic (⭐901)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -53,7 +53,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐7.7k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐32)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐7.7k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐40)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐7.7k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

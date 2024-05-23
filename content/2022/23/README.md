@@ -52,14 +52,14 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐472)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐473)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 
 ### Libraries / Audio and Music
 
 *   [RustAudio](https://github.com/RustAudio)
     *   [RustAudio/cpal (⭐2.4k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
     *   [RustAudio/rodio (⭐1.6k)](https://github.com/RustAudio/rodio) — Audio playback library
-    *   [RustAudio/rust-portaudio (⭐364)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/rust-portaudio (⭐365)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐26k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐27k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [22. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐1.8k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐2.1k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -347,7 +347,7 @@
 
 ### validation
 
-*   [Jest-GeoJSON (⭐8)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+*   [Jest-GeoJSON (⭐9)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
 ## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -401,14 +401,14 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Z.Blazor.Diagrams (⭐847)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
+*   [Z.Blazor.Diagrams (⭐874)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
 *   [BlazorCurrentDevice (⭐24)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
 *   [BlazorStyledTextArea (⭐16)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
 
 ### Others / Others
 
-*   [Fun.Blazor (⭐176)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
-*   [Blazor.DownloadFileFast (⭐29)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
+*   [Fun.Blazor (⭐175)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
+*   [Blazor.DownloadFileFast (⭐30)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
 *   [Blazor.DynamicJavascriptRuntime.Evaluator (⭐19)](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - ![stars](https://img.shields.io/github/stars/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=86400) Execute dynamic object expressions as Javascript in Blazor client-side apps.
 
 ### Podcasts / Others
@@ -479,8 +479,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐215)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
-*   [sortablejs-vue3 (⭐350)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [qalendar (⭐220)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [sortablejs-vue3 (⭐351)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ### Components & Libraries / UI Utilities
 
@@ -546,10 +546,10 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fastcache (⭐25)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
+*   [fastcache (⭐26)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
 *   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐60k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 *   [pnpm (baliestri) (⭐6)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐65)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (ntnyq) (⭐66)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -733,7 +733,7 @@
 
 ### Graphics
 
-*   [Harfang 3D (⭐470)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐510)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
 
 ## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

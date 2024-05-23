@@ -96,7 +96,7 @@
 
 ### Projects
 
-*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐77k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐78k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 

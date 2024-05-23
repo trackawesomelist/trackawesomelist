@@ -100,7 +100,7 @@ Free
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9.2k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.4k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ---
 

@@ -71,7 +71,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐114)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Notification
 
-*   [react-hot-toast (⭐9.1k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐9.2k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -200,15 +200,15 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Data Science Interviews Questions (⭐8.1k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐8.2k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐455)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐6.1k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐2.8k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
+*   [cpp-terminal (⭐461)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐6.2k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐2.9k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ### Graphics
 
@@ -216,7 +216,7 @@
 
 ### Multimedia
 
-*   [libass (⭐871)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐876)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
@@ -228,12 +228,12 @@
 
 ### Serialization
 
-*   [Bitsery (⭐985)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐798)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [Bitsery (⭐994)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
+*   [FastBinaryEncoding (⭐799)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐7.4k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐7.5k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
@@ -434,7 +434,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐857)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐862)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -550,7 +550,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository :octocat: (⭐289)](https://github.com/Ford/AVData)
+    *   [GitHub repository :octocat: (⭐290)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -560,27 +560,27 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐9.4k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐9.5k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
     *   [GitHub repository :octocat: (⭐20k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐8.3k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
     *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/daavoo/pyntcloud)
 
 ### Frameworks
 
 *   [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
-    *   [GitHub repository :octocat: (⭐24k)](https://github.com/ApolloAuto/apollo)
+    *   [GitHub repository :octocat: (⭐25k)](https://github.com/ApolloAuto/apollo)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ApolloAuto)
 
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐289)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐293)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐359)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐362)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
     *   [GitHub repository :octocat: (⭐1.6k)](https://github.com/charlesq34/frustum-pointnets)
@@ -590,15 +590,15 @@
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
-*   [LeGO-LOAM :octocat: (⭐2.2k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
+*   [LeGO-LOAM :octocat: (⭐2.3k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-*   [Cartographer :octocat: (⭐6.9k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+*   [Cartographer :octocat: (⭐7k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐848)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐870)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐620)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐634)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -610,14 +610,14 @@
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 *   [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
-    *   [GitHub repository :octocat: (⭐111)](https://github.com/peiyunh/WYSIWYG)
+    *   [GitHub repository :octocat: (⭐112)](https://github.com/peiyunh/WYSIWYG)
 
 ### Simulators / Object detection and object tracking
 
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 *   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐10k)](https://github.com/carla-simulator/carla)
+    *   [GitHub repository :octocat: (⭐11k)](https://github.com/carla-simulator/carla)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 
 ### Others / Object detection and object tracking

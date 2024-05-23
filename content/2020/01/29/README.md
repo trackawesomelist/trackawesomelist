@@ -52,22 +52,22 @@
 
 ### Applications
 
-*   [tiny (⭐968)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐971)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐7.8k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐7.9k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐243)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐249)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐827)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐658)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐322)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
-*   [debris/tiny-keccak (⭐189)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐836)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐663)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐323)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
+*   [debris/tiny-keccak (⭐190)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Miscellaneous
 
-*   [react-pdf-viewer (⭐2k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+*   [react-pdf-viewer (⭐2.1k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ## [13. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Software / Monitoring
 
-*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.9k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
+*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐2k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
 
 ## [2. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Security / Zabbix
 
-*   [Inspektor (⭐273)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+*   [Inspektor (⭐279)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

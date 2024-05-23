@@ -10,7 +10,7 @@
 
 ### Info / Other Good Places to Find Papers
 
-*   [Services Engineering Reading List (⭐3.5k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 
 ---
 

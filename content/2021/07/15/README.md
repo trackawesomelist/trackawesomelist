@@ -10,7 +10,7 @@
 
 ### GUI
 
-*   [Jailer (⭐2.6k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐2.7k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -63,8 +63,8 @@
 
 ### RSS2TelegramChannel / Docsify
 
-*   [Newspopper (⭐12)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
-*   [Rui (⭐7)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
+*   [Newspopper (⭐13)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
+*   [Rui (⭐8)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
 ### RSS2WIDGET / For website
 
@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐762)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐775)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

@@ -418,7 +418,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.7k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐7.8k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -527,7 +527,7 @@ Webpage: <https://edinburghhacklab.com/>
 ### Database
 
 *   [SQLiteC++ (⭐2.1k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐854)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [sqlite\_modern\_cpp (⭐859)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -623,9 +623,9 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐35k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐8.7k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
-*   [API Umbrella (⭐1.9k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
+*   [Kong (⭐38k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐9.3k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [API Umbrella (⭐2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ### SaaS Tools / Symfony2
 

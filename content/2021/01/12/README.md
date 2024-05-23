@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐399)](https://github.com/opentyrian/opentyrian):flower\_playing\_cards: - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐402)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
 
 ### Online
 
-*   [Ryzom Core (⭐324)](https://github.com/ryzom/ryzomcore):flower\_playing\_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐326)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐28k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐29k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Security
 
-*   [SI Snitch (⭐5)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
+*   [SI Snitch (⭐7)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 
 ## [9. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

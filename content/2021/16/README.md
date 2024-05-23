@@ -82,7 +82,7 @@
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐99)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐100)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [knn-java-library (⭐6)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
+*   [knn-java-library (⭐7)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
 
 ### Tools / Misc
 
@@ -217,7 +217,7 @@
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐3.3k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -257,13 +257,13 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Visualizer (⭐211)](https://github.com/skn0tt/prisma-erd)
-*   [prisma-uml (⭐111)](https://github.com/emyann/prisma-uml)
-*   [DBML Generator (⭐607)](https://github.com/notiz-dev/prisma-dbml-generator)
+*   [Prisma ERD Visualizer (⭐248)](https://github.com/skn0tt/prisma-erd)
+*   [prisma-uml (⭐113)](https://github.com/emyann/prisma-uml)
+*   [DBML Generator (⭐639)](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Calendso (⭐27k)](https://github.com/calendso/calendso)
+*   [Calendso (⭐29k)](https://github.com/calendso/calendso)
 
 ## [31. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -310,7 +310,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐281)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐285)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -334,7 +334,7 @@
 
 ### Rules
 
-*   [Sitecore Adaptive Rules (⭐6)](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
+*   [Sitecore Adaptive Rules](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -847,11 +847,11 @@
 
 ### Resources / Examples
 
-*   [Vue Todo PWA (⭐17)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
+*   [Vue Todo PWA (⭐18)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐98)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐99)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ### Components & Libraries / Utilities
 

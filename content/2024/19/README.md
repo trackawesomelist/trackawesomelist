@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06 - May 12, 2024
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -112,38 +112,11 @@
 
 *   [Traefik (⭐48k) (⭐48k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐363) (⭐363)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-### Projects / Workflow engine
-
-*   [Bonita (⭐145) (⭐145)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-
 ### Resources / Standard APIs
 
 *   [Standard Webhooks (⭐1.1k) (⭐1.2k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
-
-### Learning / Talks Presentations Podcasts
-
-*   [RTC.ON 2023](https://www.youtube.com/playlist?list=PLSk21zn8fFZBUTg4AbMyVBripi2ldmjpF) - 2023 RTC.ON talks & presentations
-*   [JanusCon 2019](https://www.youtube.com/playlist?list=PLkSq48W3Pn8n_PBOIRAiqhcCIsrgydzU_) - 2019 JanusCon talks & presentations
-*   [CommCon 2023](https://www.youtube.com/playlist?list=PLvNS4EBAxmJLjMY3NAVoPSmIXWiUjrnKv) - 2023 CommCon talks & presentations
-*   [CommCon 2021](https://www.youtube.com/playlist?list=PLvNS4EBAxmJJbvGW-PfXdXOSy9AjHjCLV) - 2021 CommCon talks & presentations
-*   [CommCon 2020](https://www.youtube.com/playlist?list=PLvNS4EBAxmJLCLMNqvfe6eTQIWVDAPcP4) - 2020 CommCon talks & presentations
-*   [CommCon 2019](https://www.youtube.com/playlist?list=PLvNS4EBAxmJKz6E6PLCqBq0eB-KKB6HR0) - 2019 CommCon talks & presentations
-
-### Community / Slack/Discord/Other Groups
-
-*   [Software Mansion Discord](https://discord.gg/nEZ8Rusc52) - Discord server where folks from SWM working on multimedia stuff reside.
-*   [LiveKit Slack](https://join.slack.com/t/livekit-users/shared_invite/zt-28a400kyd-I0mPVUrxcZ5TEayIvmq9mw) - Slack where folks working on LiveKit reside.
-*   [Gophers Slack, channel #pion](https://join.slack.com/t/gophers/shared_invite/zt-2gyed6bva-gl2F32VpT1WZvCpj4e7FtA) - Slack channel where folks working on Pion reside.
-*   [Video-Dev Slack](https://www.video-dev.org/) - Slack for video engineers.
-*   [discuss-webrtc](https://groups.google.com/g/discuss-webrtc) - Google Group for all webrtc-related questions.
-
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -162,7 +135,7 @@
 
 *   [ImgBB](https://imgbb.com/) — ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
 
-## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [15. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Graphics
 
@@ -172,13 +145,13 @@
 
 *   [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
 *   [Latest (⭐2.7k)](https://github.com/mangerlahn/Latest) - A tiny app that checks if all your apps from any source are up to date. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mangerlahn/Latest)
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [17. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -192,29 +165,29 @@
 
 *   [vite-plugin-icons-spritesheet (⭐23)](https://github.com/forge42dev/vite-plugin-icons-spritesheet) - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
-*   [CopilotC-Nvim/CopilotChat.nvim (⭐889)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [CopilotC-Nvim/CopilotChat.nvim (⭐971)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ### Utility / Diagnostics
 
 *   [doctorfree/cheatsheet.nvim (⭐12)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Queue
 
 *   [Cap.Outbox (⭐7)](https://github.com/dex-it/dex-common/tree/main/src/Dex.Cap) - Implementation of the Outbox pattern and OnceExecutor service that guarantees idempotence: the operation will be performed once
 
-## [21. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
 *   [ptcpdump (⭐17)](https://github.com/mozillazg/ptcpdump) - A process-aware, eBPF-based tcpdump-like tool.
 
-## [22. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Ephemera
 
@@ -224,7 +197,7 @@
 
 *   [Can I teach a robot to replicate a line art (2019)](https://arxiv.org/abs/1910.07860)
 
-## [23. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [22. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Aalto University](https://brand.aalto.fi/)
 
@@ -249,7 +222,7 @@
 
 
 
-## [24. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Genetic Programming / Others
 
@@ -260,7 +233,7 @@
 *   [pymoo (⭐2k)](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
 *   [pycma (⭐1k)](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
 
-## [25. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [24. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
@@ -271,13 +244,13 @@
 *   [Jwat (⭐3)](https://github.com/netarchivesuite/jwat) - Libraries for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
 *   [Jwat-Tools (⭐4)](https://github.com/netarchivesuite/jwat-tools) - Tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
 
-## [26. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [25. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [Hyperf (⭐2)](https://github.com/onix-systems-php/hyperf-inertia)
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -285,7 +258,7 @@
 *   🎨🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of gradients using Tailwind CSS classes.
 *   🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -300,7 +273,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Shadcn UI (⭐3k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐58k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐2.6k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐79k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [Shadcn UI (⭐3.1k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐59k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐2.7k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐79k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [uni-app (⭐39k)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 *   [vue-vben-admin (⭐22k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 *   [Geeker-Admin (⭐6.5k)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
@@ -308,7 +281,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [kitbag/router (⭐5)](https://github.com/kitbagjs/router) - A type safe router for vuejs
+*   [kitbag/router (⭐23)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 *   [vue-countup-v3 (⭐138)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 *   [trois (⭐4.1k)](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
@@ -319,16 +292,16 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [devtools-next (⭐929)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
-*   [vite-plugin-vue-inspector (⭐626)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
+*   [devtools-next (⭐982)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+*   [vite-plugin-vue-inspector (⭐634)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 *   [vitest (⭐12k)](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
 ### Components & Libraries / Scaffold
 
 *   [Vite (⭐65k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [electron-vite-vue (⭐3.8k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+*   [electron-vite-vue (⭐3.9k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
-## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -340,7 +313,7 @@
 
 ### Embeddable Scripting Languages
 
-*   [starlet (⭐5)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
+*   [starlet (⭐7)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 
 ### Validation
 
@@ -354,7 +327,7 @@
 
 *   [go-size-analyzer (⭐379)](https://github.com/Zxilly/go-size-analyzer) - Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -362,13 +335,13 @@
 
 ### Development tools / Web Servers
 
-*   [ATAC (⭐1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+*   [ATAC (⭐1.1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ### Libraries / Data visualization
 
-*   [plotpy (⭐50)](https://github.com/cpmech/plotpy) — Rust plotting library using Python (Matplotlib)
+*   [plotpy (⭐49)](https://github.com/cpmech/plotpy) \[[plotpy](https://crates.io/crates/plotpy)] — Rust plotting library using Python (Matplotlib)
 
-## [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -425,7 +398,7 @@
 *   [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment (⭐536)](https://github.com/ToTheBeginning/PuLID)
 *   [Edit Your Image](https://huggingface.co/collections/ysharma/edit-your-image-662be093bf97b697957c3c3f): Find all the trending and useful Gradio demos that you can use to edit your images
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
@@ -441,9 +414,9 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Ocular (⭐14)](https://github.com/simonwep/ocular) - Simplistic and straight-forward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
+*   [Ocular (⭐14)](https://github.com/simonwep/ocular) - Simplistic and straightforward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
 
-## [33. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [32. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Drawing
 
@@ -454,16 +427,12 @@
 *   [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 *   [Badar 🌕 (⭐5)](https://github.com/Nabeel20/Badar) - Declarative, retained\* and flexbox inspired UI library and components.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / Angular Team
+### X / Angular Team
 
 *   [Jessica Janiuk](https://mastodon.social/@jessicajaniuk)
 *   [Doug Parker](https://mastodon.social/@develwithoutacause@techhub.social)
-*   [Emma Twersky](https://twitter.com/twerske)
-*   [Mark Thompson](https://twitter.com/marktechson)
-*   [Pawel Kozlowski](https://twitter.com/pkozlowski_os)
-*   [Dylan Hunn](https://twitter.com/dylhunn)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -484,7 +453,7 @@
 ### Exercises / Testing
 
 *   [angular-fundamental-lessons (⭐45)](https://github.com/MarkTechson/angular-fundamentals-lessons)
-*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
+*   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 
@@ -500,20 +469,25 @@
 *   [angular2-image-gallery (⭐306)](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 *   [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 
-### Mixed utilities / Testing
+### DOM / Testing
+
+*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+
+### Mixed utilities / Validation
 
 *   [trellisorg platform (⭐69)](https://github.com/trellisorg/platform) - The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use.
 *   [daffodil (⭐151)](https://github.com/graycoreio/daffodil) - Angular Ecommerce PWA Framework.
 *   [ngworker (⭐38)](https://github.com/ngworker/ngworker) - Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing.
 *   [myndpm (⭐54)](https://github.com/myndpm/open-source) - Open Source Angular Libraries contributed by @myndpm.
-*   [jscutlery devkit (⭐225)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
+*   [jscutlery devkit (⭐228)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 
-### Modals / Testing
+### Modals / Validation
 
-*   [ngx-modal-ease (⭐10)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
-*   [ngx-smart-modal (⭐320)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+*   [ngx-modal-ease (⭐11)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
+*   [ngx-smart-modal (⭐321)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
-### Storage / Testing
+### Storage / Validation
 
 *   [ngx-reactive-storage (⭐31)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
 *   [ng2-webstorage (⭐423)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
@@ -529,17 +503,15 @@
 
 ### UI Libraries / Node Based
 
-*   [ngx-vflow (⭐43)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+*   [ngx-vflow (⭐46)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 ### Misc Components / Node Based
 
-*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 *   [popover (⭐227)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
 *   [ngx-device-detector (⭐507)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 *   [ngx-feature-toggle (⭐100)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 *   [ng-polymorpheus (⭐370)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 
 ### Analytics / Node Based
 
@@ -557,17 +529,17 @@
 *   [ngx-seo (⭐2)](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 *   [angular-react-seo (⭐72)](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
 
-## [35. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [34. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Data Store / Mouse Events
 
 *   [RxDB](https://rxdb.info/) - [demo (⭐21k)](https://github.com/pubkey/rxdb/tree/master/examples/react) - [docs](https://rxdb.info/quickstart.html) A fast, local first, reactive Database for JavaScript Applications
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [firmine (⭐0)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
+*   [firmine (⭐1)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
 *   [kiwi (⭐0)](https://github.com/fruitydog/kiwi.zsh-theme) - Dog-themed, includes `git` status and last command exit status decorators.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

@@ -47,7 +47,7 @@
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs (⭐459)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
+    *   [alexcrichton/ssh2-rs (⭐463)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
     *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library, backed by [libsodium](https://doc.libsodium.org/)
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)

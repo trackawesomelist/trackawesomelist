@@ -320,11 +320,11 @@ Webpage: <http://www.26grados.com/>
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐43)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐44)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐77k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-local (⭐298)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
+*   [vue-datepicker-local (⭐297)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

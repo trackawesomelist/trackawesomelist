@@ -127,7 +127,7 @@
 
 ### Libraries / Image processing
 
-*   [rust-cv/cv (⭐758)](https://github.com/rust-cv/cv) — Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [rust-cv/cv (⭐765)](https://github.com/rust-cv/cv) — Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

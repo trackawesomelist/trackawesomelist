@@ -10,7 +10,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_cron (⭐2.5k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+*   [pg\_cron (⭐2.6k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

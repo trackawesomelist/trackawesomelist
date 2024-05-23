@@ -593,7 +593,7 @@
 
 ### PHP / Symfony2
 
-*   [NelmioApiDocBundle (⭐2.1k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
+*   [NelmioApiDocBundle (⭐2.2k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
 ## [43. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 

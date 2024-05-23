@@ -57,7 +57,7 @@
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Coisas (⭐316)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐325)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -76,7 +76,7 @@
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐991)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐998)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 

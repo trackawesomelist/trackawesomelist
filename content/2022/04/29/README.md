@@ -16,7 +16,7 @@
 
 ### Schema / Design
 
-*   [WWW SQL Designer (⭐2.8k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
+*   [WWW SQL Designer (⭐2.9k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

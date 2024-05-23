@@ -151,15 +151,15 @@
 
 ### Caching
 
-*   [Readthis (⭐506)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
-*   [Clamp (⭐419)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐421)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐991)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐994)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -537,7 +537,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Debugging
 
-*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
+*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
 
 ### Geolocation
 

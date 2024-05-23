@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27 - Jun 02, 2019
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -181,43 +181,37 @@
 
 *   [webargs (⭐1.4k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Twitter / Experts
-
-*   [@PatrickJS\_\_](https://twitter.com/PatrickJS__)
-
-## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno\_random\_interval (⭐1)](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
 *   [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
 
-## [11. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [PyVista (⭐1.5k)](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
-## [12. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [11. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Case Studies
 
 *   [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 
-## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [12. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### GUI
 
 *   [OmniDB/OmniDB: Web tool for database management (⭐3k)](https://github.com/OmniDB/OmniDB)
 
-## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -227,31 +221,31 @@
 
 *   [VictoriaMetrics (⭐8.6k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, scalable and resource-effective open-source TSDB compatible with Prometheus. Single-node and cluster versions included
 
-## [15. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [14. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / PHP
 
 *   [Eric Evans DDD Cargo Sample (⭐798)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 
-## [16. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Telegram Piracy / Third Party Hosts
 
 *   [Piracy Links Portal](https://t.me/PiracyLinks) Official invite links portal for piracy groups & channels.
 
-## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
 *   [SquareConnect (⭐41)](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
 
-## [18. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / VIM
 
 *   [Unstable language server for neovim](https://gist.github.com/meirish/639e6def0f352f63fef662dce3ca2f98)
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -261,32 +255,32 @@
 
 *   [Streaming Shared Preferences (⭐247)](https://github.com/roughike/streaming_shared_preferences) <!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
-## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [19. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
 *   [Serverless Instant Checkout Links with Square](https://developer.squareup.com/blog/serverless-instant-checkout-links-with-square/) - An example showing how to build serverless instant checkout links backed by Square APIs.
 
-## [21. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Sympy](https://www.sympy.org/)
 *   [Sagemath](http://www.sagemath.org/)
 
-## [22. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [21. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
 *   [Vuex](https://vuex.vuejs.org/) - [🐙 (⭐28k)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 
-## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 
-## [24. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [23. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Books and Resources
 
@@ -373,14 +367,14 @@
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow.
 
-## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
 *   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐122)](https://github.com/yfain/getts)
 *   :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 
-## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
@@ -390,26 +384,26 @@
 
 *   [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 
-## [27. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [26. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
 *   [tqdm (⭐27k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 
-## [28. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [27. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
 *   [CMakeCooking](https://github.com/hakuch/CMakeCooking) - Flexible development environments for CMake projects with external dependencies
     . [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
-## [29. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [28. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Python
 
@@ -424,7 +418,7 @@
 
 *   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐725)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
@@ -451,7 +445,7 @@
 
 *   [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 
-## [32. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [31. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -461,7 +455,7 @@
 
 *   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Firebase
 
@@ -475,39 +469,39 @@
 
 *   [ATGValidator (⭐51)](https://github.com/altayer-digital/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32l0xx-hal`](https://crates.io/crates/stm32l0xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l0xx-hal.svg)
     *   HAL implementation for the the STMicro STM32L0xx family of microcontrollers
 
-## [35. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [34. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Related Awesome Lists / Mocking
 
 *   [Awesome Annotation Processing (⭐446)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
-## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Capturing Audio Output During Testing: Part 1](https://appiumpro.com/editions/69)
 *   [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 
-## [37. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [36. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Tockler (⭐847)](https://github.com/MayGo/tockler) - Tracks your time.
 
-## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [DeleteFB (⭐2.7k)](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
 
-## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
@@ -555,7 +549,7 @@
 *   [rOpenHealth](https://github.com/rOpenHealth) Public health data
 *   [rOpenSci](https://ropensci.org) Open science
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -563,21 +557,21 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐145)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
+*   [dynamic\_bitset (⭐147)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐825)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐838)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Internationalization
 
-*   [utf8proc (⭐980)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐982)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ### Web Application Framework
 
 *   [Drogon (⭐11k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
 
-## [41. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [40. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -588,7 +582,7 @@
 
 *   [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 
-## [42. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [41. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Official resources
 
@@ -621,13 +615,13 @@
 
 *   [GitHub Design System](https://primer.github.io/storybook/)
 
-## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Architecture
 
 *   [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 
-## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -651,7 +645,7 @@
 
 *   [Product Management (⭐1.3k)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
-## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [44. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@antirez](https://github.com/antirez), [Redis (⭐57k)](https://github.com/antirez/redis)
     *   "The struggles of an open source maintainer" ([post](http://antirez.com/news/129))
@@ -659,13 +653,13 @@
     *   "Recap of the `funding` experiment" ([post](https://feross.org/funding-experiment-recap/))
     *   "What I learned from WebTorrent: Lessons learned from starting and running a P2P open source project" ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
 
-## [46. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [45. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### News
 
 *   [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
 
-## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
@@ -675,31 +669,31 @@
 
 *   [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
 
-## [48. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Styling / Navigation Demos
 
 *   [react-native-tailwindcss (⭐543)](https://github.com/TVke/react-native-tailwindcss) - A react native styling system based on TailwindCSS.
 
-## [49. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [48. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [LaraShout](https://larashout.com/)
 
-## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Angular
 
 *   [Web Components With Angular Ivy In 6 Steps](https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx)
 
-## [51. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 
-## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -718,7 +712,7 @@
 
 *   [GitHub Actions for Hugo extended (⭐1.1k)](https://github.com/peaceiris/actions-hugo)
 
-## [53. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [52. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Theming
 

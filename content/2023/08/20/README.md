@@ -10,7 +10,7 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐657)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
+*   [tweedegolf/mailcrab (⭐661)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

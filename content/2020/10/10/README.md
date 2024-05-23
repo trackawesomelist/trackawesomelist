@@ -28,7 +28,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.5k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BalmUI (⭐500)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+*   [BalmUI (⭐498)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

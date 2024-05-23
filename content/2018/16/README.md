@@ -763,7 +763,7 @@
 
 *   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 *   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
-*   [geojson-polygon-labels (⭐79)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+*   [geojson-polygon-labels (⭐80)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ## [36. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -775,7 +775,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomidorus (⭐180)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
+*   [Pomidorus (⭐179)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
 ## [38. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)

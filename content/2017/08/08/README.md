@@ -69,7 +69,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐77k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

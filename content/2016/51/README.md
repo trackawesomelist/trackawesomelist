@@ -530,7 +530,7 @@ git format-patch -M upstream..topic
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐30)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -592,10 +592,6 @@ git format-patch -M upstream..topic
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Cryptography
-
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
-
 ### Debug
 
 *   [backward-cpp (⭐3.6k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
@@ -616,9 +612,13 @@ git format-patch -M upstream..topic
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
+### Encryption
+
+*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
+
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐464)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐465)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Graphics
 
-*   [micro-gl (⭐142)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
+*   [micro-gl (⭐144)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

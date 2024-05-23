@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [TinyTIFF (⭐122)](https://github.com/jkriege2/TinyTIFF) - lightweight TIFF reader/writer library. \[GPL-3.0]
+*   [TinyTIFF (⭐124)](https://github.com/jkriege2/TinyTIFF) - lightweight TIFF reader/writer library. \[GPL-3.0]
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

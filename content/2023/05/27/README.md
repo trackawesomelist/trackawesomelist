@@ -34,7 +34,7 @@
 
 ### Libraries / Astronomy
 
-*   [cds-astro/aladin-lite (⭐89)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐90)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

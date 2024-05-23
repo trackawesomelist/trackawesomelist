@@ -194,7 +194,7 @@
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐332)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐336)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Form Logic / Mouse Events
 

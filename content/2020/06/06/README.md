@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuesence-cloud-sync-button (⭐10)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
+*   [vuesence-cloud-sync-button (⭐11)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 
 ## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

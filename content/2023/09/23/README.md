@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuedraggable-plus (⭐2.4k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
+*   [vuedraggable-plus (⭐2.5k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 
 ### Components & Libraries / Utilities
 

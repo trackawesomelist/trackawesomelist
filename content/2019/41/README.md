@@ -338,11 +338,11 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐203)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐204)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐332)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐336)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
@@ -811,7 +811,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.7k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.1k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -1096,7 +1096,7 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐21k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐22k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 

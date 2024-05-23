@@ -54,28 +54,28 @@
 
 ### Components & Libraries / UI Components
 
-*   [notivue (⭐573)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
-*   [vue-collapsed (⭐119)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
+*   [notivue (⭐592)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
+*   [vue-collapsed (⭐120)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-use-active-scroll (⭐60)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
+*   [vue-use-active-scroll (⭐67)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐541)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
+*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐547)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
 *   [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code (⭐4.5k)](https://github.com/gluster/glusterfs)) `GPL-2.0/LGPL-3.0` `C`
 *   [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code (⭐14k)](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
 *   [Kubo (⭐16k)](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
 *   [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code (⭐1.5k)](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 *   [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
-*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐44k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐45k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 *   [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code (⭐1.6k)](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 *   [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
-*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐327)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
+*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐328)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
 
 ---
 

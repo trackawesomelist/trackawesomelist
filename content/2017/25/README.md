@@ -386,7 +386,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐545)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 

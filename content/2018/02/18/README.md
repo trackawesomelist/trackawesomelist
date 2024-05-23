@@ -51,7 +51,7 @@
 
 ### Java / Git
 
-*   [GDH (⭐30)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
+*   [GDH (⭐31)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

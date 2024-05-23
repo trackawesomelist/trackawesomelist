@@ -16,7 +16,7 @@
 
 ### Applications / Audio and Music
 
-*   [Pinepods (⭐105)](https://github.com/madeofpendletonwool/PinePods) — A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
+*   [Pinepods (⭐124)](https://github.com/madeofpendletonwool/PinePods) — A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
 
 ## [3. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

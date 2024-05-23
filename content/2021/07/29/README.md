@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐678)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐692)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐994)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐1k)](https://github.com/chengpeiquan/learning-vue3)
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐796)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐801)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

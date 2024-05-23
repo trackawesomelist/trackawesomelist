@@ -46,7 +46,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.6k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.7k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

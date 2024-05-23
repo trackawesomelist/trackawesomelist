@@ -60,11 +60,11 @@
 
 ### Racing
 
-*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite):flower\_playing\_cards: - This is a re-implementation of the 1995 PSX game wipEout.
+*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
 
 ### Strategy
 
-*   [KeeperFX (⭐679)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [KeeperFX (⭐694)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)

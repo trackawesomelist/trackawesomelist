@@ -283,7 +283,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [18. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
@@ -425,7 +425,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐378)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐379)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 

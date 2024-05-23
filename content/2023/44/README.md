@@ -63,7 +63,7 @@
 
 ### Software / Control Panels
 
-*   [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code (⭐3k)](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
+*   [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code (⭐3.1k)](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Database
 
-*   [karlseguin/pg.zig (⭐102)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
+*   [karlseguin/pg.zig (⭐118)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 ## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### AI
 
-*   [Cledev.OpenAI (⭐103)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
+*   [Cledev.OpenAI (⭐105)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
 
 ### Videos / Others
 
@@ -181,14 +181,14 @@
 
 ### Database
 
-*   [Velox (⭐3.1k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3.2k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐201)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐501)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐85)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
-*   [C++Now 2023 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [CppCon 2023 Presentation Materials (⭐220)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐506)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐86)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐3)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
@@ -200,7 +200,7 @@
 
 ## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### State Management / Testing
+### State Management / Validation
 
 *   [exome (⭐140)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
@@ -251,7 +251,7 @@
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐158)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [3body-lang (⭐162)](https://github.com/rustq/3body-lang) - The Three Body Language
 
 ## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Rust / Git
 
-*   [botan-rs (⭐25)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐29)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
 ## [30. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -350,17 +350,17 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [XAD (⭐207)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
+*   [XAD (⭐216)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 
 ### Python / Computer Vision
 
-*   [TF-GAN (⭐908)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
-*   [segmentation\_models.pytorch (⭐8.7k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [TF-GAN (⭐911)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
+*   [segmentation\_models.pytorch (⭐8.9k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 *   [segmentation\_models (⭐4.6k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 
 ### Python / Reinforcement Learning
 
-*   [Gymnasium (⭐5.5k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
+*   [Gymnasium (⭐5.8k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
 
 ## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -389,7 +389,7 @@
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐47k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐23k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐24k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
@@ -441,7 +441,7 @@
 
 ### Security
 
-*   [beelzebub (⭐575)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐580)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ### Server Applications
 
@@ -646,7 +646,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐10k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
@@ -654,7 +654,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐14k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐89)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
@@ -736,8 +736,8 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐20k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
-*   [asdf (zimfw) (⭐8)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐20k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐517)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐517)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐21k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
+*   [asdf (zimfw) (⭐8)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐21k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐522)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐522)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 

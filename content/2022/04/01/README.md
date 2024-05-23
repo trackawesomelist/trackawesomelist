@@ -51,15 +51,15 @@
 
 ### Data / Scripts
 
-*   [dbt (⭐8.2k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐9k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Replication
 
-*   [dtle (⭐532)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐9.5k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [pgsync (⭐2.9k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-*   [pg\_chameleon (⭐360)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-*   [PGDeltaStream (⭐248)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+*   [dtle (⭐541)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐10k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [pgsync (⭐3k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
+*   [pg\_chameleon (⭐370)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [PGDeltaStream (⭐252)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
 *   [repmgr (⭐1.5k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)

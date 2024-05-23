@@ -33,7 +33,7 @@
 
 ### Documentation
 
-*   [Hanna (⭐36)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐37)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

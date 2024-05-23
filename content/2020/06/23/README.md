@@ -128,7 +128,7 @@
 
 *   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
 *   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐458)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [kytan (⭐463)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 

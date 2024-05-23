@@ -79,7 +79,7 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐472)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐473)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 
 ---
 

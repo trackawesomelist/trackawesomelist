@@ -46,7 +46,7 @@
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐451)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐460)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 

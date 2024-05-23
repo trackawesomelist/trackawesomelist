@@ -136,7 +136,7 @@
 *   [ngx-multiple-dates (⭐10)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
 *   [ng-datetime (⭐0)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 
-### Layout Components / Testing
+### Layout Components / Validation
 
 *   [ngx-layout (⭐176)](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
 *   [ng-sortgrid (⭐143)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
@@ -144,11 +144,11 @@
 *   [angular-grid-layout (⭐423)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 *   [lithium-ngx-virtual-scroll (⭐23)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
 
-### Mixed utilities / Testing
+### Mixed utilities / Validation
 
 *   [lithium-angular (⭐12)](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
 
-### Tables / Testing
+### Tables / Validation
 
 *   [ui-grid (⭐5.4k)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
 *   [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
@@ -176,4 +176,5 @@
 
 ---
 
+- Prev: [May 19, 2024](/content/2024/05/19/README.md)
 - Next: [May 17, 2024](/content/2024/05/17/README.md)

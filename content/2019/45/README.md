@@ -57,7 +57,7 @@
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.9k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐4k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Math
 
-*   [CNL (⭐619)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐621)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -313,15 +313,15 @@
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐179)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
-*   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
-*   [ZabbixDBA (⭐89)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
+*   [Mamonsu (⭐183)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [pg\_monz (⭐163)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
+*   [ZabbixDBA (⭐91)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 ## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐518)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐524)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## [32. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -433,7 +433,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐789)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐793)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [37. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 

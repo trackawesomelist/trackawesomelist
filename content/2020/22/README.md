@@ -45,7 +45,7 @@
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐219)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐222)](https://github.com/AdaCore/ada_language_server).
 
 ## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Schema / Changes
 
-*   [yuniql (⭐405)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐411)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -225,10 +225,16 @@ Language: English
 
 ## [16. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
+
+*   [Tottem (⭐973)](https://github.com/poulainv/tottem)
+*   [Tomorrow](https://www.tomorrowapp.io/)
+*   [Predict Covid](https://predictcovid.com/)
+
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
-*   [Prisma Examples (⭐5.7k)](https://github.com/prisma/prisma-examples)
+*   [Prisma Examples (⭐5.9k)](https://github.com/prisma/prisma-examples)
 
 ### :studio_microphone: Events
 
@@ -267,17 +273,12 @@ Language: English
 
 ### :family_man_woman_girl_boy: Community / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [GitHub (⭐36k)](https://github.com/prisma/prisma/)
+*   [GitHub (⭐37k)](https://github.com/prisma/prisma/)
 *   [Website](https://prisma.io)
 *   [Docs](https://prisma.io/docs/)
 *   [Blog](https://prisma.io/blog)
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
-
-### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
-
-*   [Tomorrow](https://www.tomorrowapp.io/)
-*   [Predict Covid](https://predictcovid.com/)
 
 ## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -450,10 +451,6 @@ Language: English
 *   [oidc-bash-client (⭐95)](https://github.com/please-openit/oidc-bash-client)
 
 ## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
-
-### Apps
-
-*   [Tottem (⭐969)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ### Essentials
 
@@ -718,7 +715,7 @@ Language: English
 
 ### Games
 
-*   [DiabloBlazor (⭐93)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
+*   [DiabloBlazor (⭐92)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 
 ### Component bundles
 

@@ -401,7 +401,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐673)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐674)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [37. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -489,7 +489,7 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐892)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐894)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

@@ -116,7 +116,7 @@
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [prisma-next-auth-graphql-starter (⭐77)](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
+*   [prisma-next-auth-graphql-starter (⭐76)](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

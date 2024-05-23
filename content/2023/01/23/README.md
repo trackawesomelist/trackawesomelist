@@ -56,7 +56,7 @@
 ### Applications / Emulators
 
 *   PlayStation 4
-    *   [Obliteration (⭐558)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+    *   [Obliteration (⭐563)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 
 ### Libraries / Encoding
 
@@ -117,12 +117,12 @@
 
 ### Templates
 
-*   [Blazor BFF Azure AD (⭐74)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐74)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
+*   [Blazor BFF Azure AD (⭐75)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐75)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
 *   [Blazor BFF Azure B2C (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureB2C.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template/blob/main/README-NUGET.md/).
 
 ### 2D/3D Rendering engines / Database
 
-*   [DexieNET (⭐38)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component.
+*   [DexieNET (⭐41)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -148,7 +148,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐173)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐174)](https://github.com/mroth/evalcache).
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

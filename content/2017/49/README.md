@@ -79,10 +79,6 @@
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Community
-
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
-
 ### Books / Testing
 
 *   [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
@@ -404,7 +400,7 @@
 ### Concurrency
 
 *   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
-*   [concurrentqueue (⭐8.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [concurrentqueue (⭐8.9k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [cupla (⭐4)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
 *   [readerwriterqueue (⭐3.5k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
@@ -419,7 +415,7 @@
 
 ### Scientific Computing
 
-*   [Torch (⭐8.9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
+*   [Torch (⭐9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 
 ### Scripting
 
@@ -427,7 +423,7 @@
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐724)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐727)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

@@ -95,19 +95,19 @@
 
 ### Applications
 
-*   [doprz/dipc (⭐163)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
+*   [doprz/dipc (⭐166)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
 ### Applications / Utilities
 
-*   [mrjackwills/oxker (⭐425)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
+*   [mrjackwills/oxker (⭐435)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
 
 ### Applications / Web Servers
 
-*   [mu-arch/skyfolder (⭐110)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
+*   [mu-arch/skyfolder (⭐112)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 
 ### Development tools / Web Servers
 
-*   [frolic (⭐177)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐179)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
 
 ### Libraries / Artificial Intelligence
 
@@ -116,7 +116,7 @@
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   [dyz1990/sevenz-rust (⭐129)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+    *   [dyz1990/sevenz-rust (⭐134)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
 
 ### Libraries / Cryptography
 
@@ -128,7 +128,7 @@
 
 ### Libraries / Graph algorithms
 
-*   [neo4j-labs/graph (⭐352)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
+*   [neo4j-labs/graph (⭐353)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -154,7 +154,13 @@
 
 *   [xpanes (⭐1.9k)](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
-## [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### API / Samples
+
+*   [Graphweaver (⭐444)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+
+## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
@@ -170,29 +176,23 @@
 *   [TextAI (⭐7.1k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 *   [AgentFlow (⭐263)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 
-## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Captchas
 
 *   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.6k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)
 
-## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [GitHub Codespaces](https://www.github.com/codespaces/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
-
-### CMS / Playground
-
-*   [Graphweaver (⭐436)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -232,12 +232,12 @@
 
 ### Game Engine
 
-*   [quakeforge (⭐34)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
+*   [quakeforge (⭐35)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
 *   [ezEngine (⭐1.2k)](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
 
 ### Graph
 
-*   [Graaf (⭐85)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
+*   [Graaf (⭐84)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
 
 ## [25. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -354,7 +354,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [geekan/MetaGPT (⭐39k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐40k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -375,7 +375,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chaos (⭐1)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
-*   [heapbytes (⭐36)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
+*   [heapbytes (⭐40)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
 *   [lildragon (⭐0)](https://github.com/skippyr/lildragon) - Dragon-themed. Includes decorators for `git` status, current directory & username. Requires a font with emoji glyphs.
 *   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 

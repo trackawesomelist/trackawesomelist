@@ -690,8 +690,8 @@
 
 ### Schema / Changes
 
-*   [Atlas (⭐4.5k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Reshape (⭐1.6k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
+*   [Atlas (⭐5k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Reshape (⭐1.7k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 *   [sqldef (⭐1.8k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
@@ -701,10 +701,10 @@
 ### Schema / Documentations
 
 *   [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
-*   [DBML (⭐2.3k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
-*   [SchemaCrawler (⭐1.5k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-*   [Schema Spy (⭐2.9k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐2.9k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [DBML (⭐2.4k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+*   [SchemaCrawler (⭐1.6k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+*   [Schema Spy (⭐3k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+*   [tbls (⭐3.1k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -712,29 +712,29 @@
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 *   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 *   [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-*   [pgmodeler (⭐2.9k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+*   [pgmodeler (⭐3k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐657)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐689)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### API / Samples
 
-*   [Datasette (⭐8.6k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐9k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
-*   [Budibase (⭐20k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [Saltcorn (⭐1.4k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+*   [Budibase (⭐21k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+*   [Saltcorn (⭐1.5k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ### Backup / Samples
 
-*   [pgcopydb (⭐918)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
+*   [pgcopydb (⭐1k)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
 
 ### Cloning / Samples
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
-*   [clone\_schema (⭐148)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐161)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ### Monitoring/Statistics/Perfomance / Samples
@@ -752,41 +752,41 @@
 
 ### SQL / Über SQL
 
-*   [CloudQuery (⭐5.4k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
-*   [csvq (⭐1.4k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
-*   [dsq (⭐3.5k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [CloudQuery (⭐5.6k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
+*   [csvq (⭐1.5k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
+*   [dsq (⭐3.7k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 *   [OctoSQL (⭐4.7k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
-*   [Steampipe (⭐6.1k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+*   [Steampipe (⭐6.5k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 *   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
-*   [trdsql (⭐1.7k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+*   [trdsql (⭐1.9k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 ### Data / Scripts
 
-*   [dbt (⭐8.2k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐9k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐121)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐128)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐11k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐690)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐12k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐689)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ### Data / Replication
 
-*   [dtle (⭐532)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐9.5k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [pgsync (⭐2.9k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-*   [pg\_chameleon (⭐360)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-*   [PGDeltaStream (⭐248)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+*   [dtle (⭐541)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐10k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [pgsync (⭐3k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
+*   [pg\_chameleon (⭐370)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [PGDeltaStream (⭐252)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
 *   [repmgr (⭐1.5k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ### Papers / Compare
 
-*   [The "Database as Code" Manifesto (⭐82)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐85)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 ## [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -809,9 +809,9 @@
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐416)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
+    *   [hniksic/rust-subprocess (⭐419)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐779)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
+    *   [oconnor663/duct.rs (⭐787)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
     *   [rust-cli/rexpect (⭐315)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
     *   [zhiburt/expectrl (⭐162)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
@@ -933,7 +933,7 @@
 *   [uspin (⭐6)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 *   [vue-img-lazy-tiny (⭐5)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 *   [vue-drag-drop-snap (⭐1)](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
-*   [awesome-image (⭐72)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
+*   [awesome-image (⭐73)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ### Components & Libraries / Frameworks
 

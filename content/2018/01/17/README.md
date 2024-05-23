@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐811)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐816)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

@@ -15,7 +15,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [Agr Reader](https://www.agrreader.xyz/) <sup>[1378](https://t.me/s/aboutrss/1378)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.agrreader.xyz/)
-*   [Twine (⭐1.4k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
+*   [Twine (⭐1.5k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
 *   [Readine](https://readine.app/) <sup>[1389](https://t.me/s/aboutrss/1389)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/read-rss-and-more-readine/id6456571712)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=net.synrss.readine.rss)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://readine.app/Downloads)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://readine.app/Downloads)[![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://readine.app/Downloads)[![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://pwa.readine.app/)
 *   \[StreamSphere] <sup>[1394](https://t.me/s/aboutrss/1394)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere)
 *   [Quickify](https://quickify.app/) <sup>[1399](https://t.me/s/aboutrss/1399)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=quick.read.app)
@@ -57,7 +57,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS Worker (⭐381)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
+*   [RSS Worker (⭐453)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
 *   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 
 ### universally from / webpage/html
@@ -82,11 +82,11 @@
 
 ### Generating Blog's statistics via RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [EndofYear (⭐69)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
+*   [EndofYear (⭐67)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
 
 ### Turn Podcast/MP3 into Video via Podcast Feed / Crypto or Blockchain relevant
 
-*   [Podcast RSS Generator (⭐19)](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generate it using GitHub Actions.
+*   [Podcast RSS Generator (⭐23)](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generate it using GitHub Actions.
 
 ### Podcast Search Engine / Crypto or Blockchain relevant
 
@@ -113,11 +113,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐77)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
+*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐79)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
 
-### Software / Software Development - FaaS & Serverless
+### Software / Software Development - Low Code
 
-*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐218)](https://github.com/casejs/case)) `MIT` `Nodejs`
+*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐226)](https://github.com/casejs/case)) `MIT` `Nodejs`
 
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -419,8 +419,8 @@
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-encoding (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
-*   [lorawan-device (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-encoding (⭐210)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
+*   [lorawan-device (⭐210)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -485,13 +485,13 @@
 
 ### Configuration
 
-*   [mINI (⭐436)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐448)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
 *   [hat-trie (⭐769)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
 *   [st\_tree (⭐91)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐119)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [tree.hh (⭐122)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
 ## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -533,16 +533,16 @@
 
 ### Applications / Database
 
-*   [darkbird (⭐405)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [darkbird (⭐407)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
 *   [SQLSync (⭐1.7k)](https://github.com/orbitinghail/sqlsync) — Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐33k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐34k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐760)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐775)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
@@ -550,7 +550,7 @@
 
 ### Libraries / Email
 
-*   [meli/meli (⭐604)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐611)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
@@ -729,13 +729,13 @@
 
 ### Software / Web
 
-*   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.1k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
+*   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.2k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 
 ## [48. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
-*   [Another Redis Desktop Manager (⭐28k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+*   [Another Redis Desktop Manager (⭐29k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 
 ## [49. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -803,23 +803,23 @@
 
 ### (requires Neovim 0.5)
 
-*   [marilari88/twoslash-queries.nvim (⭐121)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
+*   [marilari88/twoslash-queries.nvim (⭐128)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐121)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐133)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Nedra1998/nvim-mdlink (⭐17)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
+*   [Nedra1998/nvim-mdlink (⭐18)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
 
 ### Language / Diagnostics
 
-*   [tanloong/interlaced.nvim (⭐3)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+*   [tanloong/interlaced.nvim (⭐5)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐70)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐79)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [54. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 

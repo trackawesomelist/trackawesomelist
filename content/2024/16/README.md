@@ -120,7 +120,7 @@
 
 ### Racing
 
-*   [Reburn 3 (⭐81)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
+*   [Reburn 3 (⭐89)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
 
 ## [11. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Parsers/Encoders/Decoders
 
-*   [prattle (⭐4)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
+*   [prattle (⭐5)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
 
 ### Meetups / Libraries for creating HTTP middlewares
 
@@ -182,10 +182,6 @@
     *   [REST Assured (⭐6.7k) (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐2.1k) (⭐2.1k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
     *   [Taurus (⭐1.9k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐143) (⭐143)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 ### Projects / Integration Frameworks
 
@@ -226,17 +222,17 @@
 
 ### Charts / Testing
 
-*   [ng-apexcharts (⭐297)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐301)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
-### Icons / Testing
+### Icons / Validation
 
-*   [ng-icons (⭐299)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
-*   [primeicons (⭐236)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
-*   [angular-svg-icon (⭐238)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+*   [ng-icons (⭐302)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐239)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐241)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 
 ### UI Libraries / Tailwind CSS Based
 
-*   [David UI Angular (⭐49)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+*   [David UI Angular (⭐52)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ## [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -393,11 +389,11 @@
 ### Libraries / Compression
 
 *   zstd
-    *   [gyscos/zstd-rs (⭐458)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
+    *   [gyscos/zstd-rs (⭐462)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
 
 ### Libraries / Parsing
 
-*   [igumnoff/shiva (⭐119)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
+*   [igumnoff/shiva (⭐127)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 
 ## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -413,9 +409,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-default-page (⭐3)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+*   [vue-default-page (⭐18)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐850)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐865)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
@@ -447,11 +443,11 @@
 
 ### GUI
 
-*   [WebUI (⭐2k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
+*   [WebUI (⭐2.1k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
 
 ### Miscellaneous
 
-*   [RapidFuzz (⭐210)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+*   [RapidFuzz (⭐213)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
 ## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -540,15 +536,15 @@
 
 ### Color / Diagnostics
 
-*   [moyiz/command-and-cursor.nvim (⭐13)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+*   [moyiz/command-and-cursor.nvim (⭐14)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 
 ### Terminal Integration / Diagnostics
 
-*   [akinsho/toggleterm.nvim (⭐3.7k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
+*   [akinsho/toggleterm.nvim (⭐3.8k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
 
 ### Git / Diagnostics
 
-*   [moyiz/git-dev.nvim (⭐40)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+*   [moyiz/git-dev.nvim (⭐62)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
 ## [44. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 

@@ -99,7 +99,7 @@
 
 ### Driver crates / WIP
 
-*   [AFE4400 (⭐5)](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
+*   [AFE4400 (⭐6)](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
 *   [APDS9960](https://crates.io/crates/apds9960) - I2C - Proximity, ambient light, RGB, and gesture sensor - ![crates.io](https://img.shields.io/crates/v/apds9960.svg)
 *   [AS5048A (⭐1)](https://github.com/uwearzt/as5048a) - SPI - AMS AS5048A Magnetic Rotary Encoder
 *   [AXP209 (⭐5)](https://github.com/RandomInsano/axp209-rs) - I2C - Power management unit
@@ -117,7 +117,7 @@
 *   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
 *   [HD44780 (⭐12)](http://github.com/kunerd/clerk) - Parallel port - LCD controller
 *   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
-*   [hub75 (⭐16)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
+*   [hub75 (⭐18)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
 *   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
 *   [iAQ-Core (⭐3)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
 *   [ILI9341 (⭐57)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
@@ -154,7 +154,7 @@
 *   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
 *   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
 *   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
-*   [stm32-eth (⭐141)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
+*   [stm32-eth (⭐142)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
 *   [SX1278 (⭐11)](https://github.com/susu/sx1278) - SPI - Long range (LoRa) transceiver
 *   [SX1509 (⭐1)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
 *   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
@@ -185,7 +185,7 @@
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - ![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - ![crates.io](https://img.shields.io/crates/v/managed.svg)
 *   [menu (⭐45)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
-*   [micromath (⭐382)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
+*   [micromath (⭐385)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - ![crates.io](https://img.shields.io/crates/v/nom.svg)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - ![crates.io](https://img.shields.io/crates/v/null-terminated.svg)
@@ -292,7 +292,7 @@
 ### Authentication
 
 *   [BlazorBoilerplate (⭐1.8k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
-*   [BlazorWithIdentity (⭐453)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
+*   [BlazorWithIdentity (⭐451)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
 
 ## [11. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

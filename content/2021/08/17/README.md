@@ -95,8 +95,8 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Caching Prisma (⭐59)](https://github.com/joellefkowitz/cached-prisma)
-*   [prettier-plugin-prisma (⭐208)](https://github.com/umidbekk/prettier-plugin-prisma)
+*   [Caching Prisma (⭐61)](https://github.com/joellefkowitz/cached-prisma)
+*   [prettier-plugin-prisma (⭐211)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

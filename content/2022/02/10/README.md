@@ -16,7 +16,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Redis Middleware - cache queries in Redis (⭐350)](https://github.com/Asjas/prisma-redis-middleware)
+*   [Prisma Redis Middleware - cache queries in Redis (⭐356)](https://github.com/Asjas/prisma-redis-middleware)
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

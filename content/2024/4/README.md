@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue3-realworld-app (⭐27)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
+*   [vue3-realworld-app (⭐28)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 
 ## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -72,15 +72,15 @@
 
 ### Python / Computer Vision
 
-*   [MLX (⭐14k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+*   [MLX (⭐15k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
 ### Python / Neural Networks
 
-*   [Kinho (⭐30)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
+*   [Kinho (⭐31)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 
 ### Tools / Misc
 
-*   [Infinity (⭐1.5k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐1.8k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐246)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐287)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ### Project / Diagnostics
 
@@ -254,8 +254,6 @@
 
 ### Encoding / Talks Presentations Podcasts
 
-*   [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator)  - Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously [https://github.com/cbsinteractive/video-transcoding-api (⭐5)](https://github.com/cbsinteractive/video-transcoding-api) - cbsinteractive/transcode-orchestrator
-*   [natsuite/NatReader-API](https://github.com/natsuite/NatReader-API)  - NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API
 *   [realeyes-media/demo-encoder (⭐55)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
@@ -269,7 +267,6 @@
 ### FFMPEG / Web
 
 *   [cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile · master · nvidia / container-images / samples](https://gitlab.com/nvidia/container-images/samples/blob/master/cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile)  - Sample Dockerfiles for Docker Hub images
-*   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)

@@ -93,7 +93,7 @@
 
 ### Math
 
-*   [GLM (⭐8.7k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐8.8k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

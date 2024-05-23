@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2018
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### Dashboards
 
-*   [Blazer (⭐4.3k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐4.4k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Measurements
 
-*   [Measured (⭐284)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐512)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐330)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐515)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -183,13 +183,7 @@
 
 *   [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
-
-## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
@@ -197,9 +191,9 @@
 
 ### Java / Git
 
-*   [securitybuilder (⭐44)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
+*   [securitybuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
-## [14. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Fuzzing / Sub Domain Enumeration
 
@@ -210,13 +204,13 @@
 *   [wpscan (⭐7.1k)](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
 *   [JoomlaScan (⭐165)](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
 
-## [15. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [14. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Video Surveillance
 

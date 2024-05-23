@@ -14,7 +14,7 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Icons / Testing
+### Icons / Validation
 
 *   [ngx-icon-blur (⭐5)](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
 
@@ -281,13 +281,13 @@
 
 *   Apache Kafka
     *   [fede1024/rust-rdkafka (⭐1.5k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka (⭐7.3k)](https://github.com/confluentinc/librdkafka) bindings
-    *   [gklijs/schema\_registry\_converter (⭐93)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
-    *   [kafka-rust/kafka-rust (⭐1.1k)](https://github.com/kafka-rust/kafka-rust) —
+    *   [gklijs/schema\_registry\_converter (⭐95)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
+    *   [kafka-rust/kafka-rust (⭐1.2k)](https://github.com/kafka-rust/kafka-rust) —
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐134)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐307)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐133)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐307)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐136)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐311)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐133)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐311)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 
@@ -650,13 +650,13 @@ git push origin HEAD
 
 ### Components & Libraries / UI Components
 
-*   [vue-concise-carousel (⭐20)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
-*   [vue-quill (⭐991)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+*   [vue-concise-carousel (⭐23)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+*   [vue-quill (⭐1k)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ### Components & Libraries / UI Utilities
 
 *   [@vuito/vue (⭐4)](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
-*   [vue3-lazyload (⭐32)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐33)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ### Components & Libraries / Utilities
 
@@ -687,9 +687,9 @@ git push origin HEAD
 ### Apps / Outline Processor Markup Language
 
 *   [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) <sup>[1008](https://t.me/s/aboutrss/1008)</sup> [![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://flathub.org/apps/details/com.gitlab.newsflash)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gitlab.com/news-flash/news_flash_gtk)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Flym (⭐953)](https://github.com/FredJul/Flym) <sup>[981](https://t.me/s/aboutrss/981)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FredJul/Flym)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Flym (⭐955)](https://github.com/FredJul/Flym) <sup>[981](https://t.me/s/aboutrss/981)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FredJul/Flym)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Ark View](https://www.definestudio.in/2018/02/introducing-ark-view.html) <sup>[971](https://t.me/s/aboutrss/971)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9pfxdzf5hkfv)
-*   [Brook (⭐23)](https://github.com/adamsanderson/brook) <sup>[976](https://t.me/s/aboutrss/976)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brook-feed-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/adamsanderson/brook)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brook (⭐22)](https://github.com/adamsanderson/brook) <sup>[976](https://t.me/s/aboutrss/976)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brook-feed-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/adamsanderson/brook)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Stories Now](https://n4no.com/projects/storiesNow/) <sup>[1002](https://t.me/s/aboutrss/1002)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://apps.apple.com/pl/app/stories-now/id1557096867)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://play.google.com/store/apps/details?id=com.n4no.storiesNow)
 *   [feedo](https://feedo-android.github.io/) <sup>[1018](https://t.me/s/aboutrss/1018)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.evalution.feedo)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -725,7 +725,7 @@ git push origin HEAD
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
 *   [GARSS (⭐1.1k)](https://github.com/zhaoolee/garss) <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhaoolee/garss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [osmos::feed (⭐921)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [osmos::feed (⭐933)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSSeveryday (⭐207)](https://github.com/GuangzheJiang/rss_everyday) <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/GuangzheJiang/rss_everyday)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Other Apps / Outline Processor Markup Language
@@ -796,7 +796,7 @@ git push origin HEAD
 ### XSL template for XML / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
-*   [pretty-feed-v3 (⭐171)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
+*   [pretty-feed-v3 (⭐178)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 
 ### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 

@@ -48,7 +48,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [SimpleLocalize (⭐55)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
+*   [SimpleLocalize (⭐56)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

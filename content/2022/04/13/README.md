@@ -38,7 +38,7 @@
 
 ### Libraries / Ruby
 
-*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐21k)](https://github.com/ruby/ruby)]
+*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐22k)](https://github.com/ruby/ruby)]
 
 ### Libraries / Rust
 
@@ -71,17 +71,17 @@
 ### Tools / Software / Audio Tools
 
 *   Music
-    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐3.6k)](https://github.com/Ardour/ardour)]
-    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐11k)](https://github.com/audacity/audacity)]
+    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐3.7k)](https://github.com/Ardour/ardour)]
+    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐12k)](https://github.com/audacity/audacity)]
     *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
     *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
     *   🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source (⭐1.5k)](https://github.com/BleuBleu/FamiStudio)]
     *   💸 [fmod](https://www.fmod.com) - Popular (*Hades*, *Celeste*, *Untitled Goose Game*) audio software for games.
-    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐7.5k)](https://github.com/lmms/lmms)]
+    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐7.6k)](https://github.com/lmms/lmms)]
     *   🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
-    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐425)](https://github.com/mbitsnbites/soundbox)]
+    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐427)](https://github.com/mbitsnbites/soundbox)]
     *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
-    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐405)](https://github.com/keithclark/ZzFXM)]
+    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐408)](https://github.com/keithclark/ZzFXM)]
 
 ### Tools / Software / Color / Palettes
 
@@ -89,7 +89,7 @@
 
 ### Tools / Software / Image Editors
 
-*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐4.5k)](https://github.com/GNOME/gimp)]
+*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐4.6k)](https://github.com/GNOME/gimp)]
 
 ### Tools / Software / Materials / Textures
 
@@ -105,11 +105,11 @@
 
 ### Tools / Software / Pixel Art
 
-*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐26k)](https://github.com/aseprite/aseprite)]
+*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐27k)](https://github.com/aseprite/aseprite)]
 
 ### Tools / Software / Vector Editors
 
-*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.9k)](https://github.com/inkscape/inkscape)]
+*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐2k)](https://github.com/inkscape/inkscape)]
 
 ### Video Game Assets / Graphic Assets
 

@@ -19,11 +19,11 @@
 *   Misc
     *   [arel\_extensions (⭐143)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
     *   [ActiveRecord::Turntable (⭐211)](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
-    *   [ActiveValidators (⭐305)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
-    *   [DeepPluck (⭐461)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
+    *   [ActiveValidators (⭐306)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+    *   [DeepPluck (⭐460)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
     *   [Enumerize (⭐1.7k)](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
     *   [Goldiloader (⭐1.5k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
-    *   [Rating (⭐68)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
+    *   [Rating (⭐70)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

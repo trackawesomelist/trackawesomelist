@@ -37,34 +37,34 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Shadcn UI (⭐3k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐58k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐2.6k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐79k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [Shadcn UI (⭐3.1k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐59k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐2.7k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐79k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [uni-app (⭐39k)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 *   [vue-vben-admin (⭐22k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 *   [VitePress (⭐11k)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 ### Components & Libraries / UI Utilities
 
-*   [kitbag/router (⭐5)](https://github.com/kitbagjs/router) - A type safe router for vuejs
+*   [kitbag/router (⭐23)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 
 ### Components & Libraries / Dev Tools
 
-*   [devtools-next (⭐929)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+*   [devtools-next (⭐982)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-vue (⭐3.8k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+*   [electron-vite-vue (⭐3.9k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Embeddable Scripting Languages
 
-*   [starlet (⭐5)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
+*   [starlet (⭐7)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.2k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [ATAC (⭐1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+*   [ATAC (⭐1.1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Ocular (⭐14)](https://github.com/simonwep/ocular) - Simplistic and straight-forward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
+*   [Ocular (⭐14)](https://github.com/simonwep/ocular) - Simplistic and straightforward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
 
 ## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -116,10 +116,10 @@
 
 *   [apollo-angular (⭐1.5k)](https://github.com/apollographql/apollo-angular) - Caching GraphQL client for Angular and every GraphQL server.
 
-### Modals / Testing
+### Modals / Validation
 
-*   [ngx-modal-ease (⭐10)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
-*   [ngx-smart-modal (⭐320)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+*   [ngx-modal-ease (⭐11)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
+*   [ngx-smart-modal (⭐321)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
 ### UI Libraries / General
 
@@ -128,7 +128,7 @@
 
 ### UI Libraries / Node Based
 
-*   [ngx-vflow (⭐43)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+*   [ngx-vflow (⭐46)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 ## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [firmine (⭐0)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
+*   [firmine (⭐1)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
 *   [kiwi (⭐0)](https://github.com/fruitydog/kiwi.zsh-theme) - Dog-themed, includes `git` status and last command exit status decorators.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

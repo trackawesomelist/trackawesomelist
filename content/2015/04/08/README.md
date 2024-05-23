@@ -22,11 +22,11 @@
 
 ### Image Processing
 
-*   [Video++ (⭐714)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐713)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 
-*   [QuantLib (⭐4.8k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.9k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Third-party APIs
 
-*   [Slack ruby gem (⭐244)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+*   [Slack ruby gem (⭐243)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

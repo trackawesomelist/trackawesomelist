@@ -22,11 +22,11 @@
 
 ### Applications / Database
 
-*   [FnckSQL (⭐492)](https://github.com/KipData/FnckSQL) — SQL as a Function for Rust
+*   [FnckSQL (⭐503)](https://github.com/KipData/FnckSQL) — SQL as a Function for Rust
 
 ### Applications / Utilities
 
-*   [sorairolake/qrtool (⭐24)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [sorairolake/qrtool (⭐25)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

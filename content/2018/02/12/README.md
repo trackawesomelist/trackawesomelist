@@ -17,7 +17,7 @@
 
 ### Scala / Git
 
-*   [tsec (⭐352)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+*   [tsec (⭐350)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐317)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐316)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

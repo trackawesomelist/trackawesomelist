@@ -347,7 +347,7 @@
 
 ### RSS services powered by utilizing Notion / Outline Processor Markup Language
 
-*   [NotionFeeder (⭐263)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
+*   [NotionFeeder (⭐273)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
 *   [Notion-Feed](https://notion-feed.com/) <sup>[1149](https://t.me/s/aboutrss/1149)</sup>
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
@@ -364,7 +364,7 @@
 
 ### universally from / multiple sources
 
-*   [RSSerpent (⭐211)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
+*   [RSSerpent (⭐212)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
 
 ### universally from / search results
 
@@ -454,7 +454,7 @@
 
 ### C / Git
 
-*   [XKCP (⭐554)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
+*   [XKCP (⭐566)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 
 ## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -627,7 +627,7 @@
 
 ### Misc
 
-*   [ToolJet (⭐26k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐27k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [18. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
@@ -859,7 +859,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐97)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐100)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [32. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -927,7 +927,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐72)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐73)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [40. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -977,11 +977,11 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐124)](https://github.com/alitnk/nest-prisma-monorepo)
+*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐126)](https://github.com/alitnk/nest-prisma-monorepo)
 
 ### :safety_vest: Community Prisma Tools / :man_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐1.5k)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.6k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ## [47. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -999,7 +999,7 @@
 
 *   [cargo-flash](https://probe.rs/docs/tools/cargo-flash/) A small cargo subcommand to download your binary to your target chip. - ![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)
 *   [cargo-embed](https://probe.rs/docs/tools/cargo-embed/) A superset of cargo-flash with additional useful features like configuration file support, an RTT terminal, or a GDB server. - ![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)
-*   [Embassy start (⭐26)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐4.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐26)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐4.5k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ### Real-time / Real-time Operating System (RTOS)
 

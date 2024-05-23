@@ -69,7 +69,7 @@
 
 ### Site Templates / Testing
 
-*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
+*   [Threejs (⭐221)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

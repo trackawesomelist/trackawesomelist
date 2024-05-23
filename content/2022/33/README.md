@@ -137,7 +137,7 @@
 
 ### PowerShell / Symfony2
 
-*   [Pode (⭐671)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐784)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ## [20. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AnySniper (⭐35)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
+*   [AnySniper (⭐36)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
 
 ### Components & Libraries / UI Layout
 
@@ -320,7 +320,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-persistedstate-2 (⭐77)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+*   [pinia-persistedstate-2 (⭐78)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
 ## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -336,12 +336,12 @@
 
 ### Development tools / Formatters
 
-*   [dprint (⭐2.9k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-*   [Prettier Rust (⭐167)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+*   [dprint (⭐3k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
+*   [Prettier Rust (⭐170)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ### Libraries / Data structures
 
-*   [becheran/grid (⭐81)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
+*   [becheran/grid (⭐80)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 
 ## [39. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 

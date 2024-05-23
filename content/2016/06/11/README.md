@@ -22,7 +22,7 @@
 
 ### Multimedia
 
-*   [SFML (⭐9.6k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐9.7k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 

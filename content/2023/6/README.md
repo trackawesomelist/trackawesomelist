@@ -102,7 +102,7 @@
 
 ### Application platforms / Samples
 
-*   [ILLA Cloud (⭐9.7k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [ILLA Cloud (⭐11k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -140,12 +140,12 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [AFL++ (⭐4.2k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [AFL++ (⭐4.7k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐27)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-*   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐32)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Kvm (⭐35)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Pcileech (⭐17)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+*   [Qemu\_procfs (⭐35)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
 ### Optics and Extra Info / Unikernel-like
@@ -284,7 +284,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐44)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐46)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -308,7 +308,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
-*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
+*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.2k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
 *   [dietpi (⭐2)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
 *   [laravel (baliestri) (⭐0)](https://github.com/baliestri/laravel.plugin.zsh) - Plugin for skiping the `php` command when running `artisan` commands and `./sail` or `./vendor/bin/sail` when running `sail` commands.
 *   [laravel (crazybooot) (⭐17)](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for [Laravel](https://laravel.com/) 5, 5.1, 5.2 & 5.3.
@@ -382,7 +382,7 @@
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐24)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐26)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
 ## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐267)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐268)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 

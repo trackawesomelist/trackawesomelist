@@ -28,9 +28,9 @@
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐731)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐729)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐412)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐411)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -40,7 +40,7 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐204)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [mini-yaml (⭐205)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 *   [yaml-cpp (⭐4.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
@@ -173,13 +173,13 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐306)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐321)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐99)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐100)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [20. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐3.1k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐3.2k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 *   [Antares SQL (⭐1.5k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ### Components & Libraries / UI Components
@@ -472,7 +472,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐198)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐200)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ### Components & Libraries / UI Utilities
 
@@ -815,11 +815,11 @@
 
 ### Frameworks
 
-*   [NitroNet for Sitecore (⭐25)](https://github.com/merkle-open/NitroNetSitecore) - Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.
+*   [NitroNet for Sitecore (⭐24)](https://github.com/merkle-open/NitroNetSitecore) - Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.
 
 ### JAMstack
 
-*   [Uniform, JSS and Next.js starter kit (⭐27)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
+*   [Uniform, JSS and Next.js starter kit (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 *   [Uniform, MVC and Next.js starter kit (⭐7)](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ### Logging
@@ -1035,7 +1035,7 @@
 
 ### Libraries / Text processing
 
-*   [becheran/wildmatch (⭐68)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
+*   [becheran/wildmatch (⭐69)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
 ## [56. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 

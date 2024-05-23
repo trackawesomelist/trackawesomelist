@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [DbGate (⭐3.9k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐4.4k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-js (⭐132)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
+*   [vue-stripe-js (⭐133)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ---
 

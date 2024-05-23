@@ -554,7 +554,7 @@
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐269)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐270)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -613,11 +613,11 @@
 
 ### Icons
 
-*   [iconify-react (⭐205)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐203)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐27)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐28)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 

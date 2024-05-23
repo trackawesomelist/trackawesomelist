@@ -10,7 +10,7 @@
 
 ### Libraries / Text processing
 
-*   [cpc (⭐114)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐115)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Bootables
 
-*   [chivay/vmt (⭐7)](https://github.com/chivay/vmt) - Toy OS.
+*   [chivay/vmt (⭐8)](https://github.com/chivay/vmt) - Toy OS.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 

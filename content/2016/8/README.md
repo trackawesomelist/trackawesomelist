@@ -78,7 +78,7 @@
 
 ### operations
 
-*   [winnow (⭐89)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
+*   [winnow (⭐90)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
 ## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 

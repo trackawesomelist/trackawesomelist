@@ -43,7 +43,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

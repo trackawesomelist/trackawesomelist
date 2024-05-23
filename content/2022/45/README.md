@@ -205,7 +205,7 @@
 
 ### Online
 
-*   [2009scape](https://2009scape.org):flower\_playing\_cards: - A free & open-source remake of 2009 era RuneScape.
+*   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower\_playing\_cards:
 
 ## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -306,7 +306,7 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 29 | Stars: 47 | Last update: 10 Aug 2022
+Installs: 27 | Stars: 47 | Last update: 10 Aug 2022
 
 ## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -481,18 +481,18 @@ Installs: 29 | Stars: 47 | Last update: 10 Aug 2022
 
 *   [bat (⭐5)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐47k)](https://github.com/sharkdp/bat) users.
 *   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) - Remaps vi-mode for the French bépo keyboard.
-*   [shell-fns (⭐1)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
+*   [shell-fns (⭐2)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐457)](https://github.com/lukechilds/zsh-better-npm-completion).
-*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐71k)](https://github.com/yt-dlp/yt-dlp).
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐458)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐72k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
 *   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐257)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [happy-coding (⭐2)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐264)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
@@ -506,12 +506,12 @@ Installs: 29 | Stars: 47 | Last update: 10 Aug 2022
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐750)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [OpenMetricLearning (⭐779)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
 *   [SKBEL (⭐20)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐57)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐60)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 

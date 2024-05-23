@@ -62,8 +62,8 @@
 
 *   [inih (⭐2.3k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
 *   [inih (⭐430)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐950)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐460)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [iniparser (⭐951)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐462)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐1k)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Graphics

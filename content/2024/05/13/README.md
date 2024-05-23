@@ -59,7 +59,7 @@
 *   [ngx-operators (⭐133)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
 *   [rxjs-toolbox (⭐10)](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
 *   [subscribable-things (⭐43)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
-*   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone.
+*   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 *   [rxjs-broker (⭐24)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
 *   [rxjs-insights (⭐355)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 

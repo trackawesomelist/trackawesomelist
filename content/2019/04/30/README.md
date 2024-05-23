@@ -41,7 +41,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐933)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐934)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -115,7 +115,7 @@
 
 ### JSON
 
-*   [yyjson (⭐2.8k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐2.9k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
@@ -195,7 +195,7 @@
 ### Others / Object detection and object tracking
 
 *   [Semantic Segmentation Editor :octocat: (⭐1.7k)](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
-*   [3D Bounding Box Annotation Tool :octocat: (⭐555)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
+*   [3D Bounding Box Annotation Tool :octocat: (⭐583)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
     *   [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 
@@ -332,7 +332,7 @@
 
   Description: Continuous Integration service
 
-  Features: [Source code (⭐31k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
+  Features: [Source code (⭐32k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
 
   Supported repositories: GitHub, GitLab, Gitea, BitBucket, Google Code, Custom
 

@@ -63,7 +63,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐64)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐70)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐72)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐74)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

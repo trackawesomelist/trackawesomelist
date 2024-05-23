@@ -47,15 +47,15 @@
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐655)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐670)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐12)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐88)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐95)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
-    *   [geojsontoosm (⭐19)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [geojsontoosm (⭐20)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
     *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐149)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐655)](https://github.com/tyrasd/osmtogeojson)
+    *   [query-overpass (⭐155)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐670)](https://github.com/tyrasd/osmtogeojson)
 
 ## [6. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -280,7 +280,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming
-    *   [myrrlyn/tap (⭐362)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐364)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -392,7 +392,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-voodoo (⭐13)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
+*   [react-voodoo (⭐14)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -566,7 +566,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐286)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐289)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -576,14 +576,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐160)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐164)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 *   [vue-otp-2 (⭐12)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
-*   [vue3-otp-input (⭐100)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
+*   [vue3-otp-input (⭐101)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
 
 ### Components & Libraries / Utilities
 
-*   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐6)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
+*   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐5)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
 ## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

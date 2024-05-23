@@ -10,7 +10,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-advanced-cropper (⭐580)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
+*   [react-advanced-cropper (⭐594)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
 *   [react-mobile-cropper (⭐18)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)

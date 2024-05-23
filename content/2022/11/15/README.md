@@ -48,11 +48,11 @@
 ### Components & Libraries / UI Components
 
 *   [vue-awesome-sidebar (⭐44)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-*   [vue-web-terminal (⭐195)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
+*   [vue-web-terminal (⭐200)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 ### Components & Libraries / Utilities
 
-*   [@skirtle/vue-vnode-utils (⭐9)](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
+*   [@skirtle/vue-vnode-utils (⭐10)](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
 
 ### Components & Libraries / Scaffold
 

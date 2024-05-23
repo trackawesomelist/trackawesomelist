@@ -29,7 +29,7 @@
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐24)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐26)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 

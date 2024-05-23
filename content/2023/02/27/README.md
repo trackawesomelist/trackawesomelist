@@ -67,7 +67,7 @@
 
 ### Libraries / Data visualization
 
-*   [rerun (⭐5.2k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
+*   [rerun (⭐5.3k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

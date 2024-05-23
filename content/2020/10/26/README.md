@@ -42,7 +42,7 @@
 
 ### Overlay
 
-*   [reoverlay (⭐145)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐146)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

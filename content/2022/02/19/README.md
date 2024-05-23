@@ -58,11 +58,11 @@
 
 ### Chart
 
-*   [Flowchart React (⭐38)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+*   [Flowchart React (⭐40)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 
 ### Form Components / Toggle
 
-*   [@anatoliygatt/heart-switch (⭐437)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐439)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
 ## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -99,7 +99,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐684)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐689)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
 
 ---
 

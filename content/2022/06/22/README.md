@@ -48,7 +48,7 @@
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazor.Sidepanel (⭐39)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+*   [Blazor.Sidepanel (⭐40)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -73,7 +73,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-ts-typewriter (⭐34)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
+*   [react-ts-typewriter (⭐35)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 
 ## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -120,7 +120,7 @@
 
 ### RPG
 
-*   [OpenNox (⭐406)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
+*   [OpenNox (⭐415)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 
 ---
 

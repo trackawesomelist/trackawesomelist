@@ -311,7 +311,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Java / Symfony2
 
-*   [Vertx-Web (⭐1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
+*   [Vertx-Web (⭐1.1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
 ## [26. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Game / Diagnostics
 
-*   [rktjmp/playtime.nvim (⭐11)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+*   [rktjmp/playtime.nvim (⭐36)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐105)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
+*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐124)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
 
 ### Software / Office Suites
 
@@ -74,25 +74,24 @@
 
 ### Software / Polls and Events
 
-*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐5.5k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
+*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐5.6k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### File Upload / Testing
 
-*   [ngx-awesome-uploader (⭐132)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
 *   [ngx-uploadx (⭐42)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
-### Loaders / Testing
+### Loaders / Validation
 
 *   [dotglitch-ngx (⭐13)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
 *   [ngx-loading (⭐267)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
 *   [ng-block-ui (⭐144)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
-*   [ngx-spinner (⭐804)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+*   [ngx-spinner (⭐803)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 *   [angular-busy (⭐23)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
 *   [angular-loaders (⭐2)](https://github.com/pjlamb12/angular-loaders) - Angular loader components.
 *   [ngx-loader-indicator (⭐51)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
-*   [ngx-skeleton-loader (⭐538)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+*   [ngx-skeleton-loader (⭐544)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
 ### UI Libraries / General
 
@@ -102,9 +101,9 @@
 *   [enterprise-ng (⭐54)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
 *   [oblique (⭐50)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
 *   [fundamental-ngx (⭐256)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
-*   [designsystem (⭐77)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
+*   [designsystem (⭐79)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
 *   [sbb-angular (⭐105)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
-*   [ui (⭐31)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
+*   [ui (⭐30)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
 *   [ngx-tethys (⭐112)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
 *   [antwerp-ui\_angular (⭐13)](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 
@@ -121,7 +120,7 @@
 
 *   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
 *   [ngrx-wieder (⭐127)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
-*   [ngrx-immer (⭐114)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+*   [ngrx-immer (⭐115)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
 *   [ngrx-rtk-query (⭐54)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
 *   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 

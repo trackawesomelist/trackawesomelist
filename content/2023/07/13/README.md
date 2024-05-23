@@ -44,7 +44,7 @@
 
 *   [tanstack-table (⭐24k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐9)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐246)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐251)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐30)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities

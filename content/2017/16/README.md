@@ -297,7 +297,7 @@
 
 ### Node.js
 
-*   [Expressa (⭐413)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐431)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ### SaaS Tools / Symfony2
 

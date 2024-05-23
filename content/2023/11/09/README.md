@@ -112,10 +112,10 @@
 ### Libraries / C++
 
 *   C++: Audio
-    *   🎉 [Amplitude Audio SDK (⭐14)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
+    *   🎉 [Amplitude Audio SDK (⭐19)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     *   💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
-    *   💰 [Juce (⭐6k)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    *   🔒 [OpenAL Soft (⭐2k)](https://github.com/kcat/openal-soft) - Software implementation of the *OpenAL* 3D audio API.
+    *   💰 [Juce (⭐6.2k)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
+    *   🔒 [OpenAL Soft (⭐2.1k)](https://github.com/kcat/openal-soft) - Software implementation of the *OpenAL* 3D audio API.
     *   🎉 [PortAudio (⭐1.3k)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)

@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [karrot-frontend (⭐426)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
+*   [karrot-frontend (⭐427)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

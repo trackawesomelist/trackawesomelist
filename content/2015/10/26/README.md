@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [CombinePDF (⭐714)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐723)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 

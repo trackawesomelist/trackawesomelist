@@ -28,8 +28,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.6k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐355)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.7k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐356)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

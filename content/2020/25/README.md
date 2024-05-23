@@ -538,7 +538,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐70)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐71)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ### Components & Libraries / UI Utilities
 
@@ -646,13 +646,13 @@ Language: English
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐571)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐577)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ### Development tools / IDEs
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐765)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐776)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐628)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
@@ -946,7 +946,7 @@ Language: English
 
 ### Apps / Outline Processor Markup Language
 
-*   [Brief (⭐206)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brief (⭐208)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -962,7 +962,7 @@ Language: English
 
 ### RSS2KINDLE / Docsify
 
-*   [Kindle Ear (⭐2.6k)](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cdhigh/KindleEar)
+*   [Kindle Ear (⭐2.7k)](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cdhigh/KindleEar)
 *   [Kindle4RSS](http://kindle4rss.com/) ([中国镜像](https://inkread.com/))
 
 ### RSS2NEWSLETTER / Docsify

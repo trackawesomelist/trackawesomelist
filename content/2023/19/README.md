@@ -331,7 +331,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-maker (⭐5)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
+*   [alias-maker (⭐6)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
 *   [conda-init (⭐1)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so `conda` doesn't mess up `tmux`.
 *   [web-search (anant-mishra1729) (⭐2)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
 
@@ -361,7 +361,7 @@
 
 ### Tools / Misc
 
-*   [Aqueduct (⭐521)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+*   [Aqueduct (⭐522)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 
 ---
 

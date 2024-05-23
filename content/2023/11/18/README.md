@@ -16,11 +16,11 @@
 
 ### Applications
 
-*   [Rauthy (⭐176)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
+*   [Rauthy (⭐189)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
 
 ### Applications / System tools
 
-*   [lodosgroup/lpm (⭐62)](https://github.com/lodosgroup/lpm) — An experimental system package manager
+*   [lodosgroup/lpm (⭐63)](https://github.com/lodosgroup/lpm) — An experimental system package manager
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Software / Document Management
 
-*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐5.2k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
+*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐5.3k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management - E-books
 
@@ -89,7 +89,7 @@
 
 ### Video Game Assets / Model Assets
 
-*   🆓 [Pmndrs Market (⭐249)](https://github.com/pmndrs/market) - Collection of public domain models.
+*   🆓 [Pmndrs Market (⭐250)](https://github.com/pmndrs/market) - Collection of public domain models.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -110,7 +110,7 @@
 
 ### SQL / Über SQL
 
-*   [MAT Calcite plugin (⭐141)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
+*   [MAT Calcite plugin (⭐146)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

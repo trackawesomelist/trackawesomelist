@@ -10,7 +10,7 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐172)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐175)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -92,7 +92,7 @@
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐4.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐5.7k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

@@ -10,7 +10,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Documentation Generator (⭐511)](https://github.com/pantharshit00/prisma-docs-generator)
+*   [Documentation Generator (⭐537)](https://github.com/pantharshit00/prisma-docs-generator)
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

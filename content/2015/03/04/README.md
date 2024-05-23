@@ -38,7 +38,7 @@
 
 ### Compiler
 
-*   [8cc (⭐6k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐6.1k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2.1k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ---

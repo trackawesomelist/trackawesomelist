@@ -360,7 +360,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐587)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐588)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -368,7 +368,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-router-user-roles (⭐240)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
 ## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 

@@ -46,8 +46,8 @@
 
 ### Date and Time Processing
 
-*   [montrose (⭐818)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐966)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐817)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐967)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 

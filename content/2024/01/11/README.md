@@ -66,7 +66,7 @@
 
 ### Sitecore Search
 
-*   [Sitecore Search Starter Kit (⭐5)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
+*   [Sitecore Search Starter Kit (⭐6)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
 
 ## [9. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 

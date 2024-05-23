@@ -66,9 +66,9 @@
 
 *   PDF
     *   [bastibense/libharu\_ng (⭐9)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
-    *   [fschutt/printpdf (⭐765)](https://github.com/fschutt/printpdf) — PDF writing library
+    *   [fschutt/printpdf (⭐766)](https://github.com/fschutt/printpdf) — PDF writing library
     *   [J-F-Liu/lopdf (⭐1.5k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
-    *   [kaj/rust-pdf (⭐142)](https://github.com/kaj/rust-pdf) —
+    *   [kaj/rust-pdf (⭐143)](https://github.com/kaj/rust-pdf) —
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

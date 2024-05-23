@@ -16,11 +16,11 @@
 
 ### Applications / Audio and Music
 
-*   [Spotify Player (⭐1.2k)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
+*   [Spotify Player (⭐1.3k)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐5.9k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [ast-grep (⭐6.1k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ### Libraries / Data structures
 
@@ -34,29 +34,29 @@
 
 ## [4. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
-### Contents / Focus Tools
+### Focus Tools
 
 *   **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 *   **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 *   **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
 
-### Contents / Note Taking
+### Note Taking
 
 *   **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
 
-### Contents / Mind Mapping
+### Mind Mapping
 
 *   **[MindMeister](https://www.mindmeister.com)** - Online mind mapping tool.
 *   **[XMind](https://www.xmind.net)** - Mind mapping and brainstorming software.
 *   **[Coggle](https://coggle.it)** - Simple collaborative mind maps.
 
-### Contents / File Organization
+### File Organization
 
 *   **[Dropbox](https://www.dropbox.com)** - Cloud file storage and sharing.
 *   **[Google Drive](https://drive.google.com)** - File storage and synchronization service.
 *   **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
 
-### Contents / Miscellaneous
+### Miscellaneous
 
 *   **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 *   **[Zapier](https://zapier.com)** - Automation for busy people.
@@ -200,7 +200,7 @@
 
 ### Sitecore Search
 
-*   [Sitecore Search Starter Kit (⭐5)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
+*   [Sitecore Search Starter Kit (⭐6)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
 
 ## [20. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
@@ -531,28 +531,28 @@
 
 ### Database
 
-*   [Infinity (⭐1.7k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
-*   [UStore (⭐488)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
+*   [Infinity (⭐1.8k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+*   [UStore (⭐495)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
 
 ### Machine Learning
 
 *   [catboost (⭐7.8k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
 *   [FAISS (⭐28k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
-*   [ggml (⭐9.7k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
-*   [USearch (⭐1.6k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
+*   [ggml (⭐9.9k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
+*   [USearch (⭐1.7k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
 
 ### Math
 
-*   [SimSIMD (⭐712)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
+*   [SimSIMD (⭐733)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
 
 ### Networking
 
-*   [RedPanda (⭐8.8k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
-*   [UCall (⭐988)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
+*   [RedPanda (⭐8.9k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
+*   [UCall (⭐1k)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
 
 ### Scripting
 
-*   [LuaBridge3 (⭐214)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
+*   [LuaBridge3 (⭐222)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
 ## [46. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
@@ -586,7 +586,7 @@
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐159)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐162)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -610,7 +610,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [gregorias/coerce.nvim (⭐61)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [gregorias/coerce.nvim (⭐65)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
 *   [johmsalas/text-case.nvim (⭐375)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ### Preconfigured Configuration / Diagnostics

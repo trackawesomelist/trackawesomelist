@@ -8,31 +8,31 @@
 
 ## [1. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
 
-### Contents / Time Tracking
+### Time Tracking
 
 *   **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - Easy time tracking for any project.
 *   **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 *   **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 
-### Contents / Note Taking
+### Note Taking
 
 *   **[Evernote](https://evernote.com)** - [review](https://productivity.directory/evernote) - Note-taking, organizing, and archiving.
 *   **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 *   **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
 
-### Contents / Collaboration
+### Collaboration
 
 *   **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
 *   **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
 *   **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
 
-### Contents / Project Management
+### Project Management
 
 *   **[Jira](https://www.atlassian.com/software/jira)** - [review](https://productivity.directory/jira) - Issue and project tracking for software teams.
 *   **[Monday.com](https://monday.com)** - [review](https://productivity.directory/mondaydotcom) - Work operating system for teams.
 *   **[Basecamp](https://basecamp.com)** - [review](https://productivity.directory/basecamp) - Real-time communication tool for teams.
 
-### Contents / Calendar and Scheduling
+### Calendar and Scheduling
 
 *   **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
 *   **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.

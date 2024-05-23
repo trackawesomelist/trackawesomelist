@@ -488,7 +488,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐801)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐821)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -516,7 +516,7 @@
 
 ### Audio
 
-*   [libsoundio (⭐1.8k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Networking
 
@@ -574,7 +574,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.1k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.2k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

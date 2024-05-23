@@ -120,7 +120,7 @@
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐59k)](https://github.com/awesomedata/awesome-public-datasets)
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 

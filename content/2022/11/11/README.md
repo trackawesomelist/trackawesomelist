@@ -59,7 +59,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐457)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐458)](https://github.com/lukechilds/zsh-better-npm-completion).
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

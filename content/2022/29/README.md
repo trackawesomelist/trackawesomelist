@@ -82,24 +82,24 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### SQL / Learning
 
-*   [Advanced SQL Puzzles (⭐452)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+*   [Advanced SQL Puzzles (⭐505)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 *   [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 *   [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 *   [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 *   [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
-*   [SQL Murder Mystery (⭐1.5k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [SQL Murder Mystery (⭐1.6k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### SQL / Scripts
 
-*   [DBA MultiTool (⭐83)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
+*   [DBA MultiTool (⭐87)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 *   [pgx\_scripts (⭐1.3k)](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-*   [pgsql-bloat-estimation (⭐474)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+*   [pgsql-bloat-estimation (⭐488)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 *   [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
-*   [pg-utils (⭐887)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+*   [pg-utils (⭐954)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 *   [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by \<timescale.com>.
-*   [postgres\_dba (⭐946)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+*   [postgres\_dba (⭐978)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-*   [TPT (⭐605)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+*   [TPT (⭐626)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -126,7 +126,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Libraries / Compression
 
 *   gzip
-    *   [zopfli (⭐28)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
+    *   [zopfli (⭐31)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] — implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 
 ### Libraries / Mobile
 
@@ -209,7 +209,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐504)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐507)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [22. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -275,7 +275,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alehouse (⭐14)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
+*   [alehouse (⭐15)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [auto-fortune-cowsay (⭐10)](https://github.com/babasbot/auto-fortune-cowsay-zsh) - Prints out an ASCII picture of a cow saying a random epigram on every ZSH start.
 *   [aws-cli-mfa (⭐19)](https://github.com/joepjoosten/aws-cli-mfa-oh-my-zsh) - AWS CLI MFA plugin based on sweharris' [aws-cli-mfa (⭐23)](https://github.com/sweharris/aws-cli-mfa). Supports specifying `mfa_device` in profile.
 *   [aws-plugin (⭐2)](https://github.com/pookey/zsh-aws-plugin) - Adds helper functions for `aws` command. Includes mfa and `assume-role` helpers.
@@ -283,7 +283,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [bumblebee (⭐2)](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle prepending `optirun` in the command line.
 *   [cdr (⭐16)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
-*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐2.3k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
+*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐2.4k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
 *   [evil-registers (⭐36)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 *   [exa (zplugin) (⭐0)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 *   [f-shortcuts (⭐5)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
@@ -310,7 +310,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐266)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐267)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -465,7 +465,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Parser / Package managers
 
 *   [goto-bus-stop/ziguid (⭐6)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
-*   [sam701/zig-cli (⭐133)](https://github.com/sam701/zig-cli) - Package for building command line apps.
+*   [sam701/zig-cli (⭐142)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
 ## [38. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -571,10 +571,6 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [bin (⭐362)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐518)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
 *   [Wastebin (⭐212)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
-
-### Software / Software Development - FaaS & Serverless
-
-*   [fx (⭐2.1k)](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
 
 ### Software / Status / Uptime pages
 
@@ -859,9 +855,9 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 *   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. The original paper on Rational Speech Act (RSA).
 *   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
-*   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Adjective understanding as a rational inference in the context.
-*   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on social pragmatics.
-*   [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301\&hl=en\&as_sdt=0,5)]. Application of Rational Speech Act to Image Captioning.
+*   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579)]. Adjective understanding as a rational inference in the context.
+*   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920)]. A piece of evidence for children's capability on social pragmatics.
+*   [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301)]. Application of Rational Speech Act to Image Captioning.
 *   [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394\&hl=en\&as_sdt=0,5)].
 
 ### Communications / Language Compositionality

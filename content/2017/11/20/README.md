@@ -34,7 +34,7 @@
 
 ### Design
 
-*   [API-Security-Checklist (⭐21k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

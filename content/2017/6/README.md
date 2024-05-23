@@ -38,7 +38,7 @@
 
 ### services
 
-*   [featureserver (⭐100)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐101)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -242,7 +242,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐232)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐318)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

@@ -51,7 +51,7 @@
 
 ### Automation
 
-*   [Huginn (⭐41k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐42k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### ORM/ODM
 

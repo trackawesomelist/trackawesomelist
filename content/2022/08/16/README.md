@@ -38,7 +38,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-persistedstate-2 (⭐77)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+*   [pinia-persistedstate-2 (⭐78)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

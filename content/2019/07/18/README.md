@@ -57,7 +57,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Reference
 
-*   [adalib (⭐19)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+*   [adalib (⭐20)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ### Database / Apache License
 

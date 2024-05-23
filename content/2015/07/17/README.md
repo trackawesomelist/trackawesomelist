@@ -40,7 +40,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐875)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐877)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

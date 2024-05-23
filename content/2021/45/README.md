@@ -115,7 +115,7 @@
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐702)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐706)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -203,7 +203,7 @@
 
 ### GUI
 
-*   [DbGate (⭐3.9k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐4.4k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [25. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -384,7 +384,7 @@
 
 ### Database
 
-*   [ClickHouse (⭐288)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
+*   [ClickHouse (⭐292)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
 ## [39. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -397,7 +397,7 @@
 
 ### Rust / Git
 
-*   [ockam (⭐4.3k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
+*   [ockam (⭐4.4k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 
 ## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -427,11 +427,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐175)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
+*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐178)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 
 ### Components & Libraries / UI Components
 
-*   [jz-gantt (⭐202)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
+*   [jz-gantt (⭐210)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 ### Components & Libraries / Frameworks
 
@@ -439,8 +439,8 @@
 
 ### Components & Libraries / Utilities
 
-*   [harlem (⭐511)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [vue-stripe-js (⭐132)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
+*   [harlem (⭐512)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
+*   [vue-stripe-js (⭐133)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -676,7 +676,7 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐169)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐1)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐174)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐1)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [59. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 

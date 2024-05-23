@@ -56,7 +56,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐71k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐72k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -73,12 +73,12 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐750)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [OpenMetricLearning (⭐779)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
 *   [SKBEL (⭐20)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐57)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐60)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Misc / Apache License
 
-*   [ada-chess (⭐6)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
+*   [ada-chess (⭐7)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -82,7 +82,7 @@
 *   [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
 *   [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis.
 *   [Analyze Qubes OS VM  (⭐1)](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
-*   [Url redirector (⭐32)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
+*   [Url redirector (⭐33)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
 *   [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ### Clearnet & Anonymous Networking / Wireguard

@@ -119,7 +119,7 @@
 
 ### Internationalization
 
-*   [utf8proc (⭐980)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐982)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 

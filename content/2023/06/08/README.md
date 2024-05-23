@@ -16,11 +16,11 @@
 
 ### Applications / Blockchain
 
-*   [svm-rs (⭐227)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+*   [svm-rs (⭐229)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-melt (⭐194)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+*   [nix-community/nix-melt (⭐196)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -39,13 +39,13 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐481)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐487)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
-*   [pocketpy (⭐1.3k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
+*   [pocketpy (⭐1.4k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 

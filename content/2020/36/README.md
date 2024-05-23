@@ -238,11 +238,11 @@
 
 ### API Builder and Discovery
 
-*   [Acts\_As\_Api (⭐506)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Acts\_As\_Api (⭐507)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 
 ### Authorization
 
-*   [Consul (⭐318)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐317)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ### Error Handling
 
@@ -250,7 +250,7 @@
 
 ### Mobile Development
 
-*   [PubNub (⭐121)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
+*   [PubNub (⭐120)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
 ## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -339,8 +339,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐880)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-*   [evostra (⭐265)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [Couler (⭐891)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [evostra (⭐267)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -448,7 +448,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐149)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-dynamic-inputs (⭐6)](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with buefy from json [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 

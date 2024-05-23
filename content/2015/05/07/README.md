@@ -77,12 +77,12 @@ Though this article is a few years old, much of its advice is still relevant as 
 ### Ruby Clients
 
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Spyke (⭐837)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
-*   [excon (⭐1.1k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [excon (⭐1.2k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ### Go Clients
 
-*   [gopencils (⭐446)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+*   [gopencils (⭐452)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 
 ### Python / Symfony2
 

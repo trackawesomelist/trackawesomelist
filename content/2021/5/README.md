@@ -999,7 +999,7 @@ Language: English \ <br>
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐286)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
+*   [delay-timer (⭐289)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
@@ -1053,7 +1053,7 @@ Language: English \ <br>
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1.2k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.3k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -1220,11 +1220,11 @@ Language: English \ <br>
 
 ### Projects Using Vue.js / A11y
 
-*   [eslint-plugin-vuejs-accessibility (⭐239)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
+*   [eslint-plugin-vuejs-accessibility (⭐242)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐536)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐541)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [65. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 

@@ -40,7 +40,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [pdfvuer (⭐902)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
+*   [pdfvuer (⭐904)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -151,15 +151,15 @@
 
 ### CLI
 
-*   [popl (⭐155)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
+*   [popl (⭐156)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
 
 ### Data visualization
 
-*   [matplotplusplus (⭐3.9k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+*   [matplotplusplus (⭐4k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ### Physics
 
-*   [Kratos (⭐958)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+*   [Kratos (⭐968)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 
 ---
 

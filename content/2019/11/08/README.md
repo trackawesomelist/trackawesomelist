@@ -10,7 +10,7 @@
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.9k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐4k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Math
 
-*   [CNL (⭐619)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐621)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
+*   [pg\_monz (⭐163)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 

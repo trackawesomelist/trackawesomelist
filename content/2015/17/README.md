@@ -572,13 +572,13 @@ to this,
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MAChineLearning (⭐38)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
+*   [MAChineLearning (⭐37)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
 
 ## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
-*   [pocketsphinx-ruby (⭐256)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
+*   [pocketsphinx-ruby (⭐257)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -616,7 +616,7 @@ to this,
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
 *   [fs (⭐232)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
-### Formulars
+### Forms
 
 *   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 

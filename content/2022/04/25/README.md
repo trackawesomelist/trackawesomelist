@@ -10,7 +10,7 @@
 
 ### Emulators
 
-*   [Arwalk/ChipZ (⭐0)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
+*   [Arwalk/ChipZ (⭐1)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 ## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

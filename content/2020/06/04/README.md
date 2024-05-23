@@ -74,7 +74,7 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [GEmojiSharp.Blazor (⭐96)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+*   [GEmojiSharp.Blazor (⭐99)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [MiniGrad (⭐87)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
+*   [MiniGrad (⭐88)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
 
 ## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

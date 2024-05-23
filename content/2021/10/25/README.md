@@ -60,8 +60,8 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [ada-lua (⭐38)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
-*   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+*   [ada-lua (⭐39)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
+*   [coreland-lua-ada (⭐6)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐31)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐32)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -50,7 +50,7 @@
 ### Applications / System tools
 
 *   [mmstick/concurr (⭐103)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐275)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/fontfinder (⭐276)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -20,11 +20,11 @@
 
 ### OS and Kernels / Apache License
 
-*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐84)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐85)](https://github.com/streaksu/Gloire).
 
 ### Games / Apache License
 
-*   [steamsky (⭐91)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
+*   [steamsky (⭐92)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Libraries / System
 
-*   [Phate6660/nixinfo (⭐46)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] — A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
+*   [Phate6660/nixinfo (⭐45)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] — A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -99,11 +99,11 @@
 
 *   [ADMINLTE (⭐258)](https://github.com/sjefvanleeuwen/blazor-adminlte) - ![stars](https://img.shields.io/github/stars/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=86400) ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor.
 *   [Material.Blazor (⭐241)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
-*   [MComponents (⭐61)](https://github.com/manureini/MComponents) - ![stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square\&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
+*   [MComponents (⭐62)](https://github.com/manureini/MComponents) - ![stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square\&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 
 ### 2D/3D Rendering engines / CSS
 
-*   [BlazorSize (⭐314)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
+*   [BlazorSize (⭐317)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
 ## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
-*   [Podsync (⭐1.3k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
+*   [Podsync (⭐1.4k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

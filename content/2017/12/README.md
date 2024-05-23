@@ -291,7 +291,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Resources / Community
 
-*   [vue-requests (⭐70)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+*   [vue-requests (⭐69)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 
 ### Resources / Official Examples
 

@@ -34,13 +34,13 @@
 
 ### FPS
 
-*   [ClassiCube (⭐1.2k)](https://github.com/ClassiCube/ClassiCube):flower\_playing\_cards: - Minecraft Classic compatible client written in C from scratch.
+*   [ClassiCube (⭐1.2k)](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
 
 ### Online
 
-*   [2004scape](https://2004scape.org):flower\_playing\_cards: - A free & open-source remake of 2004 era RuneScape 2.
-*   [OpenRSC](https://gitlab.com/open-runescape-classic/core):flower\_playing\_cards: - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos.
-*   [RSC-C (⭐62)](https://github.com/2003scape/rsc-c):flower\_playing\_cards: - Rewrite of the RuneScape Classic (2001-2003) game client in portable C.
+*   [2004scape](https://2004scape.org) - A free & open-source remake of 2004 era RuneScape 2. :flower\_playing\_cards:
+*   [OpenRSC](https://gitlab.com/open-runescape-classic/core) - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos. :flower\_playing\_cards:
+*   [RSC-C (⭐62)](https://github.com/2003scape/rsc-c) - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower\_playing\_cards:
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -130,4 +130,5 @@
 
 ---
 
+- Prev: [May 17, 2024](/content/2024/05/17/README.md)
 - Next: [May 15, 2024](/content/2024/05/15/README.md)

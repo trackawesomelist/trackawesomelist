@@ -28,17 +28,17 @@
 
 ### Database
 
-*   [Reindexer (⭐752)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+*   [Reindexer (⭐755)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 
-*   [Hot Glue (⭐156)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
+*   [Hot Glue (⭐160)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
 
 ### Optimizations
 
-*   [fast\_count (⭐210)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
+*   [fast\_count (⭐211)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
 ## [6. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 

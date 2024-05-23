@@ -104,18 +104,18 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐640)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐653)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐414)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐417)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
 *   [Corange (⭐1.8k)](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. \[BSD]
-*   [toy engine (⭐1.5k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
+*   [toy engine (⭐1.6k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 
 ### Image Processing
 
@@ -131,7 +131,7 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐926)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐938)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 

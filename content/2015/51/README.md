@@ -336,7 +336,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Haskell / Symfony2
 
-*   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+*   [Rest for Haskell (⭐389)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
 ## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 

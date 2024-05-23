@@ -17,39 +17,39 @@
 
 ### Applications / Audio and Music
 
-*   [Festival (⭐249)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
-*   [termusic (⭐849)](https://github.com/tramhao/termusic) - Music Player TUI written
+*   [Festival (⭐251)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
+*   [termusic (⭐873)](https://github.com/tramhao/termusic) - Music Player TUI written
 
 ### Applications / Database
 
-*   [Garage (⭐369)](https://github.com/deuxfleurs-org/garage) \[[garage](https://crates.io/crates/garage)] — S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
+*   [Garage (⭐372)](https://github.com/deuxfleurs-org/garage) \[[garage](https://crates.io/crates/garage)] — S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
 
 ### Applications / File manager
 
 *   [joshuto (⭐3.3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-*   [xplr (⭐3.9k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐8.2k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [xplr (⭐4k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐9k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Applications / Graphics
 
-*   [flxzt/rnote (⭐6.1k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+*   [flxzt/rnote (⭐6.2k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Applications / Operating systems
 
-*   [DragonOS-Community/DragonOS (⭐729)](https://github.com/DragonOS-Community/DragonOS) — An operating system with a self-developed kernel from scratch and Linux compatibility.
+*   [DragonOS-Community/DragonOS (⭐768)](https://github.com/DragonOS-Community/DragonOS) — An operating system with a self-developed kernel from scratch and Linux compatibility.
 
 ### Applications / Security tools
 
-*   [entropic-security/xgadget (⭐74)](https://github.com/entropic-security/xgadget) \[[xgadget](https://crates.io/crates/xgadget)] — Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions)
+*   [entropic-security/xgadget (⭐76)](https://github.com/entropic-security/xgadget) \[[xgadget](https://crates.io/crates/xgadget)] — Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions)
 
 ### Applications / System tools
 
 *   [httm (⭐1.2k)](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
-*   [LACT (⭐855)](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
+*   [LACT (⭐894)](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 
 ### Applications / Web Servers
 
-*   [emanuele-em/proxelar (⭐349)](https://github.com/emanuele-em/proxelar) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml)
+*   [emanuele-em/proxelar (⭐357)](https://github.com/emanuele-em/proxelar) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml)
 
 ### Development tools / Web Servers
 
@@ -59,15 +59,15 @@
 
 *   Ruby
     *   [d-unsed/ruru (⭐827)](https://github.com/d-unsed/ruru) — native Ruby extensions written in Rust
-    *   [danielpclark/rutie (⭐882)](https://github.com/danielpclark/rutie) — native Ruby extensions written in Rust and vice versa
+    *   [danielpclark/rutie (⭐910)](https://github.com/danielpclark/rutie) — native Ruby extensions written in Rust and vice versa
 
 ### Libraries / Artificial Intelligence
 
-*   [burn (⭐7.1k)](https://github.com/tracel-ai/burn) - A Flexible and Comprehensive Deep Learning Framework.
+*   [burn (⭐7.3k)](https://github.com/tracel-ai/burn) - A Flexible and Comprehensive Deep Learning Framework.
 
 ### Libraries / Configuration
 
-*   [SergioBenitez/Figment (⭐475)](https://github.com/SergioBenitez/Figment) \[[figment](https://crates.io/crates/figment)] — A configuration library so con-free, it's unreal.
+*   [SergioBenitez/Figment (⭐484)](https://github.com/SergioBenitez/Figment) \[[figment](https://crates.io/crates/figment)] — A configuration library so con-free, it's unreal.
 
 ### Libraries / Cryptography
 
@@ -76,7 +76,7 @@
 ### Libraries / Encoding
 
 *   EDN
-    *   [edn-rs (⭐80)](https://github.com/edn-rs/edn-rs) \[[edn-rs](https://crates.io/crates/edn-rs)] — crate to parse and emit EDN format into Rust types.
+    *   [edn-rs (⭐81)](https://github.com/edn-rs/edn-rs) \[[edn-rs](https://crates.io/crates/edn-rs)] — crate to parse and emit EDN format into Rust types.
 *   Serde
     *   [iddm/serde-aux (⭐144)](https://github.com/iddm/serde-aux/) - additional tools for using with the serde library. [![CI](https://github.com/iddm/serde-aux/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/serde-aux/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/serde-aux.svg)](https://crates.io/crates/serde-aux)
 
@@ -90,7 +90,7 @@
 ### Libraries / Platform specific
 
 *   Cross-platform
-    *   [iddm/thread-priority (⭐104)](https://github.com/iddm/thread-priority/) - Simple, crossplatform thread priority management. [![CI](https://github.com/iddm/thread-priority/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/thread-priority/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/thread-priority.svg)](https://crates.io/crates/thread-priority)
+    *   [iddm/thread-priority (⭐105)](https://github.com/iddm/thread-priority/) - Simple, crossplatform thread priority management. [![CI](https://github.com/iddm/thread-priority/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/thread-priority/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/thread-priority.svg)](https://crates.io/crates/thread-priority)
     *   [svartalf/rust-battery](https://crates.io/crates/battery) — Cross-platform information about the notebook batteries
 
 ### Resources / Web programming
@@ -509,7 +509,7 @@
 
 ### Communication / Apache License
 
-*   [ada-enet (⭐20)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+*   [ada-enet (⭐21)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries / Apache License
 
@@ -560,7 +560,7 @@
 
 ### Frameworks
 
-*   [itlib (⭐141)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
+*   [itlib (⭐142)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
 
 ### CLI
 
@@ -569,91 +569,91 @@
 ### Containers
 
 *   [parallel-hashmap (⭐2.3k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
-*   [plf::colony (⭐387)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+*   [plf::colony (⭐389)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
 
 ### Database
 
-*   [TinyORM (⭐186)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
+*   [TinyORM (⭐188)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
 
 ### Debug
 
-*   [Cpptrace (⭐435)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
+*   [Cpptrace (⭐478)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
 
 ### GUI
 
-*   [TGUI (⭐754)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+*   [TGUI (⭐755)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
 ### Graphics
 
-*   [LunaSVG (⭐766)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
+*   [LunaSVG (⭐781)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
 
 ### Image Processing
 
 *   [libavif (⭐1.4k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
-*   [libjxl (⭐2.2k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libspng (⭐690)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
+*   [libjxl (⭐2.3k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
+*   [libspng (⭐692)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [LodePNG (⭐2k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
 *   [MozJPEG (⭐5.4k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
 
 ### Logging
 
-*   [lwlog (⭐220)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
+*   [lwlog (⭐224)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
 
 ### Memory Allocation
 
-*   [buddy\_alloc (⭐120)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
+*   [buddy\_alloc (⭐124)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
 
 ### Office Open XML
 
-*   [DuckX (⭐362)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
+*   [DuckX (⭐364)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
 *   [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. \[MPL/GPL-2/LGPL-2]
-*   [libxls (⭐384)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
+*   [libxls (⭐392)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
 *   [libxlsxwriter (⭐1.4k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
 *   [OpenXLSX (⭐1.2k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
 *   [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. \[zlib]
-*   [XLSX I/O (⭐374)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
+*   [XLSX I/O (⭐377)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
 
 ### Reflection
 
-*   [reflect-cpp (⭐610)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
+*   [reflect-cpp (⭐683)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
 
 ### Scripting
 
 *   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
-*   [v8pp (⭐874)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
+*   [v8pp (⭐878)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
 
 ### Serialization
 
-*   [iguana (⭐949)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
+*   [iguana (⭐969)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
 
 ### Serial Port
 
-*   [CSerialPort (⭐645)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
+*   [CSerialPort (⭐654)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
 
 ### Sorting
 
-*   [cpp-sort (⭐599)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
+*   [cpp-sort (⭐601)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
 
 ### Miscellaneous
 
 *   [date (⭐3k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
 *   [emio (⭐126)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
-*   [hedley (⭐742)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
-*   [tgbotxx (⭐7)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
+*   [hedley (⭐745)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+*   [tgbotxx (⭐8)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
 
 ## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### DevOps Tools
 
-*   [Kamal (⭐8.8k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
+*   [Kamal (⭐9.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
 
 ## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
-*   [langchaingo (⭐3.1k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+*   [langchaingo (⭐3.3k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 *   [LocalAI (⭐20k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-*   [Ollama (⭐65k)](https://github.com/jmorganca/ollama) - Run large language models locally.
+*   [Ollama (⭐68k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 ### Email
 
@@ -673,7 +673,7 @@
 
 ### Web Frameworks
 
-*   [GoFr (⭐975)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
+*   [GoFr (⭐1.1k)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
@@ -1026,18 +1026,13 @@
 
 ## [50. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
-### Downloading, Installing, Upgrading, and Building
-
-*   [Qubes OS 4.2.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.0 download.
-*   [Qubes OS 4.2.0 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
-
 ### Templates
 
 *   [Pentesting: Kali](https://forum.qubes-os.org/t/kali-template-available/1706) - How to create a Kali Linux VM.
 
 ### Qubes OS Legends / Web articles
 
-*   [ClaraCrazy (⭐30)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+*   [ClaraCrazy (⭐39)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## [51. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -1140,7 +1135,7 @@
 
 ### validation
 
-*   [antimeridian (⭐26)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
+*   [antimeridian (⭐39)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 
 ## [59. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -1332,12 +1327,6 @@
 
 ## [76. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
-### ASP.NET COMMUNITY STANDUP - ASP.NET Community Standup - Blazor Experiments + eShop Q&A (December 12, 2023).
-
-*   In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App.
-*   Featuring: Steve Sanderson (@stevensanderson), Jon Galloway (@jongalloway), Mackinnon Buck (@MackinnonBuck).
-*   Live on [YouTube](https://www.youtube.com/watch?v=fkDSaIti_KU).
-
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Blazor Experiments + eShop Q\&A](https://www.youtube.com/watch?v=fkDSaIti_KU) - ![duration](https://img.shields.io/badge/Duration:%20-65%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. [Community links](https://www.theurlist.com/blazor-standup-2023-12).
@@ -1368,8 +1357,8 @@
 ### Components & Libraries / UI Components
 
 *   [vuetify-drilldown-table (⭐11)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
-*   [virtua (⭐955)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
-*   [vue-code-block (⭐25)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+*   [virtua (⭐979)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
+*   [vue-code-block (⭐27)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
 *   [vuetify-color-field (⭐5)](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
 *   [vuetify-inline-fields (⭐21)](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 
@@ -1467,11 +1456,11 @@
 
 ### Form Components / Date / Time picker
 
-*   [schedule-x (⭐850)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+*   [schedule-x (⭐865)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 
 ### Databases / Lazy Load
 
-*   [BCMS (⭐281)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
+*   [BCMS (⭐291)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 
 ## [83. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -1581,7 +1570,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐65)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐8.2k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐65)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐9k)](https://github.com/sxyazi/yazi)).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1661,11 +1650,11 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
+*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐39)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
 *   [gabriel2m (⭐0)](https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme) - Minimalist theme with decorators for the current directory and `git` status.
 *   [lacerate (⭐0)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
 *   [lambda (bluedragon1221) (⭐0)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
-*   [madas (⭐1)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
+*   [madas (⭐0)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
 *   [niotna (⭐2)](https://github.com/niotna/niotna-theme) - Includes decorators for `git` status and current directory. Customizable colors.
 *   [paramour (⭐0)](https://github.com/espeon/paramour) - Simple and clean, has decorators for `git` status, username, time, current directory and username. Requires a nerd font in your terminal.
 *   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.
@@ -1711,7 +1700,7 @@
 *   [chicken-sodium (⭐3)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
 *   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
 *   [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
-*   [guile-ssh (⭐55)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
+*   [guile-ssh (⭐56)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
 ---
 

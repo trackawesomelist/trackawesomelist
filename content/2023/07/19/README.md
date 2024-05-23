@@ -88,10 +88,10 @@
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐96)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Stabilizer (⭐97)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐10)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐7)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
-*   [Card/IO ECG (⭐25)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
+*   [Card/IO ECG (⭐26)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@tato30/vue-pdf (⭐297)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [@tato30/vue-pdf (⭐312)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 
 ## [19. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

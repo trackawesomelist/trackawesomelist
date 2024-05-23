@@ -10,7 +10,7 @@
 
 ### Frameworks / Apache License
 
-*   [adamant (⭐26)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [adamant (⭐29)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

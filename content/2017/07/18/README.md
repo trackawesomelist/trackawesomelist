@@ -747,7 +747,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐175)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 
 ### Components & Libraries / Utilities
 

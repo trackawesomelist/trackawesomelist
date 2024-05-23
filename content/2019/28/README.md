@@ -596,7 +596,7 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.8k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.9k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 
@@ -624,7 +624,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐873)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐872)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 *   [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 
@@ -638,11 +638,11 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐17k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐18k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
-*   [Poli (⭐1.9k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
+*   [Poli (⭐2k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
 ## [41. Amas](/content/sindresorhus/amas/week/README.md)
 

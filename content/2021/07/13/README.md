@@ -10,7 +10,7 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Generator (⭐733)](https://github.com/keonik/prisma-erd-generator)
+*   [Prisma ERD Generator (⭐820)](https://github.com/keonik/prisma-erd-generator)
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 

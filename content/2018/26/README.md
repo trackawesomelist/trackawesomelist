@@ -567,12 +567,12 @@
 
 ### JavaScript / Demos and Scripts
 
-*   [The Bot (⭐5)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
+*   [The Bot (⭐6)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 *   [Half Beer (⭐7)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐827)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐836)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 

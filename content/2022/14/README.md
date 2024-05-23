@@ -38,12 +38,12 @@
 
 ### Games / Apache License
 
-*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐24)](https://github.com/mgrojo/ASFML).
+*   [civ-klon (⭐17)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐25)](https://github.com/mgrojo/ASFML).
 
 ### Graphical User Interface / Apache License
 
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
-*   [ada-gui (⭐35)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
+*   [ada-gui (⭐36)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ### Graphics and Multimedia / Apache License
 
@@ -51,12 +51,12 @@
 
 ### Automation / Apache License
 
-*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐84)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
+*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐86)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
-*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+*   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐86)](https://github.com/AdaCore/gtkada).
+*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐86)](https://github.com/AdaCore/gtkada).
 
 ### Misc / Apache License
 
@@ -134,7 +134,7 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐492)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐493)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [15. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -222,12 +222,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [simple-vue-camera (⭐64)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+*   [simple-vue-camera (⭐66)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 *   [@vuepic/vue-datepicker (⭐1.3k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ### Components & Libraries / UI Utilities
 
-*   [@morev/vue-transitions (⭐171)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
+*   [@morev/vue-transitions (⭐175)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
 ## [25. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Loader
 
-*   [react-loader-spinner (⭐930)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+*   [react-loader-spinner (⭐940)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 
 ### Form Components / Miscellaneous
 
@@ -324,11 +324,11 @@
 
 ### Applications / Observability
 
-*   [Quickwit-oss/quickwit (⭐6.1k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
+*   [Quickwit-oss/quickwit (⭐6.2k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
 
 ### Applications / Operating systems
 
-*   [theseus-os/Theseus (⭐2.7k)](https://github.com/theseus-os/Theseus) — A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
+*   [theseus-os/Theseus (⭐2.8k)](https://github.com/theseus-os/Theseus) — A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 
 ### Applications / Text processing
 
@@ -336,27 +336,27 @@
 
 ### Libraries / Audio and Music
 
-*   [insomnimus/nodi (⭐15)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
+*   [insomnimus/nodi (⭐16)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
 ## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [pg-osc (⭐397)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
+*   [pg-osc (⭐486)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
 
 ### Schema / Design
 
-*   [Database Design (⭐404)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
+*   [Database Design (⭐416)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgMonitor (⭐484)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
-*   [PostgreSQL Metrics (⭐583)](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
+*   [pgMonitor (⭐511)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
+*   [PostgreSQL Metrics (⭐588)](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
 *   [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
 
 ### SQL / Parsers
 
-*   [libpg\_query (⭐1k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
+*   [libpg\_query (⭐1.1k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
 
 ### SQL / Über SQL
 
@@ -364,13 +364,13 @@
 
 ### SQL / Plan
 
-*   [pev2 (⭐2.2k)](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
-*   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
+*   [pev2 (⭐2.4k)](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
+*   [pg\_flame (⭐1.6k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
 
 ### Data / Catalog
 
-*   [Amundsen (⭐4.2k)](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-*   [DataHub (⭐8.9k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
+*   [Amundsen (⭐4.3k)](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+*   [DataHub (⭐9.3k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 *   [Marquez (⭐1.6k)](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
 ## [36. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
@@ -617,7 +617,7 @@
 
 ### Tokenizers
 
-*   [sentences (⭐421)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐424)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 

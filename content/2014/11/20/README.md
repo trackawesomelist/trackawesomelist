@@ -63,7 +63,7 @@
 
 ### Documentation
 
-*   [Apipie (⭐2.4k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
+*   [Apipie (⭐2.5k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

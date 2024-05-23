@@ -55,7 +55,7 @@
 
 *   [ini-files (⭐6)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐7)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
-*   [generic-image-decoder (⭐15)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
+*   [generic-image-decoder (⭐21)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
 *   [ada-pdf-writer (⭐15)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-bar-codes (⭐13)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
@@ -63,7 +63,7 @@
 
 *   [azip (⭐9)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 *   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
-*   [cbsg (⭐9)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
+*   [cbsg (⭐10)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
 ### Web / Apache License
 
@@ -72,7 +72,7 @@
 ### Generators and Translators / Apache License
 
 *   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
-    *   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+    *   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐86)](https://github.com/AdaCore/gtkada).
     *   [tp7-ada-gnoga (⭐5)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga](https://sourceforge.net/projects/gnoga/).
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

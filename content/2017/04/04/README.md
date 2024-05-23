@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,14 +84,7 @@ $ git config --global merge.tool meld
 
     $ git mergetool
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / Experts
-
-*   [@victorsavkin](https://twitter.com/victorsavkin)
-*   [@jeffbcross](https://twitter.com/jeffbcross)
-
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
@@ -105,13 +98,13 @@ $ git config --global merge.tool meld
 
 *   [mnemonix (⭐39)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐612)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
-## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
@@ -127,13 +120,13 @@ $ git config --global merge.tool meld
 
 *   [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
-## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
-## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [7. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
@@ -141,7 +134,7 @@ $ git config --global merge.tool meld
 *   [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 *   [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
-## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Utilities
 

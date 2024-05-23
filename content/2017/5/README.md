@@ -318,7 +318,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐701)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐709)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [24. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

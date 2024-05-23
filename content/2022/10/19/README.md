@@ -62,15 +62,15 @@
 
 ### Algorithms / Ground segmentation
 
-*   [Plane Seg :octocat: (⭐150)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+*   [Plane Seg :octocat: (⭐154)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 *   [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐585)](https://github.com/lorenwel/linefit_ground_segmentation)
+    *   [GitHub repository :octocat: (⭐606)](https://github.com/lorenwel/linefit_ground_segmentation)
 *   [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐411)](https://github.com/LimHyungTae/patchwork)
+    *   [GitHub repository :octocat: (⭐419)](https://github.com/LimHyungTae/patchwork)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
 *   [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
-    *   [GitHub repository :octocat: (⭐272)](https://github.com/url-kaist/patchwork-plusplus-ros)
+    *   [GitHub repository :octocat: (⭐284)](https://github.com/url-kaist/patchwork-plusplus-ros)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
 ## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)

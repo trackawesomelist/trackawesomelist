@@ -453,7 +453,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐243)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐245)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [23. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 

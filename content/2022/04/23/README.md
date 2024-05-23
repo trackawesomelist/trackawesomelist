@@ -30,7 +30,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue3-recaptcha2 (⭐33)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
+*   [vue3-recaptcha2 (⭐34)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries / Audio and Music
 
-*   [Serial-ATA/lofty-rs (⭐160)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
+*   [Serial-ATA/lofty-rs (⭐165)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
 
 ---
 

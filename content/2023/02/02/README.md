@@ -92,11 +92,11 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nix-init (⭐725)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐747)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
 
 ### Libraries / System
 
-*   [ardaku/whoami (⭐153)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
+*   [ardaku/whoami (⭐154)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 
 ## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -180,9 +180,9 @@
 ### Software / Monitoring
 
 *   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐7.2k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐7.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
-*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐966)](https://github.com/sensu/sensu-go)) `MIT` `Go`
+*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐985)](https://github.com/sensu/sensu-go)) `MIT` `Go`
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

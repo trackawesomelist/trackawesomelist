@@ -22,7 +22,7 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐808)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐811)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
@@ -673,7 +673,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Extensions and Utilities
 
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.6k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.7k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -812,11 +812,11 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐296)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐298)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐72)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐73)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [65. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 

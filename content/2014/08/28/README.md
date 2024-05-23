@@ -28,14 +28,14 @@
 
 ### Database
 
-*   [hiberlite (⭐704)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
+*   [hiberlite (⭐706)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
 *   [Hiredis (⭐6.1k)](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. \[BSD]
 *   [RocksDB (⭐27k)](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. \[BSD]
 *   [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. \[PublicDomain]
 
 ### Debug
 
-*   [ig-debugheap (⭐175)](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. \[BSD]
+*   [ig-debugheap (⭐176)](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. \[BSD]
 *   [Remotery (⭐2.7k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 
 ### GUI

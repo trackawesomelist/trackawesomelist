@@ -47,9 +47,9 @@
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐731)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐729)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐412)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐411)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -75,7 +75,7 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐204)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [mini-yaml (⭐205)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 *   [yaml-cpp (⭐4.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)

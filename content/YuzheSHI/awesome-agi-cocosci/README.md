@@ -1615,9 +1615,9 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 *   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. The original paper on Rational Speech Act (RSA).
 *   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
-*   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Adjective understanding as a rational inference in the context.
-*   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on social pragmatics.
-*   [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301\&hl=en\&as_sdt=0,5)]. Application of Rational Speech Act to Image Captioning.
+*   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579)]. Adjective understanding as a rational inference in the context.
+*   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920)]. A piece of evidence for children's capability on social pragmatics.
+*   [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301)]. Application of Rational Speech Act to Image Captioning.
 *   [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394\&hl=en\&as_sdt=0,5)].
 
 ### Communications / Language Compositionality
@@ -1983,8 +1983,8 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Pragmatics
 
-*   [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599\&hl=en\&as_sdt=2005)].
+*   [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059)].
+*   [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599)].
 
 ## [Mar 22, 2022](/content/2022/03/22/README.md)
 
@@ -2048,7 +2048,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Pragmatics
 
-*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997)].
 
 ## [Mar 05, 2022](/content/2022/03/05/README.md)
 
@@ -2382,7 +2382,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Pragmatics
 
-*   [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844\&hl=en\&as_sdt=0,5)].
+*   [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1) - ***Nature Human Behavior***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844)]. Before formal education begins, children typically acquire a vocabulary of thousands of words. This learning process requires the use of many different information sources in their social environment, including their current state of knowledge and the context in which they hear words used. This paper specifies a developmental model according to which children consider information sources in an age-specific way and integrate them via Bayesian inference. This work presents a developmental theory of information integration during language learning and illustrates how formal models can be used to make a quantitative test of the predictive and explanatory power of competing theories.
 *   [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf) - ***Semantics and Pragmatics***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599\&hl=en\&as_sdt=0,5)].
 
 ### Communications / Language Compositionality

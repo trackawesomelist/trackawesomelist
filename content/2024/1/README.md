@@ -23,7 +23,7 @@
 
 ### Data Store / Mouse Events
 
-*   [fireproof (⭐188)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+*   [fireproof (⭐195)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -272,7 +272,7 @@
 
 ### Software / Password Managers
 
-*   [Laravel Simple Password Manager (⭐5)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
+*   [Laravel Simple Password Manager (⭐6)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
 
 ## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -413,11 +413,11 @@
 
 ### Snippet / Diagnostics
 
-*   [chrisgrieser/nvim-scissors (⭐258)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+*   [chrisgrieser/nvim-scissors (⭐266)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐123)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐136)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Colorscheme Switchers / Diagnostics
 
@@ -425,16 +425,16 @@
 
 ### Media / Diagnostics
 
-*   [3rd/image.nvim (⭐663)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [3rd/image.nvim (⭐701)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐74)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐80)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐293)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
-*   [crispybaccoon/chaivim (⭐30)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
+*   [pgosar/CyberNvim (⭐299)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [crispybaccoon/chaivim (⭐34)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
 ## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -463,13 +463,9 @@
 
 ## [36. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
-### FPS
-
-*   [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine:flower_playing_cards::flower_playing_cards:):flower\_playing\_cards: - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
-
 ### RPG
 
-*   [Abyss Engine (⭐8)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
+*   [Abyss Engine (⭐25)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 
 ## [37. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -491,19 +487,19 @@
 
 ### Applications / Blockchain
 
-*   [polkadot-sdk (⭐1.4k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
+*   [polkadot-sdk (⭐1.5k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
 
 ### Applications / Games
 
-*   [chess-tui (⭐313)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
+*   [chess-tui (⭐325)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
 
 ### Applications / Observability
 
-*   [openobserve (⭐9.6k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+*   [openobserve (⭐9.8k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐4.9k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ### Libraries / Data streaming
 

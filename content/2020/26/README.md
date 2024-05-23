@@ -61,11 +61,11 @@
 
 *   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
-### Forms / Normal Forms
+### API / Forms
 
-*   [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
+*   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 
 ## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -402,7 +402,7 @@
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐19)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐20)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐315)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐326)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -457,7 +457,7 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐237)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐241)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -714,18 +714,18 @@ Language: English
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐665)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐63k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [Blazor-ApexCharts (⭐676)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐315)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
-*   [GG.Net Data Visualization (⭐77)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [ChartJs.Blazor (⭐670)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [Blazor-ApexCharts (⭐695)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Plotly.Blazor (⭐318)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
+*   [GG.Net Data Visualization (⭐78)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [BlazorDateRangePicker (⭐179)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐182)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐757)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐761)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### 2D/3D Rendering engines / Others
 
@@ -798,7 +798,7 @@ Language: English
 *   [Prisma schema - convert schema.prisma file to javascript object or from Snake case to Camel case](https://paljs.com/cli/schema)
 *   [Prisma admin React component](https://paljs.com/prisma-admin)
 *   [Starter Template for NestJS and Prisma (⭐18)](https://github.com/fivethree-team/nestjs-prisma-starter)
-*   [prisma-relay-cursor-connection (⭐258)](https://github.com/devoxa/prisma-relay-cursor-connection)
+*   [prisma-relay-cursor-connection (⭐263)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
 ## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1118,7 +1118,7 @@ Language: English
 
 *   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
 *   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐458)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [kytan (⭐463)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
@@ -1298,7 +1298,7 @@ Language: English
 
 ### Python / Git
 
-*   [django-cryptography (⭐356)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐364)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 

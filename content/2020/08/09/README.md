@@ -22,7 +22,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐7.1k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Querying / Symfony2
 
-*   [Milkman (⭐919)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+*   [Milkman (⭐1.1k)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

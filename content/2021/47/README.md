@@ -65,8 +65,8 @@
     *   [CocoaPods (⭐14k)](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
     *   [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
-    *   [Homebrew-cask (⭐20k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-    *   [Homebrew (⭐39k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
+    *   [Homebrew-cask (⭐21k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
+    *   [Homebrew (⭐40k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
@@ -159,11 +159,11 @@
 
 ### CMS
 
-*   [Umbraco9 & Blazor WASM Starter Site (⭐38)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+*   [Umbraco9 & Blazor WASM Starter Site (⭐39)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐27)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐28)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [15. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -263,7 +263,7 @@
 
 ### CLI
 
-*   [oof (⭐821)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐825)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
@@ -273,8 +273,8 @@
 
 ### Books
 
-*   [Free C Books (⭐320k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐320k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐322k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐322k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐304)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐329)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -671,7 +671,7 @@
 ### Algorithms / Semantic segmentation
 
 *   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐535)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐548)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ## [36. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)

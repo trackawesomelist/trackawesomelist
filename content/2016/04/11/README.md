@@ -105,7 +105,7 @@
 
 ### Debugging
 
-*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
+*   [observer\_cli (⭐1.4k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
 
 ## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

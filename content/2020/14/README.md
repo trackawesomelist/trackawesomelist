@@ -418,7 +418,7 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐334)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐337)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -510,7 +510,7 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐219)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐222)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 

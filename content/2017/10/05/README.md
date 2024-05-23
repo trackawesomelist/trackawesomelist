@@ -39,7 +39,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [SPA-asp.net-api-vuejs- (⭐60)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
+*   [SPA-asp.net-api-vuejs- (⭐61)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
 *   [Book-Trading-Club (⭐20)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 *   [vuejs-extension-pack vscode (⭐36)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 

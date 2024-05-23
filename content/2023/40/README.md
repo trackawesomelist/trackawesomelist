@@ -78,7 +78,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [PlainApp (⭐2k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
+*   [PlainApp (⭐2.1k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -123,12 +123,12 @@
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
-*   [RSS-GPT (⭐220)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS-GPT (⭐244)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
-*   [Get RSS Feed URL (⭐190)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Get RSS Feed URL (⭐198)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -232,14 +232,14 @@
 
 ### Game Engines / Specialty
 
-*   🎉 [Ren'Py (⭐4.5k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
+*   🎉 [Ren'Py (⭐4.6k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
 
 ### Libraries / Rust
 
 *   Rust: Graphics - 3D
     *   🎉 [Ash (⭐1.7k)](https://github.com/ash-rs/ash) - Vulkan bindgins for Rust.
     *   🎉 [Glium (⭐3.4k)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
-    *   🎉 [Kiss3D (⭐1.4k)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
+    *   🎉 [Kiss3D (⭐1.5k)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
     *   🎉 [Miniquad (⭐1.4k)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
     *   🎉 [Vulkano (⭐4.3k)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 
@@ -279,7 +279,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@f3ve/vue-markdown-it (⭐9)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
+*   [@f3ve/vue-markdown-it (⭐10)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 
 ### Components & Libraries / UI Utilities
 
@@ -800,7 +800,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### MIDI Tools & Libraries
 
-*   [mido (⭐1.3k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+*   [mido (⭐1.4k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 
 ### Music Programming
 
@@ -820,7 +820,7 @@ Interactive UI and fuzzy-search for Git branches.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [minima (⭐2)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
-*   [x (⭐4)](https://github.com/tharindu899/x-theme) - Includes customizable banners
+*   [x (⭐5)](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
 ## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 

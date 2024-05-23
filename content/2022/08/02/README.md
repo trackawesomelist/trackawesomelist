@@ -34,7 +34,7 @@
 
 ### Datasets
 
-*   [Brno Urban Dataset :octocat: (⭐142)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+*   [Brno Urban Dataset :octocat: (⭐146)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
@@ -60,7 +60,7 @@
 
 ### GUI
 
-*   [capy-ui/capy (⭐1.3k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐1.4k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

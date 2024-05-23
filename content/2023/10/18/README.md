@@ -16,7 +16,7 @@
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐192)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐201)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐10k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

@@ -167,7 +167,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐198)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐200)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

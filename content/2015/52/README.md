@@ -322,7 +322,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Debug
 
-*   [benchmark (⭐8.4k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [benchmark (⭐8.5k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
 *   [Google Mock (⭐33k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
 *   [Google Test (⭐33k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 

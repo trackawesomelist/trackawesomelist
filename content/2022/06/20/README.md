@@ -41,15 +41,15 @@
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐679)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
+    *   [deltaphc/raylib-rs (⭐689)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐208)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
+*   [rbatis/fast\_log (⭐211)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
-*   [bytecodealliance/wasmtime (⭐14k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
+*   [bytecodealliance/wasmtime (⭐15k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

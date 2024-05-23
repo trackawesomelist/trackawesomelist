@@ -139,7 +139,7 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [rssTea (⭐56)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [rssTea (⭐59)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [7. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -325,11 +325,11 @@
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐63)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐67)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐754)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+*   [Awesome Audio DSP (⭐766)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
 ## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
@@ -460,12 +460,12 @@
 
 ### Software / Automation
 
-*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐480)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
+*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐487)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ### Software / Build and software organization tools
 
-*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐639)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
-*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐449)](https://github.com/TACC/Lmod)) `MIT` `Lua`
+*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐656)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
+*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐460)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
 ## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 

@@ -40,7 +40,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [svd2rust (⭐656)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐658)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
@@ -224,7 +224,7 @@
 
 ### Debug
 
-*   [Nanotimer (⭐124)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐125)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 

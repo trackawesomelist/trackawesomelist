@@ -191,7 +191,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐1k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐1.1k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -199,7 +199,7 @@
 
 ### TTRSS / Outline Processor Markup Language
 
-*   [Tiny Tiny RSS Feedlish Theme (⭐38)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
+*   [Tiny Tiny RSS Feedlish Theme (⭐37)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
 
 ### universally from / multiple sources
 

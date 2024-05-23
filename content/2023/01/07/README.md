@@ -86,7 +86,7 @@
 
 ### Clearnet & Anonymous Networking / Anonymity
 
-*   [Lokinet (⭐1.6k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+*   [Lokinet (⭐1.7k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Kernels / Crypto
 
@@ -102,11 +102,11 @@
 ### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐756)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐759)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Bonzai (⭐138)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Bonzai (⭐152)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
 ### Optics and Extra Info / Xen Exploitation
 

@@ -122,7 +122,7 @@
 
 ### Contents / GUI
 
-*   [temBoard (⭐440)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐442)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 

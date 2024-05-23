@@ -50,7 +50,7 @@
 
 ### Compression
 
-*   [LZ4 (⭐9.2k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐9.3k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

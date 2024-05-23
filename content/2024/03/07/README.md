@@ -52,7 +52,7 @@
 
 ### Keybinding / Diagnostics
 
-*   [nvimtools/hydra.nvim (⭐80)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+*   [nvimtools/hydra.nvim (⭐86)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 
 ## [6. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 

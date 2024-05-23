@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,13 +31,7 @@
 *   [purescript-aff (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 *   [purescript-affjax (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Raúl Jiménez](https://twitter.com/elecash/)
-
-## [6. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [5. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Open-source host-it-yourself:
 

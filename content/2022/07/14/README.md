@@ -66,7 +66,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐743)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐744)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -79,7 +79,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [tensor-js (⭐35)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
+*   [tensor-js (⭐36)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -125,7 +125,7 @@
 
 ### Device Input / Keyboard Events
 
-*   [react-keyboard-navigator (⭐25)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐26)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
 
 ### Form Logic / Mouse Events
 

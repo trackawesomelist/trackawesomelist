@@ -16,8 +16,8 @@
 
 ### Schema / Changes
 
-*   [Atlas (⭐4.5k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Reshape (⭐1.6k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
+*   [Atlas (⭐5k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Reshape (⭐1.7k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 *   [sqldef (⭐1.8k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
@@ -27,10 +27,10 @@
 ### Schema / Documentations
 
 *   [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
-*   [DBML (⭐2.3k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
-*   [SchemaCrawler (⭐1.5k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-*   [Schema Spy (⭐2.9k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐2.9k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [DBML (⭐2.4k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+*   [SchemaCrawler (⭐1.6k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+*   [Schema Spy (⭐3k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+*   [tbls (⭐3.1k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -38,11 +38,11 @@
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 *   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 *   [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-*   [pgmodeler (⭐2.9k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+*   [pgmodeler (⭐3k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐657)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐689)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -59,12 +59,12 @@
 
 ### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐121)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐128)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐11k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐690)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐12k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐689)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)

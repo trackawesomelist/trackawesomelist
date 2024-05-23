@@ -201,11 +201,11 @@
 
 ### Schema / Code generation
 
-*   [scheme2ddl (⭐77)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+*   [scheme2ddl (⭐79)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 ### API / Samples
 
-*   [restSQL (⭐141)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐143)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

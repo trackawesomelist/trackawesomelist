@@ -77,18 +77,18 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-paho-mqtt (⭐18)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐182)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [VueFinder File Library (⭐189)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / UI Components
 
-*   [vue-maplibre-gl (⭐69)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐27)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐82)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-*   [Everright-formEditor (⭐391)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [vue-maplibre-gl (⭐70)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+*   [1llest-waveform-vue (⭐28)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+*   [vue3-calendar-heatmap (⭐83)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+*   [Everright-formEditor (⭐397)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐47)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐51)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / Frameworks
 
@@ -161,19 +161,19 @@
 
 ### Database Tools
 
-*   [Online Migrations (⭐569)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐582)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 
-*   [Unleash (⭐55)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+*   [Unleash (⭐56)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.3k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.5k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ### PDF
 
-*   [Grim (⭐216)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
+*   [Grim (⭐215)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 
 ## [19. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -370,7 +370,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐480)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐487)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -566,8 +566,8 @@
 
 ### conversion
 
-*   [topojson for Python (⭐167)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-*   [geomet (⭐163)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
+*   [topojson for Python (⭐175)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
+*   [geomet (⭐167)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
 ## [45. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -797,10 +797,10 @@
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐409)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐418)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 *   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.4k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
 *   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.8k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
-*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐61)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐62)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [50. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -834,8 +834,8 @@
 
 ### Tools / Community Chat Rooms
 
-*   [espflash (⭐439)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐200)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐441)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐203)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Real-time / Real-time tools
 
@@ -849,7 +849,7 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐615)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐627)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [55. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 

@@ -271,7 +271,7 @@
 
 ### Configuration
 
-*   [inifile-cpp (⭐318)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐324)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 
@@ -706,7 +706,7 @@
 
 ### Open source / MIT
 
-*   [hac (⭐103)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [hac (⭐104)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
 ### Editors / Apache License
 
@@ -726,7 +726,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐691)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐715)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [35. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -804,7 +804,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐692)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐693)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -1588,17 +1588,17 @@
 
 ### Python / Computer Vision
 
-*   [Exadel CompreFace (⭐3.8k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
+*   [Exadel CompreFace (⭐4.3k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Streamlit (⭐31k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐9.5k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Streamlit (⭐32k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
+*   [Optuna (⭐9.7k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Heart\_Disease-Prediction (⭐0)](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
-*   [Flight Fare Prediction (⭐0)](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
+*   [Heart\_Disease-Prediction (⭐1)](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+*   [Flight Fare Prediction (⭐1)](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
 
 ### Books / Misc
 
@@ -1634,7 +1634,7 @@
 
 ### Applications / System tools
 
-*   [crabz (⭐314)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐315)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Applications / Text editors
 
@@ -1644,11 +1644,11 @@
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐145)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐149)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐331)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐337)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ### Libraries / Game development
 

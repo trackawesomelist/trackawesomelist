@@ -79,9 +79,9 @@
 
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐27)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-*   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐32)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Kvm (⭐35)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Pcileech (⭐17)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+*   [Qemu\_procfs (⭐35)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
 ### Optics and Extra Info / Unikernel-like

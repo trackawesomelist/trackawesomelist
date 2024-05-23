@@ -26,11 +26,11 @@
 
 *   [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
 
-### Icons / Testing
+### Icons / Validation
 
-*   [ng-icons (⭐299)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
-*   [primeicons (⭐236)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
-*   [angular-svg-icon (⭐238)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+*   [ng-icons (⭐302)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐239)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐241)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 
 ### UI Libraries / General
 
@@ -38,7 +38,7 @@
 
 ### UI Libraries / Tailwind CSS Based
 
-*   [David UI Angular (⭐49)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+*   [David UI Angular (⭐52)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

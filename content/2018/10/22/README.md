@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐922)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐925)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 

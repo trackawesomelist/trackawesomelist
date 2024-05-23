@@ -66,7 +66,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐267)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐266)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 

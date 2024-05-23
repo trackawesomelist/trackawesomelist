@@ -552,9 +552,9 @@
 
 ### Applications / Blockchain
 
-*   [Bitcoin Satoshi's Vision (⭐58)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
-*   [hdwallet (⭐31)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
-*   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Implementation of BIP39.
+*   [Bitcoin Satoshi's Vision (⭐60)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
+*   [hdwallet (⭐32)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
+*   [infincia/bip39-rs (⭐54)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Implementation of BIP39.
 
 ### Applications / Database
 
@@ -575,7 +575,7 @@
 ### Libraries / Computation
 
 *   [GSL](http://www.gnu.org/software/gsl/)
-    *   [GuillaumeGomez/rust-GSL (⭐188)](https://github.com/GuillaumeGomez/rust-GSL) — GSL bindings
+    *   [GuillaumeGomez/rust-GSL (⭐189)](https://github.com/GuillaumeGomez/rust-GSL) — GSL bindings
 
 ### Libraries / Database
 
@@ -593,7 +593,7 @@
     *   [mandrean/har-rs (⭐39)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] — A HTTP Archive Format (HAR) serialization & deserialization library
 *   YAML
     *   [chyh1990/yaml-rust (⭐597)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation.
-    *   [dtolnay/serde-yaml (⭐938)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.6k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
+    *   [dtolnay/serde-yaml (⭐939)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.6k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
     *   [vitiral/stfu8 (⭐25)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
 
 ### Libraries / Network programming
@@ -660,7 +660,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [fluent-vue (⭐234)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+*   [fluent-vue (⭐235)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

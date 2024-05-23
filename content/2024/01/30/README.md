@@ -70,7 +70,7 @@
 
 ## [8. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
 
-### Contents / Task Management
+### Task Management
 
 *   **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
 *   **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.

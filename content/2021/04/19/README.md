@@ -128,11 +128,11 @@
 
 ### Resources / Examples
 
-*   [Vue Todo PWA (⭐17)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
+*   [Vue Todo PWA (⭐18)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐98)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐99)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 

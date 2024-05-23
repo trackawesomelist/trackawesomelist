@@ -338,7 +338,7 @@
 
 ### Software / Miscellaneous
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code (⭐575)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code (⭐580)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
 
 ## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -387,11 +387,11 @@
 
 ### Concurrency
 
-*   [libfork (⭐464)](https://github.com/ConorWilliams/libfork) - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
+*   [libfork (⭐490)](https://github.com/ConorWilliams/libfork) - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
 
 ### Miscellaneous
 
-*   [fast\_io (⭐525)](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. \[MIT]
+*   [fast\_io (⭐540)](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. \[MIT]
 
 ### Build Systems
 
@@ -430,7 +430,7 @@
 
 ### Miniflux / Outline Processor Markup Language
 
-*   [miniflux-theme-reeder (⭐23)](https://github.com/rootknight/Miniflux-Theme-Reeder) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
+*   [miniflux-theme-reeder (⭐88)](https://github.com/rootknight/Miniflux-Theme-Reeder) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
 
 ## [24. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -477,7 +477,7 @@
 
 ### FPS
 
-*   [SurrealEngine (⭐394)](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
+*   [SurrealEngine (⭐402)](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
 
 ### Simulator
 
@@ -642,7 +642,7 @@
 ### Libraries / Network programming
 
 *   VPN
-    *   [defguard/wireguard-rs (⭐106)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+    *   [defguard/wireguard-rs (⭐112)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 
 ### Libraries / Peripherals
 
@@ -654,10 +654,6 @@
 ### Reading and Writing Tools / Others
 
 *   [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Finance / Audio Record and Process
-
-*   [SubManager](https://getsubmanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-manage-subs/id1632853914)
 
 ## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 

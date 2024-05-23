@@ -121,7 +121,7 @@
 
 ### Audio Libraries
 
-*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐2.1k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

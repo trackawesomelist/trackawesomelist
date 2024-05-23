@@ -139,7 +139,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐830)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue-hotel-datepicker (⭐834)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
 *   [vue2-persian-datepicker (⭐100)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities

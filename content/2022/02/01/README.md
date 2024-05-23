@@ -67,7 +67,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐1k)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐1.1k)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

@@ -35,9 +35,9 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐31k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
+*   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐32k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐22k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [PHP Censor (⭐668)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [PHP Censor (⭐672)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
@@ -838,7 +838,7 @@
 
 ### Compression
 
-*   [miniz (⭐2k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
+*   [miniz (⭐2.1k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 
 ### Machine Learning
 
@@ -921,16 +921,16 @@
 
 ### DevOps Tools
 
-*   [Sunzi (⭐448)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
+*   [Sunzi (⭐447)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐569)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐568)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Machine Learning
 
-*   [AI4R (⭐711)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐470)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [AI4R (⭐713)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [ruby-fann (⭐489)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
@@ -941,7 +941,7 @@
 
 *   Bindings
     *   [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐813)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ### Social Networking
 

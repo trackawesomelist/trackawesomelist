@@ -107,14 +107,14 @@
 *   [activate-py-environment (⭐20)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 *   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐4.9k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
 *   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐4.9k)](https://github.com/lotabout/skim)
-*   [zbrowse (⭐13)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
+*   [zbrowse (⭐14)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
 *   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.6k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
-*   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐2.3k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
+*   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐2.4k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
 *   [zlong\_alert (⭐42)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [absolute (⭐38)](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with decorators for `git` status, `node` version and the exit code from the last command.
+*   [absolute (⭐39)](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with decorators for `git` status, `node` version and the exit code from the last command.
 *   [adamdodev (⭐1)](https://github.com/adamdodev/adamdodev-zsh-theme) - Includes decorators for `git` status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory.
 *   [agnoster (fcamblor) (⭐246)](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - Solarized [Agnoster](https://gist.github.com/agnoster/3712874) variant with `git` status information. Requires a unicode font and works best with a [solarized (⭐16k)](https://github.com/altercation/solarized) terminal.
 *   [agnoster (fseguin) (⭐4)](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [agnoster](https://gist.github.com/agnoster/3712874) variant with a right prompt.
@@ -131,7 +131,7 @@
 *   [dissonance (⭐4)](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom `LSCOLORS` and `LS_COLORS` settings files, works with both dark and light terminal themes.
 *   [gaia (⭐5)](https://github.com/gcaracuel/gaia.zsh-theme) - Originally a fork of [Bureau (⭐33)](https://github.com/isqua/bureau) adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes `git` status integration.
 *   [gentoo (⭐1)](https://github.com/ikelos/gentoo-zsh-theme) - Breaks out the oh-my-zsh `gentoo` theme into a separate repository for non-omz users.
-*   [git-prompt (woefe) (⭐231)](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous `git`-aware prompt for ZSH heavily inspired by Olivier Verdier's [zsh-git-prompt (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt) and very similar to the "Informative VCS" prompt of fish shell.
+*   [git-prompt (woefe) (⭐232)](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous `git`-aware prompt for ZSH heavily inspired by Olivier Verdier's [zsh-git-prompt (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt) and very similar to the "Informative VCS" prompt of fish shell.
 *   [glimmer (⭐1)](https://github.com/martnu/glimmer) - Includes `git` branch, time and user\@host decorators.
 *   [gocilla (⭐0)](https://github.com/goranvasic/gocilla-iterm-zsh) - Theme for iTerm 2 and ZSH. Uncludes `git` status, user\@host, path and date decorators.
 *   [grs (⭐0)](https://github.com/gersontpc/zsh-theme-grs) - Includes `git` status, user id and working directory decorators.
@@ -140,11 +140,11 @@
 *   [iay (⭐6)](https://github.com/aaqaishtyaq/iay) - A `{ba,z}sh` prompt written in Rust. Includes decorations for the current directory and `git` status.
 *   [igorsilva (⭐11)](https://github.com/igor9silva/zsh-theme) - Shows current directory, customizable delimiter, current branch, and `git` status decorators.
 *   [jcl (⭐2)](https://github.com/jasonlewis/jcl-zsh-theme) - Loosely based on the `ys` theme.
-*   [jovial (⭐414)](https://github.com/zthxxx/jovial) - Shows decorators for host, user, path, development environment, `git` branch, and which `python` venv is active.
+*   [jovial (⭐424)](https://github.com/zthxxx/jovial) - Shows decorators for host, user, path, development environment, `git` branch, and which `python` venv is active.
 *   [lambda (cdimascio) (⭐64)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
-*   [lambda-pure (⭐115)](https://github.com/marszall87/lambda-pure) - A minimal ZSH theme, based on [pure (⭐13k)](https://github.com/sindresorhus/pure), with added Node.js version decorator.
-*   [minimal (glsorre) (⭐0)](https://github.com/glsorre/minimal/) - A minimal asynchronous ZSH theme optimized for use with the [Fira Code (⭐75k)](https://github.com/tonsky/FiraCode) font and the [Solarized Light](https://ethanschoonover.com/solarized) terminal theme.
-*   [ortiz (guezwhoz) (⭐74)](https://github.com/guesswhozzz/guezwhoz-zsh-theme) - Simplified fork of [eriner (⭐19)](https://github.com/zimfw/eriner) with `git` status, `kubectl` context and elapsed time decorations.
+*   [lambda-pure (⭐116)](https://github.com/marszall87/lambda-pure) - A minimal ZSH theme, based on [pure (⭐13k)](https://github.com/sindresorhus/pure), with added Node.js version decorator.
+*   [minimal (glsorre) (⭐0)](https://github.com/glsorre/minimal/) - A minimal asynchronous ZSH theme optimized for use with the [Fira Code (⭐76k)](https://github.com/tonsky/FiraCode) font and the [Solarized Light](https://ethanschoonover.com/solarized) terminal theme.
+*   [ortiz (guezwhoz) (⭐75)](https://github.com/guesswhozzz/guezwhoz-zsh-theme) - Simplified fork of [eriner (⭐19)](https://github.com/zimfw/eriner) with `git` status, `kubectl` context and elapsed time decorations.
 *   [powerline-pills (⭐18)](https://github.com/lucasqueiroz/powerline-pills-zsh) - Written in Ruby, uses powerline characters to simulate pills with useful information.
 *   [pure-agnoster (⭐4)](https://github.com/yourfin/pure-agnoster) - Mashup of [pure (⭐13k)](https://github.com/sindresorhus/pure) and [agnoster](https://gist.github.com/3712874). Has `git` decorations and works well with both dark and light terminal backgrounds.
 *   [purity (⭐14)](https://github.com/petermbenjamin/purity) - Inspired by the [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme and the [pure (⭐13k)](https://github.com/sindresorhus/pure) prompt.
@@ -155,7 +155,7 @@
 *   [schminitz-v2 (⭐0)](https://github.com/mashdots/schminitz-v2) - Shows decorators for `git` status, `user@host` information, the exit status of last command, and whether running as root.
 *   [senpai (⭐11)](https://github.com/hiroru/senpai-zsh) - Clean prompt theme for Devops. Includes decorators for `git` status, the kubernetes context, AWS profile, GCP project and Azure active cloud.
 *   [seti\_UX (⭐2)](https://github.com/ginfuru/iTerm-Seti_UX) - A simple oh-my-zsh-compatible theme with a corresponding iTerm 2 color scheme.
-*   [shellder (⭐289)](https://github.com/simnalamburt/shellder) - Minimal theme with a `git` branch decorator. Requires a Powerline-compatible font.
+*   [shellder (⭐288)](https://github.com/simnalamburt/shellder) - Minimal theme with a `git` branch decorator. Requires a Powerline-compatible font.
 *   [shuttle (⭐1)](https://github.com/Pandademic/Shuttle/) - Written in `golang`. Has decorators for OS, user, current directory, and the exit code of the last command run.
 *   [simple (rkitover) (⭐2)](https://github.com/rkitover/sh-prompt-simple) - A simple, lightweight, and nice looking prompt that runs quickly even in very slow shells like MSYS2, Cygwin and WSL. It shows decorations for the short name of the current environment (distribution, OS, etc.) the `git` branch when in a `git` checkout, as well as the last command exit status (green checkmark for success and red X mark for non-zero exit).
 *   [spaceship (⭐19k)](https://github.com/denysdovhan/spaceship-prompt) - Theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful status decorators.
@@ -166,7 +166,7 @@
 *   [xxf](https://gist.github.com/xfanwu/18fd7c24360c68bab884) - Shows the current `git` commit's shortened hash and message.
 *   [ys-cluster (⭐1)](https://github.com/AndiH/oh-my-zsh-ys-cluster-theme) - [ys (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) variant with support for working with batch submission systems for large clusters. Supports Slurm, LSF / IBM Spectrum LSF, and PBS.
 *   [ysr (⭐0)](https://github.com/raykle/ysr-zsh-theme) - Based on [ys (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme). Includes `git` status decorations.
-*   [zeta (⭐220)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
+*   [zeta (⭐221)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
 
 ## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -243,18 +243,18 @@
 
 ### Data / Compare
 
-*   [data-diff (⭐2.7k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐2.9k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [ethabi (⭐504)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
+*   [ethabi (⭐506)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐2.4k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
 *   [etk (⭐345)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
 *   [Foundry (⭐7.6k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
-*   [Lighthouse (⭐2.7k)](https://github.com/sigp/lighthouse) — Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐537)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector.
+*   [Lighthouse (⭐2.8k)](https://github.com/sigp/lighthouse) — Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
+*   [mev-inspect-rs (⭐539)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector.
 *   [opensea-rs (⭐242)](https://github.com/gakonst/opensea-rs) - Bindings & CLI to the Opensea API and Contracts.
 *   [revm (⭐1.4k)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
 
@@ -264,7 +264,7 @@
     *   [hashmismatch/terminal\_cli.rs (⭐54)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)]  — build an interactive command prompt
     *   [mikaelmello/inquire (⭐1.6k)](https://github.com/mikaelmello/inquire) \[[inquire](https://crates.io/crates/inquire)] — A library for building interactive prompts on terminals. [![Build status](https://github.com/mikaelmello/inquire/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikaelmello/inquire/actions)
     *   [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)]  — A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
-    *   [ynqa/promkit (⭐213)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![ci](https://github.com/ynqa/promkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/promkit/actions/workflows/ci.yml)
+    *   [ynqa/promkit (⭐221)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![ci](https://github.com/ynqa/promkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/promkit/actions/workflows/ci.yml)
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -400,7 +400,7 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐320)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐322)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -450,7 +450,7 @@
 
 ### Parser / Package managers
 
-*   [iddev5/inon (⭐10)](https://github.com/iddev5/inon) - Data configuration file format.
+*   [iddev5/inon (⭐11)](https://github.com/iddev5/inon) - Data configuration file format.
 
 ## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐5.5k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐57k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐5.6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐59k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐206)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐207)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
 ## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -363,7 +363,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [NestJS Crud Prisma (⭐59)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.9k)](https://github.com/nestjsx/crud))
+*   [NestJS Crud Prisma (⭐60)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐4k)](https://github.com/nestjsx/crud))
 
 ## [35. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
@@ -541,7 +541,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Schema / Changes
 
-*   [Prisma Migrate (⭐767)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
+*   [Prisma Migrate (⭐766)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 
 ## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -666,10 +666,10 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Notifications
 
-*   [Noticed (⭐2.2k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
-*   [Ruby Push Notifications (⭐400)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+*   [Noticed (⭐2.3k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+*   [Ruby Push Notifications (⭐399)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.2k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐386)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐388)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -792,7 +792,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### CMS
 
-*   [BlazorShop (⭐282)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐286)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [72. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

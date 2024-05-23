@@ -23,7 +23,7 @@
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐6.4k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐590)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐339)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [PySpark Cheatsheet (⭐349)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
@@ -31,7 +31,7 @@
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.2k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐8.1k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐8.4k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -39,7 +39,7 @@
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 *   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-*   [AI Expert Roadmap (⭐28k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+*   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 *   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
@@ -176,7 +176,7 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐925)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐939)](https://github.com/ad-si/awesome-music-production)
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

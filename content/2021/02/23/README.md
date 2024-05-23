@@ -24,7 +24,7 @@
 
 ### JAMstack
 
-*   [Uniform, JSS and Next.js starter kit (⭐27)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
+*   [Uniform, JSS and Next.js starter kit (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 *   [Uniform, MVC and Next.js starter kit (⭐7)](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)

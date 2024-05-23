@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25 - Mar 31, 2024
 
-38 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,21 +22,15 @@
 
 ### Games / Apache License
 
-*   [eepers (⭐285)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
+*   [eepers (⭐299)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Thomas Laforge](https://twitter.com/laforge_toma)
-
-## [5. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [4. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Numerical Analysis / Stochastic processes
 
 *   📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
 
-## [6. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Monitoring
 
@@ -47,25 +41,25 @@
 
 *   [django-q2 (⭐280)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Wave Terminal (⭐2.5k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
 *   [Bruno (⭐17k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 
-## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Codel (⭐1.9k)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social)
 
-## [10. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [9. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Internet & Networking
 
@@ -88,13 +82,13 @@
 
 *   [Polonium](https://zeroxoneafour.github.io/polonium/) - The successor of Bismuth for KDE Plasma 6.
 
-## [11. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [10. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [DDD North America](https://dddna.net/) - Upcoming live training, events, and user groups across North America.
 
-## [12. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [11. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -104,19 +98,19 @@
 
 *   [Building an interactive plotter art installation](https://lostpixels.io/writings/building-interactive-plotter-art) - Nice writeup (with videos) of an interactive plotter art exhibit at SIGGRAPH 2023.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
-*   [simplegpt.nvim (⭐8)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+*   [simplegpt.nvim (⭐9)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ### File Explorer / Diagnostics
 
-*   [prichrd/netrw.nvim (⭐182)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
+*   [prichrd/netrw.nvim (⭐187)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ### Utility / Diagnostics
 
-*   [SUSTech-data/neopyter (⭐37)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [SUSTech-data/neopyter (⭐45)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 *   [terje/simctl.nvim (⭐24)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 
 ### Git / Diagnostics
@@ -125,9 +119,9 @@
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐166)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐167)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
@@ -138,7 +132,7 @@
 
 *   [Anatomy of a Polars Query: A Syntax Comparison of Polars vs SQL](https://towardsdatascience.com/anatomy-of-a-polars-query-a-syntax-comparison-of-polars-vs-sql-a0035ac8a4fa) - A post that compares Polars syntax to SQL by [@bfeif](https://github.com/bfeif).
 
-## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -153,13 +147,13 @@
 
 *   [@import-meta-env/unplugin (⭐178)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
-*   [natiu-mqtt (⭐79)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
+*   [natiu-mqtt (⭐81)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 
-## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Gateway
 
@@ -173,7 +167,7 @@
 
 *   [JSON:API (⭐7.3k) (⭐7.3k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [18. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Sound Programming Languages
 
@@ -183,7 +177,7 @@
 
 *   [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -198,25 +192,25 @@
 
 *   [WorkOS](https://workos.com/) - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.
 
-## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [procaptcha (⭐27)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+*   [procaptcha (⭐30)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 
-## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [20. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Devicon](https://devicon.dev) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 
-## [22. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [21. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Policies and recommendations / Surveys of policies and recommendations
 
 *   [Responsible AI in Libraries and Archives](https://www.lib.montana.edu/responsible-ai/) - IMLS funded project to produce tools and strategies that support responsible use of AI in the field (2022-2025)
 
-## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Laboratory Automation
 
@@ -224,13 +218,13 @@
 *   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[XDL Schema Database](https://zenodo.org/records/3955107)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
 *   [Digitization and validation of a chemical synthesis literature database in the ChemPU](https://www.science.org/doi/full/10.1126/science.abo0058) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17368503277308594977)]. \[[Preprint](https://www.researchgate.net/profile/Aamir-Khan/publication/361857872_Digitization_and_validation_of_a_chemical_synthesis_literature_database_in_the_ChemPU/links/62cd356d00d0b451104cbfe9/Digitization-and-validation-of-a-chemical-synthesis-literature-database-in-the-ChemPU.pdf)]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist.
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Optimizations
 
-*   [pluck\_in\_batches (⭐126)](https://github.com/fatkodima/pluck_in_batches) - A faster alternative to the custom use of `in_batches` with `pluck`.
+*   [pluck\_in\_batches (⭐134)](https://github.com/fatkodima/pluck_in_batches) - A faster alternative to the custom use of `in_batches` with `pluck`.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -240,18 +234,18 @@
 ### Applications / Emulators
 
 *   Nintendo 64
-    *   [gopher64 (⭐63)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
+    *   [gopher64 (⭐67)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
 
 ### Applications / System tools
 
-*   [ynqa/jnv (⭐4.3k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
+*   [ynqa/jnv (⭐4.4k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
-*   [fzf-make (⭐52)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
+*   [fzf-make (⭐53)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
 *   [typos (⭐2.1k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
 
-## [26. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [25. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Specialty
 
@@ -271,19 +265,19 @@
     *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐7.5k)](https://github.com/alembics/disco-diffusion)]
     *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
     *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐65k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
+    *   💸 [Stable Diffusion (⭐66k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ### Tools / Software / Modeling Tools
 
 *   💸 [ZBrush Core](https://www.maxon.net/en/zbrushcore) - Simple and easy to use 3D sculpting tool.
 
-## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
 *   [Wagtail EditorJS (⭐5)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 
-## [28. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [27. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
@@ -293,13 +287,13 @@
 
 *   [DQOps (⭐48)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 
-## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [28. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [cf-terraforming (⭐864)](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
@@ -307,15 +301,15 @@
 
 ### Build Systems
 
-*   [Sccache (⭐5.3k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐5.4k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
-## [31. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
 *   [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers.
 
-## [32. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [31. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
@@ -325,25 +319,25 @@
 
 *   [antsichaut (⭐4)](https://github.com/ansible-community/antsichaut) - automate the filling of a changelog.yaml used by antsibull-changelog.
 
-## [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Leadership / Svelte
 
 *   [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
-## [34. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [33. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Reporters
 
 *   [echoed (⭐12)](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### E-Commerce and Payments
 
 *   [SmartStoreNET (⭐1.1k)](https://github.com/smartstore/Smartstore) - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -354,7 +348,7 @@
 *   [fbi (⭐0)](https://github.com/bateman/fbi-zsh-theme) - Powerline-inspired fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with decorators for `nvm` environment, `git` status, username\@hostname and current directory.
 *   [ninik (⭐2)](https://github.com/NimaNikfar/ninik-zsh-theme) - Inspired by [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) and [ubunly (⭐22)](https://github.com/alejandromume/ubunly-zsh-theme). Includes decorators for OS, current directory, python virtualenv and `git` status. Requires a Nerd Font or Powerline-patched font.
 
-## [37. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [36. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -364,7 +358,7 @@
 
 *   [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
 
-## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [37. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

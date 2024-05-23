@@ -193,18 +193,13 @@
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Downloading, Installing, Upgrading, and Building
-
-*   [Qubes OS 4.2.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.0 download.
-*   [Qubes OS 4.2.0 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
-
 ### Templates
 
 *   [Pentesting: Kali](https://forum.qubes-os.org/t/kali-template-available/1706) - How to create a Kali Linux VM.
 
 ### Qubes OS Legends / Web articles
 
-*   [ClaraCrazy (⭐30)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+*   [ClaraCrazy (⭐39)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## [9. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -295,7 +290,7 @@
 
 ### validation
 
-*   [antimeridian (⭐26)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
+*   [antimeridian (⭐39)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 
 ## [17. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -487,12 +482,6 @@
 
 ## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### ASP.NET COMMUNITY STANDUP - ASP.NET Community Standup - Blazor Experiments + eShop Q&A (December 12, 2023).
-
-*   In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App.
-*   Featuring: Steve Sanderson (@stevensanderson), Jon Galloway (@jongalloway), Mackinnon Buck (@MackinnonBuck).
-*   Live on [YouTube](https://www.youtube.com/watch?v=fkDSaIti_KU).
-
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Blazor Experiments + eShop Q\&A](https://www.youtube.com/watch?v=fkDSaIti_KU) - ![duration](https://img.shields.io/badge/Duration:%20-65%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. [Community links](https://www.theurlist.com/blazor-standup-2023-12).
@@ -519,7 +508,7 @@
 ### Components & Libraries / UI Components
 
 *   [vuetify-drilldown-table (⭐11)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
-*   [vue-code-block (⭐25)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+*   [vue-code-block (⭐27)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
 *   [vuetify-color-field (⭐5)](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
 *   [vuetify-inline-fields (⭐21)](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 
@@ -617,7 +606,7 @@
 
 ### Databases / Lazy Load
 
-*   [BCMS (⭐281)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
+*   [BCMS (⭐291)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 
 ## [41. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -722,7 +711,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐65)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐8.2k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐65)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐9k)](https://github.com/sxyazi/yazi)).
 
 ### Icon / Diagnostics
 
@@ -792,11 +781,11 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
+*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐39)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
 *   [gabriel2m (⭐0)](https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme) - Minimalist theme with decorators for the current directory and `git` status.
 *   [lacerate (⭐0)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
 *   [lambda (bluedragon1221) (⭐0)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
-*   [madas (⭐1)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
+*   [madas (⭐0)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
 *   [niotna (⭐2)](https://github.com/niotna/niotna-theme) - Includes decorators for `git` status and current directory. Customizable colors.
 *   [paramour (⭐0)](https://github.com/espeon/paramour) - Simple and clean, has decorators for `git` status, username, time, current directory and username. Requires a nerd font in your terminal.
 *   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.

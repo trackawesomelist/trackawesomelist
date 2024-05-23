@@ -950,16 +950,16 @@
 
 ### Contents / Backups
 
-*   [wal-g (⭐3k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐3.1k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐546)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [pgsh (⭐548)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 *   [schemaspy (⭐3k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐545)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐558)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -970,7 +970,7 @@
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.6k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐401)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐406)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
@@ -981,10 +981,10 @@
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐8.7k)](https://github.com/lib/pq), [pgx (⭐9.4k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.4k)](https://github.com/gajus/slonik), [postgres (⭐6.7k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.8k)](https://github.com/lib/pq), [pgx (⭐9.5k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.4k)](https://github.com/gajus/slonik), [postgres (⭐6.8k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐751)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐754)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -1032,7 +1032,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐84)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐89)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1370,7 +1370,7 @@
 ### Components & Libraries / Utilities
 
 *   [vue-timed-content (⭐7)](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
-*   [vue-live (⭐245)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+*   [vue-live (⭐247)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 ## [52. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -1434,7 +1434,7 @@
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐77)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐78)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ### Photo / Image
 
@@ -1480,7 +1480,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐792)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐798)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -1488,11 +1488,11 @@
 
 ### Data Processing and ETL
 
-*   [ruby-stemmer (⭐252)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
+*   [ruby-stemmer (⭐251)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
 ### Git Tools
 
-*   [git\_curate (⭐420)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
+*   [git\_curate (⭐421)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 
 ### Optimizations
 
@@ -1500,7 +1500,7 @@
 
 ### Profiler and Optimization
 
-*   [stackprof (⭐2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
+*   [stackprof (⭐2.1k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 *   [test-prof (⭐1.8k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
@@ -1774,7 +1774,7 @@
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/newsboat/newsboat) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [GORSS - Go RSS Reader (⭐427)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐434)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
@@ -1789,7 +1789,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.9k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ### universally from / newsletter/mail
 
@@ -1807,7 +1807,7 @@
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSS-OPML-to-Markdown (⭐14)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
+*   [RSS-OPML-to-Markdown (⭐15)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
     *   [RSS-OPML-to-Markdown enhancement (⭐20)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/) <sup>[1387](https://t.me/s/aboutrss/1387)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant

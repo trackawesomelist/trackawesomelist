@@ -541,7 +541,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### API Builder and Discovery
 
-*   [Crepe (⭐127)](https://github.com/crepe/crepe) - The thin API stack.
+*   [Crepe (⭐128)](https://github.com/crepe/crepe) - The thin API stack.
 
 ## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -770,28 +770,28 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [Shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 *   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
 *   [Bayesian Methods for Hackers (⭐26k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
-*   [Featureforge (⭐381)](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
+*   [Featureforge (⭐382)](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 *   [thinking bayes (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 *   [nilearn (⭐1.1k)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐9.9k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐182k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
-*   [Neural Networks and Deep Learning (⭐15k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
+*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [Neural Networks and Deep Learning (⭐16k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 *   [Annoy (⭐13k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
 *   [skbayes (⭐507)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
 ### C++ / Natural Language Processing
 
-*   [BLLIP Parser (⭐226)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
+*   [BLLIP Parser (⭐227)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
 
 ### Common Lisp / General-Purpose Machine Learning
 
-*   [cl-online-learning (⭐49)](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression).
+*   [cl-online-learning (⭐50)](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression).
 *   [cl-random-forest (⭐59)](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp.
 
 ### Clojure / Natural Language Processing
 
-*   [Clojure-openNLP (⭐747)](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp).
+*   [Clojure-openNLP (⭐748)](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp).
 *   [Infections-clj (⭐214)](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
 
 ### Clojure / Data Visualization
@@ -800,14 +800,14 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Go / General-Purpose Machine Learning
 
-*   [gobrain (⭐552)](https://github.com/goml/gobrain) - Neural Networks written in Go.
+*   [gobrain (⭐554)](https://github.com/goml/gobrain) - Neural Networks written in Go.
 
 ### Java / General-Purpose Machine Learning
 
 *   [Datumbox (⭐1.1k)](https://github.com/datumbox/datumbox-framework) - Machine Learning framework for rapid development of Machine Learning and Statistical applications.
-*   [htm.java (⭐308)](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
+*   [htm.java (⭐309)](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
 *   [Mahout (⭐2.1k)](https://github.com/apache/mahout) - Distributed machine learning.
-*   [rapaio (⭐66)](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java.
+*   [rapaio (⭐68)](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java.
 *   [RapidMiner](https://rapidminer.com) - RapidMiner integration into Java code.
 
 ### Java / Data Analysis / Data Visualization
@@ -837,36 +837,36 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 *   [MLBase (⭐186)](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
 *   [DA (⭐9)](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis.
-*   [Mixed Models (⭐394)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
+*   [Mixed Models (⭐395)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
 *   [Decision Tree (⭐8)](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 *   [Neural (⭐47)](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia.
 *   [Mamba (⭐254)](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia.
-*   [GLM (⭐567)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
-*   [Gaussian Processes (⭐304)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
-*   [GLMNet (⭐95)](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
-*   [Kernel Density (⭐164)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
+*   [GLM (⭐576)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
+*   [Gaussian Processes (⭐306)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
+*   [GLMNet (⭐96)](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
+*   [Kernel Density (⭐169)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
 *   [NMF (⭐89)](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization.
-*   [XGBoost (⭐281)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
-*   [ManifoldLearning (⭐90)](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction.
+*   [XGBoost (⭐283)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
+*   [ManifoldLearning (⭐92)](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction.
 *   [Merlin (⭐142)](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia.
 *   [ROCAnalysis (⭐30)](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers.
-*   [GaussianMixtures (⭐92)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
-*   [ScikitLearn (⭐533)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
+*   [GaussianMixtures (⭐94)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
+*   [ScikitLearn (⭐541)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 *   [Knet (⭐1.4k)](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 
 ### Julia / Data Analysis / Data Visualization
 
 *   [Graph Layout (⭐45)](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia.
-*   [LightGraphs (⭐667)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph modelling and analysis.
+*   [LightGraphs (⭐670)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph modelling and analysis.
 *   [Hypothesis Tests (⭐287)](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
-*   [RDataSets (⭐155)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
-*   [Time Series (⭐336)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
+*   [RDataSets (⭐156)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
+*   [Time Series (⭐343)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 *   [Sampling (⭐1)](https://github.com/lindahua/Sampling.jl) - Basic sampling algorithms for Julia.
 
 ### Julia / Misc Stuff / Presentations
 
 *   [JuliaCon Presentations (⭐69)](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
-*   [Images (⭐521)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
+*   [Images (⭐523)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
 
 ### Lua / Demos and Scripts
 
@@ -888,34 +888,34 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [python-ucto (⭐29)](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
 *   [Fuzzy Wuzzy (⭐9.1k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 *   [textacy (⭐2.2k)](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
-*   [CLTK (⭐817)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
+*   [CLTK (⭐820)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
 *   [yase (⭐13)](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector .
-*   [Polyglot (⭐2.2k)](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
+*   [Polyglot (⭐2.3k)](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 *   [DrQA (⭐4.5k)](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
 
 ### Python / Data Analysis / Data Visualization
 
 *   [vispy (⭐3.2k)](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 *   [SparklingPandas (⭐365)](https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (POPS).
-*   [bqplot (⭐3.5k)](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython).
+*   [bqplot (⭐3.6k)](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Diffusion Segmentation (⭐2)](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods.
 *   [Scipy Tutorials (⭐2)](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes.
-*   [Crab (⭐86)](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python.
+*   [Crab (⭐87)](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python.
 *   [BayesPy (⭐105)](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python.
 *   [scikit-learn tutorials (⭐126)](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn.
 *   [group-lasso (⭐39)](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model.
-*   [mne-python-notebooks (⭐24)](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
-*   [Neon Course (⭐92)](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon.
+*   [mne-python-notebooks (⭐25)](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
+*   [Neon Course (⭐93)](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon.
 *   [pandas cookbook (⭐6.5k)](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library.
 *   [climin (⭐179)](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others.
 
 ### Python / Kaggle Competition Source Code
 
 *   [wiki challenge (⭐11)](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle.
-*   [kaggle insults (⭐151)](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary".
+*   [kaggle insults (⭐150)](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary".
 *   [kaggle\_acquire-valued-shoppers-challenge (⭐66)](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge.
 *   [kaggle-cifar (⭐44)](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet.
 *   [kaggle-blackbox (⭐115)](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy.
@@ -923,7 +923,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [kaggle-advertised-salaries (⭐55)](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition.
 *   [kaggle amazon (⭐25)](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge.
 *   [kaggle-bestbuy\_big (⭐8)](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle.
-*   [Kaggle Dogs vs. Cats (⭐67)](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition.
+*   [Kaggle Dogs vs. Cats (⭐66)](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition.
 *   [Kaggle Galaxy Challenge (⭐489)](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle.
 *   [Kaggle Gender (⭐21)](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting.
 *   [Kaggle Merck (⭐10)](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle.
@@ -941,12 +941,12 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [rsruby (⭐331)](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
+*   [rsruby (⭐332)](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
 
 ### R / General-Purpose Machine Learning
 
 *   [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R.
-*   [XGBoost.R (⭐571)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
+*   [XGBoost.R (⭐572)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -1180,7 +1180,7 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 ### Java / Symfony2
 
-*   [Dropwizard (⭐8.4k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
+*   [Dropwizard (⭐8.5k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
 ## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

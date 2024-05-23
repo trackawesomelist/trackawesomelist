@@ -64,7 +64,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5.6k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5.7k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

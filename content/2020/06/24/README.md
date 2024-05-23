@@ -65,7 +65,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [prisma-relay-cursor-connection (⭐258)](https://github.com/devoxa/prisma-relay-cursor-connection)
+*   [prisma-relay-cursor-connection (⭐263)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

@@ -108,10 +108,6 @@
 
 *   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.4k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
-### Software / Software Development - FaaS & Serverless
-
-*   [Dokku](https://dokku.com/) - An open-source PaaS (alternative to Heroku). ([Source Code (⭐26k)](https://github.com/dokku/dokku)) `MIT` `Docker/Shell/Go/deb`
-
 ### Software / Status / Uptime pages
 
 *   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.4k)](https://github.com/cstate/cstate)) `MIT` `Go`
@@ -132,12 +128,12 @@
 
 ### Python / Computer Vision
 
-*   [timm (⭐29k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
+*   [timm (⭐30k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
 
 ### Python / General-Purpose Machine Learning
 
-*   [cleanlab (⭐8.3k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [AutoGluon (⭐7k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [cleanlab (⭐8.8k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [AutoGluon (⭐7.2k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

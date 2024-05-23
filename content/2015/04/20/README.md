@@ -10,7 +10,7 @@
 
 ### Natural Language Processing
 
-*   [pocketsphinx-ruby (⭐256)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
+*   [pocketsphinx-ruby (⭐257)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

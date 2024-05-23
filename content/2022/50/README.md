@@ -156,7 +156,7 @@
 
 ### Yaml
 
-*   [rapidyaml (⭐517)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
+*   [rapidyaml (⭐524)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
 
 ## [18. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -357,16 +357,16 @@
 
 ### Content Hub
 
-*   [VS Solution Example for Content Hub (⭐7)](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
+*   [VS Solution Example for Content Hub (⭐8)](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
 
 ### XM Cloud
 
-*   [Play Summit (⭐14)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
-*   [XM Cloud Introduction (⭐43)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
+*   [Play Summit (⭐21)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
+*   [XM Cloud Introduction (⭐46)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 
 ### Demo
 
-*   [Developer Portal (⭐24)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
+*   [Developer Portal (⭐30)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
     published to a CDN.
 
 ### Edge
@@ -379,7 +379,7 @@
 
 ### Headless
 
-*   [Sample (⭐27)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
+*   [Sample (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
 
 ### Security
 
@@ -655,7 +655,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐200)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐205)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 

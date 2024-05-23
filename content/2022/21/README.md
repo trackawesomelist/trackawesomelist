@@ -44,7 +44,7 @@
 
 ### Software / VPN
 
-*   [Headscale (⭐19k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
+*   [Headscale (⭐20k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 
 ## [7. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐512)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐516)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 *   [vountdown (⭐2)](https://github.com/logustra/vountdown) - A minimalist countdown component
 *   [vinscroll (⭐2)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 
@@ -267,7 +267,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Shapash (⭐2.6k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐200)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Eurybia (⭐203)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 *   [Colossal-AI (⭐38k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
@@ -385,8 +385,8 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cryo-long (⭐0)](https://github.com/cryocaustik/cryo-long-zsh-theme) - Variant of [cryo (⭐1)](https://github.com/cryocaustik/cryo-zsh-theme/) with added decorators for hostname and current directory.
-*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [headline (⭐218)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
+*   [gal (⭐2)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
+*   [headline (⭐223)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
 
 ## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)

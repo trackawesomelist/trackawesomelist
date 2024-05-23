@@ -124,7 +124,7 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐334)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐337)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

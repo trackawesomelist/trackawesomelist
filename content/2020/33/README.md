@@ -102,7 +102,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Multi-tenancy with Prisma (⭐381)](https://github.com/errorname/prisma-multi-tenant)
+*   [Multi-tenancy with Prisma (⭐388)](https://github.com/errorname/prisma-multi-tenant)
 
 ## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐24)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐25)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [19. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐756)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐764)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [42. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 

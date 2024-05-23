@@ -60,7 +60,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐9.5k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. ([Demo](https://demo.filestash.app/), [Source Code (⭐9.5k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -1018,7 +1018,7 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐848)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐860)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -1036,7 +1036,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐517)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐518)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -1048,7 +1048,7 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐58)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -1086,7 +1086,7 @@
 
 ### Debug
 
-*   [Unity (⭐3.7k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐3.8k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ### Game Engine
 
@@ -1098,15 +1098,15 @@
 
 ### Math
 
-*   [universal (⭐378)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
+*   [universal (⭐383)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
-*   [Magic Enum (⭐4.4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.5k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐530)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐535)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 

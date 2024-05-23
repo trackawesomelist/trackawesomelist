@@ -57,7 +57,7 @@
 
 ### Debug
 
-*   [fff (⭐727)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐731)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
@@ -580,7 +580,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [SPA-asp.net-api-vuejs- (⭐60)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
+*   [SPA-asp.net-api-vuejs- (⭐61)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
 *   [Book-Trading-Club (⭐20)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 *   [vuejs-extension-pack vscode (⭐36)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 *   [vue-pwa-speech (⭐99)](https://github.com/aofdev/vue-pwa-speech) - A Speech to text With Google Cloud Speech on Vue2 + Vuetify + Progressive Web App
@@ -2840,19 +2840,19 @@
 ### Documentation
 
 *   [Gollum (⭐14k)](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-*   [RDoc (⭐819)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐821)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ### Networking
 
-*   [RubyDNS (⭐705)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐707)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### State Machines
 
-*   [MicroMachine (⭐523)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
+*   [MicroMachine (⭐525)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 
 ### View helpers
 
-*   [Bh (⭐834)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
+*   [Bh (⭐836)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 *   [gon (⭐3k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 

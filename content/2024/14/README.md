@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [cpp-dump (⭐168)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+*   [cpp-dump (⭐172)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -234,7 +234,7 @@
 ### Applications / Emulators
 
 *   IBM PC
-    *   [MartyPC (⭐472)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
+    *   [MartyPC (⭐478)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
 
 ## [24. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -298,10 +298,6 @@
 
 *   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 
-### Resources / API Specification
-
-*   [AsyncAPI (⭐3.8k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Conference Management
@@ -318,7 +314,7 @@
 
 ### Software / Miscellaneous
 
-*   [URL-to-PNG (⭐76)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
+*   [URL-to-PNG (⭐99)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
 
 ### Software / Money, Budgeting & Management
 
@@ -421,7 +417,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [Floom (⭐19)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐22)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -461,7 +457,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [club-house (⭐0)](https://github.com/skippyr/club-house) - Requires a [Nerd Font (⭐51k)](https://github.com/ryanoasis/nerd-fonts). Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
+*   [club-house (⭐0)](https://github.com/skippyr/club-house) - Requires a [Nerd Font (⭐52k)](https://github.com/ryanoasis/nerd-fonts). Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
 *   [devil-puppet (⭐0)](https://github.com/skippyr/devil-puppet) - Theme decorated by a pentagram. Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
 *   [ko (⭐1)](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/) - Includes decorators for `git` status and current directory.
 *   [outer-space (⭐2)](https://github.com/skippyr/outer-space) - Includes decorators for user\@hostname, active python virtual environment, current directory and `git` status.
@@ -483,7 +479,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataComPy (⭐354)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+*   [DataComPy (⭐396)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 ## [46. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 

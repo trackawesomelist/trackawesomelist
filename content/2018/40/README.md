@@ -62,7 +62,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐443)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐447)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 *   [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -79,7 +79,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐603)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐605)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -369,12 +369,12 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### GUI
 
-*   [Pgweb (⭐8.2k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
+*   [Pgweb (⭐8.3k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 
 ### CLI
 
-*   [ipython-sql (⭐1.7k)](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
-*   [pg\_activity (⭐2.3k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
+*   [ipython-sql (⭐1.8k)](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
+*   [pg\_activity (⭐2.4k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 
 ### Schema / Changes
 
@@ -382,7 +382,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Schema / Code generation
 
-*   [ddl-generator (⭐272)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+*   [ddl-generator (⭐275)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 ## [31. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
@@ -399,7 +399,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐305)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -599,7 +599,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Memory Allocation
 
 *   [Hoard (⭐1.1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
-*   [jemalloc (⭐9k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [jemalloc (⭐9.1k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ### PDF
 
@@ -780,8 +780,8 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
-*   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [Insomnia (⭐33k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [57. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

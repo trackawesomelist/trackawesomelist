@@ -392,10 +392,6 @@
 
 *   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet advertisements with a GUI for management and monitoring. ([Source Code (⭐47k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP/Docker`
 
-### Software / Software Development - FaaS & Serverless
-
-*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐2.1k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
-
 ## [11. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Other
@@ -413,7 +409,7 @@ Free (Open Source)
 ### Software / DNS - Control Panels & Domain Management
 
 *   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐1k)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
-*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐257)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐260)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

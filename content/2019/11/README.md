@@ -26,7 +26,7 @@
 
 ### Miscellaneous / Symfony2
 
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -316,7 +316,7 @@ Free
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐619)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐621)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 

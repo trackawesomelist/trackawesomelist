@@ -150,13 +150,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐257)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐60k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐263)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐60k)](https://github.com/junegunn/fzf) history and file searches.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [Cybertron (⭐250)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+*   [Cybertron (⭐259)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 
 ### Go / General-Purpose Machine Learning
 
@@ -164,7 +164,7 @@
 
 ### Python / Computer Vision
 
-*   [joliGEN (⭐196)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+*   [joliGEN (⭐204)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ---
 

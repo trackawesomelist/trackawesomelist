@@ -91,7 +91,7 @@
 
 ### GUI
 
-*   [TGUI (⭐754)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+*   [TGUI (⭐755)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [schedule-x (⭐850)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+*   [schedule-x (⭐865)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

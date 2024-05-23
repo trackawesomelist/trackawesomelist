@@ -338,17 +338,17 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐417)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐421)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐921)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐924)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐481)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐483)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

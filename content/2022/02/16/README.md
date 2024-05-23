@@ -222,9 +222,9 @@
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [awesome-dataviz (⭐3.6k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐642)](https://github.com/JosPolfliet/awesome-ai-usecases)
-*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐86)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+*   [awesome-datasets (⭐59k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐645)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐85)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [18. Public Apis](/content/public-apis/public-apis/README.md)
 

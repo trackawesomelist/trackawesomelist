@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐182k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -69,13 +69,13 @@
 
 ### Audio Editing
 
-*   [Audacity (⭐11k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐12k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 
 ### Audio Libraries
 
 *   [howler.js (⭐23k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 *   [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
-*   [midi.js (⭐3.7k)](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
+*   [midi.js (⭐3.8k)](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
 *   [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 *   [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
 
@@ -88,7 +88,7 @@
 
 ### Free Music Scores
 
-*   [cellist/Lilypond-Sheet-Music (⭐128)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+*   [cellist/Lilypond-Sheet-Music (⭐131)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 *   [ciconia/music (⭐20)](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 *   [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 *   [Éditions Nicolas Sceaux (⭐44)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
@@ -103,25 +103,25 @@
 ### Music Notation
 
 *   [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
-*   [Frescobaldi (⭐713)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
+*   [Frescobaldi (⭐718)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 *   [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
-*   [Inknote (⭐153)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+*   [Inknote (⭐152)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 *   [LibMEI (⭐59)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 *   [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 *   [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
 *   [MuseScore (⭐12k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐626)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐636)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.8k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
 
 *   [Alda (⭐5.5k)](https://github.com/alda-lang/alda) - a music programming language for musicians.
-*   [Chuck (⭐739)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
-*   [CoffeeCollider (⭐217)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
+*   [Chuck (⭐747)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
+*   [CoffeeCollider (⭐218)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 *   [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 *   [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
-*   [IanniX (⭐329)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+*   [IanniX (⭐330)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 *   [Leipzig (⭐450)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 *   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.

@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐619)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐621)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 

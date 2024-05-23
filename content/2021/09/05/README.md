@@ -40,7 +40,7 @@
 
 ### data
 
-*   [historical-basemaps (⭐380)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐420)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -168,13 +168,13 @@
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Awesome RSS Feeds (⭐582)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
+*   [Awesome RSS Feeds (⭐642)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
 *   [中文博客RSS订阅](https://t.me/s/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
 *   [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/caibingcheng/rssblog)
-*   [Awesome-blogCN-feeds (⭐490)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+*   [Awesome-blogCN-feeds (⭐502)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
 *   [Mataroa Collection](https://collection.mataroa.blog/)
 
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
@@ -235,7 +235,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐252)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐254)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ### Components & Libraries / Dev Tools
 

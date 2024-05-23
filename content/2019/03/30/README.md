@@ -62,11 +62,11 @@
 
 ### CLI
 
-*   [pg\_top (⭐103)](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
+*   [pg\_top (⭐104)](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
 
 ### CLI / dbcli
 
-*   [athenacli (⭐206)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [athenacli (⭐205)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 *   [litecli (⭐2k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
 *   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -75,7 +75,7 @@
 
 ### Schema / Changes
 
-*   [migra (⭐2.8k)](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
+*   [migra (⭐2.9k)](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 
 ### API / Samples
 
@@ -129,11 +129,11 @@
 
 ### Networking
 
-*   [MQTT-C (⭐721)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐734)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 
 ### Reflection
 
-*   [Nameof (⭐1.9k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+*   [Nameof (⭐2k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
 
 ## [10. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

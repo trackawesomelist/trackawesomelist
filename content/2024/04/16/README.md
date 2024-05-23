@@ -17,7 +17,7 @@
 ### Libraries / Compression
 
 *   zstd
-    *   [gyscos/zstd-rs (⭐458)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
+    *   [gyscos/zstd-rs (⭐462)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
 
 ## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 

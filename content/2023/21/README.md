@@ -335,7 +335,7 @@
 
 ### Web / Messaging
 
-*   [floscodes/zerve (⭐38)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
+*   [floscodes/zerve (⭐39)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
 ## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -431,7 +431,7 @@
 
 ### Graphics
 
-*   [GLFWPP (⭐88)](https://github.com/janekb04/glfwpp) - A thin modern C++17 header-only wrapper for GLFW. \[MIT]
+*   [GLFWPP (⭐89)](https://github.com/janekb04/glfwpp) - A thin modern C++17 header-only wrapper for GLFW. \[MIT]
 *   [Ogre 3D](https://github.com/OGRECave) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. \[MIT] [website](https://www.ogre3d.org)
 
 ### Image Processing
@@ -440,15 +440,15 @@
 
 ### JSON
 
-*   [UltraJSON (⭐4.2k)](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C. \[BSD-3-Clause]
+*   [UltraJSON (⭐4.3k)](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C. \[BSD-3-Clause]
 
 ### Multimedia
 
-*   [SDL (⭐8.2k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
+*   [SDL (⭐8.4k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
 
 ### Integrated Development Environment
 
-*   [Microsoft Visual Studio Code (⭐158k)](https://github.com/microsoft/vscode) :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
+*   [Microsoft Visual Studio Code (⭐159k)](https://github.com/microsoft/vscode) :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
 *   [Qt Creator (⭐2.4k)](https://github.com/qt-creator/qt-creator) :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt. \[GPL3 with exceptions] [website](https://www.qt.io/product/development-tools)
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -496,11 +496,11 @@
 
 ### Authentication and OAuth
 
-*   [Authentication Zero (⭐1.3k)](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
+*   [Authentication Zero (⭐1.4k)](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 
 ### Error Handling
 
-*   [Sentry Ruby (⭐912)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
+*   [Sentry Ruby (⭐917)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
 
 ## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -588,11 +588,11 @@
 
 *   [gobrew (⭐346)](https://github.com/kevincobain2000/gobrew) - Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 *   [KubeVela (⭐6.1k)](https://github.com/kubevela/kubevela) - Cloud native application delivery.
-*   [tf-profile (⭐145)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐146)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [portal (⭐1.1k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
+*   [portal (⭐1.2k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 
 ### Style Guides / Libraries for creating HTTP middlewares
 
@@ -613,7 +613,7 @@
 
 ### Applications
 
-*   [innernet (⭐4.8k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
+*   [innernet (⭐4.9k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
 
 ### Applications / Utilities
 
@@ -621,21 +621,21 @@
 
 ### Development tools / Web Servers
 
-*   [intelli-shell (⭐189)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
+*   [intelli-shell (⭐194)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 
 ### Development tools / FFI
 
 *   C
     *   [mozilla/cbindgen (⭐2.2k)](https://github.com/mozilla/cbindgen) — generates C header files from Rust source files. Used in Gecko for WebRender
-    *   [Sean1708/rusty-cheddar (⭐190)](https://github.com/Sean1708/rusty-cheddar) — generates C header files from Rust source files
+    *   [Sean1708/rusty-cheddar (⭐191)](https://github.com/Sean1708/rusty-cheddar) — generates C header files from Rust source files
 
 ### Libraries / Astronomy
 
-*   [cds-astro/aladin-lite (⭐89)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐90)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 
 ### Libraries / Cryptography
 
-*   [arkworks-rs/circom-compat (⭐222)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
+*   [arkworks-rs/circom-compat (⭐223)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
 
 ### Libraries / Data streaming
 
@@ -1086,11 +1086,11 @@
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐343)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐349)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs for Blazor (⭐90)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
+*   [ChartJs for Blazor (⭐94)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
 
 ### 2D/3D Rendering engines / Others
 
@@ -1263,13 +1263,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐172)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐640)](https://github.com/sigoden/argc) and [jq (⭐29k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐176)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐650)](https://github.com/sigoden/argc) and [jq (⭐29k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [astro (⭐103)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
-*   [bashlover (⭐1)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
+*   [bashlover (⭐2)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.
 *   [stigmata (⭐0)](https://github.com/VLtim43/stigmata.zsh-theme) - Includes decorators for user\@host and current directory.
@@ -1278,7 +1278,7 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐84k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐85k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Services
 

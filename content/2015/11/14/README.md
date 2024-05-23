@@ -420,11 +420,11 @@
 
 ### PHP / Symfony2
 
-*   [API Platform (⭐8k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+*   [API Platform (⭐8.3k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 
 ### Querying / Symfony2
 
-*   [httpie (⭐29k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [httpie (⭐32k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
 ## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

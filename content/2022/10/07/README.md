@@ -18,17 +18,17 @@
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 4000 | Stars: 962 | Last update: n/a
+Installs: 4000 | Stars: 963 | Last update: n/a
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Diagrams
 
-*   [Azimutt (⭐875)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+*   [Azimutt (⭐1.1k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 
 ### SQL / Analyzers
 
-*   [SQLLineage (⭐1k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+*   [SQLLineage (⭐1.1k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐306)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐321)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

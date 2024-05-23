@@ -125,7 +125,7 @@
 
 ### Applications
 
-*   [fend (⭐514)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐535)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
@@ -414,7 +414,7 @@ Installs: 2000 | Stars: 280 | Last update: n/a
 
 ### Projects Using Vue.js / Open Source
 
-*   [Snippets.Ninja (⭐106)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
+*   [Snippets.Ninja (⭐108)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
 ## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -482,15 +482,11 @@ Installs: 2000 | Stars: 280 | Last update: n/a
 
 ## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
-
 ### Books / Testing
 
 *   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
 
-### Keyboard Mouse / Testing
+### Keyboard Mouse / Validation
 
 *   [ngx-focus-control (⭐1)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
 

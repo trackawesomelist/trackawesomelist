@@ -70,7 +70,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐8.4k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐8.5k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Testing Prisma with PostgreSQL and Jest (⭐106)](https://github.com/ctrlplusb/prisma-pg-jest)
+*   [Testing Prisma with PostgreSQL and Jest (⭐104)](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -374,13 +374,13 @@
 
 ### Web Servers
 
-*   [Falcon (⭐2.4k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.5k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [MiniGrad (⭐87)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
+*   [MiniGrad (⭐88)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
 
 ## [32. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -743,11 +743,11 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [GEmojiSharp.Blazor (⭐96)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+*   [GEmojiSharp.Blazor (⭐99)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
 ### Others / Others
 
-*   [BlazorLazyLoading (⭐96)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
+*   [BlazorLazyLoading (⭐97)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
 
 ## [56. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -764,8 +764,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuesence-cloud-sync-button (⭐10)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
-*   [vue-form-builder (⭐385)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
+*   [vuesence-cloud-sync-button (⭐11)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
+*   [vue-form-builder (⭐386)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
 *   [vue-card-stack (⭐76)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ### Components & Libraries / Utilities
@@ -1255,7 +1255,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### GUI
 
-*   [implot (⭐4.3k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐4.4k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [68. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 

@@ -46,8 +46,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Streamlit (⭐31k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐9.5k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Streamlit (⭐32k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
+*   [Optuna (⭐9.7k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Books / Misc
 
@@ -66,7 +66,7 @@
 
 ### Open source / MIT
 
-*   [hac (⭐103)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [hac (⭐104)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
 ### Editors / Apache License
 

@@ -84,9 +84,9 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Protovue (⭐192)](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quickly scaffold an abstracted app layout.
+*   [Protovue (⭐191)](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quickly scaffold an abstracted app layout.
 *   [Vue E-Store Templet (⭐176)](https://github.com/rash0/Vue-Ecom) - An e-commerce template build with vue/vuex/vue-router and bootstrap4.
-*   [VueSolitaire (⭐133)](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) implemented in Vue.js.
+*   [VueSolitaire (⭐134)](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) implemented in Vue.js.
 *   [Afterman (⭐47)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
 *   [Pexelry (⭐8)](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautiful photos and pictures.
 
@@ -103,13 +103,13 @@
 *   [vue-simple-menu (⭐35)](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enough in 80% of cases
 *   [@innologica/vue-dropdown-menu (⭐84)](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropped down content.
 *   [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, support vue 2 and vue 3.
-*   [vue-simple-calendar (⭐858)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
+*   [vue-simple-calendar (⭐860)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
 *   [vue2-calendar (⭐55)](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at being flexible and lightweight.
-*   [vue-star-rating (⭐655)](https://github.com/craigh411/vue-star-rating) - A simple, highly customizable star rating component ⭐️ ⭐️ ⭐️
+*   [vue-star-rating (⭐656)](https://github.com/craigh411/vue-star-rating) - A simple, highly customizable star rating component ⭐️ ⭐️ ⭐️
 *   [vue-turnjs (⭐22)](https://github.com/Reidond/vue-turnjs) - A component library to add book experience to your app.
-*   [vue-advanced-chat (⭐1.5k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
+*   [vue-advanced-chat (⭐1.6k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 *   [vue-wheel-picker (⭐14)](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
-*   [vue-input-facade (⭐179)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
+*   [vue-input-facade (⭐182)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
 *   [vue-playlist (⭐28)](https://github.com/MishaPetrov/vue-playlist) - A lightweight vue (2.0) component with no dependencies that offers truly seamless html5 video playback. The one and only working solution for seamless video play done with vanilla JS. It takes an array of videos and stitches them together into a single video.
 *   [vue-context-menu-popup (⭐1)](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programmatically.
 
@@ -125,7 +125,7 @@
 
 *   [v-on-page-video (⭐3)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
 *   [v-pagy (⭐14)](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap Pagination for Vue.
-*   [vue-typed-js (⭐447)](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typing animations.
+*   [vue-typed-js (⭐451)](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typing animations.
 *   [vue-currency-filter (⭐246)](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizable Vue 2 Currency Filter.
 
 ### Components & Libraries / Utilities
@@ -138,7 +138,7 @@
 ### Components & Libraries / Integrations
 
 *   [vue-cli-plugin-auto-alias (⭐3)](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI Plugin to automatically sets alias
-*   [vue-cli-plugin-chrome-extension-cli (⭐286)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
+*   [vue-cli-plugin-chrome-extension-cli (⭐288)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
 
 ### Components & Libraries / Dev Tools
 
@@ -193,13 +193,13 @@
 ### Learning / Engine Development
 
 *   Education Portals
-    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
+    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
 ### Learning / Game Development
 
 *   Awesome Collections
-    *   📚 [Awesome Gamedev (⭐2.2k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐3.7k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [Awesome Gamedev (⭐2.3k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
+    *   📚 [GameDev-Resources (⭐3.8k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     *   📚 [Magictools (⭐13k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
@@ -215,9 +215,9 @@
 
 ### Security
 
-*   [Fingerprinter (⭐252)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐679)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐609)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [Fingerprinter (⭐254)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐716)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐616)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [WhatWeb (⭐5.1k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
@@ -225,7 +225,7 @@
 
 ### Photo / Image
 
-*   [react-photo-album (⭐447)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐455)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -245,7 +245,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐197)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐200)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -533,7 +533,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-sync (⭐44)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐25)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [smartcache (⭐26)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -554,10 +554,10 @@
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐178)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐35)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [drogue-device (⭐179)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐38)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐14)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐160)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [embedded-tls (⭐161)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs, and training materials / WIP
 
@@ -684,7 +684,7 @@
 
 ### GUI
 
-*   [DB Lens (⭐240)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐246)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
@@ -692,7 +692,7 @@
 
 ### API / Samples
 
-*   [Remult (⭐2.5k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐2.7k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -726,7 +726,7 @@
 
 ### Debug
 
-*   [Touca (⭐477)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐483)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [52. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 

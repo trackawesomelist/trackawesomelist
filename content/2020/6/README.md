@@ -47,13 +47,12 @@
 *   [opencoconut/webvtt-ruby (⭐61)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
 *   [osk/node-webvtt (⭐94)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
-### HDR10, HLG, Dolby Vision / Slack/Discord/Other Groups
+### HDR10, HLG, Dolby Vision / Slack Groups
 
 *   [Encode HDR with VP9](https://developers.google.com/media/vp9/hdr-encoding)  - Hands on tutorial of using ffmpeg to do hdr encoding
 *   [Frequently Asked Questions on High Dynamic Range and Hybrid Log-Gamma](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_FAQ.pdf)  - FAQ regarding HDR by BBC R\&D
 *   [HLG vs PQ Systems for HDR Television](https://www.displaydaily.com/article/display-daily/hlg-vs-pq-systems-for-hdr-television)  - Article explaining hlg vs pq in depth.
 *   [High Dynamic Range Television and Hybrid Log-Gamma - BBC R\&D](https://www.bbc.co.uk/rd/projects/high-dynamic-range)  - BBC R\&D HDR project page.
-*   [Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf)  - In depth break down on converting from pq to hlg
 *   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
 *   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
 *   [bbc/qtff-parameter-editor (⭐129)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
@@ -306,8 +305,8 @@
 
 ### Chemistry
 
-*   [d-SEAMS (⭐33)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
-*   [LAMMPS (⭐2k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
+*   [d-SEAMS (⭐34)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
+*   [LAMMPS (⭐2.1k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
 
 ### Game Engine
 
@@ -336,9 +335,9 @@
 ### Projects Using Vue.js / Open Source
 
 *   [VueComponentGenerator (⭐148)](https://github.com/ChangJoo-Park/vue-component-generator) - Generate vue single file component on browser.
-*   [Light Bootstrap Dashboard (⭐769)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
-*   [Vue Pivottable (⭐129)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
-*   [Vue Datamaps (⭐17)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
+*   [Light Bootstrap Dashboard (⭐770)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
+*   [Vue Pivottable (⭐131)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+*   [Vue Datamaps (⭐19)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 
 ## [37. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -839,10 +838,10 @@
 
 ### Driver crates / Other
 
-*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐102)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐81)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
+*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐108)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐82)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
 *   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐12)](https://github.com/agalakhov/usbd-hid-device) - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
-*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐40)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
+*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐41)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐17)](https://github.com/redpfire/usbd-webusb) - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
 
 ### Driver crates / WIP

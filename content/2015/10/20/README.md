@@ -81,9 +81,7 @@
 
 ### Resources / Official Resources
 
-*   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐207k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 

@@ -27,14 +27,14 @@
 
 ### DevOps Tools
 
-*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐276)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-rewind (⭐118)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐121)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
 
@@ -42,8 +42,8 @@
 
 ### serialization
 
-*   [python-geojson (⭐850)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐228)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐890)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐252)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

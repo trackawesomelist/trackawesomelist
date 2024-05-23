@@ -22,7 +22,7 @@
 
 ### Parser / Package managers
 
-*   [iddev5/inon (⭐10)](https://github.com/iddev5/inon) - Data configuration file format.
+*   [iddev5/inon (⭐11)](https://github.com/iddev5/inon) - Data configuration file format.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

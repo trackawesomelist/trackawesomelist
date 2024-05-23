@@ -29,7 +29,7 @@
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐216)](https://github.com/eclipse-corrosion/corrosion)
+    *   [Eclipse Corrosion (⭐217)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Compression
 
-*   [LZ4 (⭐9.2k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐9.3k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ### Game Engine
 

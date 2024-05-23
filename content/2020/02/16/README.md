@@ -74,7 +74,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Marked.cc (⭐42)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
+*   [Marked.cc (⭐43)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ## [12. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

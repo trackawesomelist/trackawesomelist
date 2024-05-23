@@ -82,7 +82,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐827)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐836)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

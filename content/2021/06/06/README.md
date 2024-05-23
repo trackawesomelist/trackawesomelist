@@ -157,7 +157,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐9.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
+*   [Nitter](https://nitter.net) `⚠` - An alternative front end to twitter. ([Source Code (⭐9.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐64)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐65)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ## [15. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

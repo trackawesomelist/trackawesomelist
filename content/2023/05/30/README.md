@@ -62,21 +62,21 @@
 
 ### Network / HTTP
 
-*   [zigzap/zap (⭐1.8k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
+*   [zigzap/zap (⭐1.9k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [andrewrk/SDL (⭐57)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
-*   [andrewrk/ffmpeg (⭐114)](https://github.com/andrewrk/ffmpeg) - library only.
+*   [andrewrk/SDL (⭐60)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+*   [andrewrk/ffmpeg (⭐126)](https://github.com/andrewrk/ffmpeg) - library only.
 *   [andrewrk/libgroove (⭐289)](https://github.com/andrewrk/libgroove) - streaming audio processing library.
-*   [andrewrk/libsoundio (⭐1.8k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
+*   [andrewrk/libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
 *   [kassane/libbpf (⭐2)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
 *   [kassane/winpthreads (⭐9)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 
 ### C/C++ libraries packaged for Zig / C++
 
 *   [andrewrk/libchromaprint (⭐1)](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
-*   [kassane/asio (⭐4)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
+*   [kassane/asio (⭐5)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
 *   [kassane/fmt (⭐0)](https://github.com/kassane/fmt) - Modern formatting library.
 *   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
 *   [kassane/catch2 (⭐0)](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
@@ -111,7 +111,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cmd-time (⭐1)](https://github.com/TomfromBerlin/zsh-cmd-time) - Collects the execution time of commands and exports the result to a variable that can be used elsewhere. It is similar to the built-in [REPORTTIME](http://zsh.sourceforge.net/Doc/Release/Parameters.html) function, but it is also slightly different. Unlike when you set `REPORTTIME`, it considers user and sytem time, not just CPU time.
-*   [coffee-time (⭐1)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
+*   [coffee-time (⭐2)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
 *   [gpt (⭐10)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
 *   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐32)](https://github.com/pndurette/zsh-lux) plugin.
 

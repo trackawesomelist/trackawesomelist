@@ -72,7 +72,7 @@
 
 ### Software / Build and software organization tools
 
-*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐343)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
+*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐348)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
 
 ### Software / Configuration Management Database
 
@@ -85,11 +85,11 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐6.9k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐7.2k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
 
 ### Software / Miscellaneous
 
-*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐707)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐710)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Monitoring
 

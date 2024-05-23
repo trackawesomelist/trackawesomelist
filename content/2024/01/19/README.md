@@ -76,7 +76,7 @@
 
 ### Software / Database Management
 
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐273)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐286)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
 
 ---
 

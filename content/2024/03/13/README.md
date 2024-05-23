@@ -20,13 +20,13 @@
 
 ### Containers
 
-*   [fixed-containers (⭐319)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐326)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [defguard (⭐634)](https://github.com/defguard/defguard) — Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+*   [defguard (⭐677)](https://github.com/defguard/defguard) — Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 
 ### Applications / Emulators
 
@@ -35,11 +35,11 @@
 
 ### Applications / Utilities
 
-*   [str4d/rage (⭐2.3k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.4k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
 
 ### Libraries / Cryptography
 
-*   [sorairolake/abcrypt (⭐7)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] — A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/abcrypt (⭐8)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] — A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -51,7 +51,7 @@
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐87)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐101)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 

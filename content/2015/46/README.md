@@ -224,11 +224,11 @@
 
 ### PHP / Symfony2
 
-*   [API Platform (⭐8k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+*   [API Platform (⭐8.3k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 
 ### Querying / Symfony2
 
-*   [httpie (⭐29k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [httpie (⭐32k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
 ## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -702,7 +702,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐84k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐85k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -714,7 +714,7 @@
 
 ### Machine Learning
 
-*   [Minerva (⭐691)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐693)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
@@ -1467,7 +1467,7 @@ $0.99
 
 ### Caching
 
-*   [Kashmir (⭐267)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
+*   [Kashmir (⭐266)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 
 ### Debugging Tools
 
@@ -1475,7 +1475,7 @@ $0.99
 
 ### IRB
 
-*   [irbtools (⭐911)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [irbtools (⭐917)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 *   [Pry (⭐6.7k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
 ## [49. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)

@@ -54,7 +54,7 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Logging
 

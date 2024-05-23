@@ -30,7 +30,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [tau (⭐215)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
+*   [tau (⭐247)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

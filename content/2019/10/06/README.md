@@ -104,7 +104,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐816)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐823)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

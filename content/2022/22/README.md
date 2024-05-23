@@ -390,7 +390,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐7.9k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐7.9k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
+*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐8k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐8k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 *   [Jami](https://jami.net/) - Free and universal communication platform which preserves the user's privacy and freedoms (formerly GNU Ring). ([Source Code](https://git.jami.net/savoirfairelinux?sort=latest_activity_desc\&filter=jami)) `GPL-3.0` `C++`
 *   [Notifo (⭐704)](https://github.com/notifo-io/notifo) - Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin. `MIT` `C#`
 
@@ -432,8 +432,7 @@
 ### Software / Miscellaneous
 
 *   [Baby Buddy (⭐2k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
-*   [Octave Online](https://octave-online.net/) - Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐308)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
-*   [PassCheck](https://passcheck.anhur.xyz/) - A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. ([Source Code (⭐61)](https://github.com/AtentumZero/PassCheck)) `MIT` `Javascript`
+*   [Octave Online](https://octave-online.net/) - Infrastructure behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐308)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
 *   [string.is](https://string.is/) - An open-source, privacy-friendly online string toolkit for developers. ([Source Code (⭐197)](https://github.com/recurser/string-is)) `AGPL-3.0` `Nodejs`
 
 ### Software / Money, Budgeting & Management
@@ -725,7 +724,7 @@
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐1.2k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.3k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -776,13 +775,13 @@
 
 ### GUI
 
-*   [Azure Data Studio (⭐7.4k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-*   [Sequel Ace (⭐6.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+*   [Azure Data Studio (⭐7.5k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+*   [Sequel Ace (⭐6.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 *   [Query.me](https://query.me) - Collaborative SQL editor in Notebook format. Let's you reference query results using JINJA, visualize data, and schedule runs and exports.
 
 ### CLI
 
-*   [sqlite-utils (⭐1.4k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
+*   [sqlite-utils (⭐1.5k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 
 ### API / Samples
 
@@ -790,23 +789,23 @@
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐30k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐32k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pg\_exporter (⭐141)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [pg\_exporter (⭐153)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Distributions / Zabbix
 
-*   [Pigsty (⭐2.3k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+*   [Pigsty (⭐2.8k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### SQL / Über SQL
 
-*   [Trino (⭐9.2k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+*   [Trino (⭐9.6k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
 ### Machine Learning / Compare
 
-*   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+*   [MindsDB (⭐21k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐5k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -827,7 +826,7 @@
 
 ### Development tools / Web Servers
 
-*   [mask (⭐997)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
+*   [mask (⭐1k)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 
 ### Development tools / Embedded
 
@@ -836,7 +835,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-send (⭐184)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-send (⭐188)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 
 ### Libraries / GUI
 

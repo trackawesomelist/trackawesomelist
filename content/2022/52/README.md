@@ -40,7 +40,7 @@
 
 ### Online
 
-*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2):flower\_playing\_cards: - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
+*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine. :flower\_playing\_cards:
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -99,8 +99,8 @@
 
 ### Simulation / Apache License
 
-*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐84)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
-*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)).
+*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐86)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
+*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐86)](https://github.com/AdaCore/gtkada)).
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐810)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐818)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [22. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -302,7 +302,7 @@
 ### VM-Hardening
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
-*   [Qubes-VM-hardening (⭐69)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
+*   [Qubes-VM-hardening (⭐71)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -387,11 +387,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tab-widgets (⭐4)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.7k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐5)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.8k)](https://github.com/Aloxaf/fzf-tab).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [minimal-terminal (⭐46)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐47)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 *   [softblobby (⭐2)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)

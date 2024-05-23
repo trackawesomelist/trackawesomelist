@@ -18,7 +18,7 @@
 
 ### Rust / Git
 
-*   [rustls (⭐5.3k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐5.6k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

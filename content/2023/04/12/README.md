@@ -31,7 +31,7 @@
 
 ### Developer Tools / Databases
 
-*   [SurrealDB (⭐25k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
+*   [SurrealDB (⭐26k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
 
 ### Design and Product / Design Tools
 
@@ -136,12 +136,12 @@
 
 ### Python / Natural Language Processing
 
-*   [Haystack (⭐13k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
+*   [Haystack (⭐14k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 
 ### Python / General-Purpose Machine Learning
 
 *   [PyBroker (⭐1.6k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
-*   [Frouros (⭐156)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
+*   [Frouros (⭐164)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 
 ### Books / Misc
 

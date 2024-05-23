@@ -34,11 +34,11 @@
 
 ### Racing
 
-*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite):flower\_playing\_cards: - This is a re-implementation of the 1995 PSX game wipEout.
+*   [wipEout Rewrite (⭐2.5k)](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
 
 ### Strategy
 
-*   [KeeperFX (⭐679)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [KeeperFX (⭐694)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
@@ -82,7 +82,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [starfish-vue3-lowcode (⭐0)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
+*   [starfish-vue3-lowcode (⭐1)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 
 ### Components & Libraries / UI Components
 
@@ -94,7 +94,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐81)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐88)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 

@@ -50,7 +50,7 @@
 
 ### Graphical User Interface / Apache License
 
-*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐45)](https://github.com/godunko/adawebpack).
+*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐46)](https://github.com/godunko/adawebpack).
 
 ### Terminal User Interface / Apache License
 
@@ -130,13 +130,13 @@
 
 ### Robotics
 
-*   [Ruckig (⭐587)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐601)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐341)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐345)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

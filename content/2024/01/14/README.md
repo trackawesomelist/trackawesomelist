@@ -16,11 +16,11 @@
 
 ### Applications / Audio and Music
 
-*   [Spotify Player (⭐1.2k)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
+*   [Spotify Player (⭐1.3k)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐5.9k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [ast-grep (⭐6.1k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ### Libraries / Data structures
 

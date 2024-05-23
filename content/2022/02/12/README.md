@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-side-panel (⭐49)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+*   [vue3-side-panel (⭐56)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Core Extensions
 
-*   [Trick Bag (⭐33)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
+*   [Trick Bag (⭐34)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
 ### Image Processing
 

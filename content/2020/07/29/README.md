@@ -16,7 +16,7 @@
 
 ### Serverless / Automation
 
-*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -76,14 +76,14 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorApplicationInsights (⭐169)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [BlazorApplicationInsights (⭐171)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-grid-responsive (⭐30)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
-*   [@geospoc/v-mapbox (⭐180)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [@geospoc/v-mapbox (⭐181)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 
 ### Components & Libraries / UI Utilities

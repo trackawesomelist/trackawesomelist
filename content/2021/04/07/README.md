@@ -47,7 +47,7 @@
 
   Description: Continuous Integration service
 
-  Features: [Source code (⭐31k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
+  Features: [Source code (⭐32k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
 
   Supported repositories: GitHub, GitLab, Gitea, BitBucket, Google Code, Custom
 

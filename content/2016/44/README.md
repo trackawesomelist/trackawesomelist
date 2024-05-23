@@ -24,13 +24,25 @@
 
 *   [redux-ship (⭐615)](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
+*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
+
+### On-Site Training / Testing
+
+*   [Angular Boot Camp](https://angularbootcamp.com)
+
+## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 
-## [5. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Science
 
@@ -38,13 +50,13 @@
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptopals Crypto Challenges](http://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
 
-## [7. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [8. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Modules
 
@@ -78,13 +90,13 @@
 *   [Ubuntu development environment setup (⭐64)](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
 *   [MacOS: New Machine configuration (⭐64)](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
-## [8. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [9. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Demos
 
 *   [choo-leaflet-demo (⭐16)](https://github.com/timwis/choo-leaflet-demo)
 
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -110,7 +122,7 @@
 *   [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
 *   [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
 
-## [10. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [11. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -122,7 +134,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
-## [11. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [12. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Community / Miscellaneous
 
@@ -130,34 +142,18 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/sass)
 *   [@SassCSS on Twitter](https://twitter.com/SassCSS)
 
-## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [13. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Libraries / Graphics
 
 *   [Frege-RayTracer (⭐4)](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
 
-## [13. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [14. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Tools
 
 *   [trireme](https://www.aporeto.com/trireme/)\
     Security by segmentation for Docker and Kubernetes.
-
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Community
-
-*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Deborah Kurata](https://twitter.com/deborahkurata)
-
-### On-Site Training / Testing
-
-*   [Angular Boot Camp](https://angularbootcamp.com)
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -285,7 +281,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Applications
 
-*   [Fractalide (⭐854)](https://github.com/fractalide/fractalide) — Simple microservices
+*   [Fractalide (⭐856)](https://github.com/fractalide/fractalide) — Simple microservices
 
 ## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 

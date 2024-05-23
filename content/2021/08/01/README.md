@@ -62,7 +62,7 @@
 
 ### Debug
 
-*   [DebugViewPP (⭐946)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐957)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

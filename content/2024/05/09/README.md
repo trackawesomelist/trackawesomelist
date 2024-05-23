@@ -99,7 +99,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [vite-plugin-vue-inspector (⭐626)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
+*   [vite-plugin-vue-inspector (⭐634)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 *   [vitest (⭐12k)](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
 ### Components & Libraries / Scaffold
@@ -128,13 +128,13 @@
 *   [angular2-image-gallery (⭐306)](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 *   [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 
-### Mixed utilities / Testing
+### Mixed utilities / Validation
 
 *   [trellisorg platform (⭐69)](https://github.com/trellisorg/platform) - The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use.
 *   [daffodil (⭐151)](https://github.com/graycoreio/daffodil) - Angular Ecommerce PWA Framework.
 *   [ngworker (⭐38)](https://github.com/ngworker/ngworker) - Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing.
 *   [myndpm (⭐54)](https://github.com/myndpm/open-source) - Open Source Angular Libraries contributed by @myndpm.
-*   [jscutlery devkit (⭐225)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
+*   [jscutlery devkit (⭐228)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 
 ### Analytics / Node Based
 

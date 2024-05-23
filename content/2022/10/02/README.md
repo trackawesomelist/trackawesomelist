@@ -10,7 +10,7 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐9.9k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [Ebitengine (⭐10k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 *   [fantasyname (⭐32)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging

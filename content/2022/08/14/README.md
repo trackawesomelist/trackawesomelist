@@ -64,7 +64,7 @@
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐765)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐776)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 

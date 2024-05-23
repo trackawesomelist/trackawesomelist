@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-pure-lightbox (⭐160)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
+*   [vue-pure-lightbox (⭐161)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

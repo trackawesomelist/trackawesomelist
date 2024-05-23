@@ -24,10 +24,6 @@
 
 *   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 
-### Resources / API Specification
-
-*   [AsyncAPI (⭐3.8k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
@@ -42,7 +38,7 @@
 
 ### Software / Miscellaneous
 
-*   [URL-to-PNG (⭐76)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
+*   [URL-to-PNG (⭐99)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
 
 ## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

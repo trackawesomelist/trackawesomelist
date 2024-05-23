@@ -20,7 +20,7 @@
 
 ### Web / Apache License
 
-*   [ews (⭐11)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
+*   [ews (⭐12)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

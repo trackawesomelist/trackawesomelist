@@ -29,7 +29,7 @@
 
 ### Applications / Blockchain
 
-*   [electrumrs (⭐978)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
+*   [electrumrs (⭐983)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
 *   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Cloud

@@ -142,7 +142,7 @@
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐236)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐241)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kyvg/vue3-notification (⭐348)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+*   [@kyvg/vue3-notification (⭐350)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 ### Components & Libraries / UI Utilities
 
@@ -322,7 +322,7 @@
 
 ### Libraries / Text processing
 
-*   [fancy-regex/fancy-regex (⭐387)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
+*   [fancy-regex/fancy-regex (⭐388)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 
 ## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -515,7 +515,7 @@
 
 ### Photo / Image
 
-*   [lightGallery (⭐6.2k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
+*   [lightGallery (⭐6.3k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 
 ## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 

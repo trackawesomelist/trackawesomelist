@@ -22,7 +22,7 @@
 
 ### DevOps Tools
 
-*   [Ruby-LXC (⭐128)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
+*   [Ruby-LXC (⭐131)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 
 ---
 

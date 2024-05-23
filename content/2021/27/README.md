@@ -456,7 +456,7 @@
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐59k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
@@ -483,7 +483,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Intel(R) Extension for Scikit-learn (⭐1.1k)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
+*   [Intel(R) Extension for Scikit-learn (⭐1.2k)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 
 ## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

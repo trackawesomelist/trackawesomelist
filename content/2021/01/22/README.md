@@ -44,16 +44,16 @@
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.9k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.9k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome point cloud analysis :octocat: (⭐4k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome robotics :octocat: (⭐4k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐2.1k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐9k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome artificial intelligence :octocat: (⭐9.7k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome machine learning :octocat: (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.6k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.7k)](https://github.com/aikorea/awesome-rl/#readme)
 *   [Awesome SLAM datasets :octocat: (⭐1.6k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.9k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐161)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐162)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

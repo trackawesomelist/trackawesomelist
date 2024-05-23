@@ -25,10 +25,6 @@
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Community
-
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
-
 ### Books / Testing
 
 *   [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`

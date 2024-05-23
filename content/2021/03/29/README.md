@@ -136,14 +136,17 @@
 
 ## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
+### DOM / Testing
+
+*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+
 ### Misc Components / Node Based
 
 *   [ng-portal (⭐16)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
-*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
 ### HTTP / Node Based
 
-*   [ng-http-caching (⭐42)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐43)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ---
 

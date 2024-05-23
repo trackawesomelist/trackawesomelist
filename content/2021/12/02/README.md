@@ -132,7 +132,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐160)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐164)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

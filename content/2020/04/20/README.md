@@ -94,7 +94,7 @@
 
 ### Profiler and Optimization
 
-*   [stackprof (⭐2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
+*   [stackprof (⭐2.1k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 *   [test-prof (⭐1.8k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
@@ -158,7 +158,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [GORSS - Go RSS Reader (⭐427)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐434)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### universally from / newsletter/mail
 

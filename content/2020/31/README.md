@@ -163,13 +163,13 @@
 
 *   [Fiery Feeds](http://cocoacake.net/apps/fiery/) <sup>[244](https://t.me/s/aboutrss/244), [286](https://t.me/s/aboutrss/286), [630](https://t.me/s/aboutrss/630), [739](https://t.me/s/aboutrss/739)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/de/app/fiery-feeds-rss-reader/id1158763303)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1477373845?ls=1\&mt=12)
 *   [Newsify](https://newsify.co/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsify.co/app)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/newsify-your-news-blog-rss/id510153374?mt=8)
-*   [Kinss for Kindle (⭐44)](https://github.com/xizeyoupan/kinss) <sup>[731](https://t.me/s/aboutrss/731)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xizeyoupan/kinss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Kinss for Kindle (⭐45)](https://github.com/xizeyoupan/kinss) <sup>[731](https://t.me/s/aboutrss/731)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xizeyoupan/kinss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444), [559](https://t.me/s/aboutrss/559), [610](https://t.me/s/aboutrss/610), [640](https://t.me/s/aboutrss/640), [800](https://t.me/s/aboutrss/800), [827](https://t.me/s/aboutrss/827), [831](https://t.me/s/aboutrss/831), [841](https://t.me/s/aboutrss/841), [853](https://t.me/s/aboutrss/853), [1040](https://t.me/s/aboutrss/1040),[1094](https://t.me/s/aboutrss/1094) </sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.tt-rss.org/fox/tt-rss)
     *   [Awesome TTRSS](http://ttrss.henry.wang/) <sup>[211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [371](https://t.me/s/aboutrss/371)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/HenryQW/Awesome-TTRSS)
-    *   [docker-ttrss (⭐54)](https://github.com/x86dev/docker-ttrss) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/x86dev/docker-ttrss)
+    *   [docker-ttrss (⭐53)](https://github.com/x86dev/docker-ttrss) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/x86dev/docker-ttrss)
     *   [tiny Reader RSS](https://www.pluchon.com/en/tiny_reader_rss.php) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/tiny-reader-rss/id689519762?mt=8)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
@@ -201,7 +201,7 @@
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐134)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐146)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -400,7 +400,7 @@
 
 ### Serverless / Automation
 
-*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+*   [imgix](https://www.imgix.com/) - Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 
 ## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -513,12 +513,12 @@
 
 ### 2D/3D Rendering engines / API
 
-*   [Blazor.Canvas (⭐205)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐207)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
 *   [bUnit - a testing library for Blazor components (⭐1.1k)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [BlazorApplicationInsights (⭐169)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [BlazorApplicationInsights (⭐171)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -784,7 +784,7 @@
 
 *   [vue-grid-responsive (⭐30)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
 *   [vue-splash (⭐129)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-*   [@geospoc/v-mapbox (⭐180)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [@geospoc/v-mapbox (⭐181)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 *   [ckeditor4-vue (⭐74)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 *   [vue-scratchable (⭐53)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.

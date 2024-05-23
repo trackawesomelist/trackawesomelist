@@ -196,8 +196,8 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [MemProcFS (⭐2.4k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐39)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐2.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐42)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
 ### Qubes OS Legends / Web articles
 

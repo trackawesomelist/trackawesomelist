@@ -57,7 +57,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Magentic (⭐1.7k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐25k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Autogen (⭐26k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [Flappy (⭐304)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
 
 ### Complement to this list / Videos Playlists
@@ -136,7 +136,7 @@
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐197)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
+*   [ethercrab (⭐204)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
 
 ## [11. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -186,7 +186,7 @@
 
 ### Concurrency
 
-*   [Channel (⭐281)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
+*   [Channel (⭐291)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
 *   [Taskflow (⭐9.6k)](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) \[MIT]
 
 ### Database
@@ -196,12 +196,12 @@
 
 ### Debug
 
-*   [CppBenchmark (⭐257)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
+*   [CppBenchmark (⭐258)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
 
 ### JSON
 
-*   [DAW JSON Link (⭐426)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
-*   [Jsonifier (⭐28)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
+*   [DAW JSON Link (⭐431)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
+*   [Jsonifier (⭐31)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
 
 ### Networking
 
@@ -209,7 +209,7 @@
 
 ### Miscellaneous
 
-*   [libenvpp (⭐118)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
+*   [libenvpp (⭐120)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 *   [StringZilla (⭐1.8k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
 ## [18. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -230,11 +230,11 @@
 
 ### HTML/XML Parsing
 
-*   [Nokolexbor (⭐151)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
+*   [Nokolexbor (⭐156)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 
 ### Scheduling
 
-*   [ruby-clock (⭐76)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
+*   [ruby-clock (⭐78)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
 ## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -256,7 +256,7 @@
 
 ### Generators
 
-*   [oapi-codegen (⭐5.2k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+*   [oapi-codegen (⭐5.3k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 
 ### Goroutines
 
@@ -326,7 +326,7 @@
 
 ### Applications / Blockchain
 
-*   [Sui (⭐5.7k)](https://github.com/MystenLabs/sui) — A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+*   [Sui (⭐5.8k)](https://github.com/MystenLabs/sui) — A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 
 ### Applications / Database
 
@@ -334,22 +334,22 @@
 
 ### Applications / Graphics
 
-*   [dps/rust-raytracer (⭐226)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
-*   [KaminariOS/rustracer (⭐63)](https://github.com/KaminariOS/rustracer) — A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
+*   [dps/rust-raytracer (⭐229)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
+*   [KaminariOS/rustracer (⭐64)](https://github.com/KaminariOS/rustracer) — A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
 *   [rodrigorc/papercraft (⭐104)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
 
 ### Applications / System tools
 
-*   [mdgaziur/findex (⭐536)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
+*   [mdgaziur/findex (⭐538)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
 *   [pkolaczk/fclones (⭐1.7k)](https://github.com/pkolaczk/fclones) — Efficient duplicate file finder and remover
 
 ### Applications / Utilities
 
-*   [wrestic (⭐69)](https://github.com/alvaro17f/wrestic) —  👽 A wrapper around restic.
+*   [wrestic (⭐74)](https://github.com/alvaro17f/wrestic) —  👽 A wrapper around restic.
 
 ### Applications / Video
 
-*   [gyroflow/gyroflow (⭐6.1k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
+*   [gyroflow/gyroflow (⭐6.2k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
 
 ### Libraries / Automotive
 
@@ -662,7 +662,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [history-sync (vitobotta) (⭐17)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
-*   [history-sync (wulfgarpro) (⭐230)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
+*   [history-sync (wulfgarpro) (⭐231)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 
 ## [35. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -674,7 +674,7 @@
 
 ### IDE
 
-*   [Querybook (⭐1.6k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
+*   [Querybook (⭐1.8k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
 ## [37. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

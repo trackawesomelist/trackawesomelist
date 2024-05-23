@@ -25,7 +25,7 @@
 
 ### operations
 
-*   [de9im (⭐24)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+*   [de9im (⭐25)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 
 ## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -54,17 +54,17 @@
 
 ### CLI
 
-*   [SQLLine (⭐598)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐607)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
-*   [BaRMan (⭐1.8k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐2.1k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐1.9k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [pgbackrest (⭐2.2k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐625)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐793)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐650)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐881)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -70,7 +70,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Shapash (⭐2.6k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐200)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Eurybia (⭐203)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 *   [Colossal-AI (⭐38k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)

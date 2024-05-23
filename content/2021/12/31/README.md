@@ -59,7 +59,7 @@
 
 ### Concurrency
 
-*   [rotor (⭐327)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐334)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -76,8 +76,8 @@
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.5k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.2k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐4.6k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.3k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐649)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐654)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [15. Public Apis](/content/public-apis/public-apis/README.md)
 

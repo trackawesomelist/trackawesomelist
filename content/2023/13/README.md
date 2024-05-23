@@ -14,7 +14,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐35)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐37)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 
@@ -67,7 +67,7 @@
 
 ### Infinite Scroll
 
-*   [virtua (⭐955)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
+*   [virtua (⭐979)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -177,10 +177,6 @@
 
 *   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.2k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 
-### Software / Manufacturing
-
-*   [VanDAM (⭐512)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
-
 ### Software / Self-hosting Solutions
 
 *   [Mistborn](https://gitlab.com/cyber5k/mistborn) - Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services. `MIT` `Shell/Docker`
@@ -195,11 +191,11 @@
 
 ### Software / Identity Management - LDAP
 
-*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐188)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
-*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐135)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐194)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐137)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐2k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
-*   [lldap (⭐3.5k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [lldap (⭐3.6k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 *   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
 
 ## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
@@ -307,9 +303,9 @@
 
 *   [doxygen (⭐5.4k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
 *   [doxyrest (⭐305)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐284)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
-*   [Natural Docs (⭐187)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
-*   [Sphinx (⭐6k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
+*   [hdoc (⭐290)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐189)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
+*   [Sphinx (⭐6.1k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ### Websites
 
@@ -321,20 +317,20 @@
 
 ### Applications / Blockchain
 
-*   [madara (⭐490)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
+*   [madara (⭐507)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
 
 ### Applications / System tools
 
 *   [nushell/nushell (⭐30k)](https://github.com/nushell/nushell) - A new type of shell
-*   [supercilex/fuc (⭐303)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [supercilex/fuc (⭐306)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐389)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐398)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ### Libraries / Video
 
-*   [ffmpeg-sidecar (⭐185)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐188)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ## [35. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 

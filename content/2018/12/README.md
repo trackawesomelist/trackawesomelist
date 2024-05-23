@@ -266,7 +266,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐188)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐191)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -547,7 +547,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐123)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐125)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -648,7 +648,7 @@ git rebase --onto <new_base> <old_base>
 
 ### CMS
 
-*   [Fae (⭐839)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐842)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

@@ -86,23 +86,23 @@
 
 ### operations
 
-*   [geojson-indoor-tools (⭐3)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
+*   [geojson-indoor-tools (⭐6)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
 ## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Racing
 
-*   [Vange-rs (⭐405)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+*   [Vange-rs (⭐409)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ### Strategy
 
-*   [VanillaConquer (⭐316)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
+*   [VanillaConquer (⭐324)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [yet-another-react-lightbox (⭐687)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+*   [yet-another-react-lightbox (⭐702)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
 ## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

@@ -1,77 +1,67 @@
 # Awesome List Updates on Oct 07, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / Angular Team
-
-*   [Alan Agius](https://twitter.com/AlanAgius4)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Santosh Yadav](https://twitter.com/SantoshYadavDev)
-
-## [2. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [1. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Competitions / Advanced
 
 *   [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
 
-## [3. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [2. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Provisioning
 
 *   [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning) - official doc.
 
-## [4. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [3. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### Libraries / Swift
 
 *   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards aggregators
 
 *   [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
 
-## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [5. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / E-commerce
 
 *   [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Security
 
 *   [secrets.clj (⭐87)](https://github.com/lk-geimfari/secrets.clj)
 
-## [8. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [7. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Volunteering
 
 *   [World Cleanup Day](https://www.worldcleanupday.org/) - World Cleanup Day is a civic movement, uniting 180 countries and millions of people across the world to clean up the planet. In one day. Volunteers and partners worldwide come together to rid our planet of trash – cleaning up litter and mismanaged waste from our beaches, rivers, forests, and streets.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Useful Links
 
 *   💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 
-## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Caching
 
 *   [django-cachalot (⭐1.2k)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 *   [django-cacheops (⭐2k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -81,19 +71,19 @@
 
 *   [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1529006487)
 
-## [12. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 
 *   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
 
-## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### UI
 
 *   [YALG (⭐10)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Resources
 
@@ -107,31 +97,31 @@
 
 *   [seniorjoinu/reliable-udp (⭐30)](https://github.com/seniorjoinu/reliable-udp) - Multiplexed, coroutine-powered reliable UDP for Kotlin using fountain codes
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CDN and Protection
 
 *   [Skypack](https://www.skypack.dev/) — The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain per month.
 
-## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 
-## [17. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [16. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### High-Level Frameworks / Multi-accounts setup
 
 *   [cdk-stepfunctions-patterns (⭐46)](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 
-## [18. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [17. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Copybara Action (⭐69)](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
-## [19. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / USENIX Security
 
@@ -146,7 +136,7 @@
 *   [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/lee-suyoung)
 *   [GREYONE: Data Flow Sensitive Fuzzing, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/gan)
 
-## [20. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [19. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Online Books
 
@@ -166,7 +156,7 @@
 
 ### Runtimes / Apache License
 
-*   [adawebpack (⭐45)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
+*   [adawebpack (⭐46)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
 
 ### Terminal User Interface / Apache License
 
@@ -182,7 +172,7 @@
 
 ### Generation / Apache License
 
-*   [record-flux (⭐100)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐101)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / Apache License
 
@@ -192,7 +182,7 @@
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
 *   [ada-crypto-library (⭐86)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐106)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [spark-nacl (⭐108)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐8)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐2)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -202,7 +192,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [libadalang (⭐143)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐144)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Networking and Communication Middleware / Apache License
 
@@ -260,7 +250,7 @@
 
 ### Windows and .NET / Apache License
 
-*   [win32ada (⭐16)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+*   [win32ada (⭐17)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 *   [ada-winrt (⭐12)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐3)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.

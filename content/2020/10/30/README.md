@@ -10,45 +10,45 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐904)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐906)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐484)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.5k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐398)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐679)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐506)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐423)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐758)](https://github.com/rsteca/sklearn-deap)
+*   [scikit-rebate (⭐400)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐678)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐507)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐425)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐762)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐5.9k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-opt (⭐5k)](https://github.com/guofei9987/scikit-opt)
 *   [scikit-posthocs (⭐323)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐665)](https://github.com/pystruct/pystruct)
+*   [pystruct (⭐664)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐3.9k)](https://github.com/rapidsai/cuml)
+*   [cuML (⭐4k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐4.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐4.8k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.8k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.6k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐13k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐394)](https://github.com/christophM/rulefit)
+*   [RuleFit (⭐399)](https://github.com/christophM/rulefit)
 *   [pyGAM (⭐838)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐78k)](https://github.com/pytorch/pytorch)
-*   [torchvision (⭐15k)](https://github.com/pytorch/vision)
+*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch)
+*   [torchvision (⭐16k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.4k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.4k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.5k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.6k)](https://github.com/pytorch/tnt)
-*   [PyVarInf (⭐355)](https://github.com/ctallec/pyvarinf)
+*   [PyVarInf (⭐356)](https://github.com/ctallec/pyvarinf)
 *   [GPyTorch (⭐3.4k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐182k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
@@ -70,7 +70,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐488)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐522)](https://github.com/google/qkeras)
+*   [qkeras (⭐525)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -202,7 +202,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐808)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐820)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
 
 ---
 

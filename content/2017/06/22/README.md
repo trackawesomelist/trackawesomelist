@@ -50,7 +50,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐545)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

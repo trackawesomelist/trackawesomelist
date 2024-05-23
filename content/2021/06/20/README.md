@@ -10,17 +10,17 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [DSP on STM32F407G-DISC1 (⭐26)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
+*   [DSP on STM32F407G-DISC1 (⭐27)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.2k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.3k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
-*   [ka-table (⭐677)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐691)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

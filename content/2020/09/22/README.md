@@ -85,7 +85,7 @@
 
 ### Schema / Changes
 
-*   [Prisma Migrate (⭐767)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
+*   [Prisma Migrate (⭐766)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

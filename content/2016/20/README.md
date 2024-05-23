@@ -136,7 +136,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐686)](https://github.com/llogiq/flame) —
+    *   [llogiq/flame (⭐687)](https://github.com/llogiq/flame) —
     *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation

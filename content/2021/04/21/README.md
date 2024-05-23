@@ -72,13 +72,13 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Visualizer (⭐211)](https://github.com/skn0tt/prisma-erd)
-*   [prisma-uml (⭐111)](https://github.com/emyann/prisma-uml)
-*   [DBML Generator (⭐607)](https://github.com/notiz-dev/prisma-dbml-generator)
+*   [Prisma ERD Visualizer (⭐248)](https://github.com/skn0tt/prisma-erd)
+*   [prisma-uml (⭐113)](https://github.com/emyann/prisma-uml)
+*   [DBML Generator (⭐639)](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Calendso (⭐27k)](https://github.com/calendso/calendso)
+*   [Calendso (⭐29k)](https://github.com/calendso/calendso)
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

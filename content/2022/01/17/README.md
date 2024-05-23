@@ -67,7 +67,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐323)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐325)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

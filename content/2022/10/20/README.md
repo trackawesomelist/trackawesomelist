@@ -30,7 +30,7 @@ Installs: 10000 | Stars: 3457 | Last update: n/a
 
 ### Specialty Topics / Hair
 
-*   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity. \[[Source (⭐36)](https://github.com/zadvorsky/three-fuzzy-mesh)]
+*   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity. \[[Source (⭐37)](https://github.com/zadvorsky/three-fuzzy-mesh)]
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 

@@ -80,7 +80,7 @@
 ### Responsive / Syntax Highlight
 
 *   [ant-design (⭐90k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
-*   [ChatUI (⭐2.4k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+*   [ChatUI (⭐2.5k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
 *   [fluentui (⭐18k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 *   [geist-ui (⭐4.2k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 *   [grommet (⭐8.3k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
@@ -88,9 +88,9 @@
 *   [orbit (⭐1.4k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐7.6k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-*   [semi-design (⭐7.9k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐910)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [reakit (⭐7.7k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [semi-design (⭐8k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+*   [shineout (⭐911)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐17k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐18k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

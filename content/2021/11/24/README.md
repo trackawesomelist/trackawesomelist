@@ -27,7 +27,7 @@
 
 ### CMS
 
-*   [Umbraco9 & Blazor WASM Starter Site (⭐38)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+*   [Umbraco9 & Blazor WASM Starter Site (⭐39)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

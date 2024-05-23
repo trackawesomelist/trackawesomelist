@@ -75,7 +75,7 @@
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐117)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐17k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐117)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐18k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 

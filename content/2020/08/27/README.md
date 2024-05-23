@@ -66,7 +66,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐826)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐830)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -91,7 +91,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schematics to add Prisma support to a NestJS application (⭐22)](https://github.com/marcjulian/nestjs-prisma)
+*   [Schematics to add Prisma support to a NestJS application (⭐21)](https://github.com/marcjulian/nestjs-prisma)
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

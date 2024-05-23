@@ -316,7 +316,7 @@ git show <branch_name>:<file_name>
 
 ### Machine Learning
 
-*   [Fido (⭐426)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐427)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -425,7 +425,7 @@ git show <branch_name>:<file_name>
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 

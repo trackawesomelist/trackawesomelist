@@ -57,10 +57,6 @@
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
-### Misc
-
-*   [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
-
 ### Visual programming
 
 *   [Convertigo](https://www.convertigo.com/) - An Enterprise open source LowCode Platform to build Web & mobile apps
@@ -120,7 +116,7 @@
 
 ### Build and Package / Apache License
 
-*   [alr2appimage (⭐9)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
+*   [alr2appimage (⭐10)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 
 ## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -219,11 +215,11 @@
 
 ### Applications
 
-*   [defguard (⭐634)](https://github.com/defguard/defguard) — Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+*   [defguard (⭐677)](https://github.com/defguard/defguard) — Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 
 ### Applications / Database
 
-*   [FnckSQL (⭐492)](https://github.com/KipData/FnckSQL) — SQL as a Function for Rust
+*   [FnckSQL (⭐503)](https://github.com/KipData/FnckSQL) — SQL as a Function for Rust
 
 ### Applications / Emulators
 
@@ -232,16 +228,16 @@
 
 ### Applications / System tools
 
-*   [netscanner (⭐664)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+*   [netscanner (⭐695)](https://github.com/Chleba/netscanner) - TUI Network Scanner
 
 ### Applications / Utilities
 
-*   [sorairolake/qrtool (⭐24)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-*   [str4d/rage (⭐2.3k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
+*   [sorairolake/qrtool (⭐25)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [str4d/rage (⭐2.4k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
 
 ### Libraries / Cryptography
 
-*   [sorairolake/abcrypt (⭐7)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] — A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/abcrypt (⭐8)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] — A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 
 ## [26. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -257,6 +253,10 @@
 
 ## [28. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
+### Platforms / Citizen Automation and Development Platform
+
+*   [FormNX](https://formnx.com) - A no-code platform that helps to create forms without coding for free. It also provides integration options with webhook, Mailchimp, and you can embed forms in your websites or web applications easily without any coding.
+
 ### Platforms / Low Code Application Platform
 
 *   \[Tabidoo (<https://tabidoo.cloud/>) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
@@ -269,7 +269,7 @@
 
 ### Projects / Messaging
 
-*   [Apache Kafka (⭐27k) (⭐27k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
+*   [Apache Kafka (⭐27k) (⭐28k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
 *   [EMQX (⭐13k) (⭐13k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
 
 ## [30. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
@@ -443,12 +443,12 @@
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐87)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐101)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 
 ### Utility / Diagnostics
 
 *   [Mr-LLLLL/utilities.nvim (⭐7)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
-*   [mcauley-penney/visual-whitespace.nvim (⭐46)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [mcauley-penney/visual-whitespace.nvim (⭐58)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 *   [Zeioth/distroupdate.nvim (⭐6)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ### Code Runner / Diagnostics
@@ -535,11 +535,11 @@
 
 ### Containers
 
-*   [fixed-containers (⭐319)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐326)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ### Networking
 
-*   [mailio (⭐341)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
+*   [mailio (⭐348)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
 
 ## [52. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -567,7 +567,7 @@
 
 ### Software / Configuration Management
 
-*   [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code (⭐495)](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
+*   [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code (⭐499)](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
 
 ### Software / Mail Clients
 

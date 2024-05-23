@@ -129,9 +129,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐219)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐220)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 *   [vue-virtual-tree (⭐62)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
-*   [vue3-tabs-chrome (⭐94)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐95)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -741,14 +741,17 @@
 
 ## [65. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
+### DOM / Testing
+
+*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+
 ### Misc Components / Node Based
 
 *   [ng-portal (⭐16)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
-*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
 ### HTTP / Node Based
 
-*   [ng-http-caching (⭐42)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐43)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ---
 

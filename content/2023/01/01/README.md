@@ -40,7 +40,7 @@
 
 ### Online
 
-*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2):flower\_playing\_cards: - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
+*   [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine. :flower\_playing\_cards:
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

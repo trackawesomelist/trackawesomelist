@@ -38,7 +38,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schemix - Generate Prisma Schemas with TypeScript (⭐464)](https://github.com/ridafkih/schemix)
+*   [Schemix - Generate Prisma Schemas with TypeScript (⭐473)](https://github.com/ridafkih/schemix)
 
 ---
 

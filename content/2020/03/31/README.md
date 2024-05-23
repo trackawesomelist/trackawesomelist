@@ -98,7 +98,7 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐219)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐222)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
 ### Simulation / Apache License
 

@@ -57,7 +57,7 @@
 
 *   [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code (⭐3.7k)](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
 *   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐12k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
-*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐269)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
+*   [CoreShop](https://www.coreshop.org) - CoreShop is an e-commerce plugin for Pimcore. ([Source Code (⭐269)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 *   [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
 *   [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code (⭐3k)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
 *   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐7.3k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`

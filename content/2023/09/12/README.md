@@ -16,7 +16,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐380)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐389)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -97,11 +97,11 @@
 
 ### Python / Natural Language Processing
 
-*   [CometLLM (⭐437)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+*   [CometLLM (⭐456)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 
 ### Python / General-Purpose Machine Learning
 
-*   [CometML (⭐134)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+*   [CometML (⭐138)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
 ---
 

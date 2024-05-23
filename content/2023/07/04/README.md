@@ -75,7 +75,7 @@
 
 ### Software / Service Discovery
 
-*   [etcd](https://etcd.io/) - Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code (⭐46k)](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
+*   [etcd](https://etcd.io/) - Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code (⭐47k)](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
 
 ### Software / Software Containers
 

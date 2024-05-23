@@ -58,7 +58,7 @@
 
 ### Compilers and interpreters
 
-*   [dantecatalfamo/mruby-zig (⭐32)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
+*   [dantecatalfamo/mruby-zig (⭐33)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐26)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
 ## [5. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)

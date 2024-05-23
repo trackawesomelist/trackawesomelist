@@ -34,7 +34,7 @@
     *   [GitHub repository :octocat: (⭐1.7k)](https://github.com/foxglove/studio)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
-    *   [GitHub repository :octocat: (⭐4.4k)](https://github.com/cnr-isti-vclab/meshlab)
+    *   [GitHub repository :octocat: (⭐4.5k)](https://github.com/cnr-isti-vclab/meshlab)
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

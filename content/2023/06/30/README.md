@@ -26,7 +26,7 @@
 
 ### Libraries / Finance
 
-*   [avhz/RustQuant (⭐862)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐876)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

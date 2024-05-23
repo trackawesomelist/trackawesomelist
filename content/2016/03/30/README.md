@@ -16,7 +16,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

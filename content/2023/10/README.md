@@ -16,7 +16,7 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐464)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐475)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Graphical User Interface / Apache License
 
-*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐45)](https://github.com/godunko/adawebpack).
+*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐46)](https://github.com/godunko/adawebpack).
 
 ### Terminal User Interface / Apache License
 
@@ -184,7 +184,7 @@
 
 ### Robotics
 
-*   [Ruckig (⭐587)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐601)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
 ## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -337,11 +337,11 @@
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐341)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐345)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐29)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐30)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [26. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -397,7 +397,7 @@
 
 ### AI Tools for Searching / Multi-agents
 
-*   [whitead/paper-qa (⭐3.6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3.7k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
@@ -462,7 +462,7 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐59)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐60)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
 
 ### Peripheral Access Crates / Renesas
 
@@ -638,9 +638,9 @@
 ### How-to guides
 
 *   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
-*   [How to use Qubes for journalists and Humans Rights Defenders (⭐10)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
-    *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
-    *   [Automated Arkenfox Qubes browser install (⭐10)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
+*   [How to use Qubes for journalists and Humans Rights Defenders (⭐12)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+    *   [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
+    *   [Automated Arkenfox Qubes browser install (⭐12)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 
 ## [49. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 

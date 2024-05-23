@@ -62,7 +62,7 @@
 
 ### Java / Deep Learning
 
-*   [deepjavalibrary/djl (⭐3.8k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
+*   [deepjavalibrary/djl (⭐3.9k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -410,7 +410,7 @@
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐200)](https://github.com/wyhaya/see) — Static HTTP file server
+*   [wyhaya/see (⭐201)](https://github.com/wyhaya/see) — Static HTTP file server
 
 ### Libraries / Logging
 
@@ -418,7 +418,7 @@
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐43k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐44k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [26. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -792,7 +792,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Marked.cc (⭐42)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
+*   [Marked.cc (⭐43)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ### Components & Libraries / Utilities
 
@@ -820,7 +820,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Photo / Image
 
-*   [react-particle-image (⭐450)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐453)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ### Miscellaneous
 

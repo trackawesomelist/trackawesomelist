@@ -16,7 +16,7 @@
 
 ### Debug
 
-*   [libassert (⭐458)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
+*   [libassert (⭐465)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Ice (⭐982)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Ice (⭐1.1k)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -120,12 +120,12 @@
 
 ### Libraries / F#
 
-*   📚 [Awesome F# (⭐1.1k)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
+*   📚 [Awesome F# (⭐1.2k)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
 *   🌎 [F#](https://fsharp.org) - Functional-first language for .NET, prioritizing expressive code and parallelism.
 *   F#: Audio
-    *   🔒 [FSound (⭐49)](https://github.com/albertp007/FSound) - Sound processing library.
+    *   🔒 [FSound (⭐48)](https://github.com/albertp007/FSound) - Sound processing library.
 *   F#: Entity Component System
-    *   🎉 [Garnet (⭐157)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+    *   🎉 [Garnet (⭐159)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
 *   F#: Game Engine w/Editor
     *   🎉 [Nu Game Engine (⭐1k)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 *   F#: Gui
@@ -149,7 +149,7 @@
 
 ### OS-specific / Diagnostics
 
-*   [m15a/flake-awesome-neovim-plugins (⭐36)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
+*   [m15a/flake-awesome-neovim-plugins (⭐41)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 
 ---
 

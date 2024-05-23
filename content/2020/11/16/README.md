@@ -62,7 +62,7 @@
 
 ### Games
 
-*   [AsteroidsWasm (⭐146)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐146)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 8 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin, MAUI. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

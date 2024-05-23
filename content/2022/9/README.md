@@ -267,7 +267,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-json-viewer (⭐540)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+*   [vue-json-viewer (⭐542)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
 
 ### Components & Libraries / Utilities
 
@@ -319,7 +319,7 @@
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐961)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐981)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ### Libraries / GUI
 
@@ -707,7 +707,7 @@
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
 *   Uses [Antigen (⭐7.9k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐268)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐269)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -852,7 +852,7 @@
 
 ### Projects
 
-*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐77k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐78k)](https://github.com/tauri-apps/tauri).
 *   [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
 
 ### Crates / Component Libraries

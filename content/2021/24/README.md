@@ -10,17 +10,17 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [DSP on STM32F407G-DISC1 (⭐26)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
+*   [DSP on STM32F407G-DISC1 (⭐27)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.2k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.3k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
-*   [ka-table (⭐677)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐691)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -63,16 +63,16 @@
 
 *   [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 *   [cryptico (⭐1.2k)](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for JavaScript.
-*   [cryptojs (⭐320)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
-*   [forge (⭐4.9k)](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
+*   [cryptojs (⭐323)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
+*   [forge (⭐5k)](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
 *   [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.
 *   [js-nacl (⭐491)](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
-*   [jsencrypt (⭐6.5k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-*   [JShashes (⭐708)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+*   [jsencrypt (⭐6.6k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+*   [JShashes (⭐718)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 *   [jsThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-*   [milagro-crypto-js (⭐16)](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
+*   [milagro-crypto-js (⭐17)](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
 *   [node.bcrypt.js (⭐7.3k)](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
-*   [sjcl (⭐7.1k)](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
+*   [sjcl (⭐7.2k)](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
 
 ### Objective-C / Git
 
@@ -81,7 +81,7 @@
 ### Swift / Git
 
 *   [OpenSSL (⭐39)](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
-*   [Swift-Sodium (⭐505)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+*   [Swift-Sodium (⭐508)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 *   [SwiftThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
@@ -133,7 +133,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐4.6k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐4.7k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -701,7 +701,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐40)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐42)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [49. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 

@@ -21,11 +21,11 @@
 ### API Builder and Discovery
 
 *   [Version Cake (⭐654)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐970)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [versionist (⭐972)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
-*   [acl9 (⭐855)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
+*   [acl9 (⭐854)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 
 ### Data Visualization
 
@@ -46,7 +46,7 @@
 
 ### Geolocation
 
-*   [geoip (⭐710)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
+*   [geoip (⭐711)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
 *   [Google Maps for Rails (⭐2.3k)](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
 
 ### Internationalization

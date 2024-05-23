@@ -746,7 +746,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐31)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐32)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -773,7 +773,7 @@
 ### Applications / System tools
 
 *   [mmstick/concurr (⭐103)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐275)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/fontfinder (⭐276)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -784,7 +784,7 @@
 
 ### Build Systems
 
-*   [clib (⭐4.7k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
+*   [clib (⭐4.8k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
 ## [38. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 

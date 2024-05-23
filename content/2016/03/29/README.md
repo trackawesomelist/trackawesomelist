@@ -57,7 +57,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐378)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐379)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

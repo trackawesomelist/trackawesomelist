@@ -6,11 +6,11 @@
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
-### Cryptography
+### Encryption
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
+*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

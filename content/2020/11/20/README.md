@@ -11,19 +11,7 @@
 ### Learning / Books
 
 *   [Communicating Pictures](https://www.elsevier.com/books/communicating-pictures/bull/978-0-12-405906-1)  - 2014-06-20 (1st Edition). Bull, David.
-*   [Data Broadcasting: Understanding the ATSC Data Broadcast Standard](https://www.amazon.com/dp/0071375902/)  - 2001-04-16 (1st Edition). Chernock, Richard; Crinon, Regis; Mick, John.
-*   [Digital Television: MPEG-1, MPEG-2 and Principles of the DVB System](https://www.amazon.com/dp/0340691905/)  - 1997-07-11. Benoit, Herve.
-*   [Digital Television: Technology and Standards](https://www.amazon.com/dp/0470147830/)  - 2007-09-17. Arnold, John; Frater, Michael; Pickering, Mark.
-*   [Digital Video and HD: Algorithms and Interfaces](https://www.amazon.com/dp/0123919266/)  - 2012-02-07 (2nd Edition). Poynton, Charles.
-*   [High Efficiency Video Coding (HEVC): Algorithms and Architectures (Integrated Circuits and Systems)](https://www.amazon.com/gp/product/3319068946/)  - 2014-09-03. Budagavi, Madhukar; Sze, Vivienne; Sullivan, Gary.
-*   [High Efficiency Video Coding: Coding Tools and Specification (Signals and Communication Technology)](https://www.amazon.com/gp/product/3662442752/)  - 2014-10-08. Wien, Mathias.
-*   [Introduction to Digital Audio Coding and Standards](https://www.amazon.com/dp/1402073577/)  - 2002-12-31. Bosi, Marina; Goldberg, Richard.
-*   [Producing Streaming Video for Multiple Screen Delivery](https://www.amazon.com/gp/product/0976259540/)  - 2013-04-01. Ozer, Jan.
-*   [The MPEG Handbook](https://www.amazon.com/dp/024080578X/)  - 2004-11-15 (2nd Edition). Watkinson, John.
-*   [The MPEG-4 Book](https://www.amazon.com/MPEG-4-Book-Fernando-Pereira/dp/0130616214/)  - 2002-07-20. Ebrahimi, Touradj; Pereira, Fernando.
-*   [Transporting Compressed Digital Video](https://www.amazon.com/dp/140207011X/)  - 2002-03-31. Chen, Xuemin.
 *   [Video Compression Handbook](https://www.amazon.com/dp/0134866215/)  - 2018-07-03 (2nd Edition). Beach, Andy; Owen, Aaron.
-*   [Video Encoding by the Numbers: Eliminate the Guesswork from your Streaming Video](https://www.amazon.com/Video-Encoding-Numbers-Eliminate-Guesswork/dp/0998453005/)  - 2016-12-28. Ozer, Jan.
 
 ## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

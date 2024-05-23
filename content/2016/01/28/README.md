@@ -78,7 +78,7 @@
 
 ### serialization
 
-*   [rgeo-geojson (⭐181)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐182)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

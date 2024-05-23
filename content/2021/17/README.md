@@ -16,7 +16,7 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐174)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐175)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐394)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading online collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐394)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -545,7 +545,7 @@
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐115)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐125)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 

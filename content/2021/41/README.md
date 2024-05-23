@@ -228,12 +228,12 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐305)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐311)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐2.8k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐2.9k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [24. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -278,13 +278,13 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2.4k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.5k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐15)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐16)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -328,11 +328,11 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐37)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐38)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐14)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐15)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
@@ -498,7 +498,7 @@
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐502)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐511)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -550,7 +550,7 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐307)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐307)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐310)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐310)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 
@@ -683,7 +683,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐437)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐447)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [64. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [fluent-vue (⭐234)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+*   [fluent-vue (⭐235)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

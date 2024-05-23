@@ -86,20 +86,20 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐367)](https://github.com/rsaarelm/magog) — A roguelike game.
+*   [rsaarelm/magog (⭐366)](https://github.com/rsaarelm/magog) — A roguelike game.
 *   [Thinkofname/rust-quake (⭐69)](https://github.com/Thinkofname/rust-quake) — Quake map renderer.
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐454)](https://github.com/locka99/opcua) — A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐458)](https://github.com/locka99/opcua) — A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐204)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐205)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐118)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐119)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -124,12 +124,12 @@
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐363)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library.
+*   [autopilot-rs/autopilot-rs (⭐365)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐334)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
+    *   [mattgathu/cute (⭐335)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
 
 ## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐208)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐207)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

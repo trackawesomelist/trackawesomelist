@@ -39,7 +39,7 @@
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Coisas (⭐316)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐325)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -58,7 +58,7 @@
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐991)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐998)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 
@@ -490,20 +490,20 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐367)](https://github.com/rsaarelm/magog) — A roguelike game.
+*   [rsaarelm/magog (⭐366)](https://github.com/rsaarelm/magog) — A roguelike game.
 *   [Thinkofname/rust-quake (⭐69)](https://github.com/Thinkofname/rust-quake) — Quake map renderer.
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐454)](https://github.com/locka99/opcua) — A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐458)](https://github.com/locka99/opcua) — A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐204)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐205)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐118)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐119)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -528,12 +528,12 @@
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐363)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library.
+*   [autopilot-rs/autopilot-rs (⭐365)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐334)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
+    *   [mattgathu/cute (⭐335)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
 
 ## [41. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -552,7 +552,7 @@
 ### Rust / Git
 
 *   [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
-*   [recrypt (⭐140)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐141)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 
@@ -570,7 +570,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐208)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐207)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 

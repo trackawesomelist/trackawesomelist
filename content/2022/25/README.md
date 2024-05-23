@@ -10,7 +10,7 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐59)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
 *   [ducdetronquito/requestz (⭐114)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/week/README.md)
@@ -260,8 +260,8 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐34)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
-*   [react-ts-typewriter (⭐34)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
+*   [react-animatable (⭐37)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-ts-typewriter (⭐35)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 
 ## [29. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### RPG
 
-*   [OpenNox (⭐406)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
+*   [OpenNox (⭐415)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 
 ## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -449,24 +449,24 @@
 
 ### Applications / Security tools
 
-*   [Inspektor (⭐278)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
+*   [Inspektor (⭐279)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐412)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐415)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐679)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
+    *   [deltaphc/raylib-rs (⭐689)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐208)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
+*   [rbatis/fast\_log (⭐211)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
-*   [bytecodealliance/wasmtime (⭐14k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
+*   [bytecodealliance/wasmtime (⭐15k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
 
 ## [49. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -480,7 +480,7 @@
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazor.Sidepanel (⭐39)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+*   [Blazor.Sidepanel (⭐40)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
 ### Videos / Others
 

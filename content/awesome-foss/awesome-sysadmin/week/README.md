@@ -22,7 +22,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.6k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐215)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐247)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
@@ -222,7 +222,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / VPN
 
 *   [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
-*   [tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 
 ### List of Licenses / Web
 
@@ -349,7 +348,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [Kubo (⭐16k)](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
 *   [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code (⭐1.5k)](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 *   [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
-*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐44k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐45k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 *   [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code (⭐1.6k)](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 *   [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
@@ -418,7 +417,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Web
 
-*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.6k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.7k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
@@ -580,7 +579,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.5k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
 ### Software / Distributed Filesystems
 
@@ -614,7 +613,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Diagramming
 
-*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1.1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐3.7k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
@@ -751,9 +749,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Deployment Automation
 
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
-*   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code (⭐4.3k)](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code (⭐3k)](https://github.com/munki/munki)) `Apache-2.0` `Python`
-*   [Vlad the Deployer (⭐354)](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
 
 ### Software / Distributed Filesystems
 
@@ -780,7 +776,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
 *   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐153)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
-*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐186)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
 *   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐412)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 *   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
 *   [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
@@ -837,7 +832,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [grml](https://grml.org) - Bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
 *   [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code (⭐2.5k)](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
-*   [perf-tools (⭐9.6k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace. `GPL-2.0` `Shell`
 *   [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer. ([Source Code](https://gitlab.com/wireshark/wireshark)) `GPL-2.0` `C`
 
 ### Software / Version control
@@ -860,7 +854,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Web
 
 *   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐54k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
-*   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 
 ### Communities / Forums / Web
 

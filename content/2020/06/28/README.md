@@ -67,11 +67,11 @@
 
 *   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
-### Forms / Normal Forms
+### API / Forms
 
-*   [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
+*   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 
 ---
 

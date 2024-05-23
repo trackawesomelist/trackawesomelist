@@ -98,11 +98,11 @@
 
 ### Applications / Blockchain
 
-*   [Forest (⭐597)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐602)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐472)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐473)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐635)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐646)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ---
 

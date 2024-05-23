@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2022
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,31 +34,25 @@
 
 ### Database
 
-*   [libpqxx (⭐941)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+*   [libpqxx (⭐952)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [jwt-cpp (⭐781)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+*   [jwt-cpp (⭐789)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Software Development - FaaS & Serverless
-
-*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code (⭐16k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
-
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Bridges / Wallets
 
 *   [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [marten (⭐378)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -68,7 +62,7 @@
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐41)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Pokemon
 
@@ -78,7 +72,7 @@
 
 *   [MoneroSMS](https://monerosms.com/) - Virtual numbers for SMS/MMS messaging and verifications. CLI and web app. (Based in United States)
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
@@ -88,7 +82,7 @@
 
 *   [Golang Rotterdam](https://www.meetup.com/golang-rotterdam/)
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -98,7 +92,7 @@
 
 *   [Ahoo-Wang/CoCache (⭐5)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
@@ -106,7 +100,7 @@
 
 ### OpenSource-Computer-Vision / Data Analysis / Data Visualization
 
-*   [OpenCV (⭐75k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+*   [OpenCV (⭐76k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
 
 ### Python / General-Purpose Machine Learning
 
@@ -114,17 +108,17 @@
 
 ### Python / Spiking Neural Networks
 
-*   [Rockpool (⭐42)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
-*   [Sinabs (⭐60)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
-*   [Tonic (⭐186)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+*   [Rockpool (⭐43)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
+*   [Sinabs (⭐67)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
+*   [Tonic (⭐191)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
 *   *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 
-## [15. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -156,13 +150,13 @@
 
 *   [function-cache (⭐47)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [Raw Node.js Vulkan API](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -178,13 +172,13 @@
 *   [vue2-text-annotation (⭐6)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
 *   [vue-auth-ui (⭐22)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
-## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [17. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing
 
 *   [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
 
-## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [18. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
@@ -194,7 +188,7 @@
 
 *   [River (⭐4.6k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [19. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Cryptography / Identifiers
 
@@ -202,45 +196,45 @@
 *   [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - A benchmark of all identifier formats.
 *   [Awesome GUID (⭐14)](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
 
-## [21. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [20. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Screen Capture
 
 *   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [cairo (⭐1.4k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [cairo (⭐1.4k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 *   [sigma-rust (⭐69)](https://github.com/ergoplatform/sigma-rust) — ErgoTree interpreter and wallet-related features.
 
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐858)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
+    *   [Rustodon (⭐857)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
 
-## [23. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
 *   [fresh (⭐12k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
-## [24. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [23. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Datasets / Social Sciences
 
 *   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [meganerd (⭐0)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐39)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 *   [troopert (⭐0)](https://github.com/TrooperT/Troopert-theme/) - Includes decorators for `git` status, last return code if non-zero, full pwd and a configurable display of `$RPROMPT`.
 
-## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -250,7 +244,7 @@
 
 *   [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926\&hl=en\&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
-## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -275,10 +269,10 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.8k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.9k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [chaosreactor/awesome-generative-ai (⭐34)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
-## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [27. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -308,7 +302,7 @@
 
 *   [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 
-## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -336,7 +330,7 @@
 *   [Maintenance release: Blazorise 1.1.4](https://blazorise.com/news/release-notes/114) - November 24, 2022 - This new Blazorise 1.1.4 is a hotfix release to solve this and a few other minor issues that were fixed in the meantime. Blazorise 1.1.4 is a recommended upgrade for all Blazorise 1.1 and Blazorise 1.1.3 users.
 *   [Blazor WebAssembly: Debugging gRPC-Web with Custom Chrome Developer Tools](https://www.thinktecture.com/blazor/blazor-wasm-debugging-grpc-web/) - November 17, 2022 - If you are working with Blazor, gRPC is a big issue for transferring data from APIs to clients. One issue of developing with gRPC-Web is debugging the transmitted data because the data is in an efficient binary message format. This article shows you how to solve this problem with the help of my NuGet.
 
-## [30. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -348,7 +342,7 @@
 *   [tfproviderlint (⭐133)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
 *   [tftree (⭐142)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 
-## [31. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [30. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Youtube channels
 
@@ -362,7 +356,7 @@
 
 *   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
 
-## [32. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Books
 
@@ -377,13 +371,13 @@
 
 *   [kmongo (⭐785)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
-## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
 *   [stas (⭐52)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design Inspiration
 
@@ -394,31 +388,31 @@
 *   [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync customer data from your data warehouse to your CRM, marketing, and support tools. The free tier offers you one destination to sync data to.
 *   [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
 
-## [35. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [34. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
 *   [Learn Gamedev (⭐2.4k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
-## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [35. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   Tension Tunnel - [Android](https://play.google.com/store/apps/details?id=com.atomicinstinct.tensiontunnel), [iOS](https://apps.apple.com/app/tension-tunnel/id1608041401), [Web](https://tensiontunnel.com/play) - A casual, minimalist and challenging game that will put your reflexes to the test. Be careful, it's highly addictive! By [Atomic Instinct](https://atomicinstinct.com)
 
-## [37. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Select
 
-*   [react-select-search (⭐670)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
+*   [react-select-search (⭐671)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
-## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
 *   [ts-toolbelt (⭐6.4k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
-## [39. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [38. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Unofficial Distributions / AlmaLinux OS
 

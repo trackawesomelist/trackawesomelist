@@ -58,7 +58,7 @@
 
 ### API Builder and Discovery
 
-*   [JSONAPI::Utils (⭐214)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
+*   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

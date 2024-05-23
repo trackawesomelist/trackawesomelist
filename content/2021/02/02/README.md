@@ -76,7 +76,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐286)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
+*   [delay-timer (⭐289)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
@@ -118,7 +118,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1.2k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.3k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -146,7 +146,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐536)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐541)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

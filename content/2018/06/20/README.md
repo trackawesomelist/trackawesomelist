@@ -10,7 +10,7 @@
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐225)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐229)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -107,7 +107,7 @@
 
 *   [Ride Receipts (⭐142)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 *   [Laqu-l (⭐134)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐132)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐131)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

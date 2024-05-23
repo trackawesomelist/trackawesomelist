@@ -131,16 +131,16 @@ Topics: Android, Open Source, Java, Kotlin\
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐223)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐224)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐378)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON
+    *   [mongodb/bson-rust (⭐382)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐294)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐296)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 

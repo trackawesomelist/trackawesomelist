@@ -50,7 +50,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐873)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐875)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 

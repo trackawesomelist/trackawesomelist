@@ -197,25 +197,25 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Software / Backups
 
-*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐204)](https://github.com/zmanda/amanda)) `MIT` `C`
-*   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐928)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
-*   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐1.8k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
-*   [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code (⭐10k)](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
-*   [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code (⭐475)](https://github.com/grke/burp)) `AGPL-3.0` `C`
+*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐206)](https://github.com/zmanda/amanda)) `MIT` `C`
+*   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐943)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
+*   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐1.9k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
+*   [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code (⭐11k)](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
+*   [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code (⭐476)](https://github.com/grke/burp)) `AGPL-3.0` `C`
 *   [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code (⭐10k)](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 *   [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 *   [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code (⭐1k)](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
 *   [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code (⭐3.1k)](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
-*   [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code (⭐613)](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
+*   [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code (⭐628)](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
 
 ### Software / DNS - Control Panels & Domain Management
 
 *   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐1k)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
-*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐257)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐260)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 ### Software / Monitoring
 
-*   [ruptime (⭐113)](https://github.com/alexmyczko/ruptime) - Classic system status server. `AGPL-3.0` `Shell`
+*   [ruptime (⭐120)](https://github.com/alexmyczko/ruptime) - Classic system status server. `AGPL-3.0` `Shell`
 
 ### Software / Packaging
 
@@ -224,20 +224,18 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 ### Software / Queuing
 
 *   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.5k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
-*   [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code (⭐27k)](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 *   [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code (⭐25k)](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
-*   [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code (⭐12k)](https://github.com/rabbitmq/rabbitmq-server)) `MPL-2.0/Apache-2.0` `Erlang`
 *   [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 ### Software / Remote Desktop Clients
 
 *   [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
-*   [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code (⭐4.7k)](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
+*   [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code (⭐4.8k)](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
 *   [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb)) `GPL-2.0` `Perl`
 
 ### Software / Router
 
-*   [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code (⭐4.6k)](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
+*   [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code (⭐4.7k)](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
 
 ## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -250,7 +248,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 ### Queues and Messaging
 
 *   [JobIteration (⭐1k)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
-*   [SidekiqIteration (⭐225)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
+*   [SidekiqIteration (⭐242)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
 
 ## [23. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -325,13 +323,13 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Misc / Apache License
 
-*   [adage (⭐4)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
+*   [adage (⭐6)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
 ## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [cairo-vm (⭐465)](https://github.com/lambdaclass/cairo-vm) — Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+*   [cairo-vm (⭐473)](https://github.com/lambdaclass/cairo-vm) — Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -344,12 +342,12 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
     *   [console-rs/dialoguer (⭐1.2k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] — Library for command line prompts and similar things.
     *   [LukasKalbertodt/bunt (⭐219)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
     *   [LukasKalbertodt/term-painter (⭐78)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output
-    *   [ogham/rust-ansi-term (⭐443)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
-    *   [SergioBenitez/yansi (⭐226)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+    *   [ogham/rust-ansi-term (⭐445)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
+    *   [SergioBenitez/yansi (⭐227)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Finance
 
-*   [avhz/RustQuant (⭐862)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐876)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -370,10 +368,6 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 ### Software / Miscellaneous
 
 *   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐50)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
-
-### Software / Software Development - FaaS & Serverless
-
-*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐2.1k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
 
 ## [32. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -427,7 +421,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [AI (⭐7.9k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 *   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [Embedchain (⭐8.6k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -503,11 +497,11 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Database
 
-*   [Speedb (⭐822)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐832)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ### Talks
 
-*   [C++ Conferences (⭐6)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
+*   [C++ Conferences (⭐7)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 
 ## [39. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 

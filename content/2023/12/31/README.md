@@ -11,8 +11,8 @@
 ### Applications / File manager
 
 *   [joshuto (⭐3.3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-*   [xplr (⭐3.9k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐8.2k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [xplr (⭐4k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐9k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Communication / Apache License
 
-*   [ada-enet (⭐20)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+*   [ada-enet (⭐21)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries / Apache License
 

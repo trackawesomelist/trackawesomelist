@@ -80,11 +80,11 @@
 
 ### Applications
 
-*   [datafusion (⭐5.1k)](https://github.com/apache/datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐5.2k)](https://github.com/apache/datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Applications / Security tools
 
-*   [Raspirus (⭐78)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
+*   [Raspirus (⭐92)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 
 ### Libraries / Markup language
 
@@ -108,7 +108,6 @@
 *   [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
 *   [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
 *   [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
-*   [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 
 ### Generators / Testing
 
@@ -127,7 +126,7 @@
 ### Animations / Testing
 
 *   [tsparticles (⭐30)](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
-*   [ngx-confetti-explosion (⭐3)](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular.
+*   [ngx-confetti-explosion (⭐4)](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular.
 *   [angular-animations (⭐613)](https://github.com/filipows/angular-animations) - Easy, Reusable Animation Utility library for Angular.
 *   [ngx-lottie (⭐215)](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
 *   [angular-animations-explorer (⭐127)](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
@@ -142,34 +141,38 @@
 
 ### Drag/Drop / Testing
 
-*   [ngx-drag-drop (⭐295)](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
+*   [ngx-drag-drop (⭐297)](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
 *   [ngx-dropzone (⭐22)](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
-*   [ng-dnd (⭐95)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
+*   [ng-dnd (⭐98)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 *   [ngx-file-drag-drop (⭐16)](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 *   [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 
 ### Editor Components / Testing
 
 *   [ngx-quill (⭐1.7k)](https://github.com/KillerCodeMonkey/ngx-quill) - Angular (>=2) components for the Quill Rich Text Editor.
-*   [ngx-editor (⭐420)](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
-*   [ngx-markdown-editor (⭐169)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
+*   [ngx-editor (⭐423)](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
+*   [ngx-markdown-editor (⭐168)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 *   [angular-markdown-editor (⭐155)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 *   [code-editor (⭐121)](https://github.com/ngstack/code-editor) - Code editor component for Angular applications.
-*   [ngx-wig (⭐218)](https://github.com/stevermeister/ngx-wig) - Angular(also Angular 17) WYSIWYG HTML Rich Text Editor.
+*   [ngx-wig (⭐219)](https://github.com/stevermeister/ngx-wig) - Angular(also Angular 17) WYSIWYG HTML Rich Text Editor.
 *   [ngx-monaco-editor (⭐2)](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
 *   [ngx-property-editor (⭐0)](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 
-### Form Controls / Testing
+### Forms / General
 
 *   [ngx-formly (⭐2.7k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-*   [formio (⭐612)](https://github.com/formio/angular) - JSON powered forms for Angular.
+*   [formio (⭐613)](https://github.com/formio/angular) - JSON powered forms for Angular.
 *   [ng-dynamic-forms (⭐1.3k)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
 
-### Mixed utilities / Testing
+### Images / Validation
+
+*   [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+
+### Mixed utilities / Validation
 
 *   [rx-angular (⭐1.9k)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
 
-### State Management / Testing
+### State Management / Validation
 
 *   [akita (⭐3.7k)](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 *   [ngxs (⭐3.5k)](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
@@ -180,9 +183,9 @@
 
 ### Viewers / Node Based
 
-*   [ngx-extended-pdf-viewer (⭐431)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
-*   [ng2-pdfjs-viewer (⭐220)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
-*   [ngx-json-viewer (⭐172)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
+*   [ngx-extended-pdf-viewer (⭐438)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
+*   [ng2-pdfjs-viewer (⭐222)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
+*   [ngx-json-viewer (⭐171)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
 ### Analytics / Node Based
 

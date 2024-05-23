@@ -22,15 +22,15 @@
 
 ### Database Tools
 
-*   [Strong Migrations (⭐3.8k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+*   [Strong Migrations (⭐3.9k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 
 ### GUI
 
-*   [FXRuby (⭐263)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
+*   [FXRuby (⭐265)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 
 ### Third-party APIs
 
-*   [Ably (⭐34)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+*   [Ably (⭐35)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -103,7 +103,7 @@
 
 *   [CleanArchitecture (⭐3.4k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 *   [Flight Finder (⭐968)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
-*   [Blazor.SVGEditor (⭐274)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
+*   [Blazor.SVGEditor (⭐275)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
 
 ### Videos / Others
 

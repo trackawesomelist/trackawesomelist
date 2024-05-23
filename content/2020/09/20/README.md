@@ -22,16 +22,16 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ParaMonte (⭐235)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
+*   [ParaMonte (⭐243)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐364)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐375)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing
 
-*   [Pattern (⭐8.6k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
+*   [Pattern (⭐8.7k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

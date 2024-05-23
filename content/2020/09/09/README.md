@@ -120,7 +120,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐531)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐533)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ---
 

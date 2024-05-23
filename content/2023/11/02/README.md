@@ -69,7 +69,7 @@
 
 ### AI
 
-*   [Cledev.OpenAI (⭐103)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
+*   [Cledev.OpenAI (⭐105)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
 
 ### Videos / Others
 

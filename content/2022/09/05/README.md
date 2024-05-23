@@ -46,7 +46,7 @@
 
 ### Tools / Misc
 
-*   [MLEM (⭐712)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐714)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

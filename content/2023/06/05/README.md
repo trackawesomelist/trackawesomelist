@@ -81,17 +81,17 @@
 
 ### Software / Distributed Filesystems
 
-*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.8k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.9k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 
 ### Software / Metrics & Metric Collection
 
 *   [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code (⭐12k)](https://github.com/elastic/beats)) `Apache-2.0` `Go`
 *   [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code (⭐3k)](https://github.com/collectd/collectd)) `MIT` `C`
 *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
-*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐60k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
-*   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.8k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
-*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐963)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
-*   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
+*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐61k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
+*   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.9k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
+*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐973)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+*   [Statsd (⭐18k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
 *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐512)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐14k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
@@ -103,7 +103,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fast-alias-tips (⭐7)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐762)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
+*   [fast-alias-tips (⭐8)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐766)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
 *   [iterm2-shell-integration (⭐46)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)

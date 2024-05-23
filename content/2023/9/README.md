@@ -168,7 +168,7 @@
 
 ### Bootables
 
-*   [rafaelbreno/zig-os (⭐26)](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
+*   [rafaelbreno/zig-os (⭐27)](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
 
 ## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -205,8 +205,8 @@
 *   Rust: Game Framework
     *   🎉 [Ambient (⭐3.7k)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
     *   🎉 [Amethyst (⭐8k)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
-    *   🎉 [Bevy (⭐32k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
-    *   🎉 [Macroquad (⭐2.7k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by *RayLib*.
+    *   🎉 [Bevy (⭐33k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
+    *   🎉 [Macroquad (⭐2.9k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by *RayLib*.
 
 ## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Internationalization
 
-*   [uni-algo (⭐244)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+*   [uni-algo (⭐248)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
 
 ### Miscellaneous
 
@@ -245,7 +245,7 @@
 
 ### Concurrency and Parallelism
 
-*   [Polyphony (⭐651)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+*   [Polyphony (⭐653)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [confer (⭐3)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
+*   [confer (⭐4)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
 *   [setpath (⭐0)](https://github.com/mys721tx/set_path) - Adds some local paths to your `fpath` and `$PATH`.
 *   [zypper-short (⭐0)](https://github.com/justanotherinternetguy/zypper-short) - Plugin for OpenSuse Tumbleweed's package manager, `zypper`.
 
@@ -359,7 +359,7 @@
 
 ### Command palette
 
-*   [kbar (⭐4.6k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
+*   [kbar (⭐4.7k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Utilities / Mouse Events
 
@@ -443,18 +443,18 @@
 
 ### Libraries / Caching
 
-*   [06chaynes/http-cache (⭐63)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
-*   [moka-rs/moka (⭐1.3k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
-*   [zkat/cacache-rs (⭐463)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+*   [06chaynes/http-cache (⭐64)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
+*   [moka-rs/moka (⭐1.4k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
+*   [zkat/cacache-rs (⭐470)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
 
 ### Libraries / Data visualization
 
-*   [rerun (⭐5.2k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
+*   [rerun (⭐5.3k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
 
 ### Libraries / Network programming
 
 *   gRPC
-    *   [hyperium/tonic (⭐9k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [hyperium/tonic (⭐9.1k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
     *   [tikv/grpc-rs (⭐1.8k)](https://github.com/tikv/grpc-rs) — The gRPC library built on C Core library and futures
 
 ## [49. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)

@@ -108,7 +108,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐9.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
+*   [Nitter](https://nitter.net) `⚠` - An alternative front end to twitter. ([Source Code (⭐9.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
 
 ## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -132,9 +132,9 @@
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Tables / Testing
+### Tables / Validation
 
-*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐562)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐564)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### DevOps / Apache License
 
-*   [septum (⭐368)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+*   [septum (⭐369)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
 ## [18. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -326,7 +326,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Monitoring/Statistics/Perfomance / Prometheus
 
 *   [pgSCV (⭐163)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2.4k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [postgres\_exporter (⭐2.6k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
@@ -727,11 +727,11 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐595)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐608)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐255)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐258)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [60. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -783,16 +783,16 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐167)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐171)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐64)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐65)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ### Form Components / Rich Text Editor
 
 *   [react-codemirror (⭐1.4k)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
-*   [react-monacoeditor (⭐280)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+*   [react-monacoeditor (⭐282)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
 ### Reporter / Visibility Reporter
 
@@ -845,11 +845,11 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Components & Libraries / UI Components
 
 *   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
-*   [vue-pdf-embed (⭐581)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐594)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐431)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐430)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [69. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 

@@ -151,7 +151,7 @@
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐3.3k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

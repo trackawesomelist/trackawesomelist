@@ -16,15 +16,15 @@
 
 ### GUI
 
-*   [fubark/cosmic (⭐321)](https://github.com/fubark/cosmic) - GUI toolkit.
+*   [fubark/cosmic (⭐326)](https://github.com/fubark/cosmic) - GUI toolkit.
 
 ### Misc libraries
 
-*   [natecraddock/ziglua (⭐183)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
+*   [natecraddock/ziglua (⭐201)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 
 ### Web / Messaging
 
-*   [karlseguin/websocket.zig (⭐214)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
+*   [karlseguin/websocket.zig (⭐224)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 
 ### Parser / Package managers
 
@@ -89,7 +89,7 @@
 
 ### Tools / Software / Level Editors
 
-*   🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source (⭐575)](https://github.com/TTimo/GtkRadiant)]
+*   🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source (⭐578)](https://github.com/TTimo/GtkRadiant)]
 
 ### Tools / Software / Voxel
 
@@ -102,14 +102,13 @@
     *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
-    *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
     *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [mprocs (⭐1.3k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
+*   [mprocs (⭐1.4k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

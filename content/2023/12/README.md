@@ -90,11 +90,11 @@
 
 ### Misc libraries
 
-*   [karlseguin/log.zig (⭐67)](https://github.com/karlseguin/log.zig) - Structured logging library.
+*   [karlseguin/log.zig (⭐69)](https://github.com/karlseguin/log.zig) - Structured logging library.
 
 ### Network / HTTP
 
-*   [karlseguin/http.zig (⭐330)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
+*   [karlseguin/http.zig (⭐351)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [zurawiki/tiktoken-rs (⭐200)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+*   [zurawiki/tiktoken-rs (⭐205)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Music Programming
 
-*   [Sardine (⭐183)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐185)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [15. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -140,11 +140,6 @@
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend)
-*   [Michael Hladky](https://twitter.com/Michael_Hladky)
-
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Developer Roadmap](https://roadmap.sh/angular)
@@ -164,12 +159,12 @@
 ### Libraries / Rust
 
 *   Rust: Audio
-    *   🎉 [Kira (⭐779)](https://github.com/tesselode/kira) - Create expressive audio for games.
+    *   🎉 [Kira (⭐819)](https://github.com/tesselode/kira) - Create expressive audio for games.
 *   Rust: Gui
     *   🔒 [Azul (⭐5.8k)](https://github.com/fschutt/azul) - Desktop gui framework.
-    *   🎉 [Dioxus (⭐18k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
-    *   🎉 [Druid (⭐9.3k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
-    *   🎉 [egui (⭐19k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
+    *   🎉 [Dioxus (⭐19k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    *   🎉 [Druid (⭐9.4k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
+    *   🎉 [egui (⭐20k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
     *   🔒 [Slint (⭐15k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
 
 ## [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
@@ -359,16 +354,16 @@
 *   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
     *   [GitHub repository :octocat: (⭐2.2k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
-*   [OSSDC SIM (⭐76)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐76)](https://github.com/OSSDC/OSSDC-SIM)
+*   [OSSDC SIM (⭐78)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository :octocat: (⭐78)](https://github.com/OSSDC/OSSDC-SIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository :octocat: (⭐433)](https://github.com/tier4/AWSIM)
+    *   [GitHub repository :octocat: (⭐450)](https://github.com/tier4/AWSIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome ROS 2 :octocat: (⭐1.5k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome ROS 2 :octocat: (⭐1.6k)](https://github.com/fkromer/awesome-ros2#readme)
 
 ## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -406,7 +401,7 @@
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐613)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐615)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 

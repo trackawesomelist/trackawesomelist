@@ -58,7 +58,7 @@
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐445)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐456)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
 ## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Compilers and interpreters
 
-*   [fulcrum-so/ziggy-pydust (⭐269)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
+*   [fulcrum-so/ziggy-pydust (⭐282)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

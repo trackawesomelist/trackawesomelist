@@ -32,14 +32,14 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Z.Blazor.Diagrams (⭐847)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
+*   [Z.Blazor.Diagrams (⭐874)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
 *   [BlazorCurrentDevice (⭐24)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
 *   [BlazorStyledTextArea (⭐16)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
 
 ### Others / Others
 
-*   [Fun.Blazor (⭐176)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
-*   [Blazor.DownloadFileFast (⭐29)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
+*   [Fun.Blazor (⭐175)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
+*   [Blazor.DownloadFileFast (⭐30)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
 *   [Blazor.DynamicJavascriptRuntime.Evaluator (⭐19)](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - ![stars](https://img.shields.io/github/stars/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=86400) Execute dynamic object expressions as Javascript in Blazor client-side apps.
 
 ### Books / Others
@@ -50,7 +50,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fastcache (⭐25)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
+*   [fastcache (⭐26)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

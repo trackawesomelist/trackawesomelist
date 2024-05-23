@@ -16,7 +16,7 @@
 
 ### services
 
-*   [featureserver (⭐100)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐101)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

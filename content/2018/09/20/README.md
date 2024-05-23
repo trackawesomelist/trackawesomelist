@@ -109,7 +109,7 @@
 
 ### Pagination
 
-*   [Pagy (⭐4.4k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.5k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

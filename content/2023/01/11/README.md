@@ -86,11 +86,11 @@
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐2.8k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐2.9k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
-*   [david-vanderson/gui (⭐167)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+*   [david-vanderson/gui (⭐176)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
 *   [Aransentin/ZWL (⭐91)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
 *   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
@@ -122,7 +122,7 @@
 
 ### Kernels / Microkernels
 
-*   [Qubes-linux-kernel (⭐80)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
+*   [Qubes-linux-kernel (⭐82)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
 ### Training and Materials / Web articles
 

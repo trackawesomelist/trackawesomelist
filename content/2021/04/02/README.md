@@ -110,7 +110,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-virtual-tree (⭐62)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
-*   [vue3-tabs-chrome (⭐94)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐95)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ---
 

@@ -46,7 +46,7 @@
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐1.8k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐2.1k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 

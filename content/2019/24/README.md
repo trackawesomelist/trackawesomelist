@@ -327,18 +327,18 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐655)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐659)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / UI Components
 
 *   [@innologica/vue-stackable-modal (⭐37)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
 *   [simple-vue2-datetimepicker (⭐3)](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
 *   [vue-business-hours (⭐50)](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
-*   [material-vue-daterange-picker (⭐71)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
+*   [material-vue-daterange-picker (⭐72)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐923)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐927)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
@@ -453,7 +453,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐55)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐57)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -461,15 +461,15 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐95)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Word Tokenizers (⭐97)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
 *   [Corpus Loaders (⭐32)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
 *   [Embeddings (⭐81)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
-*   [Languages (⭐52)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+*   [Languages (⭐54)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐35)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐146)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐148)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -539,7 +539,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐251)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

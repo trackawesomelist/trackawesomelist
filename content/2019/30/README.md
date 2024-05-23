@@ -405,11 +405,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐472)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐475)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐881)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐891)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -740,9 +740,9 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐139)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐141)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐36)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐117)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor.EventAggregator (⭐118)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
 *   [Blazor Gamepad (⭐30)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
 *   [Blazor.LocalFiles (⭐48)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.

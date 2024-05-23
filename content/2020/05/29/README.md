@@ -55,7 +55,7 @@ Language: English
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
-*   [Prisma Examples (⭐5.7k)](https://github.com/prisma/prisma-examples)
+*   [Prisma Examples (⭐5.9k)](https://github.com/prisma/prisma-examples)
 
 ### :studio_microphone: Events
 
@@ -94,7 +94,7 @@ Language: English
 
 ### :family_man_woman_girl_boy: Community / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [GitHub (⭐36k)](https://github.com/prisma/prisma/)
+*   [GitHub (⭐37k)](https://github.com/prisma/prisma/)
 *   [Website](https://prisma.io)
 *   [Docs](https://prisma.io/docs/)
 *   [Blog](https://prisma.io/blog)
@@ -103,7 +103,7 @@ Language: English
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Tottem (⭐972)](https://github.com/poulainv/tottem)
+*   [Tottem (⭐973)](https://github.com/poulainv/tottem)
 *   [Tomorrow](https://www.tomorrowapp.io/)
 *   [Predict Covid](https://predictcovid.com/)
 

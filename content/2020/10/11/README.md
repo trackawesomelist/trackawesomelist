@@ -247,7 +247,7 @@
 
 ### Python / Neural Networks
 
-*   [TResNet: Simple and powerful neural network library for python (⭐160)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
+*   [TResNet: Simple and powerful neural network library for python (⭐161)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 
 ### Ruby / Natural Language Processing
 

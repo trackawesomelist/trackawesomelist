@@ -63,7 +63,7 @@
 
 *   [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 
-### Storage / Testing
+### Storage / Validation
 
 *   [ngx-reactive-storage (⭐31)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
 *   [ng2-webstorage (⭐423)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.

@@ -45,11 +45,11 @@
 ### Applications / Emulators
 
 *   Nintendo DS
-    *   [dust (⭐181)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
+    *   [dust (⭐185)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
 
 ### Applications / Utilities
 
-*   [suckit (⭐710)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
+*   [suckit (⭐713)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 
 ## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

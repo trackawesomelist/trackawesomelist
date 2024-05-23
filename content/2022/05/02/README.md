@@ -16,7 +16,7 @@
 
 ### Misc libraries
 
-*   [SasLuca/zig-nanoid (⭐23)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
+*   [SasLuca/zig-nanoid (⭐24)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -56,7 +56,7 @@
 
 *   [hrsh7th/nvim-cmp (⭐7.2k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
     *   [lukas-reineke/cmp-under-comparator (⭐164)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [SergioRibera/cmp-dotenv (⭐37)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
+    *   [SergioRibera/cmp-dotenv (⭐45)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 
 ### Session / Diagnostics
 
@@ -81,8 +81,8 @@
 
 ### operations
 
-*   [turf (⭐8.5k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
-*   [turf\_dart (⭐45)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+*   [turf (⭐8.8k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf\_dart (⭐59)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

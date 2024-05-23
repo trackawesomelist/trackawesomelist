@@ -16,7 +16,7 @@
 
 ### Concurrency
 
-*   [Neco (⭐865)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
+*   [Neco (⭐1k)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐400)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐402)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

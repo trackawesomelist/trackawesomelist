@@ -83,7 +83,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐737)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐746)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

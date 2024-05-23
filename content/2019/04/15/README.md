@@ -16,7 +16,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐6.5k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐6.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

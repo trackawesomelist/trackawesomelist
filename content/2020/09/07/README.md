@@ -10,7 +10,7 @@
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐447)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

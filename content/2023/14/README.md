@@ -10,13 +10,13 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐616)](https://github.com/mohammed-bahumaish/prisma-editor)
+*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐688)](https://github.com/mohammed-bahumaish/prisma-editor)
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐32)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐40)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -58,7 +58,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐613)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐615)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -95,11 +95,11 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐102)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐103)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ### Libraries / Text processing
 
-*   [null8626/decancer (⭐86)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+*   [null8626/decancer (⭐87)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.6k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.6k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [24. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -313,12 +313,12 @@
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐13k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐17k)](https://github.com/allinurl/goaccess)) `MIT` `C`
-*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐1.9k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
+*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐18k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐2k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
 ### Software / Web
 
-*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.6k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.7k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`

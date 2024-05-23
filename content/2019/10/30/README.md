@@ -36,7 +36,7 @@
 
 ### Natural Language Processing
 
-*   [Sentimental (⭐453)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
+*   [Sentimental (⭐455)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 
 ## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

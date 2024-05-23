@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [PDF-Writer (⭐843)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+*   [PDF-Writer (⭐848)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 
 ## [2. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 

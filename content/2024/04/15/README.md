@@ -48,7 +48,7 @@
 
 ### Libraries / Parsing
 
-*   [igumnoff/shiva (⭐119)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
+*   [igumnoff/shiva (⭐127)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -64,9 +64,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-default-page (⭐3)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+*   [vue-default-page (⭐18)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐850)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐865)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
@@ -92,7 +92,7 @@
 
 ### Miscellaneous
 
-*   [RapidFuzz (⭐210)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+*   [RapidFuzz (⭐213)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -152,15 +152,15 @@
 
 ### Color / Diagnostics
 
-*   [moyiz/command-and-cursor.nvim (⭐13)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+*   [moyiz/command-and-cursor.nvim (⭐14)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 
 ### Terminal Integration / Diagnostics
 
-*   [akinsho/toggleterm.nvim (⭐3.7k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
+*   [akinsho/toggleterm.nvim (⭐3.8k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
 
 ### Git / Diagnostics
 
-*   [moyiz/git-dev.nvim (⭐40)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+*   [moyiz/git-dev.nvim (⭐62)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

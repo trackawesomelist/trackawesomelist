@@ -32,7 +32,7 @@
 
 ### Parser / Package managers
 
-*   [00JCIV00/cova (⭐74)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
+*   [00JCIV00/cova (⭐76)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

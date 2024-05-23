@@ -40,7 +40,7 @@
 
 ### Applications / Audio and Music
 
-*   [figsoda/mmtc (⭐82)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] — Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
+*   [figsoda/mmtc (⭐84)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] — Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Software / Software Development - Testing
 
-*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐389)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐398)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

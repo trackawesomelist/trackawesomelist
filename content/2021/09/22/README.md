@@ -22,7 +22,7 @@
 
 ### Tools / Misc
 
-*   [DVClive (⭐150)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
+*   [DVClive (⭐153)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

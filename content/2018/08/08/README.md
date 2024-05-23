@@ -10,7 +10,7 @@
 
 ### Other lists / Hash functions
 
-*   [Awesome HE (⭐911)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+*   [Awesome HE (⭐953)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

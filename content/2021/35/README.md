@@ -24,7 +24,7 @@
 
 ### data
 
-*   [historical-basemaps (⭐380)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐420)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -140,13 +140,13 @@
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Awesome RSS Feeds (⭐582)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
+*   [Awesome RSS Feeds (⭐642)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
 *   [中文博客RSS订阅](https://t.me/s/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
 *   [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/caibingcheng/rssblog)
-*   [Awesome-blogCN-feeds (⭐490)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+*   [Awesome-blogCN-feeds (⭐502)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
 *   [Mataroa Collection](https://collection.mataroa.blog/)
 
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
@@ -263,7 +263,7 @@
 ### Audio
 
 *   [dr\_libs (⭐1.2k)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐3.6k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [miniaudio (⭐3.7k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
 ## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -479,10 +479,6 @@
 
 *   [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code (⭐76)](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`
 
-### Software / Note-taking & Editors
-
-*   [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code (⭐7.9k)](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
-
 ### Software / Office Suites
 
 *   [Etherpad](https://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code (⭐16k)](https://github.com/ether/etherpad-lite)) `Apache-2.0` `Nodejs/Docker`
@@ -578,11 +574,11 @@
 ### Components & Libraries / Frameworks
 
 *   [Tailmin (⭐58)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
-*   [element-pro-components (⭐252)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐254)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐77)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐78)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ### Components & Libraries / Dev Tools
 
@@ -597,7 +593,7 @@
 ### Tools / Misc
 
 *   More tools to improve the ML lifecycle: [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are GitHub-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐9.2k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐9.7k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [28. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -1039,7 +1035,7 @@
 
 ### CMS
 
-*   [Blogifier (⭐1.2k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
+*   [Blogifier (⭐1.3k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
 
 ### IoT
 

@@ -35,7 +35,7 @@
 
 ### Concurrency
 
-*   [libfork (⭐464)](https://github.com/ConorWilliams/libfork) - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
+*   [libfork (⭐490)](https://github.com/ConorWilliams/libfork) - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Miniflux / Outline Processor Markup Language
 
-*   [miniflux-theme-reeder (⭐23)](https://github.com/rootknight/Miniflux-Theme-Reeder) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
+*   [miniflux-theme-reeder (⭐88)](https://github.com/rootknight/Miniflux-Theme-Reeder) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -145,7 +145,7 @@
 
 ### FPS
 
-*   [SurrealEngine (⭐394)](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
+*   [SurrealEngine (⭐402)](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
 
 ### Simulator
 

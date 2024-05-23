@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐305)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐311)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -61,13 +61,13 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2.4k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.5k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐15)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐16)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

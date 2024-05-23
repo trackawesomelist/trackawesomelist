@@ -12,4 +12,4 @@
 
 *   [Google](https://google.github.io/styleguide/go)
 *   [Uber (⭐15k)](https://github.com/uber-go/guide)
-*   [Go Code Review Comments (⭐119k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐120k)](https://github.com/golang/go/wiki/CodeReviewComments)

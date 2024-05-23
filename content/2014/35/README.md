@@ -40,14 +40,14 @@
 
 ### Database
 
-*   [hiberlite (⭐704)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
+*   [hiberlite (⭐706)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
 *   [Hiredis (⭐6.1k)](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. \[BSD]
 *   [RocksDB (⭐27k)](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. \[BSD]
 *   [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. \[PublicDomain]
 
 ### Debug
 
-*   [ig-debugheap (⭐175)](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. \[BSD]
+*   [ig-debugheap (⭐176)](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. \[BSD]
 *   [Remotery (⭐2.7k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 
 ### GUI
@@ -194,15 +194,15 @@
 ### Code Analysis and Metrics
 
 *   [Brakeman (⭐6.9k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Flay (⭐725)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-*   [Flog (⭐900)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+*   [Flay (⭐731)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+*   [Flog (⭐914)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 *   [Rubycritic (⭐3.3k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 *   [SimpleCov (⭐4.7k)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
 ### Core Extensions
 
 *   [ActiveSupport (⭐55k)](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
-*   [Ruby Facets (⭐791)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
+*   [Ruby Facets (⭐792)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
 ### Dashboards
 
@@ -243,26 +243,26 @@
 
 ### Image Processing
 
-*   [Skeptick (⭐320)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
+*   [Skeptick (⭐319)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 
 ### Internationalization
 
-*   [r18n (⭐512)](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+*   [r18n (⭐514)](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 
 ### Logging
 
-*   [HttpLog (⭐777)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+*   [HttpLog (⭐780)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 *   [Logging (⭐527)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 *   [Lograge (⭐3.4k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
 ### PDF
 
-*   [Kitabu (⭐661)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+*   [Kitabu (⭐660)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
 *   [RGhost (⭐187)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 
 ### Processes
 
-*   [childprocess (⭐560)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+*   [childprocess (⭐564)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 
 ### Robotics
 
@@ -287,16 +287,16 @@
     *   [Fake Person (⭐116)](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
     *   [faker (⭐11k)](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
     *   [ffaker (⭐1.5k)](https://github.com/ffaker/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
-    *   [Forgery (⭐794)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
+    *   [Forgery (⭐792)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 
 ### Third-party APIs
 
-*   [wikipedia (⭐296)](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
+*   [wikipedia (⭐304)](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 
 ### Web Crawling
 
 *   [LinkThumbnailer (⭐510)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
-*   [Mechanize (⭐4.3k)](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
+*   [Mechanize (⭐4.4k)](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 
 ---
 

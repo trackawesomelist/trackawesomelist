@@ -56,7 +56,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [VueComponentGenerator (⭐148)](https://github.com/ChangJoo-Park/vue-component-generator) - Generate vue single file component on browser.
-*   [Light Bootstrap Dashboard (⭐769)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
+*   [Light Bootstrap Dashboard (⭐770)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -107,7 +107,7 @@
 ### Driver crates / Other
 
 *   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐12)](https://github.com/agalakhov/usbd-hid-device) - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
-*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐40)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
+*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐41)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
 
 ---
 

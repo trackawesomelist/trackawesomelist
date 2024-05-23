@@ -259,11 +259,11 @@
 
 ### Schema / Design
 
-*   [WWW SQL Designer (⭐2.8k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
+*   [WWW SQL Designer (⭐2.9k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐4.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐5.7k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [29. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐738)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐330)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐330)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐740)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐336)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐336)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -353,7 +353,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐74)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐77)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -361,7 +361,7 @@
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
 *   [igeek (⭐38)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 *   [winline (⭐1)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
-*   [zen (⭐12)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
+*   [zen (⭐13)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
 *   [zshify (⭐2)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
 ## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
@@ -511,11 +511,11 @@
 
 ### Emulators
 
-*   [Arwalk/ChipZ (⭐0)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
+*   [Arwalk/ChipZ (⭐1)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐172)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐175)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [46. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 

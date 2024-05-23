@@ -26,7 +26,7 @@
 
 ## [4. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
 
-### Contents / Pomodoro Timer Apps
+### Pomodoro Timer Apps
 
 *   **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
 *   **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
@@ -108,7 +108,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐67)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐68)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
@@ -121,11 +121,11 @@
 
 ### Motion / Diagnostics
 
-*   [rasulomaroff/telepath.nvim (⭐50)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
+*   [rasulomaroff/telepath.nvim (⭐51)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐532)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐570)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

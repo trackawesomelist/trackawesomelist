@@ -32,7 +32,7 @@
 
 ### Database Tools
 
-*   [SchemaPlus (⭐688)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+*   [SchemaPlus (⭐685)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 
 ### Process Management and Monitoring
 

@@ -88,7 +88,7 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.3k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.4k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 

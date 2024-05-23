@@ -37,11 +37,11 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [SignaturePad (⭐67)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
+*   [SignaturePad (⭐68)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Hotkeys2 (⭐80)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor Hotkeys2 (⭐82)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [CodeBeam.GoogleApis.Blazor (⭐8)](https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=86400) An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.
 
 ### Articles / Others
@@ -142,7 +142,7 @@
 
 ### Applications / System tools
 
-*   [j0ru/kickoff (⭐320)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
+*   [j0ru/kickoff (⭐331)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -8,6 +8,10 @@
 
 ## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
+### CLI
+
+*   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+
 ### GUI
 
 *   [SQLTools (⭐1.4k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
@@ -322,16 +326,16 @@
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐628)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐630)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazored.Typeahead (⭐414)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐189)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐415)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐194)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [Blazor.Polyfill (⭐120)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+*   [Blazor.Polyfill (⭐119)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
 ## [38. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -373,10 +377,6 @@
 *   [Keycloak Open-Shift integration (⭐18)](https://github.com/keycloak/openshift-integration)
 
 ## [42. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Development / Database
-
-*   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 
 ### Development / Npm
 
@@ -508,11 +508,11 @@
 ### Projects Using Vue.js / Open Source
 
 *   [CoreUI Vue Admin Template (⭐3.2k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
-*   [Akaunting (⭐7.5k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+*   [Akaunting (⭐7.6k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 ### Components & Libraries / Utilities
 
-*   [vue-injector (⭐19)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
+*   [vue-injector (⭐20)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 
 ## [46. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -854,7 +854,7 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐286)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐288)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 *   [Spotifyd (⭐9.6k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ### Applications / Utilities

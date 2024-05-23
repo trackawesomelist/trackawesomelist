@@ -40,13 +40,13 @@
 
 ### GUI
 
-*   [WebUI (⭐2k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
+*   [WebUI (⭐2.1k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Parsers/Encoders/Decoders
 
-*   [prattle (⭐4)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
+*   [prattle (⭐5)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
 
 ## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -74,10 +74,6 @@
     *   [REST Assured (⭐6.7k) (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐2.1k) (⭐2.1k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
     *   [Taurus (⭐1.9k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐143) (⭐143)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 ### Projects / Integration Frameworks
 
@@ -145,7 +141,7 @@
 
 ### Charts / Testing
 
-*   [ng-apexcharts (⭐297)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐301)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 ---
 

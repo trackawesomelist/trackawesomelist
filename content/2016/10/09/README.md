@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2016
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,12 +25,6 @@
 ### Libraries / Android
 
 *   [frege-on-android (⭐1)](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Official Resources
-
-*   [GitHub Repo (⭐207k)](https://github.com/vuejs/vue)
 
 ---
 

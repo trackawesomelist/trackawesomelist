@@ -20,11 +20,11 @@
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐343)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐349)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs for Blazor (⭐90)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
+*   [ChartJs for Blazor (⭐94)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
 
 ### 2D/3D Rendering engines / Others
 

@@ -314,7 +314,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐199)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐201)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 

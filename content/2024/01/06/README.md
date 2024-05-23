@@ -75,7 +75,7 @@
 
 ### Data Store / Mouse Events
 
-*   [fireproof (⭐188)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+*   [fireproof (⭐195)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

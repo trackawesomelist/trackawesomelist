@@ -61,7 +61,7 @@
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐127)](https://github.com/maras-archive/rsnake) — Snake.
+*   [maras-archive/rsnake (⭐126)](https://github.com/maras-archive/rsnake) — Snake.
 
 ### Applications / System tools
 

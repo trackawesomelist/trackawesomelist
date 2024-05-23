@@ -14,11 +14,11 @@
 
 ### OS and Kernels / Apache License
 
-*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐84)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐85)](https://github.com/streaksu/Gloire).
 
 ### Games / Apache License
 
-*   [steamsky (⭐91)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
+*   [steamsky (⭐92)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Java / Git
 
-*   [Google Tink (⭐68)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+*   [Google Tink (⭐86)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
 
 ## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
@@ -96,15 +96,15 @@
 
 ### Software / Feed Readers
 
-*   [FeedCord (⭐102)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
+*   [FeedCord (⭐106)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 
 ### Software / Proxy
 
-*   [Jauth (⭐52)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
+*   [Jauth (⭐54)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
 ### Software / URL Shorteners
 
-*   [Chhoto URL (⭐37)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+*   [Chhoto URL (⭐49)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 
 ## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -167,15 +167,15 @@
 
 ### Image Processing
 
-*   [OpenJPEG (⭐938)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+*   [OpenJPEG (⭐940)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 
 ### XML
 
-*   [Xalan C (⭐26)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
+*   [Xalan C (⭐27)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
 
 ### Miscellaneous
 
-*   [CRCpp (⭐290)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+*   [CRCpp (⭐307)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
 
 ## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -328,17 +328,17 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [candle (⭐13k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+*   [candle (⭐14k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 ### Rust / Deep Learning
 
-*   [tch-rs (⭐3.8k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
+*   [tch-rs (⭐3.9k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
 *   [dfdx (⭐1.6k)](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
-*   [burn (⭐6.8k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+*   [burn (⭐7.3k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
 ### Rust / Natural Language Processing
 
-*   [huggingface/tokenizers (⭐8.3k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
+*   [huggingface/tokenizers (⭐8.5k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 *   [rust-bert (⭐2.4k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 ### Tools / Misc
@@ -379,7 +379,7 @@
 
 ## [35. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
-### Contents / Pomodoro Timer Apps
+### Pomodoro Timer Apps
 
 *   **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
 *   **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
@@ -389,7 +389,7 @@
 *   **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
 *   **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
 
-### Contents / AI Tools
+### AI Tools
 
 *   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 
@@ -512,11 +512,11 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/ts-error-translator.nvim (⭐191)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+*   [dmmulroy/ts-error-translator.nvim (⭐201)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐67)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐68)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
@@ -542,11 +542,11 @@
 
 ### Motion / Diagnostics
 
-*   [rasulomaroff/telepath.nvim (⭐50)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
+*   [rasulomaroff/telepath.nvim (⭐51)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐532)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐570)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 

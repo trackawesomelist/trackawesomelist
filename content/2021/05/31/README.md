@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐431)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐430)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

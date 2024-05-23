@@ -37,7 +37,7 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐569)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐568)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 

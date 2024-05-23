@@ -34,11 +34,11 @@
 
 ### Applications / Blockchain
 
-*   [polkadot-sdk (⭐1.4k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
+*   [polkadot-sdk (⭐1.5k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
 
 ### Applications / Observability
 
-*   [openobserve (⭐9.6k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+*   [openobserve (⭐9.8k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -54,21 +54,21 @@
 
 ### Software / Password Managers
 
-*   [Laravel Simple Password Manager (⭐5)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
+*   [Laravel Simple Password Manager (⭐6)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Snippet / Diagnostics
 
-*   [chrisgrieser/nvim-scissors (⭐258)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+*   [chrisgrieser/nvim-scissors (⭐266)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐74)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐80)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐293)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [pgosar/CyberNvim (⭐299)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

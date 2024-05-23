@@ -44,7 +44,7 @@
 
 ### LangChain / Multi-agents
 
-*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐8.6k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

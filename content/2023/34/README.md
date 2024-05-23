@@ -297,16 +297,16 @@
 ### Applications / Emulators
 
 *   Nintendo DS
-    *   [dust (⭐181)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
+    *   [dust (⭐185)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
 
 ### Applications / Utilities
 
-*   [suckit (⭐710)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
+*   [suckit (⭐713)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 
 ### Libraries / eBPF
 
 *   [aya/aya-rs (⭐2.7k)](https://github.com/aya-rs/aya) — Built with a focus on developer experience and operability.
-*   [libbpf/libbpf-rs (⭐639)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
+*   [libbpf/libbpf-rs (⭐654)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
 
 ## [11. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -423,7 +423,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Software / Miscellaneous
 
-*   [Fasten Health (⭐1.3k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
+*   [Fasten Health (⭐1.4k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
 
 ### Software / Pastebins
 
@@ -481,7 +481,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Graphics
 
-*   [micro-gl (⭐142)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
+*   [micro-gl (⭐144)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
 ## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 

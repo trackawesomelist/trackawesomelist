@@ -28,7 +28,7 @@
 
 ### validation
 
-*   [check-geojson (⭐59)](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐64)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -1447,7 +1447,7 @@
 
 ### Resources / Examples
 
-*   [CVue-Awesome (⭐18)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
+*   [CVue-Awesome (⭐19)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 
 ## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

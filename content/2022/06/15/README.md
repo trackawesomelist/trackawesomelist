@@ -216,7 +216,7 @@
 
 ### API / Samples
 
-*   [Remult (⭐2.5k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐2.7k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [10. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
@@ -245,10 +245,10 @@
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐178)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐35)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [drogue-device (⭐179)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐38)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐14)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐160)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [embedded-tls (⭐161)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -267,7 +267,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-sync (⭐44)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐25)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [smartcache (⭐26)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

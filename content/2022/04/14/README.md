@@ -78,11 +78,11 @@
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.4k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐2.6k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐26k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐27k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

@@ -183,7 +183,7 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐362)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
+*   [slowtec/tokio-modbus (⭐364)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 

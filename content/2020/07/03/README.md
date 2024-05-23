@@ -110,10 +110,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Tools & Utilities / Others
 
-*   [Blazor.SpeechSynthesis (⭐87)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
+*   [Blazor.SpeechSynthesis (⭐88)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 *   [BlazorState.Redux (⭐29)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
 *   [Howler.Blazor (⭐31)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
-*   [jsMind.Blazor (⭐18)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+*   [jsMind.Blazor (⭐19)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -123,7 +123,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐348)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐347)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 
 ## [11. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -148,7 +148,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐215)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐221)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
 *   [Drop Feeds (⭐18)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 

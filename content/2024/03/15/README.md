@@ -87,7 +87,7 @@
 
 ### Applications / System tools
 
-*   [netscanner (⭐664)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+*   [netscanner (⭐695)](https://github.com/Chleba/netscanner) - TUI Network Scanner
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Build and Package / Apache License
 
-*   [alr2appimage (⭐9)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
+*   [alr2appimage (⭐10)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 
 ## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Projects / Messaging
 
-*   [Apache Kafka (⭐27k) (⭐27k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
+*   [Apache Kafka (⭐27k) (⭐28k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
 
 ## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

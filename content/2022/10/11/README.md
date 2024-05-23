@@ -11,7 +11,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐71)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
-*   [gitbash (⭐0)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
+*   [gitbash (⭐1)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

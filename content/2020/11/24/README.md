@@ -34,7 +34,7 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Excubo.Blazor.Diagrams (⭐132)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
+*   [Excubo.Blazor.Diagrams (⭐133)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

@@ -48,7 +48,7 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐320)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐322)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

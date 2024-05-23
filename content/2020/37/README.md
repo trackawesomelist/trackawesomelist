@@ -179,7 +179,7 @@
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
 *   [PyTorch Lightning (⭐27k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.6k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐2.8k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐2.9k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -508,11 +508,11 @@
 ### Components & Libraries / UI Components
 
 *   [vue-ultimate-skeleton-cards (⭐90)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐466)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐468)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐531)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐533)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -928,7 +928,7 @@
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐447)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -1030,7 +1030,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐10k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository :octocat: (⭐11k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -1057,7 +1057,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐643)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐644)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [62. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 

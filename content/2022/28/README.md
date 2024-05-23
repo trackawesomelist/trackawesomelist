@@ -93,7 +93,7 @@
 
 ### Go / Git
 
-*   [kyber (⭐590)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
+*   [kyber (⭐610)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
 ## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐743)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐744)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -143,7 +143,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [tensor-js (⭐35)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
+*   [tensor-js (⭐36)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -151,7 +151,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Upgini (⭐283)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
+*   [Upgini (⭐290)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 ## [15. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -215,8 +215,8 @@
 
 ### Compilers and interpreters
 
-*   [oven-sh/bun (⭐70k)](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-*   [squeek502/zua (⭐148)](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
+*   [oven-sh/bun (⭐71k)](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+*   [squeek502/zua (⭐152)](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
 *   [CurtisFenner/zsmol (⭐8)](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
 
 ## [24. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
@@ -234,9 +234,9 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ansimotd (⭐52)](https://github.com/yuhonas/zsh-ansimotd) - Adds old-school cool ANSI art when a login shell starts.
-*   [autoswitch-virtualenv (⭐474)](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - ZSH plugin to automatically switch python virtualenvs and pipenvs when traversing directories. Automatically detects [pipenv](https://pypi.org/project/pipenv/) and [poetry](https://python-poetry.org/) projects.
+*   [autoswitch-virtualenv (⭐478)](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - ZSH plugin to automatically switch python virtualenvs and pipenvs when traversing directories. Automatically detects [pipenv](https://pypi.org/project/pipenv/) and [poetry](https://python-poetry.org/) projects.
 *   [autoupdate-antigen (⭐27)](https://github.com/unixorn/autoupdate-antigen.zshplugin) - [Antigen (⭐7.9k)](https://github.com/zsh-users/antigen) doesn't do automatic updates like [oh-my-zsh](https://ohmyz.sh/). This plugin adds auto updating for `antigen`, both of `antigen` and the bundles loaded in your configuration.
-*   [autoupdate-oh-my-zsh-plugins (⭐244)](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - [oh-my-zsh](https://ohmyz.sh/) doesn't automatically update non-core plugins, this plugin autoupdates `git` repositories in the `$ZSH_CUSTOM` directory.
+*   [autoupdate-oh-my-zsh-plugins (⭐246)](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - [oh-my-zsh](https://ohmyz.sh/) doesn't automatically update non-core plugins, this plugin autoupdates `git` repositories in the `$ZSH_CUSTOM` directory.
 *   [aws (⭐1)](https://github.com/apachler/zsh-aws) - Forked from the original [oh-my-zsh](https://ohmyz.sh/) [aws (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aws). Includes completions for `awscli` and a few utilities for managing AWS profiles and displaying them in your prompt.
 *   [azcli (⭐1)](https://github.com/dmakeienko/azcli) - Helper for using the Azure cli tools.
 *   [azure-keyvault (⭐0)](https://github.com/milespossing/Azure-Keyvault-Zsh) - Makes using Azure keyvaults less verbose from the cli.
@@ -259,7 +259,7 @@
 *   [gvm (dgnest) (⭐5)](https://github.com/dgnest/zsh-gvm-plugin) - A `gvm` (Go version manager) plugin for ZSH.
 *   [hacker-quotes (⭐90)](https://github.com/oldratlee/hacker-quotes) - Outputs a random hacker quote when you open a terminal.
 *   [hadoop-plugin (⭐0)](https://github.com/valek/zsh-hadoop-plugin) - Adds some convenience aliases for [hadoop](https://hadoop.apache.org/) functions.
-*   [hangul (⭐165)](https://github.com/gomjellie/zsh-hangul) - Auto correct hangul(한글, korean) to English when it was supposed to be typed in English. 영어를 타이핑 해야되는데 한글로 타이핑된경우 자동으로 수정합니다.
+*   [hangul (⭐166)](https://github.com/gomjellie/zsh-hangul) - Auto correct hangul(한글, korean) to English when it was supposed to be typed in English. 영어를 타이핑 해야되는데 한글로 타이핑된경우 자동으로 수정합니다.
 *   [laravel-au (⭐8)](https://github.com/Saleh7/laravel-au-zsh-plugin) - Adds aliases for [Laravel](https://laravel.com/) 6.
 *   [macos (zshzoo) (⭐16)](https://github.com/zshzoo/macos) - ZSH goodies for macOS users.
 *   [maven-plugin (⭐1)](https://github.com/KyleChamberlin/zsh_maven_plugin) - A fork of the [oh-my-zsh](https://ohmyz.sh/) maven plugin.
@@ -273,12 +273,12 @@
 *   [redis (⭐5)](https://github.com/z-shell/redis) - Will run [redis-server](https://redis.io/) pointing it to the `redis.conf` configuration file. This can be used with the [zdharma/zredis (⭐4)](https://github.com/z-shell/zredis) plugin to share variables between shells.
 *   [safe-kubectl (⭐4)](https://github.com/benjefferies/safe-kubectl) - Add some safety when running [kubectl](https://kubernetes.io/docs/reference/kubectl/) by warning what context you're in after a definable number of seconds since the last `kubectl` command.
 *   [safe-rm (⭐21)](https://github.com/mattmc3/zsh-safe-rm) - Add safe-`rm` functionality so that `rm` will put files in your OS' trash instead of permanently deleting them.
-*   [saneopt (⭐21)](https://github.com/willghatch/zsh-saneopt) - Sane defaults for ZSH options, in the spirit of [vim-sensible (⭐5k)](https://github.com/tpope/vim-sensible).
+*   [saneopt (⭐21)](https://github.com/willghatch/zsh-saneopt) - Sane defaults for ZSH options, in the spirit of [vim-sensible (⭐5.1k)](https://github.com/tpope/vim-sensible).
 *   [sublime (⭐3)](https://github.com/valentinocossar/sublime) - Same as the official [Sublime](https://www.sublimetext.com/) plugin for [Oh My Zsh](https://ohmyz.sh/), but this opens files in the current Sublime window, if there is one already open.
 *   [sudo (hcgraf) (⭐31)](https://github.com/hcgraf/zsh-sudo) - The `sudo` plugin from [oh-my-zsh](https://ohmyz.sh/), extracted to a standalone. Toggles `sudo` before the current/previous command by pressing \*ESC-ESC- in emacs-mode or vi-command mode.
 *   [svn-n-zsh (⭐5)](https://github.com/khrt/svn-n-zsh-plugin) - Rewrite of the stock [oh-my-zsh](https://ohmyz.sh/) [svn](https://subversion.apache.org/) plugin.
-*   [syntax-highlighting (⭐19k)](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this *before* [zsh-users/zsh-history-substring-search (⭐2.4k)](https://github.com/zsh-users/zsh-history-substring-search) or they will both break.
-*   [system-clipboard (⭐130)](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for `vi` emulation keymaps. It works under Linux, macOS and Android (via Termux).
+*   [syntax-highlighting (⭐19k)](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this *before* [zsh-users/zsh-history-substring-search (⭐2.5k)](https://github.com/zsh-users/zsh-history-substring-search) or they will both break.
+*   [system-clipboard (⭐131)](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for `vi` emulation keymaps. It works under Linux, macOS and Android (via Termux).
 *   [terminal-app (⭐12)](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new macOS El Capitan Terminal.app features.
 *   [termux (⭐3)](https://github.com/zpm-zsh/termux) - Adds compatibility for [Termux](https://termux.com/).
 *   [terraform (hanjunlee) (⭐0)](https://github.com/hanjunlee/terraform-oh-my-zsh-plugin) - Add [terraform](https://www.terraform.io/) workspace to prompt.
@@ -287,7 +287,7 @@
 *   [tfenv (⭐2)](https://github.com/CDA0/zsh-tfenv) - Installs, updates, and loads `tfenv` inspired by [zsh-pyenv (⭐44)](https://github.com/mattberther/zsh-pyenv)
 *   [travis (⭐4)](https://github.com/denolfe/zsh-travis) - Opens the [Travis CI](https://www.travis-ci.com/) page for the current repo if one exists.
 *   [unique-id (⭐6)](https://github.com/z-shell/zsh-unique-id) - Provides a unique number that identifies a running Zshell session, in its shell variable `$ZUID_ID`. Besides this unique number, also a unique codename is provided, in shell variable `$ZUID_CODENAME`. An example use case is to hold logs in files `.../mylog-${ZUID_CODENAME}.log`, so that two different Zshells will not write to the same file at the same time.
-*   [update-zsh (⭐4)](https://github.com/AndrewHaluza/zsh-update-plugin) - Updates custom [oh-my-zsh](https://ohmyz.sh/) plugins. Only works with the oh-my-zsh framework.
+*   [update-zsh (⭐5)](https://github.com/AndrewHaluza/zsh-update-plugin) - Updates custom [oh-my-zsh](https://ohmyz.sh/) plugins. Only works with the oh-my-zsh framework.
 *   [uvenv (⭐2)](https://github.com/vincentto13/uvenv.plugin.zsh) - Extends the functionality of the original [oh-my-zsh](https://ohmyz.sh/) `venv` module.
 *   [vapor (⭐1)](https://github.com/notf0und/zsh-vapor) - Laravel [vapor (⭐302)](https://github.com/laravel/vapor-cli) plugin for ZSH to help you to run `vapor` from anywhere in the project tree, with auto-completion!
 *   [vi-mode (jeffreytse) (⭐2.8k)](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly `vi`(`vim`) mode plugin for ZSH.
@@ -964,7 +964,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome LIDAR-Camera calibration :octocat: (⭐809)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+*   [Awesome LIDAR-Camera calibration :octocat: (⭐853)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## [31. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
@@ -987,7 +987,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Wasp (⭐9.4k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+*   [Wasp (⭐12k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## [34. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -1019,7 +1019,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Software / Monitoring
 
-*   [Scrutiny (⭐4.3k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+*   [Scrutiny (⭐4.5k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 
 ## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -1045,7 +1045,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Notification
 
-*   [react-local-toast (⭐128)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
+*   [react-local-toast (⭐127)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 
 ### Audio / Video
 
@@ -1068,7 +1068,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Device Input / Keyboard Events
 
-*   [react-keyboard-navigator (⭐25)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐26)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
 
 ### Form Logic / Mouse Events
 

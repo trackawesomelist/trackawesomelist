@@ -24,7 +24,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome LIDAR-Camera calibration :octocat: (⭐809)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+*   [Awesome LIDAR-Camera calibration :octocat: (⭐853)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -47,7 +47,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Wasp (⭐9.4k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+*   [Wasp (⭐12k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -93,7 +93,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Software / Monitoring
 
-*   [Scrutiny (⭐4.3k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+*   [Scrutiny (⭐4.5k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

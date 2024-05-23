@@ -14,7 +14,7 @@
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐98)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gsh (⭐99)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 
 ### Programming Languages / Apache License
 

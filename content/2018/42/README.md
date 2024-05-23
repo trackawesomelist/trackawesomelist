@@ -465,7 +465,7 @@ Topics: Accessibility\
 
 ### Cryptography
 
-*   [libhydrogen (⭐578)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐586)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
@@ -473,7 +473,7 @@ Topics: Accessibility\
 
 ### Serialization
 
-*   [YAS (⭐721)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐719)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -1546,7 +1546,7 @@ Topics: Accessibility\
 ### Country Data
 
 *   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐997)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phony (⭐995)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -1558,7 +1558,7 @@ Topics: Accessibility\
 
 ### Internationalization
 
-*   [rails-i18n (⭐3.9k)](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
+*   [rails-i18n (⭐4k)](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
 
 ### Logging
 
@@ -1567,12 +1567,12 @@ Topics: Accessibility\
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐611)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐610)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐184)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐187)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

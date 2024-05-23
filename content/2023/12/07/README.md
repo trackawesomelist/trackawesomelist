@@ -28,7 +28,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Transformers (⭐123k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+*   [Transformers (⭐126k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

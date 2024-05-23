@@ -72,7 +72,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [surveyjs (⭐3.9k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+*   [surveyjs (⭐4k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -96,7 +96,7 @@
 
 ### Python / Git
 
-*   [django-cryptography (⭐356)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐364)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 

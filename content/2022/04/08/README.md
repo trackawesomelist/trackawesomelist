@@ -95,7 +95,7 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐492)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐493)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

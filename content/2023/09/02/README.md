@@ -34,7 +34,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [starfish-vue3-lowcode (⭐0)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
+*   [starfish-vue3-lowcode (⭐1)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 
 ### Components & Libraries / UI Components
 
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐81)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐88)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

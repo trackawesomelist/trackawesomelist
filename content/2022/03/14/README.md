@@ -75,7 +75,7 @@
 
 ### Tokenizers
 
-*   [gojieba (⭐2.3k)](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba (⭐32k)](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm.
+*   [gojieba (⭐2.3k)](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba (⭐33k)](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm.
 *   [gotokenizer (⭐18)](https://github.com/xujiajun/gotokenizer) - A tokenizer based on the dictionary and Bigram language models for Golang. (Now only support chinese segmentation)
 *   [gse (⭐2.5k)](https://github.com/go-ego/gse) - Go efficient text segmentation; support english, chinese, japanese and other.
 *   [MMSEGO (⭐63)](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.

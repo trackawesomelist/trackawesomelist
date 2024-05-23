@@ -16,14 +16,14 @@
 
 ### Downloading, Installing, Upgrading, and Building
 
-*   [Building (⭐7)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Building (⭐12)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 
 ### Exploitation Tools / Unikernel-like
 
-*   [LeechCore (⭐374)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-    *   [LeechCore-Plugins (⭐25)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [Volatility3 (⭐2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [LeechCore (⭐436)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+    *   [LeechCore-Plugins (⭐27)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [Volatility3 (⭐2.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ### Releases / Web articles
 
@@ -71,7 +71,7 @@
 
 ### Open Source Games / C++
 
-*   🔒 [Doom 3 (⭐2.8k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
+*   🔒 [Doom 3 (⭐2.9k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
 
 ### Specialty Topics / Rendering
 

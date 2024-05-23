@@ -106,7 +106,7 @@ git stash drop <stash@{n}>
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐954)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐952)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

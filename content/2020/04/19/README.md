@@ -106,14 +106,14 @@
 
 ### data
 
-*   [country-levels (⭐17)](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
+*   [country-levels (⭐19)](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 
 ## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
 *   [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sismics/reader)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSOwlnix (⭐233)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSOwlnix (⭐237)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -123,7 +123,7 @@
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐173k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐179k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 
 ### Telegram / Bot of RSS屋 (a Full Article Extractor Service)
 

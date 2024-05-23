@@ -78,7 +78,7 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 29 | Stars: 47 | Last update: 10 Aug 2022
+Installs: 27 | Stars: 47 | Last update: 10 Aug 2022
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

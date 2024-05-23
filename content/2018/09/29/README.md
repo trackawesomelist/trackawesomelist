@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,13 +56,7 @@ Rename Index.txt to Index.html
 
 *   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.8k)](https://github.com/pyserial/pyserial).
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Nir kaufman](https://twitter.com/nirkaufman)
-
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
@@ -72,7 +66,7 @@ Rename Index.txt to Index.html
 
 *   [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
 
-## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
@@ -83,7 +77,7 @@ Rename Index.txt to Index.html
 
 *   [DM's Esoteric Programming Languages](http://www.dangermouse.net/esoteric) - List of esoteric languages and algorithms written by dangermouse.
 
-## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 

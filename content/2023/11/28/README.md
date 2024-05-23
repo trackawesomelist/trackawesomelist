@@ -10,7 +10,7 @@
 
 ### Internationalization
 
-*   [simdutf (⭐956)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+*   [simdutf (⭐970)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 
 ## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-virtual-waterfall (⭐75)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
+*   [vue-virtual-waterfall (⭐80)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

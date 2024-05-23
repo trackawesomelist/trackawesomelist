@@ -72,7 +72,7 @@
 *   [RustAudio](https://github.com/RustAudio)
     *   [RustAudio/cpal (⭐2.4k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
     *   [RustAudio/rodio (⭐1.6k)](https://github.com/RustAudio/rodio) — Audio playback library
-    *   [RustAudio/rust-portaudio (⭐364)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/rust-portaudio (⭐365)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -85,7 +85,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pnpm (baliestri) (⭐6)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐65)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (ntnyq) (⭐66)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

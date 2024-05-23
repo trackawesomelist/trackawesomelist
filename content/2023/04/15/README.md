@@ -17,7 +17,7 @@
 ### Development tools / FFI
 
 *   PHP
-    *   [phper-framework/phper (⭐257)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+    *   [phper-framework/phper (⭐258)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 
 ## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -28,7 +28,7 @@
 ### Customization
 
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
-*   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
+*   [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Software / Monitoring
 
-*   [dashdot (⭐2.3k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐2.4k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -112,7 +112,7 @@
 
 ### data
 
-*   [france-geojson (⭐663)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+*   [france-geojson (⭐701)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
 ## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

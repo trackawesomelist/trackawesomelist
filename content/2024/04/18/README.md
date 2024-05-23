@@ -47,7 +47,7 @@
 
 ### Racing
 
-*   [Reburn 3 (⭐81)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
+*   [Reburn 3 (⭐89)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

@@ -25,7 +25,7 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐503)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
+    *   [statrs-dev/statrs (⭐523)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
 ### Libraries / Cryptography
 

@@ -33,8 +33,8 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐298k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐8.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐303k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐8.7k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -435,7 +435,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐770)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐769)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ## [36. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 

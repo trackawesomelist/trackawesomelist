@@ -44,7 +44,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐167)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐171)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -124,7 +124,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Monitoring/Statistics/Perfomance / Prometheus
 
 *   [pgSCV (⭐163)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2.4k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [postgres\_exporter (⭐2.6k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 

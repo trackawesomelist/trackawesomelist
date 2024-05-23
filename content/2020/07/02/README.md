@@ -38,7 +38,7 @@
 
 ### OS and Kernels / Apache License
 
-*   [cubit (⭐76)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+*   [cubit (⭐77)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Resources / Examples
 
-*   [Vue Mini Shop (⭐269)](https://github.com/BosNaufal/vue-mini-shop)
+*   [Vue Mini Shop (⭐268)](https://github.com/BosNaufal/vue-mini-shop)
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
 *   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
@@ -127,7 +127,7 @@
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐12)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
 *   [X-Flowchart-Vue (⭐1.4k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐411)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-WebDesktop-Vue (⭐410)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
 *   [Vue webpack typescript (⭐23)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 

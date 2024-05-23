@@ -215,7 +215,7 @@
 
 ## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [minci (⭐25)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐26)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 

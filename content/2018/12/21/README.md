@@ -80,7 +80,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Homemade Machine Learning (⭐22k)](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+*   [Homemade Machine Learning (⭐23k)](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

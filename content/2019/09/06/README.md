@@ -79,7 +79,6 @@
 
 ### CMS
 
-*   [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)

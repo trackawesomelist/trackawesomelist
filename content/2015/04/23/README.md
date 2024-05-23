@@ -57,7 +57,7 @@
 
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
 
-### Formulars
+### Forms
 
 *   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 

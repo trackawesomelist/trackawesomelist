@@ -459,7 +459,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐418)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐427)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -501,7 +501,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Icons
 
-*   [react-open-doodles (⭐64)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+*   [react-open-doodles (⭐65)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ### CSS / Style / Mouse Events
 

@@ -112,7 +112,7 @@
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome No Code Low Code (⭐273)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐284)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Bootables
 
-*   [chivay/vmt (⭐7)](https://github.com/chivay/vmt) - Toy OS.
+*   [chivay/vmt (⭐8)](https://github.com/chivay/vmt) - Toy OS.
 
 ## [13. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
@@ -260,8 +260,8 @@
 
 ### OCaml / Git
 
-*   [Digestif (⭐84)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
-*   [ocaml-tls (⭐285)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+*   [Digestif (⭐85)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+*   [ocaml-tls (⭐289)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -918,14 +918,14 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository :octocat: (⭐484)](https://github.com/irapkaist/removert)
+    *   [GitHub repository :octocat: (⭐507)](https://github.com/irapkaist/removert)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Algorithms / Object detection and object tracking
 
 *   [urban\_road\_filter :newspaper:](https://doi.org/10.3390/s22010194)-
     Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository :octocat: (⭐267)](https://github.com/jkk-research/urban_road_filter)
+    *   [GitHub repository :octocat: (⭐274)](https://github.com/jkk-research/urban_road_filter)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## [50. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
@@ -1020,11 +1020,11 @@
 
 *   CHIP-8
     *   [ColinEberhardt/wasm-rust-chip8 (⭐256)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator.
-    *   [starrhorne/chip8-rust (⭐139)](https://github.com/starrhorne/chip8-rust) — chip8 emulator
+    *   [starrhorne/chip8-rust (⭐140)](https://github.com/starrhorne/chip8-rust) — chip8 emulator
 
 ### Applications / Productivity
 
-*   [Bartib (⭐590)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐602)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ### Development tools / IDEs
 
@@ -1032,13 +1032,13 @@
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐229)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
+    *   [crates (⭐230)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
 
 ### Libraries / Text processing
 
-*   [cpc (⭐114)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐115)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [58. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -1080,7 +1080,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐323)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐325)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [63. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 

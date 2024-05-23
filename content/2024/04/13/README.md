@@ -76,7 +76,7 @@
 
 ### SEO / Node Based
 
-*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 
 ## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Libraries / Data visualization
 
-*   [plotly (⭐961)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
+*   [plotly (⭐974)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

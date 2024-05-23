@@ -39,7 +39,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐480)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐487)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

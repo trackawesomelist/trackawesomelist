@@ -88,7 +88,7 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐762)](https://github.com/koute/pinky) —
+    *   [koute/pinky (⭐765)](https://github.com/koute/pinky) —
     *   [pcwalton/sprocketnes (⭐748)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
@@ -102,13 +102,13 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐804)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [arrayfire/arrayfire-rust (⭐805)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
     *   [autumnai/collenchyma (⭐473)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐169)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐8.7k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐355)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
 
 ### Libraries / Logging

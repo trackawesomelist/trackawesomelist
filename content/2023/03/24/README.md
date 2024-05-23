@@ -48,11 +48,11 @@
 
 ### Misc libraries
 
-*   [karlseguin/log.zig (⭐67)](https://github.com/karlseguin/log.zig) - Structured logging library.
+*   [karlseguin/log.zig (⭐69)](https://github.com/karlseguin/log.zig) - Structured logging library.
 
 ### Network / HTTP
 
-*   [karlseguin/http.zig (⭐330)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
+*   [karlseguin/http.zig (⭐351)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -64,13 +64,13 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [zurawiki/tiktoken-rs (⭐200)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+*   [zurawiki/tiktoken-rs (⭐205)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐613)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐615)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
@@ -109,7 +109,7 @@
 
 ### Music Programming
 
-*   [Sardine (⭐183)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐185)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -129,11 +129,6 @@
 *   🚀 [Vue-Resume (⭐13)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend)
-*   [Michael Hladky](https://twitter.com/Michael_Hladky)
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

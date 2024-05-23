@@ -16,7 +16,7 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-lottie-player (⭐475)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
+*   [react-lottie-player (⭐477)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 
 ## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datagrid (⭐197)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+*   [vue-datagrid (⭐199)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 
 ## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

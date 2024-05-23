@@ -71,11 +71,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐88)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐90)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐10)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐11)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

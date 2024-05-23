@@ -10,7 +10,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [PyCaret (⭐8.3k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
+*   [PyCaret (⭐8.4k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -19,35 +19,35 @@
 
 ### Clojure / Deep Learning
 
-*   [Flare (⭐284)](https://github.com/aria42/flare) - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)
+*   [Flare (⭐285)](https://github.com/aria42/flare) - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)
 
 ### Clojure / Data Analysis
 
-*   [tech.ml.dataset (⭐627)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
+*   [tech.ml.dataset (⭐639)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
 
 ### Clojure / Data Visualization
 
 *   [Pink Gorilla Notebook (⭐102)](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL
-*   [notespace (⭐145)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
-*   [Delight (⭐334)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
+*   [notespace (⭐146)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
+*   [Delight (⭐336)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
 
 ### Clojure / Misc
 
-*   [kixistats (⭐349)](https://github.com/MastodonC/kixi.stats) - A library of statistical distribution sampling and transducing functions
+*   [kixistats (⭐352)](https://github.com/MastodonC/kixi.stats) - A library of statistical distribution sampling and transducing functions
 
 ### Python / Computer Vision
 
-*   [detectron2 (⭐28k)](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
+*   [detectron2 (⭐29k)](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapley (⭐209)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐211)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 *   [breze (⭐97)](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks.
-*   [Opytimizer (⭐589)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
+*   [Opytimizer (⭐595)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
 
 ### Python / Neural Networks
 
-*   [TResNet: High Performance GPU-Dedicated Architecture (⭐457)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
+*   [TResNet: High Performance GPU-Dedicated Architecture (⭐461)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
 *   [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 
 ### Tools / Misc

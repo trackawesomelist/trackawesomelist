@@ -68,14 +68,14 @@
 
 ### Others
 
-*   [eShopOnBlazor (⭐492)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐349)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [eShopOnBlazor (⭐496)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐354)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [json-struct (⭐372)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+*   [json-struct (⭐377)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
 ## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

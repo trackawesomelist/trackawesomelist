@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐830)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue-hotel-datepicker (⭐834)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
 *   [vue2-persian-datepicker (⭐100)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
@@ -286,11 +286,11 @@
 ### OS and Kernels / Apache License
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
-*   [bare-bones (⭐80)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+*   [bare-bones (⭐81)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
 ### Games / Apache License
 
-*   [co-terminal-apps (⭐27)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+*   [co-terminal-apps (⭐26)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ### Components / Apache License
 
@@ -314,7 +314,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐2k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐2.1k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ### Sorting
 
@@ -322,7 +322,7 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐656)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐661)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 

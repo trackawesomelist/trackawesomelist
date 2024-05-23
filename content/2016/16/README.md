@@ -129,7 +129,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### WebSocket
 
-*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐727)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 

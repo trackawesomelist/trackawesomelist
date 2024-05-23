@@ -41,13 +41,13 @@
 
 ### Graph
 
-*   [CXXGraph (⭐395)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐405)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### validation
 
-*   [gjf (⭐98)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+*   [gjf (⭐100)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

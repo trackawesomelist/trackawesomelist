@@ -26,7 +26,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema Sorter - sort schema models, enums, generators and datasources (⭐16)](https://github.com/omar-dulaimi/prisma-schema-sorter)
+*   [Prisma Schema Sorter - sort schema models, enums, generators and datasources (⭐19)](https://github.com/omar-dulaimi/prisma-schema-sorter)
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

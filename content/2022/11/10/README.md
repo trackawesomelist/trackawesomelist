@@ -68,7 +68,7 @@
 
 ### Online
 
-*   [2009scape](https://2009scape.org):flower\_playing\_cards: - A free & open-source remake of 2009 era RuneScape.
+*   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower\_playing\_cards:
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

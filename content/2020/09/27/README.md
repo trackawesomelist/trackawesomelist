@@ -67,7 +67,7 @@
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐5.5k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐57k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐5.6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐59k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

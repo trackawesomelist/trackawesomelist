@@ -66,7 +66,7 @@
 ### Memory Allocation
 
 *   [Hoard (⭐1.1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
-*   [jemalloc (⭐9k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [jemalloc (⭐9.1k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 

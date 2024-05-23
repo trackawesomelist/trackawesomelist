@@ -10,7 +10,7 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐217)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
+*   [illacloud/illa (⭐218)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -38,13 +38,13 @@
 
 ### DevOps / Apache License
 
-*   [powerjoular (⭐45)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐47)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐2.1k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 
@@ -55,11 +55,11 @@
 ### Algorithms / Basic matching algorithms
 
 *   [Iterative closest point (ICP) :red\_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository :octocat: (⭐244)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
-    *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
+    *   [GitHub repository :octocat: (⭐264)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+    *   [GitHub repository :octocat: (⭐1.6k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
     *   [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 *   [KISS-ICP :red\_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
-    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/PRBonn/kiss-icp)
+    *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)

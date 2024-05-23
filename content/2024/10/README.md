@@ -123,7 +123,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-commands (⭐3)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
+*   [ai-commands (⭐8)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -249,7 +249,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [LukasPietzschmann/boo.nvim (⭐30)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+*   [LukasPietzschmann/boo.nvim (⭐32)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
 ### Golang / Diagnostics
 
@@ -257,19 +257,19 @@
 
 ### Marks / Diagnostics
 
-*   [fnune/recall.nvim (⭐24)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+*   [fnune/recall.nvim (⭐26)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
 ### Statusline / Diagnostics
 
-*   [Mr-LLLLL/lualine-ext.nvim (⭐12)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+*   [Mr-LLLLL/lualine-ext.nvim (⭐14)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 
 ### Motion / Diagnostics
 
-*   [Mr-LLLLL/treesitter-outer (⭐6)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+*   [Mr-LLLLL/treesitter-outer (⭐5)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 
 ### Keybinding / Diagnostics
 
-*   [nvimtools/hydra.nvim (⭐80)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+*   [nvimtools/hydra.nvim (⭐86)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 
 ### Editing Support / Diagnostics
 
@@ -396,9 +396,9 @@
 
 *   PDF
     *   [bastibense/libharu\_ng (⭐9)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
-    *   [fschutt/printpdf (⭐765)](https://github.com/fschutt/printpdf) — PDF writing library
+    *   [fschutt/printpdf (⭐766)](https://github.com/fschutt/printpdf) — PDF writing library
     *   [J-F-Liu/lopdf (⭐1.5k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
-    *   [kaj/rust-pdf (⭐142)](https://github.com/kaj/rust-pdf) —
+    *   [kaj/rust-pdf (⭐143)](https://github.com/kaj/rust-pdf) —
 
 ## [31. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -543,7 +543,7 @@
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐451)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐460)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ### Containers
 
@@ -573,8 +573,8 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [kubevpn (⭐414)](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
-*   [tau (⭐215)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
+*   [kubevpn (⭐429)](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
+*   [tau (⭐247)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 

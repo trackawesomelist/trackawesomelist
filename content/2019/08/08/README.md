@@ -65,11 +65,11 @@
 
 ### Icons
 
-*   [iconify-react (⭐205)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐203)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐27)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐28)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

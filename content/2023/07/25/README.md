@@ -114,7 +114,7 @@
 
 ### Standards
 
-*   [JSend (⭐1.2k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+*   [JSend (⭐1.4k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Software / Diagramming
 
-*   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.6k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
+*   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.7k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
 ## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

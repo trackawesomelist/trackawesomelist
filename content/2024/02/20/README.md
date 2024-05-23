@@ -10,7 +10,7 @@
 
 ### Register / Diagnostics
 
-*   [kr40/nvim-macros (⭐33)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
+*   [kr40/nvim-macros (⭐34)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

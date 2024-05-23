@@ -77,13 +77,13 @@
 
 ### Concurrency
 
-*   [rotor (⭐327)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐334)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐649)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐654)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -247,9 +247,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐276)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐697)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
-*   [Deepchecks (⭐3.3k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [RexMex (⭐275)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐698)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [Deepchecks (⭐3.4k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -390,7 +390,7 @@
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐100)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Fx Samples (⭐108)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 
 ### Blogs / Power Platform (Microsoft)
 
@@ -733,13 +733,13 @@
 
 ### C / Git
 
-*   [libkcapi (⭐151)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
-*   [nettle (⭐54)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
+*   [libkcapi (⭐155)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+*   [nettle (⭐55)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.5k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.2k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐4.6k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.3k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
 ## [45. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 

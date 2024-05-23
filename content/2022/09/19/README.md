@@ -73,7 +73,7 @@
 
 ### Software / Search Engines
 
-*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐43k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
+*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐44k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
 
 ### Software / Wikis
 

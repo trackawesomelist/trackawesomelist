@@ -172,7 +172,7 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐848)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐860)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -190,7 +190,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐517)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐518)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -202,7 +202,7 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐58)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -244,7 +244,7 @@
 
 ### Reflection
 
-*   [Magic Enum (⭐4.4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.5k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

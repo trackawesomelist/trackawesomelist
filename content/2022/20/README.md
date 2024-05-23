@@ -167,7 +167,7 @@
 
 ### data
 
-*   [99boundaries (⭐9)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+*   [99boundaries (⭐10)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -359,7 +359,7 @@
 ### Responsive / Syntax Highlight
 
 *   [ant-design (⭐90k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
-*   [ChatUI (⭐2.4k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+*   [ChatUI (⭐2.5k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
 *   [fluentui (⭐18k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 *   [geist-ui (⭐4.2k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 *   [grommet (⭐8.3k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
@@ -367,9 +367,9 @@
 *   [orbit (⭐1.4k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐7.6k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-*   [semi-design (⭐7.9k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐910)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [reakit (⭐7.7k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [semi-design (⭐8k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+*   [shineout (⭐911)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -430,7 +430,7 @@
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐367)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐374)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -537,11 +537,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐142)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐143)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐17k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐18k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [33. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -863,12 +863,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐88)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐90)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 *   [vue-magnifier (⭐14)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐10)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐11)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 *   [@formkit/auto-animate (⭐12k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ### Components & Libraries / Utilities
@@ -970,13 +970,13 @@
     *   [GitHub repository :octocat: (⭐1.7k)](https://github.com/foxglove/studio)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
-    *   [GitHub repository :octocat: (⭐4.4k)](https://github.com/cnr-isti-vclab/meshlab)
+    *   [GitHub repository :octocat: (⭐4.5k)](https://github.com/cnr-isti-vclab/meshlab)
 
 ## [57. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Generic ZSH
 
-*   [zephyr (⭐90)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐93)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -985,7 +985,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐660)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐102)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐669)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐103)](https://github.com/andrewgregory/pacutils).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

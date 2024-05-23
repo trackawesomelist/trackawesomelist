@@ -10,7 +10,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐166)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐167)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

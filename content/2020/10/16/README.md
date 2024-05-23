@@ -14,10 +14,6 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ankit](https://twitter.com/ankitsharma_007)
-
 ### Books / Testing
 
 *   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
@@ -117,7 +113,7 @@
 
 ### Machine Learning
 
-*   [rumale (⭐734)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐743)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

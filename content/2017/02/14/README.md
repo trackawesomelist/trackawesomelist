@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 14, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -255,13 +255,7 @@ Webpage: <http://www.denizlihs.org/>
 *   WildML [\[Web\]](http://www.wildml.com/)
 *   FastML [\[web\]](http://www.fastml.com/)
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Community
-
-*   [@Angular on Twitter](https://twitter.com/angular)
-
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Videos
 

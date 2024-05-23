@@ -22,7 +22,7 @@
 
 ### Concurrency and Parallelism
 
-*   [Polyphony (⭐651)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+*   [Polyphony (⭐653)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Libraries / Caching
 
-*   [moka-rs/moka (⭐1.3k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
+*   [moka-rs/moka (⭐1.4k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

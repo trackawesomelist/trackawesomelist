@@ -10,13 +10,13 @@
 
 ### Misc
 
-*   [ToolJet (⭐26k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐27k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐97)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐100)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [3. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -74,7 +74,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐124)](https://github.com/alitnk/nest-prisma-monorepo)
+*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐126)](https://github.com/alitnk/nest-prisma-monorepo)
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

@@ -97,7 +97,7 @@ Language: English, 中文
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐487)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐489)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

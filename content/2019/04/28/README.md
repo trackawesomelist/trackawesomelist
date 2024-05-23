@@ -253,7 +253,7 @@
 
 ### Regular Expression
 
-*   [Hyperscan (⭐4.6k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+*   [Hyperscan (⭐4.7k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
 *   [PIRE (⭐328)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
 ## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)

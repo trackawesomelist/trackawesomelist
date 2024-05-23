@@ -224,7 +224,7 @@
 
 ### Querying / Symfony2
 
-*   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐33k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

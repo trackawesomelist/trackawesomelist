@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19 - Sep 25, 2016
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,20 +78,14 @@ git log --show-notes='*'
 
 *   [redis-store](http://redis-store.org/) - Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeouts, single or multiple nodes, and namespaces.
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Maxim Salnikov](https://twitter.com/webmaxru)
-
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Interesting Readings
 
 *   [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) - Guide to monitoring Apache Kafka, including native methods for metrics collection.
 *   [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection.
 
-## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [11. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
@@ -115,7 +109,7 @@ git log --show-notes='*'
 *   [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
 *   [BioBus](http://www.biobus.org/) - A mobile science education lab.
 
-## [13. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [12. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Getting Started
 
@@ -148,13 +142,13 @@ git log --show-notes='*'
 *   [Airbnb Sass and CSS Style Guide (⭐6.5k)](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
 *   [Dropbox (S)CSS Style Guide (⭐841)](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
-## [14. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [13. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Demos
 
 *   [chat-random](https://github.com/akiva/chat-random)
 
-## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -164,7 +158,7 @@ git log --show-notes='*'
 
 *   [Screeenly (⭐404)](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 
-## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Firebase
 
@@ -190,7 +184,7 @@ git log --show-notes='*'
 
 
 
-## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -204,13 +198,13 @@ git log --show-notes='*'
 *   [CANToolz (⭐304)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
-## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [shrinkpack (⭐792)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Articles
 
@@ -218,7 +212,7 @@ git log --show-notes='*'
 *   [CppCon 2015 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 *   [CppCon 2014 Presentation Materials (⭐2.3k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
-## [20. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [19. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Deployment
 
@@ -228,32 +222,32 @@ git log --show-notes='*'
 
 *   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
-## [21. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [20. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Examples / Aurelia Articles
 
 *   [Built with Aurelia](http://builtwithaurelia.com/) \* Showcase of examples created by the Aurelia community.
 
-## [22. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [21. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Other tools / Hooks
 
 *   [hubot-influxdb-alerts (⭐10)](https://github.com/amwelch/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using [hubot](https://hubot.github.com/) and influxdb
 
-## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Multiple-view Computer Vision
 
 *   [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 *   [Awesome 3D reconstruction list (⭐3.5k)](https://github.com/openMVG/awesome_3DReconstruction_list)
 
-## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Tuna (⭐1.7k)](https://github.com/Theodeus/tuna) - An audio effects library.
 
-## [25. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [24. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -267,19 +261,19 @@ git log --show-notes='*'
 
 *   [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 
-## [26. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 
-## [27. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [26. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / jQuery
 
 *   [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
 
-## [28. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [27. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / React
 
@@ -302,7 +296,7 @@ git log --show-notes='*'
 
 *   [Martin Wattenberg](https://twitter.com/wattenberg)
 
-## [29. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [28. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -338,26 +332,26 @@ git log --show-notes='*'
 
 *   [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
-## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [29. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Other Awesome Lists
 
 *   [ci tools compare2 (⭐2)](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 *   [ci tools compare 3 (⭐3k)](https://github.com/ligurio/Continuous-Integration-services)
 
-## [31. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Beta Page - <https://betapage.co/>
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
 *   [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
-## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / R companies
 
@@ -371,25 +365,25 @@ git log --show-notes='*'
 
 *   TripAdvisor <http://engineering.tripadvisor.com/>
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Date
 
 *   [DateHelper (⭐1.5k)](https://github.com/melvitax/DateHelper) - Simple date helper.
 
-## [35. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [34. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [owocki/s3\_disk\_util :fire: (⭐169)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
-## [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source)
 
@@ -403,19 +397,19 @@ git log --show-notes='*'
 
 *   [gtfslib-python (⭐43)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
 
-## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [PyGraphistry (⭐1.9k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
 *   [ref (⭐447)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -442,13 +436,13 @@ git log --show-notes='*'
 
 *   [tg\_client (⭐14)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
-## [41. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [40. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Styleguide and Branding
 
 *   [BBC](http://www.bbc.co.uk/gel)
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Viana do Castelo
 
@@ -478,7 +472,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
-## [43. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -527,7 +521,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
-## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [43. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Middlewares
 
@@ -537,7 +531,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Kahlan (⭐1.1k)](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -563,7 +557,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [react-aspnet-boilerplate (⭐287)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Frameworks
 

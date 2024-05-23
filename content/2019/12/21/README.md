@@ -30,8 +30,8 @@
 *   [WebAssembly (Wasm)](https://docs.google.com/presentation/d/1sonEk2neNVBcy8EzieUjWCNzj5SXN7dk-unkR_lpl8k/edit?usp=sharing)  - WebAssembly (Wasm) On the Edge Kevin Staunton-Lambert Solutions Architect R\&D @kevleyski [www.switch.tv](http://www.switch.tv) Wasm)
 *   [WildFires](https://docs.google.com/presentation/d/1yiVEOq2rvtFynP1tLdJj7pBWkAEiE9g8BMaoryxRVrk/edit?usp=sharing)  - VOD2Live Kevin Staunton-Lambert Solutions Architect R\&D @kevleyski Wild Fire! How video engineers can help save lives [www.switch.tv](http://www.switch.tv)
 *   [bash scripts to create VOD HLS stream with ffmpeg almighty (tested on Linux and OS X)](https://gist.github.com/mrbar42/ae111731906f958b396f30906004b3fa)  - bash scripts to create VOD HLS stream with ffmpeg almighty (tested on Linux and OS X) - README.md
-*   [matmoi/create-DASH-HLS (⭐37)](https://github.com/matmoi/create-DASH-HLS)  - A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS
 *   [matmoi/create-DASH-HLS (⭐37)](https://github.com/matmoi/create-DASH-HLS/)  - A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS
+*   [matmoi/create-DASH-HLS (⭐37)](https://github.com/matmoi/create-DASH-HLS)  - A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS
 
 ### Learning / Talks Presentations Podcasts
 
@@ -170,7 +170,6 @@
 ### Players / MPEG
 
 *   [IvanoBilenchi/Adaptive-Video-Player (⭐23)](https://github.com/IvanoBilenchi/Adaptive-Video-Player)  - HLS player for iOS that supports manual selection for the quality of adaptive streams - IvanoBilenchi/Adaptive-Video-Player
-*   [davidAgo4g/VideoPlayer-iOS](https://github.com/davidAgo4g/VideoPlayer-iOS)  - A library based on FFMPEG to play video files on iOS using OpenGLES and AudioQueue. Build with theos - davidAgo4g/VideoPlayer-iOS
 *   [imoreapps/ffmpeg-avplayer-for-ios-tvos (⭐1k)](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos)  - A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library. - imoreapps/ffmpeg-avplayer-for-ios-tvos
 *   [lightspark/lightspark (⭐1.8k)](https://github.com/lightspark/lightspark)  - An open source flash player implementation.
 *   [matvp91/indigo-player (⭐1.2k)](https://github.com/matvp91/indigo-player)  - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. - matvp91/indigo-player
@@ -191,7 +190,6 @@
 
 *   [CCecilia/roku-suite-desktop (⭐7)](https://github.com/CCecilia/roku-suite-desktop)  - Tool suite for Roku channel development.
 *   [MediaBrowser/Emby.Roku (⭐75)](https://github.com/MediaBrowser/Emby.Roku)  - Emby for Roku.
-*   [Roku](https://developer.roku.com/docs/specs/streaming.md)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
 *   [T-Pham/RokuJSONHelperNode (⭐2)](https://github.com/T-Pham/RokuJSONHelperNode)  - Roku SceneGraph JSON Helper.
 *   [XML + Code + Good times = RSG Application](https://medium.com/plexlabs/xml-code-good-times-rsg-application-b963f0cec01b)  - Written by John Zolezzi — April 6th 2018
 *   [anachirino/bifserver (⭐18)](https://github.com/anachirino/bifserver)  - Server which creates and serves up BIF files for Roku players - anachirino/bifserver
@@ -326,7 +324,6 @@
 ### Tools / Dolby
 
 *   [A Docker container with the video streaming tools you need](https://medium.com/@eyevinntechnology/a-docker-container-with-the-video-streaming-tools-you-need-b8319e98f36a)  - As a video streaming technician there are a number of tools that you find yourself using on a daily basis. Wouldn’t it be handy if all…
-*   [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)  - A distributed visual search and visual data analytics platform. - AKSHAYUBHAT/DeepVideoAnalytics
 *   [Comcast/eel (⭐103)](https://github.com/Comcast/eel)  - A simple proxy service to forward JSON events and transform or filter them along the way. - Comcast/eel
 *   [Comcast/gots (⭐303)](https://github.com/Comcast/gots)  - MPEG Transport Stream handling in Go.
 *   [Comcast/mamba (⭐175)](https://github.com/Comcast/mamba)  - Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data. - Comcast/mamba
@@ -337,9 +334,7 @@
 *   [Eyevinn/docker-serve (⭐3)](https://github.com/Eyevinn/docker-serve)  - A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer - Eyevinn/docker-serve
 *   [Eyevinn/fmp4-js (⭐12)](https://github.com/Eyevinn/fmp4-js)  - A Javascript library to parse ISO Base Media File Format (MPEG-4 Part 12) - Eyevinn/fmp4-js
 *   [Eyevinn/pseudo-live-playout (⭐1)](https://github.com/Eyevinn/pseudo-live-playout)  - Contribute to Eyevinn/pseudo-live-playout development by creating an account on GitHub.
-*   [Eyevinn/streaming-analyzer](https://github.com/Eyevinn/streaming-analyzer)  - Analyze and visualize HTTP ABR streams.
 *   [Eyevinn/toolbox (⭐230)](https://github.com/Eyevinn/toolbox)  - A set of Docker containers with Streaming tools.
-*   [Eyevinn/vod-to-live.js](https://github.com/Eyevinn/vod-to-live.js)  - NPM library for HLS VOD to Live.
 *   [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://link.medium.com/Lu3GnIPeg0)  - At Netflix, our real-time data infrastructure have embraced the multi-cluster Kafka architecture and Flink powered stream processing…
 *   [Kthulu120/liquid\_dl (⭐72)](https://github.com/Kthulu120/liquid_dl)  - Liquid-dl is a simple tool for utlities such as FFMPEG, youtube-dl, and scdl. It provides a simple framework with simple point and click options allowing users to just click on what they need and u...
 *   [Marcos-A/STRCleaner (⭐1)](https://github.com/Marcos-A/STRCleaner)  - Script that extracts all the text from a subtitles file ignoring time indications, HTML tags and other alien info. - Marcos-A/STRCleaner
@@ -347,7 +342,7 @@
 *   [Stream Analyzer - ts analyzer, stream validation, ETSI TR 101 290 | Elecard: Video Compression Guru ](https://www.elecard.com/products/video-analysis/stream-analyzer)  - Professional Video Analysis Tool For Syntax Analysis Of Encoded Media Streams. Operates With MPEG-2 PS/TS, VES and MP4 Files. Automation, batch execution via Command Line Interface. Check your multiplexer
 *   [ZaifSenpai/Batch-Py-Remux (⭐1)](https://github.com/ZaifSenpai/Batch-Py-Remux)  - Convert mkv video to hevc (h.265).
 *   [awslabs/aws-stale-playlist-detector (⭐41)](https://github.com/awslabs/aws-stale-playlist-detector)  - The Stale Playlist Detector (SPD) is a tool to monitor live HLS origin endpoints for changing playlists. The Stale Playlist Detector (SPD) will use data in the top-level playlist, the child playlis...
-*   [bcpierce00/unison (⭐3.7k)](https://github.com/bcpierce00/unison)  - Unison file synchronizer.
+*   [bcpierce00/unison (⭐3.8k)](https://github.com/bcpierce00/unison)  - Unison file synchronizer.
 *   [coopernurse/nginx-s3-proxy (⭐154)](https://github.com/coopernurse/nginx-s3-proxy)  - nginx compiled with aws-auth support, suitable for S3 reverse proxy usage - coopernurse/nginx-s3-proxy
 *   [estliberitas/node-thumbnails-webvtt (⭐30)](https://github.com/estliberitas/node-thumbnails-webvtt)  - Video thumbnail generator generating WebVTT spec file - estliberitas/node-thumbnails-webvtt
 *   [gnolizuh/BLSS (⭐196)](https://github.com/gnolizuh/BLSS)  - NGINX-based Live Media Streaming Server.
@@ -357,7 +352,7 @@
 *   [liwf616/awesome-live-stream (⭐436)](https://github.com/liwf616/awesome-live-stream)  - Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中.
 *   [mar10/wsgidav (⭐816)](https://github.com/mar10/wsgidav)  - A generic and extendable WebDAV server based on WSGI - mar10/wsgidav
 *   [mifi/lossless-cut (⭐22k)](https://github.com/mifi/lossless-cut)  -
-*   [minio/minio (⭐44k)](https://github.com/minio/minio)  - MinIO is a high performance object storage server compatible with Amazon S3 APIs - minio/minio
+*   [minio/minio (⭐45k)](https://github.com/minio/minio)  - MinIO is a high performance object storage server compatible with Amazon S3 APIs - minio/minio
 *   [obsproject/obs-studio (⭐56k)](https://github.com/obsproject/obs-studio)  - OBS Studio - Free and open source software for live streaming and screen recording - obsproject/obs-studio
 *   [realeyes-media/alpine-bento-ffmpeg (⭐1)](https://github.com/realeyes-media/alpine-bento-ffmpeg)  - Alpine Linux with FFMPEG, Bento, and PM2.
 *   [realeyes-media/alpine-node-video-multitool (⭐0)](https://github.com/realeyes-media/alpine-node-video-multitool)  - Contribute to realeyes-media/alpine-node-video-multitool development by creating an account on GitHub.
@@ -387,13 +382,12 @@
 *   [bengarney/list-of-streams (⭐123)](https://github.com/bengarney/list-of-streams)  - Community list of public test streams for HLS and DASH. - bengarney/list-of-streams
 *   [video-dev/streams (⭐10)](https://github.com/video-dev/streams)  - A repository of shared streams - no media uploads.
 
-### CDN / Slack/Discord/Other Groups
+### CDN / Slack Groups
 
 *   [AWS CloudFront Live failover](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html)  - You can set up CloudFront with origin failover for scenarios that require high availability. To get started, create an origin group in which you designate a primary origin for CloudFront plus a second origin that CloudFront automatically switches to when the primary origin returns specific HTTP status code failure responses.
 *   [AWS CloudFront for Live Streaming](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/live-streaming.html)  - To use AWS Media Services with CloudFront to deliver live content to a global audience, follow the guidance included in this section.
 *   [Amazon S3 | Fastly Help Guides](https://docs.fastly.com/en/guides/amazon-s3)  -
 *   [Edge Computing with Fastly CDN and Varnish VCL for Authenticated Requests - Endertech](https://endertech.com/blog/edge-computing-fastly-cdn-varnish-vcl-authenticated-requests)  - A brief explanation of how to use Fastly CDN and Varnish with authenticated requests to offload static file serving from the origin and edge caching.
-*   [How to use DASH and HLS Adaptive Streaming with AWS S3 and Cloudfront](https://bitmovin.zendesk.com/hc/en-us/articles/115001609634-How-to-use-DASH-and-HLS-Adaptive-Streaming-with-AWS-S3-and-Cloudfront)  - Bitmovin integrates DASH and HLS adaptive streaming seamlessly into your AWS workflows. The Bitmovin encoding service could be configured to use an AWS S3 bucket as input and output for your DASH a...
 *   [Lambda Edge Tutorial](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-edge-how-it-works-tutorial.html)  - This tutorial shows you how to get started with Lambda\@Edge by helping you create and add a sample Node.js function that runs in CloudFront. The example that we walk through adds HTTP security headers to a response, which can improve security and privacy for a website. (That said, you don’t need a website for this walkthrough; we simply add security headers to a response when CloudFront retrieves a file.)
 *   [Lambda@Edge Design Best Practices | Amazon Web Services](https://aws.amazon.com/blogs/networking-and-content-delivery/lambdaedge-design-best-practices/)  - Lambda\@Edge transforms CloudFront into a highly programmable CDN with serverless compute capabilities closer to your viewers around the world. This blog is the first in a series that explains best practices associated with using Lambda\@Edge functions to customize your content delivery.
 *   [OTT Content Delivery– CDN Alternatives](https://medium.com/@eyevinntechnology/ott-content-delivery-cdn-alternatives-cafe75dab71d?source=userActivityShare-94bccb50d11-1560983135&_branch_match_id=670018733519578135)  - Introduction

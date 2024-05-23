@@ -10,7 +10,7 @@
 
 ### Libraries / Data visualization
 
-*   [plotpy (⭐50)](https://github.com/cpmech/plotpy) — Rust plotting library using Python (Matplotlib)
+*   [plotpy (⭐49)](https://github.com/cpmech/plotpy) \[[plotpy](https://crates.io/crates/plotpy)] — Rust plotting library using Python (Matplotlib)
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -52,7 +52,7 @@
 
 ### AI / Diagnostics
 
-*   [CopilotC-Nvim/CopilotChat.nvim (⭐889)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [CopilotC-Nvim/CopilotChat.nvim (⭐971)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

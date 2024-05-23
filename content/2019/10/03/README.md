@@ -81,7 +81,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐7k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐7.1k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 

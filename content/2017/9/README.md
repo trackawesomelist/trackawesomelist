@@ -94,7 +94,7 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐666)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐669)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 
@@ -105,7 +105,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐525)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐527)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 

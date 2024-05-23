@@ -31,7 +31,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐30)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐33)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -50,13 +50,13 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-    *   [GitHub repository :octocat: (⭐3k)](https://github.com/TixiaoShan/LIO-SAM)
+    *   [GitHub repository :octocat: (⭐3.1k)](https://github.com/TixiaoShan/LIO-SAM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
 
 ### Others / Object detection and object tracking
 
-*   [Bpy :octocat: (⭐914)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
-*   [Photogrammetry importer :octocat: (⭐840)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+*   [Bpy :octocat: (⭐930)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
+*   [Photogrammetry importer :octocat: (⭐858)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 

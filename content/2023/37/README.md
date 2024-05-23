@@ -10,13 +10,13 @@
 
 ### Strategy
 
-*   [GLSMAC (⭐346)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
+*   [GLSMAC (⭐353)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
-*   [ssp (⭐47)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
+*   [ssp (⭐48)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 
 ### Integrated Development Environment
 
@@ -33,8 +33,8 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐274)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐658)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐282)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐663)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐127)](https://github.com/maras-archive/rsnake) — Snake.
+*   [maras-archive/rsnake (⭐126)](https://github.com/maras-archive/rsnake) — Snake.
 
 ### Applications / System tools
 
@@ -8294,7 +8294,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐380)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐389)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -8363,11 +8363,11 @@
 
 ### Python / Natural Language Processing
 
-*   [CometLLM (⭐437)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+*   [CometLLM (⭐456)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 
 ### Python / General-Purpose Machine Learning
 
-*   [CometML (⭐134)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+*   [CometML (⭐138)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
 ## [38. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 

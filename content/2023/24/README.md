@@ -173,28 +173,28 @@
 
 ### Components & Libraries / UI Components
 
-*   [notivue (⭐573)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
-*   [vue-collapsed (⭐119)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
+*   [notivue (⭐592)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
+*   [vue-collapsed (⭐120)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-use-active-scroll (⭐60)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
+*   [vue-use-active-scroll (⭐67)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
 
 ## [18. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐541)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
+*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐547)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
 *   [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code (⭐4.5k)](https://github.com/gluster/glusterfs)) `GPL-2.0/LGPL-3.0` `C`
 *   [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code (⭐14k)](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
 *   [Kubo (⭐16k)](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
 *   [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code (⭐1.5k)](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 *   [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
-*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐44k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐45k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 *   [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code (⭐1.6k)](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 *   [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
-*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐327)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
+*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐328)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
 
 ## [19. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -289,7 +289,7 @@
 
 ### Documentation
 
-*   [Doxide (⭐31)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
+*   [Doxide (⭐32)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -305,7 +305,7 @@
 
 ### Photo / Image
 
-*   [@frameright/react-image-display-control (⭐18)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
+*   [@frameright/react-image-display-control (⭐19)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 
 ## [28. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -502,7 +502,7 @@
 
 ### Applications / Games
 
-*   [mtkennerly/ludusavi (⭐1.8k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
+*   [mtkennerly/ludusavi (⭐1.9k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 
 ### Applications / Productivity
 
@@ -510,21 +510,21 @@
 
 ### Applications / Routing protocols
 
-*   [RustyBGP (⭐463)](https://github.com/osrg/rustybgp) - BGP
+*   [RustyBGP (⭐466)](https://github.com/osrg/rustybgp) - BGP
 
 ### Applications / Security tools
 
-*   [cotp (⭐172)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+*   [cotp (⭐208)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ### Libraries / Email
 
-*   [mailtutan/mailtutan (⭐149)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
+*   [mailtutan/mailtutan (⭐153)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
 
 ### Resources / Web programming
 
 *   Learning
     *   [Aquascope (⭐1.8k)](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
-    *   [Awesome Rust Streaming (⭐679)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams.
+    *   [Awesome Rust Streaming (⭐680)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams.
     *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful mentors willing to take mentees and educate them about Rust and programming.
     *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
     *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) — Build your own Redis, Git, Docker, or SQLite
@@ -532,26 +532,26 @@
     *   [Easy Rust (⭐7.8k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
     *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
     *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
-    *   [Idiomatic Rust (⭐5.9k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
-    *   [Learn Rust by 500 lines code (⭐373)](https://github.com/cuppar/rtd) — Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
+    *   [Idiomatic Rust (⭐6k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learn Rust by 500 lines code (⭐395)](https://github.com/cuppar/rtd) — Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
     *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
     *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
     *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
     *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
     *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
     *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-    *   [Rust Flashcards (⭐474)](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles.
+    *   [Rust Flashcards (⭐481)](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles.
     *   [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
-    *   [Rust Gym (⭐845)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
+    *   [Rust Gym (⭐847)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
     *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
     *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
     *   [Rust Language Cheat Sheet](https://cheats.rs/)
     *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
     *   [rust-how-do-i-start (⭐1k)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
     *   [rust-learning (⭐11k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
-    *   [Rustlings (⭐49k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
-    *   [Rusty CS (⭐859)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
-    *   [stdx (⭐1.9k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
+    *   [Rustlings (⭐50k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
+    *   [Rusty CS (⭐862)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
+    *   [stdx (⭐2k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
     *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
     *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
@@ -575,7 +575,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [RSS 阅读器](https://logspot.hocgin.top/addone-rss-reader) <sup>[1312](https://t.me/s/aboutrss/1312)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/bfdoopgbjcacghflbbdikollnphobemo)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [MeRead (⭐357)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [MeRead (⭐373)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Feedy](https://krillapps.com/feedy/) [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/feedy-rss-client/id588288104)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -594,7 +594,7 @@
 ### Other Apps / Outline Processor Markup Language
 
 *   Android Launcher
-    *   [Posidon launcher (⭐283)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
+    *   [Posidon launcher (⭐282)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
     *   [Stario Launcher](https://www.producthunt.com/products/stario-launcher) <sup>[1297](https://t.me/s/aboutrss/1297)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.stario.launcher)
 *   [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gedoor/legado)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Mastofeeder](https://mastofeeder.com/) <sup>[1327](https://t.me/s/aboutrss/1327)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jehna/mastofeeder)
@@ -622,7 +622,7 @@
 
 ### specifically from (*a certain platform*) / Telegram
 
-*   [tg-archive (⭐713)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
+*   [tg-archive (⭐759)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
 
 ### RSS2MAIL / Docsify
 

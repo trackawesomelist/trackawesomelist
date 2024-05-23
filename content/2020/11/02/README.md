@@ -398,7 +398,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐7.3k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐7.4k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

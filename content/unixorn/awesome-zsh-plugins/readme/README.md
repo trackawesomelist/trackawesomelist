@@ -832,7 +832,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [figures (⭐10)](https://github.com/zpm-zsh/figures) - Unicode symbols for ZSH.
 *   [firebase (Seqi) (⭐9)](https://github.com/Seqi/firebase-zsh) - Display the current working project or project alias when in a Firebase project directory or subdirectory.
 *   [firebase (rmrs) (⭐5)](https://github.com/rmrs/firebase-zsh) - Add an indicator in the prompt that you're in a directory with a `firebase.json` file (aka "firebase project").
-*   [firmine (⭐0)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
+*   [firmine (⭐1)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
 *   [fixnumpad-osx (⭐3)](https://github.com/zackintosh/fixnumpad-osx.plugin.zsh) - Enables numpad keys of Apple keyboards to be recognized in ZSH.
 *   [flow-plugin (⭐45)](https://github.com/sandstorm/oh-my-zsh-flow-plugin) - This plugin makes the `flow` command available inside every subdirectory of the TYPO3 Flow distribution.
 *   [fnm (dominik-schwabe) (⭐15)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐16k)](https://github.com/Schniz/fnm) if it is missing.
@@ -861,7 +861,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [fzf-tools (⭐8)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐60k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 *   [fzf-utils (⭐1)](https://github.com/redxtech/zsh-fzf-utils) - Provides functions to kill proceses and find in path with [fzf (⭐60k)](https://github.com/junegunn/fzf).
 *   [fzf-widgets (⭐86)](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf (⭐60k)](https://github.com/junegunn/fzf).
-*   [fzf-z (⭐166)](https://github.com/andrewferrier/fzf-z) - Brings together the `z` plugin and [fzf (⭐60k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 *   [fzfsh (⭐1)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐60k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
 *   [fzy (⭐57)](https://github.com/aperezdc/zsh-fzy) - Plugin that uses [fzy (⭐2.9k)](https://github.com/jhawthorn/fzy) for certain fuzzy matching operations.
 *   [gcloud-project (⭐10)](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Projects.
@@ -1484,7 +1483,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [zsh-z (ptavares) (⭐0)](https://github.com/ptavares/zsh-z) - Installs and loads [z](https://github.com/rupa/z.git).
 *   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐60k)](https://github.com/junegunn/fzf).
 *   [zshmarks (⭐267)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
-*   [zshrc-sync (⭐1)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
+*   [zshrc-sync (⭐2)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
 *   [zshrc (⭐5)](https://github.com/freak2geek/zshrc) - Load local `.zshrc` files from your project scopes.
 *   [zshrpg (⭐0)](https://github.com/aliervo/zshrpg) - A wrapper that fully integrates [rpg-cli (⭐1.3k)](https://github.com/facundoolano/rpg-cli/) with ZSH!
 *   [zsnapac (⭐2)](https://github.com/johnramsden/zsh-zsnapac) - Plugin for taking ZFS pre/post upgrade snapshots on Arch Linux.

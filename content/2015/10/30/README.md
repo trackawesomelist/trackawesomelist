@@ -71,7 +71,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Go / Symfony2
 
-*   [go-restful (⭐4.8k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
+*   [go-restful (⭐5k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 
 ---
 

@@ -295,7 +295,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyGrid (⭐610)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐612)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 

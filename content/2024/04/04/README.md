@@ -38,7 +38,7 @@
 ### Applications / Emulators
 
 *   IBM PC
-    *   [MartyPC (⭐472)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
+    *   [MartyPC (⭐478)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
 
 ## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 

@@ -16,12 +16,12 @@
 
 ### GUI
 
-*   [RmlUi (⭐2.4k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
+*   [RmlUi (⭐2.5k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
 
 ### Physics
 
 *   [Simbody (⭐2.2k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐864)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐871)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐105)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐106)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -524,11 +524,11 @@
 
 *   GitHub actions
     *   [icepuma/rust-action (⭐78)](https://github.com/icepuma/rust-action) — rust github action
-    *   [peaceiris/actions-mdbook (⭐281)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
+    *   [peaceiris/actions-mdbook (⭐279)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
 
 ### Libraries / Text search
 
-*   [andylokandy/simsearch-rs (⭐156)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] — A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
+*   [andylokandy/simsearch-rs (⭐157)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] — A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
 
 ### Libraries / Unsafe
 
@@ -548,7 +548,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ETCD Manager (⭐455)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
+*   [ETCD Manager (⭐459)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 
@@ -577,7 +577,7 @@
 
 ### Form Components / Input Types
 
-*   [react-numpad (⭐135)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
+*   [react-numpad (⭐136)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 ### Form Components / Sortable List
 
@@ -613,12 +613,12 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐540)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐541)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐361)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
-*   [react-spring (⭐27k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
+*   [react-spring (⭐28k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 *   [react-transitive-number (⭐210)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
-*   [react-particles-bg (⭐630)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐631)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 

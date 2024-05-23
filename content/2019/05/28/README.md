@@ -213,7 +213,7 @@
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐897)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 

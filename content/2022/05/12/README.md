@@ -82,7 +82,7 @@
 
 ### Form Components / Tag Input
 
-*   [tagify (⭐3.3k)](https://github.com/yairEO/tagify) - [demo & docs](https://yaireo.github.io/tagify/) - Lightweight, efficient Tags input component.
+*   [tagify (⭐3.4k)](https://github.com/yairEO/tagify) - [demo & docs](https://yaireo.github.io/tagify/) - Lightweight, efficient Tags input component.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

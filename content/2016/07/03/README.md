@@ -16,7 +16,7 @@
 
 ### Ruby Clients
 
-*   [httparty (⭐5.7k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
+*   [httparty (⭐5.8k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

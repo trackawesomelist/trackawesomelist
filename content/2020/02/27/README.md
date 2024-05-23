@@ -69,11 +69,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Akaunting (⭐7.5k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+*   [Akaunting (⭐7.6k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 ### Components & Libraries / Utilities
 
-*   [vue-injector (⭐19)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
+*   [vue-injector (⭐20)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

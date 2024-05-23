@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,7 @@
 
 *   [Google](https://google.github.io/styleguide/go)
 *   [Uber (⭐15k)](https://github.com/uber-go/guide)
-*   [Go Code Review Comments (⭐119k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐120k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -43,19 +43,13 @@
 
 *   [Local GPT (⭐19k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-### Books, blogs, and training materials / Community Chat Rooms
-
-*   [Ferrous Systems' Embedded Rust on Espressif](https://esp-rs.github.io/std-training) - Training Material for learning to use Embedded Rust with the Espressif ESP32-C3.
-
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
 *   [umidiparser (⭐26)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Learning
 
@@ -64,19 +58,19 @@
 *   [Nix Shorts (⭐14)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 *   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tab Bar
 
 *   [AnimatedTabBar (⭐272)](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations. Written with SwiftUI.
 
-## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [Go Get Crawl (⭐126)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 
-## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -92,7 +86,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -102,7 +96,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [vod2pod-rss (⭐190)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
-## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / React
 

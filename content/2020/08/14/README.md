@@ -45,7 +45,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Multi-tenancy with Prisma (⭐381)](https://github.com/errorname/prisma-multi-tenant)
+*   [Multi-tenancy with Prisma (⭐388)](https://github.com/errorname/prisma-multi-tenant)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

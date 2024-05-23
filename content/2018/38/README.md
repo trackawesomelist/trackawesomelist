@@ -42,7 +42,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐20k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐21k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -100,11 +100,11 @@
 ### Audio Tools
 
 *   [fre:ac (⭐1.3k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
-*   [Jack (⭐12)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐133)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [Jack (⭐14)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
+*   [K3b (⭐134)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 *   [Rubyripper (⭐118)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
-*   [split2flac (⭐248)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+*   [split2flac (⭐249)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 *   [Whipper (⭐1.1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐4)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
@@ -243,7 +243,7 @@
 
 ### Pagination
 
-*   [Pagy (⭐4.4k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.5k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 

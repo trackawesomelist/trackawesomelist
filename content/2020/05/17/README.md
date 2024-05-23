@@ -22,7 +22,7 @@
 
 ### Scheduling
 
-*   [que-scheduler (⭐108)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
+*   [que-scheduler (⭐112)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
 ## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

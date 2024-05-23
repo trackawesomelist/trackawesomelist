@@ -38,7 +38,7 @@
 
 ### JavaScript / Misc
 
-*   [regression-js (⭐930)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐935)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -116,7 +116,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Email
 
-*   [Sup (⭐876)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐882)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### Error Handling
 
@@ -124,7 +124,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐887)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐893)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### Performance Monitoring
 
@@ -140,7 +140,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Third-party APIs
 
-*   [Slack ruby gem (⭐244)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+*   [Slack ruby gem (⭐243)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
 ### Web Frameworks
 
@@ -173,7 +173,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Image Processing
 
-*   [Video++ (⭐714)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐713)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Inter-process communication
 
@@ -185,7 +185,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Math
 
-*   [QuantLib (⭐4.8k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.9k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ### Integrated Development Environment
 

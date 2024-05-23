@@ -38,7 +38,7 @@
 
 ### Templates
 
-*   [Qvm-Create-Windows-Qube (⭐312)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Qvm-Create-Windows-Qube (⭐329)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

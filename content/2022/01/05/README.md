@@ -26,10 +26,10 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐167)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐167)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MADNESS (⭐168)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐168)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐64)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐921)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐925)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -71,12 +71,12 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository :octocat: (⭐535)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐548)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome electronics :octocat: (⭐5.4k)](https://github.com/kitspace/awesome-electronics#readme)
+*   [Awesome electronics :octocat: (⭐5.5k)](https://github.com/kitspace/awesome-electronics#readme)
 
 ---
 

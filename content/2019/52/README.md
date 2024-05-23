@@ -756,22 +756,22 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐499)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐558)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐9.4k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
-*   [patroni (⭐6k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐324)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [Citus (⭐9.9k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [patroni (⭐6.3k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+*   [Percona XtraDB Cluster (⭐337)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4.5k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
-*   [pg\_auto\_failover (⭐997)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐179)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐326)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [pg\_auto\_failover (⭐1k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+*   [pglookout (⭐182)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐329)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
 *   [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
-*   [Postgres operator (⭐3.8k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
+*   [Postgres operator (⭐4k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
 *   [Spilo (⭐1.3k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 *   [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 

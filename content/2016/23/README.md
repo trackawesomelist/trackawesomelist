@@ -123,7 +123,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐440)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐442)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -141,13 +141,13 @@
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐101)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [ANNetGPGPU (⭐102)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
 *   [Recast/Detour (⭐6.2k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐9.6k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐9.7k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 

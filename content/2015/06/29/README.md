@@ -41,7 +41,7 @@
 
 ### Go / Symfony2
 
-*   [gocrud (⭐310)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐306)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

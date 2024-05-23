@@ -14,7 +14,7 @@
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐200)](https://github.com/wyhaya/see) — Static HTTP file server
+*   [wyhaya/see (⭐201)](https://github.com/wyhaya/see) — Static HTTP file server
 
 ### Libraries / Logging
 
@@ -22,7 +22,7 @@
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐43k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐44k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [2. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 

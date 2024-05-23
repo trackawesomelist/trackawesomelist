@@ -54,7 +54,7 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Logging
 
@@ -494,7 +494,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐886)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐894)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [38. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 

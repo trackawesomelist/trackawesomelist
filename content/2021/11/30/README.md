@@ -67,7 +67,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-voodoo (⭐13)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
+*   [react-voodoo (⭐14)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -28,13 +28,13 @@
 
 ### Open Source / Other
 
-*   [Ostara (⭐297)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
+*   [Ostara (⭐298)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 
 ## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / CLI
 
-*   [atlas (⭐4.9k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 

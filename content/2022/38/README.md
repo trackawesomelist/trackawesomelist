@@ -30,7 +30,7 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Components & Libraries / Utilities
 
-*   [vue-facing-decorator (⭐331)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
+*   [vue-facing-decorator (⭐336)](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
 
 ## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -60,7 +60,7 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Form Components / Image Editing
 
-*   [react-advanced-cropper (⭐580)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
+*   [react-advanced-cropper (⭐594)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
 *   [react-mobile-cropper (⭐18)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
 
 ## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
@@ -713,8 +713,8 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 ### Software / IT Asset Management
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
-*   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo (⭐2.1k)](https://github.com/allegro/ralph#live-demo), [Source Code (⭐2.1k)](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.6k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo (⭐2.2k)](https://github.com/allegro/ralph#live-demo), [Source Code (⭐2.2k)](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.8k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 ## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -732,12 +732,12 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Applications / Security tools
 
-*   [AFLplusplus/LibAFL (⭐1.8k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
+*   [AFLplusplus/LibAFL (⭐1.9k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
 
 ### Libraries / Network programming
 
 *   IPNetwork
-    *   [achanda/ipnetwork (⭐114)](https://github.com/achanda/ipnetwork) — A library to work with IP networks
+    *   [achanda/ipnetwork (⭐117)](https://github.com/achanda/ipnetwork) — A library to work with IP networks
     *   [candrew/netsim (⭐132)](https://github.com/canndrew/netsim) — A library for network simulation and testing
 
 ## [27. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
@@ -799,12 +799,12 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Games
 
-*   [Wolfenstein 3D ported to Blazor (⭐69)](https://github.com/JamesRandall/csharp-wolfenstein) - ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400) Wolfenstein 3D ported to modern C# and Blazor. [Article](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_1/).
+*   [Wolfenstein 3D ported to Blazor (⭐71)](https://github.com/JamesRandall/csharp-wolfenstein) - ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400) Wolfenstein 3D ported to modern C# and Blazor. [Article](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_1/).
 
 ### Articles / Others
 
-*   [C# / Blazor Wolfenstein - Part 7 - Solid Walls, Doors and C# Observations](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_7_sold_walls_doors_and_csharp_observations/) - September 20, 2022 - Part 7 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐69)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
-*   C# / Blazor Wolfenstein - Part 6 - The Basic Raycaster[](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_6_the_basic_raycaster/) - September 18, 2022 - Part 6 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐69)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
+*   [C# / Blazor Wolfenstein - Part 7 - Solid Walls, Doors and C# Observations](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_7_sold_walls_doors_and_csharp_observations/) - September 20, 2022 - Part 7 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐71)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
+*   C# / Blazor Wolfenstein - Part 6 - The Basic Raycaster[](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_6_the_basic_raycaster/) - September 18, 2022 - Part 6 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐71)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
 
 ## [35. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -912,7 +912,7 @@ Installs: 1000 | Stars: 143 | Last update: n/a
 
 ### Software / Search Engines
 
-*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐43k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
+*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐44k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
 
 ### Software / Ticketing
 

@@ -78,7 +78,7 @@
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐464)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐465)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

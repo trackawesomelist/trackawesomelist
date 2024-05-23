@@ -86,7 +86,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [primereact (⭐5.8k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
+*   [primereact (⭐5.9k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Python / Natural Language Processing
 
-*   [PySS3 (⭐331)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
+*   [PySS3 (⭐332)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
 
 ## [18. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

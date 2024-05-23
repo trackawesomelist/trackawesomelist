@@ -305,9 +305,9 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### C / Git
 
-*   [RHash (⭐528)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-*   [tiny-AES128-C (⭐3.9k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐8.2k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [RHash (⭐545)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [tiny-AES128-C (⭐4.1k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+*   [xxHash (⭐8.5k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
@@ -326,25 +326,25 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐238)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐246)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐763)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐774)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐532)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐539)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 *   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐232)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [pot (⭐234)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 *   [siphash-elixir (⭐18)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [gocrypto (⭐153)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐152)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -362,12 +362,12 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐93)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐94)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
 *   [CocoaSecurity (⭐1.1k)](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
-*   [RNCryptor (⭐3.3k)](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
+*   [RNCryptor (⭐3.4k)](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
 
 ### PHP / Git
 
@@ -380,21 +380,21 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐978)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐977)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [cryptoballot (⭐219)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [cryptoballot (⭐220)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐3.5k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 *   [rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 *   [sodiumoxide (⭐638)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-*   [suruga (⭐123)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐449)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [suruga (⭐124)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+*   [webpki (⭐453)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
-*   [CryptoSwift (⭐9.9k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+*   [CryptoSwift (⭐10k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 
 ## [19. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -625,7 +625,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Hanna (⭐36)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐37)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 

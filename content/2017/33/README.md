@@ -492,7 +492,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [LeafPlayer (⭐152)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐231)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐233)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 

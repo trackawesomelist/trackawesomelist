@@ -76,7 +76,7 @@
 
 ### Assets
 
-*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
@@ -89,7 +89,7 @@
 ### DevOps Tools
 
 *   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7.4k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Chef (⭐7.5k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
@@ -102,7 +102,7 @@
 
 ### Ebook
 
-*   [Bookshop (⭐9)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐10)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -114,11 +114,11 @@
 
 ### Mobile Development
 
-*   [fastlane (⭐38k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐39k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### Search
 
-*   [elasticsearch-ruby (⭐1.9k)](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch.
+*   [elasticsearch-ruby (⭐2k)](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch.
 
 ### Third-party APIs
 

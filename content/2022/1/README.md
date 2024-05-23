@@ -104,7 +104,7 @@
 
 ### operations
 
-*   [de9im (⭐24)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+*   [de9im (⭐25)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -123,17 +123,17 @@
 
 ### CLI
 
-*   [SQLLine (⭐598)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐607)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
-*   [BaRMan (⭐1.8k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐2.1k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐1.9k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [pgbackrest (⭐2.2k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐625)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐793)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐650)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐881)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -461,10 +461,10 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐167)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐167)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MADNESS (⭐168)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐168)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐64)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐921)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐925)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ### Debug
 
@@ -508,12 +508,12 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository :octocat: (⭐535)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐548)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome electronics :octocat: (⭐5.4k)](https://github.com/kitspace/awesome-electronics#readme)
+*   [Awesome electronics :octocat: (⭐5.5k)](https://github.com/kitspace/awesome-electronics#readme)
 
 ## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -863,7 +863,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐648)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐650)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [49. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
@@ -973,7 +973,7 @@
 *   Code Coverage
     *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — A code coverage tool
 *   Continuous Integration
-    *   [trust (⭐1.2k)](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
+    *   [trust (⭐1.3k)](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 *   Frameworks and Runners
     *   [AlKass/polish (⭐52)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
     *   [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
@@ -981,14 +981,14 @@
     *   [d-e-s-o/test-log (⭐94)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] — A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) — Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
     *   [GoogleTest Rust](https://crates.io/crates/googletest) — Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
-    *   [rlt (⭐106)](https://github.com/wfxr/rlt) — A universal load testing framework, with real-time tui support.
+    *   [rlt (⭐113)](https://github.com/wfxr/rlt) — A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework
 *   Mocking and Test Data
     *   [asomers/mockall (⭐1.4k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
-    *   [fake-rs (⭐811)](https://github.com/cksac/fake-rs) —  A library for generating fake data
+    *   [fake-rs (⭐817)](https://github.com/cksac/fake-rs) —  A library for generating fake data
     *   [goldenfile (⭐35)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
-    *   [httpmock (⭐425)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
+    *   [httpmock (⭐430)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
     *   [mockiato](https://crates.io/crates/mockiato) — A strict, yet friendly mocking library for unstable Rust 2018
     *   [mockito](https://crates.io/crates/mockito) — HTTP mocking
     *   [nrxus/faux (⭐403)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)

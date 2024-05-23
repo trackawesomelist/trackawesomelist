@@ -68,7 +68,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.7k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐7.8k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

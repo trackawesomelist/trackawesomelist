@@ -81,13 +81,13 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐298)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐299)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [tRPC Prisma Starter (⭐638)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+*   [tRPC Prisma Starter (⭐672)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

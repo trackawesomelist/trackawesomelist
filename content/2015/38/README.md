@@ -449,7 +449,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Natural Language Processing
 
-*   [Words Counted (⭐158)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+*   [Words Counted (⭐159)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

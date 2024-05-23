@@ -16,9 +16,9 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [completions (clarketm) (⭐58)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.6k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (clarketm) (⭐58)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.7k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
 *   [completions (zchee) (⭐104)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
-*   [completions (zsh-users) (⭐6.6k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+*   [completions (zsh-users) (⭐6.7k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 *   [fzshell (⭐74)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
 *   [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
 
@@ -30,7 +30,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [intlify/vue-i18n-next (⭐1.9k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
+*   [intlify/vue-i18n-next (⭐2k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

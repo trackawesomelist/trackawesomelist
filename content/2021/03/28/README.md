@@ -6,34 +6,30 @@
 
 
 
-## [1. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
-
-### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
-
-*   [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
-
-## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
-
-### Cache
-
-*   [Dictionary Flush Partial Cache (⭐1)](https://github.com/jbluemink/DictionaryFlushPartialCache) - Flashes Partial HTML Cache on changes to Sitecore Dictionary items.
-
-## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
-
-### Languages
-
-*   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
-*   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-stripe-elements (⭐530)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
-### Components & Libraries / Dev Tools
+## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
-*   [Volar (⭐5.4k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
+
+*   [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
+
+## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+
+### Cache
+
+*   [Dictionary Flush Partial Cache (⭐1)](https://github.com/jbluemink/DictionaryFlushPartialCache) - Flashes Partial HTML Cache on changes to Sitecore Dictionary items.
+
+## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+
+### Languages
+
+*   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
+*   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

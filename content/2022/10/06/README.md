@@ -25,7 +25,7 @@
 
 ### Misc libraries
 
-*   [ryoppippi/zigcv (⭐80)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
+*   [ryoppippi/zigcv (⭐85)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

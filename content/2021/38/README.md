@@ -60,7 +60,7 @@
 
 ### GUI
 
-*   [xtd (⭐714)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
+*   [xtd (⭐719)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -140,7 +140,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Tools / Misc
 
-*   [DVClive (⭐150)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
+*   [DVClive (⭐153)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
 ## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 

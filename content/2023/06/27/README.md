@@ -60,7 +60,7 @@
 
 ### Misc / Apache License
 
-*   [adage (⭐4)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
+*   [adage (⭐6)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

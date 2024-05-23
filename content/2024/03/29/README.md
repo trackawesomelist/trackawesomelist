@@ -33,7 +33,7 @@
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐166)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐167)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Build Systems
 
-*   [Sccache (⭐5.3k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐5.4k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

@@ -33,20 +33,20 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐374)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐396)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐563)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐578)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
-*   [facebook/opaque-ke (⭐275)](https://github.com/facebook/opaque-ke) — Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
+*   [facebook/opaque-ke (⭐274)](https://github.com/facebook/opaque-ke) — Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
 
 ### Libraries / Parsing
 
-*   [rust-bakery/nom (⭐9k)](https://github.com/rust-bakery/nom) — parser combinator library
+*   [rust-bakery/nom (⭐9.1k)](https://github.com/rust-bakery/nom) — parser combinator library
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Open Source Games / C++
 
-*   🔒 [Doom 3 (⭐2.8k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
+*   🔒 [Doom 3 (⭐2.9k)](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
 
 ### Specialty Topics / Rendering
 
@@ -248,7 +248,7 @@
 
 ### Queues and Messaging
 
-*   [Lowkiq (⭐141)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
+*   [Lowkiq (⭐142)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
 ## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -296,14 +296,13 @@
 
 *   [brew (wintermi) (⭐5)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
 *   [cmaker (⭐8)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [golang (⭐4)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 *   [rust (wintermi) (⭐7)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gcloud (littleq0903) (⭐77)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
+*   [gcloud (littleq0903) (⭐78)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
 *   [gcloud (wintermi) (⭐3)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface ([gcloud](https://cloud.google.com/cli) CLI) completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -471,7 +470,7 @@
 
 ### Downloading, Installing, Upgrading, and Building
 
-*   [Building (⭐7)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Building (⭐12)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 *   [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
 
@@ -529,8 +528,8 @@
 
 ### Clearnet & Anonymous Networking / Anonymity
 
-*   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
-*   [Lokinet (⭐1.6k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+*   [ipfs (⭐23k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+*   [Lokinet (⭐1.7k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Clearnet & Anonymous Networking / Crypto
 
@@ -554,14 +553,14 @@
 ### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐756)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐759)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Bonzai (⭐138)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
-*   [LeechCore (⭐374)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-    *   [LeechCore-Plugins (⭐25)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [Volatility3 (⭐2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [Bonzai (⭐152)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [LeechCore (⭐436)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+    *   [LeechCore-Plugins (⭐27)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [Volatility3 (⭐2.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ### Optics and Extra Info / Xen Exploitation
 
@@ -619,7 +618,7 @@
 
 ### Querying / Symfony2
 
-*   [RestQA (⭐72)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [RestQA (⭐80)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
 ## [48. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -638,7 +637,7 @@
 
 ### ToDos
 
-*   [ididit! (⭐210)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+*   [ididit! (⭐209)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Articles / Others
 

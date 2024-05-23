@@ -18,7 +18,7 @@
 
 ### Rust / Git
 
-*   [rustls (⭐5.3k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐5.6k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
 ## [2. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -326,7 +326,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Web Frameworks
 
-*   [Syro (⭐135)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐137)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 

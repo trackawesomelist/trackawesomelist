@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2015
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,28 +37,7 @@
 
 *   [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Jack Franklin](https://twitter.com/jack_franklin)
-*   [Thierry Chatel](https://twitter.com/ThierryChatel)
-*   [Uri Shaked](https://twitter.com/urishaked)
-*   [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
-*   [Sharon DiOrio](https://twitter.com/sharondio)
-*   [John Papa](https://twitter.com/John_Papa)
-*   [Dan Wahlin](https://twitter.com/danwahlin)
-*   [Christian Weyer](https://twitter.com/christianweyer)
-*   [Todd Motto](https://twitter.com/toddmotto)
-*   [Tim Ruffles](https://twitter.com/timruffles)
-*   [Wassim Chegham](https://twitter.com/manekinekko)
-*   [Aaron Frost](https://twitter.com/js_dev)
-*   [Wilson Mendes](https://twitter.com/willmendesneto)
-*   [Jared Williams](https://twitter.com/jaredwilli)
-*   [Gerard Sans](https://twitter.com/gerardsans)
-*   [Pascal Precht](https://twitter.com/PascalPrecht)
-
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -72,13 +51,13 @@
 
 *   [Elixir Fountain](https://soundcloud.com/elixirfountain) - The Elixir Fountain podcast.
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Redshift
 
 *   [everythingMe/redshift\_console (⭐92)](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 
-## [9. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Search Engine Framework
 
@@ -88,13 +67,13 @@
 
 *   [Hadoop360](http://www.hadoop360.com/)
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [data-science-ipython-notebooks (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+*   [data-science-ipython-notebooks (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
-## [11. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [10. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Extensions / POSIX implementations
 

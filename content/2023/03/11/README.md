@@ -16,7 +16,7 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐464)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐475)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

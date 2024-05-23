@@ -242,10 +242,6 @@
 
 *   [artemave/workspace-diagnostics.nvim (⭐91)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
-### Terminal Integration / Diagnostics
-
-*   [RAprogramm/nekifoch (⭐9)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
-
 ---
 
 - Prev: [Feb 13, 2024](/content/2024/02/13/README.md)

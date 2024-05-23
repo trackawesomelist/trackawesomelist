@@ -128,7 +128,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Other lists / Hash functions
 
-*   [Awesome crypto-papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome crypto-papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

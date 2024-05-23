@@ -50,11 +50,11 @@
 
 ### JSON
 
-*   [taoJSON (⭐573)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐577)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [linalg.h (⭐832)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [linalg.h (⭐834)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Open Source / Other
 
-*   [Motrix (⭐43k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐44k)](https://github.com/agalwood/Motrix) - Download manager.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 

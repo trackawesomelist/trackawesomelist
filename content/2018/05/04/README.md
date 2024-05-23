@@ -338,7 +338,7 @@
 
 ### Build Systems
 
-*   [clib (⭐4.7k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
+*   [clib (⭐4.8k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
 ## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

@@ -224,7 +224,7 @@
 *   [vue-2.x-boilerplate (⭐25)](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small starter kit for a Vue project Vuex + vue-router
 *   [vue-minesweeper (⭐3)](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
 *   [koa-vue-notes-web (⭐199)](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
-*   [Vuejs Shopping Cart (⭐342)](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
+*   [Vuejs Shopping Cart (⭐343)](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
 *   [PokedexVueJs (⭐17)](https://github.com/rchung95/PokedexVueJs) by @rchung95
 *   [vuefire-auth (⭐29)](https://github.com/aofdev/vuefire-auth) A Vuefire Vue2-Auth-Email Verification with Firebase
 *   [vuefire-realtimedatabase (⭐28)](https://github.com/aofdev/vuefire-realtimedatabase) A Vuefire Vue2-RealtimeDatabaseCRUD with Firebase
@@ -236,7 +236,7 @@
 *   [conway (⭐3)](https://github.com/edge/conway) Conway's Game of Life in Vue.
 *   [vuex-feature-scoped-structure (⭐225)](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
 *   [vuex-examples (⭐258)](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
-*   [vue-vuex-todomvc (⭐48)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
+*   [vue-vuex-todomvc (⭐47)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 *   [vuejs-music-player (⭐33)](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
 *   [Vue.js Best Practices Example Project (⭐43)](https://github.com/sarneeh/vuejs-example-stock-trader) - A best practices example project using Vue.js + Vue Router + Vuex + Vuelidate
 
@@ -246,7 +246,7 @@
 *   [npmcharts.com (⭐154)](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 *   [Koel (⭐15k)](https://github.com/phanan/koel) - A personal music streaming server that works.
 *   [Raven Reader (⭐2.7k)](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader made using atom electron and vue.js.
-*   [Gokotta (⭐507)](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
+*   [Gokotta (⭐508)](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
 *   [CoPilot (⭐2.9k)](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
 *   [Retrospectify (⭐111)](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
 *   [jade-press (⭐41)](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
@@ -257,17 +257,17 @@
 *   [Surfbird (⭐331)](https://github.com/surfbirdapp/surfbird) - A Twitter client written with modern web technologies.
 *   [Approach0 (⭐338)](https://github.com/approach0/search-engine) - A math-aware search engine.
 *   [Flox (⭐1.3k)](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
-*   [JavaScript Guessing Game (⭐415)](https://github.com/samiheikki/javascript-guessing-game) - A game for identifying JavaScript tools and libraries.
+*   [JavaScript Guessing Game (⭐416)](https://github.com/samiheikki/javascript-guessing-game) - A game for identifying JavaScript tools and libraries.
 *   [vue-ghpages-blog (⭐404)](https://github.com/viko16/vue-ghpages-blog) - A blog based on GitHub pages by Vue.js 2 + Webpack 2.
 *   [Vuedo (⭐2.3k)](https://github.com/Vuedo/vuedo) - Blog platform, built with Laravel and Vue.js.
-*   [vue-music163 (⭐93)](https://github.com/pluto1114/vue-music163) - A Vue.js project for music.
+*   [vue-music163 (⭐94)](https://github.com/pluto1114/vue-music163) - A Vue.js project for music.
 *   [Tomato5 (⭐240)](https://github.com/zhangxin840/tomato5) - Real-time collaboration tool, it combines Pomodoro Technique with a team status share board.
 *   [Web Learn (⭐197)](https://github.com/freearhey/web-learn) - A service which provides simple access to thousands of video tutorials on web developing and programming.
 *   [Materialize-blog (⭐204)](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
 *   [SDR News (⭐61)](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
 *   [PJ Blog (⭐2.9k)](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
-*   [Lulumi-browser (⭐429)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
-*   [vue-wordpress-pwa (⭐696)](https://github.com/bstavroulakis/vue-wordpress-pwa)
+*   [Lulumi-browser (⭐431)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
+*   [vue-wordpress-pwa (⭐697)](https://github.com/bstavroulakis/vue-wordpress-pwa)
 *   [OpenAPI 3 viewer (⭐91)](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
 *   [Stacer (⭐8.8k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
 *   [Distrochooser.de (⭐4)](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
@@ -278,7 +278,7 @@
 *   [mmf-blog-vue2 (⭐232)](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
 *   [Media Manager (⭐244)](https://github.com/iutbay/mm) - Web File Manager.
 *   [dyu/bookmarks (⭐151)](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
-*   [JSON Schema Editor (⭐268)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
+*   [JSON Schema Editor (⭐269)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 *   [npm-stats (⭐113)](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
 *   [vue2-admin-lte (⭐1.1k)](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 
@@ -287,12 +287,12 @@
 *   [vue-datepicker-mobile (⭐17)](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 *   [vue-draggable-cal (⭐86)](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
 *   [vue-vanilla-datetime-picker (⭐29)](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
-*   [vue2-daterange-picker (⭐324)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
+*   [vue2-daterange-picker (⭐327)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 *   [vue-timeselector (⭐46)](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [app-framework (⭐653)](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
+*   [app-framework (⭐654)](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
 *   [Myfirebase (⭐70)](https://github.com/myfirebase/myfirebase) - A decoupled Single page application Framework which is highly compatible with google firebase.
 
 ### Components & Libraries / UI Utilities
@@ -490,11 +490,11 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### Terminal User Interface / Apache License
 
-*   [areadline (⭐6)](https://github.com/samueltardieu/areadline) - Ada binding to the readline library.
+*   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada binding to the readline library.
 
 ### 3D / Apache License
 
-*   [ada-doom-3 (⭐251)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐252)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Machine Learning / Apache License
 
@@ -506,7 +506,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [aforth (⭐21)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+*   [aforth (⭐23)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ### Format Readers, Writers and Checkers / Apache License
 

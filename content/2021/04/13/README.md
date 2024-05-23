@@ -135,7 +135,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐795)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐801)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 
 ## [14. Awesome Json](/content/burningtree/awesome-json/README.md)
 

@@ -45,7 +45,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐7.9k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐7.9k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
+*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐8k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐8k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 
 ### Software / Document Management
 
@@ -98,7 +98,7 @@
 
 ### Development tools / Web Servers
 
-*   [mask (⭐997)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
+*   [mask (⭐1k)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

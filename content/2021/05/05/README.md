@@ -21,13 +21,13 @@
 
 *   Apache Kafka
     *   [fede1024/rust-rdkafka (⭐1.5k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka (⭐7.3k)](https://github.com/confluentinc/librdkafka) bindings
-    *   [gklijs/schema\_registry\_converter (⭐93)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
-    *   [kafka-rust/kafka-rust (⭐1.1k)](https://github.com/kafka-rust/kafka-rust) —
+    *   [gklijs/schema\_registry\_converter (⭐95)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
+    *   [kafka-rust/kafka-rust (⭐1.2k)](https://github.com/kafka-rust/kafka-rust) —
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐134)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐307)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐133)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐307)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐136)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐311)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐133)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐311)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 

@@ -118,7 +118,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐631)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐633)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -126,17 +126,17 @@
 
 ### Database Tools
 
-*   [Rails DB (⭐1.4k)](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
+*   [Rails DB (⭐1.5k)](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
 
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐301)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐304)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
 *   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
-*   [March Hare (⭐98)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
+*   [March Hare (⭐97)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 

@@ -60,7 +60,7 @@
 
 ### Games
 
-*   [DiabloBlazor (⭐93)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
+*   [DiabloBlazor (⭐92)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

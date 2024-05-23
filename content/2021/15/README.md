@@ -464,7 +464,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐795)](https://github.com/OpenHV/OpenHV):flower\_playing\_cards: - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐801)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 
 ## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -571,7 +571,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Ciri (⭐127)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
+*   [Ciri (⭐126)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 *   [MoneyTree (⭐184)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 
 ### Data Visualization
@@ -580,11 +580,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐463)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐881)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐883)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -596,11 +596,11 @@
 
 ### Markdown Processors
 
-*   [markdown\_helper (⭐37)](https://github.com/BurdetteLamar/markdown_helper#markdown-helper) - A markdown pre-processor implementing file inclusion and page TOC (table of contents).
+*   [markdown\_helper (⭐38)](https://github.com/BurdetteLamar/markdown_helper#markdown-helper) - A markdown pre-processor implementing file inclusion and page TOC (table of contents).
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐172)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐171)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ### Search
 
@@ -760,13 +760,13 @@
 
 ### Azure
 
-*   [Sitecore Azure Scripts (⭐17)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
+*   [Sitecore Azure Scripts (⭐16)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
 *   [Sitecore Diagnostics (⭐3)](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
-*   [Application Insights Annotations (⭐2)](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
+*   [Application Insights Annotations (⭐3)](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
 
 ### Containers
 
-*   [Sitecore Deployment on Kubernetes Example (⭐4)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
+*   [Sitecore Deployment on Kubernetes Example (⭐5)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
 
 ### Editing
 

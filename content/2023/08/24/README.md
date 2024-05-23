@@ -22,7 +22,7 @@
 ### Libraries / eBPF
 
 *   [aya/aya-rs (⭐2.7k)](https://github.com/aya-rs/aya) — Built with a focus on developer experience and operability.
-*   [libbpf/libbpf-rs (⭐639)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
+*   [libbpf/libbpf-rs (⭐654)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

@@ -57,28 +57,28 @@
 *   [libsodium (⭐12k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 *   [libtomcrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 *   [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-*   [wolfSSL (⭐2.1k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+*   [wolfSSL (⭐2.2k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 
 ### C++ / Git
 
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
-*   [HElib (⭐3)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [HElib (⭐6)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 *   [s2n (⭐4.4k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp / Git
 
 *   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
-*   [PCLCrypto (⭐228)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+*   [PCLCrypto (⭐227)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 
 ### Common Lisp / Git
 
-*   [trivial-ssh (⭐39)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+*   [trivial-ssh (⭐40)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
 
 ### Elixir / Git
 
 *   [elixir-rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-*   [ex\_crypto (⭐134)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+*   [ex\_crypto (⭐135)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 
 ### Erlang / Git
 
@@ -92,23 +92,23 @@
 
 ### JavaScript / Git
 
-*   [javascript-crypto-library (⭐285)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+*   [javascript-crypto-library (⭐286)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 *   [PolyCrypt (⭐265)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐425)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐424)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
 *   [Crypto.jl (⭐9)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
-*   [MbedTLS.jl (⭐40)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
+*   [MbedTLS.jl (⭐41)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
 *   [SHA.jl (⭐46)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐341)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐348)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
@@ -117,15 +117,15 @@
 
 ### Python / Git
 
-*   [charm (⭐513)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐528)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 *   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-*   [pycryptodome (⭐2.6k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+*   [pycryptodome (⭐2.7k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 
 ### R / Git
 
-*   [rscrypt (⭐32)](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
+*   [rscrypt (⭐33)](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
 
 ### Ruby / Git
 

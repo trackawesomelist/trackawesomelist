@@ -75,19 +75,19 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [birdland (⭐45)](https://github.com/rlouf/birdland) - A recommendation library in Go.
-*   [leaves (⭐408)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
+*   [birdland (⭐46)](https://github.com/rlouf/birdland) - A recommendation library in Go.
+*   [leaves (⭐415)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 *   [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
-*   [golearn (⭐9.1k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
+*   [golearn (⭐9.2k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 *   [goml (⭐1.5k)](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
-*   [gorgonia (⭐5.3k)](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
+*   [gorgonia (⭐5.4k)](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
 *   [therfoo (⭐18)](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 *   [neat (⭐69)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **\[Deprecated]**
-*   [GoNN (⭐357)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
+*   [GoNN (⭐359)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
 
 ### Go / Spatial analysis and geometry
 
-*   [go-geom (⭐773)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+*   [go-geom (⭐790)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 *   [gogeo (⭐1.6k)](https://github.com/golang/geo) - Spherical geometry in Go.
 
 ### Go / Data Analysis / Data Visualization
@@ -104,7 +104,7 @@
 
 ### Credits / Misc
 
-*   References for Go were mostly cut-and-pasted from [gopherdata (⭐853)](https://github.com/gopherdata/resources/tree/master/tooling)
+*   References for Go were mostly cut-and-pasted from [gopherdata (⭐857)](https://github.com/gopherdata/resources/tree/master/tooling)
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

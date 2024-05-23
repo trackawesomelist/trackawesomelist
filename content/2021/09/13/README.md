@@ -113,7 +113,7 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐112)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐113)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

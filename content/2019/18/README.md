@@ -94,7 +94,7 @@
 
 ### API / Automation
 
-*   [DataFire (⭐580)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐583)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐933)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐934)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -361,7 +361,7 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐967)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐970)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

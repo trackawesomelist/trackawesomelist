@@ -52,7 +52,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ZuiOJ (⭐135)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
+*   [ZuiOJ (⭐137)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Database Tools
 
-*   [Rein (⭐669)](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
+*   [Rein (⭐670)](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

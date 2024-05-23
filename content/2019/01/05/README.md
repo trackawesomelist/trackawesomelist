@@ -34,7 +34,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [aforth (⭐21)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+*   [aforth (⭐23)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

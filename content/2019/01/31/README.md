@@ -43,13 +43,13 @@
 ### Database Tools
 
 *   [SecondBase (⭐221)](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
-*   [Standby (⭐87)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
+*   [Standby (⭐86)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 
 ### Scientific
 
 *   Utilities
-    *   [algorithms (⭐2.6k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
-    *   [jaro\_winkler (⭐187)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
+    *   [algorithms (⭐2.7k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
+    *   [jaro\_winkler (⭐190)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
     *   [primes-utils (⭐3)](https://github.com/jzakiya/primes-utils) - A Rubygem which provides a suite of extremely fast utility methods for testing and generating primes.
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
     *   [smarter\_csv (⭐1.4k)](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.

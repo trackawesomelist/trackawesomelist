@@ -72,7 +72,7 @@
 
 ### Bootables
 
-*   [rafaelbreno/zig-os (⭐26)](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
+*   [rafaelbreno/zig-os (⭐27)](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Libraries / Caching
 
-*   [06chaynes/http-cache (⭐63)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
+*   [06chaynes/http-cache (⭐64)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -121,8 +121,8 @@
 *   Rust: Game Framework
     *   🎉 [Ambient (⭐3.7k)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
     *   🎉 [Amethyst (⭐8k)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
-    *   🎉 [Bevy (⭐32k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
-    *   🎉 [Macroquad (⭐2.7k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by *RayLib*.
+    *   🎉 [Bevy (⭐33k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
+    *   🎉 [Macroquad (⭐2.9k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by *RayLib*.
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [confer (⭐3)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
+*   [confer (⭐4)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
 *   [setpath (⭐0)](https://github.com/mys721tx/set_path) - Adds some local paths to your `fpath` and `$PATH`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

@@ -89,7 +89,7 @@
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐30)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

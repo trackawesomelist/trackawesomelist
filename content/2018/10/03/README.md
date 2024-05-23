@@ -17,7 +17,7 @@
 
 ### CLI
 
-*   [pg\_activity (⭐2.3k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
+*   [pg\_activity (⭐2.4k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐305)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 
 ## [10. Vim Galore](/content/mhinz/vim-galore/README.md)
 

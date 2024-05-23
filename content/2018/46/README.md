@@ -222,7 +222,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐166)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐167)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -431,7 +431,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐700)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐705)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
@@ -598,7 +598,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Modular Genealogy (⭐206)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
+*   [Modular Genealogy (⭐207)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ---

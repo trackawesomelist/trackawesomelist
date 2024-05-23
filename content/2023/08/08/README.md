@@ -10,12 +10,12 @@
 
 ### Game Engine
 
-*   [quakeforge (⭐34)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
+*   [quakeforge (⭐35)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
 *   [ezEngine (⭐1.2k)](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
 
 ### Graph
 
-*   [Graaf (⭐85)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
+*   [Graaf (⭐84)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

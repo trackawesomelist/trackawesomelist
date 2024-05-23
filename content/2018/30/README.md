@@ -497,11 +497,11 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Contents / Backups
 
-*   [pg\_back (⭐332)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐350)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐367)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐370)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
 ## [44. Awesome](/content/craftcms/awesome/week/README.md)

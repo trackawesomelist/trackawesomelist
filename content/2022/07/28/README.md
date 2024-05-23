@@ -38,7 +38,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jq (⭐297)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.1k)](https://github.com/itchyny/gojq). Requires [fzf (⭐60k)](https://github.com/junegunn/fzf).
+*   [jq (⭐299)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.1k)](https://github.com/itchyny/gojq). Requires [fzf (⭐60k)](https://github.com/junegunn/fzf).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

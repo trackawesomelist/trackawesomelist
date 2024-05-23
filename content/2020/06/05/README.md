@@ -61,7 +61,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Testing Prisma with PostgreSQL and Jest (⭐106)](https://github.com/ctrlplusb/prisma-pg-jest)
+*   [Testing Prisma with PostgreSQL and Jest (⭐104)](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -277,7 +277,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Web Servers
 
-*   [Falcon (⭐2.4k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.5k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ---
 

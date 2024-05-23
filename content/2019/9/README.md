@@ -16,7 +16,7 @@
 
 ### conversion
 
-*   [togeojson (⭐374)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐391)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -1674,7 +1674,7 @@
 
 ### PDF
 
-*   [InvoicePrinter (⭐870)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐872)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -1691,7 +1691,7 @@
 
 ### Social Networking
 
-*   [Mastodon (⭐4)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+*   [Mastodon (⭐5)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
 
 ### Third-party APIs
 

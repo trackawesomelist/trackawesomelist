@@ -10,13 +10,13 @@
 
 ### Libraries / Text processing
 
-*   [null8626/decancer (⭐86)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+*   [null8626/decancer (⭐87)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 
 ## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐616)](https://github.com/mohammed-bahumaish/prisma-editor)
+*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐688)](https://github.com/mohammed-bahumaish/prisma-editor)
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐32)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐40)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

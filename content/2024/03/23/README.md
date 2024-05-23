@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23, 2024
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [serveo](https://serveo.net/) — Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Finance / Audio Record and Process
-
-*   [SubManager](https://getsubmanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-manage-subs/id1632853914)
-
-## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Free Courses
 

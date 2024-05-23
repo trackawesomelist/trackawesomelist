@@ -47,7 +47,7 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐145)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
+*   [dynamic\_bitset (⭐147)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

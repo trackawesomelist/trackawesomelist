@@ -29,7 +29,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-rangedate-picker (⭐217)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
+*   [vue-rangedate-picker (⭐218)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
 
 ## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

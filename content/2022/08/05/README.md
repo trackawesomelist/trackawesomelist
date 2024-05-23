@@ -64,7 +64,6 @@
 ### Software / Miscellaneous
 
 *   [Apache Solr](https://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. ([Source Code (⭐1k)](https://github.com/apache/solr)) `Apache-2.0` `Java/Docker/K8S`
-*   [NATS](https://nats.io/) - Publish/Subscribe event bus, durable queues, key-value store, object store, and more. Native multi-tenancy, multiple authentication and authorization mechanisms. Easy to self-host and federate. ([Source Code (⭐15k)](https://github.com/nats-io/nats-server), [Clients](https://github.com/nats-io)) `Apache-2.0` `Go/deb/Docker/K8S`
 
 ### Software / Software Development - IDE & Tools
 

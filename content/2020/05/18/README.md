@@ -21,7 +21,7 @@
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐18)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐19)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -91,11 +91,11 @@
 *   [RealWorld Example App - mongo (⭐428)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.7k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Graph Machine Learning / Others
+### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐692)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+*   [Little Ball of Fur (⭐692)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

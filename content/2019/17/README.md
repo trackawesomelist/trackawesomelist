@@ -533,16 +533,16 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐885)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐899)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 *   [Intel Games Task Scheduler (⭐444)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
 
 ### Debug
 
-*   [Nonius (⭐357)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐356)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ### Regular Expression
 
-*   [Hyperscan (⭐4.6k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+*   [Hyperscan (⭐4.7k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
 *   [PIRE (⭐328)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
 ## [37. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)

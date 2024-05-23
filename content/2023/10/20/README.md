@@ -113,16 +113,16 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tailwind-datepicker (⭐211)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
+*   [vue-tailwind-datepicker (⭐212)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 
 ### Components & Libraries / Frameworks
 
-*   [Stellar UI (⭐22)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+*   [Stellar UI (⭐23)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐138)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐140)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

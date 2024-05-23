@@ -22,7 +22,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AnySniper (⭐35)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
+*   [AnySniper (⭐36)](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -34,8 +34,8 @@
 
 ### Development tools / Formatters
 
-*   [dprint (⭐2.9k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-*   [Prettier Rust (⭐167)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+*   [dprint (⭐3k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
+*   [Prettier Rust (⭐170)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

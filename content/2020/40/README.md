@@ -798,11 +798,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐963)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐978)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐501)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐506)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -891,7 +891,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### C / General-Purpose Machine Learning
 
-*   [cONNXr (⭐173)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+*   [cONNXr (⭐176)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 ### C / Computer Vision
 
@@ -899,11 +899,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐402)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐404)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### C++ / General-Purpose Machine Learning
 
-*   [skynet (⭐62)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
+*   [skynet (⭐61)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
 *   [Hopsworks (⭐1.1k)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
@@ -911,7 +911,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [colibri-core (⭐122)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 *   [genius (⭐235)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
 *   [python-zpar (⭐48)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
-*   [DeepPavlov (⭐6.5k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
+*   [DeepPavlov (⭐6.6k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### C++ / Sequence Analysis
 
@@ -945,7 +945,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MLPNeuralNet (⭐896)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
+*   [MLPNeuralNet (⭐897)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
 *   [BPN-NeuralNetwork (⭐33)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
 *   [Multi-Perceptron-NeuralNetwork (⭐24)](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - It implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers.
 *   [KRHebbian-Algorithm (⭐12)](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisory and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. **\[Deprecated]**
@@ -958,19 +958,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML Model building (⭐22)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
-*   [steppy (⭐135)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
-*   [SimpleAI (⭐953)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
+*   [ML Model building (⭐25)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
+*   [steppy (⭐134)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
+*   [SimpleAI (⭐955)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 *   [neuropredict (⭐99)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 *   [imbalanced-learn](https://imbalanced-learn.org/stable/) - Python module to perform under sampling and oversampling with various techniques.
 *   [stacked\_generalization (⭐117)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
-*   [PyGrid (⭐610)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐612)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ### Python / Data Analysis / Data Visualization
 
 *   [DataVisualization (⭐35)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Mars (⭐2.7k)](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
-*   [pastalog (⭐416)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐417)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### R / General-Purpose Machine Learning
 
@@ -1164,10 +1164,6 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Software / File Transfer & Synchronization
 
 *   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐12k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
-
-### Software / Miscellaneous
-
-*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐12k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Resource Planning
 
@@ -1436,61 +1432,64 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Editor Components / Testing
 
-*   [@ctrl/ngx-codemirror (⭐277)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
+*   [@ctrl/ngx-codemirror (⭐278)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
 *   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
-*   [angular2-froala-wysiwyg (⭐727)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
+*   [angular2-froala-wysiwyg (⭐728)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 
 ### File Upload / Testing
 
 *   [ng2-file-upload (⭐1.9k)](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
-*   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
+*   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
 *   [ngx-flow (⭐58)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload.
 
-### Form Controls / Testing
+### Forms / General
 
-*   [ngx-color (⭐431)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 *   [angular-imask (⭐4.8k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
+
+### Forms / Form Controls
+
+*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 *   [angular2-multiselect-dropdown (⭐280)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 *   [ng-select (⭐3.2k)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 
-### Icons / Testing
+### Icons / Validation
 
 *   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
 *   [ng2-fontawesome (⭐21)](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
 
-### Layout Components / Testing
+### Layout Components / Validation
 
-*   [angular-fullpage (⭐173)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
-*   [angular-split (⭐814)](https://github.com/bertrandg/angular-split) - Angular split component.
+*   [angular-fullpage (⭐175)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
+*   [angular-split (⭐815)](https://github.com/bertrandg/angular-split) - Angular split component.
 *   [egjs-infinitegrid (⭐1.9k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 *   [ngx-scrolltop (⭐30)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 
-### Loaders / Testing
+### Loaders / Validation
 
 *   [angular2-promise-buttons (⭐87)](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo.
-*   [ngx-progressbar (⭐989)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+*   [ngx-progressbar (⭐992)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 
-### Maps / Testing
+### Maps / Validation
 
 *   [angular-cesium (⭐179)](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
-*   [ngx-mapbox-gl (⭐340)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
+*   [ngx-mapbox-gl (⭐341)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 
-### Notifications / Testing
+### Notifications / Validation
 
 *   [ngx-toastr (⭐2.5k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 
-### State Management / Testing
+### State Management / Validation
 
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
 
-### Tables / Testing
+### Tables / Validation
 
 *   [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
 
 ### UI Libraries / General
 
 *   [Nebular (⭐8k)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
-*   [NG ZORRO MOBILE (⭐795)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
+*   [NG ZORRO MOBILE (⭐794)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 *   [NG ZORRO (⭐8.8k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 *   [ngx-ui (⭐700)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 *   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
@@ -1509,7 +1508,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [egjs-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
-*   [ngu-carousel (⭐322)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
+*   [ngu-carousel (⭐323)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 
 ### Misc Components / Node Based
 
@@ -1530,7 +1529,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps.
 *   [casl-angular (⭐5.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.6k)](https://github.com/stalniy/casl) with Angular2+.
 *   [ngx-auth-firebaseui (⭐591)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
-*   [ngx-permissions (⭐922)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+*   [ngx-permissions (⭐925)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
 
 ### Analytics / Node Based
 
@@ -1724,7 +1723,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Resources / Examples
 
 *   [COVID19 Live Data Component (⭐10)](https://github.com/snturk/covid19-vue-component) - Simple component that shows live covid19 data across the world.
-*   [vue-stack-cesium (⭐17)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
+*   [vue-stack-cesium (⭐18)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
 ### Resources / Books
 
@@ -1740,11 +1739,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [Nippon-color (⭐112)](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
 *   [Saleina CMS (⭐27)](https://github.com/saleina/SaleinaCMS) - A static site content management system built with vue using git as a backend.
 *   [Vuido (⭐6.1k)](https://github.com/mimecorg/vuido) - A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
-*   [YouGet (⭐194)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
+*   [YouGet (⭐195)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
 *   [Vue Pug Stylus (⭐43)](https://github.com/wesssel/vue-pug-stylus) - Vue + Pug + Stylus boilerplate 💚 🐶 🖌
 *   [Crypto News (⭐28)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
 *   [Epiboard (⭐327)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
-*   [zhudyos/duic (⭐293)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
+*   [zhudyos/duic (⭐294)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
 *   [Vuemmerce (⭐419)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
 *   [Carpoolear (⭐94)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
 *   [RosterWebApp (⭐19)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
@@ -1895,7 +1894,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Development tools / Services
 
-*   [deps.rs (⭐412)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐414)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [97. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 

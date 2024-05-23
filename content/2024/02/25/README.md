@@ -28,12 +28,12 @@
 
 ### Image Processing
 
-*   [fpng (⭐822)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
+*   [fpng (⭐831)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
 *   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 
 ### Miscellaneous
 
-*   [CCTZ (⭐579)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
+*   [CCTZ (⭐581)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Applications / Productivity
 
-*   [yashs662/rust\_kanban (⭐91)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) — A Kanban App for the terminal
+*   [yashs662/rust\_kanban (⭐131)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) — A Kanban App for the terminal
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

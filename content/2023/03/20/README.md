@@ -37,16 +37,16 @@
 *   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
     *   [GitHub repository :octocat: (⭐2.2k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
-*   [OSSDC SIM (⭐76)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐76)](https://github.com/OSSDC/OSSDC-SIM)
+*   [OSSDC SIM (⭐78)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository :octocat: (⭐78)](https://github.com/OSSDC/OSSDC-SIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository :octocat: (⭐433)](https://github.com/tier4/AWSIM)
+    *   [GitHub repository :octocat: (⭐450)](https://github.com/tier4/AWSIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome ROS 2 :octocat: (⭐1.5k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome ROS 2 :octocat: (⭐1.6k)](https://github.com/fkromer/awesome-ros2#readme)
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

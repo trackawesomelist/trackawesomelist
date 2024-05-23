@@ -23,7 +23,7 @@
 
 ### Security
 
-*   [bundler-audit (⭐2.6k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+*   [bundler-audit (⭐2.7k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
 ## [4. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5.5k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐5.6k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

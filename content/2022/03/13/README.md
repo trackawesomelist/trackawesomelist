@@ -16,7 +16,7 @@
 
 ### Algorithms and data structures
 
-*   [ziglibs/s2s (⭐114)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+*   [ziglibs/s2s (⭐115)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 
 ### Network / HTTP
 
@@ -70,9 +70,9 @@
 ### Games / Apache License
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
-*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐84)](https://github.com/AdaCore/gtkada) Button Mania game.
-*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐24)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) for saving state.
-*   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐86)](https://github.com/AdaCore/gtkada) Button Mania game.
+*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐25)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐28)](https://github.com/pmderodat/ada-toml) for saving state.
+*   [bingada (⭐9)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐86)](https://github.com/AdaCore/gtkada).
 
 ### Components / Apache License
 
@@ -81,7 +81,7 @@
 ### Graphical User Interface / Apache License
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
-*   [gtkada (⭐84)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+*   [gtkada (⭐86)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 ### Compression / Apache License
 
@@ -92,7 +92,7 @@
 
 *   [protobuf-ada (⭐17)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 *   [protobuf (⭐29)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐6)](https://github.com/godunko/matreshka).
-*   [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+*   [ada-toml (⭐28)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License
 
@@ -100,7 +100,7 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [asfml (⭐24)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+*   [asfml (⭐25)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 ### Utilities / Apache License
 
@@ -108,11 +108,11 @@
 
 ### Office / Apache License
 
-*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)) file manager for Linux.
+*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐86)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
 ### Simulation / Apache License
 
-*   [eagle-lander (⭐28)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)/Cairo).
+*   [eagle-lander (⭐28)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐86)](https://github.com/AdaCore/gtkada)/Cairo).
 
 ## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

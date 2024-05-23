@@ -144,7 +144,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐258)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐259)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [13. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -425,7 +425,7 @@
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐6.4k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐590)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐339)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [PySpark Cheatsheet (⭐349)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
@@ -433,7 +433,7 @@
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.2k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐8.1k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐8.4k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -441,7 +441,7 @@
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 *   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-*   [AI Expert Roadmap (⭐28k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+*   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 *   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
@@ -586,7 +586,7 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐925)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐939)](https://github.com/ad-si/awesome-music-production)
 
 ## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -642,14 +642,14 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐72)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐112)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐71)](https://github.com/lets-cli/lets) cli task runner.
+*   [ssh (sunlei) (⭐117)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐18)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐71)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
-*   [gitbash (⭐0)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
+*   [gitbash (⭐1)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
 *   [simple (drNoob13) (⭐0)](https://github.com/drNoob13/SimpleZshTheme/) - Includes decorators for python virtual environment, `git` status and current directory.
 
 ## [42. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)

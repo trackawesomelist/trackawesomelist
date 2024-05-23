@@ -64,7 +64,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-mathjax (⭐65)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
-*   [vue-mathjax-next (⭐23)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
+*   [vue-mathjax-next (⭐24)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

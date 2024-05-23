@@ -36,13 +36,13 @@
 ### Customization
 
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
-*   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
+*   [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
-*   [dashdot (⭐2.3k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐2.4k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -78,11 +78,11 @@
 
 ### data
 
-*   [france-geojson (⭐663)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+*   [france-geojson (⭐701)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
 ### resources
 
-*   [geojson-invalid-geometry (⭐25)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
+*   [geojson-invalid-geometry (⭐30)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
 
 ## [12. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Configuration
 
-*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+*   [ini-cpp (⭐32)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Table
 
-*   [Material-React-Table (⭐1.3k)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+*   [Material-React-Table (⭐1.4k)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 *   [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Test / Lazy Load
@@ -163,12 +163,12 @@
 ### Development tools / FFI
 
 *   PHP
-    *   [phper-framework/phper (⭐257)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+    *   [phper-framework/phper (⭐258)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 
 ### Libraries / Game development
 
 *   Skillratings
-    *   [atomflunder/skillratings (⭐35)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+    *   [atomflunder/skillratings (⭐36)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
 
 ## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -371,12 +371,12 @@
 
 ### Python / Natural Language Processing
 
-*   [Haystack (⭐13k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
+*   [Haystack (⭐14k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 
 ### Python / General-Purpose Machine Learning
 
 *   [PyBroker (⭐1.6k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
-*   [Frouros (⭐156)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
+*   [Frouros (⭐164)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 
 ### Books / Misc
 
@@ -469,7 +469,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [calma (⭐2)](https://github.com/luislve17/calma) - Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, `git` information, time, and for the exit status of last command.
+*   [calma (⭐3)](https://github.com/luislve17/calma) - Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, `git` information, time, and for the exit status of last command.
 *   [gorchak (⭐0)](https://github.com/evgenygorchakov/oh-my-zsh-gorchak-theme/) - Inspired by \[robbyrussell([https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell))] and [af-magic (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic). Includes decorators for `git` information and Node.js version.
 *   [warm-colours (⭐0)](https://github.com/BastionAtackDev/Warm-Colours.zsh-theme/) - Includes decorators for user\@host, current directory and datetime.
 
@@ -598,7 +598,7 @@
 
 ### Developer Tools / Databases
 
-*   [SurrealDB (⭐25k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
+*   [SurrealDB (⭐26k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
 
 ### Design and Product / Design Tools
 

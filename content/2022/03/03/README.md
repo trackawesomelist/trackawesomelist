@@ -16,7 +16,7 @@
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐961)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐981)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-json-viewer (⭐540)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+*   [vue-json-viewer (⭐542)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
 
 ### Components & Libraries / Utilities
 

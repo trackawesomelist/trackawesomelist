@@ -8,7 +8,7 @@
 
 ## [1. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
 
-### Contents / AI Tools
+### AI Tools
 
 *   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 

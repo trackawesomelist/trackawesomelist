@@ -173,7 +173,7 @@ Webpage: <http://hanahaus.com/>
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐210)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐606)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐611)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ---
 

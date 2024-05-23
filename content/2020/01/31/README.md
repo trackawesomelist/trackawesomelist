@@ -65,7 +65,7 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐925)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [SchemaHero (⭐956)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
 *   [Sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
@@ -74,28 +74,28 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐150)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [ASH Viewer (⭐156)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 *   [mssql-monitoring (⭐89)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
 
-*   [RegreSQL (⭐266)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+*   [RegreSQL (⭐268)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐1.1k)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐1.3k)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
-*   [MySQLTuner-perl (⭐8.5k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [postgresqltuner.pl (⭐2.5k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
+*   [MySQLTuner-perl (⭐8.7k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [postgresqltuner.pl (⭐2.6k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐692)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
-*   [Postgres.app (⭐7k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
+*   [DBdeployer (⭐697)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [Postgres.app (⭐7.1k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐200)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐201)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 

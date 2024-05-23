@@ -183,7 +183,7 @@
 
 ### PHP
 
-*   [Fusio (⭐1.3k)](https://github.com/apioo/fusio) - Open source API management platform.
+*   [Fusio (⭐1.7k)](https://github.com/apioo/fusio) - Open source API management platform.
 
 ## [20. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 

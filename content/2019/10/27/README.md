@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐808)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐811)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 

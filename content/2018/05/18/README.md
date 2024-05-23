@@ -16,14 +16,14 @@
 
 ### GUI
 
-*   [TablePlus (⭐3.2k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+*   [TablePlus (⭐3.3k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
 ### Schema / Changes
 
-*   [2bass (⭐41)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐7.7k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐4.3k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐387)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [2bass (⭐42)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
+*   [flyway (⭐7.8k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐4.4k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [Pyrseas (⭐391)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 

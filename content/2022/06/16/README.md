@@ -11,13 +11,13 @@
 ### Learning / Engine Development
 
 *   Education Portals
-    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
+    *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
 ### Learning / Game Development
 
 *   Awesome Collections
-    *   📚 [Awesome Gamedev (⭐2.2k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐3.7k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [Awesome Gamedev (⭐2.3k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
+    *   📚 [GameDev-Resources (⭐3.8k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     *   📚 [Magictools (⭐13k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
@@ -33,9 +33,9 @@
 
 ### Security
 
-*   [Fingerprinter (⭐252)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐679)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐609)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [Fingerprinter (⭐254)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐716)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐616)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [WhatWeb (⭐5.1k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
@@ -43,7 +43,7 @@
 
 ### Photo / Image
 
-*   [react-photo-album (⭐447)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐455)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐197)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐200)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

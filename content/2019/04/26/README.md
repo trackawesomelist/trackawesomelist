@@ -77,11 +77,11 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐885)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐899)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 
-*   [Nonius (⭐357)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐356)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

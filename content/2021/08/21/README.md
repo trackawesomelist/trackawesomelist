@@ -47,11 +47,11 @@
 
 ### Applications / Blockchain
 
-*   [Parity-Bitcoin (⭐726)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
+*   [Parity-Bitcoin (⭐728)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
 
 ### Applications / Productivity
 
-*   [pier-cli/pier (⭐507)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+*   [pier-cli/pier (⭐505)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
 ### Applications / System tools
 
@@ -60,12 +60,12 @@
 
 ### Applications / Utilities
 
-*   [evansmurithi/cloak (⭐276)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
+*   [evansmurithi/cloak (⭐277)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
     ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 
 ### Applications / Web
 
-*   [MASQ-Project/Node (⭐165)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
+*   [MASQ-Project/Node (⭐166)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 
 ### Development tools / Web Servers
 
@@ -77,7 +77,7 @@
     *   [emacs-racer (⭐399)](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
     *   [flycheck-rust (⭐120)](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
     *   [rust-mode (⭐1.1k)](https://github.com/rust-lang/rust-mode) — Rust Major Mode
-    *   [rustic (⭐701)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
+    *   [rustic (⭐702)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
 
 ### Development tools / Profiling
 
@@ -85,15 +85,15 @@
 
 ### Development tools / Static analysis
 
-*   [facebookexperimental/MIRAI (⭐960)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
+*   [facebookexperimental/MIRAI (⭐966)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
-*   [pkalivas/radiate (⭐142)](https://github.com/pkalivas/radiate) — A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
+*   [pkalivas/radiate (⭐143)](https://github.com/pkalivas/radiate) — A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
 
 ### Libraries / GUI
 
-*   [ivanceras/sauron-native (⭐632)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
+*   [ivanceras/sauron-native (⭐631)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 
 ### Libraries / Web programming
 
@@ -102,7 +102,7 @@
     *   [iddm/urlshortener-rs (⭐48)](https://github.com/iddm/urlshortener-rs) — A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
     *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) — A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐1.7k)](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation.
-    *   [vi/websocat (⭐6.5k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+    *   [vi/websocat (⭐6.6k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -139,9 +139,9 @@
 
 ### Public Data Resources / Climate
 
-*   [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
-*   [MACA](https://climate.northwestknowledge.net/MACA/) - The MACA method is a statistical downscaling method for removing biases from global climate model outputs.
 *   [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs).
+*   [MACA](https://climate.northwestknowledge.net/MACA/) - The MACA method is a statistical downscaling method for removing biases from global climate model outputs.
+*   [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
 
 ### Public Data Resources / Employment
 

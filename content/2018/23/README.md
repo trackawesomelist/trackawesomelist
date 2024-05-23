@@ -108,26 +108,26 @@
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐36k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐38k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
-*   [pspg (⭐2.3k)](https://github.com/okbob/pspg) - Postgres Pager.
+*   [pspg (⭐2.4k)](https://github.com/okbob/pspg) - Postgres Pager.
 
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐4k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐118)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐4.1k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐120)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐913)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐920)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [Pyora (⭐115)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+*   [Pyora (⭐118)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
 ## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 

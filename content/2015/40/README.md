@@ -319,7 +319,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐433)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐448)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [24. Typography](/content/deanhume/typography/week/README.md)
 

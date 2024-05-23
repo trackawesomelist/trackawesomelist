@@ -90,7 +90,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐365)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐374)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

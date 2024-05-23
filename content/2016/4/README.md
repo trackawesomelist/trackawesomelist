@@ -659,7 +659,7 @@ git config --global help.autocorrect 1
 
 ### serialization
 
-*   [rgeo-geojson (⭐181)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐182)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [17. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -1039,7 +1039,7 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐173)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐174)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 

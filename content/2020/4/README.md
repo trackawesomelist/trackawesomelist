@@ -241,7 +241,7 @@
 
 ### Python / Natural Language Processing
 
-*   [PySS3 (⭐331)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
+*   [PySS3 (⭐332)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -740,7 +740,7 @@ And run this to remove the attributes:
 
 ### Responsive / Syntax Highlight
 
-*   [primereact (⭐5.8k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
+*   [primereact (⭐5.9k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
 ### CSS / Style / Mouse Events
 
@@ -755,7 +755,7 @@ And run this to remove the attributes:
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐762)](https://github.com/koute/pinky) —
+    *   [koute/pinky (⭐765)](https://github.com/koute/pinky) —
     *   [pcwalton/sprocketnes (⭐748)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
@@ -769,13 +769,13 @@ And run this to remove the attributes:
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐804)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [arrayfire/arrayfire-rust (⭐805)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
     *   [autumnai/collenchyma (⭐473)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐169)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐8.7k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐355)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
 
 ### Libraries / Logging

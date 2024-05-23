@@ -26,7 +26,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [kubevpn (⭐414)](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
+*   [kubevpn (⭐429)](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -56,15 +56,15 @@
 
 ### Marks / Diagnostics
 
-*   [fnune/recall.nvim (⭐24)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+*   [fnune/recall.nvim (⭐26)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
 ### Statusline / Diagnostics
 
-*   [Mr-LLLLL/lualine-ext.nvim (⭐12)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+*   [Mr-LLLLL/lualine-ext.nvim (⭐14)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 
 ### Motion / Diagnostics
 
-*   [Mr-LLLLL/treesitter-outer (⭐6)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+*   [Mr-LLLLL/treesitter-outer (⭐5)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 
 ### Editing Support / Diagnostics
 

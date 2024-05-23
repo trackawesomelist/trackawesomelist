@@ -99,7 +99,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-di (⭐18)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
+*   [pinia-di (⭐19)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -140,8 +140,8 @@
 
 ### Communications / Pragmatics
 
-*   [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599\&hl=en\&as_sdt=2005)].
+*   [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059)].
+*   [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599)].
 
 ---
 

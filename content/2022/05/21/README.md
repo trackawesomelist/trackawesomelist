@@ -16,7 +16,7 @@
 
 ### data
 
-*   [99boundaries (⭐9)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+*   [99boundaries (⭐10)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐660)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐102)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐669)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐103)](https://github.com/andrewgregory/pacutils).
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

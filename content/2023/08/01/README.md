@@ -73,10 +73,10 @@
 ### Libraries / C#
 
 *   C#: Entity Component System
-    *   🎉 [Arch (⭐725)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
-    *   🎉 [DefaultEcs (⭐631)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    *   🔒 [Friflo.Engine.ECS (⭐99)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
-    *   🎉 [LeoECS (⭐175)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to *Unity*.
+    *   🎉 [Arch (⭐789)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
+    *   🎉 [DefaultEcs (⭐638)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    *   🔒 [Friflo.Engine.ECS (⭐120)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    *   🎉 [LeoECS (⭐178)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to *Unity*.
 
 ### Specialty Topics / Shaders
 

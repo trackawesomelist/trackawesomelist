@@ -22,7 +22,7 @@
 
 ### Others / Others
 
-*   [BlazorLazyLoading (⭐96)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
+*   [BlazorLazyLoading (⭐97)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -251,7 +251,7 @@ Language: English
 
 ### GUI
 
-*   [implot (⭐4.3k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐4.4k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [16. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

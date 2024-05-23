@@ -16,7 +16,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.7k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -692,11 +692,11 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐333)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐345)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐206)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐209)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -720,7 +720,7 @@
 
 ### Audio
 
-*   [libsndfile (⭐1.3k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.4k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ### GUI
 

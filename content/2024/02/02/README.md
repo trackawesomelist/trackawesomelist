@@ -42,7 +42,7 @@
 
   Documentation: [Documentation](https://docs.dagger.io/)
 
-  Price: [Open Source (⭐9.6k)](https://github.com/dagger/dagger)
+  Price: [Open Source (⭐10k)](https://github.com/dagger/dagger)
 
   Stars: 
 
@@ -52,7 +52,7 @@
 
 ### JSS
 
-*   [jss21.4-nextjs-storybook7.4 (⭐3)](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
+*   [jss21.4-nextjs-storybook7.4 (⭐4)](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

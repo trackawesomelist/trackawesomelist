@@ -60,7 +60,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐10k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 
@@ -121,7 +121,7 @@
 
 ### Software / Control Panels
 
-*   [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code (⭐3k)](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
+*   [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code (⭐3.1k)](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 
 ## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

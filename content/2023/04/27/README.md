@@ -307,7 +307,7 @@
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [neuml/txtai (⭐7k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐7.1k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 

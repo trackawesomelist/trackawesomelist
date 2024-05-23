@@ -115,7 +115,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐72)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐73)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

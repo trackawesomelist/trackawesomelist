@@ -43,7 +43,7 @@
 
 ### Cryptography
 
-*   [retter (⭐94)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐95)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

@@ -55,9 +55,9 @@
 
 ### Software / Software Containers
 
-*   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐32k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
-*   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.2k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
-*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐1.9k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+*   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐33k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
+*   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.3k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
+*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐2k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -155,8 +155,8 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [MemProcFS (⭐2.4k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐39)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐2.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐42)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
 ### Qubes OS Legends / Web articles
 
@@ -346,23 +346,23 @@
 
 ### operations
 
-*   [geojson-indoor-tools (⭐3)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
+*   [geojson-indoor-tools (⭐6)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
 ## [28. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Racing
 
-*   [Vange-rs (⭐405)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+*   [Vange-rs (⭐409)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ### Strategy
 
-*   [VanillaConquer (⭐316)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
+*   [VanillaConquer (⭐324)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
 ## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
-*   [yet-another-react-lightbox (⭐687)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+*   [yet-another-react-lightbox (⭐702)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
 ## [30. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -374,7 +374,7 @@
 
 ### Network
 
-*   [MasterQ32/zig-network (⭐388)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+*   [MasterQ32/zig-network (⭐395)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 *   [dantecatalfamo/zig-dns (⭐54)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
 ## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
@@ -436,7 +436,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Matcha - Daily RSS Digest (⭐378)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [Matcha - Daily RSS Digest (⭐392)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -492,7 +492,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Insurance-system (⭐42)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+*   [Insurance-system (⭐43)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
 ## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -527,17 +527,17 @@
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐803)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐802)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ### Libraries / GUI
 
-*   [xilem (⭐2.8k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
+*   [xilem (⭐2.9k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
 
 ### Libraries / Platform specific
 
 *   Linux
-    *   [hannobraun/inotify-rs (⭐245)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
-    *   [pop-os/distinst (⭐218)](https://github.com/pop-os/distinst/) — Linux distribution installer
+    *   [hannobraun/inotify-rs (⭐246)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
+    *   [pop-os/distinst (⭐219)](https://github.com/pop-os/distinst/) — Linux distribution installer
     *   [yaa110/rust-iptables (⭐81)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings
 
 ## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
@@ -586,7 +586,7 @@
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐601)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐600)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Image Synthesis / Multi-agents
@@ -635,12 +635,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-full-autoupdate (⭐58)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
+*   [omz-full-autoupdate (⭐59)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐169k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
 *   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [daivasmara (⭐65)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [daivasmara (⭐66)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 *   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ## [49. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)

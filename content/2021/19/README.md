@@ -10,7 +10,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-google-autocomplete (⭐450)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+*   [react-google-autocomplete (⭐454)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Logging
 
-*   [fmtlog (⭐731)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
+*   [fmtlog (⭐736)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐9)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐10)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 

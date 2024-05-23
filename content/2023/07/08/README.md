@@ -16,7 +16,7 @@
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐313)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐323)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Scripting
 
@@ -247,11 +247,11 @@
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐26)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐27)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐53)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐59)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
@@ -310,7 +310,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐332)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐343)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 

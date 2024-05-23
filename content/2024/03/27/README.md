@@ -26,7 +26,7 @@
 
 ### Networking
 
-*   [natiu-mqtt (⭐79)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
+*   [natiu-mqtt (⭐81)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -63,13 +63,13 @@
     *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐7.5k)](https://github.com/alembics/disco-diffusion)]
     *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
     *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐65k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
+    *   💸 [Stable Diffusion (⭐66k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [procaptcha (⭐27)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+*   [procaptcha (⭐30)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 
 ## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

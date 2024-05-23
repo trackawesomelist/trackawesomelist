@@ -10,7 +10,7 @@
 
 ### IDE
 
-*   [DataStation (⭐2.8k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+*   [DataStation (⭐2.9k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Python / Git
 
-*   [ecdsa (⭐880)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+*   [ecdsa (⭐894)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -188,7 +188,7 @@
 ### Component bundles
 
 *   [BootstrapBlazor (⭐0)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://www.blazor.zone/)).
-*   [FAST Blazor (⭐3.1k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
+*   [FAST Blazor (⭐3.2k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
 
 ### Tools & Utilities / Others
 
@@ -854,7 +854,7 @@
 
 ### Java / Deep Learning
 
-*   [deepjavalibrary/djl (⭐3.8k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
+*   [deepjavalibrary/djl (⭐3.9k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
 ### Kotlin / Deep Learning
 
@@ -983,7 +983,7 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐582)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐599)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ### Components & Libraries / Frameworks
 

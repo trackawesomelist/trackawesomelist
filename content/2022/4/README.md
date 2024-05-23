@@ -49,7 +49,7 @@
 
 ### Form Components / Type Select
 
-*   [rich-textarea (⭐272)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
+*   [rich-textarea (⭐275)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -70,11 +70,11 @@
 *   Misc
     *   [arel\_extensions (⭐143)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
     *   [ActiveRecord::Turntable (⭐211)](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
-    *   [ActiveValidators (⭐305)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
-    *   [DeepPluck (⭐461)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
+    *   [ActiveValidators (⭐306)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+    *   [DeepPluck (⭐460)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
     *   [Enumerize (⭐1.7k)](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
     *   [Goldiloader (⭐1.5k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
-    *   [Rating (⭐68)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
+    *   [Rating (⭐70)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
 
 ## [10. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐381)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Snektron/vulkan-zig (⭐392)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 *   [Avokadoen/zig\_vulkan (⭐43)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ## [29. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
@@ -466,7 +466,7 @@
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐64)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐67)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [39. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 

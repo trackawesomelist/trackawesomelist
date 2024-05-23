@@ -41,7 +41,7 @@
 
 ### Database
 
-*   [Kvrocks (⭐3.2k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+*   [Kvrocks (⭐3.3k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -54,7 +54,7 @@
 ### Web Feed Specifications / Specification Converters
 
 *   [RSS/Atom to JSONFeed Converter](https://feed2json.org/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
-*   [rss to json (⭐170)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
+*   [rss to json (⭐172)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
 *   [rsscrape (⭐15)](https://github.com/trbznk/rsscrape) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/trbznk/rsscrape)
 
 ### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
@@ -73,7 +73,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Orpinton News (⭐104)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
+*   [Orpinton News (⭐105)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
 *   [Informate.club](https://infomate.club/) <sup>[1283](https://t.me/s/aboutrss/1283)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vas3k/infomate.club)
 
 ### RSSHub / Outline Processor Markup Language
@@ -180,7 +180,7 @@
 
 ### RPG
 
-*   [OpenEnroth (⭐682)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
+*   [OpenEnroth (⭐687)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

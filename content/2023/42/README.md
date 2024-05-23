@@ -32,7 +32,7 @@
 
 ### Infinite Scroll
 
-*   [@af-utils/virtual (⭐74)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
+*   [@af-utils/virtual (⭐75)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -73,7 +73,30 @@
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-## [10. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Cheatsheet / Testing
+
+*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
+
+### Developer tools / Testing
+
+*   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
+
+### Editor Components / Testing
+
+*   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
+
+### Layout Components / Validation
+
+*   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
+
+### UI Libraries / General
+
+*   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
+*   [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
+
+## [11. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Idea Generation
 
@@ -147,7 +170,7 @@
 
 
 
-## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Media
 
@@ -157,22 +180,22 @@
 
 *   [Ejimo (⭐36)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐138)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐140)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### Components & Libraries / UI Components
 
-*   [vue-tailwind-datepicker (⭐211)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
+*   [vue-tailwind-datepicker (⭐212)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 
 ### Components & Libraries / Frameworks
 
-*   [Stellar UI (⭐22)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+*   [Stellar UI (⭐23)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
-## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [14. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -182,7 +205,7 @@
 
 *   [uniget (⭐6)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -192,7 +215,7 @@
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -200,7 +223,7 @@
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
-## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -210,7 +233,7 @@
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 
@@ -228,19 +251,19 @@
 
 *   [Speakeasy](https://www.speakeasyapi.dev/) - Generate a terraform provider from an OpenAPI specification.
 
-## [18. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [19. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Functions
 
 *   [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
 
-## [19. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [20. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Integration
 
 *   [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
-## [20. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [21. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
@@ -303,48 +326,17 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [listr2 (⭐450)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
-
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Community
-
-*   `#angular2` channel on Freenode IRC Server.
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Fabio Biondi](https://github.com/fabiobiondi)
-
-### Cheatsheet / Testing
-
-*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
-
-### Developer tools / Testing
-
-*   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
-
-### Editor Components / Testing
-
-*   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
-
-### Layout Components / Testing
-
-*   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
-
-### UI Libraries / General
-
-*   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
-*   [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 
 ## [24. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -442,9 +434,9 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Magentic (⭐1.7k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐25k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Autogen (⭐26k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [Flappy (⭐304)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
-*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐10k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ### Complement to this list / Videos Playlists
 
@@ -531,11 +523,11 @@
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐197)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
+*   [ethercrab (⭐204)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐192)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐201)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
 ## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -585,16 +577,16 @@
 
 ### Concurrency
 
-*   [Channel (⭐281)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
+*   [Channel (⭐291)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
 *   [Taskflow (⭐9.6k)](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) \[MIT]
 
 ### Configuration
 
-*   [toml11 (⭐932)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐947)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
 ### Containers
 
-*   [unordered\_dense (⭐731)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+*   [unordered\_dense (⭐744)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ### Database
 
@@ -603,12 +595,12 @@
 
 ### Debug
 
-*   [CppBenchmark (⭐257)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
+*   [CppBenchmark (⭐258)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
 
 ### JSON
 
-*   [DAW JSON Link (⭐426)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
-*   [Jsonifier (⭐28)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
+*   [DAW JSON Link (⭐431)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
+*   [Jsonifier (⭐31)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
 
 ### Networking
 
@@ -620,7 +612,7 @@
 
 ### Miscellaneous
 
-*   [libenvpp (⭐118)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
+*   [libenvpp (⭐120)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 *   [StringZilla (⭐1.8k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
 ## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -641,11 +633,11 @@
 
 ### HTML/XML Parsing
 
-*   [Nokolexbor (⭐151)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
+*   [Nokolexbor (⭐156)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 
 ### Scheduling
 
-*   [ruby-clock (⭐76)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
+*   [ruby-clock (⭐78)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
 ## [48. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -667,7 +659,7 @@
 
 ### Generators
 
-*   [oapi-codegen (⭐5.2k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+*   [oapi-codegen (⭐5.3k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 
 ### Goroutines
 
@@ -741,7 +733,7 @@
 
 ### Applications / Blockchain
 
-*   [Sui (⭐5.7k)](https://github.com/MystenLabs/sui) — A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+*   [Sui (⭐5.8k)](https://github.com/MystenLabs/sui) — A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 
 ### Applications / Database
 
@@ -749,22 +741,22 @@
 
 ### Applications / Graphics
 
-*   [dps/rust-raytracer (⭐226)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
-*   [KaminariOS/rustracer (⭐63)](https://github.com/KaminariOS/rustracer) — A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
+*   [dps/rust-raytracer (⭐229)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
+*   [KaminariOS/rustracer (⭐64)](https://github.com/KaminariOS/rustracer) — A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
 *   [rodrigorc/papercraft (⭐104)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
 
 ### Applications / System tools
 
-*   [mdgaziur/findex (⭐536)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
+*   [mdgaziur/findex (⭐538)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
 *   [pkolaczk/fclones (⭐1.7k)](https://github.com/pkolaczk/fclones) — Efficient duplicate file finder and remover
 
 ### Applications / Utilities
 
-*   [wrestic (⭐69)](https://github.com/alvaro17f/wrestic) —  👽 A wrapper around restic.
+*   [wrestic (⭐74)](https://github.com/alvaro17f/wrestic) —  👽 A wrapper around restic.
 
 ### Applications / Video
 
-*   [gyroflow/gyroflow (⭐6.1k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
+*   [gyroflow/gyroflow (⭐6.2k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
 
 ### Libraries / Automotive
 
@@ -1378,7 +1370,7 @@
 
 ### IDE
 
-*   [Querybook (⭐1.6k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
+*   [Querybook (⭐1.8k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
 ## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -2108,8 +2100,8 @@
 
 *   [hebzsh (⭐1)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
 *   [history-sync (vitobotta) (⭐17)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
-*   [history-sync (wulfgarpro) (⭐230)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
-*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.2k)](https://github.com/gokcehan/lf).
+*   [history-sync (wulfgarpro) (⭐231)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
+*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.3k)](https://github.com/gokcehan/lf).
 
 ## [71. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 

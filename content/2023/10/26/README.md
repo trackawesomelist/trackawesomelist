@@ -10,11 +10,11 @@
 
 ### Logging
 
-*   [haclog (⭐68)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐69)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐193)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐201)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.5k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
@@ -189,7 +189,7 @@
 
 ### Testing / Zabbix
 
-*   [pgTAP (⭐894)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+*   [pgTAP (⭐944)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
 ---
 

@@ -29,19 +29,19 @@
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐70)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐79)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Web
 
-*   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.1k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
+*   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.2k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
-*   [Another Redis Desktop Manager (⭐28k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+*   [Another Redis Desktop Manager (⭐29k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

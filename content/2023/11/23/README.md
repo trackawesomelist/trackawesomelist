@@ -17,7 +17,7 @@
 
 ### Serial Port
 
-*   [Libserial (⭐371)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [Libserial (⭐374)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

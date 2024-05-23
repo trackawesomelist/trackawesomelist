@@ -265,10 +265,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐579)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
+    *   [a8m/pb (⭐578)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
     *   [console-rs/indicatif (⭐4.1k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
     *   [etienne-napoleone/spinach (⭐91)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐521)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [FGRibreau/spinners (⭐522)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -342,7 +342,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Contents / Optimization
 
-*   [pg\_web\_stats (⭐92)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
+*   [pg\_web\_stats (⭐93)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
 
 ## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 

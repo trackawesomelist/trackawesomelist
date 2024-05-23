@@ -204,7 +204,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue3-recaptcha2 (⭐33)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
+*   [vue3-recaptcha2 (⭐34)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
 
 ## [18. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -222,7 +222,7 @@
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐276)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐277)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -423,7 +423,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [def (⭐10)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
+*   [def (⭐11)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
 *   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa](https://the.exa.website/), a modern replacement for `ls`.
 *   [git-prune (diazod) (⭐36)](https://github.com/diazod/git-prune) - Allows you to delete all branches that are already merged in your local `git` repository and/or that were merged in your remote origin `git` repository.
 *   [git-prune (seinh) (⭐36)](https://github.com/Seinh/git-prune) - Plugin that simplifies deleting merged branches in a `git` repository.
@@ -439,8 +439,8 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
-*   [skill (asafaeirad) (⭐11)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
-*   [skill (frontendmonster) (⭐11)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
+*   [skill (asafaeirad) (⭐12)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
+*   [skill (frontendmonster) (⭐12)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
 ## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -475,12 +475,12 @@
 
 ### Applications / Blockchain
 
-*   [electrumrs (⭐978)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
+*   [electrumrs (⭐983)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
 *   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Audio and Music
 
-*   [Serial-ATA/lofty-rs (⭐160)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
+*   [Serial-ATA/lofty-rs (⭐165)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] — A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
 
 ### Libraries / Cloud
 

@@ -49,7 +49,7 @@
 ### Libraries / Network programming
 
 *   VPN
-    *   [defguard/wireguard-rs (⭐106)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+    *   [defguard/wireguard-rs (⭐112)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

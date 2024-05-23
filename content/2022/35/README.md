@@ -174,7 +174,7 @@
 
 ### Frameworks
 
-*   [Coost (⭐3.8k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
+*   [Coost (⭐3.9k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
 
 ## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -216,20 +216,20 @@
 
 ### Applications
 
-*   [Factotum (⭐217)](https://github.com/snowplow/factotum) — A system to programmatically run data pipelines
+*   [Factotum (⭐218)](https://github.com/snowplow/factotum) — A system to programmatically run data pipelines
 
 ### Applications / Database
 
-*   [RisingWaveLabs/RisingWave (⭐6.3k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
+*   [RisingWaveLabs/RisingWave (⭐6.4k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
 *   [SurrealDB (⭐26k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
 
-*   [trippy (⭐3k)](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
+*   [trippy (⭐3.1k)](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
-*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐489)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
+*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐493)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 
 ## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -366,15 +366,15 @@
 
 ### Database Tools
 
-*   [Strong Migrations (⭐3.8k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+*   [Strong Migrations (⭐3.9k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 
 ### GUI
 
-*   [FXRuby (⭐263)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
+*   [FXRuby (⭐265)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 
 ### Third-party APIs
 
-*   [Ably (⭐34)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+*   [Ably (⭐35)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
 ## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -475,7 +475,7 @@
 
 *   [CleanArchitecture (⭐3.4k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 *   [Flight Finder (⭐968)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
-*   [Blazor.SVGEditor (⭐274)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
+*   [Blazor.SVGEditor (⭐275)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
 
 ### Videos / Others
 
@@ -959,10 +959,6 @@
 
 ## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
-### Projects
-
-*   [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
-
 ### Crates / Component Libraries
 
 *   [Yewprint (⭐446)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
@@ -971,7 +967,7 @@
 
 ### Tools / Misc
 
-*   [VDP (⭐1.8k)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
+*   [VDP (⭐1.9k)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
 *   [Comet](https://www.comet.com/) -  ML platform for tracking experiments, hyper-parameters, artifacts and more. It's deeply integrated with over 15+ deep learning frameworks and orchestration tools. Users can also use the platform to monitor their models in production.
 
 ---

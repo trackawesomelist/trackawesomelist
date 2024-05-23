@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,7 +67,7 @@
 
 ### Containers
 
-*   [unordered\_dense (⭐731)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+*   [unordered\_dense (⭐744)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -75,19 +75,13 @@
 
 *   [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Community
-
-*   `#angular2` channel on Freenode IRC Server.
-
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
-*   [@af-utils/virtual (⭐74)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
+*   [@af-utils/virtual (⭐75)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
@@ -97,19 +91,19 @@
 
 *   [valibot (⭐5k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.2k)](https://github.com/gokcehan/lf).
+*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.3k)](https://github.com/gokcehan/lf).
 
-## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Crash Courses
 
 *   [Zero to Hero Algorand Ecosystem Onboarding Guide](https://payhip.com/bamboriz) - Speak Fluent Algorand in 24 Hours.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Networking
 

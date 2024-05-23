@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quill (⭐991)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+*   [vue-quill (⭐1k)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

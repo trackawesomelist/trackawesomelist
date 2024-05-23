@@ -77,7 +77,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.7k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.1k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

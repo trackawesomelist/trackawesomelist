@@ -34,7 +34,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-send (⭐184)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-send (⭐188)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -83,11 +83,11 @@
 
 ### GUI
 
-*   [Sequel Ace (⭐6.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+*   [Sequel Ace (⭐6.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 
 ### Machine Learning / Compare
 
-*   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+*   [MindsDB (⭐21k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐5k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## [13. Awesome Go](/content/avelino/awesome-go/README.md)

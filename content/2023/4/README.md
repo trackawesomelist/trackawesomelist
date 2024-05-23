@@ -220,7 +220,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.6k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.7k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -424,10 +424,6 @@
 
 *   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.4k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
-### Software / Software Development - FaaS & Serverless
-
-*   [Dokku](https://dokku.com/) - An open-source PaaS (alternative to Heroku). ([Source Code (⭐26k)](https://github.com/dokku/dokku)) `MIT` `Docker/Shell/Go/deb`
-
 ### Software / Software Development - Project Management
 
 *   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.3k)](https://github.com/gitblit-org/gitblit)) `Apache-2.0` `Java`
@@ -489,12 +485,12 @@
 
 ### Python / Computer Vision
 
-*   [timm (⭐29k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
+*   [timm (⭐30k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
 
 ### Python / General-Purpose Machine Learning
 
-*   [cleanlab (⭐8.3k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [AutoGluon (⭐7k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [cleanlab (⭐8.8k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [AutoGluon (⭐7.2k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -567,11 +563,11 @@
 ### Applications / Emulators
 
 *   PlayStation 4
-    *   [Obliteration (⭐558)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+    *   [Obliteration (⭐563)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 
 ### Applications / Video
 
-*   [vidmerger (⭐104)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐108)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Encoding
 
@@ -579,7 +575,7 @@
     *   [rkyv/rkyv (⭐2.6k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework
 *   TOML
     *   [tamasfe/taplo (⭐1.2k)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
-    *   [toml-rs/toml (⭐628)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
+    *   [toml-rs/toml (⭐627)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
 ### Libraries / Parsing
 
@@ -644,12 +640,12 @@
 
 ### Templates
 
-*   [Blazor BFF Azure AD (⭐74)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐74)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
+*   [Blazor BFF Azure AD (⭐75)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐75)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
 *   [Blazor BFF Azure B2C (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureB2C.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template/blob/main/README-NUGET.md/).
 
 ### 2D/3D Rendering engines / Database
 
-*   [DexieNET (⭐38)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component.
+*   [DexieNET (⭐41)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.
 
 ### Videos / Others
 
@@ -688,7 +684,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐173)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐174)](https://github.com/mroth/evalcache).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

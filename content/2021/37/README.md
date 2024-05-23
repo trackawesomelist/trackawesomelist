@@ -133,7 +133,7 @@
 
 *   [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code (⭐3.7k)](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
 *   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐12k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
-*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐269)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
+*   [CoreShop](https://www.coreshop.org) - CoreShop is an e-commerce plugin for Pimcore. ([Source Code (⭐269)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 *   [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
 *   [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code (⭐3k)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
 *   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐7.3k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
@@ -331,7 +331,7 @@
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [prisma-next-auth-graphql-starter (⭐77)](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
+*   [prisma-next-auth-graphql-starter (⭐76)](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 
 ## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1151,12 +1151,12 @@
 
 ### Component bundles
 
-*   [HAVIT Blazor (⭐432)](https://github.com/havit/Havit.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/havit/Havit.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/havit/Havit.Blazor?style=flat-square\&cacheSeconds=86400) Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. [Interactive documentation & Demos](https://havit.blazor.eu).
+*   [HAVIT Blazor (⭐437)](https://github.com/havit/Havit.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/havit/Havit.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/havit/Havit.Blazor?style=flat-square\&cacheSeconds=86400) Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. [Interactive documentation & Demos](https://havit.blazor.eu).
 
 ### Tools & Utilities / Others
 
-*   [BlazorWorker (⭐356)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
-*   [Blazor.BrowserExtension (⭐336)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
+*   [BlazorWorker (⭐358)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
+*   [Blazor.BrowserExtension (⭐342)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
 
 ## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1199,7 +1199,7 @@
 
 ### Arcade
 
-*   [OpenJazz (⭐249)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
+*   [OpenJazz (⭐254)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 
 ## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -1343,7 +1343,7 @@
 
 ### Applications / Games
 
-*   [thetawavegame/thetawave-legacy (⭐193)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
+*   [thetawavegame/thetawave-legacy (⭐194)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 
 ### Applications / Observability
 
@@ -1351,12 +1351,12 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐112)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐113)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
 
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs (⭐459)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
+    *   [alexcrichton/ssh2-rs (⭐463)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
     *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library, backed by [libsodium](https://doc.libsodium.org/)
 
 ## [62. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)

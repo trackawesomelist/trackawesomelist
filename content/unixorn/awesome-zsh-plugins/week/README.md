@@ -39,7 +39,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [firmine (⭐0)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
+*   [firmine (⭐1)](https://github.com/GNUWood/firmine) - Includes decorators for user\@hostname, date & time, current directory and [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji) icons for last command exit status.
 *   [kiwi (⭐0)](https://github.com/fruitydog/kiwi.zsh-theme) - Dog-themed, includes `git` status and last command exit status decorators.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -54,7 +54,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [git-plugin (dark-kitt) (⭐0)](https://github.com/dark-kitt/zsh-git-plugin) - `git` integration that displays the current directory and `git` branch.
 *   [git-plugin (rcruzper) (⭐6)](https://github.com/rcruzper/zsh-git-plugin) - Adds some functions for `git`.
 *   [nvim-appname (⭐13)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
-*   [zshrc-sync (⭐1)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
+*   [zshrc-sync (⭐2)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1176,7 +1176,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [cvideo (⭐0)](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
 *   [download (⭐2)](https://github.com/aubreypwd/zsh-plugin-download) - Helper to download files with `aria2c`.
 *   [fzf-fasd (⭐56)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐60k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
-*   [fzf-z (⭐166)](https://github.com/andrewferrier/fzf-z) - Brings together the `z` plugin and [fzf (⭐60k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 *   [require (⭐2)](https://github.com/aubreypwd/zsh-plugin-require) - Adds ability to `require commandname` and then (if [brew](https://brew.sh) is installed) automatically `brew install commandname` if it isn't already installed.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)

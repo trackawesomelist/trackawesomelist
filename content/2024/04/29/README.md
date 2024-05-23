@@ -93,7 +93,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-fluid-dnd (⭐43)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐79)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Miscellaneous
 
-*   [happly (⭐283)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
+*   [happly (⭐286)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

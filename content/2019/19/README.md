@@ -10,7 +10,7 @@
 
 ### Contents / Extensions
 
-*   [Citus (⭐9.8k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
+*   [Citus (⭐9.9k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐506)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐512)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [22. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.8k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.9k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -515,7 +515,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐141)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐142)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 

@@ -104,7 +104,7 @@
 
 ### Documentation
 
-*   [Doxide (⭐31)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
+*   [Doxide (⭐32)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Photo / Image
 
-*   [@frameright/react-image-display-control (⭐18)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
+*   [@frameright/react-image-display-control (⭐19)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

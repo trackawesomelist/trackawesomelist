@@ -160,7 +160,7 @@
 
 ### Frameworks
 
-*   [NitroNet for Sitecore (⭐25)](https://github.com/merkle-open/NitroNetSitecore) - Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.
+*   [NitroNet for Sitecore (⭐24)](https://github.com/merkle-open/NitroNetSitecore) - Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Libraries / Text processing
 
-*   [becheran/wildmatch (⭐68)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
+*   [becheran/wildmatch (⭐69)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

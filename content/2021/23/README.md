@@ -298,7 +298,7 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐753)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.3k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐756)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.3k)](https://github.com/Ionaru/easy-markdown-editor).
 *   [react-md-editor (⭐1.9k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 ## [34. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
@@ -777,7 +777,7 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐503)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
+    *   [statrs-dev/statrs (⭐523)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
 ### Libraries / Cryptography
 

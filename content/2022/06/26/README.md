@@ -10,7 +10,7 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐59)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
 *   [ducdetronquito/requestz (⭐114)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
@@ -86,7 +86,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐34)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐37)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 

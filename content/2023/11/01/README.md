@@ -151,7 +151,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐14k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐89)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
@@ -168,7 +168,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### State Management / Testing
+### State Management / Validation
 
 *   [exome (⭐140)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
@@ -192,7 +192,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐47k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐23k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐24k)](https://github.com/ultralytics/ultralytics)
 
 ## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

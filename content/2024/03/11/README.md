@@ -35,7 +35,7 @@
 
 ### Utility / Diagnostics
 
-*   [mcauley-penney/visual-whitespace.nvim (⭐46)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [mcauley-penney/visual-whitespace.nvim (⭐58)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Networking
 
-*   [mailio (⭐341)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
+*   [mailio (⭐348)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
 
 ## [11. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Software / Configuration Management
 
-*   [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code (⭐495)](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
+*   [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code (⭐499)](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
 
 ### Software / Mail Clients
 

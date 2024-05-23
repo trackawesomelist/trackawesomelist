@@ -297,7 +297,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐96)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐97)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ### Python / General-Purpose Machine Learning
 
@@ -495,8 +495,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.6k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐355)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.7k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐356)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ### Networking
 

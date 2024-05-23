@@ -125,7 +125,7 @@
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome No Code Low Code (⭐273)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐284)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 

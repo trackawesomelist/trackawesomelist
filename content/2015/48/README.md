@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐522)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐523)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 

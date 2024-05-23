@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐219)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐220)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 
 ---
 

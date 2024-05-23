@@ -96,7 +96,7 @@
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐534)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐537)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 

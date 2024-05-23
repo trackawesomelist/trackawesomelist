@@ -68,7 +68,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema Sorter - sort schema models, enums, generators and datasources (⭐16)](https://github.com/omar-dulaimi/prisma-schema-sorter)
+*   [Prisma Schema Sorter - sort schema models, enums, generators and datasources (⭐19)](https://github.com/omar-dulaimi/prisma-schema-sorter)
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -689,7 +689,7 @@
 
 ### Source generators / Others
 
-*   [BlazorOcticons (⭐15)](https://github.com/BlazorOcticons/BlazorOcticons) ![GitHub stars](https://img.shields.io/github/stars/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/design/foundations/icons/) created as a .razor components using source generator. The generated components are available via the NuGet package, the generator itself is available as a separate NuGet package. The project website is an example using the generated components.
+*   [BlazorOcticons (⭐18)](https://github.com/BlazorOcticons/BlazorOcticons) ![GitHub stars](https://img.shields.io/github/stars/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/design/foundations/icons/) created as a .razor components using source generator. The generated components are available via the NuGet package, the generator itself is available as a separate NuGet package. The project website is an example using the generated components.
 
 ## [17. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -701,7 +701,7 @@
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐300)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐309)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
 ## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -762,7 +762,7 @@
 
 ### Communications / Pragmatics
 
-*   [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844\&hl=en\&as_sdt=0,5)].
+*   [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1) - ***Nature Human Behavior***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844)]. Before formal education begins, children typically acquire a vocabulary of thousands of words. This learning process requires the use of many different information sources in their social environment, including their current state of knowledge and the context in which they hear words used. This paper specifies a developmental model according to which children consider information sources in an age-specific way and integrate them via Bayesian inference. This work presents a developmental theory of information integration during language learning and illustrates how formal models can be used to make a quantitative test of the predictive and explanatory power of competing theories.
 *   [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf) - ***Semantics and Pragmatics***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599\&hl=en\&as_sdt=0,5)].
 
 ### Communications / Language Compositionality

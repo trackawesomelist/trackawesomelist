@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11 - Feb 17, 2019
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -93,23 +93,13 @@
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Twitter / Angular Team
-
-*   [Minko Gechev](https://twitter.com/mgechev)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Jeff Delaney](https://twitter.com/jeffdelaney23)
-
-## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Package Management
 
@@ -119,7 +109,7 @@
 
 *   [NETworkManager (⭐4.7k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Components / Apache License
 
@@ -131,14 +121,14 @@
 
 ### Web / Apache License
 
-*   [awa (⭐92)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+*   [awa (⭐93)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     *   [dynamo (⭐17)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     *   [ada-wiki (⭐19)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
     *   [ada-security (⭐22)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
     *   [ada-el (⭐7)](https://github.com/stcarrez/ada-el) - This library provides the support for a simple Expression Language close to the Java Unified Expression Language (EL).
     *   [ada-asf (⭐12)](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
     *   [ada-servlet (⭐7)](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
-*   [swagger-ada (⭐25)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
+*   [swagger-ada (⭐26)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 
 ### General Purpose Computing / Apache License
 
@@ -148,19 +138,19 @@
 
 *   [etherscope (⭐17)](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board.
 
-## [16. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [15. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [not-paid.js (⭐9.5k)](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
 *   [Newgrounds Medals Tutorial (⭐12)](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 
-## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -176,19 +166,19 @@
 
 *   [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
-## [19. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Beam Coder (⭐381)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 
-## [20. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 
-## [21. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [20. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Community Ressources (mostly german language)
 
@@ -221,14 +211,14 @@
 *   [IP-Symcon](https://www.symcon.de/) - 💵
 *   [Mediola](https://www.mediola.com/) - 💵
 
-## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Japanese
 
 *   [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 *   [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
-## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [22. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### E-Commerce / Provided by the Host
 
@@ -238,25 +228,25 @@
 
 *   [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
 
-## [24. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Tools / Ruby
 
 *   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐698)](https://github.com/wps/domain-story-modeler)).
 
-## [25. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [24. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Continuous Integration
 
 *   [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 
-## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [homebridge-webos-tv (⭐556)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
-## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -338,7 +328,7 @@
 
 
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -351,7 +341,7 @@
 
 *   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐474)](https://github.com/chriskempson/base16) themes.
 
-## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Caching
 
@@ -365,7 +355,7 @@
 
 *   [FF4J (⭐1.4k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
-## [30. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
@@ -375,13 +365,13 @@
 
 *   [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
 *   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐42)](https://github.com/gpedic/ex_shortuuid).
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -396,7 +386,7 @@
 
 *   [NuKeeper (⭐539)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
 
-## [33. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [32. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / PHP
 
@@ -404,7 +394,7 @@
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐84)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
-## [34. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [33. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Games
 
@@ -419,7 +409,7 @@
 *   [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 *   [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -577,7 +567,7 @@
 *   MacUpdate：<https://www.macupdate.com/>
 *   Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-## [36. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [35. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles / Video
 
@@ -586,7 +576,7 @@
 *   [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 *   [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
 
-## [37. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [36. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -678,13 +668,13 @@
 
 *   [WinSparkle](https://winsparkle.org) and its [Delphi wrapper (⭐19)](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS.
 
-## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [TailorMade (⭐326)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
-## [39. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -704,7 +694,7 @@
 *   [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
 *   [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
-## [40. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [39. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Reading Material
 
@@ -714,7 +704,7 @@
 
 *   [Binance](https://www.binance.com) — Exchange the world.
 
-## [41. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [40. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Provisioning
 

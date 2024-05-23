@@ -73,9 +73,7 @@
 
 *   [angular](https://blog.angular.io/) - Official Angular blog.
 *   [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
-*   [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 *   [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
-*   [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [Netanel Basal](https://medium.com/@netbasal)
 *   [Tim Deschryver](https://timdeschryver.dev/)
 *   [Chau Tran](https://nartc.me/)
@@ -83,7 +81,6 @@
 *   [Matthieu Riegler](https://riegler.fr/)
 *   [Thomas Laforge](https://medium.com/@thomas.laforge)
 *   [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
-*   [Evgeniy OZ](https://medium.com/@eugeniyoz)
 
 ### Cheatsheet / Testing
 
@@ -150,36 +147,36 @@
 *   [ngx-gantt (⭐216)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 *   [carbon-charts (⭐866)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 
-### Keyboard Mouse / Testing
+### Keyboard Mouse / Validation
 
 *   [angular2-hotkeys (⭐203)](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps.
 *   [virtual-keyboard-javascript (⭐0)](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 *   [angular-touch-keyboard (⭐38)](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 
-### Layout Components / Testing
+### Layout Components / Validation
 
 *   [ngx-infinite-scroll (⭐1.2k)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
 
-### Loaders / Testing
+### Loaders / Validation
 
 *   [ng-lazy-load-component (⭐6)](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 
-### Maps / Testing
+### Maps / Validation
 
 *   [ng-maps (⭐47)](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
 *   [ngx-leaflet (⭐761)](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
 *   [ngx-maplibre-gl (⭐61)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 *   [@angular/google-maps (⭐24k)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
-### Mixed utilities / Testing
+### Mixed utilities / Validation
 
 *   [ng-web-apis (⭐699)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
 
-### Modals / Testing
+### Modals / Validation
 
 *   [ngx-awesome-popup (⭐72)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
 
-### Notifications / Testing
+### Notifications / Validation
 
 *   [ngx-sweetalert2 (⭐641)](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 *   [hot-toast (⭐32)](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
@@ -187,7 +184,7 @@
 *   [angular-bootstrap-toast-service (⭐18)](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 *   [angular2-notifications (⭐744)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 
-### Tables / Testing
+### Tables / Validation
 
 *   [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
 *   [ngx-easy-table (⭐362)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
@@ -207,7 +204,7 @@
 
 *   [angular-shepherd (⭐208)](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐12k)](https://github.com/shepherd-pro/shepherd).
 *   [skyux (⭐23)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
-*   [ngx-ui-tour (⭐148)](https://github.com/hakimio/ngx-ui-tour) - ngx-ui-tour is a UI tour library inspired by angular-ui-tour.
+*   [ngx-ui-tour (⭐148)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour (⭐163)](https://github.com/benmarch/angular-ui-tour).
 
 ### Ionic / Node Based
 
@@ -234,7 +231,6 @@
 *   [ngrx](https://ngrx.io/) - Reactive State for Angular.
 *   [ngrx-course (⭐366)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
 *   [ngrx-store-localstorage (⭐605)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
-*   [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 *   [angular-ngrx-nx-realworld-example-app (⭐823)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 
 ### Server-Side Rendering / Node Based
@@ -251,7 +247,7 @@
 
 ### Libraries / Text search
 
-*   [pg\_search (⭐3.9k)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+*   [pg\_search (⭐4.2k)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ### Applications / Text editors
 
@@ -288,7 +284,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_analytics (⭐3.8k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg\_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_analytics (⭐4.2k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg\_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Contents / Docker images
 

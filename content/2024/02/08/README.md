@@ -245,8 +245,8 @@
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-encoding (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
-*   [lorawan-device (⭐203)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-encoding (⭐210)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
+*   [lorawan-device (⭐210)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -287,13 +287,13 @@
 
 ### Configuration
 
-*   [mINI (⭐436)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐448)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
 *   [hat-trie (⭐769)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
 *   [st\_tree (⭐91)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐119)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [tree.hh (⭐122)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
 ## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -335,16 +335,16 @@
 
 ### Applications / Database
 
-*   [darkbird (⭐405)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [darkbird (⭐407)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
 *   [SQLSync (⭐1.7k)](https://github.com/orbitinghail/sqlsync) — Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐33k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐34k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐760)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐775)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
@@ -352,7 +352,7 @@
 
 ### Libraries / Email
 
-*   [meli/meli (⭐604)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐611)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
@@ -486,11 +486,11 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐121)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐133)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Language / Diagnostics
 
-*   [tanloong/interlaced.nvim (⭐3)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+*   [tanloong/interlaced.nvim (⭐5)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ---
 

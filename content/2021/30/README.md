@@ -283,7 +283,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐678)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐692)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Debug
 
-*   [DebugViewPP (⭐946)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐957)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ### Online Compiler
 
@@ -374,7 +374,7 @@
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [tRPC Prisma Starter (⭐638)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+*   [tRPC Prisma Starter (⭐672)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -386,19 +386,19 @@
 
 ### Applications / Text processing
 
-*   [sstadick/hck (⭐680)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
+*   [sstadick/hck (⭐683)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
 
 ### Applications / Virtualization
 
-*   [containers/youki (⭐5.8k)](https://github.com/containers/youki) — A container runtime [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
+*   [containers/youki (⭐5.9k)](https://github.com/containers/youki) — A container runtime [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐298)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐299)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri (⭐78k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.2k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐78k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.3k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -516,7 +516,7 @@
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐994)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐1k)](https://github.com/chengpeiquan/learning-vue3)
 
 ### Resources / Examples
 
@@ -556,18 +556,18 @@
 
 ### Action
 
-*   [Rigel Engine (⭐879)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐889)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### FPS
 
-*   [BetterSpades (⭐219)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
-*   [FreeCS](https://sourceforge.net/projects/freecs-1-5/):flower\_playing\_cards: - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine.
+*   [BetterSpades (⭐229)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
+*   [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower\_playing\_cards:
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
-*   [Zandronum](https://zandronum.com/):flower\_playing\_cards: - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
+*   [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife. :flower\_playing\_cards:
 
 ### Online
 
-*   [Space Station 14 (⭐1.9k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐2k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [45. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

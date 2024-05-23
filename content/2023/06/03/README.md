@@ -11,7 +11,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐15k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐6.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐6.2k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
@@ -67,16 +67,16 @@
 ### Components & Libraries / UI Components
 
 *   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
-*   [v-image-magnifier (⭐10)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
-*   [Everright-filter (⭐73)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
+*   [v-image-magnifier (⭐11)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
+*   [Everright-filter (⭐74)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 ### Components & Libraries / UI Utilities
 
 *   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 *   [vueginate (⭐3)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
-*   [blottie (⭐5)](https://github.com/Applelo/blottie) Lottie component for Vue 3
-*   [TresJs (⭐1.7k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐221)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [blottie (⭐7)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+*   [TresJs (⭐1.8k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+*   [Cientos (⭐223)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ---
 

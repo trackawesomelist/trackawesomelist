@@ -217,7 +217,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Homemade Machine Learning (⭐22k)](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+*   [Homemade Machine Learning (⭐23k)](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 ## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -490,7 +490,7 @@
 
 *   [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt is an implementation the OpenBSD Blowfish password hashing
     algorithm.
-*   [Keycloak (⭐19k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
+*   [Keycloak (⭐20k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
 *   [Project Kalium](http://abstractj.github.io/kalium/) - Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.
 
 ## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
@@ -512,7 +512,7 @@
 ### Artificial Intelligence
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐78k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
@@ -582,8 +582,8 @@
 ### Build and Package / Apache License
 
 *   [gprbuild (⭐63)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
-*   [ravenadm (⭐18)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
-*   [synth (⭐247)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+*   [ravenadm (⭐17)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
+*   [synth (⭐248)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 
 ### Continuous Integration / Apache License
 
@@ -616,7 +616,7 @@
 
 ### Distributed / Apache License
 
-*   [poly-orb (⭐21)](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
+*   [poly-orb (⭐22)](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
 
 ### 3D / Apache License
 
@@ -628,8 +628,8 @@
 
 ### Verification / Apache License
 
-*   [gnat-coverage (⭐33)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
-*   [spark-2014 (⭐237)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+*   [gnat-coverage (⭐34)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
+*   [spark-2014 (⭐240)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
 
 ### Generation / Apache License
 
@@ -668,7 +668,7 @@
 
 *   [ada-yaml (⭐37)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 *   [json-ada (⭐39)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
-*   [jwx (⭐16)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
+*   [jwx (⭐17)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 *   [xmlada (⭐21)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
 *   [spark-xml (⭐21)](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 *   [ada-midi (⭐5)](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing.
@@ -680,7 +680,7 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [opengl-ada (⭐90)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
+*   [opengl-ada (⭐91)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 
 ### Sound / Apache License
 
@@ -713,7 +713,7 @@
 
 *   [giza (⭐7)](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
 *   [ada-synth-lib (⭐32)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
-*   [geste (⭐17)](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
+*   [geste (⭐18)](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 *   [ada-time (⭐17)](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch.
 *   [wiring-pi-ada (⭐0)](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi.
 
@@ -942,7 +942,7 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐132)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐133)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [42. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1013,12 +1013,12 @@
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.5k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐200)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
-    *   [liuchong/docker-rustup (⭐91)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
+    *   [kpcyrd/mini-docker-rust (⭐202)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
+    *   [liuchong/docker-rustup (⭐92)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
     *   [LukeMathWalker/cargo-chef (⭐1.5k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐573)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐413)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
-    *   [Stavrospanakakis/is\_ready (⭐114)](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)
+    *   [rust-cross/rust-musl-cross (⭐578)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐415)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [Stavrospanakakis/is\_ready (⭐120)](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)
 
 ## [46. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 

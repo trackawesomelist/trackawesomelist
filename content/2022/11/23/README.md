@@ -120,7 +120,7 @@
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐858)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
+    *   [Rustodon (⭐857)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -157,7 +157,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [meganerd (⭐0)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐39)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Frameworks / Apache License
 
-*   [adamant (⭐26)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [adamant (⭐29)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -62,12 +62,12 @@
 
 ### Serial Port
 
-*   [Libserial (⭐371)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [Libserial (⭐374)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [Jinja2С++ (⭐466)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
-*   [scnlib (⭐947)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+*   [Jinja2С++ (⭐470)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+*   [scnlib (⭐953)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -304,7 +304,7 @@
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐117)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐17k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐117)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐18k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 

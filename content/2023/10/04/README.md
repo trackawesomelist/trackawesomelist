@@ -22,7 +22,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [mido (⭐1.3k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+*   [mido (⭐1.4k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -64,7 +64,7 @@
 *   Rust: Graphics - 3D
     *   🎉 [Ash (⭐1.7k)](https://github.com/ash-rs/ash) - Vulkan bindgins for Rust.
     *   🎉 [Glium (⭐3.4k)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
-    *   🎉 [Kiss3D (⭐1.4k)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
+    *   🎉 [Kiss3D (⭐1.5k)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
     *   🎉 [Miniquad (⭐1.4k)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
     *   🎉 [Vulkano (⭐4.3k)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 

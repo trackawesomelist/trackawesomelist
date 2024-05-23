@@ -169,11 +169,6 @@
 
 ## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Manfred Steyer](https://twitter.com/manfredsteyer)
-*   [Juri Strumpflohner](https://twitter.com/juristr)
-
 ### Books / Testing
 
 *   [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`
@@ -266,7 +261,7 @@
 
 ### CLI
 
-*   [replxx (⭐667)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐670)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ### Static Code Analysis
 
@@ -295,11 +290,11 @@
 
 ### Java / Git
 
-*   [GDH (⭐30)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
+*   [GDH (⭐31)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
 
 ### Scala / Git
 
-*   [tsec (⭐352)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+*   [tsec (⭐350)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
 ## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -341,7 +336,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐317)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐316)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
 ## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

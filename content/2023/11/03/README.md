@@ -14,10 +14,10 @@
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐201)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐501)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐85)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
-*   [C++Now 2023 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [CppCon 2023 Presentation Materials (⭐220)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐506)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐86)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐3)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
@@ -41,13 +41,13 @@
 
 ### Database
 
-*   [karlseguin/pg.zig (⭐102)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
+*   [karlseguin/pg.zig (⭐118)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐158)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [3body-lang (⭐162)](https://github.com/rustq/3body-lang) - The Three Body Language
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -36,7 +36,7 @@
 
 *   Science
     *   [cpmech/russell (⭐72)](https://github.com/cpmech/russell) — Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — Scientific computing library
+    *   [indigits/scirust (⭐263)](https://github.com/indigits/scirust) — Scientific computing library
 
 ### Libraries / Mobile
 

@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐325)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐326)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐627)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐635)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐287)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐289)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

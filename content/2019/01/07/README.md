@@ -60,7 +60,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐5.2k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.3k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ---
 

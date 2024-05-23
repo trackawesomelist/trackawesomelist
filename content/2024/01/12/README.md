@@ -20,7 +20,7 @@
 
 ### Database
 
-*   [Infinity (⭐1.7k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+*   [Infinity (⭐1.8k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
 
 ## [3. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 

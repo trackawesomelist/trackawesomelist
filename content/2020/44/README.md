@@ -191,7 +191,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐808)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐820)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
 
 ## [14. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -212,45 +212,45 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐904)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐906)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐484)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.5k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐398)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐679)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐506)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐423)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐758)](https://github.com/rsteca/sklearn-deap)
+*   [scikit-rebate (⭐400)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐678)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐507)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐425)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐762)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐5.9k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-opt (⭐5k)](https://github.com/guofei9987/scikit-opt)
 *   [scikit-posthocs (⭐323)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐665)](https://github.com/pystruct/pystruct)
+*   [pystruct (⭐664)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐3.9k)](https://github.com/rapidsai/cuml)
+*   [cuML (⭐4k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐4.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐4.8k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.8k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.6k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐13k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐394)](https://github.com/christophM/rulefit)
+*   [RuleFit (⭐399)](https://github.com/christophM/rulefit)
 *   [pyGAM (⭐838)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐78k)](https://github.com/pytorch/pytorch)
-*   [torchvision (⭐15k)](https://github.com/pytorch/vision)
+*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch)
+*   [torchvision (⭐16k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.4k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.4k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.5k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.6k)](https://github.com/pytorch/tnt)
-*   [PyVarInf (⭐355)](https://github.com/ctallec/pyvarinf)
+*   [PyVarInf (⭐356)](https://github.com/ctallec/pyvarinf)
 *   [GPyTorch (⭐3.4k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐182k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
@@ -272,7 +272,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐488)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐522)](https://github.com/google/qkeras)
+*   [qkeras (⭐525)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -289,7 +289,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐646)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐662)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -345,9 +345,6 @@
 *   [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)  -
 *   [Demystifying HTML5 Video Player](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0)  - In this post we will go under the hood of a HTML video player for video streaming. With the exception of Apple and their browser Safari, no…
 *   [Design of scheduling and rate-adaptation algorithms for adaptive HTTP streaming · dispar.at Blog](https://dispar.at/blog/2017/07/08/design-of-scheduling-and-rate-adaptation-algorithms-for-adaptive-http-streaming/)  - Design of scheduling and rate-adaptation algorithms for adaptive HTTP streaming - Stephan Hesse
-*   [Divide & Encode: How to Encode Videos Blazingly Fast | Part I - Need For Speed](https://tech.showmax.com/2019/01/divide-encode-1/)  - Here at Showmax, we’re addicted to speed and performance. In this post, I’ll go through a few techniques we used to improve the speed of our enc...
-*   [Divide & Encode: How to Encode Videos Blazingly Fast | Part II - Under The Hood](https://tech.showmax.com/2019/03/divide-encode-2/)  - This is the second (and final) part of our blog mini-series about boosting encoding speed. In the first part we wrote about how we managed to ma...
-*   [EBU.io - Engineering Blog](https://ebu.io/blog)  -
 *   [Extracting contextual information from video assets](https://medium.com/netflix-techblog/extracting-contextual-information-from-video-assets-ee9da25b6008)  - for an improved Netflix user experience
 *   [FFmpeg Threads Command: How it Affects Quality and Performance](https://streaminglearningcenter.com/blogs/ffmpeg-command-threads-how-it-affects-quality-and-performance.html)  - So, I received an email from an acquaintance that read, “I was curious if there is actually any benefit to a “threads=” type custom command in x264. Specifically many streamers are buying 8 core/16 thread CPUs to encode as a standalone client capturing information from a video capture device.” I had an article on FFmpeg…
 *   [HDMI 2.1: features, specs and news about the latest HDMI standard](https://www.whathifi.com/advice/what-hdmi-21-everything-you-need-to-know)  - The gateway to a super high-definition future is ever-nearing
@@ -357,13 +354,12 @@
 *   [Inside MPEG's Ambitious Plan to Launch 3 Video Codecs in 2020](https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Inside-MPEGs-Ambitious-Plan-to-Launch-3-Video-Codecs-in-2020-134694.aspx)  - The pace of innovation is getting faster and the demands on video codecs are getting greater. MPEG's three-part plan answers questions of royalties, licensing, and computational efficiency. Meet VVC, MPEG-5 Part 1 (EVC), and MPEG-5 Part 2 (LCEVC).
 *   [Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder, Part I](https://link.medium.com/iws08p9VO7)  - By: Jeff Gong, Software Engineer, [jeffgon@twitch.tv](https://github.com/krzemienski/awesome-video/blob/master/README.md/mailto:jeffgon@twitch.tv) Sahil Dhanju, Software Engineer Intern Chih-Chiang Lu, Senior Software Engineer…
 *   [Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder, Part II](https://link.medium.com/EYVMBQ3VO7)  - By: Jeff Gong, Software Engineer, [jeffgon@twitch.tv](https://github.com/krzemienski/awesome-video/blob/master/README.md/mailto:jeffgon@twitch.tv) Sahil Dhanju, Software Engineer Intern Chih-Chiang Lu, Senior Software Engineer…
-*   [Pushing video bitrate to the limit](https://tech.showmax.com/2020/06/pushing-video-bitrate-to-the-limit/)  - When you subscribe to a VOD service, you expect the best visual quality possible. For our customers across Sub-Saharan Africa, it’s no different...
 *   [Quantifying packaging overhead](https://mux.com/blog/quantifying-packaging-overhead-2)  - Mux makes adding video to your app or website as easy as making a single API call. But behind the scenes is a large multistep process to analyze and transform the video into something that can be easily consumed by a device. This process is commonly called a media “pipeline”
 *   [Riot Games Keeps League of Legends Esports Rolling With Fully Cloud-Based Virtualized Workflow](https://www.sportsvideo.org/2020/03/27/riot-games-keeps-league-of-legends-esports-rolling-with-fully-cloud-based-virtualized-production-workflow/)  - Although the traditional sports world has come to a standstill due to the coronavirus pandemic, many major esports properties are soldiering on, hosting compe
 *   [Running FFmpeg on AWS Lambda for 1.9% the cost of AWS Elastic Transcoder](https://intoli.com/blog/transcoding-on-aws-lambda/)  - A guide to building a transcoder using Exodus, FFmpeg, and AWS Lambda.
 *   [Saving on Encoding and Streaming: Deploy Capped CRF – Streaming Learning Center](https://streaminglearningcenter.com/blogs/saving-encoding-streaming-deploy-capped-crf.html)  - This is the second in a five-part series on how to cut your encoding and streaming costs. The first article was Saving on Encoding: Adjust Encoding Configuration to Increase Capacity. Article summary: Capped CRF encoding is a single-pass encoding method that can save encoding costs compared to two-pass VBR. Capped CRF is also a simple per-title…
-*   [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328)  - In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…
 *   [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1559724204&_branch_match_id=664738392430917730)  - In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…
+*   [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328)  - In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…
 *   [Streaming Live From the Battlefield: Military Video in 2019](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=135141)  - Metadata and low-latency video create a tactical advantage in intelligence-gathering and decision making. Discover why HEVC is gaining momentum in the armed forces, and Android is preferred over iOS.
 *   [The H.264 Sequence Parameter Set](https://www.cardinalpeak.com/the-h-264-sequence-parameter-set)  - \[vc\_row]\[vc\_column]\[vc\_column\_text]This is a follow-up to my World’s Smallest H.264 Encoder post. I’ve received several emails asking about precise details of things in two entities in the H.264 bitstream: the Sequence Parameter Set (SPS) and the Picture Parameter Set (PPS). Both entities contain information that an H.264 decoder needs to decode the video data, for example,…
 *   [The Netflix IMF Workflow](https://medium.com/netflix-techblog/the-netflix-imf-workflow-f45dd72ed700?source=userActivityShare-94bccb50d11-1568773157&_branch_match_id=702692448596112473)  - interesting architectural implications
@@ -432,7 +428,7 @@
 *   [selsamman/react-native-transcode (⭐11)](https://github.com/selsamman/react-native-transcode)  - Video Transcoder for React Native.
 *   [streamlink/streamlink (⭐9.6k)](https://github.com/streamlink/streamlink)  - Streamlink is a CLI utility which pipes video streams from various services into a video player - streamlink/streamlink
 *   [sw360cab/pyup-transcoder (⭐4)](https://github.com/sw360cab/pyup-transcoder)  - a Python-based software to transcode videos and upload files to a remote server or S3-bucket - sw360cab/pyup-transcoder
-*   [twitter/vireo: Vireo is a lightweight and versatile video processing library written in C++11 (⭐921)](https://github.com/twitter/vireo)  - Vireo is a lightweight and versatile video processing library written in C++11 - twitter/vireo
+*   [twitter/vireo: Vireo is a lightweight and versatile video processing library written in C++11 (⭐924)](https://github.com/twitter/vireo)  - Vireo is a lightweight and versatile video processing library written in C++11 - twitter/vireo
 *   [vt-vl-lab/FGVC (⭐1.5k)](https://github.com/vt-vl-lab/FGVC)  - \[ECCV 2020] Flow-edge Guided Video Completion .
 *   [xyk2/cloud-transcoder (⭐12)](https://github.com/xyk2/cloud-transcoder)  - Transcoding long (>1 hour) videos quickly and cost-effectively on GCP to adaptive HLS and MP4 mezzanine files. Up to 40x $ savings. - xyk2/cloud-transcoder
 *   [zolinux/MediaArchiver (⭐1)](https://github.com/zolinux/MediaArchiver)  - Transcode video files using FFMPEG and python3.
@@ -475,7 +471,6 @@
 
 ### Specs and Standards / Industry Forums
 
-*   [DASH Industry Forum | Catalyzing the adoption of MPEG-DASH](https://dashif.org/software)  -
 *   [Home | Streaming Video Alliance](https://www.streamingvideoalliance.org/)  - Making Streaming Video Better Streaming video is exploding in popularity. Consumers are watching more video online across a myriad of devices. But, the streaming experiences, across providers, can be wildly different from each other which ultimately hurts adoption. The problem is a lack of colla ...
 
 ### Specs and Standards / MPEG
@@ -519,7 +514,6 @@
 *   [Mozilla-Open-Lab-Etwas/Video-Transcoder (⭐487)](https://github.com/Mozilla-Open-Lab-Etwas/Video-Transcoder)  - FFMPEG Wasm Video Transcoder.
 *   [NVIDIA/nvidia-docker (⭐17k)](https://github.com/NVIDIA/nvidia-docker)  - Build and run Docker containers leveraging NVIDIA GPUs - NVIDIA/nvidia-docker
 *   [Saurabh702/ffmpeg-scale-benchmark (⭐2)](https://github.com/Saurabh702/ffmpeg-scale-benchmark)  -
-*   [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg)  - Worker that is used to transcode video to supported formats and resolutions - TenPennyTV/worker-ffmpeg
 *   [This gist will generate an Intel QSV-enabled FFmpeg build using the open source Intel Media SDK. Testbed used: Ubuntu 18.04LTS. A fallback is also provided for the intel vaapi driver where needed.](https://gist.github.com/SeanMollet/0eed16e80630ab67532890a9d42132af)  - This gist will generate an Intel QSV-enabled FFmpeg build using the open source Intel Media SDK. Testbed used: Ubuntu 18.04LTS. A fallback is also provided for the intel vaapi driver where needed. ...
 *   [Understanding Rate Control Modes (x264, x265, vpx)](https://slhck.info/video/2017/03/01/rate-control.html)  - What is “rate control”? It’s what a video encoder does when it decides how many bits to spend for a given frame. The goal of (lossy) video encoding is to sav...
 *   [VCDP/FFmpeg-patch (⭐64)](https://github.com/VCDP/FFmpeg-patch)  - This repository contains a collection of FFmpeg\* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg\* framew\...
@@ -619,7 +613,6 @@
 *   [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#search=drm)  -
 *   [Creating a secure video-on-demand (VOD) platform using AWS](https://aws.amazon.com/blogs/media/creating-a-secure-video-on-demand-vod-platform-using-aws/)  - Authored by Chirag Oswal, Solution Architect, AWS, and Vikas Tiwari, Solution Architect Manager, AWS Video has become the primary means of Information sharing and learning. Customers are investing in innovative solutions to tap into the e-learning and video space. Video content is their IP and needs to be protected and securely delivered. Online video is a \[…]
 *   [Deploying KeyOS with AWS Elemental Media Services](https://go.buydrm.com/thedrmblog/deploying-keyos-with-aws-elemental-media-services)  - In this post we provide an in-depth first party overview of the complex integration between the KeyOS Platform and the Elemental Media Services via the SPEKE API.
-*   [DeployingKeyOSMulti-DRM\_withTHEOPLayer\_Webinar\_Draft1](https://www.buydrm.com/sites/default/files/pdf/webinar/050217_DeployingKeyOSMulti-DRM_withTHEOPLayer_Webinar.pdf)  -
 *   [Digital Rights Management (multi - drm) – aameer.github.io](https://aameer.github.io/articles/digital-rights-management-multi-drm)  - My Site
 *   [Fyrd/caniuse (⭐5.5k)](https://github.com/Fyrd/caniuse)  - Raw browser/feature support data from caniuse.com.
 *   [Generate MPEG DASH content encrypted with MPEG CENC ClearKey · Dash-Industry-Forum/dash.js Wiki (⭐5k)](https://github.com/Dash-Industry-Forum/dash.js/wiki/Generate-MPEG-DASH-content-encrypted-with-MPEG-CENC-ClearKey)  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. - Dash-Industry-Forum/dash.js
@@ -639,7 +632,7 @@
 *   [ebu/test-engine-live-tools (⭐18)](https://github.com/ebu/test-engine-live-tools)  - Small tools and scripts for the EBU test engine platform. - ebu/test-engine-live-tools
 *   [ebu/test-engine-ondemand (⭐3)](https://github.com/ebu/test-engine-ondemand)  - EBU on-demand test engine.
 
-### HDR10, HLG, Dolby Vision / Slack/Discord/Other Groups
+### HDR10, HLG, Dolby Vision / Slack Groups
 
 *   [Dolby Stream Validator](https://ott.dolby.com/OnDelKits_dev/StreamValidator/Start_Here.html)  -
 
@@ -1050,7 +1043,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Overlay
 
-*   [reoverlay (⭐145)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐146)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
 ## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 

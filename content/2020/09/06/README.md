@@ -34,11 +34,11 @@
 
 ### API Builder and Discovery
 
-*   [Acts\_As\_Api (⭐506)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Acts\_As\_Api (⭐507)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 
 ### Authorization
 
-*   [Consul (⭐318)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐317)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

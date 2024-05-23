@@ -22,7 +22,7 @@
 
 ### Games / Apache License
 
-*   [eepers (⭐285)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
+*   [eepers (⭐299)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐19k)](https://github.com/raysan5/raylib)).
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

@@ -16,9 +16,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐382)](https://github.com/marijnh/Postmodern)
-*   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.2k)](https://github.com/tcdi/pgx)
+*   Common Lisp: [Postmodern (⭐385)](https://github.com/marijnh/Postmodern)
+*   Elixir: [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex)
+*   Rust: [rust-postgresql (⭐3.3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.3k)](https://github.com/tcdi/pgx)
 
 ## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 

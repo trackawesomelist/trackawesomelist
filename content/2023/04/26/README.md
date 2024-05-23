@@ -10,7 +10,7 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐17k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [Langflow (⭐18k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 
 ### Unmaintained / Videos Playlists
 

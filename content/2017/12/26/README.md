@@ -122,7 +122,7 @@
 
 ### Software / Ticketing
 
-*   [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code (⭐637)](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`
+*   [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code (⭐643)](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`
 
 ### Software / Wikis
 

@@ -151,11 +151,11 @@
 
 ### Action
 
-*   [TR1X (⭐455)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
+*   [TR1X (⭐459)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
 ## [12. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Pipelight (⭐249)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐272)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -165,7 +165,7 @@
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐249)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐272)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 

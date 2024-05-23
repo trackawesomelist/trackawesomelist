@@ -62,7 +62,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch Frame (⭐436)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+*   [PyTorch Frame (⭐457)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
 *   [PyTorch Geometric (⭐20k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)

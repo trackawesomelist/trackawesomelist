@@ -48,7 +48,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### API Builder and Discovery
 
-*   [Crepe (⭐127)](https://github.com/crepe/crepe) - The thin API stack.
+*   [Crepe (⭐128)](https://github.com/crepe/crepe) - The thin API stack.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

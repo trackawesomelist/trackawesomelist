@@ -91,7 +91,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐21k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐23k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐767)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐772)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

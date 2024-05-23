@@ -37,10 +37,6 @@
 
 *   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐12k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 
-### Software / Miscellaneous
-
-*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐12k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
-
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous

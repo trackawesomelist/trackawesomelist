@@ -65,7 +65,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐415)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐421)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -334,7 +334,7 @@ Topics: InfoSec, Web App Security\
 
 ### Objective-C / Git
 
-*   [ObjectivePGP (⭐651)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+*   [ObjectivePGP (⭐657)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -366,7 +366,7 @@ Topics: InfoSec, Web App Security\
 
 ### Python / General-Purpose Machine Learning
 
-*   [xRBM (⭐56)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
+*   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
 ## [16. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,13 +27,7 @@
 *   [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 *   [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
-
-## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Releases / Navigation Demos
 
@@ -43,31 +37,31 @@
 *   [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
 *   [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 
-## [5. Awesome](/content/craftcms/awesome/README.md)
+## [4. Awesome](/content/craftcms/awesome/README.md)
 
 ### Podcasts / Tutorials
 
 *   [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Graphics
 
 *   [AHKv2-GDIP (⭐80)](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 
-## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Database
 
 *   [SPLOITUS](https://sploitus.com/) - Exploits & Tools Search Engine by [@i\_bo0om](https://twitter.com/i_bo0om).
 
-## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Metrics
 
 *   [prometheus (⭐48)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
-## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
@@ -87,25 +81,25 @@
 
 *   [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Projects
 
 *   [Next serverless (⭐82)](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 
-## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Articles / iOS
 
 *   [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
 
-## [12. Awesome C](/content/inputsh/awesome-c/README.md)
+## [11. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### RTOS
 
 *   [RIOT OS](https://www.riot-os.org/) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Cognito
 

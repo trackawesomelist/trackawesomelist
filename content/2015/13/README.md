@@ -308,8 +308,8 @@
 
 ### Implementations/Compilers
 
-*   [JRuby (⭐3.7k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
-*   [MRuby (⭐5.2k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
+*   [JRuby (⭐3.8k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
+*   [MRuby (⭐5.3k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
 *   [Opal (⭐4.8k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3.1k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
 

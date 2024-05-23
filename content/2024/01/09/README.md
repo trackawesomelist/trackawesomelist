@@ -91,7 +91,7 @@
 
 ### Scripting
 
-*   [LuaBridge3 (⭐214)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
+*   [LuaBridge3 (⭐222)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
 ## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

@@ -58,7 +58,7 @@
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐7.3k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.5k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

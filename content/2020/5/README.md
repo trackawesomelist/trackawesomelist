@@ -523,7 +523,7 @@
 
 ## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
-- Name: [Abstruse CI (⭐907)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐920)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -531,7 +531,7 @@
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐907)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐920)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -630,7 +630,7 @@
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐818)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐828)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -660,7 +660,7 @@
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐775)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐792)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -821,7 +821,7 @@
   Stars: 
 
 
-- Name: [Evergreen (⭐397)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐406)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -829,7 +829,7 @@
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐397)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐406)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -941,7 +941,7 @@
   Stars: 
 
 
-- Name: [Previs (⭐321)](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐324)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -949,7 +949,7 @@
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation (⭐321)](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐324)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 
@@ -1123,7 +1123,7 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐925)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [SchemaHero (⭐956)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
 *   [Sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
@@ -1132,28 +1132,28 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐150)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [ASH Viewer (⭐156)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 *   [mssql-monitoring (⭐89)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
 
-*   [RegreSQL (⭐266)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+*   [RegreSQL (⭐268)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐1.1k)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐1.3k)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
-*   [MySQLTuner-perl (⭐8.5k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [postgresqltuner.pl (⭐2.5k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
+*   [MySQLTuner-perl (⭐8.7k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [postgresqltuner.pl (⭐2.6k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐692)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
-*   [Postgres.app (⭐7k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
+*   [DBdeployer (⭐697)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [Postgres.app (⭐7.1k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐200)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐201)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 
@@ -1244,7 +1244,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐906)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐907)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1256,22 +1256,22 @@
 
 ### Applications
 
-*   [tiny (⭐968)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐971)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐7.8k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐7.9k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐243)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐249)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐827)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐658)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐322)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
-*   [debris/tiny-keccak (⭐189)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐836)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐663)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐323)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
+*   [debris/tiny-keccak (⭐190)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1672,7 +1672,7 @@
 
 ### Miscellaneous
 
-*   [react-pdf-viewer (⭐2k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+*   [react-pdf-viewer (⭐2.1k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ### Boilerplate / Mouse Events
 

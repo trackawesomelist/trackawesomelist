@@ -15,7 +15,7 @@
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐61k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐72k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [3. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -302,7 +302,7 @@ git commit -m "submodule updated"
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐935)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐954)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [27. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -329,7 +329,7 @@ git commit -m "submodule updated"
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐618)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐623)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [29. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -352,7 +352,7 @@ git commit -m "submodule updated"
 
 ### Reflection
 
-*   [meta (⭐552)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐557)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -450,13 +450,13 @@ git commit -m "submodule updated"
 ### Music and Sound
 
 *   [Maestro (⭐122)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
-*   [Sonic Pi (⭐10k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+*   [Sonic Pi (⭐11k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐6.5k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐6.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 *   [numpy-ML (⭐15k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [37. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)

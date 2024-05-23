@@ -195,7 +195,7 @@
 
 ### Frameworks
 
-*   [Coost (⭐3.8k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
+*   [Coost (⭐3.9k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
 
 ---
 

@@ -26,7 +26,7 @@
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐267)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐268)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 
@@ -47,7 +47,7 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [AFL++ (⭐4.2k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [AFL++ (⭐4.7k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

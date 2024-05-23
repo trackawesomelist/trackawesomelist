@@ -54,7 +54,7 @@
 
 ### Python / Federated Learning
 
-*   [PySyft (⭐9.2k)](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
+*   [PySyft (⭐9.3k)](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
 *   [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
 *   [Tensorflow-Federated](https://www.tensorflow.org/federated) A federated learning framework for machine learning and other computations on decentralized data.
 

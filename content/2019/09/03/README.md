@@ -105,7 +105,7 @@
 
 ### Compression
 
-*   [bit7z (⭐575)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐579)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐148)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐150)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
 ## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 

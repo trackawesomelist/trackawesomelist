@@ -14,7 +14,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐35)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐37)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 

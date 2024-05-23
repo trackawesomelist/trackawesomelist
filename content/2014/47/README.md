@@ -82,7 +82,7 @@
 
 ### Documentation
 
-*   [Apipie (⭐2.4k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
+*   [Apipie (⭐2.5k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
 ## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

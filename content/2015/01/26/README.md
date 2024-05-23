@@ -22,7 +22,7 @@
 
 ### Git Tools
 
-*   [ginatra (⭐528)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
+*   [ginatra (⭐526)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 
 ### Profiler and Optimization
 

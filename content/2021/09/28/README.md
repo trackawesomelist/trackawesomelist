@@ -22,7 +22,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐691)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐715)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -40,16 +40,16 @@
 
 ### Applications / System tools
 
-*   [crabz (⭐314)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐315)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐145)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐149)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐331)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐337)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐692)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐693)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ---
 

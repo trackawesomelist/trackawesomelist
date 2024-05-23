@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06 - Nov 12, 2023
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Applications
 
-*   [UpVPN (⭐143)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
+*   [UpVPN (⭐147)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 
 ### Applications / Package Managers
 
-*   [helsing-ai/buffrs (⭐136)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
+*   [helsing-ai/buffrs (⭐145)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
 
 ### Applications / Routing protocols
 
-*   [Holo (⭐198)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [Holo (⭐204)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 
 ### Libraries / Template engine
 
@@ -116,7 +116,7 @@
 
 ### Misc / Apache License
 
-*   [ada-chess (⭐6)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
+*   [ada-chess (⭐7)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -203,7 +203,18 @@
 
 *   [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 
-## [17. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+
+### Libraries / C++
+
+*   C++: Audio
+    *   🎉 [Amplitude Audio SDK (⭐19)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
+    *   💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
+    *   💰 [Juce (⭐6.2k)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
+    *   🔒 [OpenAL Soft (⭐2.1k)](https://github.com/kcat/openal-soft) - Software implementation of the *OpenAL* 3D audio API.
+    *   🎉 [PortAudio (⭐1.3k)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
+
+## [18. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Image / Services
 
@@ -213,14 +224,14 @@
 
 *   [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
 
-## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 
-## [19. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [20. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -239,7 +250,7 @@
 *   [Fire-Pack](http://files.dhs.nu/files_source/axe.zip?fire-pack)
 *   [Pack-Ice](http://files.dhs.nu/files_source/axe.zip?pack-ice)
 
-## [20. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [21. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Geospatial / Text-Based User Interfaces
 
@@ -249,7 +260,7 @@
 
 *   [Neureka (⭐65)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / BRE
 
@@ -259,13 +270,13 @@
 
 *   [NServiceBus (⭐2k) (⭐2.1k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
 
-## [22. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
 *   [Snowfall Lib (⭐289)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 
-## [23. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [24. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### How-to guides
 
@@ -281,7 +292,7 @@
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
-*   [Shadow qube (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+*   [Shadow qube (⭐5)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 
 ### VM-Hardening
 
@@ -294,14 +305,14 @@
 
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 *   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
-*   [Wayland agent (⭐8)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+*   [Wayland agent (⭐12)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 
 ### Troubleshooting
 
 *   [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
 *   [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis.
 *   [Analyze Qubes OS VM  (⭐1)](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
-*   [Url redirector (⭐32)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
+*   [Url redirector (⭐33)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
 *   [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ### Clearnet & Anonymous Networking / Wireguard
@@ -320,19 +331,19 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Hyperdbg (⭐2.4k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
+*   [Hyperdbg (⭐2.6k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
 
 ### Optics and Extra Info / Unikernel-like
 
-*   [Hipervisor From Scratch (⭐1.8k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
+*   [Hipervisor From Scratch (⭐2.1k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
 
-## [24. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [25. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
 *   [AirSage](https://airsage.com/) - AirSage is a well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management
 
@@ -354,7 +365,7 @@
 
 *   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐773)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -364,7 +375,7 @@
 
 *   [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
-## [27. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -382,7 +393,7 @@
 
 *   [vite-plugin-kit-routes (⭐377)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Project / Diagnostics
 
@@ -396,11 +407,11 @@
 
 *   [xiaoshihou514/squirrel.nvim (⭐13)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 
-## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [delete-prompt (⭐2)](https://github.com/aoyama-val/zsh-delete-prompt) - ZSH widget to delete the prompt texts within the current line. It is useful when executing pasted commands from the web or a README. A leading non-alphanumeric character + space is detected as a prompt.
+*   [delete-prompt (⭐3)](https://github.com/aoyama-val/zsh-delete-prompt) - ZSH widget to delete the prompt texts within the current line. It is useful when executing pasted commands from the web or a README. A leading non-alphanumeric character + space is detected as a prompt.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -410,19 +421,19 @@
 
 *   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Minimalist. Includes decorators for `git` status, current directory, current time and the last command's exit status.
 
-## [30. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
-## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
 *   [Penticon Public Library (⭐3)](https://github.com/danlerche/public-library-wagtailCMS) - An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.
 
-## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Template Engines
 
@@ -439,7 +450,7 @@
 *   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
 *   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -453,7 +464,7 @@
 
 *   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assitance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
 
-## [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### AI Engineering / Multi-agents
 
@@ -502,7 +513,7 @@
 *   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
 *   [roboflow/awesome-openai-vision-api-experiments (⭐1.6k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
-## [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
@@ -512,46 +523,42 @@
 
 *   [gtfs\_functions (⭐96)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
-## [36. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [37. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
 *   [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
 *   [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
 
-## [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
 *   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐18)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
 *   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐65)](https://github.com/YunzhuLi/VisGel)].
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Audio
-
-*   [Amplitude Audio SDK (⭐17)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Font
 
-*   [libschrift (⭐430)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐438)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ### Graphics
 
-*   [ThorVG (⭐544)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+*   [ThorVG (⭐558)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 
 ### Networking
 
-*   [nghttp3 (⭐791)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐803)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
-## [39. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [40. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / File
 
 *   [AFL++ (⭐4.1k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Angora (⭐882)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -565,7 +572,7 @@
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 
-## [41. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
@@ -573,7 +580,7 @@
 *   [read-package-up (⭐250)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
 *   [package-config (⭐113)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
-## [42. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
@@ -584,7 +591,7 @@
 
 *   :octocat: [SuperJSON (⭐3.4k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
-## [43. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [44. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Hosting:
 
@@ -600,13 +607,13 @@
 
 
 
-## [44. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [45. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Mathematics
 
 *   [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
 
-## [45. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [46. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 

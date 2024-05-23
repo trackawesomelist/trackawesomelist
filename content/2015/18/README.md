@@ -41,7 +41,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐685)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐686)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

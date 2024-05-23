@@ -433,13 +433,13 @@
 
 ### Money
 
-*   [Monetize (⭐407)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐415)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
 *   Import
     *   [ActiveRecord Import (⭐4k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐818)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [bulk\_insert (⭐817)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
     *   [data\_miner (⭐301)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐244)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 

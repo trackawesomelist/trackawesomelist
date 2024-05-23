@@ -45,13 +45,13 @@
 
 ### Projects
 
-*   [windows-terminal-theme-generator (⭐13)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
+*   [windows-terminal-theme-generator (⭐15)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrolling / Diagnostics
 
-*   [niuiic/scroll.nvim (⭐0)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
+*   [niuiic/scroll.nvim (⭐13)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -70,12 +70,12 @@
 
 ### Applications / Audio and Music
 
-*   [dano (⭐128)](https://github.com/kimono-koans/dano) — A hashdeep/md5tree (but much more) for media files
+*   [dano (⭐130)](https://github.com/kimono-koans/dano) — A hashdeep/md5tree (but much more) for media files
 
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip2 (⭐28)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] — read and write  ZIP archives
+    *   [zip-rs/zip2 (⭐46)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] — read and write  ZIP archives
 
 ## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -121,8 +121,6 @@
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular in depth](https://angularindepth.com/)
-*   [angularminds](https://www.angularminds.com/blog)
-*   [angulararchitects](https://www.angulararchitects.io/en/blog/)
 *   [house of angular](https://houseofangular.io/blog/)
 *   [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 *   [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
@@ -132,16 +130,15 @@
 *   [Official Angular style guide](https://angular.dev/style-guide#)
 *   [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
-### Mixed utilities / Testing
+### Mixed utilities / Validation
 
 *   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 ### UI Libraries / Material Based
 
 *   [Covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
-*   [IgniteUI Angular (⭐562)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+*   [IgniteUI Angular (⭐564)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
 *   [Alyle UI (⭐290)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
-*   [angular-material-extensions](https://github.com/angular-material-extensions)
 *   [angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
 *   [angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
 *   [angular-material-extensions/password-strength (⭐285)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.

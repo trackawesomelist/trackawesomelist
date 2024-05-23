@@ -779,7 +779,7 @@ Topics: CSS, CSS in JS, React\
 
 ### CLI
 
-*   [Lyra (⭐457)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐461)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 

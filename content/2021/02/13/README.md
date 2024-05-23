@@ -120,7 +120,7 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.9k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐3k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)

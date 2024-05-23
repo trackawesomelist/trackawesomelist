@@ -21,7 +21,7 @@
 
 ### VM-Hardening
 
-*   [Qcrypt (⭐13)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+*   [Qcrypt (⭐16)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 *   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 
 ### Customization
@@ -42,11 +42,11 @@
 
 ### Clearnet & Anonymous Networking / OpenVPN
 
-*   [Qubes-Tunnel (⭐19)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐20)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
 ### Clearnet & Anonymous Networking / Crypto
 
-*   [Awesome-DeSci (⭐56)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐71)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
 ### Kernels / Microkernels
 
@@ -54,18 +54,18 @@
 
 ### Kernels / Unikernels
 
-*   [Awesome-Unikernels (⭐33)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
-*   [Qubes-Mirage-Firewall (⭐199)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Awesome-Unikernels (⭐36)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Qubes-Mirage-Firewall (⭐201)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Awesome-Fuzzing (⭐732)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐785)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
-*   [Joern (⭐1.6k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
+*   [Joern (⭐1.8k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐590)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-*   [Microlibvmi (⭐148)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐19k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
+*   [Memflow (⭐692)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Microlibvmi (⭐157)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
+*   [Radare2 (⭐20k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
 ### Optics and Extra Info / Unikernel-like
 
@@ -75,15 +75,15 @@
 
 ### Qubes OS Server / Web articles
 
-*   [Qubes-network-server (⭐87)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
+*   [Qubes-network-server (⭐94)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐7)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
 
 ### Qubes OS Legends / Web articles
 
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
     *   [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
-    *   [Unman Install Scripts (⭐15)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Unman Install Scripts (⭐17)](https://github.com/unman/shaker) -  Unman install scripts
 
 ### Social media / Web articles
 
@@ -145,7 +145,7 @@
 
 ### Security
 
-*   [Ronin (⭐607)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
+*   [Ronin (⭐636)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

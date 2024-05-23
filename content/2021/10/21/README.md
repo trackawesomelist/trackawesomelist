@@ -145,7 +145,7 @@
 
 ### Others / Object detection and object tracking
 
-*   [ARHeadsetKit (⭐122)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐22)](https://github.com/philipturner/scene-color-reconstruction).
+*   [ARHeadsetKit (⭐124)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐22)](https://github.com/philipturner/scene-color-reconstruction).
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

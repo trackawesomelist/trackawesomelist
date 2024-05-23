@@ -95,9 +95,10 @@
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.6k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐215)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐247)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ---
 
+- Prev: [May 21, 2024](/content/2024/05/21/README.md)
 - Next: [May 19, 2024](/content/2024/05/19/README.md)

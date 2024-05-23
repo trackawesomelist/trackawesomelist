@@ -64,7 +64,7 @@
 
 ### Projects Using Vue.js / A11y
 
-*   [eslint-plugin-vuejs-accessibility (⭐239)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
+*   [eslint-plugin-vuejs-accessibility (⭐242)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ---
 

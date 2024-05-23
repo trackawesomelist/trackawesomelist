@@ -254,7 +254,7 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐362)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
+*   [slowtec/tokio-modbus (⭐364)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
 
 ## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -371,7 +371,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐215)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐221)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
 *   [Drop Feeds (⭐18)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 
@@ -441,7 +441,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### OS and Kernels / Apache License
 
-*   [cubit (⭐76)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+*   [cubit (⭐77)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
 ## [28. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -712,7 +712,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Resources / Examples
 
-*   [Vue Mini Shop (⭐269)](https://github.com/BosNaufal/vue-mini-shop)
+*   [Vue Mini Shop (⭐268)](https://github.com/BosNaufal/vue-mini-shop)
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
 *   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
@@ -724,7 +724,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐12)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
 *   [X-Flowchart-Vue (⭐1.4k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐411)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-WebDesktop-Vue (⭐410)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
 *   [Vue webpack typescript (⭐23)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 
@@ -746,7 +746,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [vue-ads-table-tree (⭐125)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
 *   [@voerro/vue-notifications (⭐1)](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
 *   [vue-popperjs (⭐435)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
-*   [vue-final-modal (⭐840)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐846)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 *   [vuerollr (⭐23)](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
 *   [v-digital-time-picker (⭐12)](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
@@ -763,7 +763,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐348)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐347)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 *   [@icare-jp/vue-props-type (⭐20)](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
 *   [zipkin-instrumentation-vue-resource (⭐8)](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for `vue-resource` that instruments outgoing HTTP requests with [Zipkin (⭐17k)](https://github.com/openzipkin/zipkin)
 *   [vue-i18n-service (⭐144)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
@@ -850,8 +850,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Authentication
 
-*   [TheIdServer (⭐668)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐85)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐672)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐89)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 *   [Blazor-WASM-AzureAD-gRPC (⭐18)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
 
 ### 2D/3D Rendering engines / API
@@ -860,10 +860,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Tools & Utilities / Others
 
-*   [Blazor.SpeechSynthesis (⭐87)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
+*   [Blazor.SpeechSynthesis (⭐88)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 *   [BlazorState.Redux (⭐29)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
 *   [Howler.Blazor (⭐31)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
-*   [jsMind.Blazor (⭐18)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+*   [jsMind.Blazor (⭐19)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ### Courses / Others
 

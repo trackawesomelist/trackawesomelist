@@ -133,7 +133,7 @@
 
 ### Game Development and Graphics
 
-*   [Taylor (⭐89)](https://github.com/HellRok/Taylor) - Taylor is a game engine built using mruby and raylib.
+*   [Taylor (⭐93)](https://github.com/HellRok/Taylor) - Taylor is a game engine built using mruby and raylib.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Applications / Audio and Music
 
-*   [WhatBPM (⭐66)](https://github.com/sergree/whatbpm) — A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
+*   [WhatBPM (⭐65)](https://github.com/sergree/whatbpm) — A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
 
 ## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -476,7 +476,7 @@
 
 ### Querying / Symfony2
 
-*   [Step CI (⭐1.1k)](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
+*   [Step CI (⭐1.5k)](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 
 ## [39. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -488,7 +488,7 @@
 
 ### conversion
 
-*   [betterknown (⭐33)](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
+*   [betterknown (⭐36)](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
 
 ## [41. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -519,10 +519,10 @@
 ### Algorithms / Semantic segmentation
 
 *   [RandLA-Net :newspaper:](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
-    *   [GitHub repository :octocat: (⭐1.2k)](https://github.com/QingyongHu/RandLA-Net)
+    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/QingyongHu/RandLA-Net)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
 *   [Automatic labelling :newspaper:](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
-    *   [GitHub repository :octocat: (⭐152)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
+    *   [GitHub repository :octocat: (⭐160)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=qMj_WM6D0vI)
 
 ## [43. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
@@ -635,7 +635,7 @@
 
 ### Libraries / Lua
 
-*   📚 [Awesome Lua (⭐3.7k)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+*   📚 [Awesome Lua (⭐3.8k)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
 
 ## [51. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -659,7 +659,7 @@
 
 ### Tooling / Frameworks
 
-*   [Tauri (⭐77k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+*   [Tauri (⭐78k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
 ## [53. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -683,7 +683,7 @@
 
 ### Articles / Others
 
-*   [Use Keycloak as Identity Provider from Blazor WebAssembly (WASM) applications](https://dev.to/nikiforovall/use-keycloak-as-identity-provider-from-blazor-webassembly-wasm-applications-3an6) - December 8, 2022 - Learn how to integrate with Keycloak from Blazor WASM. Create a public client and use built-in capabilities of Microsoft.AspNetCore.Components.WebAssembly.Authentication that integrates with OpenId Connect compliant providers. [Source code (⭐318)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet/blob/main/samples/Blazor) ![stars](https://img.shields.io/github/stars/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐63k)](https://github.com/chartjs/Chart.js).
+*   [Use Keycloak as Identity Provider from Blazor WebAssembly (WASM) applications](https://dev.to/nikiforovall/use-keycloak-as-identity-provider-from-blazor-webassembly-wasm-applications-3an6) - December 8, 2022 - Learn how to integrate with Keycloak from Blazor WASM. Create a public client and use built-in capabilities of Microsoft.AspNetCore.Components.WebAssembly.Authentication that integrates with OpenId Connect compliant providers. [Source code (⭐354)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet/blob/main/samples/Blazor) ![stars](https://img.shields.io/github/stars/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js).
 *   [What’s new in the Microsoft Fluent UI library for Blazor version 2.0](https://medium.com/fast-design/whats-new-in-the-microsoft-fluent-ui-library-for-blazor-version-2-0-b3ac0eb5d02c) - December 5, 2022 - What’s new in the Microsoft Fluent UI library for Blazor version 2.0.
 *   [Build a web app to manage a custom provider in Viva Learning with Blazor](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/build-a-web-app-to-manage-a-custom-provider-in-viva-learning/ba-p/3686343#M679) - November 29, 2022 - In this post, we're going to reuse the concepts we have learned to build a better experience: a web application, that we can use to manage our custom learning provider and its contents. We'll focus on how to implement in a real application some of the peculiar features we have learned about these APIs, like the fact that a different set of permissions is required based on the type of content you're working with.
 *   [Clean Architecture Solution Template for Blazor WebAssembly](https://jasontaylor.dev/clean-architecture-solution-template-for-blazor-webassembly/) - September 30, 2022 - This post shows how to install the new template, create and run a new app using the template, and then I’ll share some recommended resources.

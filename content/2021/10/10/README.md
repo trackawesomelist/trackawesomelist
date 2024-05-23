@@ -104,7 +104,7 @@
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐41)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐42)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Workato
 

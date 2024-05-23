@@ -168,7 +168,7 @@
 ### Network / Messaging
 
 *   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
-*   [nine-lives-later/zzmq (⭐8)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
+*   [nine-lives-later/zzmq (⭐10)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -194,7 +194,7 @@
 
 *   [args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [cxxopts (⭐4k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-*   [TermOx (⭐618)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
+*   [TermOx (⭐622)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
 
 ## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -208,12 +208,12 @@
 
 ### DevOps Tools
 
-*   [Kanrisuru (⭐17)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
+*   [Kanrisuru (⭐18)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
 
 ### ORM/ODM Extensions
 
 *   Auditing and Versioning
-    *   [active\_snapshot (⭐95)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+    *   [active\_snapshot (⭐97)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
     *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
     *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
     *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
@@ -221,16 +221,16 @@
     *   [Discard (⭐2k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
     *   [Logidze (⭐1.6k)](https://github.com/palkan/logidze) - Database changes log for Rails.
     *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
-    *   [mongoid-history (⭐389)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
+    *   [mongoid-history (⭐390)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
     *   [PaperTrail (⭐6.7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
-    *   [Paranoia (⭐2.8k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
-    *   [PermenantRecords (⭐236)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
+    *   [Paranoia (⭐2.9k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
+    *   [PermenantRecords (⭐270)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 
 ## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bot Building
 
-*   [go-tg (⭐70)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+*   [go-tg (⭐74)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 
 ### Build Automation
 
@@ -238,7 +238,7 @@
 
 ### Configuration
 
-*   [konf (⭐176)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+*   [konf (⭐188)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 
 ### Interfaces to Multiple Backends
 
@@ -250,15 +250,15 @@
 
 ### Distributed Systems
 
-*   [Tarmac (⭐308)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
+*   [Tarmac (⭐311)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
 
 ### Job Scheduler
 
-*   [go-dag (⭐5)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
+*   [go-dag (⭐6)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 
 ### Dependency Injection
 
-*   [kod (⭐67)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
+*   [kod (⭐71)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 
 ### Strings
 
@@ -266,7 +266,7 @@
 
 ### Security
 
-*   [encid (⭐1)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
+*   [encid (⭐2)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 
 ### Template Engines
 
@@ -274,17 +274,17 @@
 
 ### Web Frameworks
 
-*   [Yokai (⭐179)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+*   [Yokai (⭐189)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [Subspace (⭐344)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+*   [Subspace (⭐356)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
 ### Applications / Database
 
-*   [ParadeDB (⭐3.9k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
+*   [ParadeDB (⭐4.2k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
 *   [USearch (⭐1.7k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
 
 ### Applications / Text processing
@@ -293,7 +293,7 @@
 
 ### Libraries / Data processing
 
-*   [pg\_analytics (⭐3.9k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_analytics (⭐4.2k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Libraries / Data structures
 
@@ -634,7 +634,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prismock - Run tests in isolation with an in-memory implementation of Prisma (⭐140)](https://github.com/morintd/prismock)
+*   [Prismock - Run tests in isolation with an in-memory implementation of Prisma (⭐153)](https://github.com/morintd/prismock)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -737,7 +737,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐1.9k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
+*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 
 ## [28. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -761,7 +761,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [extensive-react-boilerplate (⭐154)](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
+*   [extensive-react-boilerplate (⭐169)](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
 
 ## [31. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

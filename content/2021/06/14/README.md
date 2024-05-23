@@ -191,7 +191,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐40)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐42)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

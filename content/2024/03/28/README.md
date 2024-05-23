@@ -16,7 +16,7 @@
 
 ### Applications / System tools
 
-*   [ynqa/jnv (⭐4.3k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
+*   [ynqa/jnv (⭐4.4k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
 
 ## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -63,11 +63,11 @@
 
 ### AI / Diagnostics
 
-*   [simplegpt.nvim (⭐8)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+*   [simplegpt.nvim (⭐9)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ### Utility / Diagnostics
 
-*   [SUSTech-data/neopyter (⭐37)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [SUSTech-data/neopyter (⭐45)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 
 ---
 

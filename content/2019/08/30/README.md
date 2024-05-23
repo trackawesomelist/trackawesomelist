@@ -61,7 +61,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐634)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐636)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)

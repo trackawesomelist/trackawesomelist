@@ -66,7 +66,7 @@
 
 ### Concurrency
 
-*   [concurrentqueue (⭐8.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [concurrentqueue (⭐8.9k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [readerwriterqueue (⭐3.5k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
@@ -80,7 +80,7 @@
 
 ### Scientific Computing
 
-*   [Torch (⭐8.9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
+*   [Torch (⭐9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 
 ### Scripting
 
@@ -88,7 +88,7 @@
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐724)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐727)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

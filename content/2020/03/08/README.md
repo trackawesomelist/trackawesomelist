@@ -60,13 +60,13 @@
 ### Tools & Utilities / Others
 
 *   [Blazored.LocalStorage (⭐1.1k)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
-*   [Blazor-State (⭐518)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
+*   [Blazor-State (⭐524)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
 *   [CssBuilder (⭐210)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 
 ### Others / Others
 
 *   [Bolero (⭐1k)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-*   [BlazorFabric (⭐809)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+*   [BlazorFabric (⭐811)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Networking
 
-*   [tlse (⭐527)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐529)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

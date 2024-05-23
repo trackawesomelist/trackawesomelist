@@ -16,7 +16,7 @@
 
 ### ORM/ODM
 
-*   [NoBrainer (⭐388)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
+*   [NoBrainer (⭐389)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

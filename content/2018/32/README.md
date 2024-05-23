@@ -169,7 +169,7 @@ Free
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9.2k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.4k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ## [16. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -240,7 +240,7 @@ Free
 
 ### Other lists / Hash functions
 
-*   [Awesome HE (⭐911)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+*   [Awesome HE (⭐953)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 

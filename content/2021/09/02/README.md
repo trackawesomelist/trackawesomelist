@@ -194,10 +194,6 @@
 
 *   [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code (⭐76)](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`
 
-### Software / Note-taking & Editors
-
-*   [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code (⭐7.9k)](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
-
 ### Software / Office Suites
 
 *   [Etherpad](https://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code (⭐16k)](https://github.com/ether/etherpad-lite)) `Apache-2.0` `Nodejs/Docker`
@@ -301,7 +297,7 @@
 
 ### CMS
 
-*   [Blogifier (⭐1.2k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
+*   [Blogifier (⭐1.3k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
 
 ### IoT
 

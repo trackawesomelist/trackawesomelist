@@ -10,7 +10,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐20k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐21k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

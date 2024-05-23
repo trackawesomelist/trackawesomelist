@@ -21,11 +21,11 @@
 
 ### Applications
 
-*   [doprz/dipc (⭐163)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
+*   [doprz/dipc (⭐166)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
 ### Development tools / Web Servers
 
-*   [frolic (⭐177)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐179)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
 
 ### Libraries / Artificial Intelligence
 
@@ -34,7 +34,7 @@
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   [dyz1990/sevenz-rust (⭐129)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+    *   [dyz1990/sevenz-rust (⭐134)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
 
 ### Libraries / Cryptography
 
@@ -46,7 +46,7 @@
 
 ### Libraries / Graph algorithms
 
-*   [neo4j-labs/graph (⭐352)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
+*   [neo4j-labs/graph (⭐353)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -88,7 +88,7 @@
 
 ### API / Samples
 
-*   [Graphweaver (⭐418)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐444)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ---
 

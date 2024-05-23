@@ -110,7 +110,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-toaster (⭐190)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
+*   [vue-toaster (⭐189)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

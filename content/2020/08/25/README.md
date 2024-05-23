@@ -70,8 +70,8 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor I18n/Localization Text (⭐207)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐248)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
+*   [Blazor I18n/Localization Text (⭐210)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+*   [MvvmBlazor (⭐249)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
 ## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

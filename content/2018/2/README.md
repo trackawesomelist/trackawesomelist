@@ -638,7 +638,7 @@ Wifi pw: `portuguesa`
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐4k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐4.1k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ### Logging
 

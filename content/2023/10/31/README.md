@@ -58,7 +58,7 @@
 
 ### Rust / Git
 
-*   [botan-rs (⭐25)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐29)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
 ## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Security
 
-*   [beelzebub (⭐575)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐580)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -156,17 +156,17 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [XAD (⭐207)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
+*   [XAD (⭐216)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 
 ### Python / Computer Vision
 
-*   [TF-GAN (⭐908)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
-*   [segmentation\_models.pytorch (⭐8.7k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [TF-GAN (⭐911)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
+*   [segmentation\_models.pytorch (⭐8.9k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 *   [segmentation\_models (⭐4.6k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 
 ### Python / Reinforcement Learning
 
-*   [Gymnasium (⭐5.5k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
+*   [Gymnasium (⭐5.8k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
 
 ## [19. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

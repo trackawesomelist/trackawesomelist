@@ -38,7 +38,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐9)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐10)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

@@ -131,7 +131,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 *   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
 *   [cloudflare/boringtun (⭐5.9k)](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
-*   [datafusion (⭐5.1k)](https://github.com/apache/datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐5.2k)](https://github.com/apache/datafusion) — Apache Arrow DataFusion and Ballista query engines
 *   [defguard (⭐677)](https://github.com/defguard/defguard) — Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 *   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
 *   [doprz/dipc (⭐166)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
@@ -290,7 +290,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   GameMaker
     *   [OpenGMK (⭐259)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 *   IBM PC
-    *   [MartyPC (⭐472)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
+    *   [MartyPC (⭐478)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
 *   Intel 8080 CPU
     *   [mohanson/i8080 (⭐108)](https://github.com/mohanson/i8080) — Intel 8080 CPU emulator
 *   iOS
@@ -314,7 +314,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   [broot (⭐10k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [joshuto (⭐3.3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐8.2k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐9k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Games
 
@@ -429,7 +429,7 @@ See also [A comparison of operating systems written in Rust (⭐661)](https://gi
 *   [kpcyrd/sn0int (⭐1.9k)](https://github.com/kpcyrd/sn0int) — A semi-automatic OSINT framework and package manager
 *   [kpcyrd/sniffglue (⭐1.1k)](https://github.com/kpcyrd/sniffglue) — A secure multithreaded packet sniffer
 *   [ObserverWard (⭐981)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
-*   [Raspirus (⭐78)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
+*   [Raspirus (⭐92)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 *   [ripasso (⭐686)](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
 *   [rustscan/rustscan (⭐13k)](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
@@ -474,7 +474,7 @@ See also [A comparison of operating systems written in Rust (⭐661)](https://gi
 *   [mmstick/fontfinder (⭐276)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 *   [mmstick/tv-renamer (⭐148)](https://github.com/mmstick/tv-renamer) — A tv series renaming application with an optional GTK3 frontend.
 *   [mxseev/logram (⭐97)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
-*   [netscanner (⭐664)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+*   [netscanner (⭐695)](https://github.com/Chleba/netscanner) - TUI Network Scanner
 *   [nickgerace/gfold (⭐270)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 *   [nivekuil/rip (⭐1.3k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 *   [nushell/nushell (⭐30k)](https://github.com/nushell/nushell) - A new type of shell
@@ -555,7 +555,7 @@ See also [A comparison of operating systems written in Rust (⭐661)](https://gi
 *   [rustdesk/rustdesk (⭐65k)](https://github.com/rustdesk/rustdesk) — A remote desktop software, great alternative to TeamViewer and AnyDesk.
 *   [rustic-rs/rustic (⭐1.6k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 *   [sorairolake/qrtool (⭐25)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-*   [str4d/rage (⭐2.3k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.4k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] — Rust implementation of [age (⭐15k)](https://github.com/FiloSottile/age).
 *   [suckit (⭐713)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 *   [tversteeg/emplace (⭐249)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 *   [vamolessa/verco (⭐228)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
@@ -604,7 +604,7 @@ See also [A comparison of operating systems written in Rust (⭐661)](https://gi
 
 ## Development tools
 
-*   [ATAC (⭐1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+*   [ATAC (⭐1.1k)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐1.5k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 *   [clippy](https://crates.io/crates/clippy) — Rust lints
 *   [clog-tool/clog-cli (⭐834)](https://github.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
@@ -623,7 +623,7 @@ See also [A comparison of operating systems written in Rust (⭐661)](https://gi
 *   [git-journal (⭐595)](https://github.com/saschagrunert/git-journal/) — The Git Commit Message and Changelog Generation Framework
 *   [hot-lib-reloader (⭐535)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 *   [intelli-shell (⭐194)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
-*   [just (⭐17k)](https://github.com/casey/just) — A handy command runner for project-specific tasks
+*   [just (⭐18k)](https://github.com/casey/just) — A handy command runner for project-specific tasks
 *   [mask (⭐1k)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 *   [Module Linker (⭐249)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 *   [ptags (⭐125)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
@@ -793,7 +793,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [rust-lang/rust-enhanced (⭐770)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐765)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐776)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐628)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 *   Visual Studio
@@ -1177,7 +1177,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [mazznoer/colorgrad-rs (⭐268)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
 *   [milliams/plotlib (⭐463)](https://github.com/milliams/plotlib)
 *   [plotly (⭐974)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
-*   [plotpy (⭐50)](https://github.com/cpmech/plotpy) \[[plotpy](https://crates.io/crates/plotpy)] — Rust plotting library using Python (Matplotlib)
+*   [plotpy (⭐49)](https://github.com/cpmech/plotpy) \[[plotpy](https://crates.io/crates/plotpy)] — Rust plotting library using Python (Matplotlib)
 *   [plotters (⭐3.6k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
 *   [rerun (⭐5.3k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
 *   [saresend/gust (⭐130)](https://github.com/saresend/Gust) —
@@ -1238,7 +1238,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [Brendonovich/prisma-client-rust (⭐1.7k)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
     *   [diesel-rs/diesel (⭐12k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder
     *   [ivanceras/rustorm (⭐248)](https://github.com/ivanceras/rustorm) — an ORM
-    *   [njord-rs/njord (⭐247)](https://github.com/njord-rs/njord) - ⛵ A lightweight ORM library for Rust [![build status](https://github.com/njord-rs/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/ci.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
+    *   [njord-rs/njord (⭐260)](https://github.com/njord-rs/njord) - ⛵ A lightweight ORM library for Rust [![build status](https://github.com/njord-rs/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/ci.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
     *   [rbatis/rbatis (⭐2.1k)](https://github.com/rbatis/rbatis) — ORM Framework High Performance(JSON based)
     *   [SeaQL/sea-orm (⭐6.4k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
     *   [SeaQL/seaography (⭐343)](https://github.com/SeaQL/seaography) — 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
@@ -1519,7 +1519,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [libui (⭐11k)](https://github.com/andlabs/libui)
     *   [rust-native-ui/libui-rs (⭐926)](https://github.com/rust-native-ui/libui-rs) — libui bindings.
 *   [makepad/makepad (⭐4.7k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
-*   [Nuklear (⭐8.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐8.7k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐355)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
 *   [OrbTk (⭐3.8k)](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
 *   [PistonDevelopers/conrod (⭐3.4k)](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library
@@ -1642,7 +1642,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   Stomp
     *   [zslayton/stomp-rs (⭐89)](https://github.com/zslayton/stomp-rs) — A [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) client implementation
 *   VPN
-    *   [defguard/wireguard-rs (⭐106)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+    *   [defguard/wireguard-rs (⭐112)](https://github.com/DefGuard/wireguard-rs) — A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 *   ZeroMQ
     *   [erickt/rust-zmq (⭐878)](https://github.com/erickt/rust-zmq) — [ZeroMQ](https://zeromq.org/) bindings
 
@@ -1826,7 +1826,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [tiny-http (⭐959)](https://github.com/tiny-http/tiny-http) — Low level HTTP server library
     *   [tokio/axum (⭐17k)](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)
     *   [tomaka/rouille (⭐1.1k)](https://github.com/tomaka/rouille) — Web framework
-    *   [Zino (⭐635)](https://github.com/zino-rs/zino) — Next-generation framework for composable applications
+    *   [Zino (⭐656)](https://github.com/zino-rs/zino) — Next-generation framework for composable applications
 *   Miscellaneous
     *   [cargonauts (⭐179)](https://github.com/cargonauts-rs/cargonauts) — A web framework intended for building maintainable, well-factored web apps.
     *   [causal-agent/scraper (⭐1.8k)](https://github.com/causal-agent/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/causal-agent/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/causal-agent/scraper/actions)
@@ -1841,6 +1841,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [svix/svix-webhooks (⭐2.1k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)]- A library for sending webhooks and verifying signatures.
     *   [tbot](https://gitlab.com/SnejUgal/tbot) \[[tbot](https://crates.io/crates/tbot)] - Make cool Telegram bots easily [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
     *   [teloxide/teloxide (⭐2.7k)](https://github.com/teloxide/teloxide/) - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
+    *   [tu6ge/valitron (⭐50)](https://github.com/tu6ge/valitron) \[[valitron](https://crates.io/crates/valitron)] - An ergonomic, functional and configurable validator
     *   [utkarshkukreti/select.rs (⭐939)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] — A library to extract useful data from HTML documents, suitable for web scraping.
 *   Reverse Proxy
     *   [sozu-proxy/sozu (⭐2.9k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)

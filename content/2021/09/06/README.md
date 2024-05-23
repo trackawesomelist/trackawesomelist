@@ -34,7 +34,7 @@
 ### GUI
 
 *   [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
-*   [sqlite-tui (⭐1.6k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
+*   [sqlite-tui (⭐1.7k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
 
 ### Reporting / Zabbix
 

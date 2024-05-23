@@ -10,19 +10,19 @@
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐153)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐155)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
-*   [Vite Ruby (⭐1.1k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐1.2k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐319)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐318)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
-*   [attr-gather (⭐36)](https://github.com/ianks/attr-gather) - A gem for creating workflows that "enhance" entities with extra attributes. At a high level, attr-gather provides a process to fetch information from many data sources (such as third party APIs, legacy databases, etc.) in a fully parallelized fashion.
+*   [attr-gather (⭐37)](https://github.com/ianks/attr-gather) - A gem for creating workflows that "enhance" entities with extra attributes. At a high level, attr-gather provides a process to fetch information from many data sources (such as third party APIs, legacy databases, etc.) in a fully parallelized fashion.
 
 ### HTTP Clients and tools
 
@@ -65,7 +65,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐120)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐121)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Components & Libraries / UI Utilities
 

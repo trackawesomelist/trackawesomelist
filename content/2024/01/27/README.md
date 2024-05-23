@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue3-realworld-app (⭐27)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
+*   [vue3-realworld-app (⭐28)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 
 ## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 

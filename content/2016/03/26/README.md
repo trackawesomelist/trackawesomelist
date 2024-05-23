@@ -189,7 +189,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐928)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐939)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

@@ -579,7 +579,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐175)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 *   [vue-ya-semantic-modal (⭐19)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 
 ### Components & Libraries / Utilities
@@ -591,7 +591,7 @@
 
 ### CLI Utilities
 
-*   [colorls (⭐4.7k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.8k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
@@ -599,7 +599,7 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐792)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐795)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

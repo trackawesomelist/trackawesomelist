@@ -125,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐553)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐560)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

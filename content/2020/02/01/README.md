@@ -281,7 +281,7 @@
 
 ## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Abstruse CI (⭐907)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐920)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -289,7 +289,7 @@
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐907)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐920)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -388,7 +388,7 @@
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐818)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐828)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -418,7 +418,7 @@
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐775)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐792)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -579,7 +579,7 @@
   Stars: 
 
 
-- Name: [Evergreen (⭐397)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐406)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -587,7 +587,7 @@
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐397)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐406)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -699,7 +699,7 @@
   Stars: 
 
 
-- Name: [Previs (⭐321)](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐324)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -707,7 +707,7 @@
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation (⭐321)](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐324)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 

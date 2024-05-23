@@ -221,7 +221,7 @@
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐7.3k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.5k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -304,10 +304,10 @@
 
 *   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐169k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 *   [git-fuzzy (⭐2.3k)](https://github.com/bigH/git-fuzzy) - A CLI interface to `git` that relies heavily on [fzf (⭐60k)](https://github.com/junegunn/fzf).
-*   [git-worktree (⭐22)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐60k)](https://github.com/junegunn/fzf) tooling.
+*   [git-worktree (⭐21)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐60k)](https://github.com/junegunn/fzf) tooling.
 *   [last-working-directory (⭐7)](https://github.com/mdumitru/last-working-dir) - Broken out copy of the version in [oh-my-zsh](http://ohmyz.sh/). Keeps track of the last used working directory and automatically jumps into it for new shells.
 *   [media-sync (⭐0)](https://github.com/redxtech/zsh-media-sync) - A plugin to facilitate copying media between two `rclone` locations.
-*   [mysql-colorize (⭐99)](https://github.com/zpm-zsh/mysql-colorize) - Adds color for `mysql` tables.
+*   [mysql-colorize (⭐100)](https://github.com/zpm-zsh/mysql-colorize) - Adds color for `mysql` tables.
 *   [mysql (⭐17)](https://github.com/voronkovich/mysql.plugin.zsh) - Adds some functions for dealing with `mysql`.
 *   [node-path (⭐3)](https://github.com/andyrichardson/zsh-node-path) - Automatically adds the `npm` bin of your current directory to your `$PATH`.
 *   [nodenv (c-uo) (⭐0)](https://github.com/C-uo/zsh-nodenv) - Looks for `nodenv` in your working directory and loads it when found.
@@ -315,9 +315,9 @@
 *   [peco-history (⭐122)](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing `ctrl+R`.
 *   [pip-env (⭐4)](https://github.com/iboyperson/zsh-pipenv) - Automatic [pipenv](https://pipenv.readthedocs.io/en/latest/) activation upon entry into a `pipenv` project.
 *   [project (gko) (⭐19)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
-*   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.1k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
+*   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.2k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
 *   [session-sauce (⭐28)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐60k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐53)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.5k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐70)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.5k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -326,7 +326,7 @@
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 *   [carapace (⭐249)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
 *   [cargo (⭐28)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
-*   [kubectl-fzf (⭐435)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐60k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
+*   [kubectl-fzf (⭐437)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐60k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
 *   [kubectl-plugin (⭐12)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 *   [rancher (⭐9)](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 *   [test-kitchen (⭐7)](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen (⭐1.9k)](https://github.com/test-kitchen/test-kitchen)).
@@ -358,7 +358,7 @@
 
 ### Component bundles
 
-*   [FAST (⭐9k)](https://github.com/microsoft/fast) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast?style=flat-square\&cacheSeconds=86400) ![GitHub licence](https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667) FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. [FAST & Blazor documentation](https://www.fast.design/docs/integrations/blazor/).
+*   [FAST (⭐9.1k)](https://github.com/microsoft/fast) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast?style=flat-square\&cacheSeconds=86400) ![GitHub licence](https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667) FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. [FAST & Blazor documentation](https://www.fast.design/docs/integrations/blazor/).
 *   [Nevron Open Vision Components for Blazor](https://www.nevron.com/products-open-vision) - ![Paid](https://img.shields.io/badge/-Paid-purple) ![External link](https://img.shields.io/badge/-External%20link-yellow) Diagram, Chart, Text Editor, Gauge, Barcode, and User Interface components for Blazor. [Demo](https://blazorexamples.nevron.com/).
 
 ### Videos / Others
@@ -465,15 +465,15 @@
 
 ### GUI
 
-*   [fubark/cosmic (⭐321)](https://github.com/fubark/cosmic) - GUI toolkit.
+*   [fubark/cosmic (⭐326)](https://github.com/fubark/cosmic) - GUI toolkit.
 
 ### Misc libraries
 
-*   [natecraddock/ziglua (⭐183)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
+*   [natecraddock/ziglua (⭐201)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 
 ### Web / Messaging
 
-*   [karlseguin/websocket.zig (⭐214)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
+*   [karlseguin/websocket.zig (⭐224)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 
 ### Parser / Package managers
 
@@ -546,7 +546,7 @@
 
 ### Libraries / Kotlin
 
-*   🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub (⭐47k)](https://github.com/JetBrains/kotlin)]
+*   🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub (⭐48k)](https://github.com/JetBrains/kotlin)]
 
 ### Specialty Topics / Lighting / Shadows
 
@@ -567,7 +567,7 @@
 
 ### Tools / Software / Level Editors
 
-*   🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source (⭐575)](https://github.com/TTimo/GtkRadiant)]
+*   🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source (⭐578)](https://github.com/TTimo/GtkRadiant)]
 
 ### Tools / Software / Voxel
 
@@ -580,7 +580,6 @@
     *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
-    *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
     *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 
 ## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
@@ -591,7 +590,7 @@
 
 ### Applications / Utilities
 
-*   [mprocs (⭐1.3k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
+*   [mprocs (⭐1.4k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -641,10 +640,6 @@
 ### Software / Learning and Courses
 
 *   [Dalton Plan](https://daltonplan.com) - Dalton Plan is a modern adoption of a free teaching method developed by Helen Parkhurst in the 20th century. ([Source Code](https://git.io/daltonplan)) `AGPL-3.0` `PHP`
-
-### Software / Miscellaneous
-
-*   [MyPaas (⭐370)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
@@ -707,7 +702,7 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐284)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐290)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

@@ -101,7 +101,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐85)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐86)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
@@ -173,7 +173,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue USWDS (⭐7)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+*   [Vue USWDS (⭐8)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

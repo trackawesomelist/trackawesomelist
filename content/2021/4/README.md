@@ -572,7 +572,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐397)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐406)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -633,7 +633,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐199)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐201)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 
@@ -889,7 +889,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐487)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐489)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ### Libraries / Automotive
 

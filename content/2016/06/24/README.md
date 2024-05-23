@@ -91,11 +91,11 @@
 
 ### Standalone / Hash functions
 
-*   [cryptomator (⭐10k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [cryptomator (⭐11k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### Plugins / Git
 
-*   [git-crypt (⭐7.9k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐8k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
@@ -104,7 +104,7 @@
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.6k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
@@ -117,11 +117,11 @@
 ### JavaScript / Git
 
 *   [crypto-js (⭐15k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [rusha (⭐276)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 
 ### Julia / Git
 
-*   [Nettle.jl (⭐49)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+*   [Nettle.jl (⭐50)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
     encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 
 ### Web-sites / Git

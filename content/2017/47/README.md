@@ -391,7 +391,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Design
 
-*   [API-Security-Checklist (⭐21k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -470,7 +470,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐593)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐600)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

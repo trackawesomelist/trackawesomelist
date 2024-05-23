@@ -72,7 +72,7 @@
 
 ### Projects / Messaging
 
-*   [Centrifugo (⭐7.9k) (⭐7.9k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
+*   [Centrifugo (⭐7.9k) (⭐8k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
 
 ### Projects / Workflow engine
 
@@ -127,19 +127,6 @@
 
 ## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Twitter / Angular Team
-
-*   [Matthieu Riegler](https://twitter.com/jean__meche)
-*   [Alex Rickabaugh](https://twitter.com/synalx)
-*   [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
-*   [Paul Gschwendtner](https://twitter.com/devversion)
-*   [Joost Koehoorn](https://twitter.com/devjoost)
-*   [Simona Cotin](https://twitter.com/simona_cotin)
-
-### Twitter / Experts
-
-*   [@maartentibau](https://twitter.com/maartentibau)
-
 ### Online Training / Testing
 
 *   [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
@@ -166,7 +153,7 @@
 
 *   [docgeni (⭐193)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
-### State Management / Testing
+### State Management / Validation
 
 *   [ngx-signal-state (⭐53)](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 *   [mini-rx-store (⭐165)](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.

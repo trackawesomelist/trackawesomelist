@@ -49,7 +49,7 @@
 
 ### Form Components / Select
 
-*   [react-select-search (⭐670)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
+*   [react-select-search (⭐671)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

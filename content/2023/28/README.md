@@ -66,11 +66,11 @@
 
 ### Applications / System tools
 
-*   [GQL (⭐3k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
+*   [GQL (⭐3.1k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
 
 ### Applications / Utilities
 
-*   [rustic-rs/rustic (⭐1.5k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
+*   [rustic-rs/rustic (⭐1.6k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] — Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 
 ## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐796)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐801)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -236,7 +236,7 @@
 
 *   [tanstack-table (⭐24k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐9)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐246)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐251)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐30)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -323,7 +323,7 @@
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐6.6k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐7k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 
 ## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -400,8 +400,8 @@
 ### Learning / Computer Graphics
 
 *   Awesome Collections
-    *   📚 [Awesome Demoscene (⭐255)](https://github.com/psykon/awesome-demoscene) - Underground computer art culture exploring computer graphics and sound.
-    *   📚 [Awesome Graphics Libraries (⭐366)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
+    *   📚 [Awesome Demoscene (⭐262)](https://github.com/psykon/awesome-demoscene) - Underground computer art culture exploring computer graphics and sound.
+    *   📚 [Awesome Graphics Libraries (⭐374)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 
 ### Libraries / Haxe
 
@@ -551,7 +551,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐679)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Picsur (⭐679)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting platform that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -559,7 +559,7 @@
 
 ### Software / Knowledge Management Tools
 
-*   [Atomic Server (⭐789)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
+*   [Atomic Server (⭐817)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
 
 ### Software / Money, Budgeting & Management
 
@@ -606,7 +606,7 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐353)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐355)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ## [52. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -616,7 +616,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MetaGPT (⭐39k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+*   [MetaGPT (⭐40k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 *   [Hyv (⭐20)](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)
 
 ## [53. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)

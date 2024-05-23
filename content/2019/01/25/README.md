@@ -14,7 +14,7 @@
 
 ### C / Git
 
-*   [libVES.c (⭐34)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.c (⭐35)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ### JavaScript / Git
 
@@ -130,7 +130,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐129)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐131)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

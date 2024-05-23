@@ -49,7 +49,7 @@
 *   [Brotli (⭐13k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
 *   [FiniteStateEntropy (⭐1.3k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 *   [LZFSE (⭐1.8k)](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
-*   [zstd (⭐22k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
+*   [zstd (⭐23k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
 
 ### Build Systems
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐453)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐455)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -378,7 +378,7 @@
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐488)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐487)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 

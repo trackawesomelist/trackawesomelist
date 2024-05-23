@@ -75,7 +75,7 @@
 ### Miscellaneous
 
 *   [fastcomments-react (⭐7)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
-*   [react-pulse-text (⭐16)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
+*   [react-pulse-text (⭐17)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 

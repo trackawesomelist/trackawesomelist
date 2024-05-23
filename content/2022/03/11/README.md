@@ -61,7 +61,7 @@
 
 ### Communications / Pragmatics
 
-*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997)].
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐276)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐277)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

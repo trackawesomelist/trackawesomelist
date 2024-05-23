@@ -14,15 +14,15 @@
 
 ### Python / Computer Vision
 
-*   [MLX (⭐14k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+*   [MLX (⭐15k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
 ### Python / Neural Networks
 
-*   [Kinho (⭐30)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
+*   [Kinho (⭐31)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 
 ### Tools / Misc
 
-*   [Infinity (⭐1.5k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐1.8k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 ## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

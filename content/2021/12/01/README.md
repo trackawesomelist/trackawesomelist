@@ -12,7 +12,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming
-    *   [myrrlyn/tap (⭐362)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐364)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 

@@ -85,7 +85,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐345)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐346)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

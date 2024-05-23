@@ -26,11 +26,11 @@
 
 ### Applications / Blockchain
 
-*   [ibc-rs (⭐425)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐427)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐1.4k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
+*   [bacon (⭐1.5k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 

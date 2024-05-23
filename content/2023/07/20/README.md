@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [shoes (⭐163)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐165)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -87,7 +87,7 @@
 
 ### OS and Kernels / Apache License
 
-*   [hirtos (⭐22)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐26)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Photo / Image
 
-*   [zoom-image (⭐277)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+*   [zoom-image (⭐278)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

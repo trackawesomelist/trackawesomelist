@@ -118,7 +118,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐139)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐143)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

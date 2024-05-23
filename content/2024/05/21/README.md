@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,20 +72,14 @@
 
 *   [rachartier/tiny-devicons-auto-colors.nvim (⭐40)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
 *   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Browser Games
 
@@ -110,7 +104,7 @@
 *   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 *   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -118,4 +112,5 @@
 
 ---
 
+- Prev: [May 22, 2024](/content/2024/05/22/README.md)
 - Next: [May 20, 2024](/content/2024/05/20/README.md)

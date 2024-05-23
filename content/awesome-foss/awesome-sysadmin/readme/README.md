@@ -185,7 +185,7 @@ Configuration management database (CMDB) software.
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)/[deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software.
 
 *   [Buildbot](https://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5.2k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.5k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 *   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.2k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐32k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Factor](https://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
@@ -236,10 +236,8 @@ Tools and scripts to support deployments to your servers.
 *   [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.5k)](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
 *   [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code (⭐15k)](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
-*   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code (⭐4.3k)](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code (⭐3k)](https://github.com/munki/munki)) `Apache-2.0` `Python`
 *   [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code (⭐476)](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
-*   [Vlad the Deployer (⭐354)](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
 
 ### Diagramming
 
@@ -248,7 +246,6 @@ Tools and scripts to support deployments to your servers.
 Tools used to create diagrams of networks, flows, etc.
 
 *   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐39k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
-*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1.1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.7k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐3.7k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
@@ -268,7 +265,7 @@ Network distributed filesystems.
 *   [Kubo (⭐16k)](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
 *   [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code (⭐1.5k)](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 *   [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
-*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐44k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐45k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 *   [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code (⭐1.6k)](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 *   [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
@@ -377,7 +374,6 @@ Miscellaneous utilities and web interfaces for identity management systems.
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
 *   [easy-rsa (⭐3.9k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 *   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐153)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
-*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐186)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
 *   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐412)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 *   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
 *   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.9k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
@@ -525,7 +521,7 @@ Network configuration management tools.
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.6k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐215)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐247)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐214)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ### Packaging
@@ -627,7 +623,6 @@ Troubleshooting tools.
 *   [grml](https://grml.org) - Bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
 *   [mitmproxy](https://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code (⭐35k)](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
 *   [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code (⭐2.5k)](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
-*   [perf-tools (⭐9.6k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace. `GPL-2.0` `Shell`
 *   [Sysdig](https://www.sysdig.com/) - Capture system state and activity from a running Linux instance, then save, filter and analyze. ([Source Code (⭐7.6k)](https://github.com/draios/sysdig)) `Apache-2.0` `Docker/Lua/C`
 *   [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer. ([Source Code](https://gitlab.com/wireshark/wireshark)) `GPL-2.0` `C`
 
@@ -676,7 +671,6 @@ VPN software.
 *   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code (⭐11k)](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 *   [sshuttle (⭐11k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 *   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code (⭐2.1k)](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
-*   [tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 ### Web
@@ -685,11 +679,10 @@ VPN software.
 
 [Web servers](https://en.wikipedia.org/wiki/Web_server) and [reverse proxies](https://en.wikipedia.org/wiki/Reverse_proxy).
 
-*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.6k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.7k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
 *   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐54k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
-*   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
 *   [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
 *   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.2k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`

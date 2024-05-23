@@ -414,7 +414,7 @@ git add --all && git commit --amend --no-edit
 
 ### Caching
 
-*   [Garner (⭐346)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+*   [Garner (⭐345)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
 *   [Record Cache (⭐145)](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 
 ### Core Extensions
@@ -434,8 +434,8 @@ git add --all && git commit --amend --no-edit
 
 *   Data analysis/structures
     *   [daru (⭐1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐91)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐404)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [Daru::View (⭐93)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐412)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -644,7 +644,7 @@ git add --all && git commit --amend --no-edit
 
 ### Database
 
-*   [redis3m (⭐187)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐188)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ### Miscellaneous
 

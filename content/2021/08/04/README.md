@@ -67,7 +67,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
+*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6.1k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
 *   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐14k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Note-taking & Editors

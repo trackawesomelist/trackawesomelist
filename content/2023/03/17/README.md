@@ -67,7 +67,7 @@
 
 ### Reflection
 
-*   [TSMP (⭐88)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
+*   [TSMP (⭐89)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
 
 ### Websites
 
@@ -78,7 +78,7 @@
 
 ### API Builder and Discovery
 
-*   [Alba (⭐846)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐867)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -86,7 +86,7 @@
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐112)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐113)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

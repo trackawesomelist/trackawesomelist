@@ -106,7 +106,7 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 ### Java / Symfony2
 
-*   [Dropwizard (⭐8.4k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
+*   [Dropwizard (⭐8.5k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
 ## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

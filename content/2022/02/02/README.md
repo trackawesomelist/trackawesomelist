@@ -287,7 +287,7 @@
 
 ### i18n / Mouse Events
 
-*   [@tolgee/react (⭐216)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐218)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 
 ## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Applications / Security tools
 
-*   [epi052/feroxbuster (⭐5.3k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool.
+*   [epi052/feroxbuster (⭐5.4k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool.
 
 ### Libraries / Cryptography
 
@@ -309,13 +309,13 @@
 
 ### API / Authentication
 
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐112k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐121k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Code Formatting
 
-*   [niceql (⭐307)](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
+*   [niceql (⭐318)](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
 
 ---
 

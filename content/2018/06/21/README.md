@@ -92,8 +92,8 @@
 
 ### GUI
 
-*   [Robo 3T (⭐9.2k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Tabix (⭐2k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+*   [Robo 3T (⭐9.3k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
+*   [Tabix (⭐2.1k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 
 ### CLI
 
@@ -101,8 +101,8 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐307)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐7.5k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pganalyze collector (⭐321)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐7.7k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 
 ### DevOps / Zabbix
 

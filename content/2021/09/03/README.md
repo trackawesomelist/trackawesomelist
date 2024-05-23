@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐77)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐78)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -59,7 +59,7 @@
 ### Audio
 
 *   [dr\_libs (⭐1.2k)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐3.6k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [miniaudio (⭐3.7k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

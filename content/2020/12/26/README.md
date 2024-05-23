@@ -35,7 +35,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐114)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

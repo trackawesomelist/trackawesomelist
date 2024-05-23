@@ -42,7 +42,7 @@
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐24)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐26)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

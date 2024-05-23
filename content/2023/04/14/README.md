@@ -28,7 +28,7 @@
 
 ### resources
 
-*   [geojson-invalid-geometry (⭐25)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
+*   [geojson-invalid-geometry (⭐30)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Configuration
 
-*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+*   [ini-cpp (⭐32)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Table
 
-*   [Material-React-Table (⭐1.3k)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+*   [Material-React-Table (⭐1.4k)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 *   [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Test / Lazy Load

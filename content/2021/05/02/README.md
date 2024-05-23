@@ -16,7 +16,7 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐174)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐175)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

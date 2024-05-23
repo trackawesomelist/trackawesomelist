@@ -71,12 +71,12 @@
 
 ### Qubes OS Websites
 
-*   [Qubes OS GitHub Documentation (⭐322)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐326)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
 ### Training and Materials / Web articles
 
 *   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
-*   [Qubes-artwork (⭐9)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
+*   [Qubes-artwork (⭐10)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

@@ -194,11 +194,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐41)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐43)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐36)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐41)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

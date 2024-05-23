@@ -10,7 +10,7 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐9.9k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [Ebitengine (⭐10k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 *   [fantasyname (⭐32)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
@@ -232,7 +232,7 @@
 
 ### Software / Monitoring
 
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.3k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.4k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 
 ## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -592,14 +592,14 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 
 *   [communism (⭐14)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 *   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐32k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
-*   [git-aliases (peterhurford) (⭐78)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
+*   [git-aliases (peterhurford) (⭐79)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
 *   [mysql-login (⭐0)](https://github.com/remino/omz-plugin-mysql-alias) - Adds alias for MySQL with login path.
 *   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐112)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
+*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐113)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -672,7 +672,7 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐6.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐7.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -736,11 +736,11 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 
 ### Applications / Blockchain
 
-*   [ibc-rs (⭐425)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐427)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐1.4k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
+*   [bacon (⭐1.5k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 
@@ -749,7 +749,7 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 ### Libraries / Network programming
 
 *   HTTP
-    *   [Hurl (⭐11k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
+    *   [Hurl (⭐12k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
 
 ## [58. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -759,7 +759,7 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Neighborhood Pet Manager (⭐7)](https://github.com/AustinGil/npm)
+*   [Neighborhood Pet Manager (⭐8)](https://github.com/AustinGil/npm)
 
 ## [59. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -916,7 +916,6 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 *   [nvim-orgmode/orgmode (⭐2.8k)](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua (Neovim >= 0.5).
 *   [jbyuki/venn.nvim (⭐903)](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams.
 *   [stevearc/gkeep.nvim (⭐193)](https://github.com/stevearc/gkeep.nvim) - Google Keep integration.
-*   [renerocksai/telekasten.nvim (⭐1.2k)](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim.
 *   [chrsm/impulse.nvim (⭐94)](https://github.com/chrsm/impulse.nvim) - Read Notion.so notes.
 *   [epwalsh/obsidian.nvim (⭐2.9k)](https://github.com/epwalsh/obsidian.nvim) - Plugin for Obsidian, written in Lua.
 

@@ -16,7 +16,7 @@
 
 ### Libraries / Email
 
-*   [mailtutan/mailtutan (⭐149)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
+*   [mailtutan/mailtutan (⭐153)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

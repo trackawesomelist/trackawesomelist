@@ -38,7 +38,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [PredictionBuilder (⭐11)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐12)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 
 ## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

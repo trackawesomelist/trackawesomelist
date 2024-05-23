@@ -96,7 +96,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/slider (⭐268)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
+*   [@vueform/slider (⭐269)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
 *   [@vueform/toggle (⭐104)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ### Components & Libraries / Scaffold

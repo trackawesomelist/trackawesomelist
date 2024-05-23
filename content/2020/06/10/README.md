@@ -271,7 +271,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐899)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐906)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

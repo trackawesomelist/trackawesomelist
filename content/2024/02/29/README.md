@@ -31,7 +31,7 @@
 
 ### Java / Git
 
-*   [Google Tink (⭐68)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+*   [Google Tink (⭐86)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
 
 ## [4. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -49,7 +49,7 @@
 
 ### XML
 
-*   [Xalan C (⭐26)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
+*   [Xalan C (⭐27)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -98,15 +98,15 @@
 
 ### Software / Feed Readers
 
-*   [FeedCord (⭐102)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
+*   [FeedCord (⭐106)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 
 ### Software / Proxy
 
-*   [Jauth (⭐52)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
+*   [Jauth (⭐54)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
 ### Software / URL Shorteners
 
-*   [Chhoto URL (⭐37)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+*   [Chhoto URL (⭐49)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 
 ## [12. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

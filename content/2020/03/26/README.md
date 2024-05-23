@@ -11,10 +11,10 @@
 ### Libraries / Encoding
 
 *   JSON
-    *   [importcjj/rust-ajson (⭐102)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] —  Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐557)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation
+    *   [importcjj/rust-ajson (⭐103)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] —  Get JSON values quickly
+    *   [maciejhirsz/json-rust (⭐558)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation
     *   [pikkr/pikkr (⭐628)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization
-    *   [serde-rs/json (⭐4.5k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.6k)](https://github.com/serde-rs/serde) framework
+    *   [serde-rs/json (⭐4.6k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.6k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
@@ -118,7 +118,7 @@
 
 ### Platformer
 
-*   [Omnispeak (⭐286)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
+*   [Omnispeak (⭐287)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

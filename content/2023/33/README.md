@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14 - Aug 20, 2023
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,17 +71,17 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐657)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
+*   [tweedegolf/mailcrab (⭐661)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐388)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [ParthJadhav/Rust\_Search (⭐127)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
-    *   [pop-os/dbus-udisks2 (⭐17)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [Camino (⭐393)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐128)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
+    *   [pop-os/dbus-udisks2 (⭐18)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐40)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐49)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐233)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+    *   [webdesus/fs\_extra (⭐234)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -238,7 +238,7 @@
 
 ### LangChain / Multi-agents
 
-*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐8.6k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ### Inbox: Text-to-speech (TTS) and avatars / Deforum
 
@@ -280,13 +280,7 @@
 
 *   [oxc (⭐9k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-## [27. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
-
-### Research Tools / Crypto Currencies
-
-*   [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
-
-## [28. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [27. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -300,7 +294,7 @@
 
 *   [examor (⭐1k)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -314,13 +308,13 @@
 
 *   [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
 
-## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mail
 
 *   [MailKitSimplified (⭐53)](https://github.com/danzuep/MailKitSimplified) - A fully-featured fluent wrapper for MailKit that makes sending *and receiving* emails as simple as possible.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -334,18 +328,22 @@
 
 *   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐5.3k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Tools / Misc
+
+*   [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
 
 ### Python / Natural Language Processing
 
-*   [Neofuzz (⭐18)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
+*   [Neofuzz (⭐19)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
 
 ### Python / General-Purpose Machine Learning
 
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
-*   [topicwizard (⭐83)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
+*   [topicwizard (⭐87)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
-## [33. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [32. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -415,13 +413,13 @@
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.3k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐25)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 
-## [34. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Database clients
 
 *   [vredis (⭐4)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 
-## [35. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [34. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Ballerina / React
 
@@ -441,7 +439,7 @@
 
 *   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 
-## [36. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [35. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-spend](https://github.com/Goutte/git-spend)
 
@@ -457,14 +455,14 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     $ git spend sum
     3 weeks 2 days 1 hour 37 minutes
 
-## [37. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [36. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Uptest Runtime upgrade tool (⭐7)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -509,7 +507,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [Zeioth/dooku.nvim (⭐31)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
-## [39. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 

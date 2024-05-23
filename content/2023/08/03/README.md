@@ -109,7 +109,7 @@
 
 ### Miscellaneous
 
-*   [react-mrz-scanner (⭐2)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
+*   [react-mrz-scanner (⭐3)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

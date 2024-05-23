@@ -1138,7 +1138,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐821)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐829)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ### Tools / Misc
 

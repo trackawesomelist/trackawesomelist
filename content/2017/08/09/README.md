@@ -60,7 +60,7 @@
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐43)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐44)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 

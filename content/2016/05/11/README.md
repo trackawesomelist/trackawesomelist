@@ -79,7 +79,7 @@ Webpage: <http://www.forgebakingco.com/>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dora (⭐637)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+*   [Dora (⭐639)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 
 ---
 

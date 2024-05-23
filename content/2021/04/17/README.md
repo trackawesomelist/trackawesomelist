@@ -16,7 +16,7 @@
 
 ### Containers
 
-*   [Sitecore Deployment on Kubernetes Example (⭐4)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
+*   [Sitecore Deployment on Kubernetes Example (⭐5)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 

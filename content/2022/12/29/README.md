@@ -29,7 +29,7 @@
 ### VM-Hardening
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
-*   [Qubes-VM-hardening (⭐69)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
+*   [Qubes-VM-hardening (⭐71)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -45,7 +45,7 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐810)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐818)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 

@@ -42,7 +42,7 @@
 
 ### Libraries / GUI
 
-*   [xilem (⭐2.8k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
+*   [xilem (⭐2.9k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
 
 ## [5. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 

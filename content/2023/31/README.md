@@ -126,7 +126,7 @@
 
 ### API / Samples
 
-*   [VulcanSQL (⭐572)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+*   [VulcanSQL (⭐597)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
 
 ### HA/Failover/Sharding / Zabbix
 
@@ -229,19 +229,19 @@
 
 ### Table
 
-*   [mantine-datatable (⭐837)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+*   [mantine-datatable (⭐840)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 ### Menu
 
-*   [mantine-contextmenu (⭐112)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+*   [mantine-contextmenu (⭐114)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Miscellaneous
 
-*   [react-mrz-scanner (⭐2)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
+*   [react-mrz-scanner (⭐3)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
 
 ### Form Components / Input Types
 
-*   [react-multi-email (⭐280)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+*   [react-multi-email (⭐281)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
 
 ## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -281,7 +281,7 @@
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐231)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
+*   [Furtherance (⭐233)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
 
 ### Applications / System tools
 
@@ -289,7 +289,7 @@
 
 ### Applications / Utilities
 
-*   [rust-parallel (⭐97)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
+*   [rust-parallel (⭐109)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
 
 ## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -423,10 +423,10 @@
 ### Libraries / C#
 
 *   C#: Entity Component System
-    *   🎉 [Arch (⭐725)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
-    *   🎉 [DefaultEcs (⭐631)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    *   🔒 [Friflo.Engine.ECS (⭐99)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
-    *   🎉 [LeoECS (⭐175)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to *Unity*.
+    *   🎉 [Arch (⭐789)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
+    *   🎉 [DefaultEcs (⭐638)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    *   🔒 [Friflo.Engine.ECS (⭐120)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    *   🎉 [LeoECS (⭐178)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to *Unity*.
 
 ### Specialty Topics / Shaders
 

@@ -10,7 +10,7 @@
 
 ### Algorithms and data structures
 
-*   [ziglibs/s2s (⭐114)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+*   [ziglibs/s2s (⭐115)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 
 ### Network / HTTP
 
@@ -41,9 +41,9 @@
 ### Games / Apache License
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
-*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐84)](https://github.com/AdaCore/gtkada) Button Mania game.
-*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐24)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) for saving state.
-*   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐84)](https://github.com/AdaCore/gtkada).
+*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐86)](https://github.com/AdaCore/gtkada) Button Mania game.
+*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐25)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐28)](https://github.com/pmderodat/ada-toml) for saving state.
+*   [bingada (⭐9)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐86)](https://github.com/AdaCore/gtkada).
 
 ### Components / Apache License
 
@@ -52,7 +52,7 @@
 ### Graphical User Interface / Apache License
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
-*   [gtkada (⭐84)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+*   [gtkada (⭐86)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 ### Compression / Apache License
 
@@ -63,7 +63,7 @@
 
 *   [protobuf-ada (⭐17)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 *   [protobuf (⭐29)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐6)](https://github.com/godunko/matreshka).
-*   [ada-toml (⭐27)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+*   [ada-toml (⭐28)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License
 
@@ -71,7 +71,7 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [asfml (⭐24)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+*   [asfml (⭐25)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 ### Utilities / Apache License
 
@@ -79,11 +79,11 @@
 
 ### Office / Apache License
 
-*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)) file manager for Linux.
+*   [hunter (⭐22)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐86)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
 ### Simulation / Apache License
 
-*   [eagle-lander (⭐28)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐84)](https://github.com/AdaCore/gtkada)/Cairo).
+*   [eagle-lander (⭐28)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐86)](https://github.com/AdaCore/gtkada)/Cairo).
 
 ## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### Communications / Pragmatics
 
-*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997)].
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -366,7 +366,7 @@
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐696)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐705)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [27. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -609,22 +609,18 @@
 
 ## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Siddharth Ajmera](https://twitter.com/SiddAjmera)
-
 ### Developer tools / Testing
 
 *   [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
-### State Management / Testing
-
-*   [ng-simple-state (⭐38)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
-
-### Misc Components / Node Based
+### DOM / Testing
 
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+
+### State Management / Validation
+
+*   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 ## [45. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -724,7 +720,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-mathjax (⭐65)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
-*   [vue-mathjax-next (⭐23)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
+*   [vue-mathjax-next (⭐24)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 *   [vue-preview-imgs (⭐16)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
 ## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)

@@ -26,7 +26,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Intel(R) Extension for Scikit-learn (⭐1.1k)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
+*   [Intel(R) Extension for Scikit-learn (⭐1.2k)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

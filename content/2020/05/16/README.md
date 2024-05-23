@@ -339,7 +339,7 @@
 
 ### Driver crates / WIP
 
-*   [lvgl (⭐601)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐15k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
+*   [lvgl (⭐611)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐15k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
 
 ---
 

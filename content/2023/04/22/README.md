@@ -43,18 +43,18 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-paho-mqtt (⭐18)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐182)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [VueFinder File Library (⭐189)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / UI Components
 
-*   [vue-maplibre-gl (⭐69)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐27)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐82)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-*   [Everright-formEditor (⭐391)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [vue-maplibre-gl (⭐70)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+*   [1llest-waveform-vue (⭐28)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+*   [vue3-calendar-heatmap (⭐83)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+*   [Everright-formEditor (⭐397)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐47)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐51)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / Frameworks
 

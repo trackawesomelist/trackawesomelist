@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2024
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,19 +24,13 @@
 
 *   [Obsidian Adwaita Theme (⭐95)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
-## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
-
-### FPS
-
-*   [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine:flower_playing_cards::flower_playing_cards:):flower\_playing\_cards: - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
-
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Weblogs
 
 *   [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -46,14 +40,14 @@
 
 *   [CapsLockNoDelay (⭐325)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [blaze (⭐2)](https://github.com/danieltodor/blaze) - Visually similar to powerline. Requires `make` and `g++`. Works best with your terminal set to use a nerd font. Includes decorators for current directory, execution time of last command, exit status of last command, `git` status information, date, time, username and host. Can be extended with custom segments.
 *   [osx2 (⭐0)](https://github.com/RizkiIqbal02/zsh-theme-custom) - Based on archcraft. Minimalist. Includes decorator for current directory.
 
-## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Tools / Templates & Starter Kits
 

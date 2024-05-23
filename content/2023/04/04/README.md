@@ -162,7 +162,7 @@
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐13k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐17k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐18k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

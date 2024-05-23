@@ -147,14 +147,14 @@
 
 *   [geojson-coords (⭐30)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-js-utils (⭐402)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐229)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
-*   [geojson-normalize (⭐31)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
+*   [geojson-js-utils (⭐404)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐230)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-normalize (⭐32)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-*   [geojson-rewind (⭐118)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
-*   [geojson-summary (⭐33)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
+*   [geojson-rewind (⭐121)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-summary (⭐34)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐171)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐175)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
@@ -186,8 +186,8 @@
 
 ### serialization
 
-*   [python-geojson (⭐850)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐228)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐890)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐252)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -304,7 +304,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### DevOps Tools
 
-*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐276)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 

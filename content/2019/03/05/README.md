@@ -344,7 +344,7 @@
 
 ### Compression
 
-*   [miniz (⭐2k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
+*   [miniz (⭐2.1k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 
 ### Machine Learning
 

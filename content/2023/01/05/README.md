@@ -88,7 +88,7 @@
 
 ### Queues and Messaging
 
-*   [Lowkiq (⭐141)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
+*   [Lowkiq (⭐142)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gcloud (littleq0903) (⭐77)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
+*   [gcloud (littleq0903) (⭐78)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
 *   [gcloud (wintermi) (⭐3)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface ([gcloud](https://cloud.google.com/cli) CLI) completions.
 
 ## [18. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)

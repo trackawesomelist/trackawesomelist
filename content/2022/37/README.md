@@ -472,10 +472,6 @@
 
 *   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐23k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 
-### Software / Software Development - FaaS & Serverless
-
-*   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.5k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
-
 ### Software / Task Management & To-do Lists
 
 *   [Our Shopping List (⭐72)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`

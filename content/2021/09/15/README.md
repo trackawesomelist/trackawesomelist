@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [thetawavegame/thetawave-legacy (⭐193)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
+*   [thetawavegame/thetawave-legacy (⭐194)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 
 ### Applications / Observability
 

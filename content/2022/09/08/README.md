@@ -47,7 +47,7 @@
 
 *   [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
-    *   [GitHub repository :octocat: (⭐78)](https://github.com/utiasASRL/pyboreas)
+    *   [GitHub repository :octocat: (⭐84)](https://github.com/utiasASRL/pyboreas)
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Others
 
-*   [UpBlazor (⭐57)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
+*   [UpBlazor (⭐60)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Database
 
-*   [sqlite\_orm (⭐2.1k)](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
+*   [sqlite\_orm (⭐2.2k)](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
 
 ## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

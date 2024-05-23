@@ -95,7 +95,7 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐100)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐60k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐100)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐61k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

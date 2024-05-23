@@ -24,7 +24,7 @@
 
 *   [AI (⭐7.9k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 *   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [Embedchain (⭐8.6k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -94,7 +94,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Database
 
-*   [Speedb (⭐822)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐832)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

@@ -16,7 +16,7 @@
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐402)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐404)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### .NET / General-Purpose Machine Learning
 
@@ -25,15 +25,15 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MLPNeuralNet (⭐896)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
+*   [MLPNeuralNet (⭐897)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
 
 ### Python / Natural Language Processing
 
-*   [DeepPavlov (⭐6.5k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
+*   [DeepPavlov (⭐6.6k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [pastalog (⭐416)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐417)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### Tools / Misc
 
@@ -185,7 +185,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐963)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐978)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -203,7 +203,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Resources / Examples
 
-*   [vue-stack-cesium (⭐17)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
+*   [vue-stack-cesium (⭐18)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
 ## [21. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

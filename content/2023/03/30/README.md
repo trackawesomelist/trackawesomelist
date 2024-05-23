@@ -48,7 +48,7 @@
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐389)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐398)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

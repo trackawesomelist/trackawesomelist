@@ -60,7 +60,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [simple-vue-camera (⭐64)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+*   [simple-vue-camera (⭐66)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

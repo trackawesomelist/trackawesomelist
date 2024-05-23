@@ -489,7 +489,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Database Drivers
 
-*   [SQL Server (⭐966)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐967)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 
@@ -497,7 +497,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Git Tools
 
-*   [ginatra (⭐528)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
+*   [ginatra (⭐526)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 
 ### Profiler and Optimization
 

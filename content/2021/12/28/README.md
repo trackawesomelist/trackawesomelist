@@ -113,7 +113,7 @@
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐100)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Fx Samples (⭐108)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 
 ### Blogs / Power Platform (Microsoft)
 

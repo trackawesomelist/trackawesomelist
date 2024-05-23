@@ -107,7 +107,7 @@
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [NestJS Crud Prisma (⭐59)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.9k)](https://github.com/nestjsx/crud))
+*   [NestJS Crud Prisma (⭐60)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐4k)](https://github.com/nestjsx/crud))
 
 ## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

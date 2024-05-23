@@ -10,7 +10,7 @@
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐219)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐222)](https://github.com/AdaCore/ada_language_server).
 
 ## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Schema / Changes
 
-*   [yuniql (⭐405)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐411)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [12. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

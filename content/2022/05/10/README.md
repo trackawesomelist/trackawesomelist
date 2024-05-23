@@ -63,16 +63,16 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐678)](https://github.com/z-shell/zi/).
+*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐684)](https://github.com/z-shell/zi/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [brew-completions (⭐9)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐678)](https://github.com/z-shell/zi/).
+*   [brew-completions (⭐9)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐684)](https://github.com/z-shell/zi/).
 *   [click-completion (⭐284)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [021011 (⭐74)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
+*   [021011 (⭐75)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -118,7 +118,7 @@
 *   [ASP.NET Community Standup - Blazorators: Blazor C# Source Generators](https://www.youtube.com/watch?v=U8XriF2zxS0) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 12, 2022 - David Pine introduces Blazorators, Blazor C# Source Generators on this month's Blazor Community Standup. [Community links](https://www.theurlist.com/blazor_community_standup_april_2022).
 *   [.NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps](https://www.youtube.com/watch?v=qkzyqDUjPHs) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 1, 2022 - Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android).
 *   [ASP.NET Community Standup - Native client apps with Blazor Hybrid](https://www.youtube.com/watch?v=7UM6s0QPvRQ) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Mars 8, 2022 - Join this Blazor Community Standup to learn more about using Blazor Hybrid to create cross-platform native client apps for Windows, iOS, Android & Mac. [Community links](https://www.theurlist.com/blazor_community_standup_march_2022).
-*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐651)](https://github.com/csharpfritz/csharp_with_csharpfritz).
+*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐659)](https://github.com/csharpfritz/csharp_with_csharpfritz).
 *   [ASP.NET Community Standup - Blazor .NET 7 Roadmap](https://www.youtube.com/watch?v=3o91I6lD-Bo) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 8, 2022 - Find out what's being planned for Blazor in .NET 7. [Community links](https://www.theurlist.com/blazor_community_standup_february_2022).
 
 ### Articles / Others

@@ -145,7 +145,7 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.9k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐3k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ## [11. Awesome React](/content/enaqx/awesome-react/week/README.md)
@@ -224,11 +224,11 @@
 
 ### Applications / Blockchain
 
-*   [Forest (⭐597)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐602)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐472)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐473)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -277,7 +277,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐635)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐646)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ### Components & Libraries / UI Components
 
@@ -602,13 +602,13 @@
 
 ### GUI
 
-*   [Ruby-GNOME (⭐372)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐373)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐7.6k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐7.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

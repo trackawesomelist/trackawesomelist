@@ -59,11 +59,11 @@
 
 ### Applications
 
-*   [Rauthy (⭐176)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
+*   [Rauthy (⭐189)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
 
 ### Applications / System tools
 
-*   [lodosgroup/lpm (⭐62)](https://github.com/lodosgroup/lpm) — An experimental system package manager
+*   [lodosgroup/lpm (⭐63)](https://github.com/lodosgroup/lpm) — An experimental system package manager
 
 ## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Video Game Assets / Model Assets
 
-*   🆓 [Pmndrs Market (⭐249)](https://github.com/pmndrs/market) - Collection of public domain models.
+*   🆓 [Pmndrs Market (⭐250)](https://github.com/pmndrs/market) - Collection of public domain models.
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Über SQL
 
-*   [MAT Calcite plugin (⭐141)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
+*   [MAT Calcite plugin (⭐146)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 
 ## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -361,15 +361,15 @@
 
 ### Others
 
-*   [ComponentBuilder (⭐34)](https://github.com/AchievedOwner/ComponentBuilder) - ![last commit](https://img.shields.io/github/last-commit/AchievedOwner/ComponentBuilder) - ![GitHub Repo stars](https://img.shields.io/github/stars/AchievedOwner/ComponentBuilder?style=plastic) An automation framework to create Blazor component by `RenderTreeBuilder`.
+*   [ComponentBuilder (⭐36)](https://github.com/AchievedOwner/ComponentBuilder) - ![last commit](https://img.shields.io/github/last-commit/AchievedOwner/ComponentBuilder) - ![GitHub Repo stars](https://img.shields.io/github/stars/AchievedOwner/ComponentBuilder?style=plastic) An automation framework to create Blazor component by `RenderTreeBuilder`.
 
 ### Component bundles
 
-*   [BlazorBootstrap (⭐456)](https://github.com/vikramlearning/blazorbootstrap) - ![stars](https://img.shields.io/github/stars/vikramlearning/blazorbootstrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/vikramlearning/blazorbootstrap?style=flat-square\&cacheSeconds=86400) High-performance, lightweight, and responsive blazor bootstrap components in a single package from the developers for the developers. ([Docs as Demo](https://demos.blazorbootstrap.com/)).
+*   [BlazorBootstrap (⭐491)](https://github.com/vikramlearning/blazorbootstrap) - ![stars](https://img.shields.io/github/stars/vikramlearning/blazorbootstrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/vikramlearning/blazorbootstrap?style=flat-square\&cacheSeconds=86400) High-performance, lightweight, and responsive blazor bootstrap components in a single package from the developers for the developers. ([Docs as Demo](https://demos.blazorbootstrap.com/)).
 
 ### 2D/3D Rendering engines
 
-*   [BabylonBlazor (⭐55)](https://github.com/AlexNek/BabylonBlazor) - ![GitHub stars](https://img.shields.io/github/stars/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=86400) This library packages the well-known 3D library [Babylon.js](https://www.babylonjs.com/) into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. [Demo application](https://babylonblazorapp202208.azurewebsites.net/) which is showing different parts of library [Pubchem Viewer](https://pubchemviewer.azurewebsites.net/). Show chemical information from pubchem.ncbi.nlm.nih.gov.
+*   [BabylonBlazor (⭐57)](https://github.com/AlexNek/BabylonBlazor) - ![GitHub stars](https://img.shields.io/github/stars/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/AlexNek/BabylonBlazor?style=flat-square\&cacheSeconds=86400) This library packages the well-known 3D library [Babylon.js](https://www.babylonjs.com/) into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. [Demo application](https://babylonblazorapp202208.azurewebsites.net/) which is showing different parts of library [Pubchem Viewer](https://pubchemviewer.azurewebsites.net/). Show chemical information from pubchem.ncbi.nlm.nih.gov.
 
 ### 2D/3D Rendering engines / CSS
 
@@ -377,14 +377,14 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazor PWA Updater (⭐119)](https://github.com/jsakamoto/Toolbelt.Blazor.PWA.Updater) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=86400) Provide "Update Now" UI and feature to your Blazor PWA that appears when the next version of one is available.
+*   [Blazor PWA Updater (⭐123)](https://github.com/jsakamoto/Toolbelt.Blazor.PWA.Updater) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.PWA.Updater?style=flat-square\&cacheSeconds=86400) Provide "Update Now" UI and feature to your Blazor PWA that appears when the next version of one is available.
 *   [Blazor SplitContainer (⭐49)](https://github.com/jsakamoto/Toolbelt.Blazor.SplitContainer) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SplitContainer?style=flat-square\&cacheSeconds=86400) A Blazor component to create panes separated by a slidable splitter bar.
 *   [BlazorTooltips (⭐0)](https://github.com/MarvinKlein1508/BlazorTooltips) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/BlazorTooltips?style=flat-square\&cacheSeconds=86400) An implementation of Bootstrap tooltips for both Blazor Server and WebAssembly.  [Demo](https://marvinklein1508.github.io/BlazorTooltips).
-*   [BlazorBarcodeScanner (⭐82)](https://github.com/sabitertan/BlazorBarcodeScanner) - ![GitHub stars](https://img.shields.io/github/stars/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=86400) Barcode Scanner component for Blazor using zxing-js Interop. [Demo](https://sabitertan.github.io/BlazorBarcodeScanner/).
+*   [BlazorBarcodeScanner (⭐84)](https://github.com/sabitertan/BlazorBarcodeScanner) - ![GitHub stars](https://img.shields.io/github/stars/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sabitertan/BlazorBarcodeScanner?style=flat-square\&cacheSeconds=86400) Barcode Scanner component for Blazor using zxing-js Interop. [Demo](https://sabitertan.github.io/BlazorBarcodeScanner/).
 
 ### Tools & Utilities / Others
 
-*   [Cropper.Blazor (⭐103)](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
+*   [Cropper.Blazor (⭐108)](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
 
 ### Videos / Others
 
@@ -424,12 +424,12 @@
 
 ### Templates
 
-*   [Qvm-Create-Windows-Qube (⭐312)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Qvm-Create-Windows-Qube (⭐329)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 
 ### Customization
 
 *   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
-*   [Qubes-Scripts (⭐7)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
+*   [Qubes-Scripts (⭐9)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 
 ## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -444,7 +444,7 @@
 
 ### Software / Document Management
 
-*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐5.2k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
+*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐5.3k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management - E-books
 

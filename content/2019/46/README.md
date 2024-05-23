@@ -278,7 +278,7 @@
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.8k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.9k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 

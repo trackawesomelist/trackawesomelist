@@ -45,7 +45,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [knn-java-library (⭐6)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
+*   [knn-java-library (⭐7)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
 
 ## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

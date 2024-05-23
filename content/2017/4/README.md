@@ -83,7 +83,7 @@
 
 ### Contents / High-Availability
 
-*   [SkyTools (⭐249)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+*   [SkyTools (⭐248)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ## [12. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -715,12 +715,12 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐883)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
 *   [formatador (⭐451)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐405)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
@@ -732,7 +732,7 @@ Free
 
 ### Database Tools
 
-*   [Polo (⭐766)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐765)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -741,10 +741,10 @@ Free
 ### Feature Flippers and A/B Testing
 
 *   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
-*   [flipper (⭐3.5k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [flipper (⭐3.6k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.9k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.7k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
-*   [Vanity (⭐1.6k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
+*   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ### Search
 

@@ -22,7 +22,7 @@
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 

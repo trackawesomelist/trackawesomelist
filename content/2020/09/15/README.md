@@ -16,7 +16,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Hyperparameter-Optimization-of-Machine-Learning-Algorithms (⭐1.2k)](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - Code for hyperparameter tuning/optimization of machine learning and deep learning algorithms.
+*   [Hyperparameter-Optimization-of-Machine-Learning-Algorithms (⭐1.3k)](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - Code for hyperparameter tuning/optimization of machine learning and deep learning algorithms.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

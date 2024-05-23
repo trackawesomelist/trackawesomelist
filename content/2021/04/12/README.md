@@ -29,16 +29,16 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Ciri (⭐127)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
+*   [Ciri (⭐126)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 *   [MoneyTree (⭐184)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 
 ### Markdown Processors
 
-*   [markdown\_helper (⭐37)](https://github.com/BurdetteLamar/markdown_helper#markdown-helper) - A markdown pre-processor implementing file inclusion and page TOC (table of contents).
+*   [markdown\_helper (⭐38)](https://github.com/BurdetteLamar/markdown_helper#markdown-helper) - A markdown pre-processor implementing file inclusion and page TOC (table of contents).
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐172)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐171)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -88,9 +88,9 @@
 
 ### Azure
 
-*   [Sitecore Azure Scripts (⭐17)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
+*   [Sitecore Azure Scripts (⭐16)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
 *   [Sitecore Diagnostics (⭐3)](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
-*   [Application Insights Annotations (⭐2)](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
+*   [Application Insights Annotations (⭐3)](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

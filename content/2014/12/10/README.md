@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [bundler-audit (⭐2.6k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+*   [bundler-audit (⭐2.7k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
 ## [2. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 

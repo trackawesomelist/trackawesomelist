@@ -198,7 +198,7 @@
 
 ### Form Components / Input Types
 
-*   [react-numpad (⭐135)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
+*   [react-numpad (⭐136)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 ### Form Components / Sortable List
 
@@ -234,12 +234,12 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐540)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐541)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐361)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
-*   [react-spring (⭐27k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
+*   [react-spring (⭐28k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 *   [react-transitive-number (⭐210)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
-*   [react-particles-bg (⭐630)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐631)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 

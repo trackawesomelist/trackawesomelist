@@ -405,7 +405,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐7k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐7.1k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 
@@ -424,7 +424,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐816)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐823)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ### Python / Natural Language Processing
 

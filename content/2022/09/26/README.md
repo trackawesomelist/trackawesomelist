@@ -26,7 +26,7 @@
 ### Libraries / Network programming
 
 *   HTTP
-    *   [Hurl (⭐11k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
+    *   [Hurl (⭐12k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
 
 ## [4. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -36,7 +36,7 @@
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Neighborhood Pet Manager (⭐7)](https://github.com/AustinGil/npm)
+*   [Neighborhood Pet Manager (⭐8)](https://github.com/AustinGil/npm)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -189,7 +189,6 @@
 *   [nvim-orgmode/orgmode (⭐2.8k)](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua (Neovim >= 0.5).
 *   [jbyuki/venn.nvim (⭐903)](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams.
 *   [stevearc/gkeep.nvim (⭐193)](https://github.com/stevearc/gkeep.nvim) - Google Keep integration.
-*   [renerocksai/telekasten.nvim (⭐1.2k)](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim.
 *   [chrsm/impulse.nvim (⭐94)](https://github.com/chrsm/impulse.nvim) - Read Notion.so notes.
 *   [epwalsh/obsidian.nvim (⭐2.9k)](https://github.com/epwalsh/obsidian.nvim) - Plugin for Obsidian, written in Lua.
 

@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐610)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐613)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 

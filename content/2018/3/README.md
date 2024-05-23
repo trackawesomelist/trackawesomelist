@@ -277,8 +277,8 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐110)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐731)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐112)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐736)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐811)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐816)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -511,7 +511,7 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐325)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐332)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 

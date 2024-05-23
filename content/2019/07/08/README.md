@@ -16,7 +16,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐873)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐872)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 
 ### GUI
 
@@ -28,11 +28,11 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐17k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐18k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
-*   [Poli (⭐1.9k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
+*   [Poli (⭐2k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 

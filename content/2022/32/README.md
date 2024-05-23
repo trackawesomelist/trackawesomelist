@@ -52,13 +52,13 @@
 
 ### RSS Extensions / Outline Processor Markup Language
 
-*   [Podcast Index: the "podcast" namespace (⭐356)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
+*   [Podcast Index: the "podcast" namespace (⭐363)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
 *   [source namespace](http://source.scripting.com/#1653758422000) <sup>[1240](https://t.me/s/aboutrss/1240)</sup>: Markdown in RSS supported.
 
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/unread-2/id1363637349)
-*   [Read You (⭐3.7k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐4k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -72,7 +72,7 @@
 
 *   [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
     *   [docker-miniflux-postgresql (⭐22)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
-    *   [Awesome Miniflux (⭐26)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
+    *   [Awesome Miniflux (⭐30)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
     *   [Miniflux Indexer (⭐13)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
@@ -202,7 +202,6 @@
 *   [cvideo (⭐0)](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
 *   [download (⭐2)](https://github.com/aubreypwd/zsh-plugin-download) - Helper to download files with `aria2c`.
 *   [fzf-fasd (⭐56)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐60k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
-*   [fzf-z (⭐166)](https://github.com/andrewferrier/fzf-z) - Brings together the `z` plugin and [fzf (⭐60k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 *   [require (⭐2)](https://github.com/aubreypwd/zsh-plugin-require) - Adds ability to `require commandname` and then (if [brew](https://brew.sh) is installed) automatically `brew install commandname` if it isn't already installed.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
@@ -296,7 +295,7 @@
 
 ### Compilers and interpreters
 
-*   [dantecatalfamo/mruby-zig (⭐32)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
+*   [dantecatalfamo/mruby-zig (⭐33)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐26)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
 ## [21. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
@@ -371,7 +370,7 @@
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐526)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐537)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -385,7 +384,7 @@
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐58)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐73)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -538,7 +537,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐126)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐130)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## [44. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -723,11 +722,11 @@
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐522)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐535)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Automotive
 
-*   [mbr/socketcan (⭐113)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
+*   [mbr/socketcan (⭐114)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
 
 ### Libraries / Database
 
@@ -735,10 +734,10 @@
     *   [Brendonovich/prisma-client-rust (⭐1.7k)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
     *   [diesel-rs/diesel (⭐12k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder
     *   [ivanceras/rustorm (⭐248)](https://github.com/ivanceras/rustorm) — an ORM
-    *   [njord-rs/njord (⭐247)](https://github.com/njord-rs/njord) - ⛵ A lightweight ORM library for Rust [![build status](https://github.com/njord-rs/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/ci.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
+    *   [njord-rs/njord (⭐260)](https://github.com/njord-rs/njord) - ⛵ A lightweight ORM library for Rust [![build status](https://github.com/njord-rs/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/ci.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
     *   [rbatis/rbatis (⭐2.1k)](https://github.com/rbatis/rbatis) — ORM Framework High Performance(JSON based)
-    *   [SeaQL/sea-orm (⭐6.3k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
-    *   [SeaQL/seaography (⭐339)](https://github.com/SeaQL/seaography) — 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
+    *   [SeaQL/sea-orm (⭐6.4k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [SeaQL/seaography (⭐343)](https://github.com/SeaQL/seaography) — 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
 
 ### Libraries / Network programming
 
@@ -747,7 +746,7 @@
 
 ### Libraries / Virtualization
 
-*   [oxidecomputer/propolis (⭐167)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
+*   [oxidecomputer/propolis (⭐168)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 
 ## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -787,7 +786,7 @@
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐765)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐776)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 

@@ -2806,10 +2806,6 @@
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 
-### Messenger Games
-
-*   [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
-
 ### Automotive
 
 *   [BMW i8](http://car.playcanvas.com) - Car visualizer.
@@ -2869,7 +2865,7 @@
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐600)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐602)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

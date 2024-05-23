@@ -242,7 +242,6 @@
 
 ### CMS
 
-*   [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 
 ## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
@@ -386,7 +385,7 @@
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐148)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐150)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
 ## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -572,11 +571,11 @@
 
 ### Audio
 
-*   [Verovio (⭐626)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐636)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐575)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐579)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 

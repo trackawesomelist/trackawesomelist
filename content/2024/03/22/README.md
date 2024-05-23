@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [fast\_io (⭐525)](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. \[MIT]
+*   [fast\_io (⭐540)](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. \[MIT]
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -260,7 +260,7 @@
 
 ### Software / Miscellaneous
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code (⭐575)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code (⭐580)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

@@ -76,7 +76,7 @@
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐64)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐67)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

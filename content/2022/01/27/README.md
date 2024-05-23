@@ -108,7 +108,7 @@
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐381)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Snektron/vulkan-zig (⭐392)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 *   [Avokadoen/zig\_vulkan (⭐43)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ---

@@ -14,7 +14,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [club-house (⭐0)](https://github.com/skippyr/club-house) - Requires a [Nerd Font (⭐51k)](https://github.com/ryanoasis/nerd-fonts). Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
+*   [club-house (⭐0)](https://github.com/skippyr/club-house) - Requires a [Nerd Font (⭐52k)](https://github.com/ryanoasis/nerd-fonts). Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
 *   [devil-puppet (⭐0)](https://github.com/skippyr/devil-puppet) - Theme decorated by a pentagram. Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
 *   [ko (⭐1)](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/) - Includes decorators for `git` status and current directory.
 *   [outer-space (⭐2)](https://github.com/skippyr/outer-space) - Includes decorators for user\@hostname, active python virtual environment, current directory and `git` status.
@@ -35,7 +35,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataComPy (⭐354)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+*   [DataComPy (⭐396)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

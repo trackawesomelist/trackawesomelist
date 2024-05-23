@@ -44,7 +44,7 @@
 
 *   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐1)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
-*   [zsh-watch (⭐2)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
+*   [zsh-watch (⭐4)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [hugoVueSFC (⭐4)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+*   [hugoVueSFC (⭐5)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 ## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

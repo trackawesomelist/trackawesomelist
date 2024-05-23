@@ -83,9 +83,6 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Players / Roku
 
-*   [Audio and Video Support](https://developer.roku.com/docs/specs/streaming.md#AudioandVideoSupport-AdaptiveBitrateFormats)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
-*   [Playing Video Examples](https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md#PlayingVideos-Examples)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
-*   [Video Node Docs](https://developer.roku.com/docs/references/scenegraph/media-playback-nodes/video.md)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
 *   [rokudev/videoplayer-channel (⭐27)](https://github.com/rokudev/videoplayer-channel)  - SceneGraph version of the SDK1 VideoPlayer Channel  - rokudev/videoplayer-channel
 
 ### Players / Web
