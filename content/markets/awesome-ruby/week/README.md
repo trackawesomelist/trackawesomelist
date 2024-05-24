@@ -12,6 +12,13 @@
 
 *   [ActiveAnalytics (⭐390)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
+### Gem Servers
+
+*   [Gemfast (⭐60)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+*   [Gem in a box (⭐1.5k)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
+*   [Gemirro (⭐137)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+*   [Gemstash (⭐740)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
 ### Optimizations
@@ -1526,7 +1533,7 @@
 
 ### Video
 
-*   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+*   [Video Transcoding (⭐2.4k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 

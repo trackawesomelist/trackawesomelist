@@ -6,6 +6,15 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [May 24, 2024](/content/2024/05/24/README.md)
+
+### Gem Servers
+
+*   [Gemfast (⭐60)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+*   [Gem in a box (⭐1.5k)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
+*   [Gemirro (⭐137)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+*   [Gemstash (⭐740)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+
 ## [May 20, 2024](/content/2024/05/20/README.md)
 
 ### Analytics
@@ -1613,7 +1622,7 @@
 
 ### Video
 
-*   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+*   [Video Transcoding (⭐2.4k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## [Jan 16, 2017](/content/2017/01/16/README.md)
 

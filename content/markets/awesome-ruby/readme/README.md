@@ -93,6 +93,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [Form Builder](#form-builder)
 *   [Game Development and Graphics](#game-development-and-graphics)
 *   [Gem Generators](#gem-generators)
+*   [Gem Servers](#gem-servers)
 *   [Geolocation](#geolocation)
 *   [Git Tools](#git-tools)
 *   [GraphQL](#graphql)
@@ -738,6 +739,13 @@ Where to discover new Ruby libraries, projects and trends.
 *   [Gemsmith (⭐447)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 *   [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
+## Gem Servers
+
+*   [Gemfast (⭐60)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+*   [Gem in a box (⭐1.5k)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
+*   [Gemirro (⭐137)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+*   [Gemstash (⭐740)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+
 ## Geolocation
 
 *   [Geocoder (⭐6.3k)](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
@@ -1375,7 +1383,7 @@ Online tools, services and APIs to simplify development.
 
 *   [Streamio FFMPEG (⭐1.6k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 *   [VideoInfo (⭐425)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
-*   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+*   [Video Transcoding (⭐2.4k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## View components
 
