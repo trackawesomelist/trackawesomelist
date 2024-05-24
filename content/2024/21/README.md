@@ -1,48 +1,127 @@
 # Awesome List Updates on May 20 - May 26, 2024
 
-30 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐64)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐431)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [yschimke/okurl (⭐125)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [AnkitSuda/Rebound (⭐175)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [KakaoCup/Kakao (⭐307)](https://github.com/KakaoCup/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
 
-## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Reference
 
 *   [Ada 2022 Reference Card (⭐5)](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
-## [4. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [5. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API\`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
 
-## [6. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
 *   [point\_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 
-## [7. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/week/README.md)
+## [8. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/week/README.md)
 
 ### Project Management Tools
 
@@ -132,7 +211,7 @@
 *   Push to the Branch (`git push origin feature/AmazingFeature`)
 *   Open a Pull Request
 
-## [8. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+## [9. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
 ### Project Management
 
@@ -144,26 +223,26 @@
 *   [ClickUp](https://productivity.directory/clickup)
 *   [Microsoft Project](https://productivity.directory/microsoft-project)
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 *   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
 *   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
 
-## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
@@ -289,7 +368,7 @@
 *   [kubeblocks (⭐1.7k)](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 *   [podinfo (⭐5.2k)](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -338,7 +417,7 @@
 
 *   [AsyncAPI (⭐3.9k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-## [14. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [15. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
@@ -352,7 +431,7 @@
 
 *   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐20k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
@@ -363,13 +442,13 @@
 
 *   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
 
-## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [17. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome LiDAR Place Recognition :octocat:](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -384,16 +463,37 @@
 *   [unplugin-vue-components (⭐3.6k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 *   [unplugin-auto-import (⭐3k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
-## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Official Resources
+
+*   [Site](https://angular.dev)
+*   [Blog](https://blog.angular.dev/)
+*   [Documentation](https://angular.dev/overview)
+*   [Getting Started Tutorial](https://angular.dev/tutorials/learn-angular)
+*   [Past Documentation Site](https://v17.angular.io/docs)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular](https://blog.angular.dev/) - Official Angular blog.
+
+### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs does not have a cheatsheet.
 
 ### CLI / Testing
 
+*   [Official web page](https://angular.dev/tools/cli)
 *   [angular-serve-and-run (⭐3)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 
 ### Integrations / Testing
 
 *   [google-pay-button (⭐239)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 *   [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
+### Developer tools / Testing
+
+*   [Angular Dev Tools](https://angular.dev/tools/devtools) - Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.
 
 ### Exercises / Testing
 
@@ -505,14 +605,31 @@
 *   [observable-webworker (⭐219)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 *   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 
-## [19. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+### Security / Node Based
+
+*   [Angular Security](https://angular.dev/best-practices/security) - Best Practices
+
+### Authentication / Node Based
+
+*   [angular-oauth2-oidc (⭐1.8k)](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+*   [keycloak-angular (⭐697)](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
+
+### Deployment / Node Based
+
+*   [Firebase Hosting](https://firebase.google.com/docs/app-hosting/get-started)
+
+### Updating / Node Based
+
+*   [angular update guide](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.
+
+## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
 *   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
-## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -537,25 +654,25 @@
 *   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 *   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
-## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
-## [22. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [23. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Frameworks
 
 *   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Manufacturing
 
@@ -565,19 +682,19 @@
 
 *   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐7.8k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
 *   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 
-## [26. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [27. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
 *   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -625,19 +742,19 @@
 
 *   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
 *   [ActiveAnalytics (⭐390)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [30. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
