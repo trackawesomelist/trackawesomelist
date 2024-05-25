@@ -61,6 +61,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Design Theory](#design-theory)
         *   [Design Practises](#design-practises)
         *   [Imperative DSL Applications](#imperative-dsl-applications)
+        *   [Declarative DSL Applications](#declarative-dsl-applications)
         *   [DSL Program Synthesis](#dsl-program-synthesis)
     *   [Problem Solving](#problem-solving)
         *   [Human-Level Problem Solving](#human-level-problem-solving)
@@ -766,6 +767,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Coordination
 
+*   [In situ bidirectional human-robot value alignment](https://www.science.org/doi/full/10.1126/scirobotics.abm4183) - ***Science Robotics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=18342339995965564405)]. \[[Preprint](https://par.nsf.gov/servlets/purl/10351399)]. This paper proposes an explainable artificial intelligence (XAI) system in which a group of robots predicts users’ values by taking in situ feedback into consideration while communicating their decision processes to users through explanations. To learn from human feedback, the XAI system integrates a cooperative communication model for inferring human values associated with multiple desirable goals. To be interpretable to humans, it simulates human mental dynamics and predicts optimal explanations using graphical models.
+
 *   [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
@@ -829,6 +832,10 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw\.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
 
 *   [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
+
+\*[Back to Top](#c)
+
+#### Declarative DSL Applications
 
 \*[Back to Top](#c)
 

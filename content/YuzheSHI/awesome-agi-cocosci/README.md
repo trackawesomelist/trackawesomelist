@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [May 25, 2024](/content/2024/05/25/README.md)
+
+### Communications / Coordination
+
+*   [In situ bidirectional human-robot value alignment](https://www.science.org/doi/full/10.1126/scirobotics.abm4183) - ***Science Robotics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=18342339995965564405)]. \[[Preprint](https://par.nsf.gov/servlets/purl/10351399)]. This paper proposes an explainable artificial intelligence (XAI) system in which a group of robots predicts users’ values by taking in situ feedback into consideration while communicating their decision processes to users through explanations. To learn from human feedback, the XAI system integrates a cooperative communication model for inferring human values associated with multiple desirable goals. To be interpretable to humans, it simulates human mental dynamics and predicts optimal explanations using graphical models.
+
 ## [May 23, 2024](/content/2024/05/23/README.md)
 
 ### Domain Specific Language / Design Theory

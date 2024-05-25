@@ -6,6 +6,16 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [May 25, 2024](/content/2024/05/25/README.md)
+
+### Captcha
+
+*   [react-simple-captcha (⭐38)](https://github.com/masroorejaz/react-simple-captcha) - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
+
+### Screenshot
+
+*   [urlbox (⭐24)](https://github.com/urlbox/urlbox-node) - Quickly generate screenshots, PDFs and other renders using the urlbox screenshot as a service API.
+
 ## [May 06, 2024](/content/2024/05/06/README.md)
 
 ### Data Store / Mouse Events
@@ -14,7 +24,7 @@ Curated List of React Components & Libraries.
 
 ## [Mar 27, 2024](/content/2024/03/27/README.md)
 
-### Miscellaneous
+### Captcha
 
 *   [procaptcha (⭐30)](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 

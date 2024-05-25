@@ -8,6 +8,10 @@
 
 ## [May 25, 2024](/content/2024/05/25/README.md)
 
+### Audio and Video Tools / File Sharing
+
+*   [Camera Preview](https://sindresorhus.com/camera-preview) - Preview your webcam, take photos, and use it as a mirror. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1632827132)
+
 ### Utilities / Finder Tools
 
 *   [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1666327168)

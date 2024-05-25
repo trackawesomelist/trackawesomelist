@@ -1,18 +1,44 @@
 # Awesome List Updates on May 25, 2024
 
-5 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Communications / Coordination
+
+*   [In situ bidirectional human-robot value alignment](https://www.science.org/doi/full/10.1126/scirobotics.abm4183) - ***Science Robotics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=18342339995965564405)]. \[[Preprint](https://par.nsf.gov/servlets/purl/10351399)]. This paper proposes an explainable artificial intelligence (XAI) system in which a group of robots predicts users’ values by taking in situ feedback into consideration while communicating their decision processes to users through explanations. To learn from human feedback, the XAI system integrates a cooperative communication model for inferring human values associated with multiple desirable goals. To be interpretable to humans, it simulates human mental dynamics and predicts optimal explanations using graphical models.
+
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Captcha
+
+*   [react-simple-captcha (⭐38)](https://github.com/masroorejaz/react-simple-captcha) - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
+
+### Screenshot
+
+*   [urlbox (⭐24)](https://github.com/urlbox/urlbox-node) - Quickly generate screenshots, PDFs and other renders using the urlbox screenshot as a service API.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Remote Development / Diagnostics
+
+*   [nosduco/remote-sshfs.nvim (⭐120)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [Camera Preview](https://sindresorhus.com/camera-preview) - Preview your webcam, take photos, and use it as a mirror. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1632827132)
 
 ### Utilities / Finder Tools
 
 *   [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1666327168)
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials
 
@@ -30,13 +56,13 @@
 
 *   [ragapp/ragapp (⭐246)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 
-## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [Metriport (⭐442)](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
 
-## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [7. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Apps / Wallets
 
@@ -84,7 +110,7 @@
 
 *   [stacks.rs (⭐4)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
 
-## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 
