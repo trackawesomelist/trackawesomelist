@@ -1,12 +1,91 @@
 # Awesome List Updates on May 20 - May 26, 2024
 
-31 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Courses and Educational Materials
+
+*   [Generative AI Explained by NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1): A no-coding course by NVIDIA that presents Generative AI concepts and applications, as well as the challenges and opportunities in the field
+
+### Online Tools and Applications
+
+*   [Competitor Research](https://www.competitoresearch.com): AI tool to help companies track their competitors
+
+### Large Language Models (LLMs)
+
+*   [naklecha/llama3-from-scratch (⭐8.1k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
+
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [ragapp/ragapp (⭐246)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
+
+## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+
+### Contents / Libraries
+
+*   [Metriport (⭐442)](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
+
+## [3. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+
+### Apps / Wallets
+
+*   [Asigna](https://asigna.io/) - Multisig Wallet for Bitcoin, Ordinals, BRC20s, and Stacks.
+*   [Leather Wallet](https://leather.io/install-extension) - Open Source wallet for connecting to Bitcoin and Stacks web applications. Also for [desktop](https://leather.io/install-desktop).
+*   [Xverse Wallet](https://www.xverse.app/) - Mobile wallet application and browser extension for managing Bitcoin, STX and stacking (partly open source).
+
+### Apps / Stacks Web Applications
+
+*   [Hiro Explorer](https://explorer.hiro.so/?chain=mainnet) - An application for reviewing transactions on the Stacks blockchain.
+*   [STX Scan](https://stxscan.co/) - An explorer for Stacks transactions.
+*   [Blocksurvey](https://blocksurvey.io/) - AI-driven survey platform with focus on data ownership and privacy.
+*   [MultiSafe (⭐26)](https://github.com/Trust-Machines/multisafe) - MultiSafe is a shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
+*   [Charisma (⭐1)](https://github.com/pointblankdev/dungeon-master) - Community-run memecoin DAO on the Stacks blockchain.
+
+### Apps / DeFi
+
+*   [Bitflow](https://www.bitflow.finance/) - Decentralized Exchange.
+*   [Velar](https://www.velar.co/) - Swapping, trading, launching assets on premier Bitcoin L2s.
+*   [STX20 (⭐26)](https://github.com/fess-v/stx20-standard) - Protocol to create and share digital artifacts on Stacks.
+*   [STXTools](https://stxtools.io/) - Charts, transactions, price alerts for DeFi on Stacks.
+*   [Stacks Pulse (⭐10)](https://github.com/pradel/stackspulse) - Real-time on-chain Stats for Stacks DeFi.
+*   [Signal21](https://signal21.io/) - On-chain analysis for Bitcoin L1, L2 and Dapps.
+*   [CityCoins](https://minecitycoins.com) - Tokens for cities (winding down).
+
+### Apps / Stacking Apps
+
+*   [Fast pool](https://fastpool.org/) - Trust minimized stacking pool.
+*   [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
+*   [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
+
+### Clarity Resources / Non-Fungible Tokens
+
+*   [Smart Contract GPT (⭐5)](https://github.com/Markeljan/smart-contract-gpt) - Chat bot trained to create SIP-009 contracts.
+
+### Clarity Resources / Fungible Tokens
+
+*   [Nothing](https://nothingtoken.xyz/) - A fungible token that does nothing ([contract](https://explorer.hiro.so/txid/SP32AEEF6WW5Y0NMJ1S8SBSZDAY8R5J32NBZFPKKZ.nope?chain=mainnet)).
+
+### Clarity Resources / Stacking
+
+*   [Stacks Pools (⭐0)](https://github.com/degen-lab/stacks-pools) - Decentralized Stacking Pool.
+
+### App Development / Client Libraries
+
+*   [stacks.rs (⭐4)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
+
+## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+
+### Data Ingestion
+
+*   [Meltano](https://meltano.com/) - CLI & code-first ELT.
+    *   [Singer SDK](https://sdk.meltano.com) - The fastest way to build custom data extractors and loaders compliant with the Singer Spec.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -85,43 +164,43 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
 
-## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [prisma-query-formatter - Substitute params and format queries for logging (⭐0)](https://github.com/s1owjke/prisma-query-formatter)
 
-## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [8. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Reference
 
 *   [Ada 2022 Reference Card (⭐5)](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
-## [5. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [9. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API\`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
 
-## [7. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
 *   [point\_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 
-## [8. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/week/README.md)
+## [12. Awesome Project Management](/content/santiagoxlopez/awesome-project-management/week/README.md)
 
 ### Project Management Tools
 
@@ -211,7 +290,7 @@
 *   Push to the Branch (`git push origin feature/AmazingFeature`)
 *   Open a Pull Request
 
-## [9. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+## [13. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
 ### Project Management
 
@@ -223,7 +302,7 @@
 *   [ClickUp](https://productivity.directory/clickup)
 *   [Microsoft Project](https://productivity.directory/microsoft-project)
 
-## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -232,7 +311,7 @@
 *   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 *   [Age of DataFrames II: Polars Edition](https://medium.com/datamindedbe/age-of-dataframes-2-polars-edition-83442a06bced) - A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by \[@woutergins]. Source code available [here (⭐0)](https://github.com/woutergins/age-of-dataframes)
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Build 2024 (May 21-23, 2024).
 
@@ -247,13 +326,13 @@
 
 *   [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/) - May 21, 2024 - .NET Announcements & Updates from Microsoft Build 2024.
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
 *   [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/neondatabase/neon)
 
-## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
@@ -379,7 +458,7 @@
 *   [kubeblocks (⭐1.7k)](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 *   [podinfo (⭐5.2k)](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops.
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -428,7 +507,7 @@
 
 *   [AsyncAPI (⭐3.9k) (⭐3.9k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-## [15. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
@@ -442,7 +521,7 @@
 
 *   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐20k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
-## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
@@ -453,13 +532,13 @@
 
 *   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
 
-## [17. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [21. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome LiDAR Place Recognition :octocat:](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -474,7 +553,7 @@
 *   [unplugin-vue-components (⭐3.6k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 *   [unplugin-auto-import (⭐3k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Official Resources
 
@@ -633,14 +712,14 @@
 
 *   [angular update guide](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.
 
-## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [24. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
 *   [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
-## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [25. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -665,25 +744,25 @@
 *   [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 *   [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
 
-## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [26. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
-## [23. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [27. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Frameworks
 
 *   [Ash Framework (⭐1.4k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Manufacturing
 
@@ -693,19 +772,19 @@
 
 *   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐7.8k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [30. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
 *   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 
-## [27. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [31. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
 *   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -753,7 +832,7 @@
 
 *   [echasnovski/mini.nvim#mini.git (⭐3.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md) - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
@@ -766,13 +845,17 @@
 *   [Gemirro (⭐137)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
 *   [Gemstash (⭐740)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+### Utilities / Finder Tools
+
+*   [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1666327168)
+
+## [35. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
