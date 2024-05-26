@@ -18,9 +18,9 @@
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
+			<a href="https://sindresorhus.com/week-number">Week Number</a>
 			<br>
-			<sup>Display the time remaining today in your menu bar</sup>
+			<sup>The current week number in your menu bar</sup>
 		</h2>
 	</div>
 	<br>
@@ -211,7 +211,7 @@
 *   [KDE (⭐415)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 *   [.NET (⭐18k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐637)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐639)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 *   [Amazon Alexa (⭐572)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 *   [DigitalOcean (⭐337)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 *   [Flutter (⭐52k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
@@ -256,7 +256,7 @@
 *   [Swift (⭐24k)](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
     *   [Education (⭐5.6k)](https://github.com/hsavit1/Awesome-Swift-Education#readme)
     *   [Playgrounds (⭐4.1k)](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-*   [Python (⭐206k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐207k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.4k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐606)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -267,7 +267,7 @@
     *   [Pest (⭐45)](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 *   [Haskell (⭐3k)](https://github.com/krispo/awesome-haskell#readme)
 *   [PureScript (⭐455)](https://github.com/passy/awesome-purescript#readme)
-*   [Go (⭐121k)](https://github.com/avelino/awesome-go#readme)
+*   [Go (⭐122k)](https://github.com/avelino/awesome-go#readme)
 *   [Scala (⭐8.9k)](https://github.com/lauris/awesome-scala#readme)
     *   [Scala Native (⭐244)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 *   [Ruby (⭐13k)](https://github.com/markets/awesome-ruby#readme)
@@ -309,7 +309,7 @@
 *   [Q# (⭐152)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 *   [Imba (⭐129)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 *   [Vala (⭐146)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-*   [Coq (⭐287)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐291)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 *   [V (⭐1.8k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 *   [Zig (⭐327)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 *   [Move (⭐1.3k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
@@ -325,7 +325,7 @@
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7.4k)](https://github.com/troxler/awesome-css-frameworks#readme)
 *   [React (⭐62k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐272)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
@@ -425,7 +425,7 @@
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 *   [Apache Wicket (⭐75)](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 *   [Vert.x (⭐2.2k)](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-*   [Terraform (⭐5.2k)](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+*   [Terraform (⭐5.3k)](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 *   [Vapor (⭐1.1k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 *   [Dash (⭐2k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 *   [FastAPI (⭐7.6k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
@@ -479,7 +479,7 @@
 ## Big Data
 
 *   [Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata#readme)
-*   [Public Datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets#readme)
+*   [Public Datasets (⭐59k)](https://github.com/awesomedata/awesome-public-datasets#readme)
 *   [Hadoop (⭐1.1k)](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 *   [Data Engineering (⭐6k)](https://github.com/igorbarinov/awesome-data-engineering#readme)
 *   [Streaming (⭐2.6k)](https://github.com/manuzhang/awesome-streaming#readme)
@@ -541,7 +541,7 @@
 *   [libGDX (⭐933)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 *   [PlayCanvas (⭐238)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 *   [Game Remakes (⭐675)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
-*   [Flame (⭐954)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐970)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 *   [Discord Communities (⭐2.5k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 *   [CHIP-8 (⭐142)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 *   [Games of Coding (⭐1.8k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
@@ -557,7 +557,7 @@
 *   [Dev Env (⭐2.8k)](https://github.com/jondot/awesome-devenv#readme)
 *   [Dotfiles (⭐8.7k)](https://github.com/webpro/awesome-dotfiles#readme)
 *   [Shell (⭐31k)](https://github.com/alebcay/awesome-shell#readme)
-*   [Fish (⭐3.9k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Command-Line Apps (⭐14k)](https://github.com/agarrharr/awesome-cli-apps#readme)
 *   [ZSH Plugins (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins#readme)
 *   [GitHub (⭐838)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
@@ -603,6 +603,7 @@
 *   [Cassandra (⭐278)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 *   [TDengine (⭐50)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 *   [Supabase (⭐236)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [PocketBase (⭐530)](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 
 ## Media
 
@@ -616,7 +617,7 @@
 *   [Audio Visualization (⭐4.5k)](https://github.com/willianjusten/awesome-audio-visualization#readme)
 *   [Broadcasting (⭐1.4k)](https://github.com/ebu/awesome-broadcasting#readme)
 *   [Pixel Art (⭐956)](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-*   [FFmpeg (⭐948)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐951)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 *   [Icons (⭐700)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 *   [Audiovisual (⭐165)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 *   [VLC (⭐128)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
@@ -655,7 +656,7 @@
 *   [Vehicle Security and Car Hacking (⭐2.9k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 *   [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 *   [Lockpicking (⭐1.3k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐4k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Cybersecurity Blue Team (⭐4.1k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 *   [Fuzzing (⭐785)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 *   [Embedded and IoT Security (⭐1.6k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 *   [GDPR (⭐191)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
@@ -667,6 +668,7 @@
 *   [Security Card Games (⭐90)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 *   [Suricata (⭐105)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 *   [Prompt Injection (⭐104)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+*   [Detection Engineering (⭐564)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 
 ## Content Management Systems
 
@@ -707,7 +709,7 @@
 *   [Wardley Maps (⭐635)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 *   [Social Enterprise (⭐86)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 *   [Engineering Team Management (⭐1.9k)](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
-*   [Developer-First Products (⭐789)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐794)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 *   [Billing (⭐825)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 *   [Engineering Strategy (⭐780)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
@@ -773,7 +775,7 @@
 
 *   [Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐984)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Selenium (⭐990)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 *   [Appium (⭐422)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 *   [TAP (⭐617)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 *   [JMeter (⭐687)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
@@ -791,12 +793,12 @@
 *   [CSV (⭐656)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 *   [Discounts for Student Developers (⭐2.8k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐234)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐301k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Awesome (⭐303k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [Analytics (⭐3.8k)](https://github.com/0xnr/awesome-analytics#readme)
-*   [REST (⭐3.5k)](https://github.com/marmelab/awesome-rest#readme)
+*   [REST (⭐3.6k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Continuous Integration and Continuous Delivery (⭐1.8k)](https://github.com/cicdops/awesome-ciandcd#readme)
 *   [Services Engineering (⭐3.6k)](https://github.com/mmcgrana/services-engineering#readme)
-*   [Free for Developers (⭐84k)](https://github.com/ripienaar/free-for-dev#readme)
+*   [Free for Developers (⭐85k)](https://github.com/ripienaar/free-for-dev#readme)
 *   [Answers (⭐754)](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
 *   [Sketch (⭐733)](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 *   [Boilerplate Projects (⭐1.2k)](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
@@ -804,7 +806,7 @@
 *   [GitHub Wiki (⭐194)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 *   [Design and Development Guides (⭐2.2k)](https://github.com/NARKOZ/guides#readme)
 *   [Software Engineering Blogs (⭐29k)](https://github.com/kilimchoi/engineering-blogs#readme)
-*   [Self Hosted (⭐179k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Self Hosted (⭐181k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [FOSS Production Apps (⭐287)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Gulp (⭐610)](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 *   [AMA (⭐1.4k)](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
@@ -812,8 +814,8 @@
 *   [Open Source Photography (⭐511)](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
 *   [OpenGL (⭐2.1k)](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
 *   [GraphQL (⭐14k)](https://github.com/chentsulin/awesome-graphql#readme)
-*   [Urban & Regional Planning (⭐242)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
-*   [Transit (⭐1.2k)](https://github.com/CUTR-at-USF/awesome-transit#readme)
+*   [Urban & Regional Planning (⭐243)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Transit (⭐1.3k)](https://github.com/CUTR-at-USF/awesome-transit#readme)
 *   [Research Tools (⭐1.9k)](https://github.com/emptymalei/awesome-research#readme)
 *   [Data Visualization (⭐3.6k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices#readme)
@@ -899,7 +901,7 @@
 *   [Scriptable (⭐1.1k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 *   [WebXR (⭐199)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 *   [Computational Geometry (⭐61)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
-*   [OpenStreetMap (⭐568)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
+*   [OpenStreetMap (⭐578)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 *   [Computational Biology (⭐55)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 *   [Read the Docs (⭐93)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 *   [Quarto (⭐1.6k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.

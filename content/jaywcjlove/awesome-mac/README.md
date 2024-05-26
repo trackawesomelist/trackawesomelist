@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [May 26, 2024](/content/2024/05/26/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - A monthly calendar right in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1558360383)
+
+### Utilities / Productivity
+
+*   [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6450280202)
+
 ## [May 25, 2024](/content/2024/05/25/README.md)
 
 ### Audio and Video Tools / File Sharing

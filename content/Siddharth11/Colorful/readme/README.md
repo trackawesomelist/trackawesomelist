@@ -2,7 +2,7 @@
 
 A curated list of awesome resources to choose your next color scheme
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 996 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/Siddharth11/Colorful/README.md) / [Weekly](/content/Siddharth11/Colorful/week/README.md) / Overview ]
 
@@ -15,7 +15,7 @@ A curated list of awesome resources to choose your next color scheme
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome (⭐283k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
+Inspired by the **[awesome (⭐303k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -30,22 +30,22 @@ Inspired by the **[awesome (⭐283k)](https://github.com/sindresorhus/awesome)**
 #### Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [pigment (⭐9)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
-*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [pigment (⭐10)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
+*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 *   [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐330)](https://github.com/krasimir/coloor) - Image preloading utility.
 *   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐810)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐807)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
-*   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-*   [Palettable (⭐719)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Polychrome (⭐287)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Palettable (⭐746)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 *   [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
-*   [granim.js (⭐5.2k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐185)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor (⭐4.9k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-*   [Distinct Colors (⭐116)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
-*   [color2k (⭐573)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [granim.js (⭐5.3k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
+*   [tinygradient (⭐193)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [Distinct Colors (⭐117)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [color2k (⭐589)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
 
@@ -90,6 +90,7 @@ Inspired by the **[awesome (⭐283k)](https://github.com/sindresorhus/awesome)**
 *   [AI Color Palette Generator](https://www.loopple.com/color-palette-generator) - Effortlessly Create Stunning Color Schemes
     with AI-Powered Palette Generator.
 *   [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
+*   [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 
 ## Color Palettes
 
@@ -114,7 +115,7 @@ Inspired by the **[awesome (⭐283k)](https://github.com/sindresorhus/awesome)**
 *   [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 *   [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 *   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-*   [Color Name List (⭐2.2k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.3k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 *   [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 
 ## Articles
