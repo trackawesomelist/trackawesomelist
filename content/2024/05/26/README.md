@@ -1,12 +1,24 @@
 # Awesome List Updates on May 26, 2024
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+
+### Packages / Mad science
+
+*   [ipfs (⭐777)](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [Bigcapital](https://bigcapital.app/) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐2.1k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+
+## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
@@ -16,13 +28,13 @@
 
 *   [JSON Schema (⭐3.5k)](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 
-## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [eslint-plugin-exception-handling (⭐4)](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
@@ -32,13 +44,13 @@
 
 *   [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6450280202)
 
-## [4. Colorful](/content/Siddharth11/Colorful/README.md)
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 
 *   [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
@@ -48,7 +60,7 @@
 
 *   [Detection Engineering (⭐564)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Animations / Testing
 
