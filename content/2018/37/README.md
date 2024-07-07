@@ -29,13 +29,13 @@
 
 ### HTML/XML Parsing
 
-*   [myhtml (⭐152)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+*   [myhtml (⭐154)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐159)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐160)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Top / Game Engine resources
 
-*   [Tourism (⭐302)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐302)](https://github.com/bluemix/tourism-demo)
+*   [Tourism (⭐303)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐303)](https://github.com/bluemix/tourism-demo)
 
 ## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -171,12 +171,11 @@
 
 ### Tools and frameworks
 
-*   [Happo (⭐504)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
-*   [Wendigo (⭐147)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
-*   [Loki (⭐1.7k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
-*   [CodeceptJS (⭐4k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐569)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
-*   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
+*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
+*   [CodeceptJS (⭐4.1k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
+*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 
 ### Online services
@@ -377,7 +376,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐243)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐244)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -399,7 +398,7 @@
 
 ## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
-### Books, blogs, and training materials / Community Chat Rooms
+### Books, blogs, and training materials / Free and public materials
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
@@ -423,7 +422,7 @@
 
 ### Contents / Routing
 
-*   [Preact Route Async (⭐36)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
+*   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
 ## [34. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 

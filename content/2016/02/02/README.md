@@ -1,24 +1,18 @@
 # Awesome List Updates on Feb 02, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / I companies
-
-*   Intercom <https://engineering.intercom.io/>
-
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [GacUI (⭐2.3k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 
-## [3. Tips](/content/git-tips/tips/README.md)
+## [2. Tips](/content/git-tips/tips/README.md)
 
 ## Check if the change was a part of a release.
 
@@ -26,25 +20,25 @@
 git name-rev --name-only <SHA-1>
 ```
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### State Machines
 
 *   [transitions (⭐535)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [4. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 
-## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [5. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Resources / Projects Using Spark
 
 *   [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Utility / ORM
 

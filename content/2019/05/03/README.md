@@ -16,7 +16,7 @@
 
 ### UI / Calendar
 
-*   [Calendar Carousel Widget (⭐810)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐810)](https://github.com/dooboolab/flutter_calendar_carousel)
+*   [Calendar Carousel Widget (⭐823)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐823)](https://github.com/dooboolab/flutter_calendar_carousel)
 
 ## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

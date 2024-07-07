@@ -46,7 +46,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -86,7 +86,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐966)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐981)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

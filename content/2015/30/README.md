@@ -22,7 +22,7 @@
 
 ### Audio
 
-*   [SELA (⭐209)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐210)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐767)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐773)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -119,13 +119,13 @@
 
 ### conversion
 
-*   [esri2open (⭐251)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐254)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
-*   [enaqx/awesome-react (⭐61k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐63k)](https://github.com/enaqx/awesome-react)
 
 ## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -209,10 +209,6 @@ git branch --contains <commit-ish>
 
 *   Alan Storm <http://alanstorm.com/>
 
-### Individuals/Group Contributors / F individuals
-
-*   Fabrizio Branca <http://fbrnc.net/>
-
 ### Individuals/Group Contributors / J individuals
 
 *   Jacopo Tarantino <https://jack.ofspades.com/>
@@ -220,10 +216,6 @@ git branch --contains <commit-ish>
 ### Individuals/Group Contributors / K individuals
 
 *   Kevin Burke <https://kev.inburke.com/>
-
-### Individuals/Group Contributors / N individuals
-
-*   Nikolay Nemshilov <http://nikolay.rocks/>
 
 ## [20. Typography](/content/deanhume/typography/week/README.md)
 
@@ -370,7 +362,7 @@ git branch --contains <commit-ish>
 
 ### Testing
 
-*   [mocks.cr (⭐50)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
+*   [mocks.cr (⭐52)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
 ## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 

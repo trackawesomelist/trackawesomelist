@@ -38,7 +38,7 @@
 
 ### Tools and frameworks
 
-*   [reg-cli (⭐317)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
+*   [reg-cli (⭐343)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 
 ### Slideshows, talks and videos
 
@@ -49,10 +49,6 @@
 ### Companies / P companies
 
 *   Pinterest <https://medium.com/@Pinterest_Engineering>
-
-### Companies / R companies
-
-*   Red Hat <https://developers.redhat.com/blog/>
 
 ### Individuals/Group Contributors / B individuals
 
@@ -72,7 +68,7 @@
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐876)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐908)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

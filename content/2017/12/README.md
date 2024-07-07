@@ -85,7 +85,7 @@
 
 ### Tools / Libraries
 
-*   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Polychrome (⭐287)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 
 ## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐105)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐112)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -154,7 +154,7 @@
 ### Datasets / Data Dumps
 
 *   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
-*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 
 ## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -213,7 +213,7 @@ git log -S'<a term in the source>'
 
 ### Memory Forensics / Other Resources
 
-*   [WDBGARK (⭐602)](https://github.com/swwwolf/wdbgark) -
+*   [WDBGARK (⭐610)](https://github.com/swwwolf/wdbgark) -
     WinDBG Anti-RootKit Extension.
 
 ## [22. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -310,11 +310,11 @@ Webpage: <http://www.lerdevagar.com/>
 ### Components & Libraries / UI Components
 
 *   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [sweet-modal-vue (⭐758)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐757)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 *   [vue-masked-input (⭐455)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐26)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐457)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐458)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
@@ -343,7 +343,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐598)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐600)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -471,7 +471,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### HTTP
 
-*   [http-protection (⭐71)](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
+*   [http-protection (⭐72)](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
 
 ### Search
 
@@ -479,7 +479,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Task management
 
-*   [sam (⭐93)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐94)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

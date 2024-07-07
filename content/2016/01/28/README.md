@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐748)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐747)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -38,7 +38,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐953)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐957)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -78,7 +78,7 @@
 
 ### serialization
 
-*   [rgeo-geojson (⭐182)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -108,7 +108,7 @@
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐559)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

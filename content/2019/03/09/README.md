@@ -20,13 +20,13 @@
 
 ### Tools and frameworks
 
-*   [jest-puppeteer-react (⭐71)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+*   [jest-puppeteer-react (⭐72)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Python
 
-*   [dash-cytoscape (⭐535)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+*   [dash-cytoscape (⭐581)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 
 ---
 

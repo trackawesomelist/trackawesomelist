@@ -431,7 +431,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/dracula.nvim (⭐541)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
+*   [Mofiqul/dracula.nvim (⭐561)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
 
 ## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -441,7 +441,7 @@
 
 ### Tools / Working with types
 
-*   [typeforce (⭐20)](https://github.com/orsinium-labs/typeforce) - CLI tool that enriches your Python environment with type annotations, empowering mypy.
+*   [typeforce (⭐19)](https://github.com/orsinium-labs/typeforce) - CLI tool that enriches your Python environment with type annotations, empowering mypy.
 
 ## [12. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -453,7 +453,7 @@
 
 ### Open Source / Community
 
-*   [Astro (⭐43k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+*   [Astro (⭐44k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,20 +33,13 @@
 
 *   [Expert Apache Cassandra Administration](https://link.springer.com/book/10.1007/978-1-4842-3126-5)
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Official Venues / Skeumorphic Icons
-
-*   [This Week in GNOME](https://thisweek.gnome.org/) - Weekly news from project maintainers from the community.
-*   [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs.
-
-## [6. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [5. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Authentication & OAuth
 
 *   [Phalcon Auth (⭐7)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
-## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
+## [6. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
 ### Methods / Stakeholder Interviews
 
@@ -151,7 +144,7 @@
 *   [Hemingway](https://www.hemingwayapp.com/) - Hemingway App makes your writing bold and clear.
 *   [The Writer](https://www.thewriter.com/what-we-think/readability-checker/) - How readable is your writing?.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards
 
@@ -162,7 +155,7 @@
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 *   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 

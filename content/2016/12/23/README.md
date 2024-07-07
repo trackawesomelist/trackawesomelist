@@ -75,22 +75,10 @@
 
 *   VTS <https://buildingvts.com/>
 
-### Companies / Z companies
-
-*   Zillow <https://www.zillow.com/engineering/>
-
 ### Individuals/Group Contributors / C individuals
 
 *   Carlos Becker <https://carlosbecker.com>
 *   Codrops <https://tympanus.net/codrops/>
-
-### Individuals/Group Contributors / D individuals
-
-*   Dennis Yurichev <https://yurichev.com/blog/>
-
-### Individuals/Group Contributors / N individuals
-
-*   Natasha Murashev <https://natashatherobot.com>
 
 ### Individuals/Group Contributors / P individuals
 
@@ -132,7 +120,7 @@
 
 ### Serialization
 
-*   [Hyperion (⭐278)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐277)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 

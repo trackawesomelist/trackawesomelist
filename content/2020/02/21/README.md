@@ -61,7 +61,7 @@
 
 ### For Developers
 
-*   [mkdkr (⭐352)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐363)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐21k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐22k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

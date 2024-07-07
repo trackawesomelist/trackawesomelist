@@ -31,7 +31,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Pipecat (⭐856)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Pipecat (⭐2.1k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -73,7 +73,7 @@
 ### Discussion Groups and Mailing Lists
 
 *   [Inactive - Keycloak Developer Chat](https://keycloak.zulipchat.com)
-*   [GitHub Discussions (⭐20k)](https://github.com/keycloak/keycloak/discussions)
+*   [GitHub Discussions (⭐21k)](https://github.com/keycloak/keycloak/discussions)
 *   [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
 
 ### Articles
@@ -90,21 +90,21 @@
 
 ### Community Extensions
 
-*   [Admin Portal for User and Organization management by p2-inc (⭐16)](https://github.com/p2-inc/phasetwo-admin-portal)
+*   [Admin Portal for User and Organization management by p2-inc (⭐18)](https://github.com/p2-inc/phasetwo-admin-portal)
 *   [Email Notifications when login from a new IP and Login History (⭐5)](https://github.com/eliskachylikova/keycloak-extensions)
-*   [Keycloak Authenticator for Duo's Universal Prompt (⭐46)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
-*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐90)](https://github.com/anarsultanov/keycloak-multi-tenancy)
+*   [Keycloak Authenticator for Duo's Universal Prompt (⭐48)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
+*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐101)](https://github.com/anarsultanov/keycloak-multi-tenancy)
 
 ### Integrations
 
 *   [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
-*   [mantelo (Python Admin Client) (⭐7)](https://github.com/derlin/mantelo)
+*   [mantelo (Python Admin Client) (⭐10)](https://github.com/derlin/mantelo)
 
 ### Themes
 
-*   [Keycloak login theme template (⭐32)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Extension for runtime loading of CSS themes (⭐24)](https://github.com/p2-inc/keycloak-themes)
-*   [3 CSS-only Keycloak theme examples (⭐24)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*   [Keycloak login theme template (⭐36)](https://github.com/p2-inc/keycloak-theme-template)
+*   [Extension for runtime loading of CSS themes (⭐26)](https://github.com/p2-inc/keycloak-themes)
+*   [3 CSS-only Keycloak theme examples (⭐26)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ### Docker
 
@@ -116,8 +116,8 @@
 
 ### Example Projects
 
-*   [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey (⭐2)](https://github.com/christian-2/oidc-passkey)
-*   [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak\_oidc (⭐19)](https://github.com/Amsterdam/keycloak_oidc)
+*   [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey (⭐3)](https://github.com/christian-2/oidc-passkey)
+*   [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak\_oidc (⭐21)](https://github.com/Amsterdam/keycloak_oidc)
 
 ### Commercial Offerings
 
@@ -178,11 +178,11 @@
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Grype (⭐7.9k)](https://github.com/anchore/grype/) - *Anchore* - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
+*   [Grype (⭐8.2k)](https://github.com/anchore/grype/) - *Anchore* - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
 
 ### Intentionally Vulnerable Applications / Ansible
 
-*   [Kubernetes Goat (⭐4k)](https://github.com/madhuakula/kubernetes-goat) - *Madhu Akula* - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+*   [Kubernetes Goat (⭐4.1k)](https://github.com/madhuakula/kubernetes-goat) - *Madhu Akula* - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 *   [Pentest-Ground](https://pentest-ground.com/) - *Pentest-Tools.com* - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 *   [WrongSecrets (⭐1.2k)](https://github.com/OWASP/wrongsecrets) - *OWASP* - Vulnerable app with examples showing how to not use secrets
 
@@ -192,16 +192,16 @@
 
 ### Static Analysis / Configuration Files
 
-*   [Selefra (⭐509)](https://github.com/selefra/selefra) - *Selefra* - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+*   [Selefra (⭐513)](https://github.com/selefra/selefra) - *Selefra* - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ### Supply Chain Security / Ruby
 
-*   [Overlay (⭐209)](https://github.com/os-scar/overlay) - *SCAR* - a browser extension helping developers evaluate open source packages before picking them.
-*   [Syft (⭐5.5k)](https://github.com/anchore/syft/) - *Anchore* - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+*   [Overlay (⭐213)](https://github.com/os-scar/overlay) - *SCAR* - a browser extension helping developers evaluate open source packages before picking them.
+*   [Syft (⭐5.8k)](https://github.com/anchore/syft/) - *Anchore* - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ### Related Lists / Ruby
 
-*   [Awesome Platform Engineering (⭐290)](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for *Platform Engineering*
+*   [Awesome Platform Engineering (⭐305)](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for *Platform Engineering*
 
 ## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -221,61 +221,34 @@
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### CLI / Testing
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-cli-diff (⭐320)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
-*   [mantis-cli (⭐60)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
+*   [angular-cli-diff (⭐329)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+*   [mantis-cli (⭐62)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 
 ## [18. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐51)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐84)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
 ## [19. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Design
 
-*   [OpenAPI Generator (⭐20k) (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐395) (⭐395)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐194) (⭐194)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.2k) (⭐5.3k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.8k) (⭐2.8k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐185) (⭐185)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐605) (⭐605)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+*   [OpenAPI Generator (⭐20k) (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 
 ### Projects / ETL
 
-*   [Pentaho Data Integration (⭐7.4k) (⭐7.4k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Messaging
-
-*   [Redpanda (⭐8.9k) (⭐8.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+*   [Pentaho Data Integration (⭐7.4k) (⭐7.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
 ### Projects / Workflow engine
 
-*   [Temporal (⭐10k) (⭐10k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+*   [Temporal (⭐10k) (⭐11k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
 ### Resources / Articles
 
 *   [API-Security-Checklist (⭐22k) (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐638) (⭐638)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐318) (⭐318)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [20. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
@@ -293,15 +266,15 @@
 
 ### Software / Vector Creation
 
-*   [ThreadPlotter (⭐31)](https://github.com/LiciaHe/threadPlotter) — "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
+*   [ThreadPlotter (⭐32)](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 
 ### Inspiration, Instruction, and Research / Fonts
 
-*   [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) — A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
-*   [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) — Conference talk with lots of great computer and plotter history.
-*   [20+ Questions About My Plotter Painting Practice](https://www.eyesofpanda.com/project/plotter_painting_q_a/) – Q\&A blog post with lots of details about more painterly plotting.
+*   [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) - A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
+*   [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) - Conference talk with lots of great computer and plotter history.
+*   [20+ Questions About My Plotter Painting Practice](https://www.eyesofpanda.com/project/plotter_painting_q_a/) - Q\&A blog post with lots of details about more painterly plotting.
 *   [How to Watercolor Paint with a Robotic Drawing Machine: An Interview with Licia He](https://www.dirtalleydesign.com/blogs/news/how-to-watercolor-painting-with-a-robotic-drawing-machine-an-interview-with-licia-he)
-*   [300 Days with Plotters](https://liciahe.medium.com/300-days-with-plotters-14159ab64034) – Blog post by Licia He about a successful 100 day plotting challenge.
+*   [300 Days with Plotters](https://liciahe.medium.com/300-days-with-plotters-14159ab64034) - Blog post by Licia He about a successful 100 day plotting challenge.
 
 ## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

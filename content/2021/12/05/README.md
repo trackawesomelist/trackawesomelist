@@ -10,7 +10,7 @@
 
 ### Shell Script Development
 
-*   [bash-modules (⭐118)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
+*   [bash-modules (⭐124)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -47,7 +47,7 @@
     ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
     [Demo](https://open-props.style/#gallery),
     [Docs](https://open-props.style/#getting-started),
-    [Repo (⭐4.4k)](https://github.com/argyleink/open-props/)
+    [Repo (⭐4.5k)](https://github.com/argyleink/open-props/)
     \| #CSS #PostCSS
 
 ---

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2017
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -90,7 +90,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐860)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐858)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [8. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -251,17 +251,9 @@
 
 ## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
-### Companies / A companies
-
-*   Allegro.tech <https://allegro.tech>
-
 ### Companies / B companies
 
 *   Benchling <https://benchling.engineering/>
-
-### Companies / C companies
-
-*   Codemancers <https://crypt.codemancers.com/>
 
 ### Companies / H companies
 
@@ -278,14 +270,6 @@
 ### Companies / N companies
 
 *   Nordic APIs <https://nordicapis.com/blog/>
-
-### Companies / S companies
-
-*   Scrapinghub <https://blog.scrapinghub.com/>
-
-### Individuals/Group Contributors / A individuals
-
-*   Andrew Ray <https://blog.andrewray.me/>
 
 ### Individuals/Group Contributors / D individuals
 
@@ -365,7 +349,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐973)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐988)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -373,13 +357,13 @@
 
 ### Serialization
 
-*   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
+*   [Utf8Json (⭐2.4k)](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 ## [33. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐142)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐144)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -441,7 +425,7 @@
 ### Common Algorithms and Procedures
 
 *   [Supervised vs unsupervised learning](https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning) - The two most common types of Machine Learning algorithms.
-*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm / model.
+*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm/model.
 *   [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) - Modifying the data to better model predictions.
 *   [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
 
@@ -452,7 +436,7 @@
 ### Data Science using Python / pandas
 
 *   [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
-*   [Pandas cheatsheet (⭐36k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
+*   [Pandas cheatsheet (⭐42k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
 ### Data Science using Python / Jupyter Notebook
 
@@ -461,7 +445,7 @@
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
-*   [LightGBM gradient boosting framework (⭐14k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+*   [LightGBM gradient boosting framework (⭐16k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 *   [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 ### Data Science Challenges for Beginners / Various other helpful tools and resources
@@ -481,33 +465,51 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [42. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss *(:card\_file\_box: archived)*
+
+### Go / Phoenix
+
+*   [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
+
+### TrueOS / PicoLisp
+
+*   [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
+
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [Petergate (⭐194)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
+*   [Petergate (⭐195)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 
 ### CLI Utilities
 
-*   [TablePrint (⭐894)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐895)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [44. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [45. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [46. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Massive Octo Spice (⭐227)](https://github.com/csirtgadgets/massive-octo-spice) -
+*   [Massive Octo Spice (⭐228)](https://github.com/csirtgadgets/massive-octo-spice) -
     Previously known as CIF (Collective Intelligence Framework). Aggregates IOCs
     from various lists. Curated by the
     [CSIRT Gadgets Foundation](http://csirtgadgets.org/collective-intelligence-framework).
@@ -534,16 +536,16 @@
 *   [anlyz.io](https://sandbox.anlyz.io/) - Online sandbox.
 *   [cuckoo-modified-api (⭐19)](https://github.com/keithjjones/cuckoo-modified-api) - A
     Python API used to control a cuckoo-modified sandbox.
-*   [detux (⭐255)](https://github.com/detuxsandbox/detux/) - A sandbox developed to do
+*   [detux (⭐257)](https://github.com/detuxsandbox/detux/) - A sandbox developed to do
     traffic analysis of Linux malwares and capturing IOCs.
 *   [firmware.re](http://firmware.re/) - Unpacks, scans and analyzes almost any
     firmware package.
-*   [HaboMalHunter (⭐722)](https://github.com/Tencent/HaboMalHunter) - An Automated Malware
+*   [HaboMalHunter (⭐725)](https://github.com/Tencent/HaboMalHunter) - An Automated Malware
     Analysis Tool for Linux ELF Files.
-*   [Limon (⭐383)](https://github.com/monnappa22/Limon) - Sandbox for Analyzing Linux Malware.
-*   [malsub (⭐362)](https://github.com/diogo-fernan/malsub) - A Python RESTful API framework for
+*   [Limon (⭐384)](https://github.com/monnappa22/Limon) - Sandbox for Analyzing Linux Malware.
+*   [malsub (⭐363)](https://github.com/diogo-fernan/malsub) - A Python RESTful API framework for
     online malware and URL analysis services.
-*   [Visualize\_Logs (⭐134)](https://github.com/keithjjones/visualize_logs) - Open source
+*   [Visualize\_Logs (⭐136)](https://github.com/keithjjones/visualize_logs) - Open source
     visualization library and command line tools for logs.  (Cuckoo, Procmon, more
     to come...)
 
@@ -581,7 +583,7 @@
 
 ### Network / Other Resources
 
-*   [PcapViz (⭐326)](https://github.com/mateuszk87/PcapViz) - Network topology and
+*   [PcapViz (⭐328)](https://github.com/mateuszk87/PcapViz) - Network topology and
     traffic visualizer.
 *   [Python ICAP Yara (⭐56)](https://github.com/RamadhanAmizudin/python-icap-yara) - An
     ICAP Server with yara scanner for URL or content.

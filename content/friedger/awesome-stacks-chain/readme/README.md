@@ -165,6 +165,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Stacks.js (⭐937)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 *   [stacks.rs (⭐4)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
+*   [stacks.py (⭐2)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
 
 ### CLI
 

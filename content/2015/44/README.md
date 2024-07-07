@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02 - Nov 08, 2015
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -156,7 +156,7 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐133)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐132)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
@@ -440,14 +440,57 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Android-Image-Filter (⭐624)](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 
-## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [29. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Android
+
+*   [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
+
+### Clojure / Non-X86
+
+*   [The Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide)
+
+### Hadoop / Spock Framework
+
+*   [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
+
+### Java / Wicket
+
+*   [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
+
+### Perl / PicoLisp
+
+*   [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
+*   [The DBIx-Class Book (⭐73)](https://github.com/castaway/dbix-class-book)
+
+### Racket / Tornado
+
+*   [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+
+### Scheme / Play Scala
+
+*   [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
+
+### Unix / Deno
+
+*   [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
+
+### Windows Phone / Vulkan
+
+*   [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
+
+## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 *   [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 
-## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -498,11 +541,11 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### ORM/ODM
 
-*   [NoBrainer (⭐389)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
+*   [NoBrainer (⭐388)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 
 ### PDF
 
-*   [CombinePDF (⭐723)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐728)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
@@ -512,7 +555,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Pusher (⭐663)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
-## [31. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [32. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -533,19 +576,19 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Re-Inventing the Rosetta Stone Together](https://www.youtube.com/watch?v=OOzAly5Rs7g) By Mariko Kosaka
 
-## [32. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [33. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### conversion
 
 *   [gtfs2geojson (⭐25)](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 
-## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [34. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -555,11 +598,11 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Localize-Swift (⭐3k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐356)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐355)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ### Macros
 
@@ -573,13 +616,13 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 
-## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Audio
 
 *   [Alda (⭐5.5k)](https://github.com/alda-lang/alda)
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
@@ -589,7 +632,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 *   [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 
-## [38. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [39. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Code Points that Affect Others
 
@@ -613,25 +656,25 @@ This book teaches you to use R to effectively visualize and explore complex data
     | U+1F3FE | EMOJI MODIFIER FITZPATRICK TYPE-5   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png" alt="" height="20" width="auto">   |
     | U+1F3FF | EMOJI MODIFIER FITZPATRICK TYPE-6   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png" alt="" height="20" width="auto">   |
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
-*   [turf (⭐8.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐9k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐565)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐238)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐210)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐572)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐242)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐211)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐331)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐336)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐336)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐338)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 

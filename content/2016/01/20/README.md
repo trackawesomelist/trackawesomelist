@@ -358,7 +358,7 @@
 
 ## [22. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn
+### Learning Guides
 
 *   [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
 
@@ -425,10 +425,6 @@
 
 *   SlideShare <https://engineering.linkedin.com/blog/topic/slideshare>
 
-### Individuals/Group Contributors / D individuals
-
-*   Discover Meteor <https://www.discovermeteor.com/blog>
-
 ### Individuals/Group Contributors / R individuals
 
 *   Raymond Chen <https://blogs.msdn.microsoft.com/oldnewthing/>
@@ -453,7 +449,7 @@
 
 ### Libraries / Bioinformatics
 
-*   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries.
+*   [Rust-Bio](https://github.com/rust-bio) - bioinformatics libraries.
 
 ## [33. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

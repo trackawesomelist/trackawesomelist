@@ -126,8 +126,8 @@
 
 ### DevSecOps / Service meshes
 
-*   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐19k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Bane (⭐1.2k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
+*   [Trivy (⭐22k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ---
 

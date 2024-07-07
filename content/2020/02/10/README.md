@@ -16,7 +16,7 @@
 
 ### Network perimeter defenses / Evidence collection
 
-*   [ssh-audit (⭐2.8k)](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
+*   [ssh-audit (⭐3.2k)](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Photo / Image
 
-*   [react-particle-image (⭐453)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐457)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ---
 

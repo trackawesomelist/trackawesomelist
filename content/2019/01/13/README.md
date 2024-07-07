@@ -17,7 +17,7 @@
 
 ### Tools / XML
 
-*   [denopkg (⭐238)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐240)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -89,13 +89,13 @@
 
 ### Tools
 
-*   [ISalt (⭐62)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
+*   [ISalt (⭐66)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-Vendor-Cleaner (⭐11)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
+*   [Composer-Vendor-Cleaner (⭐22)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
 
 ### Blogs / IRC
 
@@ -126,7 +126,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Quark-Engine (⭐1.2k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
+*   [Quark-Engine (⭐1.3k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
 
 ---
 

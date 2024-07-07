@@ -29,14 +29,13 @@
 
 *   [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 *   [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
-*   [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 *   [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐408)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐414)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -59,11 +58,11 @@
 
 ## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn
+### Learning Guides
 
 *   [Elm in Action](https://www.manning.com/books/elm-in-action) — In-depth book for Elm beginners, from Manning Publications.
 
-### Videos / Video tutorials
+### Learning Guides / Learning Videos
 
 *   [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
 

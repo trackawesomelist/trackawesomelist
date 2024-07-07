@@ -2,7 +2,7 @@
 
 :chart_with_upwards_trend: Curated list of resources to help you get started with Data Science
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 563 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 637 · 🏷️ Computer Science
 
 [ [Daily](/content/siboehm/awesome-learn-datascience/README.md) / [Weekly](/content/siboehm/awesome-learn-datascience/week/README.md) / Overview ]
 
@@ -12,26 +12,27 @@
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart\_with\_upwards\_trend:
 
-No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
+No previous knowledge is required but Python and statistics basics will definitely come in handy. These resources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
 ## What is Data Science?
 
 *   ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 *   [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
 *   [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
+*   [Data Science Process: A Beginner’s Comprehensive Guide](https://www.scaler.com/blog/data-science-process/) - Technical Skills for the Data Science: This emphasizes the practical skills needed throughout the data science process.
 
 ## Common Algorithms and Procedures
 
 *   [Supervised vs unsupervised learning](https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning) - The two most common types of Machine Learning algorithms.
 *   [9 important Data Science algorithms and their implementation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb)
-*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm / model.
+*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm/model.
 *   [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) - Modifying the data to better model predictions.
 *   [Scientific introduction to 10 important Data Science algorithms](http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf)
 *   [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
 
 ## Data Science using Python
 
-This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R (⭐1.8k)](https://github.com/ujjwalkarn/DataScienceR).
+This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R (⭐2k)](https://github.com/ujjwalkarn/DataScienceR).
 
 ### General
 
@@ -55,7 +56,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 *   [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 *   [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
-*   [Pandas cheatsheet (⭐36k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
+*   [Pandas cheatsheet (⭐42k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
 ### scikit-learn
 
@@ -76,10 +77,10 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-*   [Template folder structure for organizing Data Science projects (⭐6.1k)](https://github.com/drivendata/cookiecutter-data-science)
+*   [Template folder structure for organizing Data Science projects (⭐7.7k)](https://github.com/drivendata/cookiecutter-data-science)
 *   [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
-*   [LightGBM gradient boosting framework (⭐14k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+*   [LightGBM gradient boosting framework (⭐16k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 *   [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 ## Data Science Challenges for Beginners
@@ -93,9 +94,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-*   [Awesome Data Science (⭐20k)](https://github.com/bulutyazilim/awesome-datascience)
-*   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
-*   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+*   [Awesome Data Science (⭐24k)](https://github.com/bulutyazilim/awesome-datascience)
+*   [Data Science Python (⭐5.1k)](https://github.com/ujjwalkarn/DataSciencePython)
+*   [Machine Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Contribute
 

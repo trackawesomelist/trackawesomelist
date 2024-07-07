@@ -52,7 +52,7 @@
 
 ### Miscellaneous
 
-*   [Parasite (⭐30)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐33)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community
 
-*   [Embedded WG (⭐1.8k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
+*   [Embedded WG (⭐1.9k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
 
 ---
 

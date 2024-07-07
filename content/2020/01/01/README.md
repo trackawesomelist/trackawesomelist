@@ -16,11 +16,11 @@
 
 ### Schema / Code generation
 
-*   [scheme2ddl (⭐79)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+*   [scheme2ddl (⭐81)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 ### API / Samples
 
-*   [restSQL (⭐143)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐144)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -68,25 +68,13 @@
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / C companies
-
-*   CloudBees <https://www.previous.cloudbees.com/blog>
-
 ### Companies / E companies
 
 *   Expedia <https://medium.com/expedia-group-tech>
 
-### Companies / M companies
-
-*   Mixmax <https://engineering.mixmax.com/>
-
 ### Individuals/Group Contributors / N individuals
 
 *   Nic Raboy <https://www.thepolyglotdeveloper.com/blog/>
-
-### Products/Technologies / R technologies
-
-*   React <https://reactjs.org/blog/>
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

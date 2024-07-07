@@ -6,19 +6,29 @@
 
 
 
-## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### NoSQL / PicoLisp
+
+*   [Redis in Action](https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson
+
+### Windows Phone / Vulkan
+
+*   [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) (:card\_file\_box: *archived*)
+
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Multi-agents
 
 *   [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
 
-## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Fun / Terraform
 
 *   [Add equivalent of a like button in your README (⭐1)](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
-## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -32,14 +42,14 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  15m |
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Fleep.io](https://fleep.io/) — Fleep an alternative to Slack. It has a free plan for small teams with full message history, unlimited 1:1 conversations, 1 group conversation, and 1 GB file storage.
 *   [Chanty.com](https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, ten integrations, and 20 GB storage per team.
 
-## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Tutorials
 
@@ -53,7 +63,7 @@
 
 *   [How to build a JMeter plugin utilizing Groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 
-## [6. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [7. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Libraries / Integrations
 
@@ -75,25 +85,25 @@
 
 *   [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) [:octocat: (⭐4.2k)](https://github.com/Ultimaker/Cura) - Slicer application used to prepare your 3D models for printing with a 3D printer. Built with Uranium framework which is based on Qt 5 and Python 3.
 
-## [7. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
+## [8. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
 *   [slashbot (⭐18)](https://github.com/ebrassell/slashbot) - An easy way to create slash commands using AWS Lambda functions
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131/) - Learn the essential patterns and practices of domain-driven design and how to apply them in your day-to-day work, both in greenfield and brownfield projects.
 
-## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐174)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐180)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
-## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Code Generators / Text-Based User Interfaces
 
@@ -103,13 +113,13 @@
 
 *   [Lukas Eder](https://twitter.com/lukaseder) - Java Champion, speaker, Founder and CEO Data Geekery (jOOQ).
 
-## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Planning and Control / Vector Map
 
 *   [Ruckig](https://ruckig.com) - Instantaneous Motion Generation. Real-time. Jerk-constrained. Time-optimal.
 
-## [12. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [13. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tutorials
 
@@ -117,7 +127,7 @@
 
 ### Distributed Testing
 
-*   [Distributed Gatling (⭐98)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+*   [Distributed Gatling (⭐100)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ### Tools / Plugins
 
@@ -125,13 +135,7 @@
 
 ### Tools / Reporting
 
-*   [gatling-report (⭐114)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
-
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Misc
-
-*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
+*   [gatling-report (⭐117)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
 ## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

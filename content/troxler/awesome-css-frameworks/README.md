@@ -2,9 +2,19 @@
 
 List of awesome CSS frameworks in 2024
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/troxler/awesome-css-frameworks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) · ⭐ 7.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/troxler/awesome-css-frameworks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) · ⭐ 7.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/troxler/awesome-css-frameworks/week/README.md) / [Overview](/content/troxler/awesome-css-frameworks/readme/README.md) ]
+
+## [Jun 02, 2024](/content/2024/06/02/README.md)
+
+### General Purpose
+
+*   [**U.S. Web Design System**](https://designsystem.digital.gov/) - Components used by U.S. federal government websites.\
+    ![](https://img.shields.io/github/stars/uswds/uswds.svg?style=social\&label=Star)
+    [Docs](https://designsystem.digital.gov/components/overview/),
+    [Repo (⭐6.7k)](https://github.com/uswds/uswds)
+    \| #SCSS
 
 ## [May 10, 2024](/content/2024/05/10/README.md)
 
@@ -13,7 +23,7 @@ List of awesome CSS frameworks in 2024
 *   [**Stacks**](https://stackoverflow.design/) - UI components used by Stack Overflow.\
     ![](https://img.shields.io/github/stars/StackExchange/Stacks.svg?style=social\&label=Star)
     [Docs](https://stackoverflow.design/product/develop/using-stacks/),
-    [Repo (⭐596)](https://github.com/StackExchange/Stacks)
+    [Repo (⭐600)](https://github.com/StackExchange/Stacks)
     \| #LESS
 
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
@@ -22,7 +32,7 @@ List of awesome CSS frameworks in 2024
 
 *   [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.\
     ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social\&label=Star)
-    [Repo (⭐924)](https://github.com/beercss/beercss)
+    [Repo (⭐972)](https://github.com/beercss/beercss)
     \| #CSS
 
 ## [Sep 10, 2023](/content/2023/09/10/README.md)
@@ -32,8 +42,8 @@ List of awesome CSS frameworks in 2024
 *   [**Simple.css**](https://simplecss.org/) - Lightweight, classless CSS framework.\
     ![](https://img.shields.io/github/stars/kevquirk/simple.css?style=social\&label=Star)
     [Demo](https://simplecss.org/demo),
-    [Docs (⭐3.9k)](https://github.com/kevquirk/simple.css/wiki),
-    [Repo (⭐3.9k)](https://github.com/kevquirk/simple.css/)
+    [Docs (⭐4k)](https://github.com/kevquirk/simple.css/wiki),
+    [Repo (⭐4k)](https://github.com/kevquirk/simple.css/)
     \| #CSS
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
@@ -43,7 +53,7 @@ List of awesome CSS frameworks in 2024
 *   [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.\
     ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social\&label=Star)
     [Docs](https://materializecss.github.io/materialize/getting-started.html),
-    [Repo (⭐843)](https://github.com/materializecss/materialize)
+    [Repo (⭐851)](https://github.com/materializecss/materialize)
     \| #SCSS
 
 ### Specialized
@@ -54,7 +64,7 @@ List of awesome CSS frameworks in 2024
     \| #PostCSS
 *   [**7.css**](https://khang-nd.github.io/7.css/) - CSS library for building interfaces that look like Windows 7.\
     ![](https://img.shields.io/github/stars/khang-nd/7.css.svg?style=social\&label=Star)
-    [Repo (⭐1.4k)](https://github.com/khang-nd/7.css)
+    [Repo (⭐1.5k)](https://github.com/khang-nd/7.css)
     \| #PostCSS
 
 ## [Jul 09, 2022](/content/2022/07/09/README.md)
@@ -82,33 +92,33 @@ List of awesome CSS frameworks in 2024
     ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social\&label=Star)
     [Demo](https://picocss.com/#examples),
     [Docs](https://picocss.com/docs/),
-    [Repo (⭐12k)](https://github.com/picocss/pico)
+    [Repo (⭐13k)](https://github.com/picocss/pico)
     \| #SCSS
 *   [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.\
     ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
     [Demo](https://vanillaframework.io/docs/examples),
     [Docs](https://vanillaframework.io/docs/),
-    [Repo (⭐784)](https://github.com/canonical/vanilla-framework)
+    [Repo (⭐790)](https://github.com/canonical/vanilla-framework)
     \| #SCSS
 *   [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
     ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
     [Demo](https://www.patternfly.org/patterns/about-patterns),
     [Docs](https://www.patternfly.org/get-started/),
-    [Repo (⭐676)](https://github.com/patternfly/patternfly)
+    [Repo (⭐680)](https://github.com/patternfly/patternfly)
     \| #SCSS #LESS
 
 ### Specialized
 
 *   [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.\
     ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social\&label=Star)
-    [Repo (⭐5.8k)](https://github.com/edwardtufte/tufte-css)
+    [Repo (⭐5.9k)](https://github.com/edwardtufte/tufte-css)
     \| #CSS
 
 ### Stalled Development
 
 *   [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.\
     ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social\&label=Star)
-    [Repo (⭐1.9k)](https://github.com/inuitcss/inuitcss)
+    [Repo (⭐1.8k)](https://github.com/inuitcss/inuitcss)
     \| #SCSS
 *   [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.\
     ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
@@ -135,7 +145,7 @@ List of awesome CSS frameworks in 2024
     ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
     [Demo](https://open-props.style/#gallery),
     [Docs](https://open-props.style/#getting-started),
-    [Repo (⭐4.4k)](https://github.com/argyleink/open-props/)
+    [Repo (⭐4.5k)](https://github.com/argyleink/open-props/)
     \| #CSS #PostCSS
 
 ## [Aug 17, 2021](/content/2021/08/17/README.md)
@@ -226,7 +236,7 @@ List of awesome CSS frameworks in 2024
 *   [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.\
     ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social\&label=Star)
     [Demo](https://oxal.org/projects/sakura/demo/),
-    [Repo (⭐4k)](https://github.com/oxalorg/sakura)
+    [Repo (⭐4.1k)](https://github.com/oxalorg/sakura)
     \| #SCSS
 *   [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.\
     ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social\&label=Star)
@@ -297,12 +307,12 @@ List of awesome CSS frameworks in 2024
 *   [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.\
     ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social\&label=Star)
     [Docs](https://concisecss.com/documentation/),
-    [Repo (⭐941)](https://github.com/ConciseCSS/concise.css)
+    [Repo (⭐940)](https://github.com/ConciseCSS/concise.css)
     \| #SCSS
 *   [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.\
     ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social\&label=Star)
     [Docs](https://responsivebp.com/getting-started/),
-    [Repo (⭐865)](https://github.com/responsivebp/responsive)
+    [Repo (⭐866)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
 ## [Jan 11, 2019](/content/2019/01/11/README.md)
@@ -341,7 +351,7 @@ List of awesome CSS frameworks in 2024
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐309)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐310)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [Sep 09, 2018](/content/2018/09/09/README.md)
@@ -358,7 +368,7 @@ List of awesome CSS frameworks in 2024
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
     [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
     [Docs](https://jenil.github.io/chota/#docs),
-    [Repo (⭐1.3k)](https://github.com/jenil/chota)
+    [Repo (⭐1.4k)](https://github.com/jenil/chota)
     \| #CSS
 
 ### General Purpose
@@ -457,7 +467,7 @@ List of awesome CSS frameworks in 2024
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐8.6k)](https://github.com/jdan/98.css)
+    [Repo (⭐8.7k)](https://github.com/jdan/98.css)
     \| #CSS
 
 ## [Sep 10, 2017](/content/2017/09/10/README.md)
@@ -482,5 +492,5 @@ List of awesome CSS frameworks in 2024
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐326)](https://github.com/justinhough/Centurion)
+    [Docs (⭐325)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐325)](https://github.com/justinhough/Centurion)

@@ -104,7 +104,7 @@
 
 ### Network / Other Resources
 
-*   [Malcolm (⭐313)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
+*   [Malcolm (⭐327)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
     deployable network traffic analysis tool suite for full packet capture artifacts
     (PCAP files) and Zeek logs.
 
@@ -112,7 +112,7 @@
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐152)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Facebook Audience Network (⭐153)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 
 ## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐57)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐59)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

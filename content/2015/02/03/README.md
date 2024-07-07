@@ -16,7 +16,7 @@
 
 ### Loading Status / Runner
 
-*   [Mprogress.js (⭐1.6k)](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
+*   [Mprogress.js (⭐1.5k)](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 
 ---
 

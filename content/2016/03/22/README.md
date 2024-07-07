@@ -49,7 +49,7 @@
 
 ### ORM and Datamapping
 
-*   [github\_ecto (⭐120)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
+*   [github\_ecto (⭐121)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

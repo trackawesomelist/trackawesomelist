@@ -190,7 +190,7 @@
 
 *   [annoy (⭐13k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1.1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
-*   [implicit (⭐3.4k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+*   [implicit (⭐3.5k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
 ## [20. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -358,7 +358,7 @@
 
 ### Scheduling
 
-*   [schedule.cr (⭐73)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐74)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [27. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -422,11 +422,11 @@
 
 ### Networking
 
-*   [Breep (⭐115)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐135)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐466)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐469)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -438,7 +438,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-image-lightbox (⭐346)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
-*   [vue2-simplert (⭐215)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
+*   [vue2-simplert (⭐214)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
 ## [33. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
@@ -477,7 +477,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐462)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐461)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 

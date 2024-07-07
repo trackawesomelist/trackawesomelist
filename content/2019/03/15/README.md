@@ -60,7 +60,7 @@ Free
 ### Free eBooks / Single Topics
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 
 ### Books / Single Topics
 
@@ -229,7 +229,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.2k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

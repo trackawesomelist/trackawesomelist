@@ -2,7 +2,7 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 198 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 212 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / Overview ]
 
@@ -25,24 +25,24 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
 *   [Netflix/Hystrix (⭐24k)](https://github.com/Netflix/Hystrix/wiki)
-*   [aws/aws-parallelcluster (⭐812)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐816)](https://github.com/aws/aws-parallelcluster/wiki)
 *   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
 *   [thinkaurelius/titan (⭐5.2k)](https://github.com/thinkaurelius/titan/wiki)
 *   [guard/guard (⭐6.2k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [apple/foundationdb (⭐14k)](https://github.com/apple/foundationdb/wiki)
-*   [google/guava (⭐49k)](https://github.com/google/guava/wiki)
-*   [hyperledger/cacti (⭐321)](https://github.com/hyperledger/cacti/wiki)
-*   [facebook/react-native (⭐116k)](https://github.com/facebook/react-native/wiki)
+*   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
+*   [hyperledger/cacti (⭐323)](https://github.com/hyperledger/cacti/wiki)
+*   [facebook/react-native (⭐117k)](https://github.com/facebook/react-native/wiki)
 *   [FortAwesome/Font-Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome/wiki)
-*   [uber/NullAway (⭐3.5k)](https://github.com/uber/NullAway/wiki)
-*   [internetarchive/openlibrary (⭐4.9k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [uber/NullAway (⭐3.6k)](https://github.com/uber/NullAway/wiki)
+*   [internetarchive/openlibrary (⭐5k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## Useful links with tips & tricks
 
 *   [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 *   [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 *   [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
-*   [Search wiki of the repository on GitHub (⭐195)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐194)](https://github.com/linyows/github-wiki-search)
 *   [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
 *   [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 *   [GitHub Projects, Teams, Fork & Wiki For Documenting Projects](https://www.softwaretestinghelp.com/github-projects-teams-fork-wiki)
@@ -72,6 +72,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [ToC or Sidebar in GitHub Wiki](https://stackoverflow.com/questions/9239588/toc-or-sidebar-in-github-wiki)
 *   [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
 *   [How to style a JSON block in GitHub Wiki?](https://stackoverflow.com/questions/14901245/how-to-style-a-json-block-in-github-wiki)
+*   [Render package documentation into GitHub wiki](https://stackoverflow.com/questions/27451937/render-package-documentation-into-github-wiki)
 
 ## Contributing
 

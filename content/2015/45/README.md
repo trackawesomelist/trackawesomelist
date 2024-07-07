@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-27 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -110,11 +110,11 @@
 
 ### Admin Interface
 
-*   [Administrate (⭐5.8k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+*   [Administrate (⭐5.9k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 
 ### API Builder and Discovery
 
-*   [Her (⭐2k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
+*   [Her (⭐2.1k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 
 ### CLI Utilities
 
@@ -203,7 +203,7 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐326)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐328)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 
@@ -214,18 +214,6 @@
 *   [toniq (⭐341)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / J companies
-
-*   Jolly Good Code <https://jollygoodcode.github.io/>
-
-### Companies / W companies
-
-*   We Are Wizards <https://blog.wearewizards.io/>
-
-### Companies / Z companies
-
-*   Zenefits <https://engineering.zenefits.com/posts/>
 
 ### Individuals/Group Contributors / D individuals
 
@@ -290,18 +278,14 @@ git describe --tags --abbrev=0
 
 ## [24. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
-### Packages / Mad science
-
-*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-
 ### Packages / Command-line apps
 
-*   [Jsome (⭐241)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐242)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ### Packages / Command-line utilities
 
-*   [chalk (⭐21k)](https://github.com/chalk/chalk) - Terminal string styling done right.
-*   [multispinner (⭐293)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [chalk (⭐22k)](https://github.com/chalk/chalk) - Terminal string styling done right.
+*   [multispinner (⭐295)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ### Packages / Streams
 
@@ -317,24 +301,24 @@ git describe --tags --abbrev=0
 
 ### Packages / Parsing
 
-*   [PEG.js (⭐4.7k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+*   [PEG.js (⭐4.8k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.7k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.8k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.5k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.6k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
-*   [minimize (⭐164)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
 *   [imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
-*   [n (⭐18k)](https://github.com/tj/n) - Node.js version management.
+*   [n (⭐19k)](https://github.com/tj/n) - Node.js version management.
 
 ### Packages / Process management
 
@@ -356,10 +340,24 @@ git describe --tags --abbrev=0
 
 ### UI / Barcode
 
-*   [GMStepper (⭐924)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Agda
+
+*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+
+### Groovy / Spock Framework
+
+*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Guide to Python's Magic Methods (⭐1.7k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+
+## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -399,7 +397,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

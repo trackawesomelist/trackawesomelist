@@ -10,7 +10,7 @@
 
 ### Patterns
 
-*   [App Architecture (⭐2k)](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
+*   [App Architecture (⭐2.1k)](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
 
 ### Alert / Barcode
 

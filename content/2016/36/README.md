@@ -22,7 +22,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Fileintel (⭐113)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+*   [Fileintel (⭐115)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [Hostintel (⭐258)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
@@ -49,7 +49,7 @@
 
 ### Misc
 
-*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐382)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
@@ -174,9 +174,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐385)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐392)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.3k)](https://github.com/tcdi/pgx)
+*   Rust: [rust-postgresql (⭐3.4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.4k)](https://github.com/tcdi/pgx)
 
 ## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -452,7 +452,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Configuration
 
-*   [confex (⭐300)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐301)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
@@ -469,7 +469,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Video
 
-*   [silent\_video (⭐20)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐19)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

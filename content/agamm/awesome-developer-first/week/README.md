@@ -2,9 +2,39 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 794 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 809 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Jun 10 - Jun 16, 2024](/content/2024/24/README.md)
+
+### IDE
+
+*   [MarsCode](https://www.marscode.com/?utm_source=github\&utm_medium=rm) - AI-powered cloud-based IDE.
+
+## [Jun 03 - Jun 09, 2024](/content/2024/23/README.md)
+
+### Misc
+
+*   [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
+
+### Monitoring
+
+*   [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
+
+### Security
+
+*   [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code.
+
+### Testing
+
+*   [CodSpeed](https://github.com/agamm/awesome-developer-first/blob/main/README.md/codspeed.io) - Continuous Performance Testing in CI environments.
+
+## [May 27 - Jun 02, 2024](/content/2024/22/README.md)
+
+### Feature Flags
+
+*   [Statsig](https://statsig.com/) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
@@ -140,7 +170,7 @@ A curated list of awesome developer-first tools products.
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐456)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐465)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 

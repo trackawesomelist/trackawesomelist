@@ -226,7 +226,6 @@
 
 *   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/). Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg).
 *   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks (“food webs”).
-*   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -264,7 +263,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐91)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐90)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 
@@ -327,7 +326,11 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐659)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐664)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+
+### Components & Libraries / Frameworks
+
+*   [CabloyJS (⭐930)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Components
 
@@ -335,10 +338,6 @@
 *   [simple-vue2-datetimepicker (⭐3)](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
 *   [vue-business-hours (⭐50)](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
 *   [material-vue-daterange-picker (⭐72)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
-
-### Components & Libraries / Frameworks
-
-*   [CabloyJS (⭐927)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
@@ -349,10 +348,10 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐5.1k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐628)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐503)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐175)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐634)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐180)](http://github.com/sslotin/algo)
 
 ## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -406,7 +405,7 @@
 
 ### Network / Other Resources
 
-*   [Malcolm (⭐313)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
+*   [Malcolm (⭐327)](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily
     deployable network traffic analysis tool suite for full packet capture artifacts
     (PCAP files) and Zeek logs.
 
@@ -414,16 +413,16 @@
 
 ### UI
 
-*   [Direct Select (⭐725)](https://github.com/LanarsInc/direct-select-flutter) <!--stargazers:LanarsInc/direct-select-flutter--> - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐756)](https://github.com/LanarsInc/direct-select-flutter) <!--stargazers:LanarsInc/direct-select-flutter--> - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐6.4k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐6.6k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐152)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
-*   [Square In-App Payments SDK (⭐332)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Facebook Audience Network (⭐153)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Square In-App Payments SDK (⭐331)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ### Top / Game Engine resources
 
@@ -453,7 +452,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐57)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐59)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -469,7 +468,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐148)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐150)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -674,20 +673,20 @@
 
 ### Programming Languages
 
-*   [Pascal (⭐1.7k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.8k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Theory
 
-*   [Algorithms (⭐18k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐577)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐593)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐662)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐675)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐785)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐798)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

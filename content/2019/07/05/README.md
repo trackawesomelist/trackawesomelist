@@ -83,7 +83,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐845)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐941)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐22)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
@@ -96,7 +96,7 @@
 
 ### Contents / Routing
 
-*   [Wouter (⭐6k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
+*   [Wouter (⭐6.3k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

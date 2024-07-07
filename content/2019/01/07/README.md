@@ -42,7 +42,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.8k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐2.9k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Testing
 
-*   [crytic (⭐65)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+*   [crytic (⭐66)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

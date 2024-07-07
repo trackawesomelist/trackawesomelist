@@ -16,7 +16,7 @@
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐273)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐274)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -45,14 +45,14 @@
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐2.8k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
-*   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+*   [TimelineJS v3 (⭐2.9k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
-*   [File Scanning Framework (⭐282)](https://github.com/EmersonElectricCo/fsf) -
+*   [File Scanning Framework (⭐283)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)

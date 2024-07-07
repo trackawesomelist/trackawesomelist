@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19 - May 25, 2014
 
-4 awesome lists updated this week.
+5 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,26 @@
 *   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 *   [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
-## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### D / Non-X86
+
+*   [D Templates Tutorial (⭐227)](https://github.com/PhilippeSigaud/D-templates-tutorial)
+
+### MATLAB / PicoLisp
+
+*   [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
+*   [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
+
+### PHP / PicoLisp
+
+*   [PHP Security Guide](http://phpsec.org/projects/guide/)
+
+### R / Tornado
+
+*   [The R Manuals](http://cran.r-project.org/manuals.html)
+
+## [5. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Build-time transpilation / Broccoli Plugins
 

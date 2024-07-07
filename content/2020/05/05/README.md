@@ -32,7 +32,7 @@
 
 ### Bouncers / Self-hosted
 
-*   [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐1.9k)](https://github.com/znc/znc)) `C++`
+*   [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐2k)](https://github.com/znc/znc)) `C++`
 *   [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
@@ -116,7 +116,7 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐804)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐808)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

@@ -14,19 +14,19 @@
 
 ## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
-### IR Tools Collection / Evidence Collection
-
-*   [Margarita Shotgun (⭐236)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
-
 ### IR Tools Collection / Other Tools
 
 *   [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
+### Incident Response tools / Evidence collection
+
+*   [Margarita Shotgun (⭐236)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+
 ### Incident Response tools / Sandboxes
 
-*   [aws\_ir (⭐335)](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+*   [aws\_ir (⭐339)](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Yara Finder](https://github.com/uppusaikiran/yara-finder) - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
+*   [Yara Finder (⭐0)](https://github.com/uppusaikiran/yara-finder) - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Reactive programming
 
-*   [Cells (⭐208)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐210)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Job processing / Third-party APIs
 

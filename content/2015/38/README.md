@@ -221,8 +221,8 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐112)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐62)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐115)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐63)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -484,7 +484,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Third Party APIs
 
-*   [airbrakex (⭐26)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
+*   [airbrakex (⭐27)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 
 ## [24. Amas](/content/sindresorhus/amas/week/README.md)
 

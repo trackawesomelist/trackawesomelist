@@ -6,6 +6,12 @@ GeoJSON utilities that will make your life easier.
 
 [ Daily / [Weekly](/content/tmcw/awesome-geojson/week/README.md) / [Overview](/content/tmcw/awesome-geojson/readme/README.md) ]
 
+## [Jul 07, 2024](/content/2024/07/07/README.md)
+
+### operations
+
+*   [geojson-shave (⭐43)](https://github.com/ben-n93/geojson-shave): a Python command-line tool for reducing the size of GeoJSON files.
+
 ## [May 23, 2024](/content/2024/05/23/README.md)
 
 ### editors & viewers
@@ -16,7 +22,7 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-*   [antimeridian (⭐39)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
+*   [antimeridian (⭐42)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -29,19 +35,19 @@ GeoJSON utilities that will make your life easier.
 ### conversion
 
 *   [topojson for Python (⭐175)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-*   [geomet (⭐167)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
+*   [geomet (⭐168)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### data
 
-*   [france-geojson (⭐701)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+*   [france-geojson (⭐714)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### resources
 
-*   [geojson-invalid-geometry (⭐30)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
+*   [geojson-invalid-geometry (⭐31)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
 
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
@@ -53,7 +59,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-*   [betterknown (⭐36)](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
+*   [betterknown (⭐38)](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
 
 ## [Aug 02, 2022](/content/2022/08/02/README.md)
 
@@ -77,47 +83,47 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-*   [turf (⭐8.8k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
-*   [turf\_dart (⭐59)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+*   [turf (⭐9k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf\_dart (⭐62)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 
 ## [Jan 08, 2022](/content/2022/01/08/README.md)
 
 ### operations
 
-*   [de9im (⭐25)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+*   [de9im (⭐26)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 
 ## [Dec 04, 2021](/content/2021/12/04/README.md)
 
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐670)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐676)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐12)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐95)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
-    *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
-    *   [geojsontoosm (⭐20)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [osm2geojson (⭐96)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [minjur (⭐59)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
+    *   [geojsontoosm (⭐21)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
-    *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐155)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐670)](https://github.com/tyrasd/osmtogeojson)
+    *   [osm-and-geojson (⭐90)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [geojson2osm-es6 (⭐1)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+    *   [query-overpass (⭐156)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐676)](https://github.com/tyrasd/osmtogeojson)
 
 ## [Oct 20, 2021](/content/2021/10/20/README.md)
 
 ### validation
 
-*   [check-geojson (⭐64)](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐65)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [Sep 05, 2021](/content/2021/09/05/README.md)
 
 ### data
 
-*   [historical-basemaps (⭐420)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐432)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [Jun 24, 2021](/content/2021/06/24/README.md)
 
 ### validation
 
-*   [gjf (⭐100)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+*   [gjf (⭐101)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 
 ## [Jun 21, 2021](/content/2021/06/21/README.md)
 
@@ -147,7 +153,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-*   [togeojson (⭐391)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐401)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [Feb 03, 2019](/content/2019/02/03/README.md)
 
@@ -162,13 +168,13 @@ GeoJSON utilities that will make your life easier.
     *   [csv2geojson (⭐360)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
     *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
 *   [vt-geojson (⭐60)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-*   [tokml (⭐183)](https://github.com/mapbox/tokml): convert GeoJSON to KML
-*   [wellknown (⭐261)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+*   [tokml (⭐184)](https://github.com/mapbox/tokml): convert GeoJSON to KML
+*   [wellknown (⭐264)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
 *   [geoxform (⭐14)](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 *   **SVG**
-    *   [geojson2svg (⭐209)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
+    *   [geojson2svg (⭐213)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
     *   [geojson-svgify (⭐17)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
-    *   [geojson-to-svg-cli (⭐26)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
+    *   [geojson-to-svg-cli (⭐27)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
     *   [svg-to-geojson (⭐114)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 *   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 *   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
@@ -197,7 +203,7 @@ GeoJSON utilities that will make your life easier.
 
 ### data
 
-*   [geo-maps (⭐1.2k)](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
+*   [geo-maps (⭐1.3k)](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
 
 ## [Sep 28, 2017](/content/2017/09/28/README.md)
 
@@ -209,7 +215,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-*   [CoGran (⭐106)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+*   [CoGran (⭐108)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 
 ## [Mar 11, 2017](/content/2017/03/11/README.md)
 
@@ -221,8 +227,8 @@ GeoJSON utilities that will make your life easier.
 
 ### serialization
 
-*   [geojson-jackson (⭐259)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-*   [mapbox-java (⭐405)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐23k)](https://github.com/google/gson))
+*   [geojson-jackson (⭐262)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐410)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐23k)](https://github.com/google/gson))
 
 ### resources
 
@@ -245,7 +251,7 @@ GeoJSON utilities that will make your life easier.
 
 ### editors & viewers
 
-*   [geojson2image (⭐12)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
+*   [geojson2image (⭐13)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
 ## [Dec 05, 2016](/content/2016/12/05/README.md)
 
@@ -265,7 +271,7 @@ GeoJSON utilities that will make your life easier.
 ### data
 
 *   [world-atlas (⭐1k)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐862)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [us-atlas (⭐866)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [Jul 21, 2016](/content/2016/07/21/README.md)
 
@@ -299,7 +305,7 @@ GeoJSON utilities that will make your life easier.
 
 ### services
 
-*   [geojsonio-cli (⭐168)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐170)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 
@@ -309,7 +315,7 @@ GeoJSON utilities that will make your life easier.
 
 ### serialization
 
-*   [rgeo-geojson (⭐182)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [Nov 30, 2015](/content/2015/11/30/README.md)
 
@@ -335,7 +341,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-*   [esri2open (⭐251)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐254)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [Jun 10, 2015](/content/2015/06/10/README.md)
 
@@ -374,14 +380,14 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-*   [geojson-coords (⭐30)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
-*   [geojson-js-utils (⭐404)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐230)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-coords (⭐31)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
+*   [geojson-js-utils (⭐403)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐231)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 *   [geojson-normalize (⭐32)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
 *   [geojson-summary (⭐34)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐175)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐176)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### services
 
@@ -400,20 +406,20 @@ GeoJSON utilities that will make your life easier.
 ### data
 
 *   [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
-*   [openflights-geojson (⭐27)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+*   [openflights-geojson (⭐28)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 
 ## [May 28, 2015](/content/2015/05/28/README.md)
 
 ### operations
 
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-rewind (⭐121)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐122)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
 
-*   [geojsonhint (⭐256)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐257)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### serialization
 
-*   [python-geojson (⭐890)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐252)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐898)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐263)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes

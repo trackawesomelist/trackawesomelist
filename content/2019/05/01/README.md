@@ -22,13 +22,13 @@
 
 ### Vision / Augmented Reality
 
-*   [ARCore Plugin (⭐420)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+*   [ARCore Plugin (⭐426)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
-*   [Production-Dependencies-Guard (⭐88)](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
+*   [Production-Dependencies-Guard (⭐87)](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
 
 ## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

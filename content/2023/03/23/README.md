@@ -31,19 +31,19 @@
 ### Libraries / Rust
 
 *   Rust: Audio
-    *   🎉 [Kira (⭐819)](https://github.com/tesselode/kira) - Create expressive audio for games.
+    *   🎉 [Kira (⭐835)](https://github.com/tesselode/kira) - Create expressive audio for games.
 *   Rust: Gui
     *   🔒 [Azul (⭐5.8k)](https://github.com/fschutt/azul) - Desktop gui framework.
     *   🎉 [Dioxus (⭐19k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
     *   🎉 [Druid (⭐9.4k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
-    *   🎉 [egui (⭐20k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
-    *   🔒 [Slint (⭐15k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
+    *   🎉 [egui (⭐21k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
+    *   🔒 [Slint (⭐16k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐122)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐130)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

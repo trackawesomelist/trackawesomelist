@@ -10,7 +10,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Magic Number Detector (⭐541)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐547)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 
 ### Table of Contents / Event
 
@@ -24,7 +24,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Foster (⭐342)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+*   :tada: [Foster (⭐377)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
 
 ---
 

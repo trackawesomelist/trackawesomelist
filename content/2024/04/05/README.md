@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2024
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-finance (⭐10)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+*   [polars-finance (⭐11)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -32,19 +32,13 @@
 *   [Forgejo](https://forgejo.org/) - Forgejo is a self-hosted lightweight software forge.
 *   [GitLab](https://about.gitlab.com/) - GitLab a DevOps software package that can develop, secure, and operate software.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
-### Continuous Integration
+### Debug
 
-*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. \[MIT]/\[Apache2]
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Development and Design
-
-*   [Biblioteca (⭐47)](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -54,25 +48,19 @@
 
 *   [Teaminal](https://www.teaminal.com) - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.
 
-## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Helpers
 
 *   [GameStateManager (⭐6)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Resources / Ironsworn
-
-*   [Iron Atlas: Map of the Ironlands](https://jaderavens.itch.io/iron-atlas-world-map) - Detailed, hi-res, hand-drawn map of the Ironlands
-
-## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Example Apps
 
 *   [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project (⭐2.5k)](https://github.com/GladysAssistant/Gladys))*.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
@@ -80,13 +68,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [ptdewey/yankbank-nvim (⭐40)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+*   [ptdewey/yankbank-nvim (⭐45)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐18k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐19k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Utility / Barcode
 
-*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐643)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
@@ -87,7 +87,7 @@
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn
+### Learning Guides
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
@@ -102,7 +102,7 @@
 *   [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Beginners' course to Elm and Data
 *   [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 *   [Elm Tutorial](https://sporto.gitbooks.io/elm-tutorial/content/) - A tutorial on developing single page web applications with Elm.

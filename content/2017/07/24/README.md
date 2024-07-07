@@ -56,21 +56,21 @@
 
 ### Python / General
 
-*   [SteamAPI (⭐436)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
+*   [SteamAPI (⭐452)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 
 ### Python / Game Interaction
 
-*   [csgo (⭐116)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
-*   [dota2 (⭐177)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
+*   [csgo (⭐122)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+*   [dota2 (⭐198)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
 
 ### Python / Misc
 
-*   [vpk (⭐137)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
-*   [vdf (⭐149)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
+*   [vpk (⭐160)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+*   [vdf (⭐165)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### Tutorials / Misc
 
-*   [In-depth Steam Bot Guide with Node.js (⭐580)](https://github.com/andrewda/node-steam-guide)
+*   [In-depth Steam Bot Guide with Node.js (⭐613)](https://github.com/andrewda/node-steam-guide)
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

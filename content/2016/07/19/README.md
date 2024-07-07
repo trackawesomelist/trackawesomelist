@@ -6,11 +6,17 @@
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Advanced Web Machinery <https://advancedweb.hu/>
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
-*   [ueberauth\_cas (⭐15)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
+*   [ueberauth\_cas (⭐16)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
 *   [ueberauth\_line (⭐4)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
 
 ### Cloud Infrastructure and Management
@@ -27,21 +33,21 @@
 
 ### Utilities
 
-*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
-## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Resources / Articles
 
 *   [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 
-## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Caching
 
 *   [cache (⭐134)](https://github.com/fogfish/cache) - In-memory Segmented Cache
 
-## [4. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### Learning Resources
 
@@ -51,33 +57,23 @@
 
 *   [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
 
-## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
+## [6. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [日本語 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Date and Time
 
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Videos / Video tutorials
+### Learning Guides / Learning Videos
 
 *   [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
-
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / A companies
-
-*   Advanced Web Machinery <https://advancedweb.hu/>
-
-### Companies / K companies
-
-*   King <https://techblog.king.com/>
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

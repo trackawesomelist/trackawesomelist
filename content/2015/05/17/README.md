@@ -29,8 +29,8 @@
 ### Framework Components
 
 *   [passport (⭐160)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐384)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
-*   [plug\_cloudflare (⭐21)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
+*   [phoenix\_html (⭐390)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [plug\_cloudflare (⭐22)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
 ### HTTP
@@ -44,7 +44,7 @@
 
 ### Lexical analysis
 
-*   [lex\_luthor (⭐31)](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
+*   [lex\_luthor (⭐33)](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
 
 ### Logging
 
@@ -77,12 +77,12 @@
 
 ### REST and API
 
-*   [detergent (⭐63)](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
+*   [detergent (⭐64)](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
 
 ### Testing
 
 *   [espec\_phoenix (⭐137)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐895)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [mix\_test\_watch (⭐904)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
@@ -97,7 +97,7 @@
 *   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
 *   [redtube (⭐8)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 *   [riemann (⭐57)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-*   [statix (⭐274)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
+*   [statix (⭐275)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations
 
@@ -119,19 +119,19 @@
 
 *   [chopshop (⭐487)](https://github.com/MITRECND/chopshop) - Protocol analysis and
     decoding framework.
-*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
+*   [Moloch (⭐6.2k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
     and database system.
 
 ### Storage and Workflow / Other Resources
 
-*   [Aleph (⭐153)](https://github.com/merces/aleph) - Open Source Malware Analysis
+*   [Aleph (⭐154)](https://github.com/merces/aleph) - Open Source Malware Analysis
     Pipeline System.
 *   [CRITs](https://crits.github.io/) - Collaborative Research Into Threats, a
     malware and threat repository.
 
 ### Miscellaneous / Other Resources
 
-*   [DC3-MWCP (⭐280)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
+*   [DC3-MWCP (⭐290)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
     The Defense Cyber Crime Center's Malware Configuration Parser framework.
 
 ---

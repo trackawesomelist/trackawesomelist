@@ -28,8 +28,8 @@
 
 ### Libraries / Scripting
 
-*   [gluon-lang/gluon (⭐3.1k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐746)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
+*   [murarth/ketos (⭐749)](https://github.com/murarth/ketos) - A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-img (⭐417)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
+*   [v-img (⭐416)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
 
 ---
 

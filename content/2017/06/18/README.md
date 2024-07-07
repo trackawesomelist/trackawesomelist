@@ -48,21 +48,21 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [CloudFail (⭐2.1k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+*   [CloudFail (⭐2.2k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Logging
 
-*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging
+*   [slog-rs/slog (⭐1.6k)](https://github.com/slog-rs/slog) - Structured, composable logging
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.7k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐7.8k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

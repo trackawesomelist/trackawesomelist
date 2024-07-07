@@ -174,8 +174,8 @@
 
 ### Plugins / IRC
 
-*   [Composer-Bin-Plugin (⭐386)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
-*   [Composer-Inheritance-Plugin (⭐24)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
+*   [Composer-Bin-Plugin (⭐453)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
+*   [Composer-Inheritance-Plugin (⭐28)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 
 ## [5. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
 

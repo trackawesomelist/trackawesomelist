@@ -48,7 +48,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐790)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐792)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -63,7 +63,7 @@
 
 *   C#
     *   [by @shkolovy (⭐32)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.8k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @aalhour (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.3k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ---

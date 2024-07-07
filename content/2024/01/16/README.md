@@ -11,7 +11,6 @@
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
 *   [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
-*   [CIDOC 2024 & Frontiers of knowledge, museums, documentation, and linked data](https://cidoc.mini.icom.museum/events/next-conference/) – Nov. 11–15 in Amsterdam, the Netherlands.
 
 ## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -29,56 +28,45 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-prefetch (⭐8)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+*   [vite-plugin-bundle-prefetch (⭐11)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Utility / Diagnostics
+### CSV Files / Diagnostics
 
-*   [theKnightsOfRohan/csvlens.nvim (⭐28)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.3k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐30)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.4k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
-*   [pianocomposer321/officer.nvim (⭐19)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+*   [pianocomposer321/officer.nvim (⭐18)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
 ## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
-*   :earth\_americas: [Awesome executable packing (⭐960)](https://github.com/packing-box/awesome-executable-packing)
+*   :earth\_americas: [Awesome executable packing (⭐1.1k)](https://github.com/packing-box/awesome-executable-packing)
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: [2-SPIFF: A 2-stage packer identification method based on function call graph and file attributes](https://doi.org/10.1007/s10489-021-02347-w) (December 2021)  :star:
-*   :mortar\_board: [An application of machine learning to analysis of packed mac malware](https://scholar.dsu.edu/theses/381) (May 2022)  :star:
+*   :mortar\_board: [An application of machine learning to analysis of packed mac malware](https://scholar.dsu.edu/theses/381) (May 2022)
 *   :newspaper: [Automatic generation of adversarial examples for interpreting malware classifiers](https://www.semanticscholar.org/reader/040a0020e054e050e52a829902cfe0defad8c6ac) (March 2020)
-*   :newspaper: Birds of a feature: Intrafamily clustering for version identification of packed malware (September 2020)  :star:
-*   :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022)  :star:
+*   :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022)
 *   :mortar\_board: [Complexity-based packed executable classification with high accuracy](https://caislab.kaist.ac.kr/publication/thesis_files/2009/Thesis_Hanyoung.pdf) (December 2008)
-*   :notebook: A comprehensive solution for obfuscation detection and removal based on comparative analysis of deobfuscation tools (October 2021)  :star:
 *   :notebook: [Deceiving portable executable malware classifiers into targeted misclassification with practical adversarial examples](https://doi.org/10.1145/3374664.3375741) (March 2020)
 *   :newspaper: [Detecting obfuscated malware using reduced opcode set and optimised runtime trace](https://security-informatics.springeropen.com/articles/10.1186/s13388-016-0027-2) (May 2016)
-*   :notebook: A dynamic heuristic method for detecting packed malware using naive bayes (November 2019)  :star:
 *   :question: [Generating adversarial malware examples for black-box attacks based on GAN](http://arxiv.org/abs/1702.05983) (February 2020)
 *   :newspaper: [An improved method for packed malware detection using PE header and section table information](https://www.mecs-press.org/ijcnis/ijcnis-v11-n9/v11n9-2.html) (September 2019)
 *   :question: [Intriguing properties of adversarial ML attacks in the problem space](http://arxiv.org/abs/1911.02142) (March 2020)
 *   :question: [MAB-Malware: A reinforcement learning framework for attacking static malware classifiers](http://arxiv.org/abs/2003.03100) (April 2021)
-*   :notebook: [A machine-learning-based framework for supporting malware detection and analysis](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_25) (September 2021)  :star:
+*   :notebook: [A machine-learning-based framework for supporting malware detection and analysis](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_25) (September 2021)
 *   :newspaper: [MaliCage: A packed malware family classification framework based on DNN and GAN](https://www.sciencedirect.com/science/article/pii/S2214212622001296) (August 2022)  :star:
-*   :notebook: MetaAware: Identifying metamorphic malware (December 2007)
-*   :notebook: Obfuscator-LLVM: Software protection for the masses (May 2015)
 *   :question: [On evaluating adversarial robustness](http://arxiv.org/abs/1902.06705) (February 2019)
 *   :newspaper: [Packer classification based on association rule mining](https://www.sciencedirect.com/science/article/pii/S1568494622005245) (September 2022)  :star:
-*   :notebook: Packer identification method for multi-layer executables with k-Nearest neighbor of entropies (October 2020)  :star:
 *   :notebook: [PackGenome: Automatically generating robust YARA rules for accurate malware packer detection](https://dl.acm.org/doi/10.1145/3576915.3616625) (November 2023)  :star:
-*   :notebook: SOK: (state of) the art of war: Offensive techniques in binary analysis (May 2016)
-*   :notebook: [SoK: Automatic deobfuscation of virtualization-protected applications](https://doi.org/10.1145/3465481.3465772) (2021)  :star:
 *   :question: [A survey on adversarial attacks for malware analysis](http://arxiv.org/abs/2111.08223) (January 2022)
 *   :newspaper: [A survey on run-time packers and mitigation techniques](https://link.springer.com/article/10.1007/s10207-023-00759-y) (November 2023)  :star:
-*   :notebook: Symbolic deobfuscation: From virtualized code back to the original (2018)
-*   :notebook: [Symbolic execution of obfuscated code](https://dl.acm.org/doi/10.1145/2810103.2813663) (October 2015)  :star:
+*   :notebook: [Symbolic execution of obfuscated code](https://dl.acm.org/doi/10.1145/2810103.2813663) (October 2015)
 *   :question: [Technical report on the cleverhans v2.1.0 adversarial examples library](http://arxiv.org/abs/1610.00768) (June 2018)
-*   :notebook: Towards static analysis of virtualization-obfuscated binaries (2012-10)
 *   :notebook: [VMHunt: A verifiable approach to partially-virtualized binary code simplification](https://dl.acm.org/doi/10.1145/3243734.3243827) (October 2018)
 
 ### :bookmark_tabs: Datasets / Scientific Research
@@ -90,7 +78,7 @@
 
 *   [OSX\_Packer](https://github.com/AlysonBee/OSX_Packer) - Binary packer for the Mach-O file format.
 *   [Pakr (⭐6)](https://github.com/iangcarroll/pakr) - In-memory packer for macOS Mach-O bundles.
-*   [VirtualMachineObfuscationPoC (⭐724)](https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
+*   [VirtualMachineObfuscationPoC](https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
 
 ### :package: Packers / Between 2000 and 2010
 
@@ -98,14 +86,14 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
-*   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
+*   [VMHunt (⭐171)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
+*   [yarGen (⭐1.5k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
-*   [Rapidgzip (⭐324)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
+*   [Rapidgzip (⭐341)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
 ### Inter-process communication
 
@@ -115,13 +103,13 @@
 
 ### Applications / Graphics
 
-*   [wahn/rs\_pbrt (⭐797)](https://github.com/wahn/rs_pbrt) — Implements a counterpart to the PBRT book's (3rd edition) C++ code.
+*   [wahn/rs\_pbrt (⭐804)](https://github.com/wahn/rs_pbrt) - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
 
 ## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### AI
 
-*   [AutoGen (⭐26k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐28k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -141,7 +129,7 @@
 
 ### Hardware
 
-*   [Train departure Display (⭐225)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
+*   [Train departure Display (⭐233)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### Transit Map Creation
 
@@ -219,12 +207,12 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitbake (⭐1)](https://github.com/antznin/zsh-bitbake) - Completions for [bitbake](https://git.openembedded.org/bitbake).
+*   [bitbake (⭐2)](https://github.com/antznin/zsh-bitbake) - Completions for [bitbake](https://git.openembedded.org/bitbake).
 *   [supabase (⭐0)](https://github.com/Taimoor-Tariq/zsh-supabase) - Tab completions for the [supabase cli](https://supabase.com/docs/guides/cli/getting-started)
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [manpage-completion-generator (⭐21)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐25k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+*   [manpage-completion-generator (⭐26)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐25k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
 ## [14. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 

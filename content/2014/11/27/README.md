@@ -14,7 +14,7 @@
 
 ### Debugging
 
-*   [eflame (⭐417)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐421)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -30,7 +30,7 @@
 
 ### Testing
 
-*   [blacksmith (⭐194)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐195)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐43)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers

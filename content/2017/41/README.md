@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09 - Oct 15, 2017
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -109,49 +109,55 @@
 
 *   [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) - Best Paper Award at CVPR 2017, yielding improvements on state-of-the-art performances on CIFAR-10, CIFAR-100 and SVHN datasets, this new neural network architecture is named DenseNet.
 
-## [10. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Hack / Spock Framework
+
+*   [Hack Documentation](https://docs.hhvm.com/hack/)
+
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
 *   [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - Writing Great Specifications is an example-rich tutorial that teaches you how to write good Gherkin specification documents that take advantage of Specification by Example's benefits.
 
-## [11. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [12. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Video
 
 *   [VideoPlayView (⭐90)](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
-## [13. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [14. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Function
 
 *   [throttle-debounce (⭐973)](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
-## [14. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [15. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Miscellaneous / Others
 
 *   [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 
-## [15. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [16. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Reading Material
 
 *   [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Virtual Machines
 
 *   [Eclipse OpenJ9 (⭐3k)](https://github.com/eclipse/openj9) - Eclipse OpenJ9.
 
-## [17. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [18. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Publishing , Collaboration and Organization
 
@@ -161,18 +167,18 @@
 
 *   [Spectrophotometric Determination of Lead](http://www.pharmtech.com/spectrophotometric-determination-lead) - Another simple DIY lead testing procedure.
 
-## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Captchas and anti-spam
 
 *   [Invisible Captcha (⭐1.1k)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
-*   [Rakismet (⭐354)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
+*   [Rakismet (⭐355)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐2k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐178)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐180)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
-*   [forkoff (⭐74)](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
+*   [forkoff (⭐73)](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
 *   [Parallel (⭐4.1k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ### Database Tools
@@ -181,8 +187,8 @@
 
 ### Diff
 
-*   [Diffy (⭐1.2k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-*   [gemdiff (⭐122)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+*   [Diffy (⭐1.3k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
+*   [gemdiff (⭐121)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 *   [JsonCompare (⭐59)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ### File Upload
@@ -195,12 +201,12 @@
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐729)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐735)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
-*   [Clipboard (⭐369)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
-*   [Looksee (⭐366)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
+*   [Clipboard (⭐371)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+*   [Looksee (⭐365)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 
 ### Machine Learning
 
@@ -212,9 +218,9 @@
 
 ### Web Frameworks
 
-*   [Rack::App (⭐408)](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
+*   [Rack::App (⭐410)](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
 
-## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### RDBMS
 
@@ -236,7 +242,7 @@
 
 *   [AthenaX (⭐1.2k)](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
 
-## [20. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [21. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Advanced Books
 
@@ -246,13 +252,13 @@
 
 Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
 
-## [21. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [22. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Tools
 
 *   [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 
-## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Slideshows, talks and videos
 
@@ -263,19 +269,19 @@ Learn how to use R to turn raw data into insight, knowledge, and understanding. 
 *   [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
 *   [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 
-## [23. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
 *   [XOD](https://xod.io/) \[Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 
-## [24. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
 
-## [25. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -328,7 +334,7 @@ Notes:
 *   You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
 *   Using IPFS will get you kicked off their network in \~2hr (FYI).
 
-## [26. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [27. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Dependency Management
 
@@ -338,19 +344,19 @@ Notes:
 
 *   [BugSnag](https://www.bugsnag.com/) `requires-approval` - Exception tracking and reporting.
 
-## [27. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [28. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Browsers:
 
 *   [Tor Browser (⭐450)](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
-*   [SystemWrapper (⭐171)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐172)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
-## [29. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [30. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Articles
 
@@ -360,7 +366,7 @@ Notes:
 
 *   [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -370,32 +376,32 @@ Notes:
 
 *   [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
-## [31. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [32. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Books
 
 *   [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
 
-## [32. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [33. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   agent
 
 *   [sshecret (⭐58)](https://github.com/thcipriani/sshecret) - Automatically create and manage multiple agents for multiple keys.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Edward](http://edwardlib.org/) - A library for probabilistic modelling, inference, and criticism. Built on top of TensorFlow.
 
-## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [35. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 
-## [35. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [36. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other Useful Repositories
 
@@ -415,7 +421,7 @@ Notes:
 
 
 
-## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -429,19 +435,19 @@ Notes:
 
 *   [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
 
-## [37. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [38. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 
-## [38. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [39. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: (⭐1.7k)](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 
-## [39. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [40. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Javascript
 
@@ -461,32 +467,32 @@ Notes:
 
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
-## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [41. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
 *   :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
 
-## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
 *   [eb-py-flask-signup :fire::fire: (⭐271)](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
 
-## [42. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [43. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
-*   [SnapVX (⭐64)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
+*   [SnapVX (⭐65)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
 *   [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
-## [44. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [45. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
@@ -500,7 +506,7 @@ Notes:
 
 *   [mqttclpro (⭐90)](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
 
-## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [46. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Blog Posts
 
@@ -508,7 +514,7 @@ Notes:
 *   [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - by **Sam Jarman**
 *   [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
@@ -524,13 +530,13 @@ Notes:
 
 ### UI / Barcode
 
-*   [SwiftyUI (⭐341)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
+*   [SwiftyUI (⭐340)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 
 ### Utility / Barcode
 
 *   [Closures (⭐1.7k)](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 
-## [47. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [48. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Windows Managers / Other Desktop Environments
 
@@ -546,14 +552,14 @@ Notes:
 *   [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
 *   [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
 
-## [48. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [49. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
 *   [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI) - Black Hat talk by Jonathan Petit. Automated and connected vehicles are the next evolution in transportation and will improve safety, traffic efficiency and driving experience. This talk will be divided in two parts: 1) security of autonomous automated vehicles and 2) privacy of connected vehicles. 2015
 *   [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw) - Black Hat talk By Charlie Miller and Chris Valasek. Automotive security concerns have gone from the fringe to the mainstream with security researchers showing the susceptibility of the modern vehicle to local and remote attacks. Discussion of vehicle attack surfaces. 2014.
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -577,7 +583,7 @@ Notes:
 
 *   [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 
-## [50. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -684,7 +690,7 @@ Notes:
 
 
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 

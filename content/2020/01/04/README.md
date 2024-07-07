@@ -16,18 +16,18 @@
 
 ### Algorithms and Data structures
 
-*   [haversine (⭐17)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
-*   [kd\_tree (⭐17)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
+*   [haversine (⭐16)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
+*   [kd\_tree (⭐16)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
 
 ### Machine Learning
 
-*   [Cadmium (⭐201)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐202)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐11k)](https://github.com/NaturalNode/natural)
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
-*   [PEframe (⭐594)](https://github.com/guelfoweb/peframe) - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
+*   [PEframe (⭐599)](https://github.com/guelfoweb/peframe) - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2017
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,7 @@
 
 ### Environment Management
 
-*   [pyenv (⭐36k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐38k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### GUI Development
 
@@ -85,12 +85,12 @@
 
 ### Package Repositories
 
-*   [localshop (⭐392)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐397)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐380)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐382)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
@@ -105,13 +105,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐783)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐785)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐344)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐351)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -692,19 +692,13 @@
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Individuals/Group Contributors / T individuals
-
-*   Todd Motto <https://toddmotto.com/>
-
-## [15. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [14. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
@@ -714,13 +708,13 @@
 
 *   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
-## [17. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [16. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [17. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
@@ -743,7 +737,7 @@
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.3k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

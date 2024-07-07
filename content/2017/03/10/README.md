@@ -87,7 +87,7 @@
 
 ### Authentication
 
-*   [ueberauth\_microsoft (⭐35)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+*   [ueberauth\_microsoft (⭐37)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
@@ -124,33 +124,29 @@
     *   [Lectures](https://courses.engr.illinois.edu/cs425/fa2016/lectures.html)
     *   [Assignments](https://courses.engr.illinois.edu/cs425/fa2016/assignments.html)
 
-## [11. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
-
-### REST API / Other
-
-*   [Liquigraph (⭐122)](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
-
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / D companies
 
 *   Deezer <https://deezer.io/>
 
-### Individuals/Group Contributors / S individuals
+## [12. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
-*   Sakib Sami <https://www.sakib.ninja>
+### REST API / Other
+
+*   [Liquigraph (⭐122)](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
 
 ## [13. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Node.js / Authentication
 
-*   [steam-login (⭐57)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
+*   [steam-login (⭐62)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
 
 ## [14. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐18)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐20)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 

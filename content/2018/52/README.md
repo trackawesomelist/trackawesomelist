@@ -28,7 +28,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐731)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐739)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -60,9 +60,15 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.8k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.9k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+
+### Packages / Security
+
+*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+
+## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Logging / Text-Based User Interfaces
 
@@ -90,12 +96,6 @@
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
-
-### Web / Development
-
-*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
-
 ## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / DNS - Servers
@@ -106,13 +106,13 @@
 
 ### Framework Components
 
-*   [praetorian (⭐58)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐59)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
 ## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Varia / Tutorials
 
-*   [Awesome community detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 
 ## [14. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -298,13 +298,6 @@ Topics: Standards, Web Assembly\
   Description: A detailed walk-through of the preparations for ACM-ICPC.
 
 
-- ☆: ★★★
-
-  Name: [IOI Syllabus](https://people.ksp.sk/\~misof/ioi-syllabus/)
-
-  Description: A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
-
-
 - ☆: ★★☆
 
   Name: [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
@@ -411,7 +404,7 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★★
 
-  Name: [Mini-Editorials (⭐298)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
+  Name: [Mini-Editorials (⭐376)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
 
   Description: Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems
 
@@ -471,7 +464,7 @@ Topics: Standards, Web Assembly\
 
   Name: [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim
 
-  Description: This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book. ... The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/\~stevenha/myteaching/competitive_programming/cp1.pdf).
+  Description: This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book. ... The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
 
 
 - ☆: ★★☆
@@ -502,7 +495,7 @@ Topics: Standards, Web Assembly\
 
   Name: [Algorithm Design](http://amzn.to/VjhioK), by Jon Kleinberg and Éva Tardos
 
-  Description: This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots. ... The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/\~wayne/kleinberg-tardos/).
+  Description: This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots. ... The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
 
 
 - ☆: ★★☆
@@ -653,47 +646,47 @@ Topics: Standards, Web Assembly\
 
   Name: [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256)
 
-  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.7k)](https://github.com/indy256/codelibrary).
+  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.8k)](https://github.com/indy256/codelibrary).
 
 
 - ☆: ★★★
 
-  Name: [spaghetti-source/algorithm (⭐695)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
+  Name: [spaghetti-source/algorithm (⭐781)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
 
   Description: High-quality implementations of many hard algorithms and data structures.
 
 
 - ☆: ★★★
 
-  Name: [kth-competitive-programming/kactl (⭐1.9k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
+  Name: [kth-competitive-programming/kactl (⭐2.6k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
 
   Description: A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.
 
 
 - ☆: ★★☆
 
-  Name: [jaehyunp/stanfordacm (⭐1.5k)](https://github.com/jaehyunp/stanfordacm)
+  Name: [jaehyunp/stanfordacm (⭐1.6k)](https://github.com/jaehyunp/stanfordacm)
 
   Description: Stanford's team notebook is well maintained and the codes within are of high-quality.
 
 
 - ☆: ★★☆
 
-  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐359)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
+  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐420)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
 
   Description: RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.
 
 
 - ☆: ★★☆
 
-  Name: [bobogei81123/bcw\_codebook (⭐103)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
+  Name: [bobogei81123/bcw\_codebook (⭐111)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
 
   Description: bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
 
 
 - ☆: ★☆☆
 
-  Name: [foreverbell/acm-icpc-cheat-sheet (⭐157)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
+  Name: [foreverbell/acm-icpc-cheat-sheet (⭐168)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
 
   Description: A notebook with some advanced data structures and algorithms including some from the China informatics scene.
 
@@ -779,7 +772,7 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★★
 
-  Name: [Bit Twiddling Hacks](https://graphics.stanford.edu/\~seander/bithacks.html)
+  Name: [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
   Description: A huge compiled list of bit manipulation tricks.
 
@@ -894,7 +887,7 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★☆
 
-  Name: Codeforces Parsers: ... [Codeforces Parser (⭐131)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐48)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐16)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐3)](https://github.com/ikatanic/cfparser) (cli)
+  Name: Codeforces Parsers: ... [Codeforces Parser (⭐133)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐47)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐17)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐3)](https://github.com/ikatanic/cfparser) (cli)
 
   Description: These tools parse Codeforces contest problems and help run sample tests.
 
@@ -1091,7 +1084,7 @@ Topics: Standards, Web Assembly\
 
 - Name: Free Programming Books
 
-  Link: [vhf/free-programming-books (⭐252k)](https://github.com/EbookFoundation/free-programming-books)
+  Link: [vhf/free-programming-books (⭐327k)](https://github.com/EbookFoundation/free-programming-books)
 
 
 - Name: Community-curated C++ Resources
@@ -1117,39 +1110,16 @@ Topics: Standards, Web Assembly\
 ### Analysis
 
 *   [Anemometer (⭐1.4k)](https://github.com/box/Anemometer) - Box SQL slow query monitor.
-*   [innodb-ruby (⭐1.5k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
-*   [innotop (⭐717)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
-*   [MySQL Explain Analyzer (⭐84)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
+*   [innodb-ruby (⭐1.6k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
+*   [innotop (⭐745)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+*   [MySQL Explain Analyzer (⭐89)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐99)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
-*   [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [Prometheus](https://prometheus.io/)/[mysqld\_exporter (⭐1.9k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
-*   [pstop (⭐196)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
-
-### GUI
-
-*   [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
-*   [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [MySQL Shell](https://dev.mysql.com/downloads/shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
-*   [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
-*   [Ocelot GUI (⭐57)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
-*   [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
-*   [pspg (⭐2.1k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
-*   [SQLyog Community edition (⭐2k)](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-*   [DBeaver (⭐34k)](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
-
-### Backup
-
-*   [MyDumper (⭐2.1k)](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
-*   [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
-*   [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+*   [pstop (⭐201)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 
 ### Benchmarking
 
-*   [iibench-mysql (⭐45)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
-*   [Sysbench (⭐5.4k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
-*   [TPCC-MySQL](https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+*   [iibench-mysql (⭐46)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
+*   [Sysbench (⭐5.8k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
 
 ### ChatOps
 
@@ -1157,92 +1127,59 @@ Topics: Standards, Web Assembly\
 
 ### Configuration
 
-*   [mysql-compatibility-config (⭐96)](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
+*   [mysql-compatibility-config (⭐94)](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ### Connectors
 
-*   [Connector/C](https://dev.mysql.com/downloads/connector/c/) - Official C driver for MySQL.
-*   [Connector/CPP](https://dev.mysql.com/downloads/connector/cpp/) - Official C++ driver for MySQL.
-*   [Connector/J](https://dev.mysql.com/downloads/connector/j/) - a standardized database driver for the Java platforms and development.
-*   [Connector/Net](https://dev.mysql.com/downloads/connector/net/) - a standardized database driver for .Net platforms and development.
-*   [Connector/Node.js](https://dev.mysql.com/downloads/connector/nodejs/) - Official Node.js driver for MySQL.
-*   [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
-*   [DBD::mysql](https://metacpan.org/pod/DBD::mysql) - MySQL driver for the Perl5 Database Interface.
 *   [go-sql-driver (⭐14k)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 *   [libAttachSQL (⭐31)](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
-*   [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
-*   [mysqlclient-python (⭐2.3k)](https://github.com/PyMySQL/mysqlclient-python) - (Old) MySQL database connector for Python.
-*   [node-mysql (⭐18k)](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
-*   [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
-*   [PyMySQL (⭐7.4k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
+*   [PyMySQL (⭐7.6k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.2k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 
 ### Deployment
 
 *   [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-*   [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 ### Development
 
-*   [Flywaydb](http://flywaydb.org/getstarted/) - Database migrations; Evolve your database schema easily and reliably across all your instances
-*   [Liquibase](http://www.liquibase.org/) - Source control for your database
-*   [Shift (⭐735)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+*   [Shift (⭐737)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+
+### GUI
+
+*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+*   [Ocelot GUI (⭐62)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
+*   [pspg (⭐2.4k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 
 ### HA
 
-*   [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
-*   [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL.
-*   [orchestrator (⭐5.2k)](https://github.com/github/orchestrator) - MySQL replication topology management and High Availability solution.
-*   [replication-manager (⭐601)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
+*   [replication-manager (⭐626)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
 ### Proxy
 
-*   [MaxScale (⭐1.3k)](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
-*   [Mixer (⭐755)](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
-*   [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
-*   [ProxySQL (⭐24)](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 *   [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 
 ### Schema
 
-*   [common\_schema (⭐123)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐822)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [common\_schema (⭐126)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+*   [sys (⭐827)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 ### Security
 
-*   [Acra (⭐1.2k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [Acra (⭐1.3k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ### Server
 
-*   [MariaDB (⭐5k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
-*   [MySQL Server & MySQL Cluster (⭐9.6k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
-*   [Percona Server](https://launchpad.net/percona-server) - An enhanced, drop-in MySQL replacement.
-*   [TiDB (⭐35k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
-
-### Sharding
-
-*   [jetpants (⭐1.1k)](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
-*   [vitess (⭐17k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+*   [MariaDB (⭐5.4k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
+*   [MySQL Server & MySQL Cluster (⭐10k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
+*   [TiDB (⭐36k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ### Toolkits
 
-*   [gh-ost (⭐11k)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
-*   [go-mysql (⭐4.2k)](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
-*   [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
-*   [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
-*   [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
-*   [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
-
-### Conferences
-
-*   [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
-*   [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
-*   [Percona Live](https://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
-*   [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
+*   [gh-ost (⭐12k)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 
 ### e-books
 
-*   [SQL-exercise (⭐1.2k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
+*   [SQL-exercise (⭐1.3k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1261,11 +1198,11 @@ Topics: Standards, Web Assembly\
 
 ### Database
 
-*   [SOCI (⭐1.3k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
+*   [SOCI (⭐1.4k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
 
 ### Serialization
 
-*   [nanopb (⭐4.1k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐4.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -1297,7 +1234,7 @@ Topics: Standards, Web Assembly\
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Inject (⭐868)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
+*   [Inject (⭐870)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 
 ### Data / Redux / ELM / Dependency Injection
 
@@ -1305,7 +1242,7 @@ Topics: Standards, Web Assembly\
 
 ### Premium / Game Engine resources
 
-*   [History Of Everything (⭐6.4k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+*   [History Of Everything (⭐6.5k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
 ## [39. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 

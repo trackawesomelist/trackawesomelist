@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11, 2014
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,7 +54,29 @@
 
 *   [Snowplow (⭐6.5k)](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
+
+### Alef
+
+*   [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
+
+### Chapel / Non-X86
+
+*   [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
+
+### Limbo / TeX
+
+*   [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
+
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Redis
 
@@ -86,11 +108,11 @@
 *   [clojure-doc](http://clojure-doc.org/)
 *   [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐421)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐426)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
@@ -116,13 +138,13 @@
 
 ### Resources / Tutorials
 
-*   [The Art of Node (⭐9.7k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
+*   [The Art of Node (⭐9.8k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 
 ### Resources / Videos
 
 *   [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
-## [6. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Web Frameworks
 
@@ -168,7 +190,7 @@
 
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
-## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [8. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Benchmarking
 

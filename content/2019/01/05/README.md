@@ -10,13 +10,13 @@
 
 ### JupyterLab Extensions
 
-*   [go-to-definition (⭐224)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
+*   [go-to-definition (⭐227)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Bottom bars
 
-*   [Fancy Bottom Navigation (⭐733)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+*   [Fancy Bottom Navigation (⭐746)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 
 ## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ZamzamKit (⭐267)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐268)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [confex (⭐300)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐301)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
@@ -26,7 +26,7 @@
 
 ### Video
 
-*   [silent\_video (⭐20)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐19)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [2. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/README.md)
 

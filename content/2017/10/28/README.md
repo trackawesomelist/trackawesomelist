@@ -10,7 +10,6 @@
 
 ### Companies / G companies
 
-*   Geoblink <https://tech.geoblink.com>
 *   GIPHY <https://engineering.giphy.com/>
 
 ## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -65,7 +64,7 @@
 
 ### Misc
 
-*   [DeviceId (⭐696)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐721)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

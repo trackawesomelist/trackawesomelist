@@ -20,7 +20,7 @@
 
 ### Modules / CLI utils
 
-*   [tui (⭐252)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐262)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
 ## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [linrongbin16/fzfx.nvim (⭐96)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
+*   [linrongbin16/fzfx.nvim (⭐109)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Database clients
 
-*   [redis (⭐5)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
+*   [redis (⭐7)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 
 ### Text processing
 

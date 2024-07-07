@@ -14,7 +14,7 @@
 
 ### Queue
 
-*   [RawRabbit (⭐744)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐743)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -152,9 +152,9 @@
 
 ### PHP / Misc
 
-*   [steam-api (⭐79)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
-*   [steamid (⭐8)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
-*   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
+*   [steam-api (⭐81)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
+*   [steamid (⭐9)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+*   [steam-totp (⭐22)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐613)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐614)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -577,10 +577,6 @@ git cherry -v
 *   [Dragonfly](http://markevans.github.io/dragonfly) - Dragonfly is for on-the-fly file processing - suitable for images or other attachments
 
 ## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / L companies
-
-*   LendingHome <https://tech.lendinghome.com/>
 
 ### Individuals/Group Contributors / I individuals
 

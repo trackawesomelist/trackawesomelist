@@ -1,33 +1,125 @@
 # Awesome List Updates on Apr 30, 2024
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama 2 Finetuning**
+
+*   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐373)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024]
+
+    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
+
+### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama 2 Finetuning**
+
+*   phi-series: cost-effective small language models (SLMs)
+
+    <details>
+    <summary>Expand</summary>
+
+    *   phi-3: Phi-3-mini, with 3.8 billion parameters, supports 4K and 128K context, instruction tuning, and hardware optimization. \[Apr 2024] [ref](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
+        *   phi-3-vision (multimodal), phi-3-small, phi-3 (7b), phi-sillica (Copilot+PC designed for NPUs)
+
+    *   phi-2: open source, and 50% better at mathematical reasoning. [git](https://huggingface.co/microsoft/phi-2) \[Dec 2023]
+
+    *   [phi-1.5](https://arxiv.org/abs/2309.05463): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.05463)]: Textbooks Are All You Need II. Phi 1.5 is trained solely on synthetic data. Despite having a mere 1 billion parameters compared to Llama 7B's much larger model size, Phi 1.5 often performs better in benchmark tests. \[11 Sep 2023]
+
+    *   [phi-1](https://arxiv.org/abs/2306.11644): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.11644)]: Despite being small in size, phi-1 attained 50.6% on HumanEval and 55.5% on MBPP. Textbooks Are All You Need. [ref](https://analyticsindiamag.com/microsoft-releases-1-3-bn-parameter-language-model-outperforms-llama/) \[20 Jun 2023]
+
+    </details>
+
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [ChatGPT Memory](https://openai.com/blog/memory-and-new-controls-for-chatgpt): Remembering things you discuss `across all chats` saves you from having to repeat information and makes future conversations more helpful. \[Apr 2024]
+
+### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
+
+*   [The Instruction Hierarchy](https://arxiv.org/abs/2404.13208): Training LLMs to Prioritize Privileged Instructions. The OpenAI highlights the need for instruction privileges in LLMs to prevent attacks and proposes training models to conditionally follow lower-level instructions based on their alignment with higher-level instructions. \[19 Apr 2024]
+
+### **Survey on Large Language Models** / **GPT series release date**
+
+*   State of AI
+    *   [Retool: Status of AI](https://retool.com/reports): A Report on AI In Production [2023](https://retool.com/reports/state-of-ai-2023) -> [2024](https://retool.com/blog/state-of-ai-h1-2024)
+    *   [The State of Generative AI in the Enterprise](https://menlovc.com/2023-the-state-of-generative-ai-in-the-enterprise-report/) \[ⓒ2023]
+        > 1.  96% of AI spend is on inference, not training. 2. Only 10% of enterprises pre-trained own models. 3. 85% of models in use are closed-source. 4. 60% of enterprises use multiple models.
+    *   [Standford AI Index Annual Report](https://aiindex.stanford.edu/report/)
+
+### **Section 11: Datasets for LLM Training** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb): HuggingFace: crawled 15 trillion tokens of high-quality web data from the summer of 2013 to March 2024. \[Apr 2024]
+
+### **Evaluation Benchmark** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   LLM Evalution Benchmarks
+
+    <details open>
+    <summary>Expand</summary>
+
+    #### Language Understanding and QA
+
+    1.  [MMLU (Massive Multitask Language Understanding) (⭐1.1k)](https://github.com/hendrycks/test): Over 15,000 questions across 57 diverse tasks. \[Published in 2021]
+    2.  [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
+    3.  [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
+    4.  [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
+
+    #### Coding
+
+    1.  [HumanEval (⭐2.1k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
+    2.  [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
+    3.  [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
+    4.  [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
+
+    #### Chatbot Assistance
+
+    1.  [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
+    2.  [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
+
+    *   [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
+
+    #### Reasoning
+
+    1.  [HellaSwag (⭐163)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
+    2.  [ARC (AI2 Reasoning Challenge) (⭐3k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
+    3.  [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
+    4.  [LogicQA (⭐100)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
+
+    #### Translation
+
+    1.  [WMT](https://huggingface.co/wmt): Evaluates translation skills.
+
+    #### Math
+
+    1.  [MATH (⭐772)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
+    2.  [GSM8K (⭐934)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
+
+    </details>
+
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Menstrual cycle trackers
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bluemoon](https://gitlab.com/ngrob/bluemoon-android) - Open source, privacy friendly menstruation tracking app. Your period, your data!
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://dripapp.org/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
 *   [Euki](https://eukiapp.org/) - The period tracker that doesn’t track you.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Periodical (⭐109)](https://github.com/arnowelzel/periodical) - A calendar to track your menstruation and calculate possible fertile days
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Periodical (⭐113)](https://github.com/arnowelzel/periodical) - A calendar to track your menstruation and calculate possible fertile days
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Korean
 
 *   [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Resources
 
 *   [Kotlin: An Illustrated Guide](https://typealias.com/start/) - Illustrated guide to learn Kotlin
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -41,52 +133,52 @@
 
 *   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [windows-terminal-theme-generator (⭐15)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrolling / Diagnostics
 
-*   [niuiic/scroll.nvim (⭐13)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
+*   [niuiic/scroll.nvim (⭐16)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 *   [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [AgentScope (⭐2.2k)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
+*   [AgentScope (⭐2.9k)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [dano (⭐130)](https://github.com/kimono-koans/dano) — A hashdeep/md5tree (but much more) for media files
+*   [dano (⭐136)](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
 
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip2 (⭐46)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] — read and write  ZIP archives
+    *   [zip-rs/zip2 (⭐75)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] - read and write  ZIP archives
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 
-*   [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) – The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
+*   [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 
 ### Inspiration, Instruction, and Research / Fonts
 
-*   [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
-*   [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
+*   [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) - Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
+*   [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) - Photo gallery of the plotter's exterior, interior, and packaging.
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -97,17 +189,17 @@
 *   [Mutoh ET202 Scriber (German)](https://archive.org/details/mutoh-et202-leichtgemacht)
 *   [Olivetti P6060 Programming Manual (1979) (Italian)](https://archive.org/details/olivettip6060prestazionigrafiche)
 *   [Roland XY Plotter DXY-1350A DXY-1150A User's Manual (1997)](https://archive.org/details/manualzilla-id-5691908)
-*   [SEGA SP-400 Operation Manual](https://archive.org/details/sega-sp-400) – This doesn't present as a flippable book on the archive, but the original page scans are still available for download.
+*   [SEGA SP-400 Operation Manual](https://archive.org/details/sega-sp-400) - This doesn't present as a flippable book on the archive, but the original page scans are still available for download.
 *   [Sekonic SPL-450+/SPL-455 User Manual (1990) (German)](https://archive.org/details/sekonicspl450spl455)
 *   [Tectronix 4662 Interactive Digital Plotter User Manual (1976)](https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494)
 *   [Panasonic Penwriter Manual Excerpt: RS232 Protocol Section](https://archive.org/details/panasonicpenwriterprotocol)
 
 ### Manuals, Ephemera, Papers, and Patents / Ephemera
 
-*   [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
-*   [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
+*   [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) - Review of the three-color Penman robotic plotter.
+*   [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) - There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Newsletters
 
@@ -125,26 +217,26 @@
 *   [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 *   [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 
-### Style Guides / Testing
+### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Official Angular style guide](https://angular.dev/style-guide#)
 *   [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
-### Mixed utilities / Validation
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
-### UI Libraries / Material Based
+### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
-*   [IgniteUI Angular (⭐564)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+*   [IgniteUI Angular (⭐568)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
 *   [Alyle UI (⭐290)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
 *   [angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
 *   [angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
 *   [angular-material-extensions/password-strength (⭐285)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
-*   [angular material components (⭐321)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+*   [angular material components (⭐324)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
 
-## [12. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [13. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Security
 

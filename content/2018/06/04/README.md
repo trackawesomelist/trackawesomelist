@@ -76,7 +76,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Psalm (⭐5.4k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
+*   [Psalm (⭐5.5k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ---
 

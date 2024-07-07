@@ -33,7 +33,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-date-picker (⭐57)](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
+*   [vue-date-picker (⭐56)](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Miscellaneous
 
-*   [react-pdf (⭐8.6k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+*   [react-pdf (⭐8.9k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 
 ### Form Components / Date / Time picker
 
@@ -91,13 +91,13 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐38)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐40)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐2.5k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2.6k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -116,13 +116,13 @@
 
 ### Community Extensions
 
-*   [Have I Been Pwned? Keycloak Password Policy (⭐19)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
+*   [Have I Been Pwned? Keycloak Password Policy (⭐20)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
 ## [16. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Intentionally Vulnerable Applications / Ansible
 
-*   [Cfngoat (⭐90)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+*   [Cfngoat (⭐92)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 *   [Terragoat (⭐1.1k)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

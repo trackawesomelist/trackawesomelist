@@ -16,7 +16,7 @@
 
 ### Software / Automation
 
-*   [nefarious (⭐942)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐970)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -32,7 +32,7 @@
 
 ### Authorization
 
-*   [ActionPolicy (⭐1.3k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
+*   [ActionPolicy (⭐1.4k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
 
 ## [5. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

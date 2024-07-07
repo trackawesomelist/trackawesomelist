@@ -106,7 +106,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Browser-Based / Others
 
-*   [Double Damnation (⭐14)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
+*   [Double Damnation (⭐17)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

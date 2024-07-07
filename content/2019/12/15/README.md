@@ -10,7 +10,7 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [toplevel (⭐17)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+*   [toplevel (⭐19)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

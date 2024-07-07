@@ -41,11 +41,6 @@
 ### Companies / G companies
 
 *   Grab <http://engineering.grab.com/>
-*   Grafana <https://grafana.com/blog/>
-
-### Companies / H companies
-
-*   Heap <https://heap.engineering/>
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

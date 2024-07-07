@@ -22,17 +22,17 @@
 
 ### Applications / Database
 
-*   [FnckSQL (⭐503)](https://github.com/KipData/FnckSQL) — SQL as a Function for Rust
+*   [FnckSQL (⭐512)](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
 
 ### Applications / Utilities
 
-*   [sorairolake/qrtool (⭐25)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] — A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [sorairolake/qrtool (⭐119)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [Owloops/updo (⭐128)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
+*   [Owloops/updo (⭐179)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [hook-form-react (⭐2)](https://github.com/luoanb/hook-form-react) - [docs](https://luoanb.github.io/hook-form-react) - A lightweight, dependency-free solution React hooks for form validation.
+*   [hook-form-react (⭐3)](https://github.com/luoanb/hook-form-react) - [docs](https://luoanb.github.io/hook-form-react) - A lightweight, dependency-free solution React hooks for form validation.
 
 ## [7. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐183)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐232)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

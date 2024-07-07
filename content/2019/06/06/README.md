@@ -36,7 +36,7 @@ Free (Open Source)
 
 ### Incident Response tools / Evidence collection
 
-*   [AutoMacTC (⭐487)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
+*   [AutoMacTC (⭐515)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

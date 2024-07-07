@@ -57,7 +57,7 @@
 
 ### Python / General
 
-*   [steampy (⭐403)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
+*   [steampy (⭐539)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Serialization
 
-*   [FsPickler (⭐321)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
+*   [FsPickler (⭐323)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 
 ---
 

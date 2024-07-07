@@ -14,7 +14,7 @@
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐431)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐433)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -22,15 +22,15 @@
 
 ### Math / Barcode
 
-*   [Upsurge (⭐180)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+*   [Upsurge (⭐182)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐991)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐990)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
-*   [Delegated (⭐703)](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
+*   [Delegated (⭐702)](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐180)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐182)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -113,7 +113,13 @@
 
 *   [kern (⭐235)](https://github.com/blancas/kern)
 
-## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Raspberry Pi / Tornado
+
+*   [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
+
+## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
@@ -125,20 +131,20 @@
 
 *   [micrometer (⭐3.6k)](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Email
 
 *   [Postmaster (⭐8)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [13. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
 *   [plash (⭐367)](https://github.com/ihucos/plash/)\
     Lightweight, rootless containers.
 
-## [13. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [14. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
@@ -148,25 +154,25 @@
 
 *   [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 
-## [14. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [15. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Places / Monasteries
 
 *   [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 
-## [15. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
 *   [Shopping List (⭐21)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 
-## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [17. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Blog posts
 
 *   [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -180,48 +186,42 @@
 
 *   [repl.it](https://repl.it) - A powerful yet simple tools and platforms for educators, learners, and developers.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-client-python :fire::fire: (⭐351)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
 
-## [19. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [20. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Software
 
 *   [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
 
-## [20. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [21. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Bots
 
 *   [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub (⭐178)](https://github.com/yogthos/mastodon-bot).
 
-## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐20k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐21k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
-## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [23. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
 *   [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge.
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 *   [Understanding The Role Of The Incident Manager On-Call (IMOC)](https://www.gremlin.com/community/tutorials/understanding-the-role-of-the-incident-manager-on-call-imoc/)
-
-## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / C companies
-
-*   Coinbase <https://engineering.coinbase.com/>
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### HTTP
 
-*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -358,12 +358,12 @@ Donationware
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐257)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim PHP View (⭐258)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing
 
-*   [ParaTest (⭐2.2k)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+*   [ParaTest (⭐2.3k)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 
 ### Table of Contents / Event
 
@@ -381,7 +381,7 @@ Donationware
 
 ### Packages / HTTP
 
-*   [gotql (⭐403)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐405)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
@@ -449,12 +449,12 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 ### Detection and Classification / Other Resources
 
-*   [Manalyze (⭐994)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
+*   [Manalyze (⭐997)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
     executables.
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [sandboxapi (⭐131)](https://github.com/InQuest/python-sandboxapi) - Python library for
+*   [sandboxapi (⭐132)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
 ## [45. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)

@@ -73,7 +73,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐31k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐32k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Drawing Animation (⭐479)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
+*   [Drawing Animation (⭐480)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 
 ## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐205)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐208)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Memory Allocation
 
-*   [memory (⭐1.4k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
+*   [memory (⭐1.5k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Camera
 
-*   [CameraKit-iOS (⭐667)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐676)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐314)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐315)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 
 ## [14. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

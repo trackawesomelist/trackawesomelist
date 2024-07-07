@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐358)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐364)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [7. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐838)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐864)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 

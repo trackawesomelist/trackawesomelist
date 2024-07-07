@@ -69,7 +69,7 @@
 
 ### GUI
 
-*   [Glimmer (⭐513)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐526)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
@@ -85,7 +85,7 @@
 
 ### Graph databases
 
-*   [cl-agraph (⭐24)](https://github.com/vseloved/cl-agraph), a minimal client for AllegroGraph.
+*   [cl-agraph (⭐25)](https://github.com/vseloved/cl-agraph), a minimal client for AllegroGraph.
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

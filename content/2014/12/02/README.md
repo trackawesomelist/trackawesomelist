@@ -46,12 +46,12 @@
 
 ### Geolocation
 
-*   [geoip (⭐711)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
+*   [geoip (⭐714)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
 *   [Google Maps for Rails (⭐2.3k)](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
 
 ### Internationalization
 
-*   [FastGettext (⭐393)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
+*   [FastGettext (⭐397)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 *   [Globalize (⭐2.1k)](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 
 ### Security
@@ -70,9 +70,9 @@
 
 ### Table of Contents / Passwords
 
-*   [Password Compat (⭐2.2k)](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
+*   [Password Compat (⭐2.1k)](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
 *   [Password Policy (⭐77)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-*   [Password Validator (⭐146)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+*   [Password Validator (⭐145)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -80,7 +80,7 @@
 
 ### Table of Contents / Numbers
 
-*   [ByteUnits (⭐160)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+*   [ByteUnits (⭐163)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 
 ---
 

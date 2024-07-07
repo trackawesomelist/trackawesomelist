@@ -73,7 +73,7 @@
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.6k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.7k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ---
 

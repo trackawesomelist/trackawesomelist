@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-33 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -125,20 +125,20 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [SEE (⭐806)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
+*   [SEE (⭐809)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
     is a framework for building test automation in secured Environments.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Static Site Generation
 
-*   [Photish (⭐148)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐149)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐315)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐457)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐456)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### Utility / Barcode
 
@@ -526,24 +526,13 @@
     gained a basic understanding of the features needed for Python web
     development and the features unique to Pyramid.
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / S companies
-
-*   Secret Escapes <http://tech.secretescapes.com/>
-*   Semaphore CI Community <https://semaphoreci.com/community>
-
-### Companies / T companies
-
-*   Teespring <http://teespring.engineering/>
-
-## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [20. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Countly IoT Analytics (⭐5.3k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
-## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [21. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Clipboard
 
@@ -725,7 +714,7 @@
 
 *   [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 
-## [23. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [22. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
@@ -736,7 +725,7 @@
 
 *   [goaccess (⭐17k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 
-## [24. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [23. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Getting help offline
 
@@ -756,7 +745,7 @@
     encoding with the high bit set, but many terminal emulators don't support it
     (or don't enable it by default) and send an escape sequence instead.
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [24. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -773,13 +762,13 @@
 *   [Scalpel (⭐2.8k)](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 *   [Stetho (⭐13k)](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 
-## [26. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [25. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [RxRelay (⭐2.5k)](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 
-## [27. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Polyglot
 
@@ -802,13 +791,13 @@
 
 *   [Secure Scuttlebutt (⭐60)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
-## [28. Amas](/content/sindresorhus/amas/week/README.md)
+## [27. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Jon Moss (⭐0)](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 
-## [29. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [28. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / JavaScript
 
@@ -868,27 +857,27 @@
 *   [Discuss (⭐69)](https://github.com/TestAnything/Specification/issues)
 *   [Reddit](https://www.reddit.com/r/testanythingprotocol)
 
-## [30. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
+## [29. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
 
 ### Inline sources (styles, scripts)
 
 *   [isomorphic-style-loader (⭐1.2k)](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) as an example.
 
-## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Serialization
 
-*   [cppcodec (⭐590)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐600)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
 *   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. \[Apache2]
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [table\_rex (⭐237)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐239)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
@@ -900,9 +889,9 @@
 
 ### Utilities
 
-*   [quark (⭐324)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐322)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
-## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [32. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 

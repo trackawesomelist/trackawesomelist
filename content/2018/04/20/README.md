@@ -54,7 +54,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [iocextract (⭐487)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
+*   [iocextract (⭐495)](https://github.com/InQuest/python-iocextract) - Advanced Indicator
     of Compromise (IOC) extractor, Python library and command-line tool.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
@@ -116,11 +116,11 @@
 
 ### App Routing
 
-*   [Linker (⭐137)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
+*   [Linker (⭐139)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 
 ### Multi Database
 
-*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐621)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -148,7 +148,7 @@
 
 ### Button / Barcode
 
-*   [PMSuperButton (⭐723)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
+*   [PMSuperButton (⭐724)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

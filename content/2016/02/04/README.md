@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐184k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -18,31 +18,25 @@
 
 *   [Micro (⭐11k)](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
 
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / R companies
-
-*   Realm.io <https://realm.io/news/>
-
-## [4. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
+## [3. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
 ### IoT / Frameworks-Tools
 
 *   [Lelylan (⭐1.5k)](https://github.com/lelylan/lelylan)
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
 *   [moviemon (⭐198)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐157k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐160k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Java / General-Purpose Machine Learning
 
@@ -52,20 +46,20 @@
 
 *   [Brainstorm (⭐1.3k)](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Code Analysis and Metrics
 
-*   [Scientist (⭐7.3k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
+*   [Scientist (⭐7.4k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 *   [PullToRefreshSwift (⭐538)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 
-## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [9. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Editing
 
@@ -135,7 +129,7 @@
 *   [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
 *   [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
-## [11. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Data serialization / Binary Serilization
 

@@ -46,7 +46,7 @@
 
 ### Malware Collection / Malware Corpora
 
-*   [Javascript Mallware Collection (⭐631)](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
+*   [Javascript Mallware Collection (⭐653)](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

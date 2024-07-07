@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-recurrence (⭐466)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+*   [django-recurrence (⭐469)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐801)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐818)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

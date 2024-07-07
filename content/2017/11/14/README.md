@@ -22,7 +22,7 @@
 
 ### Python / General
 
-*   [Steam-Trade (⭐15)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
+*   [Steam-Trade (⭐18)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
 ## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

@@ -296,7 +296,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [0x (⭐3.1k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+*   [0x (⭐3.2k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 
 ## [17. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -573,7 +573,7 @@ Webpage: <http://www.tosci.com/>
 
 ### Applications
 
-*   [Nvjorn (⭐15)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+*   [Nvjorn (⭐16)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 
 ### Email
 
@@ -581,7 +581,7 @@ Webpage: <http://www.tosci.com/>
 
 ### Framework Components
 
-*   [scrivener\_headers (⭐50)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
+*   [scrivener\_headers (⭐51)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
 *   [scrivener\_html (⭐123)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP

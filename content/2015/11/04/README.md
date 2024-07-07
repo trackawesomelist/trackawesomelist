@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2015
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -61,13 +61,7 @@
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐241)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
-
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / Z companies
-
-*   Zenefits <https://engineering.zenefits.com/posts/>
+*   [Jsome (⭐242)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ---
 

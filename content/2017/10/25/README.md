@@ -72,14 +72,6 @@
 *   BBC <https://medium.com/bbc-design-engineering/>
 *   Blender <https://code.blender.org/>
 
-### Companies / R companies
-
-*   Runtastic <https://www.runtastic.com/blog/en/category/tech/>
-
-### Companies / W companies
-
-*   WePay <https://wecode.wepay.com/>
-
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories

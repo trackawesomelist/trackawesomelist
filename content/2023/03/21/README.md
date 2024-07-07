@@ -10,7 +10,7 @@
 
 ### Domain-Specific Projects
 
-*   [xontrib-jupyter (⭐25)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
+*   [xontrib-jupyter (⭐29)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## [2. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐563)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
-*   [Validator.js Wrapper Directive (⭐3)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
+*   [GraphQL Constraint Directive (⭐565)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [Validator.js Wrapper Directive (⭐4)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐38)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐41)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Game / Diagnostics
 
-*   [alanfortlink/blackjack.nvim (⭐52)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
-*   [jim-fx/sudoku.nvim (⭐58)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+*   [alanfortlink/blackjack.nvim (⭐53)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐63)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Markdown
 
-*   [Markdown (⭐86)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
+*   [Markdown (⭐87)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
 
 ## [3. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

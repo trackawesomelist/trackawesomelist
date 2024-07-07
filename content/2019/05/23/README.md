@@ -53,12 +53,12 @@
 
 ### Python
 
-*   [cl4py (⭐91)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
-*   [py4cl (⭐223)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
-    *   its fork [py4cl2 (⭐40)](https://github.com/digikar99/py4cl2), at first less stable, now more developped and faster.
-    *   [py4cl2-cffi (⭐33)](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
+*   [cl4py (⭐93)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
+*   [py4cl (⭐224)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
+    *   its fork [py4cl2 (⭐41)](https://github.com/digikar99/py4cl2), at first less stable, now more developped and faster.
+    *   [py4cl2-cffi (⭐35)](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
         *   "When capable, the CFFI approach can be a 50 times faster than py4cl2."
-*   [cl-python (⭐366)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
+*   [cl-python (⭐365)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
 
 ## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -90,68 +90,68 @@
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
 *   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Bash guide for beginners (by Machtelt Garrels).
 *   [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-*   [bash-handbook (⭐5.5k)](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
+*   [bash-handbook (⭐5.6k)](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
 *   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-*   [learnyoubash (⭐719)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+*   [learnyoubash (⭐738)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 
 ### Command-Line Productivity
 
-*   [aliases (⭐509)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+*   [aliases (⭐543)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 *   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
-*   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
-*   [commacd (⭐357)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-*   [has (⭐594)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
-*   [hstr (⭐3.8k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
-*   [qfc (⭐569)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
+*   [bashmarks (⭐1.9k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
+*   [commacd (⭐360)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
+*   [has (⭐635)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [hstr (⭐4k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
+*   [qfc (⭐574)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 
 ### Customization
 
-*   [bash-git-prompt (⭐6.6k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
-*   [bash-powerline (⭐874)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
+*   [bash-git-prompt (⭐6.7k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
+*   [bash-powerline (⭐885)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up macOS terminal.
-*   [git-prompt (⭐326)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
-*   [gittify (⭐69)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
+*   [git-prompt (⭐327)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
+*   [gittify (⭐71)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
 *   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
-*   [mysql-colorize (⭐98)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
-*   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
-*   [progress-bar.sh (⭐225)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
+*   [mysql-colorize (⭐101)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
+*   [oh-my-git (⭐3.7k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
+*   [progress-bar.sh (⭐233)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 *   [bash-sensible (⭐2k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
 
 ### Data
 
-*   [BigBash (⭐282)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
+*   [BigBash (⭐285)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 
 ### For Developers
 
 *   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
-*   [git-sh (⭐732)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+*   [git-sh (⭐736)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 
 ### Downloading and Serving
 
-*   [balls (⭐853)](https://github.com/jneen/balls) - Bash on Balls.
+*   [balls (⭐860)](https://github.com/jneen/balls) - Bash on Balls.
 *   [bashttpd (⭐1.5k)](https://github.com/avleen/bashttpd) - A web server written in Bash.
-*   [Dropbox-Uploader (⭐6.5k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
-*   [ngincat (⭐171)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
+*   [Dropbox-Uploader (⭐6.6k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
+*   [ngincat (⭐175)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.
 
 ### Applications
 
 *   [bashblog (⭐1.6k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
-*   [pushbullet-bash (⭐228)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
-*   [todo.sh (⭐5.4k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
-*   [cheapci (⭐182)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
+*   [pushbullet-bash (⭐232)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
+*   [todo.sh (⭐5.5k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
+*   [cheapci (⭐184)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
 
 ### Games
 
-*   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
-*   [minesweeper (⭐54)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
+*   [bash2048 (⭐896)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
+*   [minesweeper (⭐63)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
 
 ### Website
 
-*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐204)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
+*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐210)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
 *   [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
 
 ### Shell Package Management
@@ -159,7 +159,7 @@
 *   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - A community Bash framework.
 *   [basher (⭐1.1k)](https://github.com/basherpm/basher) - A package manager for shell scripts.
 *   [bpkg (⭐1.9k)](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
-*   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+*   [homeshick (⭐2.1k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 
 ### Community
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2023
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,15 +20,15 @@
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
-### Books, blogs, and training materials / Community Chat Rooms
+### Books, blogs, and training materials / Free and public materials
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐7)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐10)](https://github.com/tweedegolf/rust-workshop))
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [ExyteChat (⭐638)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+*   [ExyteChat (⭐746)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -44,27 +44,184 @@
 
 ### Tools - Security / React
 
-*   [GraphQLer (⭐39)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+*   [GraphQLer (⭐47)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
-## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **LlamaIndex**
+
+*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. [ref](https://www.llamaindex.ai/blog): blog / [ref](https://gpt-index.readthedocs.io/en/latest/index.html): Docs / High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html): Concepts / [git (⭐33k)](https://github.com/run-llama/llama_index) \[Nov 2022]
+
+    > Fun fact this core idea was the initial inspiration for GPT Index (the former name of LlamaIndex) 11/8/2022 - almost a year ago!. [cite](https://twitter.com/jerryjliu0/status/1711817419592008037) / [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
+    >
+    > 1.  Build a data structure (memory tree)
+    > 2.  Transverse it via LLM prompting
+*   Storage Context vs Service Context
+
+    *   Both the Storage Context and Service Context are data classes.
+
+    ```python
+    index = load_index_from_storage(storage_context, service_context=service_context)
+    ```
+
+    1.  Storage Context is responsible for the storage and retrieval of data in Llama Index, while the Service Context helps in incorporating external context to enhance the search experience.
+    2.  The Service Context is not directly involved in the storage or retrieval of data, but it helps in providing a more context-aware and accurate search experience.
+
+        <details>
+
+        <summary>Context class definition</summary>
+
+        ```python
+        # The storage context container is a utility container for storing nodes, indices, and vectors.
+        class StorageContext:
+          docstore: BaseDocumentStore
+          index_store: BaseIndexStore
+          vector_store: VectorStore
+          graph_store: GraphStore
+        ```
+
+        ```python
+        # The service context container is a utility container for LlamaIndex index and query classes.
+        class ServiceContext:
+          llm_predictor: BaseLLMPredictor
+          prompt_helper: PromptHelper
+          embed_model: BaseEmbedding
+          node_parser: NodeParser
+          llama_logger: LlamaLogger
+          callback_manager: CallbackManager
+        ```
+
+        </details>
+
+### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   Is Semantic Kernel Planner the same as LangChain agents?
+
+    > Planner in SK is not the same as Agents in LangChain. [cite (⭐20k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
+
+    > Agents in LangChain use recursive calls to the LLM to decide the next step to take based on the current state.
+    > The two planner implementations in SK are not self-correcting.
+    > Sequential planner tries to produce all the steps at the very beginning, so it is unable to handle unexpected errors.
+    > Action planner only chooses one tool to satisfy the goal
+
+### **Section 4** : Langchain Features, Usage, and Comparisons / DSPy optimizer
+
+*   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
+    (2) Be agentic: Allow a language model to interact with its environment.
+
+### **Langchain Agent & Memory** / Langchain Agent
+
+*   If you're using a text LLM, first try `zero-shot-react-description`.
+*   If you're using a Chat Model, try `chat-zero-shot-react-description`.
+*   If you're using a Chat Model and want to use memory, try `conversational-react-description`.
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
+    *   Critique: Review your previous answer and find problems with your answer.
+    *   Improve: Based on the problems you found, improve your answer.
+*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.4k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.2k)](https://github.com/kyegomez/tree-of-thoughts)
+
+    *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
+    *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
+    *   `tree-of-thought\react-prompt.py`: ReAct sample without Langchain
+*   Zero-shot, one-shot and few-shot [cite](https://arxiv.org/abs/2005.14165) \[28 May 2020]
+
+    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/zero-one-few-shot.png" width="200">
+*   Promptist
+
+    *   [Promptist](https://arxiv.org/abs/2212.09611): Microsoft's researchers trained an additional language model (LM) that optimizes text prompts for text-to-image generation.
+        *   For example, instead of simply passing "Cats dancing in a space club" as a prompt, an engineered prompt might be "Cats dancing in a space club, digital painting, artstation, concept art, soft light, hdri, smooth, sharp focus, illustration, fantasy."
+
+### **Finetuning** / **Prompt Template Language**
+
+*   Category: Represent approach - Description - Pseudo Code [ref](https://speakerdeck.com/schulta) \[22 Sep 2023]
+
+    1.  Adapters: Adapters - Additional Layers. Inference can be slower.
+
+        ```python
+        def transformer_with_adapter(x):
+          residual = x
+          x = SelfAttention(x)
+          x = FFN(x) # adapter
+          x = LN(x + residual)
+          residual = x
+          x = FFN(x) # transformer FFN
+          x = FFN(x) # adapter
+          x = LN(x + residual)
+          return x
+        ```
+
+    2.  Soft Prompts: Prompt-Tuning - Learnable text prompts. Not always desired results.
+
+        ```python
+        def soft_prompted_model(input_ids):
+          x = Embed(input_ids)
+          soft_prompt_embedding = SoftPromptEmbed(task_based_soft_prompt)
+          x = concat([soft_prompt_embedding, x], dim=seq)
+          return model(x)
+        ```
+
+    3.  Selective: BitFit - Update only the bias parameters. fast but limited.
+
+        ```python
+        params = (p for n,p in model.named_parameters() if "bias" in n)
+        optimizer = Optimizer(params)
+        ```
+
+    4.  Reparametrization: LoRa - Low-rank decomposition. Efficient, Complex to implement.
+
+        ```python
+        def lora_linear(x):
+          h = x @ W # regular linear
+          h += x @ W_A @ W_B # low_rank update
+          return scale * h
+        ```
+
+### **Quantization Techniques** / **Llama 2 Finetuning**
+
+*   Post-training quantization (PTQ): The model is quantized after it has been trained without further optimization during the quantization process.
+
+    | Method                      | Pros                                                        | Cons                                                            |
+    | --------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+    | Post-training quantization  | Easy to use, no need to retrain the model                   | May result in accuracy loss                                     |
+    | Quantization-aware training | Can achieve higher accuracy than post-training quantization | Requires retraining the model, can be more complex to implement |
+
+### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+
+*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023]
+
+    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
+
+### **Large Language Models (in 2023)** / **GPT series release date**
+
+*   Change in perspective is necessary because some abilities only emerge at a certain scale. Some conclusions from the past are invalidated and we need to constantly unlearn intuitions built on top of such ideas.
+*   From first-principles, scaling up the Transformer amounts to efficiently doing matrix multiplications with many, many machines.
+*   Further scaling (think 10000x GPT-4 scale). It entails finding the inductive bias that is the bottleneck in further scaling.
+
+### **LLM Materials for East Asian Languages** / Japanese
+
+*   [法律:生成 AI の利用ガイドライン](https://storialaw.jp/blog/9414): Legal: Guidelines for the Use of Generative AI
+
+## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [minizip-ng (⭐1.2k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
 
-## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [10. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -137,7 +294,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Human-AI Interaction
 
@@ -151,12 +308,12 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐89)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐16k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [AlexChalakov/awesome-generative-ai-companies (⭐93)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [dssjon/biblos: biblos.app (⭐184)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐191)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -166,39 +323,47 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### State Management / Validation
+### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐140)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐215)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Dataflow Framework (⭐988)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
+*   [Dataflow Framework (⭐992)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐1.9k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+*   [kani (⭐2k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
     Kani is particularly useful for verifying unsafe code blocks in Rust,
     where the "unsafe superpowers" are unchecked by the compiler.
     Kani verifies:
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
-*   [Yolov5 (⭐47k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐24k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov5 (⭐48k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐26k)](https://github.com/ultralytics/ultralytics)
 
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Data Science
+### JavaScript / Wicket
 
-*   [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
+*   [Bible of JS](https://sheryians.com/download/bibleofjs_by_sheryians) - Harsh Sharma, Sheryians Coding School
+
+### R / Tornado
+
+*   [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [The SQL Handbook](https://www.freecodecamp.org/news/a-beginners-guide-to-sql) - Lane Wagner (HTML)
 
 ---
 

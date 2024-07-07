@@ -10,17 +10,15 @@
 
 ### Pastebins
 
+*   [0bin](https://0bin.net)
 *   [cl1p](https://Cl1p.net)
 *   [controlc](https://Controlc.com)
-*   [dpaste](https://Dpaste.com)
 *   [dpaste2](https://Dpaste.org)
-*   [dumpz](https://Dumpz.org)
-*   [heypasteit](https://Heypasteit.com)
+*   [dpaste](https://Dpaste.com)
 *   [ideone](https://Ideone.com)
 *   [ivpaste](https://Ivpaste.com)
 *   [jsbin](https://Jsbin.com)
 *   [justpaste](https://Justpaste.it)
-*   [0bin](https://0bin.net)
 *   [paste.debian](https://Paste.debian.net)
 *   [paste.ee](https://Paste.ee)
 *   [paste.kde](https://Paste.kde.org)
@@ -53,7 +51,7 @@
 
 ### Apps / File Transfer
 
-*   [qrcp (⭐8.9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+*   [qrcp (⭐9.8k)](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 
 ### CLI / File Transfer
 
@@ -61,7 +59,7 @@
 
 ### Resources / PHP
 
-*   [zxing (⭐30k)](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
+*   [zxing (⭐32k)](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
 ## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

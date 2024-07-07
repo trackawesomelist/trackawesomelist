@@ -22,7 +22,7 @@
 
 ### Mobile
 
-*   [rutils (⭐244)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐246)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Free eBooks / Single Topics
 
-*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
+*   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
 
 ### Interactive learning / Single Topics
 
@@ -164,7 +164,7 @@
 
 ### Text
 
-*   [PostalCodeValidator (⭐209)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
+*   [PostalCodeValidator (⭐208)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
 
 ---
 

@@ -92,9 +92,8 @@
 
 ### Tools / Libraries
 
-*   [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐330)](https://github.com/krasimir/coloor) - Image preloading utility.
 
 ### Tools / Web App
 
@@ -105,7 +104,6 @@
 ### Color Palettes / Web App
 
 *   [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
-*   [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
 *   [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
 *   [UI Gradients](http://uigradients.com/) - Handpicked collection of beautiful colour gradients.
 *   [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - Discover the new color palettes.

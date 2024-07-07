@@ -41,10 +41,6 @@
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / S companies
-
-*   Shyp <https://medium.com/shyp-engineering>
-
 ### Individuals/Group Contributors / I individuals
 
 *   Ilija Eftimov <http://ieftimov.com/>

@@ -71,14 +71,6 @@
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
-### Services / IRC
-
-*   [Packanalyst](https://packanalyst.com/) - Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist.
-
-### Blogs / IRC
-
-*   [The long journey of making PHP’s Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
-
 ### Videos / IRC
 
 *   [Composer Best Practices 2018 - Nils Adermann @ scotphp18](https://www.youtube.com/watch?v=eQkFjMfyqFY)
@@ -100,7 +92,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐431)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐449)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

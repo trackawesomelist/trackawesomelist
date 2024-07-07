@@ -111,13 +111,23 @@
 
 *   [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / E individuals
+
+*   Eric Elliot <https://medium.com/javascript-scene/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nick Craver <https://nickcraver.com/blog/>
+
+## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [ContactsWrapper (⭐22)](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
 
-## [14. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [15. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation
 
@@ -130,24 +140,6 @@
 ### Websites / OpenOffice
 
 *   [Spanish Forum](http://www.emesn.com/autoitforum/)
-
-## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / S companies
-
-*   Semaphore CI Engineering <http://semaphoreci.com/blog/tags/engineering.html>
-
-### Individuals/Group Contributors / E individuals
-
-*   Eric Elliot <https://medium.com/javascript-scene/>
-
-### Individuals/Group Contributors / I individuals
-
-*   Ivan Ursul <https://ivanursul.com/>
-
-### Individuals/Group Contributors / N individuals
-
-*   Nick Craver <https://nickcraver.com/blog/>
 
 ## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -196,7 +188,7 @@
 
 ### Other / Other Resources
 
-*   [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics)
+*   [Forensics (⭐3.7k)](https://github.com/Cugu/awesome-forensics)
 
 ## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -409,7 +401,7 @@
 ### data
 
 *   [world-atlas (⭐1k)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐862)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [us-atlas (⭐866)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

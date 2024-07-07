@@ -16,7 +16,7 @@
 
 ### UI / Barcode
 
-*   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+*   [HGCircularSlider (⭐2.6k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

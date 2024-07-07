@@ -10,13 +10,13 @@
 
 ### Testing
 
-*   [stream\_data (⭐844)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
+*   [stream\_data (⭐855)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Web frameworks
 
-*   [Hono (⭐13k)](https://github.com/honojs/hono) - Small and fast web framework.
+*   [Hono (⭐17k)](https://github.com/honojs/hono) - Small and fast web framework.
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

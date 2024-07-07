@@ -522,7 +522,7 @@
 
 ### Tools
 
-*   [MageSpecialist DevTools for Magento 2 (⭐213)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
+*   [MageSpecialist DevTools for Magento 2 (⭐217)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

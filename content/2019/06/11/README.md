@@ -29,7 +29,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐148)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐150)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

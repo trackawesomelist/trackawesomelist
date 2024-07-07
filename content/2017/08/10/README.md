@@ -30,7 +30,7 @@
 
 ### Tools and frameworks
 
-*   [Nightmare (⭐19k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
+*   [Nightmare (⭐20k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
 ### Blog posts
 

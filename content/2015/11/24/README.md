@@ -34,7 +34,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐523)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Third Party APIs
 
-*   [unsplash-elixir (⭐14)](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
+*   [unsplash-elixir (⭐15)](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
 
 ---
 

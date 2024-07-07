@@ -59,12 +59,12 @@
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐40k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐41k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐267)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐241)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [PXGoogleDirections (⭐269)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [reddift (⭐242)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -72,7 +72,7 @@
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -84,7 +84,7 @@
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐852)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐356)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐358)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -253,7 +253,7 @@
 
 - ☆: ★★★
 
-  Name: [prakhar1989/awesome-courses#algorithms (⭐43k)](https://github.com/prakhar1989/awesome-courses#algorithms)
+  Name: [prakhar1989/awesome-courses#algorithms (⭐55k)](https://github.com/prakhar1989/awesome-courses#algorithms)
 
   Description: A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
 
@@ -373,7 +373,7 @@
 
 - ☆: ★★☆
 
-  Name: [Coder's Calendar (⭐343)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
+  Name: [Coder's Calendar (⭐340)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
   Description: 
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -190,20 +190,6 @@
 ### Software / Libraries and Tools
 
 *   [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
-
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / W companies
-
-*   WalmartLabs <https://medium.com/walmartlabs/>
-
-### Individuals/Group Contributors / T individuals
-
-*   Tero Parviainen <http://teropa.info/>
-
-### Products/Technologies / K technologies
-
-*   Klipse <http://blog.klipse.tech/>
 
 ---
 

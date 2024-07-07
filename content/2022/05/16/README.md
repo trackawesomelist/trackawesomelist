@@ -10,7 +10,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐148)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐162)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -31,7 +31,7 @@
 ### Others / Object detection and object tracking
 
 *   [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
-    *   [GitHub repository :octocat: (⭐1.7k)](https://github.com/foxglove/studio)
+    *   [GitHub repository :octocat: (⭐1.7k)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
     *   [GitHub repository :octocat: (⭐4.5k)](https://github.com/cnr-isti-vclab/meshlab)
@@ -58,7 +58,7 @@
 
 ### CI / Miscellaneous
 
-*   [run-gatling (⭐3)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
+*   [run-gatling (⭐4)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ---
 

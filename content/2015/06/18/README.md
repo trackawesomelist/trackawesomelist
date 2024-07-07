@@ -22,7 +22,7 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐559)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐564)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -77,10 +77,6 @@
 ### Individuals/Group Contributors / A individuals
 
 *   Armin Ronacher <http://lucumr.pocoo.org/>
-
-### Individuals/Group Contributors / B individuals
-
-*   Brandon Rhodes <http://rhodesmill.org/brandon/>
 
 ### Individuals/Group Contributors / G individuals
 

@@ -16,7 +16,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐711)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐768)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Docker-Bench-Security (⭐8.9k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [Docker-Bench-Security (⭐9k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
 ### Infrastructure as Code Analysis / Ansible
 

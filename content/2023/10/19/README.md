@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2023
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Templates / Vanilla
 
-*   [create-domco (⭐14)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
+*   [create-domco (⭐16)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐46)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐48)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -108,7 +108,17 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Azure Reference Architectures** / **Azure AI Search**
+
+*   Hybrid search using Reciprocal Rank Fusion (RRF): Reciprocal Rank Fusion (RRF) is an algorithm that evaluates the search scores from multiple, previously ranked results to produce a unified result set. In Azure Cognitive Search, RRF is used whenever there are two or more queries that execute in parallel. [ref](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking)
+
+### **Langchain vs Competitors** / **Langchain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
+
+*   Promptflow is not intended to replace chat conversation flow. Instead, it’s an optimized solution for integrating Search and Open Source Language Models. By default, it supports Python, LLM, and the Prompt tool as its fundamental building blocks.
+
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Legal Assistant
 
@@ -125,19 +135,19 @@
 *   [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
 *   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐450)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐482)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -177,7 +187,7 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 30-120m |
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -191,25 +201,21 @@
 
 *   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
-## [12. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [13. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Customization
 
 *   [LS\_COLORS (⭐2k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Algorithms & Data Structures
+### iOS / Bootstrap
 
-*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
+*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
 
-### Artificial Intelligence
+### MySQL / PicoLisp
 
-*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
-
-### Computer Science
-
-*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
+*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 ---
 

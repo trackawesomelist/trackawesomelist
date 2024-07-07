@@ -10,7 +10,7 @@
 
 ### Downloader
 
-*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+*   [s3cmd (⭐4.5k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -22,7 +22,7 @@
 
 ### IDE
 
-*   [SharpDevelop (⭐2k)](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
+*   [SharpDevelop (⭐2.1k)](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 
 ## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -65,7 +65,7 @@
 *   [algorithms (⭐5.2k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.2k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐84k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐85k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐368)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐370)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

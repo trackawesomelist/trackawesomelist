@@ -57,17 +57,13 @@
 
 ## [5. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
-### Official resources
-
-*   [SaltStack site](https://www.saltstack.com/) - Company website.
-
 ### Tutorials
 
 *   [Vagrant & SaltStack Quickstart Tutorial](https://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 
 ### Tools
 
-*   [SaltGUI (⭐386)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+*   [SaltGUI (⭐499)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 
 ### Community
 
@@ -81,7 +77,7 @@
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
-### Tools / Community Chat Rooms
+### Tools / Paid and commercially available materials
 
 *   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 

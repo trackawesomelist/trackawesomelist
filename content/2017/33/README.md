@@ -193,23 +193,13 @@
 *   Airbnb <https://medium.com/airbnb-engineering>
 *   Appnexus <https://techblog.appnexus.com/>
 
-### Companies / B companies
-
-*   Binary Studio <https://binary-studio.com/blog/>
-
 ### Companies / D companies
 
-*   Data Artisans <https://data-artisans.com/blog/>
 *   Deliveroo <https://deliveroo.engineering/>
-
-### Companies / F companies
-
-*   Foursquare <https://engineering.foursquare.com/>
 
 ### Companies / G companies
 
 *   GitHub <https://githubengineering.com/>
-*   Grammarly <https://tech.grammarly.com/blog/index.html>
 
 ### Companies / J companies
 
@@ -231,8 +221,6 @@
 ### Companies / S companies
 
 *   Sharethis <https://www.sharethis.com/category/engineering/>
-*   Sift Science <https://blog.siftscience.com/?category=Engineering>
-*   Stride <https://blog.stridenyc.com/>
 
 ### Companies / T companies
 
@@ -240,7 +228,6 @@
 
 ### Individuals/Group Contributors / B individuals
 
-*   Ben McCormick <https://benmccormick.org/>
 *   Blake Erickson <https://blog.blakeerickson.com/>
 
 ### Individuals/Group Contributors / C individuals
@@ -328,7 +315,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.4k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.5k)](https://github.com/pest-parser/pest) - The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -363,45 +350,20 @@
 
 ### Multimedia
 
-*   [Vocal (⭐347)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-*   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-
-### Graphics
-
-*   [Coulr (⭐40)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-
-### System and Customization
-
-*   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-
-### Applets / Design Tooling
-
-*   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
-*   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
+*   [Vocal (⭐350)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.3k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
 *   [La Capitaine (⭐1.9k)](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
-### Icons / Homogeneous Icons
-
-*   [Obsidian (⭐181)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐266)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
-
-### Documentations / Skeumorphic Icons
-
-*   [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
-*   [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
-*   [Valadoc](https://valadoc.org/) - Documentation about Vala.
-*   [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
+*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -491,12 +453,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐152)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [LeafPlayer (⭐153)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
 *   [JSON Editor (⭐233)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-intersect (⭐321)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
+*   [vue-intersect (⭐322)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
 
 ### Components & Libraries / Utilities
 
@@ -600,11 +562,11 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐696)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐698)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
-*   [shorter\_maps (⭐230)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+*   [shorter\_maps (⭐231)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ### Networking
 
@@ -666,7 +628,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐562)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐565)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 
@@ -682,7 +644,7 @@
 
 ### Utility / Barcode
 
-*   [Highlighter (⭐931)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+*   [Highlighter (⭐932)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 

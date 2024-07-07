@@ -49,7 +49,7 @@
 
 ### Applications / Database
 
-*   [sled](https://crates.io/crates/sled) — A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
+*   [sled](https://crates.io/crates/sled) - A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
 
 ## [7. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐22)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐24)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Deobfuscation / Other Resources
 
-*   [PyInstaller Extractor (⭐2.5k)](https://github.com/extremecoders-re/pyinstxtractor) -
+*   [PyInstaller Extractor (⭐2.6k)](https://github.com/extremecoders-re/pyinstxtractor) -
     A Python script to extract the contents of a PyInstaller generated Windows
     executable file. The contents of the pyz file (usually pyc files) present
     inside the executable are also extracted and automatically fixed so that a
@@ -176,7 +176,7 @@
     This is a plugin for OllyDbg, Immunity Debugger, IDA Pro, WinDbg, and x64dbg.
 *   [Scylla Imports Reconstructor (⭐1k)](https://github.com/NtQuery/Scylla) - Find and fix
     the IAT of an unpacked / dumped PE32 malware.
-*   [ScyllaHide (⭐3.2k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
+*   [ScyllaHide (⭐3.3k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
 
 ### Miscellaneous / Other Resources
@@ -203,7 +203,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐25)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐24)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [19. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -425,11 +425,11 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐20k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐21k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐6.6k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐7.3k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ### Software / Wikis
 
@@ -461,7 +461,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐764)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐773)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [42. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -596,8 +596,8 @@
 
 ### DevSecOps / Service meshes
 
-*   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐19k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Bane (⭐1.2k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
+*   [Trivy (⭐22k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ### DevSecOps / Compliance testing and reporting
 
@@ -608,7 +608,7 @@
 
 ### GUI Development
 
-*   [DearPyGui (⭐12k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+*   [DearPyGui (⭐13k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ### Job Scheduler
 
@@ -730,7 +730,7 @@
 
 ### Testing
 
-*   [treebeard (⭐153)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
+*   [treebeard (⭐152)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
 
 ## [54. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,192 +30,186 @@
 
 *   [Google Assistant (Unofficial Desktop Client) (⭐3.6k)](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform desktop client for Google Assistant based on Google Assistant SDK. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Integrations
-
-*   [@nabla/vite-plugin-eslint (⭐108)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
-
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [Diem (⭐17k)](https://github.com/diem/diem) — Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+*   [Diem (⭐17k)](https://github.com/diem/diem) - Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 
 ### Applications / Database
 
-*   [PumpkinDB (⭐1.4k)](https://github.com/PumpkinDB/PumpkinDB) — an event sourcing database engine
-*   [tikv (⭐15k)](https://github.com/tikv/tikv) — A distributed KV database in Rust [![Build Status](https://ci.pingcap.net/job/tikv_ghpr_test/badge/icon)](https://ci.pingcap.net/job/tikv_ghpr_test/)
+*   [PumpkinDB (⭐1.4k)](https://github.com/PumpkinDB/PumpkinDB) - an event sourcing database engine
+*   [tikv (⭐15k)](https://github.com/tikv/tikv) - A distributed KV database in Rust [![Build Status](https://ci.pingcap.net/job/tikv_ghpr_test/badge/icon)](https://ci.pingcap.net/job/tikv_ghpr_test/)
 
 ### Applications / Emulators
 
 *   Intel 8080 CPU
-    *   [mohanson/i8080 (⭐108)](https://github.com/mohanson/i8080) — Intel 8080 CPU emulator
+    *   [mohanson/i8080 (⭐109)](https://github.com/mohanson/i8080) - Intel 8080 CPU emulator
 
 ### Applications / Games
 
-*   [cristicbz/rust-doom (⭐2.3k)](https://github.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game
-*   [garkimasera/rusted-ruins (⭐477)](https://github.com/garkimasera/rusted-ruins) — Extensible open world rogue like game with pixel art
-*   [lifthrasiir/angolmois-rust (⭐100)](https://github.com/lifthrasiir/angolmois-rust) — A minimalistic music video game which supports the BMS format
-*   [ozkriff/zemeroth (⭐1.4k)](https://github.com/ozkriff/zemeroth) — A small 2D turn-based hexagonal strategy game
-*   [rhex (⭐153)](https://github.com/dpc/rhex) — hexagonal ascii roguelike
+*   [cristicbz/rust-doom (⭐2.3k)](https://github.com/cristicbz/rust-doom) - A renderer for Doom, may progress to being a playable game
+*   [garkimasera/rusted-ruins (⭐485)](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art
+*   [lifthrasiir/angolmois-rust (⭐101)](https://github.com/lifthrasiir/angolmois-rust) - A minimalistic music video game which supports the BMS format
+*   [ozkriff/zemeroth (⭐1.4k)](https://github.com/ozkriff/zemeroth) - A small 2D turn-based hexagonal strategy game
+*   [rhex (⭐153)](https://github.com/dpc/rhex) - hexagonal ascii roguelike
 
 ### Applications / Graphics
 
-*   [ivanceras/svgbob (⭐3.7k)](https://github.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics
-*   [Twinklebear/tray\_rust (⭐512)](https://github.com/Twinklebear/tray_rust) — A ray tracer
+*   [ivanceras/svgbob (⭐3.8k)](https://github.com/ivanceras/svgbob) - converts ASCII diagrams into SVG graphics
+*   [Twinklebear/tray\_rust (⭐514)](https://github.com/Twinklebear/tray_rust) - A ray tracer
 
 ### Applications / Image processing
 
-*   [Imager (⭐604)](https://github.com/imager-io/imager) — Automated image optimization.
+*   [Imager (⭐627)](https://github.com/imager-io/imager) - Automated image optimization.
 
 ### Applications / Security tools
 
-*   [kpcyrd/authoscope (⭐386)](https://github.com/kpcyrd/authoscope) — A scriptable network authentication cracker
-*   [kpcyrd/sniffglue (⭐1.1k)](https://github.com/kpcyrd/sniffglue) — A secure multithreaded packet sniffer
-*   [ripasso (⭐686)](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
-*   [rustscan/rustscan (⭐13k)](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
+*   [kpcyrd/authoscope (⭐387)](https://github.com/kpcyrd/authoscope) - A scriptable network authentication cracker
+*   [kpcyrd/sniffglue (⭐1.1k)](https://github.com/kpcyrd/sniffglue) - A secure multithreaded packet sniffer
+*   [ripasso (⭐692)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
+*   [rustscan/rustscan (⭐13k)](https://github.com/RustScan/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
 ### Applications / System tools
 
-*   [Luminarys/synapse (⭐849)](https://github.com/Luminarys/synapse) — Flexible and fast BitTorrent daemon.
-*   [m4b/bingrep (⭐1.7k)](https://github.com/m4b/bingrep) — Greps through binaries from various OSs and architectures, and colors them.
-*   [mxseev/logram (⭐97)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
+*   [Luminarys/synapse (⭐852)](https://github.com/Luminarys/synapse) - Flexible and fast BitTorrent daemon.
+*   [m4b/bingrep (⭐1.7k)](https://github.com/m4b/bingrep) - Greps through binaries from various OSs and architectures, and colors them.
+*   [mxseev/logram (⭐97)](https://github.com/mxseev/logram) - Push log files' updates to Telegram
 *   [nivekuil/rip (⭐1.3k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 
 ### Applications / Text processing
 
-*   [Lisprez/so\_stupid\_search (⭐159)](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
-*   [ripgrep](https://crates.io/crates/ripgrep) — combines the usability of The Silver Searcher with the raw speed of grep
+*   [Lisprez/so\_stupid\_search (⭐162)](https://github.com/Lisprez/so_stupid_search) - A simple and fast string search tool for human beings
+*   [ripgrep](https://crates.io/crates/ripgrep) - combines the usability of The Silver Searcher with the raw speed of grep
 
 ### Applications / Web Servers
 
-*   [ronanyeah/rust-hasura (⭐139)](https://github.com/ronanyeah/rust-hasura) — A demonstration of how a GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
-*   [thecoshman/http (⭐435)](https://github.com/thecoshman/http) — Host These Things Please — A basic http server for hosting a folder fast and simply
+*   [ronanyeah/rust-hasura (⭐140)](https://github.com/ronanyeah/rust-hasura) - A demonstration of how a GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
+*   [thecoshman/http (⭐438)](https://github.com/thecoshman/http) - Host These Things Please - A basic http server for hosting a folder fast and simply
 
 ### Development tools / Web Servers
 
-*   [Rustup (⭐5.9k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
+*   [Rustup (⭐6k)](https://github.com/rust-lang/rustup) - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI
 
 *   C++
-    *   [dtolnay/cxx (⭐5.6k)](https://github.com/dtolnay/cxx) — Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx)
+    *   [dtolnay/cxx (⭐5.7k)](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx)
     *   [rust-cpp](https://crates.io/crates/cpp) - Embed C++ code directly in Rust. [![Build status](https://ci.appveyor.com/api/projects/status/uu76vmcrwnjqra0u/branch/master?svg=true)](https://ci.appveyor.com/project/mystor/rust-cpp/branch/master)
-    *   [rust-lang/rust-bindgen (⭐4.2k)](https://github.com/rust-lang/rust-bindgen) — A Rust bindings generator
+    *   [rust-lang/rust-bindgen (⭐4.2k)](https://github.com/rust-lang/rust-bindgen) - A Rust bindings generator
 
 ### Development tools / Profiling
 
-*   [sharkdp/hyperfine (⭐20k)](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool
+*   [sharkdp/hyperfine (⭐21k)](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 
 ### Libraries / Artificial Intelligence
 
-*   [Martin1887/oxigen (⭐160)](https://github.com/Martin1887/oxigen) — Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
-*   [willi-kappler/darwin-rs (⭐112)](https://github.com/willi-kappler/darwin-rs) — Evolutionary algorithms
-*   [LaurentMazare/tch-rs (⭐3.9k)](https://github.com/LaurentMazare/tch-rs) — Bindings for PyTorch.
-*   [maciejkula/rustlearn (⭐611)](https://github.com/maciejkula/rustlearn) — Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
-*   [rust-ml/linfa (⭐3.4k)](https://github.com/rust-ml/linfa) — Machine learning framework.
-*   [tensorflow/rust (⭐5k)](https://github.com/tensorflow/rust) — Bindings for TensorFlow.
+*   [Martin1887/oxigen (⭐163)](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
+*   [willi-kappler/darwin-rs (⭐114)](https://github.com/willi-kappler/darwin-rs) - Evolutionary algorithms
+*   [LaurentMazare/tch-rs (⭐4k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
+*   [maciejkula/rustlearn (⭐613)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
+*   [rust-ml/linfa (⭐3.5k)](https://github.com/rust-ml/linfa) - Machine learning framework.
+*   [tensorflow/rust (⭐5.1k)](https://github.com/tensorflow/rust) - Bindings for TensorFlow.
 
 ### Libraries / Astronomy
 
-*   [saurvs/astro-rust (⭐258)](https://github.com/saurvs/astro-rust) — astronomy
+*   [saurvs/astro-rust (⭐258)](https://github.com/saurvs/astro-rust) - astronomy
 
 ### Libraries / Asynchronous
 
-*   [rust-lang/futures-rs (⭐5.3k)](https://github.com/rust-lang/futures-rs) — Zero-cost futures
-*   [TeaEntityLab/fpRust (⭐115)](https://github.com/TeaEntityLab/fpRust) — Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust
-*   [Xudong-Huang/may (⭐1.7k)](https://github.com/Xudong-Huang/may) — Stackful coroutine library
+*   [rust-lang/futures-rs (⭐5.3k)](https://github.com/rust-lang/futures-rs) - Zero-cost futures
+*   [TeaEntityLab/fpRust (⭐115)](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust
+*   [Xudong-Huang/may (⭐1.8k)](https://github.com/Xudong-Huang/may) - Stackful coroutine library
 
 ### Libraries / Audio and Music
 
-*   [hound](https://crates.io/crates/hound) — A WAV encoding and decoding library
-*   [ozankasikci/rust-music-theory (⭐616)](https://github.com/ozankasikci/rust-music-theory) — Music theory library
+*   [hound](https://crates.io/crates/hound) - A WAV encoding and decoding library
+*   [ozankasikci/rust-music-theory (⭐620)](https://github.com/ozankasikci/rust-music-theory) - Music theory library
 
 ### Libraries / Authentication
 
-*   [sgrust01/jwtvault (⭐67)](https://github.com/sgrust01/jwtvault) — Async library to manage and orchestrate JWT workflow
+*   [sgrust01/jwtvault (⭐68)](https://github.com/sgrust01/jwtvault) - Async library to manage and orchestrate JWT workflow
 
 ### Libraries / Caching
 
-*   [mozilla/sccache (⭐5.4k)](https://github.com/mozilla/sccache/) - Shared Compilation Cache, great compilation
+*   [mozilla/sccache (⭐5.6k)](https://github.com/mozilla/sccache/) - Shared Compilation Cache, great compilation
 
 ### Libraries / Configuration
 
-*   [mehcode/config-rs (⭐2.4k)](https://github.com/mehcode/config-rs) \[[config](https://crates.io/crates/config)] — Layered configuration system (with strong support for 12-factor applications).
+*   [mehcode/config-rs (⭐2.4k)](https://github.com/mehcode/config-rs) \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
 
 ### Libraries / Cryptography
 
-*   [conradkleinespel/rooster (⭐151)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
-*   [orion-rs/orion (⭐535)](https://github.com/orion-rs/orion) — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
-*   [RustCrypto/hashes (⭐1.7k)](https://github.com/RustCrypto/hashes) — Collection of cryptographic hash functions
+*   [conradkleinespel/rooster (⭐151)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
+*   [orion-rs/orion (⭐536)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
+*   [RustCrypto/hashes (⭐1.7k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
 
 ### Libraries / Email
 
-*   [jdrouet/mrml (⭐311)](https://github.com/jdrouet/mrml) - A library to generate nice email templates working on any mail client.
-*   [lettre/lettre (⭐1.7k)](https://github.com/lettre/lettre) — an SMTP-library [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
-*   [staktrace/mailparse (⭐172)](https://github.com/staktrace/mailparse) \[[mailparse](https://crates.io/crates/mailparse)] — A library for parsing real-world email files
+*   [jdrouet/mrml (⭐317)](https://github.com/jdrouet/mrml) - A library to generate nice email templates working on any mail client.
+*   [lettre/lettre (⭐1.8k)](https://github.com/lettre/lettre) - an SMTP-library [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
+*   [staktrace/mailparse (⭐180)](https://github.com/staktrace/mailparse) \[[mailparse](https://crates.io/crates/mailparse)] - A library for parsing real-world email files
 
 ### Libraries / Encoding
 
 *   XML
-    *   [Florob/RustyXML (⭐102)](https://github.com/Florob/RustyXML) — an XML parser
-    *   [media-io/yaserde (⭐170)](https://github.com/media-io/yaserde) — Yet Another Serializer/Deserializer specialized for XML
-    *   [netvl/xml-rs (⭐459)](https://github.com/netvl/xml-rs) — A streaming XML library
-    *   [shepmaster/sxd-document (⭐152)](https://github.com/shepmaster/sxd-document) — An XML library
-    *   [shepmaster/sxd-xpath (⭐118)](https://github.com/shepmaster/sxd-xpath) — An XPath library
-    *   [tafia/quick-xml (⭐1.1k)](https://github.com/tafia/quick-xml) — High performance XML pull reader/writer
+    *   [Florob/RustyXML (⭐103)](https://github.com/Florob/RustyXML) - an XML parser
+    *   [media-io/yaserde (⭐174)](https://github.com/media-io/yaserde) - Yet Another Serializer/Deserializer specialized for XML
+    *   [netvl/xml-rs (⭐459)](https://github.com/netvl/xml-rs) - A streaming XML library
+    *   [shepmaster/sxd-document (⭐154)](https://github.com/shepmaster/sxd-document) - An XML library
+    *   [shepmaster/sxd-xpath (⭐120)](https://github.com/shepmaster/sxd-xpath) - An XPath library
+    *   [tafia/quick-xml (⭐1.1k)](https://github.com/tafia/quick-xml) - High performance XML pull reader/writer
 
 ### Libraries / Graphics
 
-*   [gfx-rs/gfx (⭐5.3k)](https://github.com/gfx-rs/gfx) — A high-performance, bindless graphics API.
-*   [gfx-rs/wgpu (⭐11k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
+*   [gfx-rs/gfx (⭐5.3k)](https://github.com/gfx-rs/gfx) - A high-performance, bindless graphics API.
+*   [gfx-rs/wgpu (⭐12k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
 
 ### Libraries / GUI
 
-*   [OrbTk (⭐3.8k)](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
-*   [PistonDevelopers/conrod (⭐3.4k)](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library
+*   [OrbTk (⭐3.8k)](https://github.com/redox-os/orbtk) - The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
+*   [PistonDevelopers/conrod (⭐3.4k)](https://github.com/PistonDevelopers/conrod/) - An easy-to-use, immediate-mode, 2D GUI library
 
 ### Libraries / Image processing
 
-*   [twistedfall/opencv-rust (⭐1.8k)](https://github.com/twistedfall/opencv-rust) — Bindings for OpenCV
+*   [twistedfall/opencv-rust (⭐1.9k)](https://github.com/twistedfall/opencv-rust) - Bindings for OpenCV
 
 ### Libraries / Logging
 
-*   [estk/log4rs (⭐948)](https://github.com/estk/log4rs) — highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
-*   [seanmonstar/pretty-env-logger (⭐465)](https://github.com/seanmonstar/pretty-env-logger) — A pretty, easy-to-use logger.
+*   [estk/log4rs (⭐968)](https://github.com/estk/log4rs) - highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
+*   [seanmonstar/pretty-env-logger (⭐473)](https://github.com/seanmonstar/pretty-env-logger) - A pretty, easy-to-use logger.
 
 ### Libraries / Network programming
 
 *   CoAP
-    *   [Covertness/coap-rs (⭐201)](https://github.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
+    *   [Covertness/coap-rs (⭐202)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard (⭐744)](https://github.com/fussybeaver/bollard) — Docker daemon API
+    *   [fussybeaver/bollard (⭐782)](https://github.com/fussybeaver/bollard) - Docker daemon API
 
 ### Libraries / Parsing
 
-*   [freestrings/jsonpath (⭐120)](https://github.com/freestrings/jsonpath) — [JsonPath](https://goessner.net/articles/JsonPath/) engine. Webassembly and Javascript support too
+*   [freestrings/jsonpath (⭐122)](https://github.com/freestrings/jsonpath) - [JsonPath](https://goessner.net/articles/JsonPath/) engine. Webassembly and Javascript support too
 
 ### Libraries / Scripting
 
-*   [PistonDevelopers/dyon (⭐1.7k)](https://github.com/PistonDevelopers/dyon) — A rusty dynamically typed scripting language
+*   [PistonDevelopers/dyon (⭐1.7k)](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 
 ### Libraries / Text processing
 
-*   [Daniel-Liu-c0deb0t/triple\_accel (⭐93)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)
-*   [greyblake/whatlang-rs (⭐954)](https://github.com/greyblake/whatlang-rs) — Natural language detection library based on trigrams
-*   [Lucretiel/joinery (⭐92)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] – Generic string + iterable joining
+*   [Daniel-Liu-c0deb0t/triple\_accel (⭐98)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)
+*   [greyblake/whatlang-rs (⭐961)](https://github.com/greyblake/whatlang-rs) - Natural language detection library based on trigrams
+*   [Lucretiel/joinery (⭐92)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] - Generic string + iterable joining
 
 ### Registries / Web programming
 
-*   [Crates](https://crates.io) — The official public registry for Rust/Cargo.
+*   [Crates](https://crates.io) - The official public registry for Rust/Cargo.
 
 ### Resources / Web programming
 
-*   [RustBooks (⭐4.1k)](https://github.com/sger/RustBooks) — list of RustBooks
-*   [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t)
+*   [RustBooks (⭐4.2k)](https://github.com/sger/RustBooks) - list of RustBooks
+*   [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t) - Recorded talks from RustCamp 2015
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -270,7 +264,7 @@
 
 
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 
@@ -278,9 +272,9 @@
 
 ### Data Visualization
 
-*   [bqplot (⭐3.5k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
+*   [bqplot (⭐3.6k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -320,7 +314,7 @@
 *   [MQTT](https://mqtt.org/mqtt-specification/) - A lightweight and efficient publish-subscribe protocol that supports messaging between devices. MQTT enables low-overhead communication and is ideal for IoT and mobile applications.
 *   [SOAP](https://www.w3.org/TR/soap/) - A messaging protocol that uses XML to enable communication between systems. SOAP supports a wide range of messaging scenarios, including distributed computing and enterprise applications.
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Obsidian
 

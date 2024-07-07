@@ -8,10 +8,10 @@
 
 ## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
-### Automation / Code libraries and bindings
+### Automation and Convention / Code libraries and bindings
 
-*   [MultiScanner (⭐600)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
-*   [libcrafter (⭐291)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
+*   [MultiScanner (⭐615)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
+*   [libcrafter (⭐296)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -31,7 +31,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐45k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐47k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

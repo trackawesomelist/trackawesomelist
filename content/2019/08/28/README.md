@@ -10,15 +10,15 @@
 
 ### Plugins / IRC
 
-*   [Composer-Downloads-Plugin (⭐5)](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
+*   [Composer-Downloads-Plugin (⭐6)](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Language Models / BERT models
+### Techniques and Models / BERT models
 
 *   ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
-    *   [Alsentzer et al Clinical BERT (⭐524)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
-    *   [Huang et al ClinicalBERT (⭐265)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
+    *   [Alsentzer et al Clinical BERT (⭐634)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
+    *   [Huang et al ClinicalBERT (⭐361)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
 
 ## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

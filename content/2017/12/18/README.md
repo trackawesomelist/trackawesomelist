@@ -16,7 +16,7 @@
 
 ### CLI and REPL
 
-*   Use [ts-node (⭐12k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+*   Use [ts-node (⭐13k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 *   How to make executable typescript scripts:
     1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
     2.  Add this [shebang](https://en.wikipedia.org/wiki/Shebang_\(Unix\)) as first line to your script: `#!npx ts-node`
@@ -64,7 +64,7 @@
 
 ### Video
 
-*   [Vireo (⭐924)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐926)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 

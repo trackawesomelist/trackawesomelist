@@ -50,7 +50,7 @@
 
 ### Packages / Libraries
 
-*   [Wavesurfer.js (⭐7.9k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
+*   [Wavesurfer.js (⭐8.4k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

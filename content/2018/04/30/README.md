@@ -54,7 +54,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [atvjs (⭐308)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+*   [atvjs (⭐310)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

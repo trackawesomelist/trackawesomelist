@@ -22,7 +22,7 @@
 
 ### Misc
 
-*   [Jot (⭐604)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐633)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 
@@ -35,10 +35,9 @@
 ### Community
 
 *   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 *   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
-### On-Site Training / Testing
+### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Boot Camp](https://angularbootcamp.com)
 
@@ -52,7 +51,7 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐973)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐979)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 

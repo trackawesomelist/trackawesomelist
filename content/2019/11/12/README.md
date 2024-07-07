@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [StringSifter (⭐647)](https://github.com/fireeye/stringsifter) - A machine learning tool
+*   [StringSifter (⭐659)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐161)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐162)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -40,7 +40,7 @@
 
 ### Resources
 
-*   [Low Resource Languages (⭐354)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐380)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐238)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐247)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

@@ -23,7 +23,7 @@
 
 ### MVVM
 
-*   [Prism (⭐6.1k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
+*   [Prism (⭐6.2k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
 ## [4. Typography](/content/deanhume/typography/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Domain Analysis / Other Resources
 
-*   [Machinae (⭐496)](https://github.com/hurricanelabs/machinae) - OSINT tool for
+*   [Machinae (⭐499)](https://github.com/hurricanelabs/machinae) - OSINT tool for
     gathering information about URLs, IPs, or hashes. Similar to Automator.
 *   [TekDefense Automater](http://www.tekdefense.com/automater/) - OSINT tool
     for gathering information about URLs, IPs, or hashes.

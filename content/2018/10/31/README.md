@@ -22,7 +22,7 @@
 
 ### Contents / Libraries
 
-*   [Node-hl7-parser (⭐40)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
+*   [Node-hl7-parser (⭐43)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
 
 ## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -89,7 +89,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐161k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐165k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

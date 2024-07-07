@@ -39,7 +39,7 @@
 
 ### Multimedia content processing
 
-*   [Bento4 (⭐1.8k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+*   [Bento4 (⭐1.9k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

@@ -45,7 +45,7 @@ My Awesome list of productivity tools and products
 
 ### Time Tracking
 
-*   **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - Easy time tracking for any project.
+*   **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - [tutorial](https://blog.productivity.directory/how-to-use-toggl-track-a-beginners-guide-2bd299986bcb) - Easy time tracking for any project.
 *   **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 *   **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 

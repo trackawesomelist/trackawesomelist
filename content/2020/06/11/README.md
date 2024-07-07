@@ -14,7 +14,7 @@
     *   [cuisine (⭐1.3k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
     *   [fabric (⭐15k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
 *   Monitoring
-    *   [psutil (⭐9.9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐10k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 
 ## [2. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-docker-heroku-template (⭐35)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
+*   [django-docker-heroku-template (⭐36)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐926)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐956)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

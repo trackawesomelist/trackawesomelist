@@ -21,14 +21,14 @@
 ### Schema / Changes
 
 *   [2bass (⭐42)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐7.8k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐4.4k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [flyway (⭐7.9k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐4.5k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 *   [Pyrseas (⭐391)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
-*   [PostgREST (⭐22k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
+*   [PostgREST (⭐23k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -41,7 +41,7 @@
 ### Tools and frameworks
 
 *   [ember-visual-test (⭐25)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
-*   [AET (⭐136)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+*   [AET (⭐142)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Multimedia content processing
 
-*   [EBU ADM Renderer (⭐70)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
+*   [EBU ADM Renderer (⭐76)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

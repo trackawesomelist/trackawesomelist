@@ -10,7 +10,7 @@
 
 ### Haskell / React
 
-*   [morpheus-graphql (⭐400)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
+*   [morpheus-graphql (⭐406)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -32,7 +32,7 @@
 
 *   [bettermap (⭐15)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
 *   [durationjs (⭐21)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
-*   [fortuna (⭐18)](https://github.com/retraigo/fortuna) - Weighted gacha system.
+*   [fortuna (⭐20)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
 ### Showcases / XML
 
@@ -42,7 +42,7 @@
 
 ### Financial
 
-*   [bbgo (⭐1.1k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+*   [bbgo (⭐1.2k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 
 ---
 

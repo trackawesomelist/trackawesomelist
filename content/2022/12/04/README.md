@@ -20,5 +20,5 @@
 
 ---
 
-- Prev: [Dec 05, 2022](/content/2022/12/05/README.md)
+- Prev: [Dec 06, 2022](/content/2022/12/06/README.md)
 - Next: [Dec 03, 2022](/content/2022/12/03/README.md)

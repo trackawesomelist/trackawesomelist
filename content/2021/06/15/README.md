@@ -78,7 +78,7 @@
 ### Example Projects
 
 *   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐241)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐101)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Example of adding API Key authentication to Keycloak (⭐108)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 
@@ -102,7 +102,7 @@
 
 ### Visualization
 
-*   [Evidently (⭐4.4k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐4.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

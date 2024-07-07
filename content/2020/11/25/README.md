@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Swiftkube (⭐118)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐121)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -70,31 +70,25 @@
 
 *   [vue-notification-ui (⭐5)](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
 
-## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Applets / Design Tooling
-
-*   [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
-
-## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Visual
 
 *   [gradslam (⭐1.1k)](https://github.com/gradslam/gradslam) - An open source differentiable dense SLAM library for PyTorch.
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Gaming
 
 *   [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
 
-## [13. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Video
 
 *   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2 (⭐23k)](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
 
-## [14. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [13. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 

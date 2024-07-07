@@ -46,7 +46,7 @@
 
 ### Honeypots / Tarpits
 
-*   [Endlessh (⭐6.4k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+*   [Endlessh (⭐7k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
 *   [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)
@@ -60,7 +60,6 @@
 ### Official Venues / Skeumorphic Icons
 
 *   [GNOME's Discourse](https://discourse.gnome.org)
-*   [GNOME Wiki](https://wiki.gnome.org/)
 *   [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 
 ### GNOME on Social Networks / Skeumorphic Icons

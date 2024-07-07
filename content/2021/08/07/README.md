@@ -39,7 +39,7 @@
 
 ### Applications / Observability
 
-*   [avito-tech/bioyino (⭐225)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
+*   [avito-tech/bioyino (⭐226)](https://github.com/avito-tech/bioyino) - A high-performance scalable StatsD compatible server.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-word-highlighter (⭐267)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
+*   [vue-word-highlighter (⭐272)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
 ---
 

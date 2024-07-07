@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splash (⭐129)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [vue-splash (⭐128)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐736)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
+*   [PassWall (⭐744)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -51,7 +51,7 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐172)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐175)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -60,12 +60,12 @@
 *   Algorithms
     *   [algorithms (⭐24k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
     *   [python-ds (⭐2.7k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    *   [sortedcontainers (⭐3.2k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [thealgorithms (⭐178k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [sortedcontainers (⭐3.3k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
+    *   [thealgorithms (⭐182k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐7.8k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐8.1k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Asynchronous Programming
 
@@ -79,38 +79,38 @@
 ### Code Analysis
 
 *   Static Type Checkers, also see [awesome-python-typing (⭐1.6k)](https://github.com/typeddjango/awesome-python-typing)
-    *   [mypy (⭐17k)](https://github.com/python/mypy) - Check variable types during compile time.
+    *   [mypy (⭐18k)](https://github.com/python/mypy) - Check variable types during compile time.
     *   [pyre-check (⭐6.7k)](https://github.com/facebook/pyre-check) - Performant type checking.
-    *   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+    *   [typeshed (⭐4.2k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 
 ### Computer Vision
 
-*   [tesserocr (⭐1.9k)](https://github.com/sirfz/tesserocr) - Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
+*   [tesserocr (⭐2k)](https://github.com/sirfz/tesserocr) - Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
 
 ### Configuration Files
 
-*   [hydra (⭐8.2k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
+*   [hydra (⭐8.4k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 
 ### Data Visualization
 
-*   [plotnine (⭐3.8k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
+*   [plotnine (⭐3.9k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 
 ### DevOps Tools
 
 *   Configuration Management
-    *   [ansible (⭐61k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    *   [cloudinit (⭐2.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    *   [ansible (⭐62k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+    *   [cloudinit (⭐2.7k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
     *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
-    *   [pyinfra (⭐2.6k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    *   [pyinfra (⭐3.7k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐14k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
 ### Distribution
 
-*   [pyarmor (⭐2.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐3.1k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐8.2k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐8.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### Job Scheduler
 
@@ -123,9 +123,9 @@
 ### Package Management
 
 *   [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-    *   [pip-tools (⭐7.5k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+    *   [pip-tools (⭐7.6k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
     *   [PyPI](https://pypi.org/)
-*   [poetry (⭐29k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+*   [poetry (⭐30k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 ### Package Repositories
 
@@ -133,7 +133,7 @@
 
 ### RPC Servers
 
-*   [zeroRPC (⭐3.1k)](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
+*   [zeroRPC (⭐3.2k)](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
 
 ### Search
 
@@ -142,22 +142,22 @@
 
 ### Static Site Generator
 
-*   [mkdocs (⭐18k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+*   [mkdocs (⭐19k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 *   [pelican (⭐12k)](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
 ### Template Engine
 
-*   [Jinja2 (⭐9.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐10k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐3.2k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐3.3k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Animations / Other
 
-*   [particles-bg (⭐621)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐638)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ---
 

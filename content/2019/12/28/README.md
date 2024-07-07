@@ -444,7 +444,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐301)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   🍰 [Queue plugin (⭐302)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### File Manipulation
 

@@ -16,7 +16,13 @@
 
 *   [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### Node-Powered CMS Frameworks / Runner
+
+*   [Factor (⭐1.4k)](https://github.com/fiction-com/factor) - The Javascript CMS
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -26,7 +32,7 @@
 
 *   [Apache Directory Studio](https://directory.apache.org/studio/) - LDAP browser and Active Directory client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
@@ -34,47 +40,47 @@
 
 ### Testing
 
-*   [treon (⭐293)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+*   [treon (⭐300)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐192)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐195)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐61k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐641)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
-*   [cashify (⭐401)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐75)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [basic-ftp (⭐653)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [genepi (⭐77)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
 *   [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
-## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Frameworks / DevOps
 
 *   [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - IT, Devops and helping your Business win :orange\_book:.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 
 *   [Vue.js Amsterdam](https://vuejs.amsterdam)
 
-## [8. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Community
 
@@ -88,13 +94,13 @@
 
 *   [Django Riffs](https://djangoriffs.com) - A new podcast from Matt Layman.
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [10. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Courses / Build system (ROS2)
 
 *   [ROS 2 New Features: Skill-up with the latest features of Robot Operating System 2  (Udemy)](https://www.udemy.com/course/ros-2-new-features/)
 
-## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Single controls
 
@@ -118,17 +124,17 @@
 
 *   [C-To-Delphi (⭐258)](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐424)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐435)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐21k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐22k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
@@ -142,7 +148,7 @@
 
 *   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
 
-## [13. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [14. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
@@ -152,7 +158,7 @@
 
 *   [Russia](https://t.me/dddevotion)
 
-## [14. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [15. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -175,24 +181,24 @@
 
 *   [Algo (⭐26k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
-## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
 *   [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
-## [16. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [17. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [Cabal (⭐824)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐835)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
 *   <https://lhs.nu/archive>
 
-## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [18. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Package and Build Management
 
@@ -202,37 +208,37 @@
 
 *   [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Scraping
 
 *   [DiDOM (⭐2.2k)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 
-## [19. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [20. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Evaluation
 
 *   [compare-mt (⭐446)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
-## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-jump (⭐315)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐321)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
-## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐152)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐151)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [SGX-Step (⭐421)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
+*   [SGX-Step (⭐428)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
 
-## [23. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [24. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Data Management
 
@@ -242,7 +248,7 @@
 
 *   [Preparing and Architecting for Machine Learning](https://www.gartner.com/en/documents/3889770/preparing-and-architecting-for-machine-learning-2018-upd)
 
-## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Audio
 
@@ -252,13 +258,13 @@
 
 *   [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT (⭐1.3k)](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 
-## [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services & Platforms
 
 *   [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 
-## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [27. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Electron
 
@@ -269,16 +275,6 @@
   Link: <https://exifcleaner.com>
 
 
-
-## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Node-Powered CMS Frameworks / Runner
-
-*   [Factor (⭐1.4k)](https://github.com/fiction-com/factor) - The Javascript CMS
-
-### Video/Audio / Other
-
-*   [exifr (⭐954)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [28. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -319,7 +315,7 @@
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [cl-sentry-client (⭐23)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-sentry-client (⭐22)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [31. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -338,10 +334,6 @@
 ### Companies / C companies
 
 *   CSC - IT Center For Science - Cloud Team <https://cloud.blog.csc.fi/>
-
-### Individuals/Group Contributors / G individuals
-
-*   Glenn Engstrand <http://glennengstrand.info>
 
 ### Individuals/Group Contributors / S individuals
 
@@ -371,7 +363,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐181)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐184)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [36. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -460,7 +452,7 @@
 
 ## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 
@@ -469,20 +461,20 @@
 ### Development tools / IDEs
 
 *   Visual Studio
-    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐702)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) - Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+    *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [48. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐564)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐590)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Processing and ETL
 
-*   [CSV Reader (⭐179)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+*   [CSV Reader (⭐178)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 
 ### E-Commerce and Payments
 
@@ -490,7 +482,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐635)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐638)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [50. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -614,25 +606,25 @@
 
 ### For Developers
 
-*   [mkdkr (⭐352)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐363)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ### Shell Script Development
 
-*   [ansi (⭐554)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
-*   [argbash (⭐1.3k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
-*   [async-bash (⭐135)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
+*   [ansi (⭐604)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [argbash (⭐1.4k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
+*   [assert.sh (⭐487)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+*   [async-bash (⭐137)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 *   [bash3boilerplate (⭐2.1k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐591)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
-*   [bashify (⭐98)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
-*   [bashing (⭐73)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐90)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [bashful (⭐599)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [bashify (⭐99)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
+*   [bashing (⭐77)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
+*   [bashmanager (⭐93)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
 *   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
-*   [bash\_unit (⭐564)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐531)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
-*   [semver\_bash (⭐240)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
-*   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - Format bash programs.
-*   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
+*   [bash\_unit (⭐586)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
+*   [mo (⭐547)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [semver\_bash (⭐246)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
+*   [shfmt (⭐7k)](https://github.com/mvdan/sh) - Format bash programs.
+*   [shunit2 (⭐1.6k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## [56. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -644,7 +636,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐289)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐291)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ### Boilerplate / Mouse Events
 
@@ -654,11 +646,11 @@
 
 ### Software / JavaScript
 
-*   [Oligrapher (⭐88)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
+*   [Oligrapher (⭐99)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
 
 ### Software / R
 
-*   [neo4r (⭐101)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
+*   [neo4r (⭐106)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 *   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
     *   [informR](https://CRAN.R-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 

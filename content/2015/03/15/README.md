@@ -20,7 +20,7 @@
 
 ### Packages / Miscellaneous
 
-*   [dotenv (⭐18k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+*   [dotenv (⭐19k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

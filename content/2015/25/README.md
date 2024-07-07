@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐404)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐406)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -90,7 +90,7 @@
 ### MVVM
 
 *   [MVVMCross (⭐3.8k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐957)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐975)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐462)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐463)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
@@ -298,7 +298,7 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐559)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐564)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ### Control Flow / Runner
 
@@ -306,7 +306,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐204)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐201)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -320,13 +320,7 @@
 
 *   Badoo <https://techblog.badoo.com/>
 *   Base Lab <https://lab.getbase.com/category/engineering/>
-*   BitTorrent <http://engineering.bittorrent.com/>
 *   Brandwatch <http://engineering.brandwatch.com/>
-
-### Companies / C companies
-
-*   Codementor <https://www.codementor.io/tutorial>
-*   Coolblue <http://devblog.coolblue.nl/>
 
 ### Companies / E companies
 
@@ -341,10 +335,6 @@
 
 *   Localytics <http://eng.localytics.com/>
 
-### Companies / M companies
-
-*   Mandrill <http://blog.mandrill.com/>
-
 ### Companies / N companies
 
 *   NPR Apps <http://blog.apps.npr.org/>
@@ -355,7 +345,6 @@
 
 ### Companies / R companies
 
-*   Redbubble <http://artplustech.com/>
 *   Remind <http://engineering.remind.com/>
 
 ### Companies / S companies
@@ -366,17 +355,11 @@
 
 ### Companies / T companies
 
-*   TaskRabbit <http://tech.taskrabbit.com/>
 *   theScore <http://techblog.thescore.com/>
-
-### Companies / W companies
-
-*   WebEngage <http://engineering.webengage.com/>
 
 ### Companies / Z companies
 
 *   Zalando <https://tech.zalando.com/blog/>
-*   Zumba <http://tech.zumba.com/>
 
 ### Individuals/Group Contributors / A individuals
 
@@ -387,7 +370,6 @@
 ### Individuals/Group Contributors / B individuals
 
 *   Bill the Lizard <http://www.billthelizard.com/>
-*   Brandon Rhodes <http://rhodesmill.org/brandon/>
 *   Brendan Eich <https://brendaneich.com/>
 
 ### Individuals/Group Contributors / C individuals
@@ -399,7 +381,6 @@
 *   Daniel Doubrovkine (dB.) <http://code.dblock.org/>
 *   Dave Beazley <http://www.dabeaz.com/blog.html>
 *   Dean Hume <http://deanhume.com/>
-*   Deborah Digges <http://deborah-digges.github.io/>
 *   Dereuromark <http://www.dereuromark.de/>
 
 ### Individuals/Group Contributors / E individuals

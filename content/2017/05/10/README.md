@@ -87,7 +87,7 @@
 
 ### Implementations/Compilers
 
-*   [cltk (⭐72)](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
+*   [cltk (⭐73)](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
 
 ## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

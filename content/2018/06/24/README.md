@@ -8,10 +8,6 @@
 
 ## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Individuals/Group Contributors / J individuals
-
-*   Jon Kensy <http://www.jonkensy.com/>
-
 ### Individuals/Group Contributors / L individuals
 
 *   LiveOverflow <https://liveoverflow.com/blog/index.html>

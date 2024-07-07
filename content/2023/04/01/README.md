@@ -16,7 +16,7 @@
 
 ### Misc libraries
 
-*   [dantecatalfamo/9p-zig (⭐3)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
+*   [dantecatalfamo/9p-zig (⭐4)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -26,15 +26,15 @@
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Language Models / GPT models
+### Techniques and Models / GPT-2 models
 
-*   [BioGPT (⭐3.6k)](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
+*   [BioGPT (⭐4.3k)](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
-*   [virtua (⭐979)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
+*   [virtua (⭐1k)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

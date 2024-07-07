@@ -68,7 +68,7 @@
 
 ### Testing
 
-*   [treebeard (⭐153)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
+*   [treebeard (⭐152)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
 
 ## [7. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 

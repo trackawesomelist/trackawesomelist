@@ -24,7 +24,7 @@
 
 ### Network Inspection
 
-*   [betwixt (⭐4.4k)](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
+*   [betwixt (⭐4.5k)](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
 
 ### Chrome DevTools Protocol
 
@@ -36,7 +36,7 @@
 
 ### Using DevTools frontend with other platforms / ClojureScript
 
-*   [Dirac (⭐762)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
+*   [Dirac (⭐766)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 ### Using DevTools frontend with other platforms / iOS
 
@@ -236,17 +236,17 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐829)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐831)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.8k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐2.9k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Scripting
 
-*   [sol2 (⭐4k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐4.1k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ---
 

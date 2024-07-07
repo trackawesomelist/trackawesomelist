@@ -34,7 +34,7 @@
 
 ### HTTP
 
-*   [finch (⭐1.2k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐0)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Compression
 
-*   [polylines.cr (⭐9)](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
+*   [polylines.cr (⭐10)](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
 
 ## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

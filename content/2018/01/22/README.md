@@ -41,15 +41,15 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐287)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
-*   [SwiftyJSON (⭐22k)](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
+*   [SwiftyJSON (⭐23k)](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐886)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐887)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

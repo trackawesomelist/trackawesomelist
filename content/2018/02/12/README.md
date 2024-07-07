@@ -10,14 +10,14 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XMR Miner (⭐501)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
-*   [XMR Paper (⭐7)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
+*   [XMR Miner (⭐502)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
+*   [XMR Paper (⭐8)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Scala / Git
 
-*   [tsec (⭐350)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+*   [tsec (⭐349)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -29,8 +29,8 @@
 
 ### Miscellaneous
 
-*   [cl-svg (⭐39)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐218)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [cl-svg (⭐40)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Varjo (⭐219)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

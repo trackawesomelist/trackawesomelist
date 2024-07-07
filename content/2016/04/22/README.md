@@ -70,7 +70,7 @@
 
 ### Packages / Templating
 
-*   [Pug (⭐21k)](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
+*   [Pug (⭐22k)](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
 ---
 

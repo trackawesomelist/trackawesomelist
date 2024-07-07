@@ -22,20 +22,20 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [VAST (⭐553)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
+*   [VAST (⭐622)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
 *   [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Code Libraries
+### Code Libraries / Pre-LLM Guides, Lectures, and Courses
 
-*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐168)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
+*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐199)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 
 ## [5. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Tools
 
-*   [k6 generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Applications / Graphics
 
-*   [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
+*   [turnage/valora](https://crates.io/crates/valora) - A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 
 ---
 

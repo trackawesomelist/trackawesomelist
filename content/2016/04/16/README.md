@@ -15,7 +15,7 @@
 
 ### Books / Software-specific
 
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐273)](https://github.com/kolaczyk/sand); 2014).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐290)](https://github.com/kolaczyk/sand); 2014).
 
 ### Datasets / Topic-specific
 
@@ -28,7 +28,7 @@
 *   [Wenjie Fan (⭐1)](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
 *   [Robert Haritonov (⭐1)](https://github.com/operatino/ama) - Front-end team lead, SourceJS maintainer and Living Style Guide evangelist.
 *   [Henry Snopek (⭐1)](https://github.com/hhsnopek/ama) - Front-end developer, university student.
-*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
+*   [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
 *   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of hackrslab.
 *   [Una Kravets (⭐17)](https://github.com/una/ama) - Front-end developer, Sass things, Dev communities & Open Source Design.
 *   [Chris Missal (⭐1)](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.

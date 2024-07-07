@@ -10,14 +10,14 @@
 
 ### Domain Analysis / Other Resources
 
-*   [dnstwist (⭐4.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
+*   [dnstwist (⭐4.7k)](https://github.com/elceef/dnstwist) - Domain name permutation
     engine for detecting typo squatting, phishing and corporate espionage.
 *   [mailchecker (⭐1.6k)](https://github.com/FGRibreau/mailchecker) - Cross-language
     temporary email detection library.
 
 ### Browser Malware / Other Resources
 
-*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
+*   [Krakatau (⭐2k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
     assembler, and disassembler.
 
 ### Network / Other Resources
@@ -30,7 +30,7 @@
 
 *   [evolve (⭐259)](https://github.com/JamesHabben/evolve) - Web interface for the
     Volatility Memory Forensics Framework.
-*   [VolUtility (⭐373)](https://github.com/kevthehermit/VolUtility) - Web Interface for
+*   [VolUtility (⭐375)](https://github.com/kevthehermit/VolUtility) - Web Interface for
     Volatility Memory Analysis framework.
 
 ### Other / Other Resources

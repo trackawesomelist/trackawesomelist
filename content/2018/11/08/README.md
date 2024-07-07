@@ -29,7 +29,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐195)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐196)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Numbers
 
-*   [Brick\Math (⭐1.7k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+*   [Brick\Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
 ## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

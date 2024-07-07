@@ -19,30 +19,24 @@
 *   [azure\_mgmt\_machine\_learning (⭐274)](https://github.com/Azure/azure-sdk-for-ruby) -
     Machine Learning API of the Microsoft Azure.
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Official Resources
-
-*   [Cheatsheet](https://angular.io/guide/cheatsheet)
-
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [stb (⭐25k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+*   [stb (⭐26k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 
 ### Other Awesome Projects
 
-*   [awesome (⭐303k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐8.7k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐310k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐8.8k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
-## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
 *   [git-secret (⭐3.6k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Blogs
 
@@ -52,19 +46,19 @@
 
 *   [esp\_uMQTT\_broker (⭐257)](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
 
-## [6. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [5. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Art and Science Spaces / Other
 
 *   [The Waag Society](https://waag.org/en/) - An institute for collaborative art, science and technology based in the Netherlands.
 
-## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [PyWorldVocoder (⭐639)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐639)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
-## [8. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [7. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Academic
 
@@ -92,13 +86,13 @@
 *   [Buddhist Society of Western Australia](https://bswa.org/teachings/) - Dhamma talks by various monastics, including Ajahn Brahm.
 *   [SI Video Wiki](https://video.sirimangalo.org/) - Categorized selection of videos by Yuttadhammo Bhikkhu.
 
-## [9. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [8. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -106,18 +100,18 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐289)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [LDA.js (⭐290)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
 *   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
 
-*   [simple-statistics (⭐3.3k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
+*   [simple-statistics (⭐3.4k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 
 ### Matlab / General-Purpose Machine Learning
 
 *   [Machine Learning Module (⭐462)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
-## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Datasets / Topic-specific
 
@@ -160,13 +154,13 @@
 
 *   [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [11. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
 *   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -191,13 +185,13 @@
 *   [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 *   [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind (⭐651)](https://github.com/kristjankorjus/Replicating-DeepMind)
 
-## [14. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [13. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### How-to lockpicking guides
 
 *   [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
 
-## [15. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [14. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Certification
 
@@ -205,7 +199,7 @@
 *   [Symfony 3 certification guide (⭐141)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
-## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
@@ -214,17 +208,23 @@
 *   [iOS Developer and Designer Interview Questions (⭐1.6k)](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 *   [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 
-## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [Comdb2 (⭐1.2k)](https://github.com/bloomberg/comdb2) - a clustered RDBMS built on optimistic concurrency control techniques.
 
-## [18. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [17. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Forms
 
 *   [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) \[2016]
+
+## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### JavaScript / Node.js
+
+*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 
 ## [19. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
@@ -256,25 +256,25 @@
 
 ### Data Science using Python / Various other helpful tools and resources
 
-*   [Template folder structure for organizing Data Science projects (⭐6.1k)](https://github.com/drivendata/cookiecutter-data-science)
+*   [Template folder structure for organizing Data Science projects (⭐7.7k)](https://github.com/drivendata/cookiecutter-data-science)
 
 ### More advanced resources and lists / Various other helpful tools and resources
 
-*   [Awesome Data Science (⭐20k)](https://github.com/bulutyazilim/awesome-datascience)
-*   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
-*   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+*   [Awesome Data Science (⭐24k)](https://github.com/bulutyazilim/awesome-datascience)
+*   [Data Science Python (⭐5.1k)](https://github.com/ujjwalkarn/DataSciencePython)
+*   [Machine Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [GL\_vs\_VK (⭐81)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
+*   [GL\_vs\_VK (⭐82)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
 ## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
-*   [Nipe (⭐1.8k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+*   [Nipe (⭐1.9k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
 ### Clojure / Git
 
@@ -306,15 +306,15 @@
 
 ### Email
 
-*   [crystal-email (⭐110)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐111)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ### Science and Data analysis
 
-*   [linalg (⭐46)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+*   [linalg (⭐47)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐80)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐81)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ### Official Documentation Translations
 
@@ -401,7 +401,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Render Spy (⭐177)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+*   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -411,7 +411,7 @@
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐367)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐374)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Button / Barcode
 
@@ -435,7 +435,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐769)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐770)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ## [36. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 

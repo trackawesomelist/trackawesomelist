@@ -147,7 +147,6 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 ### Articles / Web App
 
 *   [Principles of Color and the Color Wheel](http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/)
-*   [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 
 ---
 

@@ -43,10 +43,6 @@
 
 *   Wingify <http://engineering.wingify.com/>
 
-### Individuals/Group Contributors / T individuals
-
-*   That Thing In Swift <https://thatthinginswift.com/>
-
 ---
 
 - Prev: [Jul 08, 2015](/content/2015/07/08/README.md)

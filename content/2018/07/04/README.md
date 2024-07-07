@@ -64,7 +64,7 @@
 
 ### Configuration / PHP Installation
 
-*   [Brew PHP Switcher (⭐943)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
+*   [Brew PHP Switcher (⭐951)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 
 ---
 

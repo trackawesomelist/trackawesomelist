@@ -22,11 +22,11 @@
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐308)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐319)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Tools
 
-*   [Website Evidence Collector (WEC) (⭐401)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [Website Evidence Collector (WEC) (⭐425)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 
 ### Publications
 
@@ -52,64 +52,64 @@
 
 ### Libraries / C
 
-*   [libqrencode `W` (⭐2.1k)](https://github.com/fukuchi/libqrencode) - A fast and compact library for encoding data in a QR code symbol.
+*   [libqrencode `W` (⭐2.5k)](https://github.com/fukuchi/libqrencode) - A fast and compact library for encoding data in a QR code symbol.
 
 ### Libraries / C, C++, JavaScript, Python, Java, Rust
 
-*   [QR-Code-generator `W` (⭐3.1k)](https://github.com/nayuki/QR-Code-generator) - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+*   [QR-Code-generator `W` (⭐5k)](https://github.com/nayuki/QR-Code-generator) - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Libraries / Java
 
-*   [Qart `W` (⭐1k)](https://github.com/scola/Qart) - An app to merge a picture and a QR code.
+*   [Qart `W` (⭐1.1k)](https://github.com/scola/Qart) - An app to merge a picture and a QR code.
 
 ### Libraries / JavaScript
 
-*   [instascan `R` (⭐2.8k)](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
-*   [qrious `W` (⭐1.3k)](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
+*   [instascan `R` (⭐2.9k)](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
+*   [qrious `W` (⭐1.5k)](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
 
 ### Libraries / TypeScript
 
-*   [jsQR `R` (⭐3.1k)](https://github.com/cozmo/jsQR) - A pure JavaScript QR code reading library.
+*   [jsQR `R` (⭐3.6k)](https://github.com/cozmo/jsQR) - A pure JavaScript QR code reading library.
 
 ### Libraries / React
 
-*   [qrcode.react `W` (⭐3.1k)](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React.
+*   [qrcode.react `W` (⭐3.7k)](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React.
 
 ### Libraries / React Native
 
-*   [react-native-qrcode-scanner `R` (⭐1.9k)](https://github.com/moaazsidat/react-native-qrcode-scanner) - A QR code scanner component for React Native.
+*   [react-native-qrcode-scanner `R` (⭐2k)](https://github.com/moaazsidat/react-native-qrcode-scanner) - A QR code scanner component for React Native.
 
 ### Libraries / Vue
 
-*   [vue-qrcode-reader `R` (⭐1.6k)](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
+*   [vue-qrcode-reader `R` (⭐2k)](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 
 ### Libraries / Python
 
-*   [sylnsfar/qrcode `W` (⭐9.3k)](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
+*   [sylnsfar/qrcode `W` (⭐10k)](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
 
 ### Libraries / Objective-C
 
-*   [SGQRCode `R` (⭐1.6k)](https://github.com/kingsic/SGQRCode) - Easy to use QR code scan library for iOS.
+*   [SGQRCode `R` (⭐1.7k)](https://github.com/kingsic/SGQRCode) - Easy to use QR code scan library for iOS.
 
 ### Libraries / Swift
 
-*   [EFQRCode `W` (⭐4.3k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
+*   [EFQRCode `W` (⭐4.6k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
 
 ### Libraries / C#
 
-*   [QRCoder `W` (⭐3.4k)](https://github.com/codebude/QRCoder) - A pure C# Open Source QR code implementation.
+*   [QRCoder `W` (⭐4.4k)](https://github.com/codebude/QRCoder) - A pure C# Open Source QR code implementation.
 
 ### Libraries / Android
 
-*   [BGAQRCode-Android `RW` (⭐7.7k)](https://github.com/bingoogolapple/BGAQRCode-Android) - QR code reader and generator written in C.
-*   [AwesomeQRCode (Kotlin) `W` (⭐1.8k)](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android (can produce GIFs).
+*   [BGAQRCode-Android `RW` (⭐7.9k)](https://github.com/bingoogolapple/BGAQRCode-Android) - QR code reader and generator written in C.
+*   [AwesomeQRCode (Kotlin) `W` (⭐1.9k)](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android (can produce GIFs).
 
 ### Libraries / PHP
 
-*   [php-qrcode-detector-decoder `R` (⭐1.2k)](https://github.com/khanamiryan/php-qrcode-detector-decoder) - PHP library to detect and decode QR codes.
-*   [simple-qrcode `W` (⭐2.2k)](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QR code generator.
-*   [endroid/qr-code `W` (⭐3.8k)](https://github.com/endroid/qr-code) - QR code generator.
-*   [BaconQRCode `W` (⭐1.5k)](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
+*   [php-qrcode-detector-decoder `R` (⭐1.4k)](https://github.com/khanamiryan/php-qrcode-detector-decoder) - PHP library to detect and decode QR codes.
+*   [simple-qrcode `W` (⭐2.7k)](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QR code generator.
+*   [endroid/qr-code `W` (⭐4.3k)](https://github.com/endroid/qr-code) - QR code generator.
+*   [BaconQRCode `W` (⭐1.8k)](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [ContainDS Dashboards (⭐195)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
+*   [ContainDS Dashboards (⭐199)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Third-Party Packages / Testing
 
-*   [drf-openapi-tester (⭐121)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
+*   [drf-openapi-tester (⭐120)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

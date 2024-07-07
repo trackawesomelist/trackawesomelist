@@ -72,7 +72,7 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐9.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐9.4k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

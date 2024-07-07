@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   [Vulkan Quake port based on QuakeSpasm (⭐1.6k)](https://github.com/Novum/vkQuake).
+*   [Vulkan Quake port based on QuakeSpasm (⭐1.7k)](https://github.com/Novum/vkQuake).
 
 ## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

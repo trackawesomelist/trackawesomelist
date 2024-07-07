@@ -15,7 +15,7 @@
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 

@@ -10,9 +10,9 @@
 
 ### Table of Contents / Documentation
 
-*   [APIGen (⭐2.1k)](https://github.com/apigen/apigen) - Another API documentation generator.
+*   [APIGen (⭐2.2k)](https://github.com/apigen/apigen) - Another API documentation generator.
 
 ---
 
-- Prev: [Dec 19, 2013](/content/2013/12/19/README.md)
+- Prev: [Dec 16, 2013](/content/2013/12/16/README.md)
 - Next: [Dec 08, 2013](/content/2013/12/08/README.md)

@@ -36,11 +36,11 @@
 
 ### Misc
 
-*   [retriable.cr (⭐38)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐41)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
-*   [DPPM (⭐113)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐116)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -87,21 +87,13 @@
 *   [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) - The Chinese Minecraft Wiki is an official wiki of Minecraft, covering detailed tutorials on crafting, blocks, creatures and even PE versions.
 *   [wiki.vg](http://wiki.vg/) - Technical Minecraft wiki.
 
-### Websites / Forums
-
-*   [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
-
 ### Mod Loaders / Archives
 
-*   [Meddle (⭐30)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐31)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐454)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
-
-### Web Applications / Building
-
-*   [yoshino (⭐9)](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/))
+*   [Custom Skin Loader (⭐478)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ---
 

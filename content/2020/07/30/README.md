@@ -22,7 +22,7 @@
 
 ### External Services
 
-*   [netease-music-box (⭐64)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐67)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -44,17 +44,9 @@
 
 ## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
-### Backup
-
-*   [Dumpling (⭐282)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
-
 ### Benchmarking
 
-*   [go-tpc (⭐148)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
-
-### Binlog-Replication
-
-*   [DM (⭐453)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+*   [go-tpc (⭐163)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
 ## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 

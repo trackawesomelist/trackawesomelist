@@ -37,10 +37,6 @@
 
 *   Envoy <https://envoy.engineering/>
 
-### Individuals/Group Contributors / A individuals
-
-*   Andreas Schuster <https://computer.forensikblog.de/en/>
-
 ### Individuals/Group Contributors / H individuals
 
 *   Hayden James <https://haydenjames.io/>
@@ -61,11 +57,11 @@
 
 ### Image / Backend-Driven
 
-*   [Image Cropper (⭐971)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [Image Cropper (⭐979)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐2.9k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐3k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ---
 

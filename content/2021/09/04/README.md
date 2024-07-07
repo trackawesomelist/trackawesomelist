@@ -17,7 +17,7 @@
 
 ### Tools / Misc
 
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐9.7k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐10k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -33,7 +33,6 @@
 
 ### Companies and Cooperatives / Reddit
 
-*   [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 *   [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 *   [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 *   [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
@@ -48,7 +47,7 @@
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐324)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐341)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ---
 

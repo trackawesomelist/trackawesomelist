@@ -10,7 +10,7 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐65)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐66)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Images / Barcode
 
-*   [YPImagePicker (⭐4.2k)](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
+*   [YPImagePicker (⭐4.3k)](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
 
 ### Phone Numbers / Barcode
 

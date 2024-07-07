@@ -28,7 +28,7 @@
 
 ### Misc
 
-*   [aasm.cr (⭐50)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐51)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [5. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -98,14 +98,20 @@
 
 *   [A Beginner's Guide to Relay Mutations](http://blog.pathgather.com/blog/a-beginners-guide-to-relay-mutations) - Mutations in depth.
 
-## [11. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Products/Technologies / G technologies
+
+*   Go <https://blog.golang.org/>
+
+## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Dashboard
 
 *   [LXC-Web-Panel](https://lxc-webpanel.github.io/)\
     Web panel for LXC on Ubuntu.
 
-## [12. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [13. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -195,14 +201,14 @@
 *   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 *   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
 
-## [13. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [14. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
 *   [AggPasMod (⭐72)](https://github.com/CWBudde/AggPasMod). `[Delphi]` Modernized Pascal Anti-Grain Geometry. Based on AggPas, which is itself based on the Anti-Grain Geometry, this project offers support for the latest Delphi Versions (XE and above) and contains some helper classes (VCL components and FireMonkey interface). 2D vector graphics library. Basically, you can think of AggPas as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that.
     // *Vector graphic library, renders SVG and much more*
 
-## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [15. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California <a id="california"></a>
 
@@ -216,19 +222,19 @@ Webpage: <http://hanahaus.com/>
 | ---- | ----- | --------------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00 |
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
 *   [Micro (⭐11k)](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
 
-## [16. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [17. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IoT / Frameworks-Tools
 
 *   [Lelylan (⭐1.5k)](https://github.com/lelylan/lelylan)
 
-## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -238,13 +244,13 @@ Webpage: <http://hanahaus.com/>
 
 *   [moviemon (⭐198)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
-## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐157k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐160k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
-## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
@@ -260,10 +266,10 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐210)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [deeplearn-rs (⭐211)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
 *   [rustlearn (⭐611)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
-## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
@@ -333,29 +339,29 @@ Webpage: <http://hanahaus.com/>
 *   [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
 *   [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
-## [21. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [22. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Data serialization / Binary Serilization
 
 *   [cerealed (⭐91)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
 *   [dproto (⭐35)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
-## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [23. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Discovery
 
 *   [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 
-## [23. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [24. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
     *   [by @kingreza (⭐40)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
-    *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
+    *   [by @hollance (⭐29k)](https://github.com/hollance/swift-algorithm-club)
 
-## [24. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [25. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### Package Status
 
@@ -363,25 +369,11 @@ Webpage: <http://hanahaus.com/>
 *   `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
 *   `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
 
-## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / I companies
-
-*   Intercom <https://engineering.intercom.io/>
-
-### Companies / R companies
-
-*   Realm.io <https://realm.io/news/>
-
-### Products/Technologies / G technologies
-
-*   Go <https://blog.golang.org/>
-
 ## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐184k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ### Concurrency
 
@@ -405,7 +397,7 @@ git name-rev --name-only <SHA-1>
 
 ### Code Analysis and Metrics
 
-*   [Scientist (⭐7.3k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
+*   [Scientist (⭐7.4k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
 ### Database Tools
 
@@ -417,7 +409,7 @@ git name-rev --name-only <SHA-1>
 
 ## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 
@@ -452,7 +444,7 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐361)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐363)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -460,7 +452,7 @@ git name-rev --name-only <SHA-1>
 
 ### Framework Components
 
-*   [phoenix\_haml (⭐157)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
+*   [phoenix\_haml (⭐158)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
 
 ### Logging
 
@@ -468,8 +460,8 @@ git name-rev --name-only <SHA-1>
 
 ### ORM and Datamapping
 
-*   [inquisitor (⭐169)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [mongodb (⭐564)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [inquisitor (⭐170)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
+*   [mongodb (⭐565)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 *   [udpflux (⭐4)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ### Protocols
@@ -491,7 +483,7 @@ git name-rev --name-only <SHA-1>
 
 ### Menu / Barcode
 
-*   [XLPagerTabStrip (⭐6.9k)](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+*   [XLPagerTabStrip (⭐7k)](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 ### UITableView / Barcode
 
@@ -518,7 +510,7 @@ git name-rev --name-only <SHA-1>
 
 ### services
 
-*   [geojsonio-cli (⭐168)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐170)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 

@@ -57,7 +57,7 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Malfunction (⭐190)](https://github.com/Dynetics/Malfunction) - Catalog and
+*   [Malfunction (⭐191)](https://github.com/Dynetics/Malfunction) - Catalog and
     compare malware at a function level.
 
 ### Other / Other Resources

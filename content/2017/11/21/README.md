@@ -54,7 +54,7 @@
 ### Apps / Third-party APIs
 
 *   [montezuma (⭐46)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [mk-string-metrics (⭐21)](https://github.com/cbaggers/mk-string-metrics) -
+*   [mk-string-metrics (⭐22)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
     etc). [MIT](https://opensource.org/licenses/MIT).

@@ -22,7 +22,7 @@
 
 ### GIS
 
-*   [CoordinateSharp (⭐348)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐356)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -134,7 +134,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Video Production
 
-*   [MOS-connection (⭐17)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+*   [MOS-connection (⭐20)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
 ## [13. Typography](/content/deanhume/typography/README.md)
 

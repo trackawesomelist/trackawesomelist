@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,20 +18,26 @@
 
 *   [FluentEmail (⭐2.7k)](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.4k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.5k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / Demos and Scripts
 
 *   [The Bot (⭐6)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 *   [Half Beer (⭐7)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / K companies
 
@@ -40,9 +46,8 @@
 ### Individuals/Group Contributors / J individuals
 
 *   Johannes Brodwall <http://johannesbrodwall.com/>
-*   Jonas Plum <https://blog.cugu.eu/>
 
-## [6. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [7. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### Genomics
 
@@ -53,7 +58,7 @@
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 
-## [7. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [8. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Codius
 

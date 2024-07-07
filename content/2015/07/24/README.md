@@ -12,10 +12,6 @@
 
 *   Alan Storm <http://alanstorm.com/>
 
-### Individuals/Group Contributors / F individuals
-
-*   Fabrizio Branca <http://fbrnc.net/>
-
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
@@ -67,7 +63,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐767)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐773)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

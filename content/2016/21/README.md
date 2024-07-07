@@ -77,7 +77,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Malware Collection / Honeypots
 
-*   [Glastopf (⭐534)](https://github.com/mushorg/glastopf) - Web application honeypot.
+*   [Glastopf (⭐541)](https://github.com/mushorg/glastopf) - Web application honeypot.
 
 ### Open Source Threat Intelligence / Tools
 
@@ -88,12 +88,12 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Detection and Classification / Other Resources
 
-*   [Detect It Easy(DiE) (⭐6.6k)](https://github.com/horsicq/Detect-It-Easy) - A program for
+*   [Detect It Easy(DiE) (⭐6.9k)](https://github.com/horsicq/Detect-It-Easy) - A program for
     determining types of files.
 
 ### Domain Analysis / Other Resources
 
-*   [MaltegoVT (⭐76)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
+*   [MaltegoVT (⭐77)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
     for the VirusTotal API. Allows domain/IP research, and searching for file
     hashes and scan reports.
 
@@ -167,7 +167,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### CLI Builders
 
-*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Misc
 
@@ -175,7 +175,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐764)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐767)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [15. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -198,71 +198,70 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Node.js / General
 
 *   [steam (⭐1k)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
-*   [steam-client (⭐53)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
-*   [steam-user (⭐677)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
-*   [vapor (⭐106)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
+*   [steam-client (⭐52)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
+*   [steam-user (⭐838)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
+*   [vapor (⭐107)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 *   [steam-parentbot (⭐33)](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
 
 ### Node.js / Trading
 
-*   [steam-trade (⭐162)](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading.
-*   [steam-tradeoffers (⭐291)](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
-*   [steam-tradeoffer-manager (⭐438)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+*   [steam-trade (⭐161)](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading.
+*   [steam-tradeoffers (⭐289)](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
+*   [steam-tradeoffer-manager (⭐490)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 
 ### Node.js / Game Interaction
 
-*   [tf2 (⭐48)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
-*   [csgo (⭐433)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
-*   [dota2 (⭐540)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
+*   [tf2 (⭐52)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
+*   [csgo (⭐459)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
+*   [dota2 (⭐542)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
 
 ### Node.js / Community & Store Automation
 
-*   [steamcommunity (⭐399)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
-*   [steamstore (⭐59)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
+*   [steamcommunity (⭐464)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
+*   [steamstore (⭐64)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
 *   [steam-weblogon (⭐27)](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client.
-*   [steam-web-api-key (⭐21)](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
+*   [steam-web-api-key (⭐22)](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
 *   [steam-parental (⭐4)](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
 
 ### Node.js / Authentication
 
-*   [passport-steam (⭐317)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
-*   [meteor-accounts-steam (⭐16)](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
+*   [passport-steam (⭐343)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
+*   [meteor-accounts-steam (⭐17)](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
 
 ### Node.js / Misc
 
-*   [steam-resources (⭐23)](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
+*   [steam-resources (⭐24)](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
 *   [steam-crypto (⭐15)](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto.
-*   [steam-groups (⭐16)](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
-*   [steamid (⭐63)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
-*   [steam-totp (⭐209)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
-*   [steam-chat-bot (⭐99)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
-*   [vdf (⭐19)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
+*   [steam-groups (⭐17)](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
+*   [steamid (⭐65)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
+*   [steam-totp (⭐234)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
+*   [steam-chat-bot (⭐101)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
+*   [vdf (⭐20)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 *   [steamrep (⭐10)](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 *   [reptf (⭐2)](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
 
 ### PHP / Misc
 
-*   [SteamCommunity (⭐75)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
-*   [SteamAuthentication (⭐443)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
-*   [SteamAuthOOP (⭐36)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
+*   [SteamCommunity (⭐76)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
+*   [SteamAuthentication (⭐446)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
+*   [SteamAuthOOP (⭐37)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 
 ### Go / Misc
 
-*   [steam-mobileauth (⭐19)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+*   [steam-mobileauth (⭐20)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python / General
 
-*   [steam (⭐861)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
-*   [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
-*   [steamodd (⭐72)](https://github.com/Lagg/steamodd) - Steam tools library.
+*   [steam (⭐1.1k)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
+*   [steamodd (⭐76)](https://github.com/Lagg/steamodd) - Steam tools library.
 
 ### C++ / Misc
 
-*   [SteamPP (⭐100)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
+*   [SteamPP (⭐109)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
 
 ### Java / Misc
 
-*   [SteamKit-Java (⭐47)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+*   [SteamKit-Java (⭐48)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
 
 ### Objective-C / Misc
 
@@ -280,10 +279,10 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Standalone Tools / Misc
 
-*   [NetHook2 (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
-*   [NetHook2 Analyzer (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
+*   [NetHook2 (⭐2.5k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
+*   [NetHook2 Analyzer (⭐2.5k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 *   [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-*   [SteamDesktopAuthenticator (⭐2.6k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+*   [SteamDesktopAuthenticator (⭐3.2k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 
 ### Discussion Boards / Misc
 
@@ -305,9 +304,9 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### C / Git
 
-*   [RHash (⭐545)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [RHash (⭐556)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 *   [tiny-AES128-C (⭐4.1k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐8.5k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [xxHash (⭐8.7k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
@@ -317,7 +316,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Clojure / Git
 
 *   [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-*   [pandect (⭐218)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+*   [pandect (⭐219)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp / Git
 
@@ -326,25 +325,25 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐246)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐248)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐774)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐780)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
 *   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐539)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [cloak (⭐546)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 *   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐234)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [pot (⭐235)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 *   [siphash-elixir (⭐18)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [gocrypto (⭐152)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -362,7 +361,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐94)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐95)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
@@ -380,17 +379,17 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐977)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐981)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [cryptoballot (⭐220)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [cryptoballot (⭐219)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 *   [ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 *   [rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐638)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [sodiumoxide (⭐639)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 *   [suruga (⭐124)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐453)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [webpki (⭐456)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
@@ -428,38 +427,38 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 - Name: Algorithms
 
-  Link: [tayllan/awesome-algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms)
+  Link: [tayllan/awesome-algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms)
 
 
 - Name: Algorithm Visualization
 
-  Link: [enjalot/algovis (⭐1.5k)](https://github.com/enjalot/algovis)
+  Link: [enjalot/algovis (⭐1.6k)](https://github.com/enjalot/algovis)
 
 
 - Name: Math
 
-  Link: [rossant/awesome-math (⭐6.4k)](https://github.com/rossant/awesome-math)
+  Link: [rossant/awesome-math (⭐8.4k)](https://github.com/rossant/awesome-math)
 
 
 - Name: C++
 
-  Link: [fffaraz/awesome-cpp (⭐41k)](https://github.com/fffaraz/awesome-cpp)
+  Link: [fffaraz/awesome-cpp (⭐57k)](https://github.com/fffaraz/awesome-cpp)
 
 
 - Name: Java
 
-  Link: [akullpp/awesome-java (⭐34k)](https://github.com/akullpp/awesome-java)
+  Link: [akullpp/awesome-java (⭐41k)](https://github.com/akullpp/awesome-java)
 
 
 - Name: Courses
 
-  Link: [prakhar1989/awesome-courses (⭐43k)](https://github.com/prakhar1989/awesome-courses)
+  Link: [prakhar1989/awesome-courses (⭐55k)](https://github.com/prakhar1989/awesome-courses)
 
 
 
 ### Other Awesome Resources / Interview Questions
 
-- Name: [Awesome Interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- Name: [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
   Description: A curated list of awesome interview questions
 
@@ -553,7 +552,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐115)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐115)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 
@@ -631,7 +630,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Multimedia content processing
 
-*   [Bento4 (⭐1.8k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+*   [Bento4 (⭐1.9k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
 ## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

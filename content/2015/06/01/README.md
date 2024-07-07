@@ -56,7 +56,7 @@
 
 ### Auto Layout / Barcode
 
-*   [Swiftstraints (⭐121)](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+*   [Swiftstraints (⭐122)](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 
 ### Testing / Barcode
 
@@ -74,12 +74,12 @@
 
 ### ORM and Datamapping
 
-*   [mysql (⭐358)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐359)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐8)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Reading
 
-*   [xElixir (⭐594)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐605)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

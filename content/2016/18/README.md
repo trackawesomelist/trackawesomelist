@@ -233,17 +233,17 @@
 
 ### Algorithms and Data structures
 
-*   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+*   [crystalline (⭐129)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
-*   [radix (⭐101)](https://github.com/luislavena/radix) - Radix Tree implementation
+*   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
-*   [http2 (⭐93)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐94)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 
-*   [crustache (⭐82)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐83)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
@@ -339,10 +339,6 @@
 *   [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 
 ## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / I companies
-
-*   Intel <https://software.intel.com/en-us/blogs/>
 
 ### Individuals/Group Contributors / F individuals
 
@@ -484,7 +480,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐550)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐553)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -523,7 +519,6 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 ### Articles / Web App
 
 *   [Principles of Color and the Color Wheel](http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/)
-*   [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 
 ---
 

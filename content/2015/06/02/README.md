@@ -40,7 +40,7 @@
 
 ### GUI
 
-*   [Dragablz (⭐2.1k)](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
+*   [Dragablz (⭐2.2k)](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
 
 ### Visual Studio Plugins
 

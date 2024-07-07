@@ -10,7 +10,7 @@
 
 ### Git / Diagnostics
 
-*   [isak102/telescope-git-file-history.nvim (⭐48)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
+*   [isak102/telescope-git-file-history.nvim (⭐56)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2016
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐53)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐54)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -60,13 +60,7 @@
 
 *   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / P companies
-
-*   Pivotal <https://engineering.pivotal.io>
-
-## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [6. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Conferences
 
@@ -99,7 +93,7 @@
 *   [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
 *   [The International Journal of Robotics Research](http://www.ijrr.org/)
 
-## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -245,19 +239,19 @@
 *   [CS 294](http://inst.eecs.berkeley.edu/\~cs294-101/sp15/) **Cutting-edge Web Technologies** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   Want to learn what makes future web technologies tick? Join us for the class where we will dive into the internals of many of the newest web technologies, analyze and dissect them. We will conduct survey lectures to provide the background and overview of the area as well as invite guest lecturers from various leading projects to present their technologies.
 
-## [9. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [retina.js (⭐4.5k)](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 
-## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Spanish
 
 *   [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 
-## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Datetime
 
@@ -265,31 +259,31 @@
 *   [odate (⭐22)](https://github.com/hhugo/odate)
 *   [ptime](http://erratique.ch/software/ptime)
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Networking / Field Validation
 
 *   [Fast-Android-Networking (⭐5.5k)](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
-## [13. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [12. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### CSS
 
 *   [material-foundation (⭐356)](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
 
-## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Articles / Hash functions
 
 *   [Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple).
 
-## [15. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
 *   [giada-www (⭐13)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
-## [16. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [15. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Websites / YouTube
 

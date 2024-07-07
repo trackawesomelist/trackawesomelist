@@ -43,7 +43,7 @@
 
 ### Packages / Utilities
 
-*   [web-audio-generator (⭐57)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
+*   [web-audio-generator (⭐59)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
 
 ---
 

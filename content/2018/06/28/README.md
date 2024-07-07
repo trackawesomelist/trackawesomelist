@@ -56,7 +56,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jquery-mask (⭐19)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.7k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
+*   [vue-jquery-mask (⭐20)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.8k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

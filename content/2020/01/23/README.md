@@ -150,7 +150,7 @@
 
 ### Clients
 
-*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐2.9k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐3k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 
 ---
 

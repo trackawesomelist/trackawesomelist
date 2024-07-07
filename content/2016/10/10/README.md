@@ -85,10 +85,6 @@
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / L companies
-
-*   LendingHome <https://tech.lendinghome.com/>
-
 ### Individuals/Group Contributors / I individuals
 
 *   Ievgen Kuzminov <http://stdout.in/>

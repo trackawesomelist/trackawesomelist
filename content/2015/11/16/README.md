@@ -44,7 +44,6 @@
 ### Companies / B companies
 
 *   Bandcamp <https://bandcamptech.wordpress.com/>
-*   BenefitFocus <https://www.benefitfocus.com/blogs/design-engineering>
 *   Bigcommerce <http://www.bigeng.io/>
 
 ### Companies / C companies
@@ -55,10 +54,6 @@
 
 *   eFounders <https://medium.com/unexpected-token>
 
-### Companies / F companies
-
-*   Future Processing <https://www.future-processing.pl/technical-blog/>
-
 ### Companies / G companies
 
 *   Guardian <https://www.theguardian.com/info/developer-blog>
@@ -67,27 +62,13 @@
 
 *   Indeed <http://engineering.indeedblog.com/blog/>
 
-### Companies / L companies
-
-*   LiveChat <https://developers.livechatinc.com/blog/>
-
 ### Companies / M companies
 
 *   Medium <https://medium.com/medium-eng>
-*   Mixpanel <https://code.mixpanel.com/>
 
 ### Companies / R companies
 
-*   Redino <http://redino.net/blog/>
 *   RisingStack <https://blog.risingstack.com/>
-
-### Companies / T companies
-
-*   ThoughtWorks <https://www.thoughtworks.com/insights>
-
-### Companies / Z companies
-
-*   Zynga <https://www.zynga.com/blogs/engineering>
 
 ### Individuals/Group Contributors / D individuals
 
@@ -100,7 +81,6 @@
 ### Individuals/Group Contributors / R individuals
 
 *   Real Python <https://realpython.com/blog/>
-*   Rudy Huyn <http://www.rudyhuyn.com/blog/>
 
 ## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

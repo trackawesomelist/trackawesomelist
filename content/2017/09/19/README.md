@@ -10,7 +10,7 @@
 
 ### Python / Git
 
-*   [Privy (⭐248)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐250)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

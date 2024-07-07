@@ -144,7 +144,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.6k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.8k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -340,10 +340,6 @@ git log Branch1 ^Branch2
 
 ## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
-### Companies / H companies
-
-*   HireArt <http://code.hireart.com/>
-
 ### Companies / V companies
 
 *   Viget <https://www.viget.com/articles/category/code#articles>
@@ -360,7 +356,7 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐252)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐254)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
@@ -369,7 +365,7 @@ git log Branch1 ^Branch2
 
 ### Text and Numbers
 
-*   [sentient (⭐33)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
+*   [sentient (⭐34)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
 
 ### Websites
 
@@ -410,7 +406,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Text
 
-*   [matcher (⭐534)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐536)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 

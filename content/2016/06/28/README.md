@@ -34,10 +34,10 @@
 
 ### Deobfuscation / Other Resources
 
-*   [FLOSS (⭐3k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
+*   [FLOSS (⭐3.1k)](https://github.com/fireeye/flare-floss) - The FireEye Labs Obfuscated
     String Solver uses advanced static analysis techniques to automatically
     deobfuscate strings from malware binaries.
-*   [unpacker (⭐114)](https://github.com/malwaremusings/unpacker/) - Automated malware
+*   [unpacker (⭐117)](https://github.com/malwaremusings/unpacker/) - Automated malware
     unpacker for Windows malware based on WinAppDbg.
 
 ### Debugging and Reverse Engineering / Other Resources
@@ -47,14 +47,14 @@
 
 ### Storage and Workflow / Other Resources
 
-*   [Polichombr (⭐372)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
+*   [Polichombr (⭐373)](https://github.com/ANSSI-FR/polichombr) - A malware analysis
     platform designed to help analysts to reverse malwares collaboratively.
 
 ### Miscellaneous / Other Resources
 
-*   [al-khaser (⭐5.5k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
+*   [al-khaser (⭐5.6k)](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
     with good intentions that aimes to stress anti-malware systems.
-*   [MalSploitBase (⭐529)](https://github.com/misterch0c/malSploitBase) - A database
+*   [MalSploitBase (⭐531)](https://github.com/misterch0c/malSploitBase) - A database
     containing exploits used by malware.
 
 ## [4. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)

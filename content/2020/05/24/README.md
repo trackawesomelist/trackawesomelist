@@ -17,9 +17,9 @@
 ### Word Processors
 
 *   [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
-    *   [Markdown All in One (⭐2.7k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
+    *   [Markdown All in One (⭐2.8k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
         Markdown support in VSCode, such as preview and auto completion to name a few.
-    *   [Markdown Preview Enhanced (⭐4k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
+    *   [Markdown Preview Enhanced (⭐4.1k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
         integration and utilities.
 
 ### Converters and Filters
@@ -29,14 +29,14 @@
 
 ### Spell Checking and Linting
 
-*   [restructuredtext-lint (⭐165)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+*   [restructuredtext-lint (⭐169)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
 *   [textlint](https://textlint.github.io/) - Pluggable linting tool for text
     and Markdown.
 
 ### Tutorials / Books
 
 *   [Katrin Leinweber's Ph.D.
-    thesis (⭐39)](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
+    thesis (⭐43)](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
     work flow involving several tools, but primarily Pandoc, `latexmk` and
     Academic Markdown.
 

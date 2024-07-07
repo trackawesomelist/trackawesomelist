@@ -28,7 +28,7 @@
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [WSL Distro Manager (⭐1.4k)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL Distro Manager (⭐1.6k)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 

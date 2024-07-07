@@ -127,11 +127,11 @@
 
 ### Packages / MIDI
 
-*   [midimessage (⭐34)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
+*   [midimessage (⭐35)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐821)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐823)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -289,7 +289,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐374)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -382,7 +382,7 @@
 
 *   [IntelMQ](https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation) -
     A tool for CERTs for processing incident data using a message queue.
-*   [MISP (⭐5k)](https://github.com/MISP/MISP) - Malware Information Sharing
+*   [MISP (⭐5.1k)](https://github.com/MISP/MISP) - Malware Information Sharing
     Platform curated by [The MISP Project](http://www.misp-project.org/).
 *   [ThreatCrowd](https://www.threatcrowd.org/) - A search engine for threats,
     with graphical visualization.
@@ -397,8 +397,8 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Loki (⭐3.2k)](https://github.com/Neo23x0/Loki) - Host based scanner for IOCs.
-*   [MultiScanner (⭐610)](https://github.com/mitre/multiscanner) - Modular file
+*   [Loki (⭐3.3k)](https://github.com/Neo23x0/Loki) - Host based scanner for IOCs.
+*   [MultiScanner (⭐615)](https://github.com/mitre/multiscanner) - Modular file
     scanning/analysis framework
 *   [Yara rules generator (⭐1.5k)](https://github.com/Neo23x0/yarGen) - Generate
     yara rules based on a set of malware samples. Also contains a good
@@ -426,14 +426,14 @@
 
 ### Deobfuscation / Other Resources
 
-*   [de4dot (⭐6.7k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and
+*   [de4dot (⭐6.8k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and
     unpacker.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler
+*   [dnSpy (⭐26k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler
     and debugger.
-*   [hackers-grep (⭐165)](https://github.com/codypierce/hackers-grep) - A utility to
+*   [hackers-grep (⭐167)](https://github.com/codypierce/hackers-grep) - A utility to
     search for strings in PE executables including imports, exports, and debug
     symbols.
 *   [strace](https://sourceforge.net/projects/strace/) - Dynamic analysis for
@@ -441,17 +441,17 @@
 
 ### Network / Other Resources
 
-*   [CapTipper (⭐698)](https://github.com/omriher/CapTipper) -  Malicious HTTP traffic
+*   [CapTipper (⭐707)](https://github.com/omriher/CapTipper) -  Malicious HTTP traffic
     explorer.
 
 ### Windows Artifacts / Other Resources
 
-*   [AChoir (⭐176)](https://github.com/OMENScan/AChoir) - A live incident response
+*   [AChoir (⭐177)](https://github.com/OMENScan/AChoir) - A live incident response
     script for gathering Windows artifacts.
 
 ### Miscellaneous / Other Resources
 
-*   [Pafish (⭐3.1k)](https://github.com/a0rtega/pafish) - Paranoid Fish, a demonstration
+*   [Pafish (⭐3.2k)](https://github.com/a0rtega/pafish) - Paranoid Fish, a demonstration
     tool that employs several techniques to detect sandboxes and analysis
     environments in the same way as malware families do.
 
@@ -460,10 +460,10 @@
 *   [/r/csirt\_tools](https://www.reddit.com/r/csirt_tools/) - Subreddit for CSIRT
     tools and resources, with a
     [malware analysis](https://www.reddit.com/r/csirt_tools/search?q=flair%3A%22Malware%20analysis%22\&sort=new\&restrict_sr=on) flair.
-*   [CTFs (⭐9.2k)](https://github.com/apsdehal/awesome-ctf)
+*   [CTFs (⭐9.4k)](https://github.com/apsdehal/awesome-ctf)
 *   ["Hacking" (⭐12k)](https://github.com/carpedm20/awesome-hacking)
-*   [Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots)
-*   [Infosec (⭐5k)](https://github.com/onlurking/awesome-infosec)
+*   [Honeypots (⭐8.3k)](https://github.com/paralax/awesome-honeypots)
+*   [Infosec (⭐5.1k)](https://github.com/onlurking/awesome-infosec)
 *   [PCAP Tools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools)
 
 ## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
@@ -515,7 +515,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐356)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐359)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -523,9 +523,9 @@
 
 *   [Gitter Channel](https://gitter.im/angular/angular)
 
-### TypeScript / Node Based
+### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
+*   [TypeScript Repository (GitHub) (⭐99k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
 
 ## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -554,7 +554,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Static Site Generators
 
-*   [Pretzel (⭐601)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐600)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

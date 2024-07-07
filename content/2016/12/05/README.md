@@ -45,7 +45,7 @@
 ### data
 
 *   [world-atlas (⭐1k)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐862)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [us-atlas (⭐866)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

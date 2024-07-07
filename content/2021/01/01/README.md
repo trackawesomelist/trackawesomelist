@@ -16,7 +16,7 @@
 
 ### Security configurations / Post-engagement analysis and reporting
 
-*   [Bunkerized-nginx (⭐3.2k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+*   [Bunkerized-nginx (⭐3.8k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-mptt (⭐2.8k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
+*   [django-mptt (⭐2.9k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 
 ---
 

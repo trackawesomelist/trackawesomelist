@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐258)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐259)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -42,12 +42,12 @@
 
 ### Tools and frameworks
 
-*   [ResembleJS (⭐4.4k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
+*   [ResembleJS (⭐4.5k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ### Deprecated
 
-*   [PhantomCSS (⭐4.7k)](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-*   [DalekJS (⭐698)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
+*   [DalekJS (⭐695)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

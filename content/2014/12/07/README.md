@@ -46,7 +46,7 @@
 
 ### Loaders
 
-*   [browserify (⭐14k)](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+*   [browserify (⭐15k)](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 
 ---
 

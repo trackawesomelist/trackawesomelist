@@ -10,7 +10,7 @@
 
 ### Tools / Other
 
-*   **[Stack-on-a-budget (⭐11k)](https://github.com/255kb/stack-on-a-budget)**
+*   **[Stack-on-a-budget (⭐12k)](https://github.com/255kb/stack-on-a-budget)**
 
     Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 

@@ -65,7 +65,7 @@
 
 ### CLI Utils
 
-*   [cride (⭐49)](https://github.com/j8r/cride) - A light CLI text editor/IDE
+*   [cride (⭐50)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
 ## [9. Tips](/content/git-tips/tips/README.md)
 

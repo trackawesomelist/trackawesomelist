@@ -87,7 +87,7 @@
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### On-Site Training / Testing
+### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 

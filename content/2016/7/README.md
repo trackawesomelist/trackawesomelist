@@ -33,7 +33,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐9.1k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 
@@ -122,7 +122,7 @@
 ### Scheduling
 
 *   [FluentScheduler (⭐2.7k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐868)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐880)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [11. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Samples
 
-*   [vkcube (⭐110)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐115)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [22. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
@@ -296,7 +296,7 @@
 
 ### JavaScript Libraries
 
-*   [Awesome CryptoCoinJS (⭐57)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+*   [Awesome CryptoCoinJS (⭐58)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
 ## [25. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -355,7 +355,7 @@
 
 ### Authentication
 
-*   [goth (⭐274)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐281)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
@@ -363,7 +363,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐925)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐946)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 
@@ -587,10 +587,6 @@
 
 *   Blundell's Android Tutorials <http://blog.blundellapps.co.uk>
 
-### Individuals/Group Contributors / D individuals
-
-*   Dave Atchley <http://www.datchley.name/>
-
 ### Individuals/Group Contributors / H individuals
 
 *   High Scalability <http://highscalability.com/>
@@ -615,10 +611,6 @@
 ### Products/Technologies / R technologies
 
 *   RocksDB <http://rocksdb.org/blog>
-
-### Products/Technologies / V technologies
-
-*   Vertabelo <http://www.vertabelo.com/blog>
 
 ---
 

@@ -15,10 +15,6 @@
 
 ## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
-### Online Courses
-
-*   [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
-
 ### Online Judges / Randomized Algorithms
 
 *   [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
@@ -43,7 +39,7 @@
 
 ### Plugins / IRC
 
-*   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
+*   [Symfony-Flex (⭐4.1k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐953)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

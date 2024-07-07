@@ -6,6 +6,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 [ Daily / [Weekly](/content/friedger/awesome-stacks-chain/week/README.md) / [Overview](/content/friedger/awesome-stacks-chain/readme/README.md) ]
 
+## [May 30, 2024](/content/2024/05/30/README.md)
+
+### App Development / Client Libraries
+
+*   [stacks.py (⭐2)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
+
 ## [May 25, 2024](/content/2024/05/25/README.md)
 
 ### Apps / Wallets

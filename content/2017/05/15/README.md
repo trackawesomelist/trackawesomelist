@@ -36,7 +36,7 @@
 
 ### CLI Builders
 
-*   [clim (⭐118)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [clim (⭐120)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

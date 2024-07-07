@@ -146,7 +146,7 @@
 
 ### Code
 
-*   [valentin2105/Kubernetes-Saltstack (⭐204)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
+*   [valentin2105/Kubernetes-Saltstack (⭐206)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 
 ### Tools
 

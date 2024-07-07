@@ -22,7 +22,7 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐691)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐693)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### UI / Barcode
 
@@ -32,7 +32,7 @@
 
 ### Network / Other Resources
 
-*   [Maltrail (⭐5.8k)](https://github.com/stamparm/maltrail) - A malicious traffic
+*   [Maltrail (⭐5.9k)](https://github.com/stamparm/maltrail) - A malicious traffic
     detection system, utilizing publicly available (black)lists containing
     malicious and/or generally suspicious trails and featuring an reporting
     and analysis interface.

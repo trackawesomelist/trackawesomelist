@@ -10,7 +10,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [BluePill (⭐114)](https://github.com/season-lab/bluepill) - Framework for executing and debugging evasive malware and protected executables.
+*   [BluePill (⭐118)](https://github.com/season-lab/bluepill) - Framework for executing and debugging evasive malware and protected executables.
 
 ## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

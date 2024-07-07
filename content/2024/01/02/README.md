@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-classy-settings (⭐32)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐34)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
 
 ## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -28,7 +28,7 @@
 
 ### RPG
 
-*   [Abyss Engine (⭐25)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
+*   [Abyss Engine (⭐34)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 
 ## [5. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐5.1k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

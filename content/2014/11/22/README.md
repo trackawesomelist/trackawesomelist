@@ -10,13 +10,13 @@
 
 ### QA Tools / Runner
 
-*   [jsinspect (⭐3.5k)](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+*   [jsinspect (⭐3.6k)](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [JsonCpp (⭐7.9k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
+*   [JsonCpp (⭐8k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
 
 ---
 

@@ -20,13 +20,13 @@
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
 
 ## [4. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Writing native (⭐357)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
@@ -193,7 +193,6 @@
 ### Composer
 
 *   [Official Website](https://getcomposer.org/)
-*   [Github (⭐27k)](https://github.com/composer/composer)
 *   [Documentation](https://getcomposer.org/doc/)
 *   [Find Packages on Packagist](https://packagist.org/)
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - Composer installers for multiple frameworks.
@@ -201,13 +200,6 @@
 ### Support / Stack Overflow
 
 *   You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
-*   [Ask a new question](http://stackoverflow.com/questions/ask?tags=composer-php+php)
-*   [Find questions tagged `composer-php`](http://stackoverflow.com/questions/tagged/composer-php)
-
-### Satis / IRC
-
-*   [Gitlab-Composer (⭐165)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
-*   [Satisfy (⭐465)](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
 
 ## [7. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
@@ -580,17 +572,7 @@ git config --global help.autocorrect 1
 
 *   [glumpy (⭐1.1k)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Individuals/Group Contributors / C individuals
-
-*   Chris Hager <https://www.metachris.com/blog/>
-
-### Individuals/Group Contributors / M individuals
-
-*   Michaël Gallego <http://www.michaelgallego.fr/articles/>
-
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [11. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Framework Extras
 
@@ -602,11 +584,11 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHPBench (⭐1.8k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+*   [PHPBench (⭐1.9k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐748)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐747)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -618,7 +600,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐953)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐957)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -635,33 +617,33 @@ git config --global help.autocorrect 1
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐7k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7.1k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
-## [13. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [15. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [16. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [15. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### serialization
 
-*   [rgeo-geojson (⭐182)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
-## [17. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -671,26 +653,26 @@ git config --global help.autocorrect 1
 
 *   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 
-## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [19. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
-## [21. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [20. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### General
 
@@ -703,7 +685,7 @@ git config --global help.autocorrect 1
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [21. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
@@ -718,14 +700,14 @@ git config --global help.autocorrect 1
 
 *   [git2r (⭐213)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [23. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [22. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [23. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -741,7 +723,7 @@ git config --global help.autocorrect 1
 
 *   [Dtanks (⭐11)](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 
-## [25. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [24. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Basics
 
@@ -831,19 +813,19 @@ git config --global help.autocorrect 1
 
 *   [BetterWorks](http://www.producthunt.com/tech/betterworks)
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. \[Simplified BSD]
 
-## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [26. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [28. Amas](/content/sindresorhus/amas/week/README.md)
+## [27. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -853,25 +835,25 @@ git config --global help.autocorrect 1
 
 *   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
-*   [Trumbowyg (⭐3.9k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
+*   [Trumbowyg (⭐4k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
 
 ### Documentation / Runner
 
 *   [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
-*   [Ronn (⭐1.3k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+*   [Ronn (⭐1.4k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 *   [jsdox (⭐210)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐559)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Tracking / ORM
 
@@ -885,11 +867,25 @@ git config --global help.autocorrect 1
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [31. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [30. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
+
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+
+### Objective-C / PicoLisp
+
+*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
+
+### Swift / Play Scala
+
+*   [Hacking with Swift](https://www.hackingwithswift.com)
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -947,7 +943,7 @@ git config --global help.autocorrect 1
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐227)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐231)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
@@ -1002,7 +998,7 @@ git config --global help.autocorrect 1
 
 ### Algorithms and Data structures
 
-*   [combination (⭐32)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [combination (⭐33)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 *   [minmaxlist (⭐4)](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 *   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
@@ -1012,7 +1008,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐334)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐354)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1047,7 +1043,7 @@ git config --global help.autocorrect 1
 
 ### SEO
 
-*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐360)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ### Web Frameworks
 

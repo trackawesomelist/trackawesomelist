@@ -22,7 +22,7 @@
 
 ### Packages / Email
 
-*   [MJML (⭐16k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
+*   [MJML (⭐17k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐945)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐953)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 

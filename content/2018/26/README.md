@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25 - Jul 01, 2018
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -269,11 +269,11 @@
 
 ### API / Runner
 
-*   [axios (⭐103k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐105k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 
-*   [particles.js (⭐28k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+*   [particles.js (⭐29k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -370,7 +370,7 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ### Testing
 
@@ -386,7 +386,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jquery-mask (⭐19)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.7k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
+*   [vue-jquery-mask (⭐20)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.8k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
 ## [28. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
@@ -455,13 +455,19 @@
 
 *   [nhibernate-core (⭐2.1k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.4k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.5k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 
-## [38. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [39. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Genomics
 
@@ -472,13 +478,13 @@
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 
-## [39. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [40. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Codius
 
 *   [Codius Hosts](http://codiushosts.com/)
 
-## [40. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
@@ -492,27 +498,27 @@
 
 *   [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
 
-## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [42. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
 *   [SVG (⭐1.6k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
-*   [Image Cropper (⭐971)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [Image Cropper (⭐979)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Auth / Image Picker
 
-*   [Login (⭐708)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
+*   [Login (⭐710)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
 *   [OAuth (⭐176)](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 
 ### Templates / Preferences
 
-*   [Mates (⭐574)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [Mates (⭐581)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 *   [UI Kit (⭐6.2k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Device / Augmented Reality
@@ -525,7 +531,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐2.9k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐3k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ### Top / Game Engine resources
 
@@ -533,21 +539,21 @@
 
 ### Utilities / Game Engine resources
 
-*   [Launcher Icons (⭐1.9k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
+*   [Launcher Icons (⭐2k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
-## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [44. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [YCM (⭐43)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐442)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [45. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x health check (⭐13)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
-## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [46. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@alyssais](https://github.com/alyssais), [Homebrew (⭐34k)](https://github.com/Homebrew/brew)
     *   "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
@@ -559,7 +565,7 @@
 *   [@tbrisker](https://github.com/tbrisker), [Foreman (⭐2.3k)](https://github.com/theforeman/foreman)
     *   "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -572,9 +578,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐836)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐835)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
-## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
@@ -582,23 +588,19 @@
 *   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 *   [casl-aurelia (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
 
-## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [tools.trace (⭐355)](https://github.com/clojure/tools.trace)
 
-## [49. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Office
-
-*   [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+## [50. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Multimedia
 
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 
-## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -609,7 +611,7 @@
 
 *   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
-## [51. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [52. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -617,7 +619,7 @@
 *   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [SubFinder (⭐8.7k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [53. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -627,11 +629,7 @@
 
 *   [babel-parser (⭐43k)](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
 
-## [53. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / B companies
-
-*   Baidu Research <http://research.baidu.com/Blog>
+## [54. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / E companies
 
@@ -645,10 +643,6 @@
 
 *   0xADADA <https://0xadada.pub/>
 
-### Individuals/Group Contributors / A individuals
-
-*   Andreas Schuster <https://computer.forensikblog.de/en/>
-
 ### Individuals/Group Contributors / E individuals
 
 *   Erik Runyon <https://erikrunyon.com/>
@@ -661,7 +655,6 @@
 ### Individuals/Group Contributors / J individuals
 
 *   Johannes Brodwall <http://johannesbrodwall.com/>
-*   Jonas Plum <https://blog.cugu.eu/>
 
 ### Products/Technologies / R technologies
 

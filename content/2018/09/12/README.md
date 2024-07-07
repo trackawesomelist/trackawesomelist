@@ -65,12 +65,11 @@
 
 ### Tools and frameworks
 
-*   [Happo (⭐504)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
-*   [Wendigo (⭐147)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
-*   [Loki (⭐1.7k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
-*   [CodeceptJS (⭐4k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐569)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
-*   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
+*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
+*   [CodeceptJS (⭐4.1k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
+*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 
 ### Online services

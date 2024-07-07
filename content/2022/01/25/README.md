@@ -63,20 +63,20 @@
 
 ### Tools / Plugins
 
-*   [gatling-kafka-plugin (⭐58)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐31)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+*   [gatling-kafka-plugin (⭐62)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-amqp-plugin (⭐32)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 *   [gatling-jdbc-plugin (⭐21)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐33)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-picatinny (⭐35)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 
 ### Tools / Miscellaneous
 
-*   [gatling-template.g8 (⭐21)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
+*   [gatling-template.g8 (⭐22)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐67)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐70)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Stub packages
 
-*   [celery-types (⭐61)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐644)](https://github.com/celery/django-celery-results), [ampq (⭐305)](https://github.com/celery/py-amqp), [kombu (⭐2.7k)](https://github.com/celery/kombu), [billiard (⭐394)](https://github.com/celery/billiard), [vine (⭐119)](https://github.com/celery/vine) and [ephem (⭐732)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐71)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐24k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐668)](https://github.com/celery/django-celery-results), [ampq (⭐308)](https://github.com/celery/py-amqp), [kombu (⭐2.8k)](https://github.com/celery/kombu), [billiard (⭐404)](https://github.com/celery/billiard), [vine (⭐121)](https://github.com/celery/vine) and [ephem (⭐754)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -108,7 +108,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐801)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐823)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -132,18 +132,18 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dev-manifest (⭐17)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+*   [vite-plugin-dev-manifest (⭐18)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [coya (⭐63)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.4k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐228)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐230)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+
+### Components & Libraries / UI Components
+
+*   [coya (⭐64)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ---
 

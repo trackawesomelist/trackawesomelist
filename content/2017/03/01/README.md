@@ -20,7 +20,7 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐363)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐364)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

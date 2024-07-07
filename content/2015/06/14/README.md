@@ -24,29 +24,19 @@
 
 *   Artsy <http://artsy.github.io/>
 
-### Companies / B companies
-
-*   BlaBlaCar <http://blablatech.com/blog/>
-
 ### Companies / C companies
 
 *   Canva <https://engineering.canva.com>
 *   Cerner <http://engineering.cerner.com/>
-*   Chartbeat <http://engineering.chartbeat.com/>
 *   CodeName One <http://www.codenameone.com/blog.html>
 
 ### Companies / D companies
 
 *   Dropbox <https://blogs.dropbox.com/tech/>
 
-### Companies / E companies
-
-*   Etsy <https://codeascraft.com/>
-
 ### Companies / F companies
 
 *   Facebook <https://code.facebook.com/posts/>
-*   Fiftythree <http://making.fiftythree.com/>
 *   Finn.no <http://tech.finn.no/>
 *   Flickr <http://code.flickr.net/>
 
@@ -65,19 +55,13 @@
 *   Harry's <http://engineering.harrys.com/>
 *   Honeybadger <http://blog.honeybadger.io/>
 
-### Companies / I companies
-
-*   Intent Media <http://intentmedia.com/blog/>
-
 ### Companies / K companies
 
 *   Khan Academy <http://engineering.khanacademy.org>
-*   Kickstarter <https://www.kickstarter.com/backing-and-hacking>
 
 ### Companies / M companies
 
 *   Medallia <http://engineering.medallia.com/blog/>
-*   MemSQL <http://blog.memsql.com/content/engineering/>
 
 ### Companies / N companies
 
@@ -87,13 +71,8 @@
 
 *   Prezi <https://medium.com/prezi-engineering>
 
-### Companies / R companies
-
-*   Rightscale <http://eng.rightscale.com/>
-
 ### Companies / S companies
 
-*   Salesforce <https://developer.salesforce.com/blogs/engineering/>
 *   Simple <https://www.simple.com/engineering>
 *   Soundcloud <https://developers.soundcloud.com/blog/>
 *   Spotify <https://labs.spotify.com/>
@@ -105,19 +84,15 @@
 *   Thoughtbot <https://robots.thoughtbot.com/>
 *   Thumbtack <https://www.thumbtack.com/engineering/>
 *   Trivago <http://tech.trivago.com/>
-*   Twitter <https://blog.twitter.com/engineering>
 
 ### Companies / V companies
 
-*   Vine <http://engineering.vine.co/>
 *   Vinted <http://engineering.vinted.com/>
 
 ### Companies / W companies
 
-*   Wattpad <http://engineering.wattpad.com/>
 *   Wayfair <http://engineering.wayfair.com/>
 *   Wealthfront <http://eng.wealthfront.com/>
-*   Wonga Technology <http://tech.wonga.com/>
 
 ### Individuals/Group Contributors / A individuals
 
@@ -145,7 +120,6 @@
 
 ### Individuals/Group Contributors / P individuals
 
-*   Paul Graham <http://www.paulgraham.com/articles.html>
 *   Peter Norvig <http://norvig.com/>
 *   Peteris Krumins <http://www.catonmat.net/blog/>
 

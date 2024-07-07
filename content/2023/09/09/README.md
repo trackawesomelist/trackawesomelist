@@ -29,7 +29,7 @@
 
 ### Miscellaneous
 
-*   [puck (⭐4.6k)](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
+*   [puck (⭐4.7k)](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 
 ## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

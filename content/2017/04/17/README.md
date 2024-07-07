@@ -25,7 +25,7 @@
 
 ## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 
@@ -52,7 +52,6 @@
 ### Web Application Framework
 
 *   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
-*   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

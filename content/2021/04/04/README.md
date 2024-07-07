@@ -16,7 +16,7 @@
 
 ### Mobile
 
-*   [cl-json (⭐9)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-json (⭐8)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
 
 ## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Development Environment
 
-*   🍰 [CakePHP Docker (⭐30)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
+*   🍰 [CakePHP Docker (⭐31)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 
 ## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

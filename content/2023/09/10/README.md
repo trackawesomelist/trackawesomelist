@@ -10,33 +10,33 @@
 
 ### Concurrency
 
-*   [mitchellh/libxev (⭐1.6k)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
-*   [kprotty/zefi (⭐35)](https://github.com/kprotty/zefi) - Fiber library.
-*   [rsepassi/zigcoro (⭐80)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
+*   [mitchellh/libxev (⭐1.8k)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
+*   [kprotty/zefi (⭐34)](https://github.com/kprotty/zefi) - Fiber library.
+*   [rsepassi/zigcoro (⭐85)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 *   [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
 
 ### Misc libraries
 
-*   [kassane/lean4-zig (⭐6)](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
+*   [kassane/lean4-zig (⭐7)](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
 
 ### Zig development tools / Package managers
 
-*   [mattnite/ezpkg (⭐25)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐61)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [mattnite/ezpkg (⭐24)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
+*   [nix-community/zon2nix (⭐62)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ### Parser / Package managers
 
-*   [InKryption/comath (⭐39)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
+*   [InKryption/comath (⭐40)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
 
 ### Learning resources / Package managers
 
-*   [zighelp/zighelp (⭐30)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
+*   [zighelp/zighelp (⭐29)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
 
 ### C/C++ libraries packaged for Zig / C
 
 *   [andrewrk/libz (⭐13)](https://github.com/andrewrk/libz) - Zlib data compression.
-*   [kassane/openssl-zig (⭐5)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
-*   [raysan5/raylib (⭐19k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
+*   [kassane/openssl-zig (⭐6)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
+*   [raysan5/raylib (⭐20k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 *   [jmcnamara/libxlsxwriter (⭐1.4k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 
 ### C/C++ libraries packaged for Zig / C++
@@ -46,7 +46,7 @@
 *   [kassane/unordered (⭐0)](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 *   [kassane/Standalone-Server (⭐2)](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐58k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐61k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -119,15 +119,15 @@
 *   [**Simple.css**](https://simplecss.org/) - Lightweight, classless CSS framework.\
     ![](https://img.shields.io/github/stars/kevquirk/simple.css?style=social\&label=Star)
     [Demo](https://simplecss.org/demo),
-    [Docs (⭐3.9k)](https://github.com/kevquirk/simple.css/wiki),
-    [Repo (⭐3.9k)](https://github.com/kevquirk/simple.css/)
+    [Docs (⭐4k)](https://github.com/kevquirk/simple.css/wiki),
+    [Repo (⭐4k)](https://github.com/kevquirk/simple.css/)
     \| #CSS
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [roobert/activate.nvim (⭐88)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+*   [roobert/activate.nvim (⭐97)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 
 ---
 

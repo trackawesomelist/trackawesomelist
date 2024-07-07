@@ -20,7 +20,7 @@
 
 ### Testing
 
-*   [Fluent Assertions (⭐3.6k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.7k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

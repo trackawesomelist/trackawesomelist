@@ -22,7 +22,7 @@
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐5)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -102,7 +102,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐225)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐226)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,37 +30,31 @@
 
 *   [akamai-time-reference (⭐3)](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / H companies
-
-*   HireArt <http://code.hireart.com/>
-
-## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Database clients / XML
 
 *   [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
-## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Utilities
 
 *   [RxFunctions (⭐50)](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐252)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐254)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
 *   [SwiftyGestureRecognition (⭐162)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
-## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -69,7 +63,7 @@
     *   [Lecture Notes](http://www.cs.umd.edu/class/spring2015/cmsc430/Schedule.html)
     *   [Assignments](http://www.cs.umd.edu/class/spring2015/cmsc430/Projects.html)
 
-## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Websites / OpenOffice
 

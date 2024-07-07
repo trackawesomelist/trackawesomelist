@@ -52,7 +52,7 @@
 
 ### Table of Contents / Security
 
-*   [SQLMap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+*   [SQLMap (⭐31k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Environment Management
 
-*   [crenv (⭐236)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐238)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

@@ -49,7 +49,6 @@
 ### Companies / B companies
 
 *   Base Lab <https://lab.getbase.com/category/engineering/>
-*   BitTorrent <http://engineering.bittorrent.com/>
 
 ### Companies / E companies
 
@@ -58,10 +57,6 @@
 ### Companies / L companies
 
 *   Localytics <http://eng.localytics.com/>
-
-### Companies / M companies
-
-*   Mandrill <http://blog.mandrill.com/>
 
 ### Companies / N companies
 
@@ -73,17 +68,11 @@
 
 ### Companies / T companies
 
-*   TaskRabbit <http://tech.taskrabbit.com/>
 *   theScore <http://techblog.thescore.com/>
-
-### Companies / W companies
-
-*   WebEngage <http://engineering.webengage.com/>
 
 ### Companies / Z companies
 
 *   Zalando <https://tech.zalando.com/blog/>
-*   Zumba <http://tech.zumba.com/>
 
 ### Individuals/Group Contributors / A individuals
 

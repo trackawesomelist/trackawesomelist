@@ -75,7 +75,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [xgouchet/Elmyr (⭐81)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
+*   [xgouchet/Elmyr (⭐80)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -112,13 +112,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐125)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐129)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐143)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐144)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

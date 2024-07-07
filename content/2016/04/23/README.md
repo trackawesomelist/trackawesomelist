@@ -42,7 +42,7 @@
 
 ### Third Party APIs
 
-*   [pay (⭐26)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
+*   [pay (⭐27)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

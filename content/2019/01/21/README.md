@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐558)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐559)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐306)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐308)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
@@ -32,7 +32,7 @@
 
 ### Hardware
 
-*   [Electronics (⭐5.5k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐5.7k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Debug
 
-*   [check (⭐1k)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐1.1k)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -75,7 +75,7 @@
 
 ### Events
 
-*   [Tomorrowland (⭐118)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
+*   [Tomorrowland (⭐117)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
 
 ### Utility / Barcode
 

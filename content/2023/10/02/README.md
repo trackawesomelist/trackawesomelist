@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2023
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -341,7 +341,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [minima (⭐2)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
+*   [minima (⭐3)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
 *   [x (⭐5)](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
@@ -352,7 +352,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   Based on learning incrementally on fly
 *   Based on data points comparison and pattern detection
 
-### Algorithms / Supervised Learning
+### Comparison / Supervised Learning
 
 *   [Regression](https://en.wikipedia.org/wiki/Regression)
 *   [Softmax Regression](https://d2l.ai/chapter_linear-classification/softmax-regression.html)
@@ -365,6 +365,16 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 *   [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science
+
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [MythBusters JS](https://mythbusters.js.org) - Kiko Beats (HTML)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
 
 ---
 

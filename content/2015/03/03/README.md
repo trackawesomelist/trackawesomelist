@@ -10,7 +10,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Guidelines](http://aturon.github.io/)
+*   [Rust Guidelines](http://aturon.github.io/) - Aaron Turon's blog posts on rust
 
 ---
 

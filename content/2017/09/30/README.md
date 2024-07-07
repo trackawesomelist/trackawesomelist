@@ -16,21 +16,13 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐860)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐858)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / A companies
-
-*   Allegro.tech <https://allegro.tech>
 
 ### Companies / B companies
 
 *   Benchling <https://benchling.engineering/>
-
-### Companies / C companies
-
-*   Codemancers <https://crypt.codemancers.com/>
 
 ### Companies / H companies
 
@@ -43,14 +35,6 @@
 ### Companies / N companies
 
 *   Nordic APIs <https://nordicapis.com/blog/>
-
-### Companies / S companies
-
-*   Scrapinghub <https://blog.scrapinghub.com/>
-
-### Individuals/Group Contributors / A individuals
-
-*   Andrew Ray <https://blog.andrewray.me/>
 
 ### Individuals/Group Contributors / J individuals
 

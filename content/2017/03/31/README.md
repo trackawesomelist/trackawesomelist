@@ -14,9 +14,9 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐411)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [fhir.js (⭐418)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
 *   [Node HL7 (⭐54)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐154)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [Ruby FHIR (⭐159)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐95)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
@@ -137,7 +137,7 @@
 
 ### Software / Algorithms
 
-*   [algo.graph (⭐15)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
+*   [algo.graph (⭐16)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 
 ### Software / C / C++
 

@@ -18,7 +18,7 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.5k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.6k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐318)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐322)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

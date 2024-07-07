@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -82,17 +82,11 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### Queue
 
-*   [Warewolf ESB (⭐266)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐267)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 
-*   [FakeItEasy (⭐1.6k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
-
-## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / B companies
-
-*   Blogfoster <http://engineering.blogfoster.com/>
+*   [FakeItEasy (⭐1.7k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
 ---
 

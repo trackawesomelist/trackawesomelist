@@ -32,7 +32,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐10k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐11k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ## [4. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

@@ -16,13 +16,13 @@
 
 ### Framework Components
 
-*   [praetorian (⭐58)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐59)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Varia / Tutorials
 
-*   [Awesome community detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 
 ## [4. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Premium / Game Engine resources
 
-*   [History Of Everything (⭐6.4k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+*   [History Of Everything (⭐6.5k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
 ## [7. Awesome C](/content/inputsh/awesome-c/README.md)
 

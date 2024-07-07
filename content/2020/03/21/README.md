@@ -44,7 +44,7 @@
 
 ### Validation / Runner
 
-*   [Funval (⭐362)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐366)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

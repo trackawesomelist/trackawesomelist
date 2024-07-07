@@ -10,7 +10,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Password-Generator (⭐282)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+*   [Password-Generator (⭐286)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -52,7 +52,6 @@
 ### Companies / D companies
 
 *   Databricks <https://databricks.com/blog>
-*   DataFox <http://eng.datafox.co/>
 
 ---
 

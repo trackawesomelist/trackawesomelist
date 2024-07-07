@@ -71,18 +71,18 @@
 
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.7k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.9k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
 *   [Only-Error (⭐15)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐149)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Warn (⭐155)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐956)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐971)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -111,11 +111,11 @@
 
 ### Tools / Timecode
 
-*   [Time MIDI sender (⭐0)](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
+*   [Time MIDI sender (⭐1)](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
 
 ### Resources / ArtNet Libraries
 
-*   [awesome-linuxaudio (⭐1k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
+*   [awesome-linuxaudio (⭐1.3k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
 
 ## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐135)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐138)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -139,7 +139,7 @@
 
 ### External Services
 
-*   [steam-box (⭐150)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐153)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

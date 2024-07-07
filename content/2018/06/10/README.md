@@ -19,11 +19,11 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐390)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐391)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [Meme Chat (⭐540)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Meme Chat (⭐541)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Git-Hooks (⭐973)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
+*   [Composer-Git-Hooks (⭐1k)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 
 ### Scripts / IRC
 
@@ -52,8 +52,8 @@
 
 ### Setup a Packagist Mirror / IRC
 
-*   [Docker Image (⭐28)](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
-*   [Packagist Mirror from Indonesia (⭐32)](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
+*   [Docker Image (⭐27)](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
+*   [Packagist Mirror from Indonesia (⭐31)](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
 
 ### Packagist Mirrors / IRC
 

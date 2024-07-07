@@ -167,74 +167,73 @@
 
 ### Applications
 
-*   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Servo (⭐26k)](https://github.com/servo/servo) — A prototype web browser engine
+*   [Pijul](https://pijul.org) - A patch-based distributed version control system
+*   [Servo (⭐27k)](https://github.com/servo/servo) - A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐860)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐877)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐24k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐25k)](https://github.com/firecracker-microvm/firecracker) - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.5k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.5k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
 
 ### Development tools / Debugging
 
 *   LLDB
-    *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension for [Visual Studio Code](https://code.visualstudio.com/).
+    *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - A LLDB extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐518)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐519)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
-*   [docs.rs](https://docs.rs) — Automatic documentation generation of crates
+*   [docs.rs](https://docs.rs) - Automatic documentation generation of crates
 
 ### Development tools / Static analysis
 
-*   [static\_assertions](https://crates.io/crates/static_assertions) — Compile-time assertions to ensure that invariants are met
+*   [static\_assertions](https://crates.io/crates/static_assertions) - Compile-time assertions to ensure that invariants are met
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐60)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
+    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.4k)](https://github.com/actix/actix) — Actor library
-    *   [dylanmckay/protocol (⭐182)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.6k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-    *   [tokio-rs/tokio (⭐25k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐8.5k)](https://github.com/actix/actix) - Actor library
+    *   [dylanmckay/protocol (⭐185)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.6k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
 
 ### Libraries / Parsing
 
-*   [ptal/oak (⭐141)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
+*   [ptal/oak (⭐141)](https://github.com/ptal/oak) - A typed PEG parser generator (compiler plugin)
 
 ### Libraries / Web programming
 
 *   Client-side / WASM
-    *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
-    *   [leptos (⭐15k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
+    *   [leptos (⭐15k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
-    *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) — A framework for creating web apps
-    *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
-    *   [yew](https://crates.io/crates/yew) — A framework for making client web apps
+    *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
+    *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
+    *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
 
 ### Resources / Web programming
 
-*   [Rust Subreddit](https://www.reddit.com/r/rust/) — A subreddit(forum) where rust related questions, articles and resources are posted and discussed
+*   [Rust Subreddit](https://www.reddit.com/r/rust/) - A subreddit(forum) where rust related questions, articles and resources are posted and discussed
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

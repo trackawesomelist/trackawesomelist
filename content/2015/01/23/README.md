@@ -16,7 +16,7 @@
 
 ### Date and Time
 
-*   [repeatex (⭐52)](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
+*   [repeatex (⭐53)](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 
 ## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Editors / Runner
 
-*   [TinyMCE (⭐14k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+*   [TinyMCE (⭐15k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
 ## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 

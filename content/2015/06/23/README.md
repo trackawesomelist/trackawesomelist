@@ -14,10 +14,6 @@
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / F companies
-
-*   Firmafon <https://dev.firmafon.dk/blog/>
-
 ### Individuals/Group Contributors / E individuals
 
 *   Evan Hahn <http://evanhahn.com/>

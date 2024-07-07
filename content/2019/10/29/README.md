@@ -50,10 +50,6 @@
 
 *   [FHEM](https://fhem.de/fhem.html) - FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ([Source Code](https://svn.fhem.de/trac)) `GPL-3.0` `Perl`
 
-### Software / Money, Budgeting & Management
-
-*   [OnTrack (⭐778)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
-
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
@@ -68,7 +64,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐563)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐598)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -90,11 +86,11 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐725)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐729)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 
-*   [Portable UTF-8 (⭐500)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable UTF-8 (⭐504)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

@@ -66,7 +66,7 @@
 
 ### Official Resources
 
-*   [Source code (⭐6.1k)](https://github.com/gatling/gatling)
+*   [Source code (⭐6.3k)](https://github.com/gatling/gatling)
 
 ### Getting Started
 
@@ -79,19 +79,15 @@
 *   [Load testing gRPC services with Gatling](https://medium.com/@georgeleung_7777/load-testing-grpc-services-with-gatling-990025c77055)
 *   [Load testing ZeroMQ with a custom DSL for Gatling](http://mintbeans.com/load-testing-zeromq-with-gatling/)
 
-### Distributed Testing
-
-*   [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
-
 ### Tools / Plugins
 
-*   [gatling-grpc (⭐120)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+*   [gatling-grpc (⭐126)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
 *   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

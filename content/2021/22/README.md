@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31 - Jun 06, 2021
 
-76 awesome lists updated this week.
+77 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,22 +38,22 @@
 
 ### Form / Checkbox
 
-*   [svelte-forms-lib (⭐596)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelte-forms-lib (⭐600)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 
 ### WebGL / Checkbox
 
-*   [svelthree (⭐468)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐472)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal / Checkbox
 
-*   [svelte-portal (⭐409)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
-*   [svelte-teleport (⭐24)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+*   [svelte-portal (⭐422)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-teleport (⭐25)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Checkbox
 
-*   [svelte-router-spa (⭐506)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐511)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐669)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [tinro (⭐670)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.5k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 *   [svelte-client-router (⭐15)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
@@ -132,9 +132,9 @@
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Tables / Validation
+### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐564)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐568)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐242)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐245)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -408,7 +408,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Libraries and Frameworks
 
-*   [ExtPay (⭐337)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
+*   [ExtPay (⭐455)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
 ## [32. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -462,7 +462,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐489)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐494)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [37. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -511,7 +511,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐63)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐64)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -727,13 +727,19 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐608)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐616)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐258)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐260)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
-## [60. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [60. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Linux / TeX
+
+*   [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
+
+## [61. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -741,24 +747,24 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
-## [61. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [62. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 *   [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
-## [62. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [63. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐6k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐6.1k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ### FIAT
 
 *   [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 
-## [63. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [64. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -773,32 +779,32 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
-## [64. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [65. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / iOS SDK
 
 *   [Repo with Samples :fire::fire::fire::fire: (⭐1k)](https://github.com/awslabs/aws-sdk-ios-samples)
 
-## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [66. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
-*   [react-heat-map (⭐171)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐178)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐65)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐67)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ### Form Components / Rich Text Editor
 
-*   [react-codemirror (⭐1.4k)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
-*   [react-monacoeditor (⭐282)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+*   [react-codemirror (⭐1.5k)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
+*   [react-monacoeditor (⭐284)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.8k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.9k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
-## [66. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [67. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Processing
 
@@ -818,7 +824,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   **[Prokka (⭐620)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 *   **[Bakta (⭐249)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
-## [67. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [68. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -840,34 +846,34 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis.
 
-## [68. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [69. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
-*   [vue-pdf-embed (⭐594)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐607)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-fullscreen (⭐430)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
-## [69. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [70. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
-*   [OCCRP Aleph](https://aleph.occrp.org/)
-*   [Mamont](https://www.mmnt.ru/)
 *   [GrayhatWarfare](https://grayhatwarfare.com/)
+*   [Mamont](https://www.mmnt.ru/)
+*   [OCCRP Aleph](https://aleph.occrp.org/)
 *   [WIPO](https://www3.wipo.int/branddb/en/)
 
 ### File Search
 
-*   [FileChef](https://www.filechef.com/)
 *   [File Search Engine](https://www.filesearch.link/)
-*   [FilePursuit](https://filepursuit.com/)
-*   [SearchFiles.de](https://searchfiles.de/)
-*   [NAPALM FTP Indexer](https://www.searchftps.net/)
+*   [FileChef](https://www.filechef.com/)
 *   [FileListing](https://filelisting.com/)
+*   [FilePursuit](https://filepursuit.com/)
+*   [NAPALM FTP Indexer](https://www.searchftps.net/)
+*   [SearchFiles.de](https://searchfiles.de/)
 
 ### Pastebins
 
@@ -875,16 +881,16 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Code Search
 
-*   [Reposearch](http://codefinder.org/)
 *   [PublicWWW](https://publicwww.com/)
+*   [Reposearch](http://codefinder.org/)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
-*   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 *   [Kribrum](https://kribrum.io/)
-*   [WATools](https://watools.io/)
+*   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
+*   [Oblivion (⭐483)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐451)](https://github.com/loseys/Oblivion)
+*   [WATools](https://watools.io/)
 
 ### Social Media Tools / VKontakte
 
@@ -896,17 +902,17 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Username Check / Telegram
 
-*   [WhatsMyName](https://whatsmyname.app/)
+*   [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
 ### People Investigations / Telegram
 
-*   [ZabaSearch](https://www.zabasearch.com/)
 *   [Mugshots](https://mugshots.com/)
+*   [ZabaSearch](https://www.zabasearch.com/)
 
 ### Phone Number Research / Telegram
 
-*   [FreeCarrierLookup](https://freecarrierlookup.com/)
-*   [Sync.ME](https://sync.me/)
+*   [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian\* phone numbers.
+*   [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 
 ### Company Research / Telegram
 
@@ -926,45 +932,45 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Image Search / Telegram
 
 *   [Betaface](https://www.betaface.com/demo.html)
-*   [Search4faces](https://search4faces.com/)
+*   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 
 ### Image Analysis / Telegram
 
-*   [Forensically](https://29a.ch/photo-forensics/)
 *   [DiffChecker](https://www.diffchecker.com/image-diff/)
+*   [Forensically](https://29a.ch/photo-forensics/)
 *   [ImgOps](https://imgops.com/)
 
 ### Video Search and Other Video Tools / Telegram
 
-*   [Insecam](http://insecam.org/)
-*   [YouTube Metadata](https://mattw.io/youtube-metadata/)
+*   [Insecam](http://insecam.org/) - Live cameras directory
+*   [Video Stabilization Methods (⭐339)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐297)](https://github.com/yaochih/awesome-video-stabilization)
+*   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
-*   [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-*   [Pic2Map](https://www.pic2map.com/)
-*   [Mapillary](https://www.mapillary.com/app/)
-*   [KartaView](https://kartaview.org/map/)
-*   [Satellites Pro](https://satellites.pro/)
-*   [Liveuamap](https://liveuamap.com/)
-*   [Descartes Labs](https://maps.descarteslabs.com/)
 *   [Baidu Maps](https://map.baidu.com/)
-*   [MapChecking](https://www.mapchecking.com/)
-*   [Windy](https://www.windy.com/)
-*   [SOAR](https://soar.earth/)
+*   [Descartes Labs](https://maps.descarteslabs.com/)
 *   [digiKam](https://www.digikam.org/)
+*   [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
+*   [KartaView](https://kartaview.org/map/)
+*   [Liveuamap](https://liveuamap.com/)
+*   [MapChecking](https://www.mapchecking.com/)
+*   [Mapillary](https://www.mapillary.com/app/)
+*   [Pic2Map](https://www.pic2map.com/)
+*   [Satellites Pro](https://satellites.pro/)
+*   [SOAR](https://soar.earth/)
+*   [Windy](https://www.windy.com/)
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Observable](https://observablehq.com/)
+*   [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
 
 ### Other Tools / Telegram
 
+*   [FOCA (⭐2.8k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.7k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 
@@ -984,7 +990,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [OSINT Belarus](https://t.me/s/osintby)
 *   [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 
-## [70. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [71. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -995,7 +1001,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 
-## [71. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [72. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -1005,7 +1011,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [ReTiSAR (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
 
-## [72. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [73. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Websites
 
@@ -1036,7 +1042,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
 *   [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 
-## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [74. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -1050,19 +1056,19 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
-## [74. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [75. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Extensions
 
 *   [Eventbus Service (⭐8)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
-## [75. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [76. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [buckets (⭐25)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
-## [76. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [77. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 

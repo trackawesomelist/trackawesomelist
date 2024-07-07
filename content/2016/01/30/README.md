@@ -8,7 +8,7 @@
 
 ## [1. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Writing native (⭐357)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
@@ -187,7 +187,6 @@
 ### Composer
 
 *   [Official Website](https://getcomposer.org/)
-*   [Github (⭐27k)](https://github.com/composer/composer)
 *   [Documentation](https://getcomposer.org/doc/)
 *   [Find Packages on Packagist](https://packagist.org/)
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - Composer installers for multiple frameworks.
@@ -195,19 +194,12 @@
 ### Support / Stack Overflow
 
 *   You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
-*   [Ask a new question](http://stackoverflow.com/questions/ask?tags=composer-php+php)
-*   [Find questions tagged `composer-php`](http://stackoverflow.com/questions/tagged/composer-php)
-
-### Satis / IRC
-
-*   [Gitlab-Composer (⭐165)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
-*   [Satisfy (⭐465)](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [params (⭐334)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐354)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Text and Numbers

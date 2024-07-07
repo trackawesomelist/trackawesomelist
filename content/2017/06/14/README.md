@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [Startup Job (⭐96)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
+*   [Startup Job (⭐97)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 
 ### Date and Time
 
@@ -42,12 +42,12 @@
 
 ### Text and Numbers
 
-*   [numero (⭐6)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
-*   [veritaserum (⭐82)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
+*   [numero (⭐7)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
+*   [veritaserum (⭐83)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ### Third Party APIs
 
-*   [ethereumex (⭐375)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐376)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -99,7 +99,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### PHP / Misc
 
-*   [steam-auth (⭐18)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
+*   [steam-auth (⭐17)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ## [10. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

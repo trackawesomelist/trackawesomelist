@@ -65,7 +65,7 @@
 
 ### Packages / Text
 
-*   [matcher (⭐534)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐536)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 

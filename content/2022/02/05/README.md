@@ -76,7 +76,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐757)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐783)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -86,22 +86,22 @@
 
 ### Browser-Based / Puzzle
 
-*   [Swap (⭐157)](https://github.com/nmoroze/swap) - New take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
+*   [Swap (⭐158)](https://github.com/nmoroze/swap) - New take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
 
 ### Native / Action
 
-*   [OpenTomb (⭐1.3k)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
+*   [OpenTomb (⭐1.4k)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
 
 ### Native / MMORPG
 
-*   [Stendhal (⭐494)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
+*   [Stendhal (⭐575)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace (⭐249)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐709)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐289)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐767)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
@@ -109,15 +109,15 @@
 
 ### Server Applications
 
-*   [dummy (⭐178)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
+*   [dummy (⭐177)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [IPsec VPN Server Auto Setup Scripts (⭐23k)](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-*   [Innernet (⭐4.6k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
-*   [Nebula (⭐13k)](https://github.com/slackhq/nebula) - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
+*   [IPsec VPN Server Auto Setup Scripts (⭐24k)](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+*   [Innernet (⭐4.9k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
+*   [Nebula (⭐14k)](https://github.com/slackhq/nebula) - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
 *   [OpenVPN](https://openvpn.net/) - Longstanding Free Software traditional SSL/TLS-based virtual private network.
 *   [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
 *   [tinc](https://tinc-vpn.org/) - Free Software mesh VPN implemented entirely in userspace that supports expandable network space, bridged ethernet segments, and more.

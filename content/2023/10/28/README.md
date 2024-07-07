@@ -68,25 +68,12 @@
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐137)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐198)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Productivity and Time
-
-*   [Errands (⭐242)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
-### Graphics
-
-*   [ASCII Draw (⭐137)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
-
-### Utilities
-
-*   [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
 ### Development and Design
 
-*   [Forge Sparks (⭐56)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 ## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
@@ -97,7 +84,7 @@
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
-### Party
+### Strategy
 
 ### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/old-kings-crown)
 
@@ -120,7 +107,7 @@
 ### Libraries / C#
 
 *   C#: Geometry
-    *   🎉 [DotRecast (⭐411)](https://github.com/ikpil/DotRecast) - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
+    *   🎉 [DotRecast (⭐432)](https://github.com/ikpil/DotRecast) - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

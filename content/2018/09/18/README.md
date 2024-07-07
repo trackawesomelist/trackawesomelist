@@ -36,12 +36,12 @@
 
 ### Misc
 
-*   [Tuist (⭐4.2k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐4.4k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐2k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐814)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐816)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -85,11 +85,11 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐337)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐339)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.8k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐3.9k)](https://github.com/gbdev/awesome-gbdev#readme)
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Packages / Command-line utilities
 
-*   [Bit (⭐17k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+*   [Bit (⭐18k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 ## [2. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Flamme (⭐127)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
+*   [Flamme (⭐128)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 
 ### Components & Libraries / UI Utilities
 

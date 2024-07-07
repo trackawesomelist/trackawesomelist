@@ -10,7 +10,7 @@
 
 ### D / Non-X86
 
-*   [D Templates Tutorial (⭐221)](https://github.com/PhilippeSigaud/D-templates-tutorial)
+*   [D Templates Tutorial (⭐227)](https://github.com/PhilippeSigaud/D-templates-tutorial)
 
 ---
 

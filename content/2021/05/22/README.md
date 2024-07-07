@@ -12,10 +12,10 @@
 
 *   [Swisscows](https://swisscows.com/)
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
-*   [h8mail (⭐3.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐6.1k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐4k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐7k)](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
 ### Video Search and Other Video Tools / Telegram
 
@@ -24,11 +24,11 @@
 ### Geospatial Research and Mapping Tools / Telegram
 
 *   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
-*   [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
 *   [Maxar](https://discover.digitalglobe.com/)
+*   [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+*   [SunCalc](https://www.suncalc.org/)
 *   [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 *   [Zoom Earth](https://zoom.earth/)
-*   [SunCalc](https://www.suncalc.org/)
 
 ### Other Tools / Telegram
 
@@ -86,7 +86,7 @@
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐241)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐240)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kyvg/vue3-notification (⭐350)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+*   [@kyvg/vue3-notification (⭐352)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 ### Components & Libraries / Utilities
 

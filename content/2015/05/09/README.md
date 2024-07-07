@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐714)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐718)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -47,7 +47,7 @@
 
 *   [Mnemosyne (⭐44)](https://github.com/johnnykv/mnemosyne) - A normalizer for
     honeypot data; supports Dionaea.
-*   [Thug (⭐959)](https://github.com/buffer/thug) - Low interaction honeyclient, for
+*   [Thug (⭐967)](https://github.com/buffer/thug) - Low interaction honeyclient, for
     investigating malicious websites.
 
 ### Malware Collection / Malware Corpora
@@ -66,7 +66,7 @@
 *   [hpfeeds (⭐208)](https://github.com/rep/hpfeeds) - Honeypot feed protocol.
 *   [Internet Storm Center (DShield)](https://isc.sans.edu/) - Diary and
     searchable incident database, with a web [API](https://dshield.org/api/).
-    ([unofficial Python library (⭐23)](https://github.com/rshipp/python-dshield)).
+    ([unofficial Python library (⭐24)](https://github.com/rshipp/python-dshield)).
 *   [malc0de](http://malc0de.com/database/) - Searchable incident database.
 *   [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share
     malicious URLs.
@@ -80,9 +80,9 @@
 *   [chkrootkit](http://www.chkrootkit.org/) - Local Linux rootkit detection.
 *   [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool/) - Read, write and
     edit file metadata.
-*   [hashdeep (⭐687)](https://github.com/jessek/hashdeep) - Compute digest hashes with
+*   [hashdeep (⭐694)](https://github.com/jessek/hashdeep) - Compute digest hashes with
     a variety of algorithms.
-*   [nsrllookup (⭐107)](https://github.com/rjhansen/nsrllookup) - A tool for looking
+*   [nsrllookup (⭐110)](https://github.com/rjhansen/nsrllookup) - A tool for looking
     up hashes in NIST's National Software Reference Library database.
 *   [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Detect Linux rootkits.
 *   [TrID](http://mark0.net/soft-trid-e.html) - File identifier.
@@ -118,10 +118,10 @@
     IDX cache files.
 *   [JSDetox](http://www.relentless-coding.com/projects/jsdetox/) - JavaScript
     malware analysis tool.
-*   [jsunpack-n (⭐157)](https://github.com/urule99/jsunpack-n) - A javascript
+*   [jsunpack-n (⭐158)](https://github.com/urule99/jsunpack-n) - A javascript
     unpacker that emulates browser functionality.
 *   [Malzilla](http://malzilla.sourceforge.net/) - Analyze malicious web pages.
-*   [RABCDAsm (⭐419)](https://github.com/CyberShadow/RABCDAsm) - A "Robust
+*   [RABCDAsm (⭐427)](https://github.com/CyberShadow/RABCDAsm) - A "Robust
     ActionScript Bytecode Disassembler."
 *   [swftools](http://www.swftools.org/) - Tools for working with Adobe Flash
     files.
@@ -130,7 +130,7 @@
 
 ### Documents and Shellcode / Other Resources
 
-*   [AnalyzePDF (⭐170)](https://github.com/hiddenillusion/AnalyzePDF) - A tool for
+*   [AnalyzePDF (⭐171)](https://github.com/hiddenillusion/AnalyzePDF) - A tool for
     analyzing PDFs and attempting to determine whether they are malicious.
 *   [diStorm](http://www.ragestorm.net/distorm/) - Disassembler for analyzing
     malicious shellcode.
@@ -158,11 +158,11 @@
 
 *   [bulk\_extractor (⭐1k)](https://github.com/simsong/bulk_extractor) - Fast file
     carving tool.
-*   [EVTXtract (⭐173)](https://github.com/williballenthin/EVTXtract) - Carve Windows
+*   [EVTXtract (⭐176)](https://github.com/williballenthin/EVTXtract) - Carve Windows
     Event Log files from raw binary data.
 *   [Foremost](http://foremost.sourceforge.net/) - File carving tool designed
     by the US Air Force.
-*   [Scalpel (⭐603)](https://github.com/sleuthkit/scalpel) - Another data carving
+*   [Scalpel (⭐612)](https://github.com/sleuthkit/scalpel) - Another data carving
     tool.
 
 ### Debugging and Reverse Engineering / Other Resources
@@ -181,13 +181,13 @@
     executables.
 *   [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) -
     Advanced monitoring tool for Windows programs.
-*   [Pyew (⭐379)](https://github.com/joxeankoret/pyew) - Python tool for malware
+*   [Pyew (⭐380)](https://github.com/joxeankoret/pyew) - Python tool for malware
     analysis.
 *   [Radare2](http://www.radare.org/r/) - Reverse engineering framework, with
     debugger support.
-*   [Udis86 (⭐985)](https://github.com/vmt/udis86) - Disassembler library and tool
+*   [Udis86 (⭐999)](https://github.com/vmt/udis86) - Disassembler library and tool
     for x86 and x86\_64.
-*   [Vivisect (⭐904)](https://github.com/vivisect/vivisect) - Python tool for
+*   [Vivisect (⭐908)](https://github.com/vivisect/vivisect) - Python tool for
     malware analysis.
 
 ### Network / Other Resources
@@ -199,7 +199,7 @@
 *   [mitmproxy](https://mitmproxy.org/) - Intercept network traffic on the fly.
 *   [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network
     forensic analysis tool, with a free version.
-*   [ngrep (⭐847)](https://github.com/jpr5/ngrep) - Search through network traffic
+*   [ngrep (⭐864)](https://github.com/jpr5/ngrep) - Search through network traffic
     like grep.
 *   [Tcpdump](http://www.tcpdump.org/) - Collect network traffic.
 *   [tcpick](http://tcpick.sourceforge.net/) - Trach and reassemble TCP streams
@@ -215,18 +215,18 @@
     encryption keys in memory.
 *   [Muninn (⭐51)](https://github.com/ytisf/muninn) - A script to automate portions
     of analysis using Volatility, and create a readable report.
-    [Orochi (⭐196)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for
+    [Orochi (⭐208)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for
     collaborative forensic memory dump analysis.
 *   [Rekall](http://www.rekall-forensic.com/) - Memory analysis framework,
     forked from Volatility in 2013.
 *   [TotalRecall (⭐49)](https://github.com/sketchymoose/TotalRecall) - Script based
     on Volatility for automating various malware analysis tasks.
-*   [Volatility (⭐6.9k)](https://github.com/volatilityfoundation/volatility) - Advanced
+*   [Volatility (⭐7k)](https://github.com/volatilityfoundation/volatility) - Advanced
     memory forensics framework.
 
 ### Windows Artifacts / Other Resources
 
-*   [python-evt (⭐42)](https://github.com/williballenthin/python-evt) - Python
+*   [python-evt (⭐46)](https://github.com/williballenthin/python-evt) - Python
     library for parsing Windows Event Logs.
 *   [python-registry](http://www.williballenthin.com/registry/) - Python
     library for parsing registry files.
@@ -268,7 +268,7 @@
 *   [/r/Malware](https://www.reddit.com/r/Malware) - The malware subreddit.
 *   [/r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering) -
     Reverse engineering subreddit, not limited to just malware.
-*   [Android Security (⭐7.7k)](https://github.com/ashishb/android-security-awesome)
+*   [Android Security (⭐7.9k)](https://github.com/ashishb/android-security-awesome)
 *   [Pentesting (⭐21k)](https://github.com/enaqx/awesome-pentest)
 *   [Security (⭐12k)](https://github.com/sbilly/awesome-security)
 

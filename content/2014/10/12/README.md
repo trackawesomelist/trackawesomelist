@@ -10,7 +10,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-write-stream-atomic (⭐48)](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
+*   [fs-write-stream-atomic (⭐49)](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 
 ---
 

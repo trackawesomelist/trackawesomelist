@@ -92,13 +92,13 @@
 
 ### Tools / Other
 
-*   **[free-for-dev (⭐61k)](https://github.com/ripienaar/free-for-dev)**
+*   **[free-for-dev (⭐85k)](https://github.com/ripienaar/free-for-dev)**
 
     A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
 *   **[Tools Of The Trade (⭐16k)](https://github.com/cjbarber/ToolsOfTheTrade)**
 
     Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
-*   **[awesome-selfhosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted)**
+*   **[awesome-selfhosted (⭐183k)](https://github.com/Kickball/awesome-selfhosted)**
 
     "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

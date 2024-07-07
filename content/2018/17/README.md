@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23 - Apr 29, 2018
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -151,12 +151,12 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Keyboard
 
 *   [KeyboardObserver (⭐161)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
-*   [KeyboardMan (⭐351)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
+*   [KeyboardMan (⭐352)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
 *   [Typist (⭐1.1k)](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
 *   [KeyboardHideManager (⭐57)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
 *   [Toolbar (⭐456)](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 *   [IHKeyboardAvoiding (⭐1.4k)](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
-*   [NumPad (⭐83)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
+*   [NumPad (⭐84)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
 
 ### Utility / Collection View Layout
 
@@ -164,13 +164,13 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
 *   [SwiftParsec (⭐226)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐261)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
-*   [BFKit-Swift (⭐997)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
-*   [DeviceGuru (⭐469)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
+*   [BFKit-Swift (⭐1k)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
+*   [DeviceGuru (⭐473)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
 *   [RateLimit (⭐914)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
-*   [AssistantKit (⭐585)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+*   [AssistantKit (⭐586)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 *   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐830)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐829)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
 *   [SwiftSortUtils (⭐61)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
 *   [Retry (⭐498)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
@@ -184,12 +184,12 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Extensions / Collection View Layout
 
 *   [CleanClosureXcode (⭐185)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
-*   [SwiftInitializerGenerator (⭐717)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
+*   [SwiftInitializerGenerator (⭐718)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
 *   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 *   [Import (⭐846)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 *   [Mark (⭐157)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
 *   [XShared (⭐73)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
-*   [DocumenterXcode (⭐36)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
+*   [DocumenterXcode (⭐35)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
 ## [16. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
@@ -272,7 +272,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### GTFS Based Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐372)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐374)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -280,13 +280,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** \[36:59]
 
-## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / S companies
-
-*   Shazam <https://blog.shazam.com/>
-
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -309,7 +303,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [SecurityHeaders (⭐550)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
 
-## [27. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [26. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Energy Applications / Guidance
 
@@ -321,19 +315,19 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [PopChest](https://popchest.com) - Incentivized distributed video platform.
 *   [Civil](https://joincivil.com) - Decentralized newsmaking platform.
 
-## [28. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [27. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Other Resources / Other Types of Support
 
 *   [Detroit Future City: A Field Guide to Working with Lots](https://dfc-lots.com/resources/) - Guides for urban agriculture from Detroit.
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-1password (⭐248)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
-## [30. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [29. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
@@ -343,7 +337,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [cmake-checks-cache (⭐60)](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -355,7 +349,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [v-dialogs (⭐128)](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
 *   [label-edit (⭐22)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -369,13 +363,13 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 
-## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Broccoli read
 
@@ -385,23 +379,23 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Global Ember Meetup](https://vimeo.com/globalembermeetup)
 
-## [35. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [34. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Ruby / Misc
 
 *   [steam-trade (⭐9)](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
 
-## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Online tools
 
 *   [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [EnTT (⭐9.5k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐9.7k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
@@ -411,13 +405,13 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [ENet (⭐2.6k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
-## [38. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Podcasts / ROSCon 2015
 
 *   [Everything about ROS 2 with Dirk Thomas (from 16th minute onwards)](http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/)
 
-## [39. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [38. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))* [3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -426,7 +420,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) \[3.98]
 *   [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) \[3.61]
 
-## [40. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [39. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Satire / [Discworld](https://en.wikipedia.org/wiki/Discworld) *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
 
@@ -439,7 +433,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) \[4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [40. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 

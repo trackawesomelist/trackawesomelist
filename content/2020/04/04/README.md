@@ -62,7 +62,7 @@
 
 ### Third-party APIs
 
-*   [google (⭐24)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [google (⭐25)](https://github.com/PlaceOS/google) - Google API wrapper
 *   [office365 (⭐8)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
@@ -75,7 +75,7 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐2.4k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
+*   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

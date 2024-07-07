@@ -24,10 +24,6 @@
 
 *   Universe <https://engineering.universe.com>
 
-### Individuals/Group Contributors / R individuals
-
-*   Rudolf Olah <https://neverfriday.com/blog/>
-
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates

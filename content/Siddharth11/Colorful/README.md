@@ -2,7 +2,7 @@
 
 A curated list of awesome resources to choose your next color scheme
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/Siddharth11/Colorful/week/README.md) / [Overview](/content/Siddharth11/Colorful/readme/README.md) ]
 
@@ -75,13 +75,13 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [color2k (⭐589)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐595)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐117)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐119)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [May 07, 2020](/content/2020/05/07/README.md)
 
@@ -100,7 +100,7 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [granim.js (⭐5.3k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐193)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [tinygradient (⭐194)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
 *   [TinyColor (⭐5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## [Sep 22, 2018](/content/2018/09/22/README.md)
@@ -131,7 +131,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [Palettable (⭐746)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐754)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -139,7 +139,6 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Articles / Web App
 
-*   [Cubehelix, or How I Learned to Love Black & White Printers](http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html)
 *   [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
 ## [Mar 25, 2017](/content/2017/03/25/README.md)
@@ -169,18 +168,6 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
-
-## [Dec 31, 2016](/content/2016/12/31/README.md)
-
-### Tools / Web App
-
-*   [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
-
-## [Nov 18, 2016](/content/2016/11/18/README.md)
-
-### Color Palettes / Web App
-
-*   [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 
 ## [Oct 15, 2016](/content/2016/10/15/README.md)
 
@@ -232,8 +219,6 @@ A curated list of awesome resources to choose your next color scheme
 *   [147 Colors](http://147colors.com/) - Learn CSS color names.
 *   [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - Search Images by Color with Spectrum.
 *   [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
-*   [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
-*   [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
 
 ### Articles / Web App
 
@@ -262,7 +247,7 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐807)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -278,7 +263,6 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 *   [Coloor (⭐330)](https://github.com/krasimir/coloor) - Image preloading utility.
 
@@ -291,7 +275,6 @@ A curated list of awesome resources to choose your next color scheme
 ### Color Palettes / Web App
 
 *   [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
-*   [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
 *   [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
 *   [UI Gradients](http://uigradients.com/) - Handpicked collection of beautiful colour gradients.
 *   [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - Discover the new color palettes.
@@ -320,7 +303,6 @@ A curated list of awesome resources to choose your next color scheme
 ### Articles / Web App
 
 *   [Principles of Color and the Color Wheel](http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/)
-*   [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 
 ## [Apr 28, 2016](/content/2016/04/28/README.md)
 
@@ -337,10 +319,8 @@ A curated list of awesome resources to choose your next color scheme
 *   [Flat UI Colors](http://flatuicolors.com/) - UI color set.
 *   [Material Design Colors](http://www.materialui.co/) -  Material Design Colors, Flat UI Colors and Material Design Icons.
 *   [Palettab](http://palettab.com/) - New color palette and font inspiration with every tab (Chrome Extension).
-*   [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 *   [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 *   [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-*   [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 *   [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 
 ### Color Palettes / Web App
@@ -348,24 +328,19 @@ A curated list of awesome resources to choose your next color scheme
 *   [Design Seeds](http://www.design-seeds.com/) - Colors found in nature and the aesthetic of purposeful living.
 *   [Gradients](http://thewebrocks.com/demos/gradientsio/v2.html) - Curated gradients.
 *   [Colour Names](http://colours.neilorangepeel.com/) - List of colour names in CSS.
-*   [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
 *   [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 
 ### Articles / Web App
 
-*   [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
 *   [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter\&utm_medium=Social\&utm_campaign=Twitter-Blog-Color\&utm_content=Twitter)
 *   [How I Work with Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed#.b99s3au3w)
 *   [Color Palette Documentation for Living Style Guides](https://medium.com/@jxnblk/color-palette-documentation-for-living-style-guides-d25d65aa20a5#.q0q6fb5qy)
 *   [How I Learned About Color Mixing](https://medium.com/@julialundman/my-experiences-in-learning-about-color-6de4ec274503#.m0t57e6ws)
-*   [The (Unfinished) Basics of Colour](https://medium.com/life-tips/the-unfinished-basics-of-colour-292858f62e62#.b1z1ejmsg)
 *   [The Power of Colour in App Design](https://medium.com/@nicknelo/why-use-colour-branding-in-apps-a95deba49dae#.pj3012j9x)
 *   [Create Emotion With Color In UX Design](https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085#.g6o0xsyfd)
-*   [How to Design for Color Blindness](https://medium.com/@usabilla/how-to-design-for-color-blindness-62d4d8ae9f6a#.uujosqblu)
 *   [The Principles of UX Choreography](https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a#.henp1zpjb)
 *   [How to create a color story](https://medium.com/design-story/how-to-create-a-color-story-aa75a62bf953#.pclx97jsf)
 *   [Algorithm for automatic harmonious color selection for the image](https://uxplanet.org/algorithm-for-automatic-harmonious-color-selection-for-the-image-fc26dde69ca1#.5luiehaag)
-*   [Oiling the Color Wheel with Jade + Sass](https://journal.helabs.com/oiling-the-color-wheel-with-jade-sass-5688ceada87c#.frc7e0rj5)
 *   [Take color inspiration from the masters](https://medium.com/@WebdesignerDepot/take-color-inspiration-from-the-masters-e9c2bcf1c8e2#.bhc22yxap)
 *   [Build a Color Scheme: The Fundamentals](http://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/)
 *   [Color and Emotion: What Does Each Hue Mean?](http://tympanus.net/codrops/2012/04/03/color-and-emotion-what-does-each-hue-mean/)

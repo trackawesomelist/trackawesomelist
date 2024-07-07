@@ -22,7 +22,7 @@
 
 ### Packages / Email
 
-*   [MJML (⭐16k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
+*   [MJML (⭐17k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐945)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐953)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
@@ -116,7 +116,30 @@
 
 *   [SpaceVim](https://spacevim.org/layers/lang/groovy/) - SpaceVim `lang#groovy` layer
 
-## [13. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+
+### Internet and Networking
+
+*   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
+
+### Utilities
+
+*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
+
+### Windows / Design Tooling
+
+*   [PaperWM (⭐2.8k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+
+### Services integration / Design Tooling
+
+*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+
+### Icons / Upstream Style
+
+*   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+
+## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -124,9 +147,9 @@
 
 ### Tools
 
-*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐514)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
-## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -165,36 +188,36 @@
 
 *   [Linux Interview Questions - Quick Refresher](https://www.techbeamers.com/essential-linux-questions-answers/)
 
-## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [16. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@nathanmarz](https://github.com/nathanmarz), [Apache Storm (⭐6.4k)](https://github.com/apache/storm)
     *   "History of Apache Storm and lessons learned" ([post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html))
 
-## [16. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [17. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 
-## [17. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
-*   [pyvips (⭐584)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐609)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
-## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [19. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### What This Is, and Where It Comes From
 
 *   "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
 
-## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Date and Time
 
 *   [clojure.java-time (⭐451)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
-## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Presentations
 
@@ -210,7 +233,7 @@
 *   [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM\&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn\&index=10) by Harris Lapiroff. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
 *   [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8\&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn\&index=11) by Tom Dyson.
 
-## [21. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [22. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
@@ -218,8 +241,8 @@
 
 ### Stub packages
 
-*   [django-stubs (⭐1.4k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐76k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐397)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
+*   [django-stubs (⭐1.5k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐78k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐421)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐28k)](https://github.com/encode/django-rest-framework).
 *   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐41k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
@@ -228,16 +251,16 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐90)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐97)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐616)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐632)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
 *   [mypy-zope (⭐38)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
-*   [mypy/plugins (⭐17k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
+*   [mypy/plugins (⭐18k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 
 ### Integrations / Mypy plugins
 
@@ -254,28 +277,28 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐203k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐211k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
-## [22. Bots](/content/hackerkid/bots/week/README.md)
+## [23. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [PHP (⭐3.5k)](https://github.com/php-telegram-bot/core)
 
-## [23. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [24. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Videos / Playlists
+### Conference Videos / Playlists
 
 *   [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - Sep 2019
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
-*   [PortEx (⭐487)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
+*   [PortEx (⭐494)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
 
-## [25. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [26. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -286,13 +309,13 @@
 
 *   [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Redshift
 
 *   [aws-lambda-redshift-loader :fire::fire::fire: (⭐593)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 
-## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -304,36 +327,36 @@
 *   [Canonical](https://canonical.com/) - The company behind Ubuntu.
 *   [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 
-## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Blazor.ru](https://blazor.ru/) - \[Russian] Old official documentation website translated in Russian.
 
-## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [30. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Blogs
 
 *   [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.
 
-## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐86k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ### Date / Runner
 
 *   [map-countdown (⭐5)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
-*   [dayjs (⭐45k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+*   [dayjs (⭐46k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [dasblog-core (⭐423)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Function extensions
 
@@ -344,7 +367,7 @@
 
 *   👍 [trivial-types (⭐65)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [33. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Books
 
@@ -354,13 +377,13 @@
 
 *   [Kavik.cz (⭐5)](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
-## [35. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [36. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Blogs
 
@@ -384,88 +407,11 @@
 *   [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
 *   [Nick Felker](https://twitter.com/handnf) - Developer Programs Engineer at Google.
 
-## [36. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [37. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Tools, Platforms, and Services
+### Tools, Platforms, and Services / Repos for Specific Datasets
 
-*   [SemEHR (⭐82)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
-
-## [37. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Internet and Networking
-
-*   [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
-*   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-*   [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-
-### Office
-
-*   [Foliate (⭐5.1k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Marker (⭐822)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
-
-### Productivity and Time
-
-*   [GTimeLog (⭐249)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
-*   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
-*   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
-
-### Multimedia
-
-*   [Celluloid (⭐1k)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
-*   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
-
-### Graphics
-
-*   [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
-
-### Gaming
-
-*   [Lutris (⭐7.4k)](https://github.com/lutris/lutris) - Open Source gaming platform.
-
-### System and Customization
-
-*   [Tilix (⭐5.3k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-
-### Utilities
-
-*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-*   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
-*   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
-
-### Docks and Panels / Design Tooling
-
-*   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
-
-### Menus / Design Tooling
-
-*   [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-*   [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-
-### Applets / Design Tooling
-
-*   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
-*   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
-
-### Windows / Design Tooling
-
-*   [PaperWM (⭐2.7k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Services integration / Design Tooling
-
-*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
-
-### Icons / Upstream Style
-
-*   [GNOME++ (⭐159)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐198)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
-
-### Cursors / Skeumorphic Icons
-
-*   [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
-
-### Official Venues / Skeumorphic Icons
-
-*   [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
+*   [SemEHR (⭐87)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
 ## [38. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -488,7 +434,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐821)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐836)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -498,7 +444,7 @@
 
 ### Java / Misc
 
-*   [JavaSteam (⭐75)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
+*   [JavaSteam (⭐89)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
 ## [42. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -574,7 +520,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.2k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.3k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

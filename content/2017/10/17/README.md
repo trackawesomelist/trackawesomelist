@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Other / Other Resources
 
-*   [YARA (⭐3.3k)](https://github.com/InQuest/awesome-yara)
+*   [YARA (⭐3.4k)](https://github.com/InQuest/awesome-yara)
 
 ## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -30,13 +30,23 @@
 
 *   [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox (⭐6.4k)](https://github.com/SerpentAI/SerpentAI)
 
-## [5. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Clojure / Non-X86
+
+*   [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (HTML)
+
+### Elixir / Ecto
+
+*   [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
+
+## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Code Quality
 
 *   [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 
-## [6. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -44,7 +54,7 @@
 
     The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink about existing technology.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Videos
 
@@ -54,19 +64,19 @@
 *   [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
 *   [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
 
-## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [Puppeteer (⭐85k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
+*   [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Castle.Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) Castle Windsor is a best of breed, mature Inversion of Control container available for .NET.
 
-## [10. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [11. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 

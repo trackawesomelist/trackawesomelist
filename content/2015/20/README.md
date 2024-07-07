@@ -29,8 +29,8 @@
 ### Framework Components
 
 *   [passport (⭐160)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐384)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
-*   [plug\_cloudflare (⭐21)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
+*   [phoenix\_html (⭐390)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [plug\_cloudflare (⭐22)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
 ### HTTP
@@ -44,7 +44,7 @@
 
 ### Lexical analysis
 
-*   [lex\_luthor (⭐31)](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
+*   [lex\_luthor (⭐33)](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
 
 ### Logging
 
@@ -77,12 +77,12 @@
 
 ### REST and API
 
-*   [detergent (⭐63)](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
+*   [detergent (⭐64)](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
 
 ### Testing
 
 *   [espec\_phoenix (⭐137)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐895)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [mix\_test\_watch (⭐904)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
@@ -97,7 +97,7 @@
 *   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
 *   [redtube (⭐8)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 *   [riemann (⭐57)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-*   [statix (⭐274)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
+*   [statix (⭐275)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations
 
@@ -330,19 +330,19 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Combine (⭐648)](https://github.com/mlsecproject/combine) - Tool to gather Threat
+*   [Combine (⭐650)](https://github.com/mlsecproject/combine) - Tool to gather Threat
     Intelligence indicators from publicly available sources.
 *   [ioc\_writer (⭐199)](https://github.com/mandiant/ioc_writer) - Python library for
     working with OpenIOC objects, from Mandiant.
 *   [threataggregator (⭐78)](https://github.com/jpsenior/threataggregator) -
     Aggregates security threats from a number of sources, including some of
     those listed below in [other resources](#other-resources).
-*   [TIQ-test (⭐165)](https://github.com/mlsecproject/tiq-test) - Data visualization
+*   [TIQ-test (⭐166)](https://github.com/mlsecproject/tiq-test) - Data visualization
     and statistical analysis of Threat Intelligence feeds.
 
 ### Open Source Threat Intelligence / Other Resources
 
-*   [FireEye IOCs (⭐460)](https://github.com/fireeye/iocs) - Indicators of Compromise
+*   [FireEye IOCs (⭐461)](https://github.com/fireeye/iocs) - Indicators of Compromise
     shared publicly by FireEye.
 
 ### Detection and Classification / Other Resources
@@ -358,7 +358,7 @@
     system.
 *   [Hybrid Analysis](https://www.hybrid-analysis.com/) - Online malware
     analysis tool, powered by VxSandbox.
-*   [Malheur (⭐362)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
+*   [Malheur (⭐365)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
     of malware behavior.
 *   [Malwr](https://malwr.com/) - Free analysis with an online Cuckoo Sandbox
     instance.
@@ -373,15 +373,15 @@
     & [iheartxor](http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html) -
     Two tools from Alexander Hanel for working with single-byte XOR encoded
     files.
-*   [NoMoreXOR (⭐81)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
+*   [NoMoreXOR (⭐84)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
     XOR key using frequency analysis.
-*   [unxor (⭐135)](https://github.com/tomchop/unxor/) - Guess XOR keys using
+*   [unxor (⭐138)](https://github.com/tomchop/unxor/) - Guess XOR keys using
     known-plaintext attacks.
 *   [XORBruteForcer](http://eternal-todo.com/var/scripts/xorbruteforcer) -
     A Python script for brute forcing single-byte XOR keys.
 *   [XORSearch & XORStrings](https://blog.didierstevens.com/programs/xorsearch/) -
     A couple programs from Didier Stevens for finding XORed data.
-*   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - Guess XOR key length, as
+*   [xortool (⭐1.4k)](https://github.com/hellman/xortool) - Guess XOR key length, as
     well as the key itself.
 
 ### Network / Other Resources
@@ -392,20 +392,20 @@
     decoding framework.
 *   [Fiddler](https://www.telerik.com/fiddler) - Intercepting web proxy designed
     for "web debugging."
-*   [Hale (⭐183)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
-*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
+*   [Hale (⭐184)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
+*   [Moloch (⭐6.2k)](https://github.com/aol/moloch) - IPv4 traffic capturing, indexing
     and database system.
 
 ### Storage and Workflow / Other Resources
 
-*   [Aleph (⭐153)](https://github.com/merces/aleph) - Open Source Malware Analysis
+*   [Aleph (⭐154)](https://github.com/merces/aleph) - Open Source Malware Analysis
     Pipeline System.
 *   [CRITs](https://crits.github.io/) - Collaborative Research Into Threats, a
     malware and threat repository.
 
 ### Miscellaneous / Other Resources
 
-*   [DC3-MWCP (⭐280)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
+*   [DC3-MWCP (⭐290)](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
     The Defense Cyber Crime Center's Malware Configuration Parser framework.
 *   [Santoku Linux](https://santoku-linux.com/) - Linux distribution for mobile
     forensics, malware analysis, and security.

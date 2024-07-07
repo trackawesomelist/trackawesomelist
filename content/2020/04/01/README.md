@@ -44,13 +44,13 @@
 
 ### Core Data
 
-*   [CloudCore (⭐145)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+*   [CloudCore (⭐151)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Core Data
 
-*   [CloudCore (⭐147)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐151)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Other / Other Resources
 
-*   [Malware Persistence (⭐155)](https://github.com/Karneades/malware-persistence) - Collection
+*   [Malware Persistence (⭐160)](https://github.com/Karneades/malware-persistence) - Collection
     of various information focused on malware persistence: detection (techniques),
     response, pitfalls and the log collection (tools).
 
@@ -120,7 +120,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐369)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐370)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 

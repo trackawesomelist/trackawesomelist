@@ -56,7 +56,7 @@
 
 ### Packages / Image
 
-*   [jimp (⭐13k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
+*   [jimp (⭐14k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 
 ## [6. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Resources / Tutorials
 
-*   [Web Audio Basics (⭐116)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
+*   [Web Audio Basics (⭐118)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
 ## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

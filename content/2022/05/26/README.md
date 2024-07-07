@@ -35,8 +35,8 @@
 
 ### CLI / File Transfer
 
-*   [qrap (⭐5)](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
-*   [spqr (⭐1)](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
+*   [qrap (⭐6)](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
+*   [spqr (⭐2)](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
 ## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

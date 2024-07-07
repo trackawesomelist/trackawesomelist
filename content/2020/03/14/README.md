@@ -40,7 +40,7 @@
 
 ### Network Tools / Wireless Network Tools
 
-*   [PSKracker (⭐372)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
+*   [PSKracker (⭐384)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
 
 ---
 

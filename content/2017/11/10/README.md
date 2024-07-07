@@ -47,7 +47,7 @@ Topics: React, JavaScript\
 
 ### UI / Barcode
 
-*   [SkeletonView (⭐12k)](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
+*   [SkeletonView (⭐13k)](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 
 ---
 

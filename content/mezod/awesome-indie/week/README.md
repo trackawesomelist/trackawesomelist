@@ -2,7 +2,7 @@
 
 Resources for independent developers to make money
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 8K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 9.5K · 🏷️ Business
 
 [ [Daily](/content/mezod/awesome-indie/README.md) / Weekly / [Overview](/content/mezod/awesome-indie/readme/README.md) ]
 
@@ -18,7 +18,7 @@ Resources for independent developers to make money
 
 ### Case Studies / Others
 
-*   **[Awesome Self Funded (⭐33)](https://github.com/awesome-self-funded/awesome-self-funded)**
+*   **[Awesome Self Funded (⭐48)](https://github.com/awesome-self-funded/awesome-self-funded)**
 
     Awesome list of successful self-funded tech businesses with >$1M revenue
 
@@ -290,9 +290,6 @@ Resources for independent developers to make money
 
 ### Communities
 
-*   **[Barnacl.es](https://barnacl.es/)**
-
-    News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software (⭐17)](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 *   **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
     A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
@@ -438,16 +435,16 @@ Resources for independent developers to make money
 
 ### Tools / Other
 
-*   **[free-for-dev (⭐61k)](https://github.com/ripienaar/free-for-dev)**
+*   **[free-for-dev (⭐85k)](https://github.com/ripienaar/free-for-dev)**
 
     A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
-*   **[Stack-on-a-budget (⭐11k)](https://github.com/255kb/stack-on-a-budget)**
+*   **[Stack-on-a-budget (⭐12k)](https://github.com/255kb/stack-on-a-budget)**
 
     Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 *   **[Tools Of The Trade (⭐16k)](https://github.com/cjbarber/ToolsOfTheTrade)**
 
     Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
-*   **[awesome-selfhosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted)**
+*   **[awesome-selfhosted (⭐183k)](https://github.com/Kickball/awesome-selfhosted)**
 
     "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

@@ -22,7 +22,7 @@
 
 ### Security
 
-*   [safetybox (⭐20)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
+*   [safetybox (⭐21)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 
 ### Text and Numbers
 

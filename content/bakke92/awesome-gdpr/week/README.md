@@ -2,9 +2,15 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 151 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 202 · 🏷️ Security
 
 [ [Daily](/content/bakke92/awesome-gdpr/README.md) / Weekly / [Overview](/content/bakke92/awesome-gdpr/readme/README.md) ]
+
+## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+
+### Data Protection Impact Assessments (DPIA, art. 35)
+
+*   [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/86012.html)
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -52,7 +58,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Rights of the data subject (art. 12 - 23)
 
-*   [Open source privacy notice template (Juro) (⭐168)](https://github.com/juro-privacy/free-privacy-notice)
+*   [Open source privacy notice template (Juro) (⭐172)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -64,7 +70,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Awesome: Privacy (⭐11k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐12k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
@@ -88,7 +94,6 @@ Protection of natural persons with regard to the processing of personal data and
 
 *   [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 *   [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
-*   [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 *   [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
 ### Related
@@ -99,11 +104,11 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐308)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐319)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Tools
 
-*   [Website Evidence Collector (WEC) (⭐401)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [Website Evidence Collector (WEC) (⭐425)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 
 ### Publications
 
@@ -158,7 +163,7 @@ Protection of natural persons with regard to the processing of personal data and
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐7.3k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -182,5 +187,5 @@ Protection of natural persons with regard to the processing of personal data and
 ### Related
 
 *   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐310k)](https://github.com/sindresorhus/awesome#security)
 *   [Awesome: Humane Tech (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme)

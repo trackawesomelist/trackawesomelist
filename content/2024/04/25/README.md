@@ -35,13 +35,13 @@
 ### Libraries / Computation
 
 *   Science
-    *   [cpmech/russell (⭐72)](https://github.com/cpmech/russell) — Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
-    *   [indigits/scirust (⭐263)](https://github.com/indigits/scirust) — Scientific computing library
+    *   [cpmech/russell (⭐92)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
+    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) - Scientific computing library
 
 ### Libraries / Mobile
 
 *   Android / iOS
-    *   [ivnsch/rust\_android\_ios (⭐234)](https://github.com/ivnsch/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [ivnsch/rust\_android\_ios (⭐238)](https://github.com/ivnsch/rust_android_ios) - An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -59,12 +59,12 @@
 
 ### Inspiration, Instruction, and Research / Fonts
 
-*   [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
+*   [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) - Blog post about building a cylindrical pen plotter for drawing on wine bottles.
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
-*   [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) – Rev 1178
-*   [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) – Revs 1080, 1178, 0480
+*   [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) - Rev 1178.
+*   [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) - Revs 1080, 1178, 0480.
 *   [Esterline Angus Model XY530 Recorder Instruction Manual](https://archive.org/details/manualsplus_03657)
 *   [Esterline Angus Model XY575 Recorder Instruction Manual (1976)](https://archive.org/details/manualsplus_03641)
 *   [Fluke 1771A Intelligent Digital Plotter User's Manual (1983)](https://archive.org/details/manualsplus_03096)

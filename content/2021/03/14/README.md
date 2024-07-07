@@ -10,7 +10,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-godfather (⭐28)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+*   [react-godfather (⭐27)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Threat intelligence / Threat signature packages and collections
 
-*   [ESET's Malware IoCs (⭐1.4k)](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOCs) derived from ESET's various investigations.
+*   [ESET's Malware IoCs (⭐1.6k)](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOCs) derived from ESET's various investigations.
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -33,12 +33,12 @@
 ### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
 
 *   [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
-*   [EyeWitness (⭐4.7k)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+*   [EyeWitness (⭐2)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 *   [VHostScan (⭐1.2k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
-*   [WhatWaf (⭐2.5k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
-*   [WhatWeb (⭐5.1k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
-*   [wafw00f (⭐4.9k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+*   [WhatWaf (⭐2.6k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
+*   [WhatWeb (⭐5.2k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+*   [wafw00f (⭐5k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
 *   [webscreenshot (⭐649)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
 
 ### Web Exploitation / Social Engineering Tools
@@ -54,33 +54,33 @@
 
 ### Web Exploitation / Web file inclusion tools
 
-*   [Kadimus (⭐505)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+*   [Kadimus (⭐510)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
 *   [LFISuite (⭐1.6k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
-*   [fimap (⭐471)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
-*   [liffy (⭐123)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
+*   [fimap (⭐491)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+*   [liffy (⭐122)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
 
 ### Web Exploitation / Web injection tools
 
-*   [Commix (⭐4.3k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+*   [Commix (⭐4.4k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
 *   [NoSQLmap (⭐2.8k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
 *   [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
-*   [dirsearch (⭐11k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
+*   [dirsearch (⭐12k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
 *   [recursebuster (⭐241)](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Browser Exploitation Framework (BeEF) (⭐9.4k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
-*   [DAws (⭐570)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
+*   [Browser Exploitation Framework (BeEF) (⭐9.5k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+*   [DAws (⭐572)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
 
 ### Web Exploitation / Web-accessible source code ripping tools
 
-*   [DVCS Ripper (⭐1.6k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
-*   [GitTools (⭐3.7k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
-*   [git-dumper (⭐1.6k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
-*   [git-scanner (⭐332)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
+*   [DVCS Ripper (⭐1.7k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
+*   [GitTools (⭐3.8k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
+*   [git-dumper (⭐1.7k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
+*   [git-scanner (⭐333)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

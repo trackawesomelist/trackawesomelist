@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,15 +48,9 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐118)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐120)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / O companies
-
-*   Opensooq <http://engineering.opensooq.com/>
-
-## [6. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [5. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Blogs
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,13 +28,7 @@
 *   [Vishnu Ks (⭐2)](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 *   [Nick Desaulniers (⭐0)](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
 
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / L companies
-
-*   Laterooms <http://engineering.laterooms.com/>
-
-## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Benchmark
 

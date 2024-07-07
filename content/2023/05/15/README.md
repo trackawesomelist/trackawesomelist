@@ -10,7 +10,7 @@
 
 ### Themes
 
-*   [tmux-dark-notify (⭐33)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
+*   [tmux-dark-notify (⭐36)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 
 ---
 

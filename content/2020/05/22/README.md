@@ -10,13 +10,13 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐8.4k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.5k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### .NET / General-Purpose Machine Learning
 
-*   [MxNet.Sharp (⭐146)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+*   [MxNet.Sharp (⭐147)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 
 ## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐200)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐206)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐662)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐683)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -81,8 +81,8 @@
 *   [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. `⚠ freemium`.
 *   [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free. `⚠ freemium`.
 *   [Hog 4 software](https://www.highend.com/products/consoles/) - Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free. `⚠ freemium`.
-*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code (⭐597)](https://github.com/mcallegari/qlcplus) `✓ open-source`.
-*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code (⭐343)](https://github.com/smeighan/xLights) `✓ open-source`.
+*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code (⭐916)](https://github.com/mcallegari/qlcplus) `✓ open-source`.
+*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code (⭐530)](https://github.com/smeighan/xLights) `✓ open-source`.
 
 ### Lighting / Visualizers
 
@@ -93,15 +93,14 @@
 ### Audio / Audio Software
 
 *   [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
-*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code (⭐2.7k)](https://github.com/Ardour/ardour) `✓ open-source`.
-*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code (⭐147)](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
+*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code (⭐3.7k)](https://github.com/Ardour/ardour) `✓ open-source`.
+*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code (⭐204)](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
 *   [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 *   [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
 
 ### Tools / Audio tools
 
-*   [Livescript (⭐4)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
-*   [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information. `⚠ freemium`.
+*   [Livescript (⭐5)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 
 ### Tools / CADs
 
@@ -110,24 +109,24 @@
 ### Tools / Timecode
 
 *   [TCgenerator (⭐3)](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
-*   [Timecode (⭐30)](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
+*   [Timecode (⭐37)](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
 *   [TimelordMTC](https://timelord-mtc.com/) - Advanced timecode management tool. `⚠ not free`.
-*   [M2Q (⭐4)](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
+*   [M2Q (⭐8)](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
 
 ### Tools / Monitoring
 
-*   [AES67 WebMeter (⭐6)](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
-*   [meters.lv2 (⭐143)](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
+*   [AES67 WebMeter (⭐8)](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
+*   [meters.lv2 (⭐181)](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
 *   [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more. `✓ open-source`.
 
 ### Libraries and frameworks / Monitoring
 
-*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code (⭐503)](https://github.com/OpenLightingProject/ola)
+*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code (⭐632)](https://github.com/OpenLightingProject/ola)
 
 ### Misc/other / GrandMA2 tutorials
 
-*   [Blender ArtNet (⭐27)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
-*   [MIDI Monster (⭐345)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
+*   [Blender ArtNet (⭐37)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
+*   [MIDI Monster (⭐481)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 
 ## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

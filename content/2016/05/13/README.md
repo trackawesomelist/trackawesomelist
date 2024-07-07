@@ -61,18 +61,18 @@
 ### Plugins / IRC
 
 *   [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
-*   [Composer-AWS (⭐78)](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
-*   [Composer-Composition (⭐108)](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
+*   [Composer-AWS (⭐77)](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
+*   [Composer-Composition (⭐107)](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
 *   [Composer-Suggest (⭐5)](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
-*   [Composer-Versions-Check (⭐235)](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
-*   [Composer-Changelogs (⭐573)](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
-*   [Composer-Merge-Plugin (⭐834)](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
-*   [Composer-Patches-Plugin (⭐75)](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
-*   [Composer-Cleanup-Plugin (⭐135)](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
-*   [Composer-Cleaner (⭐132)](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
-*   [Prestissimo (⭐6.3k)](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
+*   [Composer-Versions-Check (⭐233)](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
+*   [Composer-Changelogs (⭐587)](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
+*   [Composer-Merge-Plugin (⭐923)](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
+*   [Composer-Patches-Plugin (⭐79)](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
+*   [Composer-Cleanup-Plugin (⭐147)](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
+*   [Composer-Cleaner (⭐133)](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
+*   [Prestissimo (⭐6.2k)](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 *   [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
-*   [PackageVersions (⭐3.3k)](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
+*   [PackageVersions (⭐3.2k)](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
 
 ### Tools / IRC
 
@@ -80,7 +80,6 @@
 
 ### Tutorials / IRC
 
-*   [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
 *   [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
 
 ### Blogs / IRC
@@ -91,7 +90,6 @@
 
 ### Videos / IRC
 
-*   [Composer Best Practices — Jordi Boggiano @ php\[tek\] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
 *   [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 *   [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 *   [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)

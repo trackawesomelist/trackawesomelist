@@ -10,7 +10,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clack-pretend (⭐12)](https://github.com/BnMcGn/clack-pretend) - a testing
+*   [clack-pretend (⭐11)](https://github.com/BnMcGn/clack-pretend) - a testing
     and debugging tool for clack. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
@@ -26,11 +26,11 @@
 
 ### Libraries and Frameworks
 
-*   [mozilla/webextension-polyfill (⭐2.4k)](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
+*   [mozilla/webextension-polyfill (⭐2.6k)](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ### Tools
 
-*   [Chrome extension source viewer (⭐1.3k)](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
+*   [Chrome extension source viewer (⭐1.4k)](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 
 ### Boilerplates
 
@@ -38,15 +38,19 @@
 
 ### Sample Extensions
 
-*   [npmhub (⭐728)](https://github.com/npmhub/npmhub)
-*   [Hide Files on GitHub (⭐315)](https://github.com/sindresorhus/hide-files-on-github)
-*   [mdn/webextension-examples (⭐3.8k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+*   [npmhub (⭐753)](https://github.com/npmhub/npmhub)
+*   [Hide Files on GitHub (⭐320)](https://github.com/sindresorhus/hide-files-on-github)
+*   [mdn/webextension-examples (⭐4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Individuals/Group Contributors / A individuals
+### C / Non-X86
 
-*   Andrey Akinshin <http://aakinshin.net/blog/>
+*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
+
+### Verilog / Deno
+
+*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Event
 
-*   [Evenement (⭐1.2k)](https://github.com/igorw/evenement) - An event dispatcher library.
+*   [Evenement (⭐1.3k)](https://github.com/igorw/evenement) - An event dispatcher library.
 
 ---
 

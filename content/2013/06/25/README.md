@@ -10,7 +10,7 @@
 
 ### Table of Contents / Geolocation
 
-*   [GeoJSON (⭐291)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+*   [GeoJSON (⭐293)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
 ---
 

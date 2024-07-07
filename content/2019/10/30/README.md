@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,13 +52,19 @@
     *   [by @fragglet (⭐3.2k)](https://github.com/fragglet/c-algorithms)
     *   [by @TheAlgorithms (⭐18k)](https://github.com/TheAlgorithms/C)
 
-## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### F Sharp / Phoenix
+
+*   [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
+
+## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Resources & Others / Communities
 
 *   [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data Science / Windows
 
@@ -66,13 +72,13 @@
 *   [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 *   [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
 *   [wagtail-leaflet-widget (⭐22)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
-## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [11. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -91,13 +97,13 @@
 
 *   [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians, who wish to produce online historical work.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
 
-## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Food
 
@@ -117,13 +123,13 @@
 
     Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
-## [13. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [14. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
 *   [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) - An introduction to managing successful AI projects and applying AI to real-life situations.
 
-## [14. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Methodology / Scalability and Resilience
 

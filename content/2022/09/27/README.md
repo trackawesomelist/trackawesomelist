@@ -24,7 +24,7 @@
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 350 | Last update: n/a
+Installs: 2000 | Stars: 351 | Last update: n/a
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -57,31 +57,31 @@ Installs: 2000 | Stars: 350 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐7.9k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐8.3k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐132)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐142)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [txtai (⭐7.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐7.3k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐1.3k)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1.4k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐23)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
+*   [desdic/greyjoy.nvim (⭐24)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

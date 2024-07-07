@@ -53,7 +53,7 @@
 
 ### Miscellaneous
 
-*   [QtVerbalExpressions (⭐61)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [QtVerbalExpressions (⭐62)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 
 ### Coding Style
 
@@ -94,7 +94,7 @@
 
 ### Protocols
 
-*   [elixir\_radius (⭐14)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+*   [elixir\_radius (⭐15)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 
 ### Testing
 

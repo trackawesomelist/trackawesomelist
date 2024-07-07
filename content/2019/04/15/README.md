@@ -16,7 +16,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐6.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐6.7k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Samples
 
-*   (Incomplete) Sascha Willems's [samples port (⭐50)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
+*   (Incomplete) Sascha Willems's [samples port (⭐48)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 
 ## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

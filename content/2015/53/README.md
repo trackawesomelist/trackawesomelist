@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-23 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,7 +79,7 @@
 
 ### C++ / Gesture Detection
 
-*   [grt (⭐851)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+*   [grt (⭐852)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ### Python / General-Purpose Machine Learning
 
@@ -148,7 +148,13 @@
 
 *   [Day of Action (⭐8)](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### COBOL / Non-X86
+
+*   [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
+
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -158,25 +164,25 @@
 
 *   [elixir\_exif (⭐13)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 
-## [16. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [17. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 
-## [19. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
@@ -186,7 +192,7 @@
 
 *   [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -196,7 +202,7 @@
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -207,7 +213,7 @@
 *   [IOC Editor](https://www.fireeye.com/services/freeware/ioc-editor.html) -
     A free editor for XML IOC files.
 *   [PyIOCe (⭐16)](https://github.com/pidydx/PyIOCe) - A Python OpenIOC editor.
-*   [ThreatTracker (⭐62)](https://github.com/michael-yip/ThreatTracker) - A Python
+*   [ThreatTracker (⭐64)](https://github.com/michael-yip/ThreatTracker) - A Python
     script to monitor and generate alerts based on IOCs indexed by a set of
     Google Custom Search Engines.
 
@@ -225,25 +231,25 @@
 
 ### Deobfuscation / Other Resources
 
-*   [PackerAttacker (⭐261)](https://github.com/BromiumLabs/PackerAttacker) - A generic
+*   [PackerAttacker (⭐263)](https://github.com/BromiumLabs/PackerAttacker) - A generic
     hidden code extractor for Windows malware.
-*   [VirtualDeobfuscator (⭐123)](https://github.com/jnraber/VirtualDeobfuscator) -
+*   [VirtualDeobfuscator (⭐128)](https://github.com/jnraber/VirtualDeobfuscator) -
     Reverse engineering tool for virtualization wrappers.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [angr (⭐7.2k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
+*   [angr (⭐7.3k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
     framework developed at UCSB's Seclab.
 *   [BARF (⭐1.4k)](https://github.com/programa-stic/barf-project) - Multiplatform, open
     source Binary Analysis and Reverse engineering Framework.
 *   [binnavi (⭐2.9k)](https://github.com/google/binnavi) - Binary analysis IDE for
     reverse engineering based on graph visualization.
-*   [Capstone (⭐7.1k)](https://github.com/aquynh/capstone) - Disassembly framework for
+*   [Capstone (⭐7.2k)](https://github.com/aquynh/capstone) - Disassembly framework for
     binary analysis and reversing, with support for many architectures and
     bindings in several languages.
-*   [GEF (⭐6.5k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
+*   [GEF (⭐6.7k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
     and reverse engineers.
-*   [PEDA (⭐5.7k)](https://github.com/longld/peda) - Python Exploit Development
+*   [PEDA (⭐5.8k)](https://github.com/longld/peda) - Python Exploit Development
     Assistance for GDB, an enhanced display with added commands.
 *   [SMRT (⭐64)](https://github.com/pidydx/SMRT) - Sublime Malware Research Tool, a
     plugin for Sublime 3 to aid with malware analyis.
@@ -252,7 +258,7 @@
 
 *   [BroYara (⭐31)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / P individuals
 
@@ -262,7 +268,7 @@
 
 *   Robin Wilson <http://blog.rtwilson.com/>
 
-## [23. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Fuzz Testing
 

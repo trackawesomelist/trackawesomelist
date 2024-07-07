@@ -10,7 +10,7 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.5k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.6k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -18,7 +18,7 @@
 
 ### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐620)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐628)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 

@@ -72,7 +72,7 @@
 ### Tools / Libraries
 
 *   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐810)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -139,7 +139,7 @@
 
 ### Subtitling
 
-*   [EBU-TT-D W3C XML Schema (⭐8)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
+*   [EBU-TT-D W3C XML Schema (⭐9)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 
 ## [13. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -273,7 +273,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐10k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐11k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ### Packages / Automation
 
@@ -667,14 +667,6 @@ git log --reverse master..<branch-name> | head -6
 ```
 
 ## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / B companies
-
-*   Boxever <http://www.boxever.com/blog/>
-
-### Companies / G companies
-
-*   Grouper <http://blog.joingrouper.com/>
 
 ### Companies / S companies
 

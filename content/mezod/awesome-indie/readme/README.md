@@ -2,7 +2,7 @@
 
 Resources for independent developers to make money
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 8K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mezod/awesome-indie/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mezod/awesome-indie](https://github.com/mezod/awesome-indie) · ⭐ 9.5K · 🏷️ Business
 
 [ [Daily](/content/mezod/awesome-indie/README.md) / [Weekly](/content/mezod/awesome-indie/week/README.md) / Overview ]
 
@@ -28,7 +28,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 *   If \[$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 *   This repo was once [#1 on Github Trending](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)! :\_)
-*   [Icepy](https://github.com/icepy) translated this repo to [Chinese (⭐785)](https://github.com/icepy/awesome-indie) :)
+*   [Icepy](https://github.com/icepy) translated this repo to [Chinese (⭐794)](https://github.com/icepy/awesome-indie) :)
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
@@ -52,10 +52,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 *   **[IndieHackers](https://www.indiehackers.com/businesses)**
 
     Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
-
-*   **[Barnacl.es](https://barnacl.es/)**
-
-    News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software (⭐17)](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 
 *   **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
@@ -330,7 +326,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
     Revenue numbers and learnings from running a Japanese candy subscription box.
 
-*   **[Awesome Self Funded (⭐33)](https://github.com/awesome-self-funded/awesome-self-funded)**
+*   **[Awesome Self Funded (⭐48)](https://github.com/awesome-self-funded/awesome-self-funded)**
 
     Awesome list of successful self-funded tech businesses with >$1M revenue
 
@@ -397,11 +393,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
-*   **[free-for-dev (⭐61k)](https://github.com/ripienaar/free-for-dev)**
+*   **[free-for-dev (⭐85k)](https://github.com/ripienaar/free-for-dev)**
 
     A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
 
-*   **[Stack-on-a-budget (⭐11k)](https://github.com/255kb/stack-on-a-budget)**
+*   **[Stack-on-a-budget (⭐12k)](https://github.com/255kb/stack-on-a-budget)**
 
     Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
@@ -409,7 +405,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
     Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
 
-*   **[awesome-selfhosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted)**
+*   **[awesome-selfhosted (⭐183k)](https://github.com/Kickball/awesome-selfhosted)**
 
     "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

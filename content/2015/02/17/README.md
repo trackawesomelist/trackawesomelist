@@ -28,7 +28,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐341)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐342)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Third-party APIs
 
-*   [gmail (⭐394)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+*   [gmail (⭐393)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 
 ---
 

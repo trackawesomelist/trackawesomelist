@@ -11,7 +11,7 @@
 ### Lisp / TeX
 
 *   [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
-*   [Lisp Koans (⭐3k)](https://github.com/google/lisp-koans)
+*   [Lisp Koans (⭐3.1k)](https://github.com/google/lisp-koans)
 
 ---
 

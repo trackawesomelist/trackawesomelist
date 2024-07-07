@@ -17,7 +17,7 @@
 
 ### Testing
 
-*   [LuckyFlow (⭐50)](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
+*   [LuckyFlow (⭐51)](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

@@ -56,7 +56,7 @@ Donationware
 
 ### Detection and Classification / Other Resources
 
-*   [Manalyze (⭐994)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
+*   [Manalyze (⭐997)](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
     executables.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)

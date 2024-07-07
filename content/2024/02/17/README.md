@@ -10,7 +10,7 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐16k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -21,7 +21,7 @@
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser
+    *   [pulldown-cmark/pulldown-cmark (⭐2k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
 
 ## [3. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
@@ -45,22 +45,18 @@
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐23)](https://github.com/antimundo/poder-solar) - Simple resource management game.
-
-### 3D / Godot 4.2
-
-*   [LibreAim (⭐53)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+*   [Poder Solar (⭐31)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Company Research / Telegram
+
+*   [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 *   [SocialBlade](http://socialblade.com)
-
-### Company Research / Telegram
-
-*   [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 
 ### Username Check / Telegram
 
@@ -68,13 +64,12 @@
 
 ### People Investigations / Telegram
 
-*   [Digital Footprint Check](https://www.digitalfootprintcheck.com) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 *   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
 *   [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
-*   [Gitrecon (⭐3)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐9)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ### Domain and IP Research / Telegram
 
@@ -82,7 +77,7 @@
 
 ### Image Search / Telegram
 
-*   [GeoSpyer (⭐8)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐162)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ### Image Analysis / Telegram
 
@@ -91,25 +86,25 @@
 ### Web Monitoring / Telegram
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐14k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐16k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / Telegram
 
+*   [Discoshell (⭐75)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
-*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
-*   [vistas (⭐0)](https://github.com/Coachonko/vistas) - Central file server API.
+*   [vistas (⭐1)](https://github.com/Coachonko/vistas) - Central file server API.
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.4k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐670)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.5k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐679)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

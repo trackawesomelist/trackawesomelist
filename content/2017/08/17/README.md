@@ -24,23 +24,13 @@
 *   Airbnb <https://medium.com/airbnb-engineering>
 *   Appnexus <https://techblog.appnexus.com/>
 
-### Companies / B companies
-
-*   Binary Studio <https://binary-studio.com/blog/>
-
 ### Companies / D companies
 
-*   Data Artisans <https://data-artisans.com/blog/>
 *   Deliveroo <https://deliveroo.engineering/>
-
-### Companies / F companies
-
-*   Foursquare <https://engineering.foursquare.com/>
 
 ### Companies / G companies
 
 *   GitHub <https://githubengineering.com/>
-*   Grammarly <https://tech.grammarly.com/blog/index.html>
 
 ### Companies / J companies
 
@@ -62,8 +52,6 @@
 ### Companies / S companies
 
 *   Sharethis <https://www.sharethis.com/category/engineering/>
-*   Sift Science <https://blog.siftscience.com/?category=Engineering>
-*   Stride <https://blog.stridenyc.com/>
 
 ### Companies / T companies
 
@@ -71,7 +59,6 @@
 
 ### Individuals/Group Contributors / B individuals
 
-*   Ben McCormick <https://benmccormick.org/>
 *   Blake Erickson <https://blog.blakeerickson.com/>
 
 ### Individuals/Group Contributors / C individuals

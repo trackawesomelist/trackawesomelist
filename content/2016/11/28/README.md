@@ -14,7 +14,7 @@
 
 ### Protocols
 
-*   [grpc-elixir (⭐1.3k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
+*   [grpc-elixir (⭐1.4k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 
 ### Editors
 

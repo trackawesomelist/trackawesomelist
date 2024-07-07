@@ -16,7 +16,7 @@
 
 ### Node.js / WebAPI
 
-*   [steamapi (⭐140)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
+*   [steamapi (⭐176)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

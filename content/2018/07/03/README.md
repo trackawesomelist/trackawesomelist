@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 03, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgwatch2 (⭐1.7k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
+*   [pgwatch2 (⭐1.8k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -40,21 +40,7 @@
 
 *   [react-native-call-observer (⭐6)](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / E companies
-
-*   Evernote <https://evernote.com/blog/>
-
-### Companies / J companies
-
-*   Jet Technology <https://tech.jet.com/>
-
-### Companies / L companies
-
-*   Latacora <https://latacora.singles/>
-
-## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Design
 
@@ -68,11 +54,11 @@
 
 *   [Startup Jobs](https://startup.jobs/)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐4k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
+*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐4.1k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
 
 ---
 

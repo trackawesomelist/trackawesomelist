@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20, 2013
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,6 +31,12 @@
 
 *   ES6 syntax highlighting for [Sublime Text and TextMate (⭐32)](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 *   DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
+
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Erlang / Phoenix
+
+*   [Erlang Handbook (⭐296)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 
 ---
 

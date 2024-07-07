@@ -16,7 +16,7 @@
 
 ### Status Bar
 
-*   [tmux-nordvpn (⭐17)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
+*   [tmux-nordvpn (⭐18)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -75,7 +75,7 @@
 
 ## [10. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Tools, Platforms, and Services
+### Tools, Platforms, and Services / Repos for Specific Datasets
 
 *   [TabInOut (⭐41)](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
 

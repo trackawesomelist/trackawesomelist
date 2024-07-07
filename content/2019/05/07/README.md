@@ -16,7 +16,7 @@
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
-*   [celerystalk (⭐393)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+*   [celerystalk (⭐395)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
 ## [3. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 

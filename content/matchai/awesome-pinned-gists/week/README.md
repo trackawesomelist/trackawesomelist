@@ -6,17 +6,23 @@
 
 [ [Daily](/content/matchai/awesome-pinned-gists/README.md) / Weekly / [Overview](/content/matchai/awesome-pinned-gists/readme/README.md) ]
 
+## [Jun 10 - Jun 16, 2024](/content/2024/24/README.md)
+
+### External Services
+
+*   [bilibili-gist-py (⭐1)](https://github.com/luyanci/bilibili-gist-py) - Update a pinned gist to show your Bilibili stats and your latest videos.
+
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### External Services
 
-*   [solvedac-box (⭐8)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
+*   [solvedac-box (⭐12)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
 ### External Services
 
-*   [hoyolab-box (⭐3)](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
+*   [hoyolab-box (⭐4)](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -28,7 +34,7 @@
 
 ### External Services
 
-*   [osu-box (⭐3)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+*   [osu-box (⭐2)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
@@ -50,16 +56,16 @@
     *   [codestats-box (⭐5)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
     *   [codestats-box-python (⭐8)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 *   LeetCode (<https://leetcode.com/>)
-    *   [leetcode-box (⭐12)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
+    *   [leetcode-box (⭐13)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
     *   [leetcode-solved-box (⭐0)](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
     *   [leetcode-skills-box (⭐0)](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
 *   Spotify (<https://spotify.com/>)
-    *   [spotify-box (⭐117)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
+    *   [spotify-box (⭐119)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
     *   [spotify-box (⭐10)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
-    *   [spotify-gist (⭐5)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
+    *   [spotify-gist (⭐6)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 *   WakaTime (<https://wakatime.com/>)
     *   [waka-box (⭐1.3k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
-    *   [waka-box-go (⭐160)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
+    *   [waka-box-go (⭐162)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
@@ -74,7 +80,7 @@
 
 ### External Services
 
-*   [hitokoto-box (⭐9)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
+*   [hitokoto-box (⭐10)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
@@ -85,54 +91,54 @@
 
 ### GitHub
 
-*   [lang-box (⭐51)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+*   [lang-box (⭐52)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
 ### GitHub
 
-*   [github-stats-box (⭐122)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐132)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
 ### External Services
 
-*   [goodreads-box (⭐22)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐24)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
 ### External Services
 
-*   [bilibili-box (⭐15)](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
+*   [bilibili-box (⭐18)](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
 
 ## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
 
 ### External Services
 
-*   [netease-music-box (⭐64)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐67)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
 ### External Services
 
-*   [chess-com-box-py (⭐9)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+*   [chess-com-box-py (⭐11)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
 *   [typeracer-box (⭐10)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ### GitHub
 
-*   [productive-box (⭐475)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐487)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
 ### External Services
 
-*   [steam-box (⭐150)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐153)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
 ### External Services
 
-*   [book-box (⭐15)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [book-box (⭐16)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [covid-box (⭐11)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
 *   [shortcut-box (⭐9)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 *   [toggl-box (⭐7)](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
@@ -142,7 +148,7 @@
 
 ### External Services
 
-*   [movie-box (⭐23)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐22)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
@@ -160,25 +166,25 @@
 
 ### External Services
 
-*   [rescue-box (⭐19)](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
+*   [rescue-box (⭐20)](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 
 ## [Jul 01 - Jul 07, 2019](/content/2019/26/README.md)
 
 ### External Services
 
-*   [music-box (⭐105)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐39)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐107)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐41)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
 ### External Services
 
-*   [bird-box (⭐182)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
+*   [bird-box (⭐181)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 
 ### GitHub
 
-*   [activity-box (⭐205)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐204)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
-*   [gist-box (⭐83)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐84)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.

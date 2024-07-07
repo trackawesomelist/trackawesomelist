@@ -35,8 +35,8 @@
 
 ### Tools
 
-*   [chromepet (⭐30)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
-*   [chrome-ext-downloader (⭐48)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
+*   [chromepet (⭐31)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
+*   [chrome-ext-downloader (⭐49)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7.4k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7.5k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐487)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [Live Server (⭐4.3k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+*   [clipboard-cli (⭐488)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [Live Server (⭐4.4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐653)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -65,11 +65,11 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.9k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐9k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [conf (⭐1.2k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 *   [cli-truncate (⭐85)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐554)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐555)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -80,14 +80,14 @@
 ### Packages / Templating
 
 *   [marko (⭐13k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐8.4k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [nunjucks (⭐8.5k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Control flow
 
 *   Observables
     *   [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
     *   [observable-to-promise (⭐46)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-    *   [More… (⭐332)](https://github.com/sindresorhus/awesome-observables)
+    *   [More… (⭐334)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -95,7 +95,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐8.3k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐8.4k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -107,13 +107,13 @@
 
 ### Packages / Parsing
 
-*   [markdown-it (⭐17k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
+*   [markdown-it (⭐18k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
 *   [csv-parser (⭐1.4k)](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 
 ### Packages / Compression
 
-*   [yazl (⭐317)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐672)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [yazl (⭐322)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐681)](https://github.com/thejoshwolfe/yauzl) - Unzip.
 
 ### Packages / Database
 
@@ -122,10 +122,10 @@
     *   [Redis (⭐14k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐625)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐462)](https://github.com/couchbase/couchnode) - Couchbase client.
-    *   [MongoDB (⭐9.9k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    *   [couchdb-nano (⭐640)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐461)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [MongoDB (⭐10k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
 
@@ -137,23 +137,23 @@
 
 ### Packages / Natural language processing
 
-*   [natural (⭐10k)](https://github.com/NaturalNode/natural) - Natural language facility.
+*   [natural (⭐11k)](https://github.com/NaturalNode/natural) - Natural language facility.
 
 ### Packages / Process management
 
 *   [nodemon (⭐26k)](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
-*   [node-windows (⭐2.7k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
+*   [node-windows (⭐2.8k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 
 ### Packages / Weird
 
-*   [cows (⭐406)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐410)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐6.3k)](https://github.com/sindresorhus/execa) - Better `child_process`.
-*   [ssh2 (⭐5.4k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
-*   [Bottleneck (⭐1.7k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-*   [clipboardy (⭐1.7k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+*   [execa (⭐6.6k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [ssh2 (⭐5.5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+*   [Bottleneck (⭐1.8k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
+*   [clipboardy (⭐1.8k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
 
@@ -187,11 +187,9 @@
 ### Companies / P companies
 
 *   Paperless Post <https://www.paperlesspost.com/blog/teams/tech/>
-*   Postmates <https://blog.postmates.com/tagged/engineering>
 
 ### Companies / R companies
 
-*   Raizlabs <https://www.raizlabs.com/dev/>
 *   Riot Games <https://engineering.riotgames.com/>
 
 ### Companies / S companies
@@ -209,16 +207,6 @@
 ### Companies / Y companies
 
 *   Yahoo <https://yahooeng.tumblr.com/>
-*   Yelp <https://engineeringblog.yelp.com/>
-*   YLD! <https://blog.yld.io>
-
-### Companies / Z companies
-
-*   Zulily <https://engineering.zulily.com/>
-
-### Individuals/Group Contributors / B individuals
-
-*   Barry Warsaw <https://www.wefearchange.org/>
 
 ### Individuals/Group Contributors / D individuals
 
@@ -228,7 +216,6 @@
 ### Individuals/Group Contributors / E individuals
 
 *   Eric Lippert <https://ericlippert.com/>
-*   Evan Tahler <https://blog.evantahler.com/>
 
 ### Individuals/Group Contributors / F individuals
 
@@ -246,7 +233,6 @@
 *   Joel Spolsky <https://www.joelonsoftware.com/>
 *   Jon Skeet <https://codeblog.jonskeet.uk/>
 *   Jonathan Snook <https://snook.ca/>
-*   Juri Strumpflohner <https://juristr.com/blog/>
 
 ### Individuals/Group Contributors / L individuals
 

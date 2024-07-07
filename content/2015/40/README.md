@@ -115,14 +115,14 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Malfunction (⭐190)](https://github.com/Dynetics/Malfunction) - Catalog and
+*   [Malfunction (⭐191)](https://github.com/Dynetics/Malfunction) - Catalog and
     compare malware at a function level.
 
 ### Other / Other Resources
 
 *   [APT Notes (⭐1.6k)](https://github.com/aptnotes/data) - A collection of papers
     and notes related to Advanced Persistent Threats.
-*   [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec)
+*   [AppSec (⭐6.2k)](https://github.com/paragonie/awesome-appsec)
 
 ## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -291,16 +291,16 @@
 
 ### Application Templates
 
-*   [Side-Waffle (⭐656)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+*   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ### Git Tools
 
-*   [posh-git (⭐7.4k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.5k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐396)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐398)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -350,7 +350,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐847)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐854)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 
@@ -358,7 +358,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### UI / Barcode
 
-*   [AMScrollingNavbar (⭐6k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
+*   [AMScrollingNavbar (⭐6.1k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 *   [NVActivityIndicatorView (⭐11k)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 
 ## [28. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
@@ -451,7 +451,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Packages / Image
 
-*   [jimp (⭐13k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
+*   [jimp (⭐14k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 
 ### Resources / Articles
 
@@ -482,11 +482,11 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 ### Packages / Libraries
 
 *   [smoothfade (⭐33)](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
-*   [virtual-audio-graph (⭐345)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
+*   [virtual-audio-graph (⭐353)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 
 ### Resources / Tutorials
 
-*   [Web Audio Basics (⭐116)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
+*   [Web Audio Basics (⭐118)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
 ## [35. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 

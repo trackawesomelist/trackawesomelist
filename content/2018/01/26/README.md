@@ -36,7 +36,7 @@
 
 ### Logging / Third-party APIs
 
-*   [cl-fluent-logger (⭐10)](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
+*   [cl-fluent-logger (⭐9)](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

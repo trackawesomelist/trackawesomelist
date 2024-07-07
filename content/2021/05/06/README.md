@@ -85,7 +85,7 @@
 
 ### Machine Learning
 
-*   [ncnn (⭐19k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+*   [ncnn (⭐20k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 
 ## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

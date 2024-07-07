@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐34)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐35)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Table of Contents / Testing
 
-*   [Faker (⭐3.4k)](https://github.com/fakerphp/faker) - A fake data generator library.
+*   [Faker (⭐3.5k)](https://github.com/fakerphp/faker) - A fake data generator library.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Games
 
-*   [AsteroidsWasm (⭐146)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 8 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin, MAUI. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐147)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 8 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin, MAUI. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -92,7 +92,7 @@
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/QuanergySystems)
 *   [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
-    *   [GitHub organization :octocat:](https://github.com/Blickfeld)
+    *   [GitHub organization :octocat:](https://github.com/Blickfeld) ![](https://img.shields.io/badge/ROS-2-34aec5)
 *   [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
 

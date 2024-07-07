@@ -73,21 +73,21 @@
 
 *   [JavaScript (⭐33k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.6k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐385)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐388)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐13k)](https://github.com/loverajoel/jstips#readme)
     *   [Network Layer (⭐551)](https://github.com/Kikobeats/awesome-network-js#readme)
-    *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+    *   [Micro npm Packages (⭐4.6k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
     *   [npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    *   [AVA (⭐345)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐4.1k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-    *   [Functional Programming (⭐5.9k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐332)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐720)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐119k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐53)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [AVA (⭐346)](https://github.com/avajs/awesome-ava#readme) - Test runner.
+    *   [ESLint (⭐4.2k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [Functional Programming (⭐6k)](https://github.com/stoeffel/awesome-fp-js#readme)
+    *   [Observables (⭐334)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐722)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐120k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐54)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 

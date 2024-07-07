@@ -11,20 +11,20 @@
 ### Development tools / IDEs
 
 *   Visual Studio
-    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐702)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) - Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+    *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐564)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐590)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Data Processing and ETL
 
-*   [CSV Reader (⭐179)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+*   [CSV Reader (⭐178)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 
 ### E-Commerce and Payments
 
@@ -32,7 +32,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐635)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐638)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -88,21 +88,21 @@
 
 ### Shell Script Development
 
-*   [ansi (⭐554)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
-*   [argbash (⭐1.3k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
-*   [async-bash (⭐135)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
+*   [ansi (⭐604)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [argbash (⭐1.4k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
+*   [assert.sh (⭐487)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+*   [async-bash (⭐137)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 *   [bash3boilerplate (⭐2.1k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐591)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
-*   [bashify (⭐98)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
-*   [bashing (⭐73)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐90)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [bashful (⭐599)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [bashify (⭐99)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
+*   [bashing (⭐77)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
+*   [bashmanager (⭐93)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
 *   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
-*   [bash\_unit (⭐564)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐531)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
-*   [semver\_bash (⭐240)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
-*   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - Format bash programs.
-*   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
+*   [bash\_unit (⭐586)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
+*   [mo (⭐547)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [semver\_bash (⭐246)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
+*   [shfmt (⭐7k)](https://github.com/mvdan/sh) - Format bash programs.
+*   [shunit2 (⭐1.6k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## [10. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -114,17 +114,17 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐289)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐291)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / JavaScript
 
-*   [Oligrapher (⭐88)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
+*   [Oligrapher (⭐99)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
 
 ### Software / R
 
-*   [neo4r (⭐101)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
+*   [neo4r (⭐106)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 *   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
     *   [informR](https://CRAN.R-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 

@@ -24,27 +24,27 @@
 
 ### Monitoring & Quality Control
 
-*   [MXF Inspect (⭐32)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [MXF Inspect (⭐35)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐616)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐625)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
-*   [relay.js (⭐157)](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
+*   [relay.js (⭐159)](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
 
 ### Bouncers / Self-hosted
 
-*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐938)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐1k)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 
 ### Bots / Self-hosted
 
-*   [Cardinal (⭐94)](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
+*   [Cardinal (⭐100)](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
 
 ### Channels / Platforms
 
@@ -134,7 +134,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐69)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐71)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

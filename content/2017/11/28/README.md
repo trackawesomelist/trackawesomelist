@@ -100,12 +100,12 @@
 
 ### File Carving / Other Resources
 
-*   [hachoir3 (⭐586)](https://github.com/vstinner/hachoir3) - Hachoir is a Python library
+*   [hachoir3 (⭐593)](https://github.com/vstinner/hachoir3) - Hachoir is a Python library
     to view and edit a binary stream field by field.
 
 ### Miscellaneous / Other Resources
 
-*   [Malware Organiser](https://github.com/uppusaikiran/malware-organiser) - A simple tool to organise large malicious/benign files into a organised Structure.
+*   [Malware Organiser (⭐0)](https://github.com/uppusaikiran/malware-organiser) - A simple tool to organise large malicious/benign files into a organised Structure.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

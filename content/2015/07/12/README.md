@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [navit (⭐47)](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
+*   [navit (⭐48)](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

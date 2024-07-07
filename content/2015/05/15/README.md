@@ -38,12 +38,12 @@
 *   [threataggregator (⭐78)](https://github.com/jpsenior/threataggregator) -
     Aggregates security threats from a number of sources, including some of
     those listed below in [other resources](#other-resources).
-*   [TIQ-test (⭐165)](https://github.com/mlsecproject/tiq-test) - Data visualization
+*   [TIQ-test (⭐166)](https://github.com/mlsecproject/tiq-test) - Data visualization
     and statistical analysis of Threat Intelligence feeds.
 
 ### Open Source Threat Intelligence / Other Resources
 
-*   [FireEye IOCs (⭐460)](https://github.com/fireeye/iocs) - Indicators of Compromise
+*   [FireEye IOCs (⭐461)](https://github.com/fireeye/iocs) - Indicators of Compromise
     shared publicly by FireEye.
 
 ### Detection and Classification / Other Resources
@@ -55,7 +55,7 @@
 
 *   [DRAKVUF (⭐1k)](https://github.com/tklengyel/drakvuf) - Dynamic malware analysis
     system.
-*   [Malheur (⭐362)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
+*   [Malheur (⭐365)](https://github.com/rieck/malheur) - Automatic sandboxed analysis
     of malware behavior.
 *   [Malwr](https://malwr.com/) - Free analysis with an online Cuckoo Sandbox
     instance.
@@ -70,15 +70,15 @@
     & [iheartxor](http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html) -
     Two tools from Alexander Hanel for working with single-byte XOR encoded
     files.
-*   [NoMoreXOR (⭐81)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
+*   [NoMoreXOR (⭐84)](https://github.com/hiddenillusion/NoMoreXOR) - Guess a 256 byte
     XOR key using frequency analysis.
-*   [unxor (⭐135)](https://github.com/tomchop/unxor/) - Guess XOR keys using
+*   [unxor (⭐138)](https://github.com/tomchop/unxor/) - Guess XOR keys using
     known-plaintext attacks.
 *   [XORBruteForcer](http://eternal-todo.com/var/scripts/xorbruteforcer) -
     A Python script for brute forcing single-byte XOR keys.
 *   [XORSearch & XORStrings](https://blog.didierstevens.com/programs/xorsearch/) -
     A couple programs from Didier Stevens for finding XORed data.
-*   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - Guess XOR key length, as
+*   [xortool (⭐1.4k)](https://github.com/hellman/xortool) - Guess XOR key length, as
     well as the key itself.
 
 ### Network / Other Resources
@@ -87,7 +87,7 @@
     scale; both file and network protocols.
 *   [Fiddler](https://www.telerik.com/fiddler) - Intercepting web proxy designed
     for "web debugging."
-*   [Hale (⭐183)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
+*   [Hale (⭐184)](https://github.com/pjlantz/Hale) - Botnet C\&C monitor.
 
 ### Miscellaneous / Other Resources
 

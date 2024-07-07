@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2024
 
-21 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Utilities
 
-*   [config-file-validator (⭐280)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐298)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars\_hash (⭐37)](https://github.com/ion-elgreco/polars-hash) - Python package that provides stable hashing functionality across different Polars versions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars\_hash (⭐42)](https://github.com/ion-elgreco/polars-hash) - Python package that provides stable hashing functionality across different Polars versions by [@ion-elgreco](https://github.com/ion-elgreco).
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -87,22 +87,22 @@
 
 ### Applications / System tools
 
-*   [netscanner (⭐695)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+*   [netscanner (⭐738)](https://github.com/Chleba/netscanner) - TUI Network Scanner
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [zeioth/garbage-day.nvim (⭐213)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
+*   [zeioth/garbage-day.nvim (⭐255)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
 
 ### Utility / Diagnostics
 
-*   [Mr-LLLLL/utilities.nvim (⭐7)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
+*   [Mr-LLLLL/utilities.nvim (⭐8)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
 *   [Zeioth/distroupdate.nvim (⭐6)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ### Code Runner / Diagnostics
 
-*   [Zeioth/makeit.nvim (⭐13)](https://github.com/Zeioth/makeit.nvim) - Makefile runner based on overseer.
+*   [Zeioth/makeit.nvim (⭐21)](https://github.com/Zeioth/makeit.nvim) - Makefile runner based on overseer.
 
 ## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Queues and Messaging
 
-*   [crafka (⭐15)](https://github.com/BT-OpenSource/crafka) - Apache Kafka library utilizing `librdkafka`
+*   [crafka (⭐17)](https://github.com/BT-OpenSource/crafka) - Apache Kafka library utilizing `librdkafka`
 
 ## [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -165,13 +165,13 @@
 
 ### Examples
 
-*   [hywax/mafl (⭐137)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐244)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 
 ## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [braundo (⭐0)](https://github.com/Braundo/braundo-zsh-theme) - Straightforward theme with username, current directory, `git` status, and timestamp.
+*   [braundo (⭐1)](https://github.com/Braundo/braundo-zsh-theme) - Straightforward theme with username, current directory, `git` status, and timestamp.
 
 ## [20. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -187,7 +187,71 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-geiger (⭐1.3k)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+*   [cargo-geiger (⭐1.4k)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Programming Fundamentals - A Modular Structured Approach using C++](https://archive.org/details/cnx-org-col10621/mode/1up) - Kenneth Leroy Busbee (PDF)
+
+## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Semantic Kernel** / **Feature Roadmap**
+
+*   Road to v1.0 for the Python Semantic Kernel SDK [ref](https://devblogs.microsoft.com/semantic-kernel/road-to-v1-0-for-the-python-semantic-kernel-sdk/) \[23 Jan 2024] [backlog](https://github.com/orgs/microsoft/projects/866/views/3?sliceBy%5Bvalue%5D=python)
+
+### **Section 4** : Langchain Features, Usage, and Comparisons / DSPy optimizer
+
+*   It highlights two main value props of the framework:
+
+    1.  Components: modular abstractions and implementations for working with language models, with easy-to-use features.
+
+    2.  Use-Case Specific Chains: chains of components that assemble in different ways to achieve specific use cases, with customizable interfaces.cite: [ref](https://docs.langchain.com/docs/)
+
+    *   LangChain 0.2: full separation of langchain and langchain-community. [ref](https://blog.langchain.dev/langchain-v02-leap-to-stability) \[May 2024]
+    *   Towards LangChain 0.1 [ref](https://blog.langchain.dev/the-new-langchain-architecture-langchain-core-v0-1-langchain-community-and-a-path-to-langchain-v0-1/) \[Dec 2023]
+
+          <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain-eco-v3.png" width="400">
+
+    <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain-eco-stack.png" width="400"> -->
+
+    <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain-glance.png" width="400"> -->
+
+    *   Basic LangChain building blocks [ref](https://www.packtpub.com/article-hub/using-langchain-for-large-language-model-powered-applications) \[2023]
+
+        ```python
+        '''
+        LLMChain: A LLMChain is the most common type of chain. It consists of a PromptTemplate, a model (either an LLM or a ChatModel), and an optional output parser.
+        '''
+        chain = prompt | model | parser
+        ```
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [Automatic Prompt Engineer (APE)](https://arxiv.org/abs/2211.01910): Automatically optimizing prompts. APE has discovered zero-shot Chain-of-Thought (CoT) prompts superior to human-designed prompts like “Let’s think through this step-by-step” (Kojima et al., 2022). The prompt “To get the correct answer, let’s think step-by-step.” triggers a chain of thought. Two approaches to generate high-quality candidates: forward mode and reverse mode generation. \[3 Nov 2022] [git (⭐1k)](https://github.com/keirp/automatic_prompt_engineer) / [ref](https:/towardsdatascience.com/automated-prompt-engineering-78678c6371b9) \[Mar 2024]
+
+### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+
+*   [Fabric (⭐19k)](https://github.com/danielmiessler/fabric): A modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere \[Jan 2024]
+
+### **Large Language Model Is: Abilities** / **GPT series release date**
+
+*   [Design2Code](https://arxiv.org/abs/2403.03163): How Far Are We From Automating Front-End Engineering? `64% of cases GPT-4V
+    generated webpages are considered better than the original reference webpages` \[5 Mar 2024]
+
+### **Learning and Supplementary Materials** / Korean
+
+*   [LLM FineTuning Projects and notes on common practical techniques (⭐392)](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models) \[Oct 2023]
+
+### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Figure 01 + OpenAI](https://www.figure.ai/): Humanoid Robots Powered by OpenAI ChatGPT [youtube](https://youtu.be/Sq1QZB5baNw?si=wyufZA1xtTYRfLf3) \[Mar 2024]
+
+### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   The runner-up: <http://bard.google.com> -> <https://gemini.google.com>
+*   AI Tools: <https://aitoolmall.com/>
 
 ---
 

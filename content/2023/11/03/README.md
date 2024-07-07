@@ -10,13 +10,13 @@
 
 ### Compression
 
-*   [zlib-ng (⭐1.4k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+*   [zlib-ng (⭐1.5k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐220)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐506)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐86)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [CppCon 2023 Presentation Materials (⭐243)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐513)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐89)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
 *   [C++Now 2023 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐3)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
@@ -29,7 +29,7 @@
 
 ### Server Applications
 
-*   [etcd (⭐46k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
+*   [etcd (⭐47k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -41,13 +41,13 @@
 
 ### Database
 
-*   [karlseguin/pg.zig (⭐118)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
+*   [karlseguin/pg.zig (⭐148)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐162)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [3body-lang (⭐169)](https://github.com/rustq/3body-lang) - The Three Body Language
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Tools / Playground
 
-*   [biome (⭐9.5k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [biome (⭐12k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
 ---
 

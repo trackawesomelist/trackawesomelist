@@ -22,11 +22,11 @@
 
 ### Table of Contents / PDF
 
-*   [Snappy (⭐4.3k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+*   [Snappy (⭐4.4k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 
 ### Table of Contents / Command Line
 
-*   [Commando (⭐794)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐796)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ---

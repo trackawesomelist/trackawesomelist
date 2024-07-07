@@ -16,7 +16,7 @@
 
 ### JupyterLab Extensions
 
-*   [jupyter-ai (⭐2.7k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
+*   [jupyter-ai (⭐3k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
 ## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

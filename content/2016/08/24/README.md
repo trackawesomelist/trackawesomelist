@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -103,8 +103,8 @@
 
 ### Misc
 
-*   [Aeron.NET (⭐474)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐287)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐480)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐289)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -112,12 +112,6 @@
 
 *   [DotLoader (⭐136)](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 *   [PodSlider (⭐135)](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
-
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / Z companies
-
-*   ZeeMee <https://zeemee.engineering/>
 
 ---
 

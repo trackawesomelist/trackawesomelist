@@ -42,7 +42,7 @@ git config -l | grep alias | cut -d '.' -f 2
 
 ### Apps
 
-*   [Linux port of SteamVR (⭐893)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
+*   [Linux port of SteamVR (⭐912)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 
 ---
 

@@ -166,15 +166,15 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐743)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐755)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐529)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐532)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐351)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐352)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [7. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -206,11 +206,11 @@
 
 ### Metadata
 
-*   [libadm (⭐33)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐35)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
-*   [libbw64 (⭐24)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐27)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 
 ## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -287,12 +287,12 @@
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐7.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.5k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [PICO-8 (⭐2.6k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
 ## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

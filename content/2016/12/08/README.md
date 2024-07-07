@@ -18,20 +18,26 @@
 
 *   [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 
-## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / E individuals
+
+*   Eric Elliot <https://medium.com/javascript-scene/>
+
+## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
 *   2012
     *   *Machine Learning with Ruby, Part One* by [Vasily Vasinov](https://twitter.com/vasinov) <sup>\[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Utility / Collection View Layout
 
 *   [ContactsWrapper (⭐22)](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
 
-## [5. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Automation
 
@@ -41,7 +47,7 @@
 
 *   [Spanish Forum](http://www.emesn.com/autoitforum/)
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -50,20 +56,6 @@
 ### Storage / Scala
 
 *   [AtlasDB (⭐43)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
-
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / S companies
-
-*   Semaphore CI Engineering <http://semaphoreci.com/blog/tags/engineering.html>
-
-### Individuals/Group Contributors / E individuals
-
-*   Eric Elliot <https://medium.com/javascript-scene/>
-
-### Individuals/Group Contributors / I individuals
-
-*   Ivan Ursul <https://ivanursul.com/>
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -23,7 +23,7 @@
 
 ### HTML Manipulation
 
-*   [untangle (⭐608)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+*   [untangle (⭐609)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 
 ---
 

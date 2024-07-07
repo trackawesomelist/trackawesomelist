@@ -217,7 +217,18 @@
 *   [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 *   [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
 
-## [16. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Julia Evans <https://jvns.ca/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Marek Majkowski <https://idea.popcount.org/>
+*   Mary Rose Cook <https://maryrosecook.com/blog/>
+
+## [17. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Tools / OpenOffice
 
@@ -227,7 +238,7 @@
 
 *   [Russian Forum](http://autoit-script.ru/)
 
-## [17. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
@@ -237,7 +248,7 @@
 
 *   [BEMSimpleLineGraph (⭐2.7k)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 
-## [18. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [19. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -252,77 +263,58 @@
 
 *   [dropwizard-riak (⭐1)](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak
 
-## [19. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [20. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 
-## [20. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Examples
 
 *   [Youtube (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
 
-## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
-*   [vkQuake (⭐1.6k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
+*   [vkQuake (⭐1.7k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
 ### Samples
 
-*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐145)](https://github.com/FacticiusVir/SharpVk) \[MIT]
+*   [C# Samples (⭐26)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐146)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
-## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-scale-cluster (⭐129)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 
-## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 *   [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.
 
-## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
 *   [wagtailnews (⭐72)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
-## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Podcasts / Individual Podcast episodes
 
 *   [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 
-## [26. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
 *   [duecredit (⭐230)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
-
-## [27. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / B companies
-
-*   Backtrace <https://backtrace.io/blog/>
-
-### Companies / F companies
-
-*   Faraday <http://blog.faraday.io/>
-
-### Individuals/Group Contributors / J individuals
-
-*   Julia Evans <https://jvns.ca/>
-
-### Individuals/Group Contributors / M individuals
-
-*   Marek Majkowski <https://idea.popcount.org/>
-*   Mary Rose Cook <https://maryrosecook.com/blog/>
 
 ## [28. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -373,7 +365,7 @@
 
 ### Packages / Testing
 
-*   [Jest (⭐43k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐44k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
 ## [31. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -463,7 +455,7 @@
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐371)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐372)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
 ## [40. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -706,15 +698,15 @@
 
 ### DLR
 
-*   [cmd (⭐351)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
+*   [cmd (⭐352)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
 
 ### Functional programming
 
-*   [language-ext (⭐6.2k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐6.3k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐298)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐301)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### IDE
 
@@ -730,15 +722,15 @@
 
 ### Office
 
-*   [ClosedXML (⭐4.4k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+*   [ClosedXML (⭐4.6k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ### WebSocket
 
-*   [Websockets.PCL (⭐97)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
+*   [Websockets.PCL (⭐98)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
 ### Source Generator
 
-*   [Awesome Unity (⭐6.4k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [47. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

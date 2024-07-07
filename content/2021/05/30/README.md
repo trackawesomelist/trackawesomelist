@@ -55,7 +55,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.4k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.6k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.4k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.7k)](https://github.com/fengyuanchen/viewerjs)
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

@@ -136,7 +136,7 @@
 
 ### Creating GIFs
 
-*   [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
+*   [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, with a slightly annoying UX.
 
 ## [18. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -334,7 +334,7 @@
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
 
@@ -342,7 +342,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   C#/dotnet: [chrome-dev-tools (⭐71)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+*   C#/dotnet: [chrome-dev-tools (⭐76)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 
 ## [22. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -377,15 +377,15 @@
 
 ### CLI
 
-*   [ReadLine (⭐799)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐801)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+
+### Cloud Storage
+
+*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
 
 ### Decompilation
 
 *   [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code. It can create Visual Studio solutions based on the original binary files in a straight-forward way. **\[Proprietary]** **\[Free]**
-
-### Distributed Computing
-
-*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 
 ### GUI
 
@@ -407,12 +407,12 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐559)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsenum (⭐575)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
 *   [dnsmap (⭐110)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
 *   [dnsrecon (⭐2.5k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐195)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
-*   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+*   [passivedns-client (⭐197)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns (⭐1.7k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 *   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ### Vulnerability Databases / Social Engineering Tools
@@ -490,7 +490,7 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐2.2k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2.3k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 
@@ -498,7 +498,7 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐342)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐343)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
@@ -506,11 +506,11 @@
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐296)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐297)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
-*   [CenteredCollectionView (⭐1.3k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
+*   [CenteredCollectionView (⭐1.4k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 
 ## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -538,11 +538,11 @@ Wifi pw: `fermento`
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐30)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐29)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐323)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐326)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -554,7 +554,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐663)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐662)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
@@ -658,13 +658,13 @@ Wifi pw: `fermento`
 
 ### Writing, running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.7k)](https://github.com/roswell/roswell#scripting-with-roswell) -
+*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) -
     a lisp installer and scripting environment (helper, launcher,
     installer) and more. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐47)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐49)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 

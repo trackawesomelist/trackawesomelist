@@ -32,7 +32,7 @@
 
 ### I18n And L10n / Runner
 
-*   [polyglot (⭐3.6k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
+*   [polyglot (⭐3.7k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 
 ---
 

@@ -2,7 +2,7 @@
 
 🧂 A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 488 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 512 · 🏷️ Miscellaneous
 
 [ [Daily](/content/hbokh/awesome-saltstack/README.md) / [Weekly](/content/hbokh/awesome-saltstack/week/README.md) / Overview ]
 
@@ -14,13 +14,12 @@
 
 <!--lint ignore double-link-->
 
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
+[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://saltproject.io/)
 
-SaltStack is the other configuration management system built with Python.\
+Salt (often referred to as SaltStack) is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
-SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
-
-A :gem: means **really *awesome / useful***.
+SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.\
+VMware acquired SaltStack in October 2020.
 
 ## Contents
 
@@ -44,26 +43,25 @@ A :gem: means **really *awesome / useful***.
 
 <!--lint ignore double-link-->
 
-*   [SaltStack site](https://www.saltstack.com/) - Company website.
 *   [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
 *   [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
-*   [GitHub repo (⭐13k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+*   [GitHub repo (⭐14k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 *   [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
 *   [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
 *   [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 
 <!--lint ignore awesome-list-item-->
 
-*   [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
+*   [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running.
 *   [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 *   [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
-*   [Salt Module Contributions (⭐173)](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
+*   [Salt Module Contributions (⭐169)](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ## Tutorials
 
 <!--lint ignore awesome-list-item-->
 
-*   [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
+*   [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
 *   [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 *   [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 *   [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series *Managing Development Environments with SaltStack*.
@@ -88,13 +86,13 @@ A :gem: means **really *awesome / useful***.
 
 ## Code
 
-*   [valentin2105/Kubernetes-Saltstack (⭐204)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
+*   [valentin2105/Kubernetes-Saltstack (⭐206)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 *   [madflojo/masterless-salt-base (⭐27)](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
 ## Integrations
 
 *   [Jenkins Salt API Plugin](https://plugins.jenkins.io/saltstack/) - This plugin sends a SaltStack API message as a build step.
-*   [Rundeck (⭐7)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
+*   [Rundeck (⭐8)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
 
 ## Books
 
@@ -127,14 +125,14 @@ A :gem: means **really *awesome / useful***.
 
 ## Tools
 
-*   [SaltGUI (⭐386)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+*   [SaltGUI (⭐499)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 *   [Silica](https://gitlab.com/perfecto25/silica) - A Flask-based lightweight Salt web console.
 *   [Molten (⭐208)](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 *   [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
-*   [salt-sproxy (⭐102)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
-*   [salt-lint (⭐121)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
+*   [salt-sproxy (⭐115)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
+*   [salt-lint (⭐150)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
-*   [ISalt (⭐62)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
+*   [ISalt (⭐66)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
 
 ## Presentations
 
@@ -166,7 +164,7 @@ A :gem: means **really *awesome / useful***.
 
 <!--lint ignore awesome-list-item-->
 
-*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
+*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux.
 *   [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 *   [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
 *   [Parsing Command Output in Saltstack with JC](https://blog.kellybrazil.com/2020/09/15/parsing-command-output-in-saltstack-with-jc/) - How to easily parse remote command output in SaltStack, using `jc`.
@@ -198,13 +196,13 @@ A :gem: means **really *awesome / useful***.
 
 <!--lint ignore awesome-list-item-->
 
-*   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
+*   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas.
 
 ## Cheat sheets
 
-*   [SaltStack Cheat Sheet Plus (⭐31)](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
+*   [SaltStack Cheat Sheet Plus (⭐33)](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
 *   [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
-*   [SaltStack Wiki (⭐13k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
+*   [SaltStack Wiki (⭐14k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
 

@@ -16,7 +16,7 @@
 
 ### Utility
 
-*   [votp (⭐13)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+*   [votp (⭐14)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐84k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐89k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -63,6 +63,10 @@
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
+### Component Libraries
+
+*   [TrendChart Elements (⭐34)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
+
 ### Standalone Components
 
 *   [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
@@ -73,20 +77,19 @@
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Component Libraries
-
-*   [TrendChart Elements (⭐22)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
-*   [LDRS (⭐1.3k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
-
 ### Components
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
+
+### Component Libraries
+
+*   [LDRS (⭐1.3k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Split and Window / Diagnostics
 
-*   [jyscao/ventana.nvim (⭐17)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
+*   [jyscao/ventana.nvim (⭐18)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
 ## [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 

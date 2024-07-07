@@ -55,7 +55,6 @@
 
 ### Companies / S companies
 
-*   ShowMax <https://tech.showmax.com>
 *   Skyscanner <http://codevoyagers.com/>
 
 ### Products/Technologies / I technologies
@@ -104,12 +103,11 @@
 
 ### DOM related / Single Topics
 
-*   [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 
 ### Node.js / Single Topics
 
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
+*   [The Art of Node (⭐9.8k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
 *   [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 *   [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 
@@ -227,11 +225,11 @@
 
 ### Trading
 
-*   [Lean (⭐8.7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8.9k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐209)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐210)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -248,7 +246,7 @@
 
 ### Packages / Logging
 
-*   [pino (⭐13k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐14k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -272,13 +270,13 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4.1k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐888)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐893)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -312,7 +310,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐4.1k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐4.2k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Altium
 
@@ -327,7 +325,7 @@
 
 ## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
 
@@ -349,7 +347,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐865)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐908)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

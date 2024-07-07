@@ -592,13 +592,7 @@
 *   [Vanilla Java](https://vanilla-java.github.io)
 *   [Voxxed](https://www.voxxed.com)
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Phone Number Research / Telegram
-
-*   [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
-
-## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [14. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Remote Code Execution
 
@@ -608,6 +602,24 @@
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) - Written by [Ruslan Habalov](https://www.evonide.com/).
+
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
+
+### FreeBSD / Phoenix
+
+*   [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
+
+### Java / Bootstrap
+
+*   [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
+
+### Linux / TeX
+
+*   [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 
 ## [16. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -715,7 +727,7 @@
 
 ### Projects Using Vue.js / A11y
 
-*   [vue-announcer (⭐229)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
+*   [vue-announcer (⭐230)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 
 ### Components & Libraries / Frameworks
 
@@ -806,7 +818,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [doddle-model (⭐138)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+*   [doddle-model (⭐137)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 
 ## [36. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -817,7 +829,7 @@
 
 ## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
-### Books, blogs, and training materials / Community Chat Rooms
+### Books, blogs, and training materials / Free and public materials
 
 *   [Cortex-M Quickstart](https://docs.rs/cortex-m-quickstart/0.3.1/cortex_m_quickstart/) by @japaric – a template and introduction to embedded Rust, suitable for developers familiar with embedded development but new to embedded Rust.
 

@@ -16,7 +16,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ThreatTracker (⭐62)](https://github.com/michael-yip/ThreatTracker) - A Python
+*   [ThreatTracker (⭐64)](https://github.com/michael-yip/ThreatTracker) - A Python
     script to monitor and generate alerts based on IOCs indexed by a set of
     Google Custom Search Engines.
 
@@ -34,25 +34,25 @@
 
 ### Deobfuscation / Other Resources
 
-*   [PackerAttacker (⭐261)](https://github.com/BromiumLabs/PackerAttacker) - A generic
+*   [PackerAttacker (⭐263)](https://github.com/BromiumLabs/PackerAttacker) - A generic
     hidden code extractor for Windows malware.
-*   [VirtualDeobfuscator (⭐123)](https://github.com/jnraber/VirtualDeobfuscator) -
+*   [VirtualDeobfuscator (⭐128)](https://github.com/jnraber/VirtualDeobfuscator) -
     Reverse engineering tool for virtualization wrappers.
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [angr (⭐7.2k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
+*   [angr (⭐7.3k)](https://github.com/angr/angr) - Platform-agnostic binary analysis
     framework developed at UCSB's Seclab.
 *   [BARF (⭐1.4k)](https://github.com/programa-stic/barf-project) - Multiplatform, open
     source Binary Analysis and Reverse engineering Framework.
 *   [binnavi (⭐2.9k)](https://github.com/google/binnavi) - Binary analysis IDE for
     reverse engineering based on graph visualization.
-*   [Capstone (⭐7.1k)](https://github.com/aquynh/capstone) - Disassembly framework for
+*   [Capstone (⭐7.2k)](https://github.com/aquynh/capstone) - Disassembly framework for
     binary analysis and reversing, with support for many architectures and
     bindings in several languages.
-*   [GEF (⭐6.5k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
+*   [GEF (⭐6.7k)](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
     and reverse engineers.
-*   [PEDA (⭐5.7k)](https://github.com/longld/peda) - Python Exploit Development
+*   [PEDA (⭐5.8k)](https://github.com/longld/peda) - Python Exploit Development
     Assistance for GDB, an enhanced display with added commands.
 *   [SMRT (⭐64)](https://github.com/pidydx/SMRT) - Sublime Malware Research Tool, a
     plugin for Sublime 3 to aid with malware analyis.

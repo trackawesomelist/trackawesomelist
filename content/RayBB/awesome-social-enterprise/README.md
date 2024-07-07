@@ -2,9 +2,15 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 66 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 87 · 🏷️ Business
 
 [ Daily / [Weekly](/content/RayBB/awesome-social-enterprise/week/README.md) / [Overview](/content/RayBB/awesome-social-enterprise/readme/README.md) ]
+
+## [Jun 08, 2024](/content/2024/06/08/README.md)
+
+### Institutions 🏫 / Articles
+
+*   [VUB Chair Social Entrepreneurship](https://www.vubsocialentrepreneurship.com/)
 
 ## [May 10, 2023](/content/2023/05/10/README.md)
 

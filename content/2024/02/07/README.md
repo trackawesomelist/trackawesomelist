@@ -16,8 +16,8 @@
 
 ### Packages / Libraries
 
-*   [waveform-path (⭐57)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
-*   [wave-audio-path-player (⭐24)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
+*   [waveform-path (⭐77)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
+*   [wave-audio-path-player (⭐34)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -30,18 +30,18 @@
 ### Learning Resources / Other "awesome" lists in AI and ML
 
 *   [Awesome Deep Learning (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+*   [Awesome Deep Learning Resources (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Awesome Document Understanding (⭐1.1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
-*   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
+*   [Awesome Document Understanding (⭐1.2k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
+*   [Awesome Image Classification (⭐2.8k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
 *   [Awesome Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐442)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐449)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Production Machine Learning (⭐17k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
 *   [Awesome Visual Transformer (⭐3.3k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐121)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome XAI (⭐126)](https://github.com/altamiracorp/awesome-xai#readme)
 
 ---
 

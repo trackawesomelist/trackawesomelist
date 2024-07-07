@@ -28,7 +28,7 @@
 
 ### Editors / Runner
 
-*   [trix (⭐18k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
+*   [trix (⭐19k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
 ## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

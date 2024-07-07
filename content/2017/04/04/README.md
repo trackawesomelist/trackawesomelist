@@ -88,7 +88,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐90)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐92)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -138,7 +138,7 @@ $ git config --global merge.tool meld
 
 ### Packages / Utilities
 
-*   [Audion (⭐346)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐364)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ---
 

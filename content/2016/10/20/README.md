@@ -133,7 +133,7 @@
 
 ### Apps
 
-*   [vkQuake (⭐1.6k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
+*   [vkQuake (⭐1.7k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
 ---
 

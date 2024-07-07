@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Developer tools / Testing
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 
@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐903)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐919)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -38,7 +38,32 @@
 
 *   [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
+
+### Java / Bootstrap
+
+*   [Building Back-End Web Apps with Java, JPA and JSF](https://web-engineering.info/tech/JavaJpaJsf/book/) - Mircea Diaconescu, Gerd Wagner (HTML,PDF)
+*   [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
+
+### JavaScript / Wicket
+
+*   [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
+
+### PHP / PicoLisp
+
+*   [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
+
+### Ruby / Tornado
+
+*   [Ruby Best Practices (⭐312)](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
+*   [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
+*   [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne
+
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -50,27 +75,27 @@
 
 *   [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 
-## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Esoteric languages
 
 *   [strategic-communication (⭐315)](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Integrations / Navigation Demos
 
 *   [react-native-bugfender \*7 (⭐24)](https://github.com/bugfender/rn-bugfender) - A React Native wrapper for Bugfender log and error reporting.
 
-## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Language Support
 
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
-*   [playwright-python (⭐10k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
-*   [playwright-java (⭐991)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
+*   [playwright-python (⭐11k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
+*   [playwright-java (⭐1.1k)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 
-## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering to Management Transition
 
@@ -104,25 +129,25 @@
 
 *   “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an opportunity for great new ventures.
 
-## [11. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [12. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Testing
 
 *   [antwaremx:meteorman (⭐48)](https://github.com/antwaremx/meteorman) - Meteorman: A DDP Client with GUI to test Meteor methods and publications (like Postman).
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Frameworks
 
 *   [wasm-bindgen-action (⭐9)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [Weights & Biases](https://www.wandb.com/) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
 
-## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Disassemblers and debuggers
 

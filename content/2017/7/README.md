@@ -37,7 +37,7 @@
 
 ### Testing
 
-*   [Expecto (⭐656)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐663)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -188,7 +188,7 @@ git checkout @{-1}
 
 ### ES6 and above / Single Topics
 
-*   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
+*   [Practical ES6 (⭐3.1k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
 ## [23. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -206,17 +206,17 @@ git checkout @{-1}
 
 ### Plugins / IRC
 
-*   [Composer-Patches (⭐1.3k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
+*   [Composer-Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
 
 ### Tools / IRC
 
-*   [ComposerRequireChecker (⭐701)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
+*   [ComposerRequireChecker (⭐871)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
 ## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐185)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐186)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -256,7 +256,7 @@ git checkout @{-1}
 
 ### Applications
 
-*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) — A new kind of terminal
+*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) - A new kind of terminal
 
 ## [32. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -380,7 +380,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Validations
 
-*   [jeaux (⭐12)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
+*   [jeaux (⭐13)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
 ## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -698,7 +698,7 @@ Webpage: <http://www.denizlihs.org/>
 ### C++ / Natural Language Processing
 
 *   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐62)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [ucto (⭐63)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
@@ -757,11 +757,11 @@ Webpage: <http://www.denizlihs.org/>
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐126)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐126)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
-*   [enlighten-integration (⭐61)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
-*   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
-*   [dm-flow (⭐57)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
+*   [ML\_Tables (⭐125)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐125)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+*   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
+*   [dm-flow (⭐58)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
 ## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 

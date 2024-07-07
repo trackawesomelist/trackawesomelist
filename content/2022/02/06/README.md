@@ -10,7 +10,7 @@
 
 ### Browser-Based / Puzzle
 
-*   [Pond (⭐55)](https://github.com/Zolmeister/pond) - The Pound is about relaxing and exploring a beautiful world.
+*   [Pond (⭐54)](https://github.com/Zolmeister/pond) - The Pound is about relaxing and exploring a beautiful world.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐398)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐403)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

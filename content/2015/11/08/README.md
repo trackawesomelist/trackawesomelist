@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,25 +22,15 @@
 
 ### UI / Barcode
 
-*   [GMStepper (⭐924)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / J companies
-
-*   Jolly Good Code <https://jollygoodcode.github.io/>
-
-### Companies / W companies
-
-*   We Are Wizards <https://blog.wearewizards.io/>
-
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Embedded Systems
 
 *   [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 
@@ -51,7 +41,7 @@
 
 *   [elastics (⭐101)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
-## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [6. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Programming Languages / JavaScript
 

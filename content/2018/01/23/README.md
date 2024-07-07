@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [burnex (⭐70)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐71)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -65,13 +65,9 @@
 
 ## [9. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Applets / Design Tooling
-
-*   [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.7k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [10. Awesome Devenv](/content/jondot/awesome-devenv/README.md)

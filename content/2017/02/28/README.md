@@ -17,7 +17,7 @@
 
 ### Third-party APIs
 
-*   [raven.cr (⭐118)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐37k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐119)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐38k)](https://github.com/getsentry/sentry)
 
 ## [3. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Cryptography
 
-*   [SecurityDriven.Inferno (⭐565)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+*   [SecurityDriven.Inferno (⭐568)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
 ---
 

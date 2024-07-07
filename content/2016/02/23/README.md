@@ -63,17 +63,17 @@
 
 ### DVB & WiFi
 
-*   [DTT 2 IP (⭐26)](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
+*   [DTT 2 IP (⭐27)](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
 *   [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
 ### Media Players
 
-*   [Kodi (⭐17k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
+*   [Kodi (⭐18k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐1.7k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐1.9k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
 ## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -341,13 +341,13 @@
 
 ### SEO
 
-*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐360)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHPBench (⭐1.8k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+*   [PHPBench (⭐1.9k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -403,16 +403,6 @@ git config --list
 *   [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1): A word template describing how to set OKRs
 *   [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit): The OKR Scorecard from the re:Work site a Google.
 *   [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
-
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Individuals/Group Contributors / C individuals
-
-*   Chris Hager <https://www.metachris.com/blog/>
-
-### Individuals/Group Contributors / M individuals
-
-*   Michaël Gallego <http://www.michaelgallego.fr/articles/>
 
 ---
 

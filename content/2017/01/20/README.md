@@ -28,7 +28,7 @@
 
 ### Node.js / Single Topics
 
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
+*   [The Art of Node (⭐9.8k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
 *   [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 *   [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 

@@ -43,7 +43,7 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐298)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐300)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
@@ -57,15 +57,15 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Woolly (⭐50)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
+*   [Woolly (⭐51)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ### ORM and Datamapping
 
-*   [shards (⭐292)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+*   [shards (⭐294)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 
 ### Queue
 
-*   [cspex (⭐24)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
+*   [cspex (⭐25)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
 ## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
@@ -99,8 +99,6 @@
 *   [147 Colors](http://147colors.com/) - Learn CSS color names.
 *   [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - Search Images by Color with Spectrum.
 *   [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
-*   [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
-*   [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
 
 ### Articles / Web App
 

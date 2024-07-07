@@ -10,7 +10,7 @@
 
 ### Packages / Filesystem
 
-*   [filehound (⭐220)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐222)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Testing
 
-*   [bypass (⭐941)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐951)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 

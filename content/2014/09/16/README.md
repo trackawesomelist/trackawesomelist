@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [Mochify (⭐344)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
+*   [Mochify (⭐347)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

@@ -20,16 +20,12 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Pastebins
-
-*   [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
-
 ### Social Media Tools / Reddit
 
 *   [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
 *   [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
 *   [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 *   [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
@@ -122,7 +118,7 @@
 
 ### Content Management Systems
 
-*   [Umbraco (⭐206)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐205)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

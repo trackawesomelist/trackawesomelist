@@ -22,7 +22,7 @@
 
 ### Deployment / Distribution
 
-*   [ios-uploader (⭐141)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
+*   [ios-uploader (⭐155)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐510)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐541)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐66k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐66k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐69k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐69k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 
@@ -96,7 +96,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go18ds (⭐44)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
+*   [go18ds (⭐45)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 
 ## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

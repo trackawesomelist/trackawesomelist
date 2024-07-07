@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐531)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐534)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐515)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐520)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### Miscellaneous
 
@@ -134,7 +134,7 @@
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐419)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐420)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
 ## [10. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

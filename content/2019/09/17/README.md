@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17, 2019
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,67 +59,61 @@
 
 ## [5. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Tools, Platforms, and Services
+### Tools, Platforms, and Services / Repos for Specific Datasets
 
-*   [SemEHR (⭐82)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
+*   [SemEHR (⭐87)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
-## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Multimedia
-
-*   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
-
-## [7. Guides](/content/NARKOZ/guides/README.md)
+## [6. Guides](/content/NARKOZ/guides/README.md)
 
 ### Other / Writing
 
 *   [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇬🇷 Greece / Misc
 
 *   Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
 *   Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Videos
 
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo tutorial that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
 *   [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo course that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
-## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Unlock git-crypt files (⭐31)](https://github.com/sliteteam/github-action-git-crypt-unlock)
 *   [Golang CGO cross compiler (⭐46)](https://github.com/crazy-max/ghaction-xgo)
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [11. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Java / Misc
 
-*   [JavaSteam (⭐75)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
+*   [JavaSteam (⭐89)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
-## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [12. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Database
 
 *   [LiteDB ★4245 (⭐7.6k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
 *   [pure-react-carousel (⭐1.7k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 

@@ -41,7 +41,7 @@
 
 ### DevSecOps / Dependency confusion
 
-*   [Dependency Combobulator (⭐86)](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
+*   [Dependency Combobulator (⭐85)](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
 *   [Confusion checker (⭐60)](https://github.com/sonatype-nexus-community/repo-diff) - Script to check if you have artifacts containing the same name between your repositories.
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
@@ -83,7 +83,7 @@
 
 ### Logging
 
-*   [Sejil (⭐177)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐180)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

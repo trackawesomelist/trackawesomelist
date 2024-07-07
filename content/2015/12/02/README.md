@@ -68,7 +68,7 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐507)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐508)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### IoC
 
@@ -80,7 +80,7 @@
 
 ### Testing
 
-*   [FsCheck (⭐1.1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+*   [FsCheck (⭐1.2k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

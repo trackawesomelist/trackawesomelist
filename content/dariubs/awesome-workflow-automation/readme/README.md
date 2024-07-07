@@ -2,7 +2,7 @@
 
 A curated list of Workflow Automation Software and Tools
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 186 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 232 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dariubs/awesome-workflow-automation/README.md) / [Weekly](/content/dariubs/awesome-workflow-automation/week/README.md) / Overview ]
 
@@ -41,7 +41,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 *   **[ActivePieces](https://www.activepieces.com/)** - *[Review](https://productivity.directory/activepieces)*: An open-source tool for all-in-one automation.
 *   **[n8n](https://n8n.io/)** - *[Review](https://productivity.directory/n8n)*: Specializes in technical workflow automation.
 *   **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
-*   **[Huginn](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
+*   **[Huginn (⭐42k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
 
 ## Articles
 
@@ -50,6 +50,10 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 ## Books
 
 *   [Workflow Automation with Microsoft Power Automate](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795): Achieve digital transformation through business automation with minimal coding
+*   [Automate It with Zapier and Generative AI - Second Edition](https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840/): Harness the power of no-code workflow automation and AI with Zapier to increase business productivity
+*   [Automate This: How Algorithms Came to Rule Our World](https://www.amazon.com/Automate-This-Algorithms-Plattner-Sept/dp/1591844924): A fascinating look into how algorithms shape our daily lives and the economy.
+*   Hyperautomation: A Business Guide to Navigating the Future with Robotic Process Automation
+*   The Art of Automation: A Guide to Using Automation to Enhance Business Performance
 
 # Resources
 

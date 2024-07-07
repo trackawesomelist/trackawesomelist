@@ -20,15 +20,15 @@
 
 ### Optimization
 
-*   [SmallStrings (⭐91)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+*   [SmallStrings (⭐105)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
 
 ### Other Testing
 
-*   [ETTrace (⭐483)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
+*   [ETTrace (⭐513)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
 
 ### Alert & Action Sheet
 
-*   [LCActionSheet (⭐818)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
+*   [LCActionSheet (⭐821)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -42,17 +42,17 @@
 
 ### Components & Libraries / Utilities
 
-*   [vuex-composition (⭐5)](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
+*   [vuex-composition (⭐6)](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐88)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐93)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐74)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐76)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ---
 

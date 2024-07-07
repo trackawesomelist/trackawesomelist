@@ -72,7 +72,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Editors
 
-*   [Alchemist-Server (⭐194)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐193)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/README.md)
 

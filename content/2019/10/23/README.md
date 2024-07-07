@@ -37,7 +37,7 @@
 
 ### Plugins / IRC
 
-*   [Private-Composer-Installer (⭐211)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
+*   [Private-Composer-Installer (⭐224)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Extensions / Collection View Layout
 
-*   [nef (⭐198)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐199)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
@@ -176,7 +176,7 @@
 
 ### String / Runner
 
-*   [plexis (⭐146)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
+*   [plexis (⭐147)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 
 ## [16. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐73)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐76)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
 *   [tmux-weather (⭐57)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 

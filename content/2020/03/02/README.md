@@ -22,7 +22,7 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐344)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐362)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -38,13 +38,13 @@
 
 ## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Learn
+### Learning Guides
 
-*   [Learn Elm (⭐472)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+*   [Learn Elm (⭐477)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 
 ### Community and Support / Games
 
-*   [Companies using Elm (⭐458)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+*   [Companies using Elm (⭐461)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 

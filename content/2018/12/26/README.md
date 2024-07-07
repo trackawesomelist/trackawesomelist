@@ -28,7 +28,7 @@
 
 - ☆: ★★★
 
-  Name: [Mini-Editorials (⭐298)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
+  Name: [Mini-Editorials (⭐376)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
 
   Description: Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems
 

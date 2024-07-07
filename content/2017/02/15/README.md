@@ -16,7 +16,7 @@
 
 ### ES6 and above / Single Topics
 
-*   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
+*   [Practical ES6 (⭐3.1k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
 ## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Plugins / IRC
 
-*   [Composer-Patches (⭐1.3k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
+*   [Composer-Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐185)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐186)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Applications
 
-*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) — A new kind of terminal
+*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) - A new kind of terminal
 
 ## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

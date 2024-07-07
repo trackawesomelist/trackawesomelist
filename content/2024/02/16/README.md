@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2024
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐341)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐352)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -29,13 +29,19 @@
 
 *   [mogenius](https://mogenius.com) - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.
 
-## [4. Awesome V](/content/vlang/awesome-v/README.md)
+## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+
+*   [LLM patterns](https://eugeneyan.com/writing/llm-patterns/): 🏆From data to user, from defensive to offensive [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/llm-patterns-og.png)
+
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Database clients
 
-*   [mongodb (⭐40)](https://github.com/vlang/mongo) - MongoDB driver for V.
+*   [mongodb (⭐44)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -43,31 +49,31 @@
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐72)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐89)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Text Editors and IDEs
 
 *   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
 
-## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-oxlint (⭐15)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐15)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐20)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
-## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Blockchain API and Web services
 
@@ -77,7 +83,7 @@
 
 *   [@lopp / Lightning Developers](https://twitter.com/i/lists/981976067551490048) - Software developers with experience working on LN implementations / applications.
 
-## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 

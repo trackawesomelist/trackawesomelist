@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐263)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐265)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -58,13 +58,7 @@
 
 *   [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4\&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u\&index=1) - Free Video Course on Ansible including labs to follow along.
 
-## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Multimedia
-
-*   [Clapper (⭐685)](https://github.com/Rafostar/clapper) - Simple and modern media player.
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 

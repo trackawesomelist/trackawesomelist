@@ -63,17 +63,21 @@
 
 *   [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
 
-## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
+
+### Clojure / Non-X86
+
+*   [Clojure community-driven documentation](http://clojure-doc.org)
+
+## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
-
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Individuals/Group Contributors / S individuals
-
-*   Sergey Zhuk <http://sergeyzhuk.me/>
 
 ## [11. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -96,7 +100,7 @@
 
 ### Game
 
-*   [BEPUphysics (⭐2.2k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐2.3k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

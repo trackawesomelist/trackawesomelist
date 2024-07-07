@@ -10,7 +10,7 @@
 
 ### data
 
-*   [geo-maps (⭐1.2k)](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
+*   [geo-maps (⭐1.3k)](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -69,16 +69,12 @@
 
 *   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 
-### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
 *   [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
 
-### Server-Side Rendering / Node Based
+### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
@@ -104,7 +100,7 @@
 
 ### Math
 
-*   [OpenBLAS (⭐6k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6.1k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

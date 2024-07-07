@@ -22,7 +22,7 @@
 
 ### Contents / High-Availability
 
-*   [BDR (⭐357)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐358)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -30,7 +30,7 @@
 
 ### Contents / Utilities
 
-*   [pgcmp (⭐41)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+*   [pgcmp (⭐42)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

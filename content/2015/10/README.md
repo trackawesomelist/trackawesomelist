@@ -220,7 +220,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Guidelines](http://aturon.github.io/)
+*   [Rust Guidelines](http://aturon.github.io/) - Aaron Turon's blog posts on rust
 
 ## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Date and Time Processing
 
-*   [biz (⭐486)](https://github.com/zendesk/biz) - Time calculations using business hours.
+*   [biz (⭐488)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

@@ -73,7 +73,7 @@
 
 ### Multimedia content processing
 
-*   [Beam Coder (⭐381)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
+*   [Beam Coder (⭐390)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 
 ## [7. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

@@ -153,10 +153,6 @@
 
 *   RetailMeNot <https://medium.com/retailmenot-engineering/>
 
-### Companies / T companies
-
-*   TripAdvisor <http://engineering.tripadvisor.com/>
-
 ---
 
 - Prev: [Sep 22, 2016](/content/2016/09/22/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08 - Aug 14, 2016
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,23 +22,13 @@
 
 *   [Knet.jl (⭐1.4k)](https://github.com/denizyuret/Knet.jl)
 
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / A companies
-
-*   Azavea <https://www.azavea.com/blog/category/software-development/>
-
-### Companies / U companies
-
-*   Upday <https://upday.github.io/>
-
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Authentication Authorisation
 
 *   [Vert.x-Pac4j (⭐121)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -49,7 +39,7 @@
 
 *   [nehm (⭐85)](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Symmetric encryption
 
@@ -87,9 +77,9 @@
 ### C++ / Git
 
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
-*   [HElib (⭐6)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [HElib (⭐7)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
-*   [s2n (⭐4.4k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+*   [s2n (⭐4.5k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp / Git
 
@@ -103,7 +93,7 @@
 ### Elixir / Git
 
 *   [elixir-rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-*   [ex\_crypto (⭐135)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+*   [ex\_crypto (⭐136)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 
 ### Erlang / Git
 
@@ -123,7 +113,7 @@
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐424)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐426)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
@@ -133,16 +123,16 @@
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐348)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐355)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
 *   [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
-*   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
+*   [PHP Encryption (⭐3.8k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 
 ### Python / Git
 
-*   [charm (⭐528)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐534)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 *   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
@@ -177,7 +167,7 @@
 
 *   [Learn Cryptography](https://learncryptography.com/) - Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
 
-## [7. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [6. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Datasets / General and Interdisciplinary
 
@@ -215,13 +205,13 @@
 *   [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
 *   [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
 *   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
 
-## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -233,7 +223,7 @@
 
 
 
-## [10. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
@@ -248,13 +238,13 @@
 
 *   [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 
-## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
 *   [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R\&D robots.
 
-## [12. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [11. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Templates
 
@@ -265,7 +255,7 @@
 *   [Projects, Websites, Companies and Organizations that use
     Pyramid](https://trypyramid.com/community-powered-by-pyramid.html) - add your project to the list
 
-## [13. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Clouds
 
@@ -280,13 +270,13 @@
 *   [Warden (⭐283)](https://github.com/cloudfoundry/warden)\
     Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [MLKit (⭐152)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Files
 
@@ -294,9 +284,9 @@
 
 ### Pagination / Barcode
 
-*   [PageController (⭐408)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐407)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
-## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [15. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
@@ -311,7 +301,7 @@
 *   [Fonts](https://github.com/showcases/fonts)
 *   [Icon Fonts](https://github.com/showcases/icon-fonts)
 
-## [17. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [16. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Conferences and Events / Other Types of Support
 
@@ -321,7 +311,7 @@
 
 *   Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
 
-## [18. Tips](/content/git-tips/tips/week/README.md)
+## [17. Tips](/content/git-tips/tips/week/README.md)
 
 ## Forced push but still ensure you don't overwrite other's work
 
@@ -347,21 +337,21 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 git rev-list --count <branch-name>
 ```
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [CUB (⭐79)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐2.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐3k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
-## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [filehound (⭐220)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐222)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [20. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
@@ -376,19 +366,19 @@ git rev-list --count <branch-name>
 *   [Why JNI is slow?](https://www.youtube.com/watch?v=LoyBTqkSkZk) - Cliff Click
 *   [JVM Language Summit 2016](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_) - JVM Language Summit 2016.
 
-## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Build Tools
 
 *   [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
-## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [22. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
@@ -396,7 +386,7 @@ git rev-list --count <branch-name>
     [online decompilation service](https://retdec.com/decompilation/) and
     [API](https://retdec.com/api/) that you can use in your tools.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
@@ -404,13 +394,13 @@ git rev-list --count <branch-name>
 
 ### ORM
 
-*   [PetaPoco (⭐2k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
+*   [PetaPoco (⭐2.1k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
 
 ### Tools
 
 *   [Netling (⭐1.3k)](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 
-## [26. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
+## [25. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
 ### Git-Flow
 
@@ -592,13 +582,13 @@ git flow init -d
 10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-tr.md)
 11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-bn.md)
 
-## [27. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [26. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 
-## [28. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [27. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 
@@ -649,20 +639,20 @@ git flow init -d
 *   [dataface (⭐43)](https://github.com/timwis/dataface) - Desktop application to manage databases.
 *   [BlankUp (⭐38)](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 
-## [29. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [28. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [pokemongo-genymotion (⭐19)](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
 
-## [30. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [29. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Similar lists / Videos
 
 *   [Awesome Open (⭐77)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -684,7 +674,7 @@ git flow init -d
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐676)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐684)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -704,7 +694,7 @@ git flow init -d
 
 ### Images
 
-*   [ex\_image\_info (⭐94)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐95)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
@@ -716,11 +706,11 @@ git flow init -d
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐102)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐104)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐941)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐951)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -731,13 +721,13 @@ git flow init -d
 
 *   [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
 
-## [32. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [31. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [Sketch Runner](http://sketchrunner.com)
 
-## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [32. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Visualization methods
 
@@ -749,38 +739,38 @@ git flow init -d
 *   [FlameGraph (⭐14k)](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
 *   [node-stackvis (⭐341)](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
-*   [cr-dotenv (⭐93)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Project Generators
 
-*   [crystal\_lib (⭐138)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐150)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐233)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Kilt (⭐152)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Slang (⭐235)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 
 *   [Gitter](https://gitter.im/crystal-lang/crystal)
 
-## [35. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [34. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐49k)](https://github.com/google/material-design-icons).
 
-## [36. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [35. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
-*   [Vulkan-hpp (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*   [Vulkan-hpp (⭐3k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 

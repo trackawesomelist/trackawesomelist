@@ -35,7 +35,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐24k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐25k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

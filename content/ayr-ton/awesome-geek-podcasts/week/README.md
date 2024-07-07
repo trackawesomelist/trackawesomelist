@@ -2,9 +2,16 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 530 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 535 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / Weekly / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
+
+## [Jun 10 - Jun 16, 2024](/content/2024/24/README.md)
+
+### In Portuguese
+
+*   [PH Santos Podcast](https://open.spotify.com/show/08zI81PqsvRqnzPvBElIKZ?si=8ca629191f074b25) - Podcast do Comunicador e Crítico de Cinema PH Santos, focado em séries e filmes.
+*   [Olá, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, histórias e tecnologia.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 

@@ -30,7 +30,7 @@ git config --global rerere.enabled 1
 
 ### Applications
 
-*   [Nvjorn (⭐15)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+*   [Nvjorn (⭐16)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 
 ### ORM and Datamapping
 

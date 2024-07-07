@@ -43,7 +43,7 @@
 
 ### Subtitling
 
-*   [EBU-TT-D W3C XML Schema (⭐8)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
+*   [EBU-TT-D W3C XML Schema (⭐9)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

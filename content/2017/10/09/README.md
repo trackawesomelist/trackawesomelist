@@ -11,7 +11,7 @@
 ### Software / Python
 
 *   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
-*   [SnapVX (⭐64)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
+*   [SnapVX (⭐65)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

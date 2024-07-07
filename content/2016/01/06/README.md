@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06, 2016
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐457)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐456)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ## [2. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -322,12 +322,6 @@
     Once you have completed this computer based training course, you will have
     gained a basic understanding of the features needed for Python web
     development and the features unique to Pyramid.
-
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / S companies
-
-*   Secret Escapes <http://tech.secretescapes.com/>
 
 ---
 

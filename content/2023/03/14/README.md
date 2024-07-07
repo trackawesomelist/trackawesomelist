@@ -14,28 +14,26 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.7k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.8k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
-*   [Circe (⭐374)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
-*   [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - Simple, fast and easy access to multiple IRC networks. `Android`
+*   [Circe (⭐388)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
 
 ### Bots / Self-hosted
 
-*   [BitBot (⭐129)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
-*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐71)](https://github.com/pyhoneybot/honeybot)) `Python`
+*   [BitBot (⭐136)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
+*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐74)](https://github.com/pyhoneybot/honeybot)) `Python`
 
 ### Frameworks / Self-hosted
 
 *   [IRC::Client (⭐14)](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
-*   [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
 
 ### Frameworks / Bridges
 
-*   [toxirc (⭐23)](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
+*   [toxirc (⭐22)](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -71,13 +69,13 @@
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐111)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐114)](https://github.com/TNG/keycloak-mock)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
-*   [go-openai (⭐8.2k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐8.6k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -137,7 +135,7 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐67)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐71)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

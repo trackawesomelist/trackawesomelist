@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [ZoneTree (⭐270)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
+*   [ZoneTree (⭐280)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -41,7 +41,13 @@
     *   [Nova SubQuery API (⭐12)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
-## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### QML / Tornado
+
+*   [Qt6 Book](https://www.qt.io/product/qt6/qml-book/preface-preface) - Johan Thelin, Jürgen Bocklage-Ryannel, Cyril Lorquet (HTML, PDF) *(:construction: in process)*
+
+## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Flow-based programming
 
@@ -51,7 +57,7 @@
 
 *   [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / C/C++
 
@@ -61,13 +67,13 @@
 
 *   [TEALrb (⭐8)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
 *   [vite-tailwind-stimulus-starter (⭐9)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
-## [7. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+## [8. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ### Featured (new releases)
 
@@ -92,23 +98,23 @@
 
 *   [This Awesome List (⭐6)](https://github.com/mga-mirth/awesome-mirth)
 
-## [8. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [9. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration / Community
 
 *   [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
 
-## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Feature Engineering / General
 
 *   [Feature Engine (⭐1.7k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### ORM
 
-*   [bun (⭐3.2k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
+*   [bun (⭐3.5k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
 ---
 

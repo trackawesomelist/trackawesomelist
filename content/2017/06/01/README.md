@@ -16,7 +16,7 @@
 
 ### Template Engine
 
-*   [crinja (⭐118)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
+*   [crinja (⭐121)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

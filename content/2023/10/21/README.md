@@ -6,39 +6,85 @@
 
 
 
-## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Survey on Large Language Models** / **GPT series release date**
+
+*   Microsoft Research Recap
+
+    *   [Research at Microsoft 2023](https://www.microsoft.com/en-us/research/blog/research-at-microsoft-2023-a-year-of-groundbreaking-ai-advances-and-discoveries/): A year of groundbreaking AI advances and discoveries
+
+    <details>
+
+    <summary>Expand</summary>
+
+    *   [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700) \[4 Dec 2023]
+    *   [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)] \[26 Apr 2023]
+    *   [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.12210)] \[24 Apr 2023]
+    *   [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.00234)] \[31 Dec 2022]
+    *   [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.03109)] \[6 Jul 2023]
+    *   [Mitigating Hallucination in LLMs](https://arxiv.org/abs/2401.01313): Summarizes 32 techniques to mitigate hallucination in LLMs \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2401.01313)] \[2 Jan 2024]
+    *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2312.10997)] \[18 Dec 2023]
+    *   [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.13549)] \[23 Jun 2023]
+    *   [SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension](https://arxiv.org/abs/2307.16125): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.16125)] \[30 Jul 2023]
+    *   [Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2202.03629)] \[8 Feb 2022]
+    *   [Hallucination in LLMs](https://arxiv.org/abs/2311.05232):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2311.05232)] \[9 Nov 2023]
+    *   [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.19736)] \[30 Oct 2023]
+    *   [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.07982)] \[16 Jul 2023]
+    *   [An Overview on Language Models: Recent Developments and Outlook](https://arxiv.org/abs/2303.05759):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.05759)] \[10 Mar 2023]
+    *   [Efficient Guided Generation for Large Language Models](https://arxiv.org/abs/2307.09702):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09702)] \[19 Jul 2023]
+    *   [Challenges & Application of LLMs](https://arxiv.org/abs/2306.07303):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.07303)] \[11 Jun 2023]
+    *   [A Survey on LLM-based Autonomous Agents](https://arxiv.org/abs/2308.11432v1):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.11432v1)] \[22 Aug 2023]
+    *   [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.01107)] \[2 Feb 2023]
+    *   [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.15217)] \[27 Jul 2023]
+    *   [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.15647)] \[28 Mar 2023]
+    *   [Survey of Aligned LLMs](https://arxiv.org/abs/2307.12966):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.12966)] \[24 Jul 2023]
+    *   [Survey on Instruction Tuning for LLMs](https://arxiv.org/abs/2308.10792):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.10792)] \[21 Aug 2023]
+    *   [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.03044)] \[8 Jan 2023]
+    *   [Model Compression for LLMs](https://arxiv.org/abs/2308.07633):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.07633)] \[15 Aug 2023]
+    *   [Foundation Models in Vision](https://arxiv.org/abs/2307.13721):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.13721)] \[25 Jul 2023]
+    *   [Multimodal Deep Learning](https://arxiv.org/abs/2301.04856):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.04856)] \[12 Jan 2023]
+    *   [Trustworthy LLMs](https://arxiv.org/abs/2308.05374):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.05374)] \[10 Aug 2023]
+    *   [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.15043)] \[27 Jul 2023]
+    *   [A Survey of LLMs for Healthcare](https://arxiv.org/abs/2310.05694):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.05694)] \[9 Oct 2023]
+    *   [Overview of Factuality in LLMs](https://arxiv.org/abs/2310.07521):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.07521)] \[11 Oct 2023]
+    *   [A Comprehensive Survey of Compression Algorithms for Language Models](https://arxiv.org/abs/2401.15347) \[27 Jan 2024]
+
+    </details>
+
+    <!-- <details>
+
+    <summary>Papers on Large Language Models</summary>
+
+    </details> -->
+
+## [2. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Useful links with tips & tricks
 
 *   [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
-*   [toml11 (⭐947)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐979)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
-## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Clearnet & Anonymous Networking / DNS
 
 *   [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐84)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐87)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐16)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
-
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Algorithms & Data Structures
-
-*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
+*   [niuiic/terminal.nvim (⭐19)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -140,23 +186,23 @@
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Cheatsheet / Testing
-
-*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
-
-### Developer tools / Testing
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
 
-### Editor Components / Testing
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
+
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
 
-### Layout Components / Validation
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
 
-### UI Libraries / General
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 *   [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!

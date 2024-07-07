@@ -29,13 +29,13 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐252)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐299)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐19)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐269)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐297)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Misc Components / Node Based
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
 

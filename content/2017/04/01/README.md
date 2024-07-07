@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [kemal-session (⭐51)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐53)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ## [3. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -162,8 +162,8 @@
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐253)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
-*   [openMAXIMS (⭐59)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
+*   [Odoo Medical (⭐257)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [openMAXIMS (⭐61)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Prescribing
 
@@ -175,7 +175,7 @@
 
 ### Contents / Libraries
 
-*   [Python HL7 (⭐268)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐276)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 
 ### Contents / PHR
 
@@ -191,12 +191,12 @@
 
 ### Contents / Hardware
 
-*   [Gluco (⭐29)](https://github.com/nebulabio/gluco) - Glucometer.
+*   [Gluco (⭐30)](https://github.com/nebulabio/gluco) - Glucometer.
 *   [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐966)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐967)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ---

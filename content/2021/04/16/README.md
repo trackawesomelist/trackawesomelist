@@ -72,7 +72,7 @@
 
 ### External Services
 
-*   [hitokoto-box (⭐9)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
+*   [hitokoto-box (⭐10)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
 ## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

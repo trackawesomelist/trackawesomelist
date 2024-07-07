@@ -20,7 +20,7 @@
 
 ### Official resources
 
-*   [GitHub repo (⭐13k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+*   [GitHub repo (⭐14k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 *   [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 
 ### Tutorials
@@ -76,7 +76,7 @@
 
 ### Cheat sheets
 
-*   [SaltStack Wiki (⭐13k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
+*   [SaltStack Wiki (⭐14k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ### Uncategorized
 

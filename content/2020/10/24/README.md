@@ -28,7 +28,7 @@
 
 ### Table of Contents / NoSQL
 
-*   [Predis (⭐7.5k)](https://github.com/predis/predis) - A feature-complete Redis library.
+*   [Predis (⭐7.6k)](https://github.com/predis/predis) - A feature-complete Redis library.
 
 ### Configuration / Web Applications
 

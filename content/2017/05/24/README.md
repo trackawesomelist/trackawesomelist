@@ -12,13 +12,13 @@
 
 *   [annoy (⭐13k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1.1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
-*   [implicit (⭐3.4k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+*   [implicit (⭐3.5k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [Breep (⭐115)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐135)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

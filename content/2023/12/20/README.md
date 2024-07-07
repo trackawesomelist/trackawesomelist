@@ -10,7 +10,7 @@
 
 ### Tools / Environment managers
 
-*   [tfswitcher (⭐5)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
+*   [tfswitcher (⭐4)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 
 ## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -38,4 +38,4 @@
 ---
 
 - Prev: [Dec 24, 2023](/content/2023/12/24/README.md)
-- Next: [Dec 19, 2023](/content/2023/12/19/README.md)
+- Next: [Dec 18, 2023](/content/2023/12/18/README.md)

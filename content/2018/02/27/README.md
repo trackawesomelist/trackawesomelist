@@ -28,7 +28,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [neonrvm (⭐36)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+*   [neonrvm (⭐37)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

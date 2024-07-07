@@ -10,7 +10,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐390)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐393)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -52,11 +52,6 @@
 *   [semver (⭐2)](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / G companies
-
-*   Google Online Security <https://security.googleblog.com/>
-*   Google Research <https://research.googleblog.com/>
 
 ### Companies / M companies
 

@@ -37,7 +37,7 @@
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐325)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

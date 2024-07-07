@@ -87,14 +87,14 @@
 
 ### Scripts / IRC
 
-*   [ScriptsDev (⭐67)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
+*   [ScriptsDev (⭐68)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) — BLAS bindings
+    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) - BLAS bindings
 
 ---
 

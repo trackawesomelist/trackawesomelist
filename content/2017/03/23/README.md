@@ -78,7 +78,7 @@ git log -S'<a term in the source>'
 
 ### Memory Forensics / Other Resources
 
-*   [WDBGARK (⭐602)](https://github.com/swwwolf/wdbgark) -
+*   [WDBGARK (⭐610)](https://github.com/swwwolf/wdbgark) -
     WinDBG Anti-RootKit Extension.
 
 ## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)

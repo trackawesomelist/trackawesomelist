@@ -10,7 +10,7 @@
 
 ### Software / Vector Creation
 
-*   [cozyvec (⭐70)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+*   [cozyvec (⭐71)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ### Plotter Art For Sale / Patents
 

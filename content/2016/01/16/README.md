@@ -16,17 +16,13 @@
 
 ### Files / Runner
 
-*   [diff2html (⭐2.6k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.8k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / G individuals
 
 *   Gleb Bahmutov <https://glebbahmutov.com/blog/>
-
-### Individuals/Group Contributors / S individuals
-
-*   Simon Reimler <https://devdactic.com/devblog/>
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

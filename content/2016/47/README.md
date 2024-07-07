@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -174,8 +174,8 @@
 
 ### Plugins / IRC
 
-*   [Composer-Bin-Plugin (⭐386)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
-*   [Composer-Inheritance-Plugin (⭐24)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
+*   [Composer-Bin-Plugin (⭐453)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
+*   [Composer-Inheritance-Plugin (⭐28)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 
 ## [5. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
@@ -277,7 +277,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 ### Detection and Classification / Other Resources
 
-*   [File Scanning Framework (⭐282)](https://github.com/EmersonElectricCo/fsf) -
+*   [File Scanning Framework (⭐283)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
 
 ## [15. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
@@ -477,8 +477,8 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐2.8k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
-*   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+*   [TimelineJS v3 (⭐2.9k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ### Notifications / Runner
 
@@ -685,37 +685,31 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / R companies
-
-*   RapidAPI <http://blog.rapidapi.com/>
-
-## [36. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [35. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Videos / Video tutorials
+### Learning Guides / Learning Videos
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [mbedTLS (⭐5k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+*   [HGCircularSlider (⭐2.6k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
-## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [39. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -723,16 +717,16 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐273)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐274)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## [41. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [40. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 *   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 
-## [42. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [41. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Settings
 

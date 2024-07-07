@@ -1,18 +1,12 @@
 # Awesome List Updates on Aug 14, 2016
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / U companies
-
-*   Upday <https://upday.github.io/>
-
-## [2. Tips](/content/git-tips/tips/README.md)
+## [1. Tips](/content/git-tips/tips/README.md)
 
 ## Number of commits in a branch
 
@@ -20,20 +14,20 @@
 git rev-list --count <branch-name>
 ```
 
-## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Misc. Tools
 
 *   [CaTeX (⭐9)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [SHML (⭐437)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
 *   [sudocabulary (⭐160)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

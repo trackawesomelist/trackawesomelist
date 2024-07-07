@@ -78,7 +78,7 @@
 
 ### Testing
 
-*   [microtest (⭐30)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ## [5. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -153,7 +153,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Tools and frameworks
 
-*   [Nightmare (⭐19k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
+*   [Nightmare (⭐20k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
 ### Blog posts
 
@@ -200,7 +200,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Development Utilities
 
-*   [Auto Cache Flush (⭐25)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
+*   [Auto Cache Flush (⭐26)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ## [17. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -320,7 +320,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐44)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐45)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ### Python / General-Purpose Machine Learning
 
@@ -378,7 +378,7 @@ git push -u origin <branch_name>
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐152)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐153)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [32. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -429,7 +429,7 @@ git push -u origin <branch_name>
 ### Web / Playground
 
 *   :octocat: [excaliburjs/Excalibur (⭐1.6k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -457,7 +457,7 @@ git push -u origin <branch_name>
 
 ### Other Tools / Telegram
 
-*   [Datasploit (⭐2.9k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐3k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -476,23 +476,23 @@ git push -u origin <branch_name>
 
 ### UI Automation
 
-*   [Atata (⭐479)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐480)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [Laugh Engine (⭐388)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*   [Laugh Engine (⭐389)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
 *   [TLVulkanRenderer (⭐95)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
-*   [Vulkan-Hpp Samples (⭐325)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*   [Vulkan-Hpp Samples (⭐333)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐293k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [awesome (⭐310k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐2.1k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐13k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*   [awesome-d3d12 (⭐228)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*   [awesome-d3d12 (⭐236)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

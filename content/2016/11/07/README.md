@@ -10,23 +10,19 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐864)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐866)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-### Geolocation
-
-*   [geohax (⭐11)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
-
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / \# companies
-
-*   99designs <https://99designs.com/tech-blog/>
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / Y companies
 
 *   Yammer <https://medium.com/yammer-engineering>
+
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+### Geolocation
+
+*   [geohax (⭐11)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

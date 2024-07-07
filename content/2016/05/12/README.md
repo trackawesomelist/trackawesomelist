@@ -87,7 +87,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐303)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐305)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐325)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
+*   [chess-tui (⭐341)](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [trax (⭐4)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
+*   [trax (⭐6)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

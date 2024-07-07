@@ -28,13 +28,13 @@
 
 ### Samples
 
-*   [Stardust from Intel (⭐115)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐115)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Honeypots
 
-*   [Glastopf (⭐534)](https://github.com/mushorg/glastopf) - Web application honeypot.
+*   [Glastopf (⭐541)](https://github.com/mushorg/glastopf) - Web application honeypot.
 
 ### Open Source Threat Intelligence / Tools
 
@@ -45,12 +45,12 @@
 
 ### Detection and Classification / Other Resources
 
-*   [Detect It Easy(DiE) (⭐6.6k)](https://github.com/horsicq/Detect-It-Easy) - A program for
+*   [Detect It Easy(DiE) (⭐6.9k)](https://github.com/horsicq/Detect-It-Easy) - A program for
     determining types of files.
 
 ### Domain Analysis / Other Resources
 
-*   [MaltegoVT (⭐76)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
+*   [MaltegoVT (⭐77)](https://github.com/michael-yip/MaltegoVT) - Maltego transform
     for the VirusTotal API. Allows domain/IP research, and searching for file
     hashes and scan reports.
 
@@ -104,7 +104,7 @@
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐764)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐767)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -116,8 +116,8 @@
 
 ### PHP / Misc
 
-*   [SteamAuthentication (⭐443)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
-*   [SteamAuthOOP (⭐36)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
+*   [SteamAuthentication (⭐446)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
+*   [SteamAuthOOP (⭐37)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 
 ### Objective-C / Misc
 
@@ -125,7 +125,7 @@
 
 ### Standalone Tools / Misc
 
-*   [SteamDesktopAuthenticator (⭐2.6k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+*   [SteamDesktopAuthenticator (⭐3.2k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 
 ### Discussion Boards / Misc
 

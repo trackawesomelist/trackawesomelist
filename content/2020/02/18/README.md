@@ -8,10 +8,6 @@
 
 ## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Individuals/Group Contributors / G individuals
-
-*   Glenn Engstrand <http://glennengstrand.info>
-
 ### Individuals/Group Contributors / S individuals
 
 *   Schakko <https://schakko.de>
@@ -26,7 +22,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐181)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐184)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -108,7 +104,7 @@
 
 ## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 

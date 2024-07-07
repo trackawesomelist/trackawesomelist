@@ -79,7 +79,6 @@
 ### Other Tools / Telegram
 
 *   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
-    urls and other data effortlessly
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -91,7 +90,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐907)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐909)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ---
 

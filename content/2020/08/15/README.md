@@ -18,7 +18,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐22)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐24)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Deobfuscation / Other Resources
 
-*   [PyInstaller Extractor (⭐2.5k)](https://github.com/extremecoders-re/pyinstxtractor) -
+*   [PyInstaller Extractor (⭐2.6k)](https://github.com/extremecoders-re/pyinstxtractor) -
     A Python script to extract the contents of a PyInstaller generated Windows
     executable file. The contents of the pyz file (usually pyc files) present
     inside the executable are also extracted and automatically fixed so that a
@@ -69,7 +69,7 @@
     This is a plugin for OllyDbg, Immunity Debugger, IDA Pro, WinDbg, and x64dbg.
 *   [Scylla Imports Reconstructor (⭐1k)](https://github.com/NtQuery/Scylla) - Find and fix
     the IAT of an unpacked / dumped PE32 malware.
-*   [ScyllaHide (⭐3.2k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
+*   [ScyllaHide (⭐3.3k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
 
 ## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)

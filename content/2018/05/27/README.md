@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,13 +81,7 @@
 
 *   [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
-
-### Tools / Playground
-
-*   [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
-
-## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Forums
 
@@ -96,7 +90,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐6.4k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐6.7k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance
@@ -105,11 +99,11 @@
 
 ### Mods / Skins And Capes
 
-*   [Universal Skin Mod (⭐28)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
+*   [Universal Skin Mod (⭐26)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Softwares / Utilities
 
-*   [Minecraft Command Helper (⭐24)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
+*   [Minecraft Command Helper (⭐25)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 
 ### Development / Launchers
 

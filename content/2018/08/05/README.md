@@ -8,28 +8,28 @@
 
 ## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
-### Automation / Code libraries and bindings
+### Automation and Convention / Code libraries and bindings
 
-*   [Posh-VirusTotal (⭐110)](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
+*   [Posh-VirusTotal (⭐113)](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
 
 ### Incident Response tools / IR management consoles
 
-*   [CIRTKit (⭐139)](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
+*   [CIRTKit (⭐141)](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
 
 ### Security monitoring / Service and performance monitoring
 
-*   [osquery (⭐21k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
+*   [osquery (⭐22k)](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
 
 ### Threat intelligence / Threat hunting
 
-*   [Forager (⭐166)](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
+*   [Forager (⭐167)](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 *   [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - Open source software solution for collecting, storing, distributing and sharing cyber security indicators.
 *   [Viper (⭐1.5k)](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [HardenTools (⭐2.7k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
-*   [WMI Monitor (⭐120)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
+*   [HardenTools (⭐2.9k)](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
+*   [WMI Monitor (⭐122)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Packages / Command-line apps
 
-*   [bcat (⭐339)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Build tools
 
@@ -35,7 +35,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐59)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐70)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ---
 

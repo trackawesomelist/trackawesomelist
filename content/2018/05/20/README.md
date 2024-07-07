@@ -26,12 +26,12 @@
 
 ### Assembly Manipulation
 
-*   [Fody (⭐4.2k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+*   [Fody (⭐4.3k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
 *   [ILRepack (⭐1.1k)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
-*   [Gui.cs (⭐9.2k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐9.4k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

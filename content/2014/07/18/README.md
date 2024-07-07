@@ -16,7 +16,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Figaro (⭐754)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐756)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Logging
 
-*   [Serilog (⭐7k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐7.1k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

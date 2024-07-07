@@ -30,7 +30,7 @@ git clean -X -f
 
 ### Testing
 
-*   [power\_assert (⭐212)](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
+*   [power\_assert (⭐214)](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 
 ---
 

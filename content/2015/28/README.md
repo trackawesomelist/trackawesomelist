@@ -26,7 +26,7 @@
 
 ### Packages / Testing
 
-*   [navit (⭐47)](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
+*   [navit (⭐48)](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Menu / Other
 
-*   [Slideout (⭐8k)](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
+*   [Slideout (⭐7.9k)](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 *   [Slide and swipe (⭐139)](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
 ## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
@@ -267,10 +267,6 @@
 
 ## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
-### Companies / L companies
-
-*   Laterooms <http://engineering.laterooms.com/>
-
 ### Companies / S companies
 
 *   Speedledger <http://engineering.speedledger.com/>
@@ -294,10 +290,6 @@
 ### Individuals/Group Contributors / M individuals
 
 *   Mike Fogus <http://blog.fogus.me/>
-
-### Individuals/Group Contributors / T individuals
-
-*   That Thing In Swift <https://thatthinginswift.com/>
 
 ---
 

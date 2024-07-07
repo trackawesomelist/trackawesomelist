@@ -22,11 +22,11 @@
 
 ### Development tools / IDEs
 
-*   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
-    *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐776)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
-    *   [vim-racer (⭐628)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
+*   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
+    *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [crates.nvim (⭐791)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+    *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Libraries and frameworks / Monitoring
 
-*   [node-dmx (⭐231)](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
+*   [node-dmx (⭐293)](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### Libraries and frameworks / ArtNet Libraries
 
-*   [artnet4j (⭐71)](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
+*   [artnet4j (⭐93)](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
 
 ### Graphics / ArtNet Libraries
 
@@ -129,7 +129,7 @@
 
 ### Modules / Web utils
 
-*   [ts-prometheus (⭐31)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+*   [ts-prometheus (⭐32)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -145,13 +145,13 @@
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐140)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐144)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Shopify (⭐457)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐254)](https://github.com/Shopify/javascript).
+*   [Shopify (⭐461)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐253)](https://github.com/Shopify/javascript).
 
 ### Plugins / Compatibility
 
@@ -159,7 +159,7 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [boundaries (⭐456)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
+*   [boundaries (⭐474)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
 
 ---
 

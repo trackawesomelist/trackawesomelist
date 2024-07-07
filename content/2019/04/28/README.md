@@ -187,7 +187,7 @@
 
 ### Packages / Command-line apps
 
-*   [ESLint (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+*   [ESLint (⭐25k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 
 ### Packages / Functional programming
 
@@ -200,7 +200,7 @@
 
 ### Packages / Web frameworks
 
-*   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
+*   [Hapi (⭐15k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐35k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 *   [Express (⭐64k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 *   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
@@ -214,15 +214,15 @@
 ### Packages / Testing
 
 *   [AVA (⭐21k)](https://github.com/avajs/ava) - Futuristic test runner.
-*   [Mocha (⭐22k)](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
+*   [Mocha (⭐23k)](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.9k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐3k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐345)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐347)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -234,7 +234,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐493)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐499)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -266,11 +266,11 @@
 
 ### Applications
 
-*   [Herd (⭐109)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
+*   [Herd (⭐109)](https://github.com/imjacobclark/Herd) - an experimental HTTP load testing application
 
 ### Applications / Productivity
 
-*   [eureka](https://crates.io/crates/eureka) — A CLI tool to input and store your ideas without leaving the terminal
+*   [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

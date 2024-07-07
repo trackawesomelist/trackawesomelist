@@ -36,7 +36,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐1k)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐377)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐1k)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐378)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -73,7 +73,7 @@
 
 ### editors & viewers
 
-*   [geojson2image (⭐12)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
+*   [geojson2image (⭐13)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
 ---
 

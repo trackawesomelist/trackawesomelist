@@ -12,7 +12,7 @@
 
 - ☆: ★★☆
 
-  Name: [演算法筆記 (Algorithm Notes) (Chinese)](http://web.ntnu.edu.tw/\~algo/)
+  Name: [演算法筆記 (Algorithm Notes) (Chinese)](http://web.ntnu.edu.tw/~algo/)
 
   Description: One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms.
 
@@ -73,7 +73,7 @@
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐1.3k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐1.4k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

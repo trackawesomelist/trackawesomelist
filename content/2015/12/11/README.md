@@ -18,7 +18,7 @@
 
 ### Authentication
 
-*   [ueberauth\_twitter (⭐35)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
+*   [ueberauth\_twitter (⭐36)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 
 ### Build Tools
 
@@ -26,7 +26,7 @@
 
 ### Caching
 
-*   [lru\_cache (⭐36)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+*   [lru\_cache (⭐37)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 
 ### Examples and funny stuff
 
@@ -51,11 +51,11 @@
 
 ### ORM and Datamapping
 
-*   [ets\_map (⭐7)](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
+*   [ets\_map (⭐8)](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
 
 ### OTP
 
-*   [erlexec (⭐515)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐520)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -72,7 +72,7 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐50)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐51)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐988)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐993)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -102,7 +102,7 @@
 
 ### Network / Barcode
 
-*   [ResponseDetective (⭐1.9k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+*   [ResponseDetective (⭐2k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
 
 ### UI / Barcode
 

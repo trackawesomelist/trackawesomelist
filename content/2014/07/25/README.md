@@ -10,7 +10,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐192)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐193)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Package Managers
 
-*   [spm (⭐905)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐904)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### Editors / Runner
 
@@ -45,7 +45,7 @@
 
 ### Control Flow / Runner
 
-*   [contra (⭐772)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐773)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 

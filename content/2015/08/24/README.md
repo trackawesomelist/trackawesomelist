@@ -10,8 +10,8 @@
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Hatch.js (⭐74)](https://github.com/inventures/hatchjs) - CMS platform with social features.
-*   [TaracotJS (⭐19)](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
+*   [Hatch.js (⭐72)](https://github.com/inventures/hatchjs) - CMS platform with social features.
+*   [TaracotJS (⭐18)](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -53,8 +53,8 @@
     *   [httmock (⭐463)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
     *   [httpretty (⭐2.1k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐272)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    *   [responses (⭐4k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+    *   [mocket (⭐277)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [responses (⭐4.1k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.6k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)

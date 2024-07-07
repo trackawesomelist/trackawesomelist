@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2016
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -526,19 +526,25 @@ Free
 
 *   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Web apps in Go, the anti textbook (⭐3.2k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐976)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐979)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
-## [34. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [35. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cryptography
 
@@ -552,9 +558,9 @@ Free
 
 ### Translations and Internationalizations
 
-*   [trans (⭐226)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐227)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Essentials
 
@@ -631,7 +637,7 @@ Free
 
 *   Make sure the Travis tests pass on your pull request
 
-## [37. Amas](/content/sindresorhus/amas/week/README.md)
+## [38. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -640,7 +646,7 @@ Free
 *   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 *   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating stuff at bullgit.
 
-## [38. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [39. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Editors
 
@@ -656,7 +662,7 @@ Free
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -664,8 +670,8 @@ Free
 
 ### Misc
 
-*   [Aeron.NET (⭐474)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐287)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐480)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐289)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ### Serialization
 
@@ -673,15 +679,15 @@ Free
 
 ### Source Generator
 
-*   [Awesome .NET Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐20k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
-## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
+*   [crystal-linked-list (⭐13)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [42. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Videos
 
@@ -691,7 +697,7 @@ Free
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [42. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [43. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Progressive web apps / Service Workers
 
@@ -701,19 +707,19 @@ Free
 
 *   [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 
-## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
 *   [SwiftLearner (⭐39)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
 *   [fecha (⭐2.1k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
-## [45. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [46. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -723,36 +729,32 @@ Free
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
-## [46. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [47. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Bots
 
 *   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 *   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
-## [47. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [48. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Legacy
 
 *   [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) \[2016]
 
-## [48. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / Z companies
-
-*   ZeeMee <https://zeemee.engineering/>
+## [49. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
 *   Ariejan de Vroom <https://ariejan.net/>
 
-## [49. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [50. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
 *   [findatapy (⭐1.6k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
-## [50. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [51. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -762,13 +764,13 @@ Free
 
 *   [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 
-## [51. Bots](/content/hackerkid/bots/week/README.md)
+## [52. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

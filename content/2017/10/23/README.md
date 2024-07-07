@@ -45,7 +45,7 @@
 
 ### HTTP
 
-*   [crest (⭐230)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐233)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

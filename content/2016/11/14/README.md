@@ -28,7 +28,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Documents and Shellcode / Other Resources
 
-*   [box-js (⭐595)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
+*   [box-js (⭐606)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
 ## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

@@ -30,7 +30,30 @@
 
 *   [SpaceVim](https://spacevim.org/layers/lang/groovy/) - SpaceVim `lang#groovy` layer
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+### Internet and Networking
+
+*   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
+
+### Utilities
+
+*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
+
+### Windows / Design Tooling
+
+*   [PaperWM (⭐2.8k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+
+### Services integration / Design Tooling
+
+*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+
+### Icons / Upstream Style
+
+*   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
@@ -39,82 +62,6 @@
 ### Coding Style Tools
 
 *   [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
-
-## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Internet and Networking
-
-*   [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
-*   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-*   [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-
-### Office
-
-*   [Foliate (⭐5.1k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Marker (⭐822)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
-
-### Productivity and Time
-
-*   [GTimeLog (⭐249)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
-*   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
-*   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
-
-### Multimedia
-
-*   [Celluloid (⭐1k)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
-
-### Graphics
-
-*   [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
-
-### Gaming
-
-*   [Lutris (⭐7.4k)](https://github.com/lutris/lutris) - Open Source gaming platform.
-
-### System and Customization
-
-*   [Tilix (⭐5.3k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-
-### Utilities
-
-*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-*   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
-*   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
-
-### Docks and Panels / Design Tooling
-
-*   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
-
-### Menus / Design Tooling
-
-*   [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-*   [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
-
-### Applets / Design Tooling
-
-*   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
-*   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
-
-### Windows / Design Tooling
-
-*   [PaperWM (⭐2.7k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Services integration / Design Tooling
-
-*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
-
-### Icons / Upstream Style
-
-*   [GNOME++ (⭐159)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐198)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
-
-### Cursors / Skeumorphic Icons
-
-*   [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
-
-### Official Venues / Skeumorphic Icons
-
-*   [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -130,7 +77,7 @@
 
 ### Tools
 
-*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐514)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

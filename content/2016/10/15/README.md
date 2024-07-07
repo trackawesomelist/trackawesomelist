@@ -38,9 +38,9 @@
 
 ### PHP / Misc
 
-*   [steam-api (⭐79)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
-*   [steamid (⭐8)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
-*   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
+*   [steam-api (⭐81)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
+*   [steamid (⭐9)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+*   [steam-totp (⭐22)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

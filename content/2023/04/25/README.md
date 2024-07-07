@@ -28,7 +28,7 @@
 
 ### Project Layout
 
-*   [go-module (⭐27)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐29)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Packages / Apps
 
-*   [Audio-motion interface (⭐38)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
+*   [Audio-motion interface (⭐42)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

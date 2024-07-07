@@ -56,13 +56,9 @@ git var -l | <variable>
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
-### Media Players
-
-*   [Media4DPlayer (⭐4)](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
-
 ### Subtitling
 
-*   [imscJS (⭐78)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐83)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

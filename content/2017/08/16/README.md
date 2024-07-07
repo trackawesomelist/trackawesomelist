@@ -41,7 +41,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.4k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.5k)](https://github.com/pest-parser/pest) - The Elegant Parser
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -76,45 +76,20 @@
 
 ### Multimedia
 
-*   [Vocal (⭐347)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-*   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-
-### Graphics
-
-*   [Coulr (⭐40)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-
-### System and Customization
-
-*   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-
-### Applets / Design Tooling
-
-*   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
-*   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
+*   [Vocal (⭐350)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.3k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
 *   [La Capitaine (⭐1.9k)](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
-### Icons / Homogeneous Icons
-
-*   [Obsidian (⭐181)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐266)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
-
-### Documentations / Skeumorphic Icons
-
-*   [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
-*   [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
-*   [Valadoc](https://valadoc.org/) - Documentation about Vala.
-*   [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
+*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

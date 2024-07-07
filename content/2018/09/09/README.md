@@ -48,7 +48,7 @@
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
     [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
     [Docs](https://jenil.github.io/chota/#docs),
-    [Repo (⭐1.3k)](https://github.com/jenil/chota)
+    [Repo (⭐1.4k)](https://github.com/jenil/chota)
     \| #CSS
 
 ### General Purpose

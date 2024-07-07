@@ -22,16 +22,16 @@
 
 ### Object formatting
 
-*   [immutable-devtools (⭐648)](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
+*   [immutable-devtools (⭐661)](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
 ### CPU profile
 
-*   [call-trace (⭐30)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
-*   [cpuprofilify (⭐166)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
+*   [call-trace (⭐33)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+*   [cpuprofilify (⭐167)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 
 ### Multimedia
 
-*   [snapline (⭐391)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
+*   [snapline (⭐393)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
 
 ### Timeline, Tracing & Profiling
 

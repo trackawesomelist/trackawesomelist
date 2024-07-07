@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,14 +10,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Low-Code (⭐348)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐674)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Vue-Low-Code (⭐351)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
+*   [Figma-Low-Code (⭐675)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
-*   [nbQA (⭐944)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+*   [nbQA (⭐991)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -93,28 +93,38 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [LockLab's Lock Picking Course](https://locklab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Haskell / Spock Framework
+
+*   [Wise Man's Haskell (⭐48)](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) - Andre Popovitch
+
+### Ruby / Ruby on Rails
+
+*   [Api on Rails 6 (⭐363)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity / Directory Navigation
 
 *   [zpyi (⭐101)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [11. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 
-*   [Mastering Python for Finance (⭐311)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
+*   [Mastering Python for Finance (⭐380)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ### High Frequency Trading
 
 *   [High-Frequency-Trading-Model-with-IB (⭐2.4k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### People Investigations / Telegram
 
-*   [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 *   [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+*   [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 *   [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
 *   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
@@ -127,10 +137,10 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
 *   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
 *   [Kompass](http://www.kompass.com) - Business directory and search.
-*   [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 *   [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 *   [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
 *   [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+*   [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 *   [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 
 ### Company Research / Telegram
@@ -139,7 +149,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 *   [Forbes Global 2000](http://www.forbes.com/global2000/)
 
-## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Benchmark - JavaScript / Meetups
 

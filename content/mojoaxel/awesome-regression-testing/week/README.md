@@ -2,15 +2,25 @@
 
 🕶️ A curated list of resources around the topic: visual regression testing
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mojoaxel/awesome-regression-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) · ⭐ 2K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mojoaxel/awesome-regression-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) · ⭐ 2.1K · 🏷️ Testing
 
 [ [Daily](/content/mojoaxel/awesome-regression-testing/README.md) / Weekly / [Overview](/content/mojoaxel/awesome-regression-testing/readme/README.md) ]
+
+## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+
+### Tools and frameworks
+
+*   [Happo (⭐196)](https://github.com/happo/happo.io) - Visual diffing in CI for user interfaces.
+
+### Online services
+
+*   [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Online services
 
-*   [Testomat.io Reporter (⭐81)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
+*   [Testomat.io Reporter (⭐113)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
@@ -34,7 +44,7 @@
 
 ### Tools and frameworks
 
-*   [Lost Pixel (⭐1.1k)](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
+*   [Lost Pixel (⭐1.3k)](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
 
 ### Blog posts
 
@@ -61,7 +71,7 @@
 
 ### Tools and frameworks
 
-*   [Touca (⭐453)](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
+*   [Touca (⭐489)](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -92,7 +102,7 @@
 
 ### Tools and frameworks
 
-*   [jest-image-snapshot (⭐3.7k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
+*   [jest-image-snapshot (⭐3.8k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
@@ -104,7 +114,7 @@
 
 ### Tools and frameworks
 
-*   [OSnap (⭐137)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
+*   [OSnap (⭐147)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
@@ -116,13 +126,13 @@
 
 ### Online services
 
-*   [Micoo (⭐180)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+*   [Micoo (⭐189)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
 ### Tools and frameworks
 
-*   [Creevey (⭐376)](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
+*   [Creevey (⭐386)](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
@@ -140,7 +150,7 @@
 
 ### Tools and frameworks
 
-*   [Selenide (⭐1.7k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
+*   [Selenide (⭐1.8k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -152,29 +162,29 @@
 
 ### Deprecated
 
-*   [PhantomFlow (⭐685)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐278)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐619)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.4k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium).
+*   [PhantomFlow (⭐682)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐276)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [WebdriverCSS (⭐616)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
 ### Deprecated
 
-*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
+*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 *   [OcularJS (⭐7)](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs).
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### Online services
 
-*   [Visual Regression Tracker (⭐541)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
+*   [Visual Regression Tracker (⭐579)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
 ### Tools and frameworks
 
-*   [Playwright (⭐57k)](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -233,7 +243,7 @@
 
 ### Tools and frameworks
 
-*   [test-crawler (⭐28)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
+*   [test-crawler (⭐31)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
 ## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
 
@@ -246,7 +256,7 @@
 
 ### Tools and frameworks
 
-*   [jest-puppeteer-react (⭐71)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+*   [jest-puppeteer-react (⭐72)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 
@@ -268,18 +278,17 @@
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐190)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐203)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [Sep 10 - Sep 16, 2018](/content/2018/37/README.md)
 
 ### Tools and frameworks
 
-*   [Happo (⭐504)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
-*   [Wendigo (⭐147)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
-*   [Loki (⭐1.7k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
-*   [CodeceptJS (⭐4k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐569)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
-*   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
+*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
+*   [CodeceptJS (⭐4.1k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
+*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 
 ### Online services
@@ -300,7 +309,7 @@
 
 ### Tools and frameworks
 
-*   [reg-cli (⭐317)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
+*   [reg-cli (⭐343)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 
 ### Slideshows, talks and videos
 
@@ -311,7 +320,7 @@
 ### Tools and frameworks
 
 *   [ember-visual-test (⭐25)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
-*   [AET (⭐136)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+*   [AET (⭐142)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
 ## [Apr 16 - Apr 22, 2018](/content/2018/16/README.md)
 
@@ -329,7 +338,7 @@
 
 ### Tools and frameworks
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐85k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Online services
 
@@ -340,23 +349,23 @@
 ### Tools and frameworks
 
 *   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐629)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐85k)](https://github.com/GoogleChrome/puppeteer).
-*   [ResembleJS (⭐4.4k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
+*   [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
+*   [ResembleJS (⭐4.5k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐629)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ### Deprecated
 
-*   [PhantomCSS (⭐4.7k)](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-*   [DalekJS (⭐698)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
+*   [DalekJS (⭐695)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
 ### Tools and frameworks
 
-*   [Chimp (⭐796)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐797)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [Dec 11 - Dec 17, 2017](/content/2017/50/README.md)
 
@@ -374,7 +383,7 @@
 
 ### Tools and frameworks
 
-*   [Puppeteer (⭐85k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
+*   [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 
 ## [Oct 09 - Oct 15, 2017](/content/2017/41/README.md)
 
@@ -391,18 +400,18 @@
 
 ### Browser automation
 
-*   [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+*   [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐8.4k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
 ### Tools and frameworks
 
-*   [gatling (⭐53)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [gatling (⭐55)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 *   [vrtest (⭐14)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
 ### Online services
 
-*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 *   [screener.io](https://screener.io) - For React, looks open source.
 *   [applitools](https://applitools.com) - Cloud base visual tests.
 *   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
@@ -422,7 +431,7 @@
 
 ### Tools and frameworks
 
-*   [Nightmare (⭐19k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
+*   [Nightmare (⭐20k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
 ### Blog posts
 
@@ -437,15 +446,15 @@
 ### Tools and frameworks
 
 *   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
-*   [BackstopJS (⭐6.5k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
-*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium).
-*   [CSSCritic (⭐482)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
+*   [BackstopJS (⭐6.7k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
+*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
+*   [CSSCritic (⭐484)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 *   [Spectre (⭐458)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐37)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐320)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐591)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐275)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Shoov (⭐38)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Hardy (⭐322)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+*   [Needle (⭐590)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [grunt-photobox (⭐276)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 
 ### Blog posts
 
@@ -456,9 +465,9 @@
 
 ### Deprecated
 
-*   [trifleJS (⭐828)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [trifleJS (⭐826)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 *   [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐963)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [Navalia (⭐957)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 

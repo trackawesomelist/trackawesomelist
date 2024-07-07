@@ -2,7 +2,7 @@
 
 🧂 A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 488 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 512 · 🏷️ Miscellaneous
 
 [ [Daily](/content/hbokh/awesome-saltstack/README.md) / Weekly / [Overview](/content/hbokh/awesome-saltstack/readme/README.md) ]
 
@@ -36,11 +36,11 @@
 *   [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
 *   [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
 *   [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
-*   [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
+*   [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running.
 
 ### Tutorials
 
-*   [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
+*   [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
 
 ### Books
 
@@ -64,7 +64,7 @@
 
 ### Formulas
 
-*   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
+*   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas.
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Cheat sheets
 
-*   [SaltStack Cheat Sheet Plus (⭐31)](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
+*   [SaltStack Cheat Sheet Plus (⭐33)](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
 
 ### Attic
 
@@ -123,18 +123,18 @@
 
 ### Blogposts and opinions
 
-*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
+*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux.
 
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
 
 ### Official resources
 
-*   [Salt Module Contributions (⭐173)](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
+*   [Salt Module Contributions (⭐169)](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ### Integrations
 
 *   [Jenkins Salt API Plugin](https://plugins.jenkins.io/saltstack/) - This plugin sends a SaltStack API message as a build step.
-*   [Rundeck (⭐7)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
+*   [Rundeck (⭐8)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
@@ -177,19 +177,19 @@
 
 ### Tools
 
-*   [ISalt (⭐62)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
+*   [ISalt (⭐66)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
 ### Tools
 
-*   [salt-lint (⭐121)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
+*   [salt-lint (⭐150)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
 ### Code
 
-*   [valentin2105/Kubernetes-Saltstack (⭐204)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
+*   [valentin2105/Kubernetes-Saltstack (⭐206)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 
 ### Tools
 
@@ -199,7 +199,7 @@
 
 ### Tools
 
-*   [salt-sproxy (⭐102)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
+*   [salt-sproxy (⭐115)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
 
 ## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
 
@@ -246,7 +246,6 @@
 
 ### Official resources
 
-*   [SaltStack site](https://www.saltstack.com/) - Company website.
 *   [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 
 ### Tutorials
@@ -255,7 +254,7 @@
 
 ### Tools
 
-*   [SaltGUI (⭐386)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+*   [SaltGUI (⭐499)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 
 ### Community
 
@@ -308,7 +307,7 @@
 
 ### Official resources
 
-*   [GitHub repo (⭐13k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+*   [GitHub repo (⭐14k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 *   [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 
 ### Tutorials
@@ -364,7 +363,7 @@
 
 ### Cheat sheets
 
-*   [SaltStack Wiki (⭐13k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
+*   [SaltStack Wiki (⭐14k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ### Uncategorized
 

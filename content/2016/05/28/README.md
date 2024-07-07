@@ -16,7 +16,7 @@
 
 ### CLI Builders
 
-*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 

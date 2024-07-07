@@ -209,7 +209,7 @@
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐1.5k)](https://github.com/harlanc/xiu) — A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐1.6k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -243,17 +243,17 @@
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Components & Libraries / UI Components
+### Components & Libraries / Frameworks
 
-*   [vue-timer-hook (⭐169)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [Materio-vuetify-vuejs-admin-template-free (⭐759)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
 ### Components & Libraries / UI Layout
 
 *   [simple-vue-grid (⭐3)](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
 
-### Components & Libraries / Frameworks
+### Components & Libraries / UI Components
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐750)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [vue-timer-hook (⭐169)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

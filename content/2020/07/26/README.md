@@ -165,10 +165,10 @@
 
 ### Deprecated
 
-*   [PhantomFlow (⭐685)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐278)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐619)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.4k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium).
+*   [PhantomFlow (⭐682)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐276)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [WebdriverCSS (⭐616)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
 
 ## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

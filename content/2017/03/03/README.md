@@ -29,7 +29,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐527)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐531)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Tools
 
-*   [chrome-store-api (⭐26)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+*   [chrome-store-api (⭐28)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 
 ### Testing
 
-*   [sinon-chrome (⭐428)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+*   [sinon-chrome (⭐434)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 
 ---
 

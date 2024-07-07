@@ -19,11 +19,11 @@
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐689)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐690)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 
-*   [meck (⭐808)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐811)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 

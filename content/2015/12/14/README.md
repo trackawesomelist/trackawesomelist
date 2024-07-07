@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐39)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐40)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐707)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐704)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

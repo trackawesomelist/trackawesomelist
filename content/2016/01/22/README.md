@@ -30,7 +30,7 @@
 
 *   [Malware Samples and Traffic](http://malware-traffic-analysis.net/) - This
     blog focuses on network traffic related to malware infections.
-*   [RPISEC Malware Analysis (⭐3.6k)](https://github.com/RPISEC/Malware) - These are the
+*   [RPISEC Malware Analysis (⭐3.7k)](https://github.com/RPISEC/Malware) - These are the
     course materials used in the Malware Analysis course at at Rensselaer Polytechnic
     Institute during Fall 2015.
 

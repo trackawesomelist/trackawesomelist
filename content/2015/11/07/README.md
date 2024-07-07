@@ -28,7 +28,7 @@
 
 ### API Builder and Discovery
 
-*   [Her (⭐2k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
+*   [Her (⭐2.1k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 
 ### CLI Utilities
 

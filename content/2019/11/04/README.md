@@ -22,7 +22,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐793)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐796)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -142,11 +142,11 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐4.4k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐4.5k)](https://github.com/timofurrer/awesome-asyncio)
 
 ### Network Virtualization
 
-*   [pox (⭐612)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐616)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -154,19 +154,19 @@
 
 ### Task Queues
 
-*   [huey (⭐4.9k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐876)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐9.5k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐5k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐875)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐9.6k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### WebSocket
 
-*   [channels (⭐5.9k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [channels (⭐6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+*   [websockets (⭐5.1k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
 *   [waitress (⭐1.4k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.5k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [werkzeug (⭐6.6k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [phishing\_catcher (⭐1.6k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+*   [phishing\_catcher (⭐1.7k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
 ## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

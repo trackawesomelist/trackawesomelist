@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [Stack-in-a-box/triumphmayflowerclub.com (⭐6)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
+*   [Stack-in-a-box/triumphmayflowerclub.com (⭐6)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible setup instructions. Includes many common elements found in other beautiful READMEs.
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Computer Vision
 
-*   [pytesseract (⭐5.5k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [pytesseract (⭐5.6k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

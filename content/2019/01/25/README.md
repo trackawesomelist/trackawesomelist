@@ -44,7 +44,7 @@
 
 ### Apps
 
-*   [vkQuake2 (⭐860)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
+*   [vkQuake2 (⭐890)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
 *   [q2vkpt (⭐948)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
@@ -109,10 +109,6 @@
 
 *   Ebay <https://www.ebayinc.com/stories/blogs/tech/>
 
-### Companies / H companies
-
-*   Hasura <https://blog.hasura.io/>
-
 ### Companies / S companies
 
 *   Stackshare <https://stackshare.io/feed>
@@ -130,7 +126,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐131)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐132)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

@@ -246,11 +246,11 @@
 *   [AidData](http://aiddata.org)
 *   [AWS Public Datasets](http://aws.amazon.com/datasets)
 *   [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
-*   [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 *   [Berkely Library: Data Lab](http://www.lib.berkeley.edu/libraries/data-lab)
-*   [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
+*   [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 *   [Center for International Earth Science Information Network](http://www.ciesin.org)
 *   [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
+*   [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 *   [Data.gov.uk](https://data.gov.uk)
 *   [DBPedia](http://wiki.dbpedia.org)
 *   [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -263,13 +263,13 @@
 *   [Government of Canada Open Data](http://open.canada.ca/en)
 *   [HIS Piers](https://www.ihs.com/products/piers.html)
 *   [Human Development Reports](http://hdr.undp.org/en/global-reports)
-*   [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
-*   [International Trade Center](http://www.intracen.org/ByCountry.aspx)
-*   [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569\&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 *   [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
+*   [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569\&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 *   [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 *   [Index Mundi](http://www.indexmundi.com)
 *   [International Energy Agency Statistics](http://www.iea.org/statistics)
+*   [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
+*   [International Trade Center](http://www.intracen.org/ByCountry.aspx)
 *   [Junar](http://junar.com)
 *   [LandMatrix](http://landmatrix.org)
 *   [Latinobarometro](http://www.latinobarometro.org)
@@ -292,25 +292,25 @@
 *   [Trading Economics](http://www.tradingeconomics.com)
 *   [Transparency.org Corruption Perception Index](http://www.transparency.org/cpi2015)
 *   [UN COMTRADE Database](http://comtrade.un.org)
+*   [UN Data](http://data.un.org)
 *   [UNCTAD Country Fact Sheets](http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx)
 *   [UNCTAD Investment Country Profiles](http://unctad.org/en/Pages/Publications/Investment-country-profiles.aspx)
 *   [UNCTAD STAT](http://unctadstat.unctad.org)
-*   [UN Data](http://data.un.org)
 *   [UNDPs Human Development Index](http://hdr.undp.org/en/data)
 *   [UNECE](http://w3.unece.org/PXWeb/en)
 *   [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html)
 *   [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
 *   [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
 *   [US Data and Statistics](https://www.usa.gov/statistics)
+*   [Vizala](https://vizala.com)
 *   [WHO Data](http://www.who.int/gho/en)
-*   [World Bank Data](http://datatopics.worldbank.org/consumption/home)
 *   [World Bank Data](http://data.worldbank.org)
+*   [World Bank Data](http://datatopics.worldbank.org/consumption/home)
 *   [World Bank Doing Business](http://www.doingbusiness.org)
 *   [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
 *   [World Bank Investing Across Borders](http://iab.worldbank.org)
 *   [World Integrated Trade Solution](http://wits.worldbank.org)
 *   [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
-*   [Vizala](https://vizala.com)
 
 ### Visual Search and Clustering Search Engines
 
@@ -380,15 +380,15 @@
 *   [Buffer](https://buffer.com)
 *   [Geocreepy](http://www.geocreepy.com)
 *   [Geofeedia](https://geofeedia.com)
-*   [Hootsuite](http://hootsuite.com)
 *   [Hashtatit](http://www.hashatit.com)
+*   [Hootsuite](http://hootsuite.com)
 *   [Klear](http://klear.com)
 *   [MustBePresent](http://mustbepresent.com)
 *   [OpinionCrawl](http://www.opinioncrawl.com)
 *   [Rival IQ](https://www.rivaliq.com)
-*   [SocialBakers](http://www.socialbakers.com)
 *   [Social DownORNot](http://social.downornot.com)
 *   [Social Searcher](http://www.social-searcher.com)
+*   [SocialBakers](http://www.socialbakers.com)
 *   [Tagboard](https://tagboard.com)
 *   [Trackur](http://www.trackur.com)
 *   [UVRX](http://www.uvrx.com/social.html)
@@ -438,7 +438,6 @@
 ### Social Media Tools / Twitter
 
 *   [Foller.me](http://foller.me)
-*   [HappyGrumpy](https://www.happygrumpy.com)
 *   [OneMillionTweetMap](http://onemilliontweetmap.com)
 *   [RiteTag](https://ritetag.com)
 *   [Sentiment140](http://www.twittersentiment.appspot.com)
@@ -455,19 +454,17 @@
 
 ### Social Media Tools / Facebook
 
-*   [Agora Pulse](http://barometer.agorapulse.com)
-*   [Fanpage Karma](http://www.fanpagekarma.com)
 *   [Facebook Search](http://search.fb.com/)
-*   [Fb-sleep-stats (⭐1.6k)](https://github.com/sqren/fb-sleep-stats)
-*   [Lookup-ID.com](https://lookup-id.com)
+*   [Fanpage Karma](http://www.fanpagekarma.com)
+*   [Fb-sleep-stats (⭐1.6k)](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
+*   [Lookup-ID.com](https://lookup-id.com) - Looking for your Facebook profile ID / Group ID / Page ID.
 *   [SearchIsBack](https://searchisback.com)
 *   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 
 ### Social Media Tools / Instagram
 
-*   [Hashtagify](http://hashtagify.me)
 *   [Iconosquare](http://iconosquare.com)
-*   [Picodash](https://www.picodash.com)
+*   [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 
 ### Social Media Tools / Pinterest
 
@@ -505,18 +502,17 @@
 
 ### Username Check / Telegram
 
-*   [Check User Names](http://www.checkusernames.com)
-*   [Name Chk](http://www.namechk.com)
-*   [User Search](http://www.usersearch.org)
+*   [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
+*   [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 
-### E-mail Search / E-mail Check / Telegram
+### Email Search / Email Check / Telegram
 
-*   [Email Address Validator](http://www.email-validator.net)
-*   [Peepmail](http://www.samy.pl/peepmail)
-*   [Pipl](https://pipl.com)
-*   [ThatsThem](https://thatsthem.com/reverse-email-lookup)
-*   [Toofr](https://www.toofr.com)
-*   [Verify Email](http://verify-email.org)
+*   [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
+*   [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+*   [Pipl](https://pipl.com) - a provider of identity solutions.
+*   [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
+*   [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+*   [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 
 ### Expert Search / Telegram
 
@@ -548,8 +544,8 @@
 *   [Better Business Bureau](http://www.bbb.org)
 *   [Bizeurope](http://www.bizeurope.com)
 *   [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
-*   [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 *   [Bureau Van Dijk](http://www.bvdinfo.com)
+*   [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 *   [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
 *   [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
 *   [Company Research Resources by Country Comparably](https://www.comparably.com)
@@ -565,9 +561,9 @@
 *   [Inc. 5000](http://www.inc.com/inc5000)
 *   [iSpionage](https://www.ispionage.com)
 *   [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
-*   [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 *   [Mergent Intellect](http://www.mergentintellect.com)
 *   [Mergent Online](http://www.mergentonline.com/login.php)
+*   [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 *   [Notablist](https://www.notablist.com)
 *   [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 *   [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
@@ -592,14 +588,14 @@
 *   [GraphyStories](http://app.graphystories.com)
 *   [HypeStat](https://www.hypestat.com)
 *   [Infosniper](http://www.infosniper.net)
+*   [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 *   [intoDNS](http://www.intodns.com)
-*   [IP Checking](http://www.ipchecking.com)
 *   [IP 2 Geolocation](http://ip2geolocation.com)
 *   [IP 2 Location](http://www.ip2location.com/demo.aspx)
-*   [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
+*   [IP Checking](http://www.ipchecking.com)
 *   [Kloth](http://www.kloth.net/services)
-*   [NetworkTools](http://network-tools.com)
 *   [MaxMind](https://www.maxmind.com)
+*   [NetworkTools](http://network-tools.com)
 *   [Open Site Explorer](https://moz.com/researchtools/ose)
 *   [PageGlimpse](http://www.pageglimpse.com)
 *   [Quantcast](https://www.quantcast.com)
@@ -612,14 +608,14 @@
 *   [SmallSEOTools](http://smallseotools.com)
 *   [StatsCrop](http://www.statscrop.com)
 *   [urlQuery](http://urlquery.net)
+*   [Verisign](http://dnssec-debugger.verisignlabs.com)
+*   [ViewDNS.info](http://viewdns.info)
 *   [Website Informer](http://website.informer.com)
 *   [WhatIsMyIPAddress](http://whatismyipaddress.com)
 *   [WhoIsHostingThis](http://www.whoishostingthis.com)
 *   [WhoisMind](http://www.whoismind.com)
 *   [Whoisology](https://whoisology.com)
 *   [WhoIsRequest](http://whoisrequest.com)
-*   [Verisign](http://dnssec-debugger.verisignlabs.com)
-*   [ViewDNS.info](http://viewdns.info)
 *   [You Get Signal](http://www.yougetsignal.com)
 
 ### Q&A Sites / Telegram
@@ -637,22 +633,21 @@
 *   [Keyword Spy](http://www.keywordspy.com)
 *   [KeywordTool](http://keywordtool.io)
 *   [One Look Reverse Dictionary](http://www.onelook.com/reverse-dictionary.shtml)
-*   [Word Tracker](https://www.wordtracker.com)
 *   [Soovle](http://www.soovle.com)
 *   [Ubersuggest](http://ubersuggest.org)
+*   [Word Tracker](https://www.wordtracker.com)
 
 ### Web History and Website Capture / Telegram
 
 *   [CashedPages](http://www.cachedpages.com)
 *   [CachedView](http://cachedview.com)
-*   [Wayback Machine Archiver (⭐2.7k)](https://github.com/jsvine/waybackpack)
+*   [Wayback Machine Archiver (⭐2.8k)](https://github.com/jsvine/waybackpack)
 
 ### Image Search / Telegram
 
 *   [Google Image](https://images.google.com)
 *   [Image Identification Project](https://www.imageidentify.com)
-*   [Image Raider](https://www.imageraider.com)
-*   [KarmaDecay](http://karmadecay.com)
+*   [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 *   [PicTriev](http://www.pictriev.com) - a face search engine.
 *   [Yahoo Image Search](https://images.search.yahoo.com)
 *   [Yandex Images](https://www.yandex.com/images)
@@ -660,33 +655,28 @@
 ### Image Analysis / Telegram
 
 *   [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
-*   [Exif Search](http://www.exif-search.com)
 *   [FotoForensics](http://www.fotoforensics.com)
-*   [Ghiro](http://www.getghiro.org)
 *   [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
 *   [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 
 ### Video Search and Other Video Tools / Telegram
 
-*   [Aol Videos](http://on.aol.com)
 *   [Bing Videos](http://www.bing.com/?scope=video)
-*   [Blinkx](http://www.blinkx.com)
 *   [Clarify](http://clarify.io)
 *   [Clip Blast](http://www.clipblast.com)
 *   [DailyMotion](http://www.dailymotion.com)
-*   [Deturl](http://deturl.com)
-*   [DownloadHealper](http://www.downloadhelper.net)
-*   [Earthcam](http://www.earthcam.com)
+*   [Deturl](http://deturl.com) - Download a YouTube video from any web page.
+*   [DownloadHealper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
+*   [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
 *   [Geosearch](http://www.geosearchtool.com)
 *   [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
-*   [LiveLeak](http://www.liveleak.com)
 *   [Metacafe](http://www.metacafe.com)
 *   [Metatube](http://www.metatube.com)
 *   [Veoh](http://www.veoh.com)
 *   [Vimeo](https://vimeo.com)
 *   [Yahoo Video Search](http://video.search.yahoo.com)
-*   [YouTube](https://www.youtube.com)
 *   [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
+*   [YouTube](https://www.youtube.com)
 
 ### Academic Resources and Grey Literature / Telegram
 
@@ -700,8 +690,8 @@
 *   [Elsevier](https://www.elsevier.com)
 *   [Google Scholar](https://scholar.google.com)
 *   [Grey Guide](http://greyguide.isti.cnr.it)
-*   [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
 *   [Grey Literature Strategies](http://greylitstrategies.info)
+*   [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
 *   [GreyNet International](http://www.greynet.org)
 *   [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl)
 *   [Journal Guide](https://www.journalguide.com)
@@ -711,17 +701,17 @@
 *   [NRC Research Press](http://www.nrcresearchpress.com)
 *   [Open Access Scientific Journals](http://www.pagepress.org)
 *   [Open Grey](http://www.opengrey.eu)
-*   [The Open Syllabus Project](http://opensyllabusproject.org/)
 *   [Oxford Journals](http://www.oxfordjournals.org)
 *   [Quetzal Search](https://www.quetzal-search.info)
 *   [Research Gate](http://www.researchgate.net)
 *   [SAGE Journals](http://online.sagepub.com)
+*   [Science Publications](http://www.thescipub.com)
 *   [ScienceDirect](http://www.sciencedirect.com)
+*   [ScienceDomain](http://www.sciencedomain.org)
 *   [SCIRP](http://www.scirp.org)
 *   [Springer](http://link.springer.com)
-*   [ScienceDomain](http://www.sciencedomain.org)
-*   [Science Publications](http://www.thescipub.com)
 *   [Taylor & Francis Online](http://www.tandfonline.com)
+*   [The Open Syllabus Project](http://opensyllabusproject.org/)
 *   [Wiley](http://eu.wiley.com)
 *   [World Digital Library](http://www.wdl.org)
 *   [World Science](http://worldwidescience.org)
@@ -737,10 +727,10 @@
 *   [CrowdMap](https://crowdmap.com)
 *   [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
 *   [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
-*   [GeoGig](http://geogig.org)
-*   [GeoNames](http://www.geonames.org)
 *   [Esri](http://www.esri.com)
 *   [Flash Earth](http://www.flashearth.com)
+*   [GeoGig](http://geogig.org)
+*   [GeoNames](http://www.geonames.org)
 *   [Google Earth](http://www.google.com/earth)
 *   [Google Maps](https://www.google.com/maps)
 *   [Google My Maps](https://www.google.com/maps/about/mymaps)
@@ -749,8 +739,9 @@
 *   [Here](http://here.com)
 *   [Hyperlapse (⭐2.4k)](https://github.com/TeehanLax/Hyperlapse.js)
 *   [Inspire Geoportal](http://inspire-geoportal.ec.europa.eu)
-*   [InstantAtlas](http://www.instantatlas.com)
 *   [Instant Google Street View](http://www.instantstreetview.com)
+*   [InstantAtlas](http://www.instantatlas.com)
+*   [Kartograph](http://kartograph.org)
 *   [MapAList](http://mapalist.com)
 *   [MapBox](https://www.mapbox.com)
 *   [Mapchart.net](https://mapchart.net)
@@ -760,27 +751,26 @@
 *   [Mapquest](https://www.mapquest.com)
 *   [Modest Maps](http://modestmaps.com)
 *   [NGA GEOINT](https://github.com/ngageoint)
-*   [Polymaps](http://polymaps.org)
-*   [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
 *   [Open Street Map](http://www.openstreetmap.org)
+*   [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
+*   [Polymaps](http://polymaps.org)
 *   [QGIS](http://qgis.org)
 *   [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
-*   [StoryMaps](http://storymaps.arcgis.com/en)
 *   [Scribble Maps](http://scribblemaps.com)
+*   [StoryMaps](http://storymaps.arcgis.com/en)
 *   [Tableau](http://www.tableausoftware.com)
+*   [ViaMichelin](http://www.viamichelin.com)
 *   [View in Google Earth](http://www.mgmaps.com/kml/#view)
 *   [Wikimapia](http://wikimapia.org)
 *   [WorldMap Harvard](http://worldmap.harvard.edu)
-*   [ViaMichelin](http://www.viamichelin.com)
 *   [Yahoo Maps](https://maps.yahoo.com)
 *   [Zeemaps](https://www.zeemaps.com)
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Kartograph](http://kartograph.org)
-*   [Leaflet](http://leafletjs.com)
+*   [Leaflet](http://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps.
 *   [Mapline](https://mapline.com)
-*   [OpenLayers](http://openlayers.org)
+*   [OpenLayers](http://openlayers.org) - A high-performance, feature-packed library for all your mapping needs.
 *   [Knoema](https://knoema.com)
 *   [Aeon](http://www.aeontimeline.com)
 *   [Arbor.js](http://arborjs.org)
@@ -790,11 +780,10 @@
 *   [Cacoo](https://cacoo.com)
 *   [Canva](https://www.canva.com)
 *   [chartblocks](http://www.chartblocks.com)
-*   [Chartico](http://chartico.com)
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.7k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.9k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [Dropmark](http://www.dropmark.com)
@@ -807,41 +796,37 @@
 *   [GraphX](http://spark.apache.org/graphx)
 *   [Highcharts](http://www.highcharts.com)
 *   [Hohli](http://charts.hohli.com)
-*   [Inkscape](https://inkscape.org)
 *   [Infogr.am](https://infogr.am)
+*   [Inkscape](https://inkscape.org)
 *   [Java Infovis Toolkit](http://philogb.github.io/jit)
 *   [JpGraph](http://jpgraph.net)
-*   [jqPlot](http://www.jqplot.com)
-*   [Listify](http://listify.okfnlabs.org)
+*   [jqPlot](http://www.jqplot.com) - A Versatile and Expandable jQuery Plotting Plugin.
 *   [Linkuroius](http://linkurio.us)
-*   [Lucidchart](https://www.lucidchart.com)
-*   [Nodebox](https://www.nodebox.net)
-*   [Palladio](http://hdlab.stanford.edu/palladio)
+*   [Listify](http://listify.okfnlabs.org) - Turn a Google spreadsheet into a beautiful, searchable listing in seconds.
+*   [Lucidchart](https://www.lucidchart.com) - the intelligent diagramming application that brings teams together to make better decisions and build the future.
+*   [Nodebox](https://www.nodebox.net) - a family of tools gives you the leverage to create generative design the way you want.
+*   [Palladio](http://hdlab.stanford.edu/palladio) - Visualize complex historical data with ease.
 *   [Piktochart](https://piktochart.com)
-*   [Pixcone](http://www.pixcone.com)
 *   [Pixxa](http://www.pixxa.com)
 *   [Plotly](https://plot.ly)
-*   [SpicyNodes](http://www.spicynodes.org)
-*   [StoryMap](https://storymap.knightlab.com)
 *   [QlikView](https://www.visualintelligence.co.nz/qlikview)
 *   [Quadrigram](http://www.quadrigram.com)
 *   [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 *   [RAW](http://raw.densitydesign.org)
 *   [Shanti Interactive](http://www.viseyes.org)
 *   [Snappa](https://snappa.io)
-*   [Tableau](http://www.tableau.com)
+*   [StoryMap](https://storymap.knightlab.com)
 *   [Tableau Public](https://public.tableau.com)
+*   [Tableau](http://www.tableau.com)
 *   [Tagul](https://tagul.com)
 *   [Textures.js](https://riccardoscalco.github.io/textures)
-*   [Tiki-toki](http://www.tiki-toki.com)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
-*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
-*   [Timeglider](http://timeglider.com/widget)
+*   [Tiki-toki](http://www.tiki-toki.com)
+*   [Timeflow (⭐448)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
 *   [Timetoast](http://www.timetoast.com)
 *   [Venngage](https://venngage.com)
-*   [Visage](https://visage.co)
 *   [Vis.js](http://visjs.org)
 *   [Visme](http://www.visme.co)
 *   [Visualize.me](http://vizualize.me)
@@ -934,7 +919,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐208)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐210)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -946,8 +931,8 @@
 
 *   [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
 *   [Sentinel Visualizer](http://www.fmsasg.com)
-*   [Wynyard Group](https://wynyardgroup.com)
 *   [Visual Investigative Scenarios](https://vis.occrp.org)
+*   [Wynyard Group](https://wynyardgroup.com)
 
 ### Privacy and Encryption Tools / Telegram
 
@@ -960,7 +945,6 @@
 *   [Do Not Track](http://donottrack.us)
 *   [Duck Duck Go Search Engine](https://duckduckgo.com)
 *   [EncSF MP](http://encfsmp.sourceforge.net)
-*   [Encrypted Cloud](https://www.encryptedcloud.com)
 *   [Epic Privacy Browser](https://www.epicbrowser.com)
 *   [Eraser](http://eraser.heidi.ie)
 *   [FileVault](https://support.apple.com/en-us/HT204837)
@@ -990,7 +974,7 @@
 *   [Privacy Badger](https://www.eff.org/privacybadger)
 *   [Privazer](http://privazer.com)
 *   [Proton Mail](https://protonmail.com)
-*   [Qubes](https://www.qubes-os.org)
+*   [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
 *   [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 *   [Securesha](https://securesha.re)
 *   [Silent circle](https://www.silentcircle.com)

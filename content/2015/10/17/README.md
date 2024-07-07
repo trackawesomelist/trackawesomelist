@@ -8,10 +8,6 @@
 
 ## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / V companies
-
-*   Venmo <http://blog.venmo.com/?category=Engineering>
-
 ### Individuals/Group Contributors / U individuals
 
 *   Undocumented Matlab <http://undocumentedmatlab.com/>

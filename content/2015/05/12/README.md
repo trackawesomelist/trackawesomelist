@@ -69,7 +69,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Combine (⭐648)](https://github.com/mlsecproject/combine) - Tool to gather Threat
+*   [Combine (⭐650)](https://github.com/mlsecproject/combine) - Tool to gather Threat
     Intelligence indicators from publicly available sources.
 
 ## [5. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)

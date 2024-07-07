@@ -71,13 +71,13 @@
 
 ### Routing
 
-*   [orion (⭐122)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐123)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐44k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐45k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
@@ -117,7 +117,7 @@
 
 ### Logging / Third-party APIs
 
-*   [cl-fluent-logger (⭐10)](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
+*   [cl-fluent-logger (⭐9)](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
 
 ## [15. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Email
 
-*   [burnex (⭐70)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐71)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐315)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐331)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
@@ -261,13 +261,9 @@
 
 ## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
-### Applets / Design Tooling
-
-*   [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.7k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -322,11 +318,11 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐287)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
-*   [SwiftyJSON (⭐22k)](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
+*   [SwiftyJSON (⭐23k)](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
 
 ### Device
 
@@ -334,11 +330,11 @@
 
 ### Cryptography / Barcode
 
-*   [RNCryptor (⭐3.3k)](https://github.com/RNCryptor/RNCryptor) - CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.
+*   [RNCryptor (⭐3.4k)](https://github.com/RNCryptor/RNCryptor) - CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐886)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐887)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 

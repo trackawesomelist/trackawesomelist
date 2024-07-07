@@ -26,7 +26,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐65k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐66k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 

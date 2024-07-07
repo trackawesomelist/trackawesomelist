@@ -93,7 +93,7 @@
 
 ### Samples
 
-*   [vkcube (⭐110)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐115)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -104,17 +104,13 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐925)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐946)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / I companies
 
 *   Instacart <https://tech.instacart.com/>
-
-### Products/Technologies / V technologies
-
-*   Vertabelo <http://www.vertabelo.com/blog>
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

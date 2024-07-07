@@ -31,7 +31,7 @@
 
 ### Menu / Barcode
 
-*   [XLPagerTabStrip (⭐6.9k)](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+*   [XLPagerTabStrip (⭐7k)](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 ## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
@@ -53,7 +53,7 @@
 
 ### services
 
-*   [geojsonio-cli (⭐168)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐170)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 

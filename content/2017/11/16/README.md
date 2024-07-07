@@ -39,7 +39,7 @@
 
 ### Localization
 
-*   [pt\_BR (⭐69)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐68)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -87,7 +87,7 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐894)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐893)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
@@ -96,7 +96,7 @@
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐839)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐843)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

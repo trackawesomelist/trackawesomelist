@@ -14,22 +14,28 @@
 
 ### Geolocation
 
-*   [rgeo (⭐994)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐1k)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
-## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / M companies
+
+*   Made Tech <https://www.madetech.com/blog>
+
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### C++
 
 *   [Pistache (⭐3.1k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
 *   [ohc (⭐776)](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 
-## [4. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [5. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Studying / Useful Materials
 
@@ -39,7 +45,7 @@
 
 *   [AEA Blog Directory](https://www.aeaweb.org/rfe/showCat.php?cat_id=96) - The list of major economic blogs.
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Classics
 
@@ -66,16 +72,6 @@
 ### Varia / Blog Series
 
 *   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
-
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / M companies
-
-*   Made Tech <https://www.madetech.com/blog>
-
-### Companies / S companies
-
-*   Scrunch <https://tech.scrunch.com/blog/>
 
 ## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

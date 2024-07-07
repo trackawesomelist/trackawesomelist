@@ -10,7 +10,7 @@
 
 ### Local and regional groups
 
-*   [German Open Transport Meetup (⭐40)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐41)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 
 ## [2. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐316k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐327k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Tools / Frameworks
 
-*   [Kraken (⭐110)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://octoperf.com/categories/kraken/).
+*   [Kraken (⭐113)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 
 ## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

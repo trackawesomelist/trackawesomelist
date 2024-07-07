@@ -22,7 +22,7 @@
 
 ### conversion
 
-*   [togeojson (⭐391)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐401)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -93,8 +93,8 @@
 
 ### Miscellaneous
 
-*   [Scientific Computing (⭐1.2k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐289)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Scientific Computing (⭐1.3k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐295)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -113,11 +113,11 @@
 
 ### UI / UI Helpers
 
-*   [Offline (⭐993)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+*   [Offline (⭐1k)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
 
-*   [Table Calendar (⭐1.7k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Table Calendar (⭐1.8k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -133,21 +133,21 @@
 ### Authentication
 
 *   JWT
-    *   [pyjwt (⭐4.9k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
+    *   [pyjwt (⭐5k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
     *   [python-jose (⭐1.5k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
 
 ### Build Tools
 
-*   [pybuilder (⭐1.6k)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
+*   [pybuilder (⭐1.7k)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
 
 ### CMS
 
-*   [feincms (⭐899)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
+*   [feincms (⭐919)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
 
 ### Caching
 
-*   [beaker (⭐512)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-*   [pylibmc (⭐480)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
+*   [beaker (⭐517)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
+*   [pylibmc (⭐478)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 
 ### ChatOps Tools
 
@@ -156,7 +156,7 @@
 ### Configuration Files
 
 *   [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
-*   [configobj (⭐309)](https://github.com/DiffSK/configobj) - INI file parser with validation.
+*   [configobj (⭐314)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 
 ### Cryptography
 
@@ -164,29 +164,29 @@
 
 ### Database
 
-*   [pickleDB (⭐868)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
-*   [tinydb (⭐6.5k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
+*   [pickleDB (⭐889)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
+*   [tinydb (⭐6.6k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 
 ### Deep Learning
 
 *   [keras (⭐61k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
-*   [pytorch (⭐77k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-*   [tensorflow (⭐182k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [pytorch (⭐80k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [tensorflow (⭐184k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 
 *   Batch Processing
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
     *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
-    *   [PySpark (⭐38k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐31k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [PySpark (⭐39k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
+    *   [Ray (⭐32k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
     *   [faust (⭐6.7k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
 
 ### Documentation
 
-*   [pdoc (⭐1.8k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
+*   [pdoc (⭐1.9k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
 
 ### Editor Plugins and IDEs
 
@@ -194,7 +194,7 @@
     *   [elpy (⭐1.9k)](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
 *   IDE
     *   [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
-    *   [spyder (⭐8k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
+    *   [spyder (⭐8.1k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
 
 ### GUI Development
 
@@ -202,20 +202,20 @@
 
 ### Miscellaneous
 
-*   [boltons (⭐6.4k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
+*   [boltons (⭐6.5k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
 *   [tryton](http://www.tryton.org/) - A general purpose business framework.
 
 ### Natural Language Processing
 
 *   Chinese
-    *   [funNLP (⭐64k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
-    *   [jieba (⭐32k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
-    *   [pkuseg-python (⭐6.4k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
-    *   [snownlp (⭐6.3k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+    *   [funNLP (⭐66k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+    *   [jieba (⭐33k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
+    *   [pkuseg-python (⭐6.5k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
+    *   [snownlp (⭐6.4k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Network Virtualization
 
-*   [mininet (⭐5.2k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
+*   [mininet (⭐5.3k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
 *   [napalm (⭐2.2k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 
 ### ORM
@@ -223,17 +223,17 @@
 *   Relational Databases
     *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
     *   [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
-        *   [awesome-sqlalchemy (⭐2.7k)](https://github.com/dahlia/awesome-sqlalchemy)
+        *   [awesome-sqlalchemy (⭐2.8k)](https://github.com/dahlia/awesome-sqlalchemy)
     *   [dataset (⭐4.7k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     *   [orator (⭐1.4k)](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     *   [orm (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
     *   [peewee (⭐11k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
-    *   [pony (⭐3.5k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    *   [pydal (⭐476)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
+    *   [pony (⭐3.6k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
+    *   [pydal (⭐487)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
 
 ### Package Repositories
 
-*   [devpi (⭐821)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+*   [devpi (⭐854)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 
 ### Processes
 
@@ -241,38 +241,31 @@
 
 ### Recommender Systems
 
-*   [lightfm (⭐4.6k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
-*   [spotlight (⭐2.9k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
-*   [Surprise (⭐6.2k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
+*   [lightfm (⭐4.7k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
+*   [spotlight (⭐3k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
+*   [Surprise (⭐6.3k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 *   [tensorrec (⭐1.3k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ### Search
 
-*   [django-haystack (⭐3.5k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [pysolr (⭐659)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
+*   [django-haystack (⭐3.6k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+*   [pysolr (⭐661)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 *   [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
 
 ### Serialization
 
 *   [marshmallow (⭐6.9k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-*   [pysimdjson (⭐628)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐18k)](https://github.com/lemire/simdjson).
-*   [python-rapidjson (⭐491)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson).
-
-### Specific Formats Processing
-
-*   PDF
-    *   [PDFMiner (⭐5.2k)](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
-    *   [PyPDF2 (⭐7.3k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
-    *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+*   [pysimdjson (⭐639)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐19k)](https://github.com/lemire/simdjson).
+*   [python-rapidjson (⭐497)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson).
 
 ### Static Site Generator
 
 *   [lektor (⭐3.8k)](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
-*   [nikola (⭐2.5k)](https://github.com/getnikola/nikola) - A static website and blog generator.
+*   [nikola (⭐2.6k)](https://github.com/getnikola/nikola) - A static website and blog generator.
 
 ### Tagging
 
-*   [django-taggit (⭐3.2k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
+*   [django-taggit (⭐3.3k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
 
 ### Template Engine
 

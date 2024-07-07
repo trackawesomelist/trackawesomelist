@@ -11,7 +11,7 @@
 ### Hardware Support
 
 *   [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
-    *   [Open-source Driver (⭐1.6k)](https://github.com/GPUOpen-Drivers/AMDVLK)
+    *   [Open-source Driver (⭐1.7k)](https://github.com/GPUOpen-Drivers/AMDVLK)
 
 ## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

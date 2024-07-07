@@ -73,7 +73,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐705)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐717)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
@@ -101,7 +101,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [BlackBox (⭐6.5k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
+*   [BlackBox (⭐6.6k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

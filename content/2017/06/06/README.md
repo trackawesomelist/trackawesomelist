@@ -45,7 +45,7 @@
 
 ### Packages / Real-time
 
-*   [Kalm (⭐206)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
+*   [Kalm (⭐209)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Scheduling
 
-*   [DurableTask (⭐1.4k)](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
+*   [DurableTask (⭐1.5k)](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -37,7 +37,7 @@
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐489)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐506)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -54,7 +54,7 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐18)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐22)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Back-End Development
 
-*   [Slim (⭐26)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐27)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -76,7 +76,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐178)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+*   [Balancer (⭐180)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+
+### Components & Libraries / Frameworks
+
+*   [petite-vue (⭐8.8k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### Components & Libraries / UI Components
 
@@ -84,13 +88,9 @@
 *   [vue-nav-tab (⭐3)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
 *   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
 
-### Components & Libraries / Frameworks
-
-*   [petite-vue (⭐8.8k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
-
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐374)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐375)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -107,11 +107,11 @@
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐360)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐361)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐3.1k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐3.2k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

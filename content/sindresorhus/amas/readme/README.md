@@ -14,12 +14,12 @@ Awesome & Marvelous Amas
 
 #### Ask these people anything!
 
-*   [Sindre Sorhus (⭐136)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐726)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
-*   [Kent C. Dodds (⭐684)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
 *   [Wes Bos (⭐281)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
@@ -49,7 +49,7 @@ Awesome & Marvelous Amas
 *   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at Segment, maker of things.
 *   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 *   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
-*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
+*   [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
 *   [Matthew Mueller (⭐4)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 *   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of hackrslab.
 *   [Hugo Giraudel (⭐43)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
@@ -110,7 +110,7 @@ Awesome & Marvelous Amas
 *   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at mLabs with JavaScript, EmberJS, APIs and other cool stuffs. I'm also BeerJS/SJC organizer.
 *   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at adrianmejia.com. Author of "E-commerce Application built with the MEAN stack". JavaScript lover. Boston located.
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
+*   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 *   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building ImportJS and Diffux CI. Web infra at Airbnb.
 *   [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 *   [Jeroen Engels (⭐4)](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
@@ -133,7 +133,7 @@ Awesome & Marvelous Amas
 *   [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
 *   [Ken Wheeler (⭐10)](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 *   [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
-*   [Rachel Andrew (⭐325)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 *   [Ilya Bodrov (⭐0)](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 *   [Matt Seemon (⭐0)](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 *   [Gaurav Mehla (⭐5)](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
@@ -167,7 +167,7 @@ Awesome & Marvelous Amas
 *   [Frédéric Harper (⭐0)](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 *   [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
 *   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at Adobe, blogger, streamer, tweeter.
-*   [Fabio Spampinato (⭐5)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 *   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, blogger, trainer, speaker, and a conference organizer.
 *   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 *   [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
@@ -187,6 +187,7 @@ Awesome & Marvelous Amas
 *   [Angelo Pirola (⭐0)](https://github.com/angelodotnet/ama) - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
 *   [Can Tecim (⭐0)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
 *   [Jan-Hendrik Heuing (⭐0)](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
+*   [Sarvsav Sharma (⭐0)](https://github.com/sarvsav/ama) - Aspiring green software developer passionate about sustainable coding, specializing in Go.
 
 #### Ask these organizations anything!
 

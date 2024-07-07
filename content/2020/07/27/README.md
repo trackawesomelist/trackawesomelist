@@ -8,7 +8,7 @@
 
 ## [1. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Other Datasets / Other models
+### Datasets / Other Datasets
 
 *   [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
 
@@ -64,13 +64,13 @@
 
 ### Database
 
-*   [ObjectBox (⭐416)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐423)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐67)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐70)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

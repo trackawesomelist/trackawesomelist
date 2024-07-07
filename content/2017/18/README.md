@@ -295,9 +295,6 @@
 
 ### Communities
 
-*   **[Barnacl.es](https://barnacl.es/)**
-
-    News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software (⭐17)](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 *   **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
     A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
@@ -443,16 +440,16 @@
 
 ### Tools / Other
 
-*   **[free-for-dev (⭐61k)](https://github.com/ripienaar/free-for-dev)**
+*   **[free-for-dev (⭐85k)](https://github.com/ripienaar/free-for-dev)**
 
     A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
-*   **[Stack-on-a-budget (⭐11k)](https://github.com/255kb/stack-on-a-budget)**
+*   **[Stack-on-a-budget (⭐12k)](https://github.com/255kb/stack-on-a-budget)**
 
     Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 *   **[Tools Of The Trade (⭐16k)](https://github.com/cjbarber/ToolsOfTheTrade)**
 
     Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
-*   **[awesome-selfhosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted)**
+*   **[awesome-selfhosted (⭐183k)](https://github.com/Kickball/awesome-selfhosted)**
 
     "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
@@ -552,10 +549,6 @@
 
 ## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
-### Online Courses
-
-*   [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
-
 ### Online Judges / Randomized Algorithms
 
 *   [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
@@ -603,7 +596,7 @@
 
 ### Plugins / IRC
 
-*   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
+*   [Symfony-Flex (⭐4.1k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐953)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 

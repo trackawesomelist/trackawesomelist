@@ -6,24 +6,30 @@
 
 
 
-## [1. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [ROPMEMU (⭐280)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
+*   [ROPMEMU (⭐281)](https://github.com/Cisco-Talos/ROPMEMU) - A framework to analyze, dissect
     and decompile complex code-reuse attacks.
 
-## [2. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 
 *   [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
-*   [SwiftyTextTable (⭐305)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
+*   [SwiftyTextTable (⭐312)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Embedded Systems
 
@@ -35,18 +41,12 @@
 
 ### Socket / Barcode
 
-*   [Socket.IO (⭐5.1k)](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
+*   [Socket.IO (⭐5.2k)](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 
 ### Webserver / Barcode
 
 *   [Perfect (⭐14k)](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
 *   [Zewo (⭐1.9k)](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
-
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / Z companies
-
-*   Zoosk <https://about.zoosk.com/en/engineering-blog/>
 
 ---
 

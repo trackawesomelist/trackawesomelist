@@ -10,7 +10,7 @@
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.8k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.9k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [2. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -38,19 +38,19 @@
 
 ### Specialty Search Engines
 
-*   [OCCRP Aleph](https://aleph.occrp.org/)
-*   [Mamont](https://www.mmnt.ru/)
 *   [GrayhatWarfare](https://grayhatwarfare.com/)
+*   [Mamont](https://www.mmnt.ru/)
+*   [OCCRP Aleph](https://aleph.occrp.org/)
 *   [WIPO](https://www3.wipo.int/branddb/en/)
 
 ### File Search
 
-*   [FileChef](https://www.filechef.com/)
 *   [File Search Engine](https://www.filesearch.link/)
-*   [FilePursuit](https://filepursuit.com/)
-*   [SearchFiles.de](https://searchfiles.de/)
-*   [NAPALM FTP Indexer](https://www.searchftps.net/)
+*   [FileChef](https://www.filechef.com/)
 *   [FileListing](https://filelisting.com/)
+*   [FilePursuit](https://filepursuit.com/)
+*   [NAPALM FTP Indexer](https://www.searchftps.net/)
+*   [SearchFiles.de](https://searchfiles.de/)
 
 ### Pastebins
 
@@ -58,16 +58,16 @@
 
 ### Code Search
 
-*   [Reposearch](http://codefinder.org/)
 *   [PublicWWW](https://publicwww.com/)
+*   [Reposearch](http://codefinder.org/)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
-*   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 *   [Kribrum](https://kribrum.io/)
-*   [WATools](https://watools.io/)
+*   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
+*   [Oblivion (⭐483)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐451)](https://github.com/loseys/Oblivion)
+*   [WATools](https://watools.io/)
 
 ### Social Media Tools / VKontakte
 
@@ -79,17 +79,17 @@
 
 ### Username Check / Telegram
 
-*   [WhatsMyName](https://whatsmyname.app/)
+*   [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
 ### People Investigations / Telegram
 
-*   [ZabaSearch](https://www.zabasearch.com/)
 *   [Mugshots](https://mugshots.com/)
+*   [ZabaSearch](https://www.zabasearch.com/)
 
 ### Phone Number Research / Telegram
 
-*   [FreeCarrierLookup](https://freecarrierlookup.com/)
-*   [Sync.ME](https://sync.me/)
+*   [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian\* phone numbers.
+*   [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 
 ### Company Research / Telegram
 
@@ -109,45 +109,45 @@
 ### Image Search / Telegram
 
 *   [Betaface](https://www.betaface.com/demo.html)
-*   [Search4faces](https://search4faces.com/)
+*   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 
 ### Image Analysis / Telegram
 
-*   [Forensically](https://29a.ch/photo-forensics/)
 *   [DiffChecker](https://www.diffchecker.com/image-diff/)
+*   [Forensically](https://29a.ch/photo-forensics/)
 *   [ImgOps](https://imgops.com/)
 
 ### Video Search and Other Video Tools / Telegram
 
-*   [Insecam](http://insecam.org/)
-*   [YouTube Metadata](https://mattw.io/youtube-metadata/)
+*   [Insecam](http://insecam.org/) - Live cameras directory
+*   [Video Stabilization Methods (⭐339)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐297)](https://github.com/yaochih/awesome-video-stabilization)
+*   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
-*   [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-*   [Pic2Map](https://www.pic2map.com/)
-*   [Mapillary](https://www.mapillary.com/app/)
-*   [KartaView](https://kartaview.org/map/)
-*   [Satellites Pro](https://satellites.pro/)
-*   [Liveuamap](https://liveuamap.com/)
-*   [Descartes Labs](https://maps.descarteslabs.com/)
 *   [Baidu Maps](https://map.baidu.com/)
-*   [MapChecking](https://www.mapchecking.com/)
-*   [Windy](https://www.windy.com/)
-*   [SOAR](https://soar.earth/)
+*   [Descartes Labs](https://maps.descarteslabs.com/)
 *   [digiKam](https://www.digikam.org/)
+*   [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
+*   [KartaView](https://kartaview.org/map/)
+*   [Liveuamap](https://liveuamap.com/)
+*   [MapChecking](https://www.mapchecking.com/)
+*   [Mapillary](https://www.mapillary.com/app/)
+*   [Pic2Map](https://www.pic2map.com/)
+*   [Satellites Pro](https://satellites.pro/)
+*   [SOAR](https://soar.earth/)
+*   [Windy](https://www.windy.com/)
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Observable](https://observablehq.com/)
+*   [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
 
 ### Other Tools / Telegram
 
+*   [FOCA (⭐2.8k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.7k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 

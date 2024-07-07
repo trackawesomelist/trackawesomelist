@@ -47,17 +47,9 @@
 
 ### Web / Playground
 
-*   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
+*   :octocat: [palantir/plottable (⭐3k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / I companies
-
-*   IFTTT <http://engineering.ifttt.com/>
-
-### Companies / U companies
-
-*   Uber <http://eng.uber.com/>
 
 ### Individuals/Group Contributors / P individuals
 

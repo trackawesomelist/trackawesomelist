@@ -52,7 +52,7 @@
 
 ### Libraries and Frameworks
 
-*   [ExtPay (⭐337)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
+*   [ExtPay (⭐455)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
 ## [5. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

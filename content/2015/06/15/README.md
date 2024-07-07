@@ -22,11 +22,6 @@
 
 *   Brandwatch <http://engineering.brandwatch.com/>
 
-### Companies / C companies
-
-*   Codementor <https://www.codementor.io/tutorial>
-*   Coolblue <http://devblog.coolblue.nl/>
-
 ### Companies / H companies
 
 *   Hootsuite <http://code.hootsuite.com/>
@@ -34,10 +29,6 @@
 ### Companies / P companies
 
 *   Prolific Interactive <http://blog.prolificinteractive.com/category/development/>
-
-### Companies / R companies
-
-*   Redbubble <http://artplustech.com/>
 
 ### Companies / S companies
 
@@ -51,7 +42,6 @@
 ### Individuals/Group Contributors / D individuals
 
 *   Dave Beazley <http://www.dabeaz.com/blog.html>
-*   Deborah Digges <http://deborah-digges.github.io/>
 *   Dereuromark <http://www.dereuromark.de/>
 
 ### Individuals/Group Contributors / J individuals

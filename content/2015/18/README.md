@@ -148,11 +148,11 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Table of Contents / Migrations
 
-*   [Ruckusing (⭐505)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+*   [Ruckusing (⭐506)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ### Table of Contents / NoSQL
 
-*   [PHPMongo (⭐243)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+*   [PHPMongo (⭐242)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 
 ## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -226,7 +226,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐665)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐673)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

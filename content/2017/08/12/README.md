@@ -41,7 +41,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Testing
 
-*   [microtest (⭐30)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ---
 

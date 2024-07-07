@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,8 +10,8 @@
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐257)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim PHP View (⭐258)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐20k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐21k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -45,13 +45,7 @@
 
 *   [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / C companies
-
-*   Coinbase <https://engineering.coinbase.com/>
-
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
@@ -59,7 +53,7 @@
 *   [mockhttp (⭐1.4k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
 *   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
@@ -67,9 +61,9 @@
 
 ### HTTP
 
-*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -79,13 +73,13 @@
 
 *   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
-## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Bug Reporting
 
 *   [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 
-## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -94,7 +88,7 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [sandboxapi (⭐131)](https://github.com/InQuest/python-sandboxapi) - Python library for
+*   [sandboxapi (⭐132)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
 ---

@@ -10,7 +10,7 @@
 
 ### Emulators
 
-*   [Arwalk/ChipZ (⭐1)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
+*   [Arwalk/ChipZ (⭐2)](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 ## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -117,13 +117,13 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐71)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐72)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [shuttle (⭐5.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform.
+*   [shuttle (⭐5.8k)](https://github.com/shuttle-hq/shuttle) - A serverless platform.
 
 ### Development tools / Build system
 
@@ -139,17 +139,17 @@
 
 ### Inter-process communication
 
-*   [iceoryx (⭐1.5k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+*   [iceoryx (⭐1.6k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐313)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐328)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐456)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐458)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

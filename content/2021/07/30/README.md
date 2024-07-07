@@ -76,7 +76,7 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [soldiermoth/hlsq (⭐65)](https://github.com/soldiermoth/hlsq)  - A CLI for adding some color to your HLS manifests along with some basic filtering
+*   [soldiermoth/hlsq (⭐66)](https://github.com/soldiermoth/hlsq)  - A CLI for adding some color to your HLS manifests along with some basic filtering
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

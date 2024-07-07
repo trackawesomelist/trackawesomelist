@@ -38,18 +38,18 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐3.8k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3.8k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐4.1k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐4.1k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
 *   [PhpInsights (⭐5.2k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐104)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [Tango (⭐108)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐131)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐134)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
@@ -73,7 +73,7 @@
 
 ### Button / Barcode
 
-*   [FloatingButton (⭐1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1.1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 
@@ -97,7 +97,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐181)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐188)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -122,7 +122,7 @@
 
 ### Logging
 
-*   [loguru (⭐18k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
+*   [loguru (⭐19k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

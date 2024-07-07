@@ -28,7 +28,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### Physics
 
-*   [Box2D (⭐7.3k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐7.4k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -188,17 +188,9 @@ git cherry -v master <branch-to-be-merged>
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
-### Companies / G companies
-
-*   Gilt <http://tech.gilt.com>
-
 ### Companies / L companies
 
 *   LinkedIn <https://engineering.linkedin.com/blog>
-
-### Individuals/Group Contributors / J individuals
-
-*   Jesus Castello <http://www.blackbytes.info/>
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Ports to other languages
 
-*   [LangchainRb (⭐1.1k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [LangchainRb (⭐1.2k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ## [2. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -22,8 +22,8 @@
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐81)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐67)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐87)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐73)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -58,7 +58,7 @@
 
 ### Scroll / Other
 
-*   [simpleParallax (⭐1.7k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
+*   [simpleParallax (⭐1.8k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 ## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
@@ -120,7 +120,7 @@
 ### Editable data grid / spreadsheet
 
 *   [gigatables-react (⭐142)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐6.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐6.8k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
@@ -136,11 +136,11 @@
 
 ### Audio / Video
 
-*   [react-player (⭐8.9k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐9k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐416)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐418)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -213,7 +213,7 @@
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐897)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -221,7 +221,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐166)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐167)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

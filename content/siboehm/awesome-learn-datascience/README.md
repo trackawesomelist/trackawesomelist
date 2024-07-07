@@ -2,9 +2,15 @@
 
 :chart_with_upwards_trend: Curated list of resources to help you get started with Data Science
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 563 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/siboehm/awesome-learn-datascience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) · ⭐ 637 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/siboehm/awesome-learn-datascience/week/README.md) / [Overview](/content/siboehm/awesome-learn-datascience/readme/README.md) ]
+
+## [Jun 08, 2024](/content/2024/06/08/README.md)
+
+### What is Data Science?
+
+*   [Data Science Process: A Beginner’s Comprehensive Guide](https://www.scaler.com/blog/data-science-process/) - Technical Skills for the Data Science: This emphasizes the practical skills needed throughout the data science process.
 
 ## [Jul 22, 2019](/content/2019/07/22/README.md)
 
@@ -34,7 +40,7 @@
 ### Common Algorithms and Procedures
 
 *   [Supervised vs unsupervised learning](https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning) - The two most common types of Machine Learning algorithms.
-*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm / model.
+*   [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm/model.
 *   [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) - Modifying the data to better model predictions.
 *   [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
 
@@ -45,7 +51,7 @@
 ### Data Science using Python / pandas
 
 *   [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
-*   [Pandas cheatsheet (⭐36k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
+*   [Pandas cheatsheet (⭐42k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
 ### Data Science using Python / Jupyter Notebook
 
@@ -54,7 +60,7 @@
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
-*   [LightGBM gradient boosting framework (⭐14k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+*   [LightGBM gradient boosting framework (⭐16k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 *   [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 ### Data Science Challenges for Beginners / Various other helpful tools and resources
@@ -111,10 +117,10 @@
 
 ### Data Science using Python / Various other helpful tools and resources
 
-*   [Template folder structure for organizing Data Science projects (⭐6.1k)](https://github.com/drivendata/cookiecutter-data-science)
+*   [Template folder structure for organizing Data Science projects (⭐7.7k)](https://github.com/drivendata/cookiecutter-data-science)
 
 ### More advanced resources and lists / Various other helpful tools and resources
 
-*   [Awesome Data Science (⭐20k)](https://github.com/bulutyazilim/awesome-datascience)
-*   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
-*   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+*   [Awesome Data Science (⭐24k)](https://github.com/bulutyazilim/awesome-datascience)
+*   [Data Science Python (⭐5.1k)](https://github.com/ujjwalkarn/DataSciencePython)
+*   [Machine Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)

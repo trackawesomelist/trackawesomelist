@@ -20,7 +20,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-to-print (⭐10)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
+*   [vue-to-print (⭐11)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -39,19 +39,19 @@
 ### Development tools / Embedded
 
 *   Firmware
-    *   [oreboot/oreboot (⭐1.5k)](https://github.com/oreboot/oreboot) — oreboot is a fork of coreboot, with C removed, written in Rust
+    *   [oreboot/oreboot (⭐1.5k)](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust
 
 ## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Official Resources
 
-*   [Changelog (⭐76k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐77k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [okuuva/auto-save.nvim (⭐114)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [okuuva/auto-save.nvim (⭐125)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 23, 2024
 
-31 awesome lists updated today.
+30 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,6 +24,13 @@
 
 ## [3. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
+### Other / Music
+
+*   [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
+
 ### Text / Search engines
 
 *   [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images.
@@ -45,12 +52,6 @@
 ### Phone Calls / Animation
 
 *   [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
-
-### Other / Music
-
-*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
-*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
-*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 ## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -98,7 +99,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-xdt (⭐154)](https://github.com/pola-rs/polars-xdt) - Polars plugin offering eXtra stuff for DateTimes (originally by [@MarcoGorelli](https://github.com/MarcoGorelli)).
+*   [polars-xdt (⭐164)](https://github.com/pola-rs/polars-xdt) - Polars plugin offering eXtra stuff for DateTimes (originally by [@MarcoGorelli](https://github.com/MarcoGorelli)).
 
 ### Resources / Tutorials & workshops
 
@@ -111,7 +112,6 @@
 *   [Lightning-fast queries with Polars](https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3) - Another blog post that is a good introduction to Polars by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [Exploring Polars - The Lightning-Fast DataFrame Library in Python](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
 *   [Date and DateTime Manipulation in Polars](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
-*   [Spark vs Polars. Real-life Test Case.](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency](https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1) - A blog post that describes the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [LazyFrame: Exploring Laziness in Dataframes from Polars in Python](https://medium.com/@HeCanThink/lazyframe-exploring-laziness-in-dataframes-from-polars-in-python-46da61d48e79) - A blog post that introduces LazyFrames with Polars an Python by [Manoj Das](https://medium.com/@HeCanThink).
 *   [Data Statistics in Polars](https://python.plainenglish.io/data-statistics-in-polars-8268be9843c5) - A post that explains how to extract insightful information from your data in Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
@@ -168,7 +168,7 @@
 ### Network / Messaging
 
 *   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
-*   [nine-lives-later/zzmq (⭐10)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
+*   [nine-lives-later/zzmq (⭐12)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -193,8 +193,8 @@
 ### CLI
 
 *   [args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
-*   [cxxopts (⭐4k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-*   [TermOx (⭐622)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
+*   [cxxopts (⭐4.1k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [TermOx (⭐643)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
 
 ## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -208,17 +208,17 @@
 
 ### DevOps Tools
 
-*   [Kanrisuru (⭐18)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
+*   [Kanrisuru (⭐19)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
 
 ### ORM/ODM Extensions
 
 *   Auditing and Versioning
-    *   [active\_snapshot (⭐97)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+    *   [active\_snapshot (⭐100)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
     *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
     *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
     *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
-    *   [Destroyed At (⭐351)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
-    *   [Discard (⭐2k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
+    *   [Destroyed At (⭐350)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+    *   [Discard (⭐2.1k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
     *   [Logidze (⭐1.6k)](https://github.com/palkan/logidze) - Database changes log for Rails.
     *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
     *   [mongoid-history (⭐390)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
@@ -230,7 +230,7 @@
 
 ### Bot Building
 
-*   [go-tg (⭐74)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+*   [go-tg (⭐83)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 
 ### Build Automation
 
@@ -238,7 +238,7 @@
 
 ### Configuration
 
-*   [konf (⭐188)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+*   [konf (⭐206)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 
 ### Interfaces to Multiple Backends
 
@@ -246,19 +246,19 @@
 
 ### NoSQL Database Drivers
 
-*   [gomemcached (⭐16)](https://github.com/aliexpressru/gomemcached) - A binary Memcached client for Go with support for sharding using consistent hashing, along with SASL.
+*   [gomemcached (⭐19)](https://github.com/aliexpressru/gomemcached) - A binary Memcached client for Go with support for sharding using consistent hashing, along with SASL.
 
 ### Distributed Systems
 
-*   [Tarmac (⭐311)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
+*   [Tarmac (⭐318)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
 
 ### Job Scheduler
 
-*   [go-dag (⭐6)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
+*   [go-dag (⭐10)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 
 ### Dependency Injection
 
-*   [kod (⭐71)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
+*   [kod (⭐106)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 
 ### Strings
 
@@ -274,126 +274,126 @@
 
 ### Web Frameworks
 
-*   [Yokai (⭐189)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+*   [Yokai (⭐293)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [Subspace (⭐356)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+*   [Subspace (⭐365)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
 ### Applications / Database
 
-*   [ParadeDB (⭐4.2k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
-*   [USearch (⭐1.7k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
+*   [ParadeDB (⭐4.7k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
+*   [USearch (⭐1.9k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
 
 ### Applications / Text processing
 
-*   [ashvardanian/stringzilla (⭐1.8k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
+*   [ashvardanian/stringzilla (⭐1.9k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 
 ### Libraries / Data processing
 
-*   [pg\_analytics (⭐4.2k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_analytics (⭐4.7k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Libraries / Data structures
 
-*   [ashvardanian/simsimd (⭐733)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐799)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [16. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 
-*   [django-grappelli (⭐3.6k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
+*   [django-grappelli (⭐3.7k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 
 ### Algorithms and Design Patterns
 
 *   Design Patterns
     *   [pypattyrn (⭐2.2k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    *   [python-patterns (⭐39k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    *   [transitions (⭐5.3k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
+    *   [python-patterns (⭐40k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
+    *   [transitions (⭐5.5k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
 ### ASGI Servers
 
-*   [hypercorn (⭐965)](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
+*   [hypercorn (⭐1k)](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 
 ### Asynchronous Programming
 
-*   [twisted (⭐5.4k)](https://github.com/twisted/twisted) - An event-driven networking engine.
+*   [twisted (⭐5.5k)](https://github.com/twisted/twisted) - An event-driven networking engine.
 *   [eventlet (⭐1.2k)](https://github.com/eventlet/eventlet) - Asynchronous framework with WSGI support.
 *   [gevent (⭐6.2k)](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet (⭐1.6k)](https://github.com/python-greenlet/greenlet).
 
 ### Build Tools
 
-*   [bitbake (⭐403)](https://github.com/openembedded/bitbake) - A make-like build tool for embedded Linux.
-*   [buildout (⭐570)](https://github.com/buildout/buildout) - A build system for creating, assembling and deploying applications from multiple parts.
-*   [platformio (⭐7.5k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
-*   [scons (⭐1.9k)](https://github.com/SCons/scons) - A software construction tool.
+*   [bitbake (⭐417)](https://github.com/openembedded/bitbake) - A make-like build tool for embedded Linux.
+*   [buildout (⭐572)](https://github.com/buildout/buildout) - A build system for creating, assembling and deploying applications from multiple parts.
+*   [platformio (⭐7.7k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [scons (⭐2k)](https://github.com/SCons/scons) - A software construction tool.
 
 ### Built-in Classes Enhancement
 
 *   [box (⭐2.4k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
-*   [dotteddict (⭐173)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
+*   [dotteddict (⭐181)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
 
 ### CMS
 
-*   [wagtail (⭐17k)](https://github.com/wagtail/wagtail) - A Django content management system.
+*   [wagtail (⭐18k)](https://github.com/wagtail/wagtail) - A Django content management system.
 
 ### Caching
 
-*   [dogpile.cache (⭐221)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
+*   [dogpile.cache (⭐230)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 *   [hermescache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
-*   [python-diskcache (⭐2.1k)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
+*   [python-diskcache (⭐2.2k)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
 ### Code Analysis
 
 *   Code Analysis
-    *   [code2flow (⭐3.7k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
+    *   [code2flow (⭐3.8k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     *   [prospector (⭐1.9k)](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
-    *   [vulture (⭐3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
+    *   [vulture (⭐3.3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
 *   Code Linters
-    *   [flake8 (⭐3.2k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
+    *   [flake8 (⭐3.3k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.2k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylint (⭐5.1k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
+    *   [pylint (⭐5.2k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
 *   Code Formatters
-    *   [black (⭐37k)](https://github.com/psf/black) - The uncompromising Python code formatter.
-    *   [isort (⭐6.3k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+    *   [black (⭐38k)](https://github.com/psf/black) - The uncompromising Python code formatter.
+    *   [isort (⭐6.4k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
     *   [yapf (⭐14k)](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 *   Static Type Annotations Generators
-    *   [monkeytype (⭐4.5k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pytype (⭐4.5k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
+    *   [monkeytype (⭐4.7k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
+    *   [pytype (⭐4.7k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ### Command-line Interface Development
 
 *   Command-line Application Development
     *   [cement (⭐1.2k)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
     *   [click (⭐15k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
-    *   [cliff (⭐225)](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
-    *   [python-fire (⭐26k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    *   [python-prompt-toolkit (⭐8.9k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
+    *   [cliff (⭐230)](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
+    *   [python-fire (⭐27k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
+    *   [python-prompt-toolkit (⭐9.1k)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
 
 ### Command-line Tools
 
 *   Productivity Tools
-    *   [copier (⭐1.7k)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
+    *   [copier (⭐1.8k)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
     *   [cookiecutter (⭐22k)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     *   [doitlive (⭐3.4k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    *   [invoke (⭐4.2k)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+    *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+    *   [invoke (⭐4.3k)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     *   [pathpicker (⭐5.1k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    *   [thefuck (⭐83k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐3.9k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐33k)](https://github.com/tmux/tmux) session manager.
-    *   [try (⭐704)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+    *   [thefuck (⭐84k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    *   [tmuxp (⭐4k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐34k)](https://github.com/tmux/tmux) session manager.
+    *   [try (⭐712)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 *   CLI Enhancements
-    *   [httpie (⭐32k)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
+    *   [httpie (⭐33k)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
     *   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
-    *   [litecli (⭐2k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
+    *   [litecli (⭐2.1k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
     *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     *   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
 
 ### Computer Vision
 
-*   [easyocr (⭐22k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [kornia (⭐9.3k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
+*   [easyocr (⭐23k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
+*   [kornia (⭐9.6k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 *   [opencv](https://opencv.org/) - Open Source Computer Vision Library.
 
 ### Configuration Files
@@ -402,59 +402,59 @@
 
 ### Cryptography
 
-*   [cryptography (⭐6.3k)](https://github.com/pyca/cryptography) - A package designed to expose cryptographic primitives and recipes to Python developers.
+*   [cryptography (⭐6.4k)](https://github.com/pyca/cryptography) - A package designed to expose cryptographic primitives and recipes to Python developers.
 
 ### Data Analysis
 
 *   [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 *   [aws-sdk-pandas (⭐3.8k)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
-*   [datasette (⭐8.8k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
-*   [optimus (⭐1.4k)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
+*   [datasette (⭐9.1k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [optimus (⭐1.5k)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
 
 ### Data Validation
 
 *   [cerberus (⭐3.1k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
-*   [colander (⭐440)](https://github.com/Pylons/colander) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
-*   [jsonschema (⭐4.4k)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
+*   [colander (⭐446)](https://github.com/Pylons/colander) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
+*   [jsonschema (⭐4.5k)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
 *   [schematics (⭐2.6k)](https://github.com/schematics/schematics) - Data Structure Validation.
-*   [pydantic (⭐18k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
+*   [pydantic (⭐20k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 
 ### Data Visualization
 
-*   [altair (⭐8.9k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+*   [altair (⭐9.1k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 *   [bokeh (⭐19k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-*   [cartopy (⭐1.3k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
-*   [matplotlib (⭐19k)](https://github.com/matplotlib/matplotlib) - A Python 2D plotting library.
+*   [cartopy (⭐1.4k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
+*   [matplotlib (⭐20k)](https://github.com/matplotlib/matplotlib) - A Python 2D plotting library.
 *   [pygal (⭐2.6k)](https://github.com/Kozea/pygal) - A Python SVG Charts Creator.
-*   [pygraphviz (⭐729)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
-*   [pyqtgraph (⭐3.6k)](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+*   [pygraphviz (⭐746)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
+*   [pyqtgraph (⭐3.8k)](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 *   [seaborn (⭐12k)](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
-*   [vispy (⭐3.2k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
+*   [vispy (⭐3.3k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
 
 ### Database
 
-*   [zodb (⭐655)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
+*   [zodb (⭐666)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
 
 ### Database Drivers
 
 *   Other Relational Databases
-    *   [pymssql (⭐811)](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
+    *   [pymssql (⭐823)](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
     *   [clickhouse-driver (⭐1.2k)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
 
 ### Date and Time
 
-*   [arrow (⭐8.5k)](https://github.com/arrow-py/arrow) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
-*   [pendulum (⭐6k)](https://github.com/sdispater/pendulum) - Python datetimes made easy.
+*   [arrow (⭐8.6k)](https://github.com/arrow-py/arrow) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
+*   [pendulum (⭐6.1k)](https://github.com/sdispater/pendulum) - Python datetimes made easy.
 *   [pytz](https://pypi.org/project/pytz/) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 
 ### Debugging Tools
 
 *   Tracing
-    *   [manhole (⭐364)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
-    *   [python-hunter (⭐779)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
+    *   [manhole (⭐370)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
+    *   [python-hunter (⭐792)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
 *   Profiler
     *   [py-spy (⭐12k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
-    *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
+    *   [vprof (⭐4k)](https://github.com/nvdv/vprof) - Visual Python profiler.
 
 ### Deep Learning
 
@@ -464,25 +464,25 @@
 ### DevOps Tools
 
 *   Process Management
-    *   [supervisor (⭐8.2k)](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
+    *   [supervisor (⭐8.3k)](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
 *   Backup
-    *   [borg (⭐10k)](https://github.com/borgbackup/borg) - A deduplicating archiver with compression and encryption.
+    *   [borg (⭐11k)](https://github.com/borgbackup/borg) - A deduplicating archiver with compression and encryption.
 
 ### Distribution
 
-*   [py2app (⭐317)](https://github.com/ronaldoussoren/py2app) - Freezes Python scripts (Mac OS X).
-*   [py2exe (⭐743)](https://github.com/py2exe/py2exe) - Freezes Python scripts (Windows).
-*   [pyinstaller (⭐11k)](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
+*   [py2app (⭐331)](https://github.com/ronaldoussoren/py2app) - Freezes Python scripts (Mac OS X).
+*   [py2exe (⭐788)](https://github.com/py2exe/py2exe) - Freezes Python scripts (Windows).
+*   [pyinstaller (⭐12k)](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
 
 ### Downloader
 
-*   [youtube-dl (⭐128k)](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
+*   [youtube-dl (⭐130k)](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
 ### Functional Programming
 
-*   [coconut (⭐3.9k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [cytoolz (⭐972)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
-*   [toolz (⭐4.5k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
+*   [coconut (⭐4k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
+*   [cytoolz (⭐984)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+*   [toolz (⭐4.6k)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
 
 ### GUI Development
 
@@ -495,12 +495,12 @@
 ### Geolocation
 
 *   [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
-*   [geojson (⭐879)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
+*   [geojson (⭐898)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 
 ### HTML Manipulation
 
 *   [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-*   [markupsafe (⭐596)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
+*   [markupsafe (⭐616)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 
 ### HTTP Clients
 
@@ -518,25 +518,25 @@
 
 ### Implementations
 
-*   [cpython (⭐59k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
-*   [cython (⭐8.9k)](https://github.com/cython/cython) - Optimizing Static Compiler for Python.
-*   [clpython (⭐364)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
+*   [cpython (⭐61k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [cython (⭐9.2k)](https://github.com/cython/cython) - Optimizing Static Compiler for Python.
+*   [clpython (⭐365)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
 *   [ironpython (⭐2.4k)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
-*   [micropython (⭐18k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
-*   [numba (⭐9.4k)](https://github.com/numba/numba) - Python JIT compiler to LLVM aimed at scientific Python.
-*   [peachpy (⭐1.9k)](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
+*   [micropython (⭐19k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
+*   [numba (⭐9.6k)](https://github.com/numba/numba) - Python JIT compiler to LLVM aimed at scientific Python.
+*   [peachpy (⭐2k)](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 *   [pypy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
 *   [pyston (⭐2.5k)](https://github.com/pyston/pyston/) - A Python implementation using JIT techniques.
 
 ### RESTful API
 
 *   Django
-    *   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
+    *   [django-rest-framework (⭐28k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
     *   [django-tastypie (⭐3.9k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps.
 *   Framework agnostic
     *   [falcon (⭐9.4k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐71k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
-    *   [hug (⭐6.8k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
+    *   [fastapi (⭐73k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [hug (⭐6.9k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
     *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐18k)](https://github.com/sanic-org/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
 
@@ -546,23 +546,23 @@
 
 ### Web Crawling
 
-*   [feedparser (⭐1.8k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
-*   [mechanicalsoup (⭐4.5k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
-*   [scrapy (⭐51k)](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
+*   [feedparser (⭐1.9k)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
+*   [mechanicalsoup (⭐4.6k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+*   [scrapy (⭐52k)](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
 
 ### Web Frameworks
 
 *   Synchronous
-    *   [django (⭐77k)](https://github.com/django/django) - The most popular web framework in Python.
-        *   [awesome-django (⭐1.5k)](https://github.com/shahraizali/awesome-django)
-        *   [awesome-django (⭐8.4k)](https://github.com/wsvincent/awesome-django)
-    *   [flask (⭐66k)](https://github.com/pallets/flask) - A microframework for Python.
+    *   [django (⭐78k)](https://github.com/django/django) - The most popular web framework in Python.
+        *   [awesome-django (⭐1.6k)](https://github.com/shahraizali/awesome-django)
+        *   [awesome-django (⭐8.9k)](https://github.com/wsvincent/awesome-django)
+    *   [flask (⭐67k)](https://github.com/pallets/flask) - A microframework for Python.
         *   [awesome-flask (⭐12k)](https://github.com/humiaozuzu/awesome-flask)
     *   [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐545)](https://github.com/uralbash/awesome-pyramid)
-    *   [masonite (⭐2.1k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
+        *   [awesome-pyramid (⭐549)](https://github.com/uralbash/awesome-pyramid)
+    *   [masonite (⭐2.2k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 *   Asynchronous
-    *   [tornado (⭐21k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
+    *   [tornado (⭐22k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
 
 ### WSGI Servers
 
@@ -581,36 +581,30 @@
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native Purchases (⭐3)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+*   [Native Purchases (⭐4)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 ### Other plugins
 
-*   [capacitor-plugin-camera (⭐3)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
-*   [Bing Translator (⭐1)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
+*   [capacitor-plugin-camera (⭐6)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
+*   [Bing Translator (⭐2)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
-## [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Gateway
-
-*   [Kong API Gateway (⭐37k) (⭐38k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
-
-## [19. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [18. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nix-output-monitor (⭐674)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
+*   [nix-output-monitor (⭐743)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [FastEndpoints (⭐3.9k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
+*   [FastEndpoints (⭐4.2k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 
 ### PDF
 
-*   [QPdfSharp (⭐11)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
+*   [QPdfSharp (⭐12)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -618,9 +612,9 @@
 
 ### Libraries/Frameworks / Data Science
 
-*   [sigbla/sigbla-app (⭐16)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
+*   [sigbla/sigbla-app (⭐18)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
 
-## [22. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Tools / Web Tools
 
@@ -630,7 +624,7 @@
 
 *   [WeeklyOSM](https://weeklyosm.eu/) - News and updates to inform the community about what is going on in the OSM Universe, from experienced mappers to new OSM members.
 
-## [23. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [22. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
@@ -640,7 +634,7 @@
 
 *   [How To Write Efficient Unit Tests with Prisma ORM](https://medium.com/javascript-in-plain-english/how-to-write-efficient-unit-tests-with-prisma-orm-e9d8fdf43f5f)
 
-## [24. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+## [23. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
 ### Components / Tasmota Configs
 
@@ -656,19 +650,18 @@
 *   [Growlink Crop Steering E-Book V1.4](https://static.intergalactic-xyz.com/cropsteering/files/Growlink%20Crop%20Steering%20E-Book%20V1.4.pdf)
 *   [Some useful reading and links from Open Steering project](https://cropsteering.xyz/)
 
-## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-### Online Tools and Applications
-
-*   [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
-*   [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
-*   [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
-*   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
-*   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
+## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials
 
 *   [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
+
+### Online Tools and Applications
+
+*   [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
+*   [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
+*   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
+*   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
 
 ### Large Language Models (LLMs)
 
@@ -682,7 +675,7 @@
 
 *   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
-## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -733,13 +726,13 @@
 
 *   [iquilezles.org](https://iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 
-## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
+*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2.1k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 
-## [28. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [27. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Obsidian
 
@@ -747,7 +740,7 @@
 *   [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 *   [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
 
-## [29. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [28. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
@@ -757,13 +750,13 @@
 
 *   [Ping CRM / Grails (⭐5)](https://github.com/matrei/pingcrm-grails) - Demonstration application made with Grails and Vue.js.
 
-## [30. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [29. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [extensive-react-boilerplate (⭐169)](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
+*   [extensive-react-boilerplate (⭐206)](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
 
-## [31. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [30. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Media
 

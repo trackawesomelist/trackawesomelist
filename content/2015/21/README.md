@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐7.8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐7.9k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -221,7 +221,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.5k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.6k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

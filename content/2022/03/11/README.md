@@ -16,9 +16,9 @@
 
 ### Creating GIFs
 
-*   [Gifski (⭐7.5k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
-*   [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
-*   [terminalizer (⭐15k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
+*   [Gifski (⭐7.6k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keeps size low.
+*   [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, but with more features.
+*   [terminalizer (⭐15k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated GIF images or share a web player.
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐150)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐152)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

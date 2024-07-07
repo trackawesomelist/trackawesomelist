@@ -2,9 +2,32 @@
 
 A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AI4LAM/awesome-ai4lam/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) · ⭐ 36 · 🏷️ Library systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AI4LAM/awesome-ai4lam/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) · ⭐ 45 · 🏷️ Library systems
 
 [ [Daily](/content/AI4LAM/awesome-ai4lam/README.md) / Weekly / [Overview](/content/AI4LAM/awesome-ai4lam/readme/README.md) ]
+
+## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+
+### Tools and Frameworks / Document analysis, transcription, and labeling
+
+*   [Coconut Libtool](https://www.coconut-libtool.com) – web-based textual analysis tool designed to assist social scientists, librarians, or anyone in data analysis
+
+### Policies and recommendations / Frameworks
+
+*   [LC Labs Artificial Intelligence Planning Framework](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/) – US Library of Congress planning framework for responsible exploration and adoption of AI
+    *   French translation: [Planification de projets IA dans les GLAM (⭐0)](https://github.com/altomator/Planification-de-projets-IA)
+
+### Conferences and Workshops / Past Conferences and Workshops
+
+*   [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-conference-canberra-2024) – Oct. 15–18 at The National Film and Sound Archive of Australia (NFSA) in Canberra, Australia.
+
+### Publications and News Sources / Journals and Magazines
+
+*   [Critical AI](https://www.dukeupress.edu/critical-ai)
+
+### Publications and News Sources / News sources
+
+*   [ARL Day in Review](https://www.arl.org/category/day-in-review)
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -59,7 +82,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐15k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐16k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -74,18 +97,18 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
 *   [Awesome Deep Learning (⭐23k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+*   [Awesome Deep Learning Resources (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Awesome Document Understanding (⭐1.1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
-*   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
+*   [Awesome Document Understanding (⭐1.2k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
+*   [Awesome Image Classification (⭐2.8k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
 *   [Awesome Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐442)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐449)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Production Machine Learning (⭐17k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
 *   [Awesome Visual Transformer (⭐3.3k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐121)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome XAI (⭐126)](https://github.com/altamiracorp/awesome-xai#readme)
 
 ### Datasets / Datasets available elsewhere
 
@@ -105,12 +128,11 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 *   [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone?irclickid=S5hzeGTIExyPTTOSNn2PRyfHUkHzH8TNw0Bo1c0\&irgwc=1) – free Coursera course by Andrew Ng
 *   [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) – by Stephen Wolfram
 
-### Journals and Magazines / Past Conferences and Workshops
+### Publications and News Sources / Journals and Magazines
 
 *   [AI & Society](https://link.springer.com/journal/146/articles)
 *   [Archival Science](https://link.springer.com/journal/10502)
 *   [Big Data & Society](https://journals.sagepub.com/home/bds)
-*   [Critical AI](https://criticalai.org)
 *   [Digital Humanities Quarterly](https://digitalhumanities.org/dhq/)
 *   [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
 *   [Journal of Cultural Analytics](https://culturalanalytics.org)
@@ -140,12 +162,12 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 ### Learning Resources / Natural language processing
 
 *   [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.5k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.6k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
 *   [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 *   [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
 *   [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
-*   [Hands-on NLTK Tutorial (⭐538)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
-*   [NLP in Python - Quickstart Guide (⭐562)](https://github.com/NirantK/NLP_Quickbook#readme)
+*   [Hands-on NLTK Tutorial (⭐539)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+*   [NLP in Python - Quickstart Guide (⭐564)](https://github.com/NirantK/NLP_Quickbook#readme)
 *   [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Learning Resources / Generative AI
@@ -153,13 +175,13 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 *   [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 *   [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
 *   [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-*   [Large Language Model Course (⭐30k)](https://github.com/mlabonne/llm-course#readme)
+*   [Large Language Model Course (⭐34k)](https://github.com/mlabonne/llm-course#readme)
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
 *   [Awesome Computer Vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4.9k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.3k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
+*   [Awesome Generative AI (⭐5.2k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
@@ -167,10 +189,10 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 *   [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 *   [Distributed Annotation 'n' Enrichment (DANE) (⭐3)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐23)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
+*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐24)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 *   [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 *   [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
-*   [Surya (⭐6.8k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+*   [Surya (⭐9.1k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 *   [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
@@ -186,7 +208,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 ### Tools and Frameworks / Indexing and classification
 
-*   [Annif](https://annif.org) and [associated tutorial (⭐34)](https://github.com/NatLibFi/Annif-tutorial) – tool for automated subject indexing and classification (National Library of Finland)
+*   [Annif](https://annif.org) and [associated tutorial (⭐36)](https://github.com/NatLibFi/Annif-tutorial) – tool for automated subject indexing and classification (National Library of Finland)
 
 ### Tools and Frameworks / Search and retrieval
 
@@ -200,13 +222,13 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 *   [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
 *   [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
-*   [Norwegian Transformer Model (NoTraM) (⭐107)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+*   [Norwegian Transformer Model (NoTraM) (⭐109)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
 *   [Swedish BERT (⭐137)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 *   [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 ### Datasets / Datasets available elsewhere
 
-*   [Gensim datasets (⭐949)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+*   [Gensim datasets (⭐965)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
 *   [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 *   [Kaggle datasets](https://www.kaggle.com/datasets)
 *   [nlp-datasets (⭐5.7k)](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
@@ -241,9 +263,8 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
 *   [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
-*   [CIDOC 2024 & Frontiers of knowledge, museums, documentation, and linked data](https://cidoc.mini.icom.museum/events/next-conference/) – Nov. 11–15 in Amsterdam, the Netherlands.
 
-### Journals and Magazines / Past Conferences and Workshops
+### Publications and News Sources / Journals and Magazines
 
 *   [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
 
@@ -258,7 +279,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 *   [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases
 
-### Journals and Magazines / Past Conferences and Workshops
+### Publications and News Sources / Journals and Magazines
 
 *   [International Journal on Digital Libraries](https://link.springer.com/journal/799)
 *   [Journal of Academic Librarianship](https://www.sciencedirect.com/journal/the-journal-of-academic-librarianship/special-issue/10WVZWS842J)

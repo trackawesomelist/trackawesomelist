@@ -27,7 +27,7 @@
 
 ### PDF
 
-*   [gutenex (⭐241)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+*   [gutenex (⭐242)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 
 ### Queue
 

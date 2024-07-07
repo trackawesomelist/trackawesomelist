@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐341)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐353)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
@@ -135,7 +135,7 @@
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐445)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐448)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

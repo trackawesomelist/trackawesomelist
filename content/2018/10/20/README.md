@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.7k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.8k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.8k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.9k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -6,17 +6,7 @@
 
 
 
-## [1. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
-
-### editors & viewers
-
-*   [gjv (⭐75)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
-
-### data
-
-*   [metro-extracts](https://mapzen.com/data/metro-extracts/): regional OpenStreetMap data as GeoJSON
-
-## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / A companies
 
@@ -58,10 +48,6 @@
 
 *   Blundell's Android Tutorials <http://blog.blundellapps.co.uk>
 
-### Individuals/Group Contributors / D individuals
-
-*   Dave Atchley <http://www.datchley.name/>
-
 ### Individuals/Group Contributors / H individuals
 
 *   High Scalability <http://highscalability.com/>
@@ -83,6 +69,16 @@
 
 *   Zach Holman <https://zachholman.com/>
 
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [gjv (⭐75)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
+
+### data
+
+*   [metro-extracts](https://mapzen.com/data/metro-extracts/): regional OpenStreetMap data as GeoJSON
+
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
@@ -100,7 +96,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐9.1k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 

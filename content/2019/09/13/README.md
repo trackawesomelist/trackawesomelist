@@ -29,7 +29,6 @@
 ### Companies / D companies
 
 *   Docker <https://blog.docker.com/>
-*   Doximity <https://engineering.doximity.com>
 
 ### Companies / P companies
 
@@ -63,7 +62,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [pivotsuite (⭐420)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
+*   [pivotsuite (⭐426)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 
 ---
 

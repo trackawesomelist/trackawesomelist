@@ -38,7 +38,7 @@
 
 ### Tools
 
-*   [salt-sproxy (⭐102)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
+*   [salt-sproxy (⭐115)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
 
 ## [6. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

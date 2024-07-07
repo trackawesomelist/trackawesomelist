@@ -10,7 +10,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Semantic Versioning Checker (⭐424)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+*   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Image Processing
 
-*   [libvips (⭐41)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+*   [libvips (⭐44)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 
 ### Inter-process communication
 

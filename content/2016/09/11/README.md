@@ -22,7 +22,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [Fileintel (⭐113)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+*   [Fileintel (⭐115)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [Hostintel (⭐258)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

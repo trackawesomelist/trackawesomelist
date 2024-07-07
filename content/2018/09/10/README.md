@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐243)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐244)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
-### Books, blogs, and training materials / Community Chat Rooms
+### Books, blogs, and training materials / Free and public materials
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
@@ -54,7 +54,7 @@
 
 ### Contents / Routing
 
-*   [Preact Route Async (⭐36)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
+*   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
 ## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

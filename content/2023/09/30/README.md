@@ -10,7 +10,7 @@
 
 ### Colorscheme Creation / Diagnostics
 
-*   [roobert/palette.nvim (⭐57)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
+*   [roobert/palette.nvim (⭐62)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
 
 ### Git / Diagnostics
 

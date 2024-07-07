@@ -16,14 +16,14 @@
 
 ### API / Runner
 
-*   [amygdala (⭐392)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
-*   [jquery.rest (⭐614)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+*   [amygdala (⭐393)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
+*   [jquery.rest (⭐615)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Natural language processing
 
-*   [franc (⭐4k)](https://github.com/wooorm/franc) - Detect the language of text.
+*   [franc (⭐4.1k)](https://github.com/wooorm/franc) - Detect the language of text.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

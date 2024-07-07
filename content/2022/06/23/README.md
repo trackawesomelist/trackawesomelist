@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐353)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐365)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -24,7 +24,7 @@
 
 ### Replication
 
-*   [data-diff (⭐2.5k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐2.9k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -40,14 +40,14 @@
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐338)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐376)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐438)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐676)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [edluffy/specs.nvim (⭐447)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐694)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -73,8 +73,8 @@
 
 ### Databases / Data Sources
 
-*   [anime-streaming (⭐65)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
-*   [manga-platform (⭐25)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
+*   [anime-streaming (⭐70)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
+*   [manga-platform (⭐26)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
 
@@ -82,7 +82,7 @@
 
 ### Uncategorized
 
-*   [marine\_button (⭐45)](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. \[日本語]
+*   [marine\_button (⭐47)](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. \[日本語]
 
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐80)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐83)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

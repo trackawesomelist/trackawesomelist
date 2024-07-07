@@ -22,11 +22,11 @@
 
 ### Command Line
 
-*   [Swift Argument Parser (⭐3.2k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+*   [Swift Argument Parser (⭐3.3k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐46)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐48)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐136)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ---
 

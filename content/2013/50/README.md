@@ -10,7 +10,7 @@
 
 ### Table of Contents / Documentation
 
-*   [APIGen (⭐2.1k)](https://github.com/apigen/apigen) - Another API documentation generator.
+*   [APIGen (⭐2.2k)](https://github.com/apigen/apigen) - Another API documentation generator.
 
 ---
 

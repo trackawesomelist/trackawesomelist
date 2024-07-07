@@ -16,23 +16,23 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐59)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐70)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ### I18n And L10n / Runner
 
-*   [polyglot (⭐3.6k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
+*   [polyglot (⭐3.7k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
-*   [peerflix (⭐6.1k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+*   [peerflix (⭐6.2k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 *   [peerwiki (⭐312)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐385)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐339)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐387)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
@@ -61,7 +61,7 @@
 
 ### Concurrency and Parallelism
 
-*   [Concurrent Ruby (⭐5.6k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+*   [Concurrent Ruby (⭐5.7k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

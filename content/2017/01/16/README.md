@@ -30,7 +30,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐4.1k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐4.2k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Altium
 
@@ -45,7 +45,7 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
 
@@ -67,7 +67,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐865)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐908)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

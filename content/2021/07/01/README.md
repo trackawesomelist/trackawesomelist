@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   🍰 [CakeDC/Enum plugin (⭐26)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
+*   🍰 [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 

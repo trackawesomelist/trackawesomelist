@@ -26,7 +26,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.6k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.8k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

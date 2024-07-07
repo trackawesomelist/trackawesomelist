@@ -24,7 +24,7 @@
 
 ### Testing
 
-*   [mocks.cr (⭐50)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
+*   [mocks.cr (⭐52)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

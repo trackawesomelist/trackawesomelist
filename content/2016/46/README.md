@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14 - Nov 20, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -87,7 +87,7 @@
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
-### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
+### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 
@@ -150,19 +150,13 @@
 
 *   [Workbench Export to Migrations (⭐902)](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Workbench plugin for exporting Models to Laravel migrations
 
-## [11. Colorful](/content/Siddharth11/Colorful/week/README.md)
-
-### Color Palettes / Web App
-
-*   [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
-
-## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [11. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
 *   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
 
-## [13. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [12. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Inspiration
 
@@ -191,25 +185,25 @@
 *   [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 *   [Sip](http://sipapp.io/): A color picker for Mac.
 
-## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [13. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Web
 
 *   [Commix (⭐3.5k)](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Development Environment
 
 *   [Docker](https://www.docker.com/) - A containerization platform.
 
-## [16. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [15. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Articles
 
 *   [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 
-## [17. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [16. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 
@@ -268,7 +262,7 @@
 
 *   [promise-nodeify (⭐1)](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
-## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Images
 
@@ -278,7 +272,7 @@
 
 *   [Android Debug Database (⭐8.1k)](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
@@ -288,7 +282,7 @@
 
 *   [LTHRadioButton (⭐371)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
-## [20. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [19. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
@@ -312,13 +306,13 @@
 *   [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 *   [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 
-## [21. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [20. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
 *   [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -326,14 +320,14 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.9k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐3k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
 *   [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
 
-## [23. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [22. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -344,25 +338,25 @@
 
 *   Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web (⭐1.6k)](https://github.com/mpatacchiola/deepgaze)]
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Examples and funny stuff
 
 *   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
-## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [24. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
 
-## [26. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [25. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
 
-## [27. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -412,13 +406,13 @@
 *   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 *   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 
-## [29. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [28. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Reddit
 
@@ -466,7 +460,7 @@
 *   Tech Map - <http://thetechmap.com/>
 *   Vator - <http://www.vator.tv/>
 
-## [30. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [29. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
@@ -485,26 +479,26 @@
 *   [Series of Sass tutorials showing the installing of, the basics, and using key features](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 *   [Sass or LESS? What should you use?](https://www.youtube.com/watch?v=lJclQekSfSM)
 
-## [31. Amas](/content/sindresorhus/amas/week/README.md)
+## [30. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of React Styleguidist and passionate photographer.
 *   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of React Slidy. Love videogames, embrace StandardJS. Living in Barcelona.
 
-## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [31. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pglistend (⭐27)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 
-## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [32. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Chat Clients
 
 *   [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](http://quassel-irc.org/) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [34. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [33. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -516,13 +510,13 @@
 
 
 
-## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
-## [36. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [35. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
@@ -533,17 +527,16 @@
 
 *   [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 
-## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [36. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Rakam (⭐796)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / E companies
 
-*   Elastic <https://www.elastic.co/blog/category/engineering>
 *   Erlang Solutions <https://www.erlang-solutions.com/blog.html>
 
 ### Companies / L companies
@@ -559,17 +552,17 @@
 
 *   Brujo Benavides <https://medium.com/@elbrujohalcon>
 
-## [39. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [38. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [40. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [39. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Documents and Shellcode / Other Resources
 
-*   [box-js (⭐595)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
+*   [box-js (⭐606)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
 ### Storage and Workflow / Other Resources
@@ -578,7 +571,7 @@
     framework with extensive plugin support, from input to output, and everything
     in between.
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -594,19 +587,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [42. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [43. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

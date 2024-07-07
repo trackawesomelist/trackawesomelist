@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2015
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [SELA (⭐209)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐210)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -34,19 +34,13 @@
 
 *   [PNChart (⭐9.7k)](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Individuals/Group Contributors / N individuals
-
-*   Nikolay Nemshilov <http://nikolay.rocks/>
-
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
 *   [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [6. Tips](/content/git-tips/tips/README.md)
 
 ## Pick commits across branches using cherry-pick
 
@@ -65,7 +59,7 @@ git branch -a --contains <commit-ish>
 git branch --contains <commit-ish>
 ```
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Other tools / Hooks
 

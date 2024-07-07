@@ -94,7 +94,7 @@
 
 ### Open Source Threat Intelligence / Tools
 
-*   [ThreatIngestor (⭐788)](https://github.com/InQuest/ThreatIngestor/) - Build
+*   [ThreatIngestor (⭐801)](https://github.com/InQuest/ThreatIngestor/) - Build
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 
@@ -108,10 +108,10 @@
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
-### Tools / Community Chat Rooms
+### Tools / Paid and commercially available materials
 
 *   [xargo (⭐1.1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
-    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐255)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
+    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐256)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
 
 ---
 

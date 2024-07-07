@@ -10,23 +10,23 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐85k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐89k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Agents
 
-*   [SuperAgent (⭐4.5k)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
+*   [SuperAgent (⭐4.9k)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Bots / Self-hosted
 
-*   [wayback (⭐1.3k)](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
+*   [wayback (⭐1.7k)](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Deployment / Diagnostics
 
-*   [OscarCreator/rsync.nvim (⭐59)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
+*   [OscarCreator/rsync.nvim (⭐65)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

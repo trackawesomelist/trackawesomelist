@@ -16,19 +16,19 @@
 
 ### Examples / Games
 
-*   [elm-games (⭐140)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
+*   [elm-games (⭐143)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐7.1k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐7.2k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tsParticles (⭐6.7k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐7.2k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

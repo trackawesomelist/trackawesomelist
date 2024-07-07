@@ -8,12 +8,12 @@
 
 ## [1. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Research Overviews
+### Research Overviews / Pre-LLM Overviews
 
 *   [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) - A review of Literature Based Discovery (LBD), or the philosophy that meaningful connections may be found between seemingly unrelated scientific literature.
     *   For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [*Undiscovered Public Knowledge*](https://www.jstor.org/stable/4307965) (paywalled) and [*Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
 
-### Video Lectures and Online Courses
+### Tutorials / Pre-LLM Guides, Lectures, and Courses
 
 *   [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 
@@ -87,7 +87,7 @@
 ### Reference
 
 *   [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) - The standard draft of the Common Lisp specifications, in a well formatted PDF with a sidebar.
-    *   also [dpans2texi (⭐6)](https://github.com/mmontone/dpans2texi/releases/) - the standard draft converted to Texinfo and published as a well formatted PDF.
+    *   also [dpans2texi (⭐7)](https://github.com/mmontone/dpans2texi/releases/) - the standard draft converted to Texinfo and published as a well formatted PDF.
 
 ### Other / Third-party APIs
 

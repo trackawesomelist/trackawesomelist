@@ -24,7 +24,7 @@
 
 ### Project Generators
 
-*   [libgen (⭐76)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐78)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ## [3. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

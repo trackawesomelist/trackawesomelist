@@ -97,7 +97,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐1.2k)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐1.3k)](https://github.com/manujosephv/pytorch_tabular)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 

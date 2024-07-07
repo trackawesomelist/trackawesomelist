@@ -10,13 +10,13 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐427)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐429)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Standalone Tools / Misc
 
-*   [protonenv (⭐2)](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
+*   [protonenv (⭐3)](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 
 ## [3. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

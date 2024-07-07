@@ -10,7 +10,7 @@
 
 ### Packages / Image
 
-*   [pica (⭐3.6k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+*   [pica (⭐3.7k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Editors / Runner
 
-*   [Squire (⭐4.6k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
+*   [Squire (⭐4.7k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
 
 ### Sliders / Runner
 
@@ -96,7 +96,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐18k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [10. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

@@ -29,8 +29,8 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐3.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐72k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Screensavers (⭐3.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐73k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐40k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
@@ -40,7 +40,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐309)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐310)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [6. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
@@ -78,7 +78,7 @@ Rename Index.txt to Index.html
 
 ### CLI
 
-*   [termbox (⭐1.9k)](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. \[MIT]
+*   [termbox (⭐2k)](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. \[MIT]
 
 ### Networking
 
@@ -111,7 +111,7 @@ Rename Index.txt to Index.html
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-progress-bar (⭐18)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+*   [cl-progress-bar (⭐19)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
@@ -186,7 +186,7 @@ Rename Index.txt to Index.html
 
 ### UI
 
-*   [Stepper Touch (⭐296)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐295)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ### Templates / Preferences
 
@@ -194,17 +194,17 @@ Rename Index.txt to Index.html
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐887)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [Downloader (⭐898)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 *   [AppAvailability (⭐91)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
 *   [QR Code Reader (⭐234)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐293)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [Fast QR Reader View (⭐295)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Blue (⭐2.3k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+*   [Blue (⭐2.4k)](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 *   [Beacons (⭐78)](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ### Storage / Bluetooth / NFC / Beacon
@@ -536,7 +536,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐190)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐203)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -671,7 +671,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐43)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ### Unofficial
 
@@ -712,7 +712,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐414)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐418)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 

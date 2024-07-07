@@ -10,14 +10,14 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [InkChatGPT (⭐6)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
+*   [InkChatGPT (⭐8)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Compression
 
 *   zstd
-    *   [gyscos/zstd-rs (⭐462)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
+    *   [gyscos/zstd-rs (⭐477)](https://github.com/gyscos/zstd-rs) - rust binding for the zstd compression library
 
 ## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [composer-dependency-analyser (⭐243)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
+*   [composer-dependency-analyser (⭐290)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 *   💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 *   ⚡ Performant: Scans 15 000 files in 2s!
 *   ⚙️ Configurable: Fine-grained ignores via PHP config

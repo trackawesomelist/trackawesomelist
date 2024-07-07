@@ -33,7 +33,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐118k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐123k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 

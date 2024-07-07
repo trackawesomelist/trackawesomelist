@@ -10,7 +10,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ReviewKit (⭐26)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
+*   [ReviewKit (⭐27)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
 
 ## [2. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

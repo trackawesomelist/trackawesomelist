@@ -104,7 +104,7 @@
 
 ### Tools
 
-*   [genhash (⭐15)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
+*   [genhash (⭐16)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

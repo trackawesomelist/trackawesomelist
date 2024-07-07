@@ -115,21 +115,21 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐653)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐656)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Configuration
 
-*   [inih (⭐2.3k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐430)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐951)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐462)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [inih (⭐2.4k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+*   [inih (⭐433)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.4k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐960)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐467)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐1k)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐417)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐419)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
@@ -150,15 +150,15 @@
 
 ### Machine Learning
 
-*   [darknet (⭐25k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
+*   [darknet (⭐26k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
 
 ### Memory Allocation
 
-*   [tgc (⭐938)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐945)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
-*   [DPDK (⭐3.1k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
+*   [DPDK (⭐3.2k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
 *   [PF\_RING™ (⭐2.6k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics
@@ -187,13 +187,13 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐848)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐865)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [jp\_doodle (⭐52)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
+*   [jp\_doodle (⭐53)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -634,8 +634,8 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1.2k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-*   [Cloudflare (⭐562)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [WebExtensions (⭐1.3k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [Cloudflare (⭐674)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ### Programming Languages
 
@@ -644,11 +644,11 @@
 ### Front-End Development
 
 *   [Angular (⭐9.3k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐8.5k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Blazor (⭐8.6k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
-*   [Dash (⭐2k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+*   [Dash (⭐2.1k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ### Business
 
@@ -656,18 +656,18 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐287)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐293)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.8k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐500)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐509)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ### HTTP
 
-*   [Cable (⭐121)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐127)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -792,7 +792,7 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [react-spaces (⭐1.2k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
+*   [react-spaces (⭐1.3k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 
 ## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -814,8 +814,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐400)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐1.1k)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐407)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [49. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
@@ -878,57 +878,56 @@
 
 ### Tools / IRC
 
-*   [Bramus/Composer-Autocomplete (⭐92)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
-*   [Composer/Xdebug-Handler (⭐2.4k)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
+*   [Bramus/Composer-Autocomplete (⭐94)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
+*   [Composer/Xdebug-Handler (⭐2.5k)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 
 ## [55. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bouncers / Hosted
 
 *   [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
-    *   [iOS App (⭐262)](https://github.com/irccloud/ios) - Official. `Objective-C`
-    *   [Android App (⭐275)](https://github.com/irccloud/android) - Official. `Java`
+    *   [iOS App (⭐276)](https://github.com/irccloud/ios) - Official. `Objective-C`
+    *   [Android App (⭐286)](https://github.com/irccloud/android) - Official. `Java`
     *   [Nimbus (⭐150)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Daemons / Self-hosted
 
 *   [ircd.js (⭐526)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
-*   [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source (⭐1k)](https://github.com/inspircd/inspircd))
-*   [miniircd (⭐392)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
-*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐364)](https://github.com/ngircd/ngircd))
+*   [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source (⭐1.1k)](https://github.com/inspircd/inspircd))
+*   [miniircd (⭐420)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
+*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐434)](https://github.com/ngircd/ngircd))
 
 ### Services / Self-hosted
 
-*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐362)](https://github.com/atheme/atheme))
-*   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐282)](https://github.com/anope/anope))
+*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐389)](https://github.com/atheme/atheme))
 
 ### Bots / Self-hosted
 
-*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐933)](https://github.com/sopel-irc/sopel)) `Python`
-*   [Limnoria (⭐591)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
-*   [Twitch Plays (⭐270)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
-*   [Skybot (⭐242)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
-*   [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source (⭐182)](https://github.com/jessamynsmith/talkbackbot)) `Python`
-*   [lazybot (⭐151)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
+*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐951)](https://github.com/sopel-irc/sopel)) `Python`
+*   [Limnoria (⭐618)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
+*   [Twitch Plays (⭐275)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
+*   [Skybot (⭐247)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
+*   [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source (⭐181)](https://github.com/jessamynsmith/talkbackbot)) `Python`
+*   [lazybot (⭐153)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
 *   [geordi (⭐183)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
 *   [yossarian-bot (⭐30)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
 *   [helga (⭐48)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 
 ### Frameworks / Self-hosted
 
-*   [goirc (⭐475)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
-*   [Hubot IRC Adapter (⭐304)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
-*   [go-ircevent (⭐456)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-*   [slate-irc (⭐202)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
-*   [PircBotX (⭐212)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+*   [goirc (⭐494)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
+*   [Hubot IRC Adapter (⭐299)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
+*   [go-ircevent (⭐480)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
+*   [slate-irc (⭐203)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+*   [PircBotX (⭐217)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
 
 ### Frameworks / Bridges
 
 *   [discord-irc (⭐1.2k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
-*   [slack-irc (⭐590)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
-*   [irc-slack (⭐171)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+*   [slack-irc (⭐588)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
+*   [irc-slack (⭐186)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 *   [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-*   [skyweb2irc (⭐8)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
+*   [skyweb2irc (⭐7)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 
 ### Channels / Discovery
 
@@ -953,12 +952,12 @@
 
 ### Protocol / Platforms
 
-*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐85)](https://github.com/ircv3/ircv3.github.io))
-*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐167)](https://github.com/ircdocs/modern-irc))
-*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐60)](https://github.com/ircdocs/irc-defs))
-*   [grawity's IRC docs (⭐53)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
-*   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐6)](https://github.com/ircdocs/irc-stats))
-*   [IRC Parser Tests (⭐34)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
+*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐86)](https://github.com/ircv3/ircv3.github.io))
+*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐189)](https://github.com/ircdocs/modern-irc))
+*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐61)](https://github.com/ircdocs/irc-defs))
+*   [grawity's IRC docs (⭐55)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
+*   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐7)](https://github.com/ircdocs/irc-stats))
+*   [IRC Parser Tests (⭐38)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
 
 ## [56. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 

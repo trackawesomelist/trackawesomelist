@@ -8,9 +8,9 @@
 
 ## [1. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Code Libraries
+### Code Libraries / Pre-LLM Guides, Lectures, and Courses
 
-*   [rentrez (⭐179)](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
+*   [rentrez (⭐193)](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

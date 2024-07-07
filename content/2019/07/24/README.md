@@ -58,7 +58,7 @@
 
 ### Libraries and Frameworks
 
-*   [webext-options-sync (⭐138)](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options.
+*   [webext-options-sync (⭐147)](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options.
 
 ## [8. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -138,7 +138,7 @@
 
 ## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### News / Video tutorials
+### News / Miscellaneous videos
 
 *   [Official Elm News](https://elm-lang.org/news) - Official Elm blog
 *   [Elm Weekly](http://www.elmweekly.nl/) - A weekly newsletter about Elm

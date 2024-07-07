@@ -132,7 +132,7 @@
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐30)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐31)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

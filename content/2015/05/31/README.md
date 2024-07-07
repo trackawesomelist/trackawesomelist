@@ -42,11 +42,11 @@
 
 ### Text and Numbers
 
-*   [neotomex (⭐67)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
+*   [neotomex (⭐68)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 
 ### Utilities
 
-*   [erlware\_commons (⭐219)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐220)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### Community
 

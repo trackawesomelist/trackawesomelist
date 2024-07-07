@@ -16,7 +16,7 @@
 
 ### PWA / Checkbox
 
-*   [SvelteKit-Adapter-Versioned-Worker (⭐8)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
+*   [SvelteKit-Adapter-Versioned-Worker (⭐9)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -39,7 +39,7 @@
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐574)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐609)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

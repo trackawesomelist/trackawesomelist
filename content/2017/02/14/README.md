@@ -34,7 +34,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Validations
 
-*   [jeaux (⭐12)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
+*   [jeaux (⭐13)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
 ## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

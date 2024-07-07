@@ -24,11 +24,11 @@
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐222)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐229)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 
-*   [Vaultwarden (⭐34k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`
+*   [Vaultwarden (⭐35k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -105,16 +105,16 @@
 
 ### Training
 
-*   [Application Security Education (⭐67)](https://github.com/duo-labs/appsec-education) - *Duo Security* - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.
+*   [Application Security Education (⭐68)](https://github.com/duo-labs/appsec-education) - *Duo Security* - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.
 
 ### Secrets Scanning / Ansible
 
 *   [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - *Microsoft* - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
 *   [GitGuardian](https://www.gitguardian.com/) - *GitGuardian* - A web-based solution that scans and monitors public and private git repositories for secrets.
-*   [Gitleaks (⭐15k)](https://github.com/zricethezav/gitleaks) - *Zachary Rice* - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
+*   [Gitleaks (⭐17k)](https://github.com/zricethezav/gitleaks) - *Zachary Rice* - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
 *   [git-secrets (⭐12k)](https://github.com/awslabs/git-secrets) - *AWS Labs* - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
 *   [Nightfall](https://nightfall.ai/solutions/product/github) - *Nightfall* - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
-*   [Repo-supervisor (⭐633)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+*   [Repo-supervisor (⭐632)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 *   [truffleHog (⭐14k)](https://github.com/trufflesecurity/truffleHog) - *Truffle Security* - Searches through git repositories for secrets, digging deep into commit history and branches.
 
 ## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)

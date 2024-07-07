@@ -10,7 +10,7 @@
 
 ### Table of Contents / Strings
 
-*   [Slugify (⭐2.8k)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+*   [Slugify (⭐2.9k)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 
 ---
 

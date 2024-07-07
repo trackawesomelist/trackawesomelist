@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Satis / IRC
 
 *   [Satis Control Panel (⭐151)](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
-*   [Satis Go (⭐99)](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
+*   [Satis Go (⭐96)](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -50,12 +50,6 @@
 ### Packages and Middleware
 
 *   [Lumen 5.2 HTTP Basic Auth Guard (⭐41)](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
-
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Individuals/Group Contributors / C individuals
-
-*   Clay McLeod <http://blog.claymcleod.io/>
 
 ---
 

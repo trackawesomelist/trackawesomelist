@@ -73,7 +73,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vuepic/vue-datepicker (⭐1.3k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [@vuepic/vue-datepicker (⭐1.4k)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

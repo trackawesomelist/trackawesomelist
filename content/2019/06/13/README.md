@@ -48,17 +48,17 @@
 
 ### Monetization / Preferences
 
-*   [Square In-App Payments SDK (⭐332)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Square In-App Payments SDK (⭐331)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐5.1k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐628)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐503)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐175)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐634)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐180)](http://github.com/sslotin/algo)
 
 ---
 

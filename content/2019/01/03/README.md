@@ -10,7 +10,7 @@
 
 ### Tools / IRC
 
-*   [Composer PreferLowest Checker (⭐17)](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
+*   [Composer PreferLowest Checker (⭐20)](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

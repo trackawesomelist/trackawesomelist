@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Apache Spark User List](http://apache-spark-user-list.1001560.n3.nabble.com/) and [Apache Spark Developers List](http://apache-spark-developers-list.1001551.n3.nabble.com/) - Mailing lists dedicated to usage questions and development topics respectively.
 
-## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / F companies
-
-*   Faraday <http://blog.faraday.io/>
-
-## [3. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [2. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Services / Nice-to-have :thumbsup:
 
@@ -28,25 +22,25 @@
 *   Invision Inspect – it gives developers access to measurements, colors, and assets from a designer’s prototype
 *   [Sympli](https://sympli.io)
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
 *   [MailMergeLib (⭐106)](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
 
-## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [VR Ondes Martenot (⭐5)](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Polyglot
 
 *   [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
 
-## [7. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Blog Posts
 

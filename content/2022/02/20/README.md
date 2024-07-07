@@ -16,24 +16,24 @@
 
 ### Browser-Based / Boardgame
 
-*   [3D Hartwing Chess Set (⭐462)](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
-*   [c4 (⭐218)](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
-*   [Lichess (⭐13k)](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+*   [3D Hartwing Chess Set (⭐483)](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
+*   [c4 (⭐240)](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
+*   [Lichess (⭐15k)](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 
 ### Browser-Based / Arcade
 
-*   [Alge's Escapade (⭐34)](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
-*   [Alien Invasion (⭐163)](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
-*   [Arashi (⭐18)](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
-*   [Asteroids (⭐321)](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
-*   [Avabranch (⭐55)](https://github.com/Zolmeister/avabranch) - Get your Ava away from the blocks moving between them.
-*   [Ball And Wall (⭐35)](https://github.com/budnix/ball-and-wall) - Destroy the blocks using the Vaus, that is ejected from the ship.
+*   [Alge's Escapade (⭐36)](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
+*   [Alien Invasion (⭐172)](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
+*   [Arashi (⭐19)](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
+*   [Asteroids (⭐331)](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
+*   [Avabranch (⭐58)](https://github.com/Zolmeister/avabranch) - Get your Ava away from the blocks moving between them.
+*   [Ball And Wall (⭐38)](https://github.com/budnix/ball-and-wall) - Destroy the blocks using the Vaus, that is ejected from the ship.
 *   [Breakout (⭐25)](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. Destroy the blocks using one ball from your ship.
-*   [Jolly Jumper (⭐67)](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
+*   [Jolly Jumper (⭐69)](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
 *   [Core Commiter (⭐13)](https://github.com/vladikoff/game-off-2012) - Choose an open source project and help that project by sorting code to proper branches.
-*   [Digger (⭐76)](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
-*   [Drill Bunny (⭐43)](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
-*   [Emberwind (⭐256)](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
+*   [Digger (⭐84)](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
+*   [Drill Bunny (⭐42)](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
+*   [Emberwind (⭐261)](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
 
 ### Native / FPS
 
@@ -41,7 +41,7 @@
 
 ### Native / Platform
 
-*   [DDraceNetwork (⭐431)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐515)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -72,15 +72,15 @@
 
 ### Job Scheduler
 
-*   [goflow (⭐280)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
+*   [goflow (⭐305)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 
 ### Uncategorized
 
-*   [xz (⭐460)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐471)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐4k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐4.1k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐805)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐806)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 

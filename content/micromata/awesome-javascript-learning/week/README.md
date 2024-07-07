@@ -2,9 +2,15 @@
 
 A tiny list limited to the best JavaScript Learning Resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 4.3K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 5.2K · 🏷️ Learn
 
 [ [Daily](/content/micromata/awesome-javascript-learning/README.md) / Weekly / [Overview](/content/micromata/awesome-javascript-learning/readme/README.md) ]
+
+## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+
+### DOM related / Single Topics
+
+*   [DOM Enlightenment](https://domenlightenment.com/) - A whole book about how to access and manipulate the DOM without a library.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
@@ -41,7 +47,7 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### Free eBooks / Single Topics
 
-*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
+*   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
 
 ### Interactive learning / Single Topics
 
@@ -71,7 +77,7 @@ A tiny list limited to the best JavaScript Learning Resources
 ### Free eBooks / Single Topics
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 
 ### Books / Single Topics
 
@@ -138,7 +144,7 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### ES6 and above / Single Topics
 
-*   [30 seconds of code (⭐104k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
+*   [30 seconds of code (⭐120k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
@@ -162,7 +168,7 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### ES6 and above / Single Topics
 
-*   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
+*   [Practical ES6 (⭐3.1k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 
@@ -183,12 +189,11 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### DOM related / Single Topics
 
-*   [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 
 ### Node.js / Single Topics
 
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
+*   [The Art of Node (⭐9.8k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
 *   [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 *   [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 

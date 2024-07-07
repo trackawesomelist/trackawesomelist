@@ -30,21 +30,21 @@
 
 *   [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### OpenResty / PicoLisp
+
+*   [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
+
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [filtrex (⭐192)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐194)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### Macros
 
 *   [pipe\_here (⭐34)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
-
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / T companies
-
-*   TrackMaven <http://engineroom.trackmaven.com/>
 
 ## [7. Codeface](/content/chrissimpkins/codeface/README.md)
 

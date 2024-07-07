@@ -14,7 +14,7 @@
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐40k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐41k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
@@ -38,7 +38,7 @@
 
 ### Authentication and OAuth
 
-*   [keto (⭐4.6k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4.7k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -84,11 +84,11 @@
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐931)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐943)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐354)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐353)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,7 +98,7 @@
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Paper Reading
+### Paper Reading / Commonsense Knowledgebase
 
 *   [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804\&hl=en\&as_sdt=0,5)]. Nature perspective on reading scientific papers.
 
@@ -106,18 +106,18 @@
 
 ### The big two automation libraries
 
-*   [Puppeteer (⭐80k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2k)](https://github.com/transitive-bullshit/awesome-puppeteer).
-*   [Playwright (⭐44k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐280)](https://github.com/mxschmitt/awesome-playwright).
+*   [Puppeteer (⭐87k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2.3k)](https://github.com/transitive-bullshit/awesome-puppeteer).
+*   [Playwright (⭐62k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐740)](https://github.com/mxschmitt/awesome-playwright).
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   JavaScript/Node.js: [chrome-remote-interface (⭐3.8k)](https://github.com/cyrus-and/chrome-remote-interface)
-*   TypeScript/Node.js: [chrome-debugging-client (⭐115)](https://github.com/TracerBench/chrome-debugging-client)
-*   Typescript/Node.js: [Taiko (⭐3.2k)](https://github.com/getgauge/taiko/)
-*   Rust: [Rust Headless Chrome (⭐1.2k)](https://github.com/atroche/rust-headless-chrome/)
-*   Python: [pyppeteer (⭐2.7k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
-*   Ruby: [Ferrum (⭐1.3k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
-*   Clojure: [cuic (⭐29)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
+*   JavaScript/Node.js: [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface)
+*   TypeScript/Node.js: [chrome-debugging-client (⭐130)](https://github.com/TracerBench/chrome-debugging-client)
+*   Typescript/Node.js: [Taiko (⭐3.5k)](https://github.com/getgauge/taiko/)
+*   Rust: [Rust Headless Chrome (⭐1)](https://github.com/atroche/rust-headless-chrome/)
+*   Python: [pyppeteer (⭐3.5k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
+*   Ruby: [Ferrum (⭐1.7k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
+*   Clojure: [cuic (⭐36)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
 *   PHP: [PuPHPeteer (⭐1.3k)](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
 
 ### Browser Adapters
@@ -126,7 +126,7 @@
 
 ### Using DevTools frontend with other platforms / Ruby
 
-*   [ruby/debug (⭐774)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
+*   [ruby/debug (⭐1.1k)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ### Workflow / Ruby
 
@@ -134,14 +134,14 @@
 
 ### Alumni / Ruby
 
-*   [Remote Debug Gateway (⭐87)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-    *   Multiuser DevTools: [DevTools Remote (⭐666)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
-*   [DevTools Backend (⭐134)](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
-*   Python CDP driver: [pychrome (⭐509)](https://github.com/fate0/pychrome) - low level CDP transport handler
-*   [ios-webkit-debug-proxy (⭐5.6k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
-    *   [Remote Debug iOS WebKit adapter (⭐2.6k)](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
-*   [IE Diagnostics Adapter (⭐577)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
-*   [go-debugger-devtools (⭐40)](https://github.com/allada/go-debugger-devtools)
+*   [Remote Debug Gateway (⭐91)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+    *   Multiuser DevTools: [DevTools Remote (⭐682)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+*   [DevTools Backend (⭐141)](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
+*   Python CDP driver: [pychrome (⭐598)](https://github.com/fate0/pychrome) - low level CDP transport handler
+*   [ios-webkit-debug-proxy (⭐5.9k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
+    *   [Remote Debug iOS WebKit adapter (⭐2.7k)](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
+*   [IE Diagnostics Adapter (⭐574)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
+*   [go-debugger-devtools (⭐42)](https://github.com/allada/go-debugger-devtools)
 
 ---
 

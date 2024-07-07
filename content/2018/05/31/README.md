@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -524,13 +524,7 @@
 *   [Build a cryptocurrency tracker using Vue.js](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
 *   [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Phone Number Research / Telegram
-
-*   [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
-
-## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Remote Code Execution
 

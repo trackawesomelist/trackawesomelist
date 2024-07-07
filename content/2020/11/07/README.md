@@ -16,7 +16,7 @@
 
 ### Internationalization / Image Picker
 
-*   [attranslate (⭐302)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+*   [attranslate (⭐322)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
 ## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 

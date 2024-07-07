@@ -34,7 +34,7 @@
 
 ### Examples and funny stuff
 
-*   [koans (⭐248)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
+*   [koans (⭐249)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 
 ### Framework Components
 

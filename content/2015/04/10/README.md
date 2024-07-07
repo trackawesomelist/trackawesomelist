@@ -62,7 +62,7 @@
 
 ### Error Handling
 
-*   [Exception Handler (⭐506)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐507)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### Web Frameworks
 

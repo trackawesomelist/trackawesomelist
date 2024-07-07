@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,17 +77,7 @@ git log --oneline master..<branch-name> | tail -1
 git log --reverse master..<branch-name> | head -6
 ```
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / B companies
-
-*   Boxever <http://www.boxever.com/blog/>
-
-### Companies / G companies
-
-*   Grouper <http://blog.joingrouper.com/>
-
-## [8. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Community
 
@@ -112,7 +102,7 @@ git log --reverse master..<branch-name> | head -6
 
 *   [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
 
-## [9. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Sites for Practice / Contest Calendars
 
@@ -124,7 +114,7 @@ git log --reverse master..<branch-name> | head -6
 
 
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Images
 
@@ -134,7 +124,7 @@ git log --reverse master..<branch-name> | head -6
 
 *   [Glide Bitmap Pool (⭐571)](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 
-## [11. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 
 ### Generic Info
 
@@ -147,7 +137,7 @@ git log --reverse master..<branch-name> | head -6
 *   [Wicket JavaDocs](http://ci.apache.org/projects/wicket/apidocs/7.x/index.html) - Wicket JavaDocs for version 7.x.
 *   [Wicket in Action](http://wicketinaction.com/) - Blog and book about Wicket.
 
-## [12. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Tutorials / IRC
 

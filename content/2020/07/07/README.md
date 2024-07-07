@@ -193,7 +193,7 @@
 
 ### Tools / XML
 
-*   [dmm (⭐58)](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
+*   [dmm (⭐59)](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 
 ## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Blogposts and opinions
 
-*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
+*   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -244,7 +244,7 @@
 
 ### Frameworks
 
-*   [Kigs framework (⭐78)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. \[MIT] [website](https://kigs-framework.org/)
+*   [Kigs framework (⭐79)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. \[MIT] [website](https://kigs-framework.org/)
 
 ## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -261,11 +261,11 @@
 ### Audio
 
 *   [FDWaveformView (⭐1.2k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
-*   [FDSoundActivatedRecorder (⭐285)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
+*   [FDSoundActivatedRecorder (⭐288)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
 
 ### UITableView / Barcode
 
-*   [FDTextFieldTableViewCell (⭐26)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
+*   [FDTextFieldTableViewCell (⭐25)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
 
 ### Games
 
@@ -273,17 +273,17 @@
 
 ### Camera
 
-*   [FDTake (⭐322)](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
+*   [FDTake (⭐320)](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
 
 ### Form / Barcode
 
-*   [FDBarGauge (⭐26)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
+*   [FDBarGauge (⭐28)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Project setup
 
-*   [swift5-module-template (⭐439)](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
+*   [swift5-module-template (⭐447)](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
 
 ---
 

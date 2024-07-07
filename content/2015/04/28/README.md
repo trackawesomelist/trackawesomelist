@@ -16,13 +16,13 @@
 
 ### Queue
 
-*   [amqp (⭐665)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐673)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / NoSQL
 
-*   [PHPMongo (⭐243)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+*   [PHPMongo (⭐242)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 
 ## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

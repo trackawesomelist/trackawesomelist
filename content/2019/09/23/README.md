@@ -38,7 +38,7 @@
     spell Checker.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
     style checking on LaTeX documents.
-*   [Vale (⭐3.9k)](https://github.com/errata-ai/vale) - Free, open-source linter for
+*   [Vale (⭐4.3k)](https://github.com/errata-ai/vale) - Free, open-source linter for
     prose built with speed and extensibility in mind.
 *   [write-good (⭐4.9k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
@@ -75,7 +75,7 @@
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐7.3k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -99,7 +99,7 @@
 ### Related
 
 *   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐310k)](https://github.com/sindresorhus/awesome#security)
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐423)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐424)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -161,11 +161,11 @@
 
 ### Back-End Development
 
-*   [Vagrant (⭐588)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐547)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐605)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐91)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐325)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Vagrant (⭐596)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐549)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐92)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Lumen (⭐327)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)

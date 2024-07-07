@@ -6,6 +6,12 @@ Awesome & Marvelous Amas
 
 [ Daily / [Weekly](/content/sindresorhus/amas/week/README.md) / [Overview](/content/sindresorhus/amas/readme/README.md) ]
 
+## [Jul 07, 2024](/content/2024/07/07/README.md)
+
+### Ask these people anything!
+
+*   [Sarvsav Sharma (⭐0)](https://github.com/sarvsav/ama) - Aspiring green software developer passionate about sustainable coding, specializing in Go.
+
 ## [Mar 12, 2024](/content/2024/03/12/README.md)
 
 ### Ask these people anything!
@@ -46,7 +52,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐136)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ## [Jan 19, 2021](/content/2021/01/19/README.md)
 
@@ -155,7 +161,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐5)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [Feb 12, 2019](/content/2019/02/12/README.md)
 
@@ -344,7 +350,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐325)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [Apr 27, 2017](/content/2017/04/27/README.md)
 
@@ -480,7 +486,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
+*   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 
 ## [Apr 16, 2016](/content/2016/04/16/README.md)
 
@@ -489,7 +495,7 @@ Awesome & Marvelous Amas
 *   [Wenjie Fan (⭐1)](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
 *   [Robert Haritonov (⭐1)](https://github.com/operatino/ama) - Front-end team lead, SourceJS maintainer and Living Style Guide evangelist.
 *   [Henry Snopek (⭐1)](https://github.com/hhsnopek/ama) - Front-end developer, university student.
-*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
+*   [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer. Creator of CSSDeck.
 *   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of hackrslab.
 *   [Una Kravets (⭐17)](https://github.com/una/ama) - Front-end developer, Sass things, Dev communities & Open Source Design.
 *   [Chris Missal (⭐1)](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
@@ -817,8 +823,8 @@ Awesome & Marvelous Amas
 
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐726)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
-*   [Kent C. Dodds (⭐684)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 
 ## [Jul 04, 2015](/content/2015/07/04/README.md)
 

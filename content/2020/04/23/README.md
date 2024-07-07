@@ -14,7 +14,7 @@
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Annotated Text Data / Other models
+### Datasets / Annotated Text Data
 
 *   [BioScope](https://rgai.inf.u-szeged.hu/node/105) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/) - a corpus of sentences from medical and biological documents, annotated for negation, speculation, and linguistic scope.
 
@@ -28,13 +28,13 @@
 
 ### Database
 
-*   [QuickDB (⭐17)](https://github.com/behrad-kzm/QuickDB) - Save and Retrieve any `Codable` in JUST ONE line of code + more easy usecases.
+*   [QuickDB (⭐18)](https://github.com/behrad-kzm/QuickDB) - Save and Retrieve any `Codable` in JUST ONE line of code + more easy usecases.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Design Systems
 
-*   [Brightspace UI core (⭐48)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Brightspace UI core (⭐58)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 
 ## [6. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

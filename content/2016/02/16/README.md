@@ -28,7 +28,7 @@
 
 ### JavaScript Libraries
 
-*   [Awesome CryptoCoinJS (⭐57)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+*   [Awesome CryptoCoinJS (⭐58)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Authentication
 
-*   [goth (⭐274)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐281)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Editors
 

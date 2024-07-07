@@ -14,9 +14,9 @@
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
-### Automation / Code libraries and bindings
+### Automation and Convention / Code libraries and bindings
 
-*   [censys-python (⭐350)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐380)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

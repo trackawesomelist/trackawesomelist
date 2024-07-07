@@ -39,37 +39,43 @@
 
 *   [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / F companies
+
+*   Findmypast <http://tech.findmypast.com/>
+
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [tensorflow.rb (⭐826)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Pattern Matching
 
 *   [cats.match (⭐51)](https://github.com/zalando/cats.match)
 
-## [8. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [ReDoc (⭐23k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Hybrid Radio
 
 *   [RadioTag.js (⭐5)](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Elixir / General-Purpose Machine Learning
 
@@ -77,29 +83,19 @@
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐149)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐150)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
-## [12. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [13. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 
-## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐772)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
-
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / F companies
-
-*   Findmypast <http://tech.findmypast.com/>
-
-### Companies / Z companies
-
-*   Zomato <https://engineering.zomato.com/>
+*   [YouTube Subtitle Download (⭐788)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ## [15. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -133,7 +129,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Files / Runner
 
-*   [jsPDF (⭐28k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
+*   [jsPDF (⭐29k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
 ### Boilerplates / Other
 
@@ -151,25 +147,19 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 
-## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
-
-### Tools / IRC
-
-*   [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
-
-## [21. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [20. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Tutorials / Question Answering
 
 *   \[CVPR 2015] [Applied Deep Learning for Computer Vision with Torch (⭐869)](https://github.com/soumith/cvpr2015)
 
-## [22. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [21. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Upper Elementary
 
 *   [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 
-## [23. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [22. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
@@ -233,7 +223,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
 *   [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon GO.
 
-## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Redshift
 
@@ -243,23 +233,23 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [alex/letsencrypt-aws :fire::fire::fire: (⭐729)](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 
-## [25. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [24. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Architecture / Scala
 
 *   [OSCON 2014: How Instagram.com Works Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) By Pete Hunt
 
-## [26. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Weird
 
-*   [nerds (⭐107)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐108)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ### Resources / Miscellaneous
 
 *   [Microsoft Node.js Guidelines (⭐2.5k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
-## [27. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [26. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Libraries and Tools
 
@@ -274,19 +264,19 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
 
-## [28. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [27. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### User Interface Components
 
 *   **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
 
-## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
 *   [MakemojiSDK (⭐101)](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
 
-## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Learning
 
@@ -299,22 +289,22 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
 *   [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
 *   [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
-*   [VueJS Developer Tools (⭐23k)](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data.
+*   [VueJS Developer Tools (⭐24k)](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data.
 *   [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Inspect an Angular application's scope and profile its data.
 *   [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.
 *   [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) - Inspect a Backbone application's views, models, events, and routes.
 *   [App Inspector for Sencha](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae) - Inspect a Sencha ExtJS/Touch application's component tree, data stores, events, and layouts.
 *   [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
 *   [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - Edit any three.js project.
-*   [Insight (⭐900)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
-*   [BEM devtools (⭐44)](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
+*   [Insight (⭐906)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
+*   [BEM devtools (⭐45)](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
 
 ### Themes / Ruby
 
 *   [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
 *   [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 
-## [31. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Citizen Science Spaces and Projects / Genetics/Biohacking
 
@@ -328,6 +318,16 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 ### Conferences and Events / Other Types of Support
 
 *   [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems.
+
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Non-X86
+
+*   [Elixir School](https://elixirschool.com) (HTML)
+
+### IoT / Bootstrap
+
+*   [IoT in five days- V1.1 (⭐152)](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -348,11 +348,11 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### TextField / Barcode
 
-*   [PasswordTextField (⭐308)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
+*   [PasswordTextField (⭐310)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
 
 ### Transition / Barcode
 
-*   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
+*   [RevealingSplashView (⭐1.3k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

@@ -297,13 +297,19 @@
 
 *   [run-npm (⭐180)](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 
-## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Unix / Deno
+
+*   [Unix as IDE (⭐362)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+
+## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
 
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -313,13 +319,13 @@
 
 *   [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 
-## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3scription (⭐29)](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
 
-## [19. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [20. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Programming
 
@@ -328,25 +334,25 @@
 *   [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 *   [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 
-## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Caching and Locking
 
 *   [Metaphore (⭐101)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
 *   [Rembulan (⭐157)](https://github.com/mjanicek/rembulan) - Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.
 
-## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [23. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elmkit (⭐51)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
+*   [elmkit (⭐52)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
 
-## [23. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [24. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
@@ -360,13 +366,13 @@
 
 *   [Pollinate (⭐221)](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
-## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [25. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 
-## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -374,7 +380,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐53)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐54)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -396,35 +402,17 @@
 
 *   [pocketex (⭐7)](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
 
-## [26. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [27. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Links / Image Deblurring
 
 *   [awesome-machine-learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
 *   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
-
-## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Companies / P companies
-
-*   Pivotal <https://engineering.pivotal.io>
-
-### Companies / W companies
-
-*   WalmartLabs <https://medium.com/walmartlabs/>
-
-### Individuals/Group Contributors / T individuals
-
-*   Tero Parviainen <http://teropa.info/>
-
-### Products/Technologies / K technologies
-
-*   Klipse <http://blog.klipse.tech/>
 
 ## [29. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 

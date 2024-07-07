@@ -1,25 +1,19 @@
 # Awesome List Updates on Jul 17, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
-
-### Mods / Performance
-
-*   [Iris (for Fabric)](https://irisshaders.net/) - A Fabric mod which is based upon Sodium to add Shader support.
-
-## [2. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [1. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Internationalization
 
 *   [Meteor-Internationalization (⭐14)](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
 *   [meteor-accounts-t9n (⭐82)](https://github.com/softwarerero/meteor-accounts-t9n/) - Translations for meteor account's error messages.
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards
 
@@ -31,7 +25,7 @@
 *   [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 *   [PlanningPrep](https://www.planningprep.com/) - A free web-based study resource to help planners prepare for the American Institute of Certified Planners' certification exam. As of summer 2021, the site contains 1668 practice questions and 12 practice exams.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -49,7 +43,7 @@
 
 
 
-## [5. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
+## [4. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
 
 ### Directory
 
@@ -5832,7 +5826,7 @@
 
 
 
-## [6. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
+## [5. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
 ### Official
 
@@ -5958,11 +5952,11 @@
 *   [Alexintosh/Awesome-Ionic (⭐1.5k)](https://github.com/Alexintosh/Awesome-Ionic)
 *   [candelibas/awesome-ionic (⭐842)](https://github.com/candelibas/awesome-ionic)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Reflection
 
-*   [config-loader (⭐189)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐193)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ---
 

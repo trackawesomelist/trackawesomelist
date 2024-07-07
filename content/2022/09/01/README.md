@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐86)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+*   [pearxteam/kasechange (⭐87)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,8 +58,8 @@
 
 ### Tools / Working with types
 
-*   [mypy-baseline (⭐42)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
-*   [retype (⭐139)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
+*   [mypy-baseline (⭐50)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
+*   [retype (⭐140)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 *   [typesplainer (⭐82)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)

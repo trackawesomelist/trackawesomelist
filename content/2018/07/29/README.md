@@ -26,19 +26,19 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐275)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐274)](https://github.com/ElementsProject/libwally-core)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
-*   [base62.cr (⭐9)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
+*   [base62.cr (⭐10)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Similar libraries / Other Tools
 
-*   [hybrids (⭐2.9k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+*   [hybrids (⭐3k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
 ## [6. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Work
 
-*   [Code Review (⭐4.2k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4.3k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 

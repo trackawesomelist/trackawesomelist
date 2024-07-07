@@ -14,7 +14,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [SVM Explorer (⭐153)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
+*   [SVM Explorer](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

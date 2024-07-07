@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 22, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,21 +51,15 @@
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / R companies
-
-*   RapidAPI <http://blog.rapidapi.com/>
-
-## [5. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [4. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
-### Videos / Video tutorials
+### Learning Guides / Learning Videos
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 

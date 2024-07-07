@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,24 +50,14 @@
 
 ### Online Scanners and Sandboxes / Other Resources
 
-*   [SEE (⭐806)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
+*   [SEE (⭐809)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
     is a framework for building test automation in secured Environments.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / S companies
-
-*   Semaphore CI Community <https://semaphoreci.com/community>
-
-### Companies / T companies
-
-*   Teespring <http://teespring.engineering/>
-
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Static Site Generation
 
-*   [Photish (⭐148)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐149)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ---
 

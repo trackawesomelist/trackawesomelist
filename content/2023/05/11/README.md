@@ -29,7 +29,7 @@
 ### Articles / Others
 
 *   [Join the .NET Team at Microsoft Build 2023](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/) - April 24, 2023 - Are you ready for Build 2023? Microsoft’s premier developer conference is just around the corner, and there are several exciting .NET sessions that you won’t want to miss.
-*   [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/) - April 11, 2023 - ASP.NET Core updates in .NET 8 Preview 3. Here’s a summary of what’s new in this preview release: Server-side rendering with Blazor, Render Razor components outside of ASP.NET Core, Sections support in Blazor, Monitor Blazor Server circuit activity, SIMD enabled by default for Blazor WebAssembly apps and more. See the [ASP.NET Core roadmap for .NET 8 (⭐34k)](https://github.com/dotnet/aspnetcore/issues/44984).
+*   [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/) - April 11, 2023 - ASP.NET Core updates in .NET 8 Preview 3. Here’s a summary of what’s new in this preview release: Server-side rendering with Blazor, Render Razor components outside of ASP.NET Core, Sections support in Blazor, Monitor Blazor Server circuit activity, SIMD enabled by default for Blazor WebAssembly apps and more. See the [ASP.NET Core roadmap for .NET 8 (⭐35k)](https://github.com/dotnet/aspnetcore/issues/44984).
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

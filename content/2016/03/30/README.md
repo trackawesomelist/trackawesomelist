@@ -16,13 +16,13 @@
 
 ### Machine Learning
 
-*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Event
 
-*   [Prooph Event Store (⭐549)](https://github.com/prooph/event-store) - An event source component to persist event messages
+*   [Prooph Event Store (⭐547)](https://github.com/prooph/event-store) - An event source component to persist event messages
 
 ## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐60)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐60)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Bundlers
 
-*   [Rollup (⭐24k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+*   [Rollup (⭐25k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐93)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐94)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

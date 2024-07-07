@@ -2,7 +2,7 @@
 
 :mortar_board: Path to a free self-taught education in Computer Science!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 161K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 165K · 🏷️ Computer Science
 
 [ [Daily](/content/ossu/computer-science/README.md) / [Weekly](/content/ossu/computer-science/week/README.md) / Overview ]
 
@@ -66,7 +66,7 @@ they belong in [extras/courses](https://github.com/ossu/computer-science/blob/ma
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet
 ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
 
-> **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo (⭐161k)](https://github.com/ossu/computer-science) to see what courses to do.
+> **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo (⭐165k)](https://github.com/ossu/computer-science) to see what courses to do.
 
 **Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
 Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
@@ -93,7 +93,7 @@ just remember that you can't purchase success!
 *   You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](https://github.com/ossu/computer-science/blob/master/README.md/CONTRIBUTING.md).
 *   Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
-> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU CS website](https://cs.ossu.dev) or [OSSU CS Github Repo (⭐161k)](https://github.com/ossu/computer-science). Some known outdated materials are:
+> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU CS website](https://cs.ossu.dev) or [OSSU CS Github Repo (⭐165k)](https://github.com/ossu/computer-science). Some known outdated materials are:
 >
 > *   An unmaintained and deprecated firebase app. Read more in the [FAQ](https://github.com/ossu/computer-science/blob/master/README.md/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 > *   An unmaintained and deprecated trello board
@@ -128,7 +128,7 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-*   [Core CS](#core-cs) assumes the student has already taken [high school math (⭐161k)](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+*   [Core CS](#core-cs) assumes the student has already taken [high school math (⭐165k)](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 *   [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
     and is knowledgeable enough now to decide which electives to take.
 *   Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -208,7 +208,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week |                                                                                                                                       The alternate covers this and the following 2 courses                                                                                                                                      | [high school math](https://github.com/ossu/computer-science/blob/master/README.md/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F) |
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)                                                                                                                   | 13 weeks | 5-10 hours/week |                                                                                                                                                                 -                                                                                                                                                                |                                                            Calculus 1A                                                            | [chat](https://discord.gg/sddAsZg) |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)                                                                                          |  6 weeks | 5-10 hours/week |                                                                                                                                                                 -                                                                                                                                                                |                                                            Calculus 1B                                                            | [chat](https://discord.gg/FNEcNNq) |
-| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))              | 13 weeks |   5 hours/week  | [2015/2019 solutions (⭐107)](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions (⭐236)](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). |                                                            Calculus 1C                                                            | [chat](https://discord.gg/EuTzNbF) |
+| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))              | 13 weeks |   5 hours/week  | [2015/2019 solutions (⭐120)](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions (⭐241)](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). |                                                            Calculus 1C                                                            | [chat](https://discord.gg/EuTzNbF) |
 
 ### CS Tools
 
@@ -360,8 +360,8 @@ But students should take *every* course that is relevant to the field they inten
 | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)                                                                                        |  4 weeks | 6-8 hours/week |          Scala programming          |
 | [Compilers](https://www.edx.org/course/compilers)                                                                                                                        |  9 weeks | 6-8 hours/week |                 none                |
 | [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)                                                                                                    | 14 weeks |        -       |                  -                  |
-| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative (⭐161k)](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))\* | 12 weeks |        -       |                  -                  |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                           |  8 weeks |  6 hours/week  | Python, object-oriented programming |
+| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative (⭐165k)](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))\* | 12 weeks |        -       |                  -                  |
+| [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)                                                                           |  8 weeks |  6 hours/week  | Python, object-oriented programming |
 | [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)                                                                             |  4 weeks |  6 hours/week  |    Python, programming experience   |
 
 (\*) book by Blackburn, Bos, Striegnitz (compiled from [source (⭐78)](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
@@ -480,16 +480,16 @@ What is next for you? The possibilities are boundless and overlapping:
 
 # Code of conduct
 
-[OSSU's code of conduct (⭐316)](https://github.com/ossu/code-of-conduct).
+[OSSU's code of conduct (⭐338)](https://github.com/ossu/code-of-conduct).
 
 ## How to show your progress
 
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo (⭐161k)](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
+[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo (⭐165k)](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
 # Team
 
 *   **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 *   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 *   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
-*   **[Contributors (⭐161k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐165k)](https://github.com/ossu/computer-science/graphs/contributors)**
 

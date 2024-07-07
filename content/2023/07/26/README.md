@@ -8,7 +8,7 @@
 
 ## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-### Follow : Official / Talks and videos
+### Follow / Talks and videos
 
 *   [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
 *   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
@@ -24,11 +24,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [serenevoid/kiwi.nvim (⭐157)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+*   [serenevoid/kiwi.nvim (⭐160)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/usage-tracker.nvim (⭐84)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+*   [gaborvecsei/usage-tracker.nvim (⭐87)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Contents / EHR
 
-*   [ERPNext (⭐16k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+*   [ERPNext (⭐17k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
 *   [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
 
 ### Contents / Laboratory
@@ -80,7 +80,7 @@
 
 ### Contents / Frameworks
 
-*   [CyclOps (⭐61)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
+*   [CyclOps (⭐66)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
 
 ### Contents / Applications
 
@@ -88,21 +88,21 @@
 
 ### Contents / Books
 
-*   [Inspired EHRs (⭐109)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+*   [Inspired EHRs (⭐114)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
 
 ### Contents / Data
 
-*   [EDS\_NLP (⭐94)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
+*   [EDS\_NLP (⭐97)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
 *   [eds-scikit (⭐31)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
 
 ### Contents / Design
 
-*   [Determinants of Health (⭐67)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
-*   [Health Icons (⭐599)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
+*   [Determinants of Health (⭐70)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
+*   [Health Icons (⭐615)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 
 ### Contents / Machine learning
 
-*   [MedicalGPT (⭐2.2k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+*   [MedicalGPT (⭐2.7k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

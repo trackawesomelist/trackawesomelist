@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29 - Jul 05, 2020
 
-63 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐183)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐190)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -37,43 +37,49 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐132)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐129)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
 *   [computed-types (⭐366)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### TypeScript / Deno
+
+*   [Deno Manual](https://deno.land/manual)
+
+## [5. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
 
-## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 
-## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [9. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Beta Testing - <https://betatesting.com/beta-testing>
 
-## [9. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [10. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Getting Started
 
@@ -313,39 +319,39 @@
 *   [Pathable](https://github.com/Urigo/awesome-meteor/blob/master/README.md/Pathable) - Events managment suite
 *   [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Operation System / Server Infrastructure and High Performance Computing
 
 *   [mass (⭐255)](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 
-## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Flame (⭐954)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐992)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐165)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐169)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐183)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐186)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
-## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [13. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Google Cloud](https://cloud.google.com/community/)
 
-## [13. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Code and Package Repositories
 
 *   [PowerShell Test Gallery](https://www.poshtestgallery.com/) - A test version of the PowerShell Gallery. Useful when developing new modules.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
@@ -354,13 +360,13 @@
 *   [P4wnP1 (⭐3.9k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [PoisonTap (⭐6.1k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [16. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Deployment / Distribution
 
 *   [Appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -389,7 +395,7 @@
 
 *   [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - A practical overview, based on real-world experience, of what one would need to know in order to build microservices.
 
-## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
@@ -404,7 +410,7 @@
 
 *   [ublox-cellular-rs (⭐20)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
-## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [19. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -425,7 +431,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐326)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐334)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -443,7 +449,7 @@
 ### Society / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [一些法律相关信息的 RSS 订阅地址](https://blackwinmin.github.io/posts/law_rss/) <sup>[681](https://t.me/s/aboutrss/681)</sup>
-*   [品葱精选 (⭐5)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
+*   [品葱精选 (⭐6)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -457,9 +463,9 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐241)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐242)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [20. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Official resources
 
@@ -473,7 +479,7 @@
 
 *   [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 
-## [20. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [21. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Support Communities
 
@@ -688,7 +694,7 @@ Language: English \ <br>
 Notable Channels: `#business`, `#game-design`, `#math`, `#mechanics`, `#playtesting`, `#visual-design`, `#world-design`, `#writing`, `#game-critique`, `#mechanics-critique`, `#projects` \
 Language: English
 
-## [21. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [22. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Tools
 
@@ -696,7 +702,7 @@ Language: English
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Calendar / Barcode
 
@@ -706,7 +712,7 @@ Language: English
 
 *   [SuggestionsKit (⭐69)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
-## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -714,10 +720,9 @@ Language: English
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐670)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [Blazor-ApexCharts (⭐695)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐318)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
-*   [GG.Net Data Visualization (⭐78)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [ChartJs.Blazor (⭐676)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [GG.Net Data Visualization (⭐80)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [Plotly.Blazor (⭐329)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 
 ### 2D/3D Rendering engines / Date & time
 
@@ -725,68 +730,68 @@ Language: English
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐761)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐763)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### 2D/3D Rendering engines / Others
 
 *   [Texnomic.Blazor.hCaptcha (⭐7)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
 
-## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
 *   [manual-gtfsrt (⭐5)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
 
-## [25. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [26. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐1.1k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐1.3k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
-## [26. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / PHP
 
 *   [DDD CQRS Todo Sample (⭐353)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
-## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [28. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Models
 
 *   [django-polymorphic (⭐1.6k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
 *   [climate (⭐14)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐300)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐301)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐113)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐116)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
-## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Meaning of Symbols:
 
 *   :information\_source: indicates that the community does not recommend to use this tool for new projects anymore. The icon links to the discussion issue.
 
-## [32. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [33. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
 *   [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
 
-## [33. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [34. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
@@ -800,20 +805,20 @@ Language: English
 *   [Starter Template for NestJS and Prisma (⭐18)](https://github.com/fivethree-team/nestjs-prisma-starter)
 *   [prisma-relay-cursor-connection (⭐263)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
 *   [Lara (⭐139)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
-## [35. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [36. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Codelabs/Courses
 
 *   [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 *   [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 
-## [36. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [37. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Articles
 
@@ -844,7 +849,7 @@ Language: English
 
 *   [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - *Microsoft* - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 *   [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - *NIST* - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
-*   [Software Assurance Maturity Model (⭐395)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
+*   [Software Assurance Maturity Model (⭐396)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Training
 
@@ -866,9 +871,9 @@ Language: English
 
 ### Dynamic Analysis
 
-*   [Automatic API Attack Tool (⭐438)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
+*   [Automatic API Attack Tool (⭐443)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
 *   [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - *PortSwigger* - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
-*   [Gauntlt (⭐972)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+*   [Gauntlt (⭐977)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
 *   [SSL Labs Scan (⭐1.7k)](https://github.com/ssllabs/ssllabs-scan) - *SSL Labs* - Automated scanning for SSL / TLS configuration issues.
 *   [Zed Attack Proxy (ZAP) (⭐12k)](https://github.com/zaproxy/zaproxy) - *OWASP* - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
@@ -888,21 +893,21 @@ Language: English
 
 ### Infrastructure as Code Analysis / Kubernetes
 
-*   [Kube-Score (⭐2.6k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
-*   [Kubectrl Kubesec (⭐501)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+*   [Kube-Score (⭐2.7k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
+*   [Kubectrl Kubesec (⭐505)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
 ### Intentionally Vulnerable Applications / Ansible
 
-*   [Bad SSL (⭐2.7k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
+*   [Bad SSL (⭐2.8k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
 *   [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - *Ryan Dewhurst* - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
-*   [Juice Shop (⭐9.6k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
+*   [Juice Shop (⭐9.8k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
 *   [NodeGoat (⭐1.8k)](https://github.com/OWASP/NodeGoat) - *OWASP* - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 
 ### Related Lists / Ruby
 
 *   [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - *OWASP* - A collection of vulnerable web applications for learning purposes.
 *   [Awesome Threat Modelling (⭐1.3k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
-*   [Awesome Dynamic Analysis (⭐877)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
+*   [Awesome Dynamic Analysis (⭐899)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
 *   [Awesome Static Analysis (⭐13k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
 
 ### Monitoring / Ansible
@@ -922,7 +927,7 @@ Language: English
 *   [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - *Google Cloud Platform* - Securely store secrets within GCP.
 *   [HashiCorp Vault](https://www.vaultproject.io/) - *HashiCorp* - Securely store secrets via UI, CLI or HTTP API.
 *   [Pinterest Knox (⭐1.2k)](https://github.com/pinterest/knox) - *Pinterest* - Securely store, rotate and audit secrets.
-*   [Secrets Operations (SOPS) (⭐15k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+*   [Secrets Operations (SOPS) (⭐16k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 
 ### Static Analysis / Multi-Language Support
 
@@ -933,11 +938,11 @@ Language: English
 
 ### Static Analysis / C / C++
 
-*   [FlawFinder (⭐454)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
+*   [FlawFinder (⭐463)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
 
 ### Static Analysis / C#
 
-*   [Puma Scan (⭐438)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
+*   [Puma Scan (⭐443)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
 
 ### Static Analysis / Configuration Files
 
@@ -955,65 +960,65 @@ Language: English
 
 ### Static Analysis / Go
 
-*   [Golang Security Checker (⭐7.5k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
+*   [Golang Security Checker (⭐7.6k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
 
 ### Static Analysis / .NET
 
-*   [Security Code Scan (⭐920)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
+*   [Security Code Scan (⭐929)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
 
 ### Static Analysis / PHP
 
 *   [PHPCS Security Audit (⭐703)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
-*   [Progpilot (⭐313)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
+*   [Progpilot (⭐319)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
 
 ### Static Analysis / Python
 
-*   [Bandit (⭐6k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
+*   [Bandit (⭐6.1k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
 
 ### Static Analysis / Ruby
 
 *   [Brakeman (⭐6.9k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
-*   [DawnScanner (⭐731)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+*   [DawnScanner (⭐733)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
 
 ### Threat Modelling / Ruby
 
 *   [SecuriCAD](https://www.foreseeti.com/) - *Forseeti* - Treat modelling and attack simulations for IT infrastructure.
 *   [IriusRisk](https://iriusrisk.com/) - *IriusRisk* - Draw threat models and capture threats and countermeasures and manage risk.
-*   [Raindance Project (⭐43)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+*   [Raindance Project (⭐44)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
 *   [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - *Security Compass* - Identify and rank threats, generate actionable tasks and track related tickets.
 *   [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - *OWASP* - Threat model diagramming tool.
 *   [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - *Microsoft* - Threat model diagramming tool.
 *   [Threatspec](https://threatspec.org/) - *Threatspec* - Define threat modelling as code.
 
-## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐345)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐354)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
-## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.5k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐770)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐804)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
-## [39. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [40. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐206)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐213)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
-## [40. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [41. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [ServerAuth](https://serverauth.com) - Automatically sync SSH access across servers
 
-## [41. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -1028,57 +1033,57 @@ Language: English
 *   [ojc (⭐35)](https://github.com/ohler55/ojc) - A fast JSON parser.
 *   [ojg (⭐793)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
-## [42. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [43. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Market Data API
 
 *   [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 *   [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
-## [43. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [44. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
 
-## [44. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [45. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
 *   [Node.js Standard Style (⭐6)](https://github.com/geek/node-style) - Node.js core config.
 *   [Standard (⭐29k)](https://github.com/feross/standard) - JavaScript Standard Style.
 *   [Superlint (⭐5)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-*   [XO (⭐7.5k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐82)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+*   [XO (⭐7.6k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+*   [Healthier (⭐84)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
 *   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐42)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [BrightScript (⭐43)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [ES and browser globals (⭐335)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐364)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
-## [45. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [46. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation
 
 *   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐4)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
-## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐124)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐127)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ### Integrations
 
 *   [Keycloak, Kong and Konga setup scripts (local development) (⭐12)](https://github.com/JaouherK/Kong-konga-Keycloak)
 *   [Keycloak and PrivacyId3a docker-compose (local development) (⭐0)](https://github.com/JaouherK/keycloak-privacyIdea)
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -1092,7 +1097,7 @@ Language: English
 
 *   [linksift.com](https://linksift.com) - LinkSift lets you explore what a website links to.
 
-## [48. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [49. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -1106,35 +1111,35 @@ Language: English
 
 *   [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
 
-## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [fossil (⭐4)](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [asm-cli-rust (⭐301)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
-*   [denoland/deno (⭐93k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐463)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
-*   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
-*   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
+*   [asm-cli-rust (⭐306)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
+*   [denoland/deno (⭐93k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐471)](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN
+*   [linkerd/linkerd2-proxy (⭐2k)](https://github.com/linkerd/linkerd2-proxy) - Ultralight service mesh for Kubernetes.
+*   [rx (⭐3.1k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 
-## [51. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [52. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) - How to fix issue with 100vh in mobile WebKit.
 
-## [52. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [53. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 
-## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [54. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
@@ -1156,7 +1161,7 @@ Language: English
 
 *   [react-native-leveldown (⭐22)](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
-## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [55. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Model Training
 
@@ -1180,13 +1185,13 @@ Language: English
 *   [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 *   [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
-## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [56. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 
-*   [waffle (⭐696)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐704)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
-## [56. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [57. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
@@ -1198,7 +1203,7 @@ Language: English
 *   [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
 *   [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 
-## [57. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [58. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
@@ -1259,19 +1264,19 @@ Language: English
 
 *   [Docs - Max Potential FID - web.dev](https://web.dev/lighthouse-max-potential-fid/)
 
-## [58. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [59. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Developer Tools / Services
 
 *   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
-## [59. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [60. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### UI Elements
 
 *   [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 
-## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -1290,7 +1295,7 @@ Language: English
 
 *   [mockaroo](https://mockaroo.com/) — Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
 
-## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [62. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
@@ -1298,13 +1303,13 @@ Language: English
 
 ### Python / Git
 
-*   [django-cryptography (⭐364)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐367)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 
 *   [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 
-## [62. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [63. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -1313,9 +1318,9 @@ Language: English
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐561)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐573)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [63. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [64. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Desktop
 

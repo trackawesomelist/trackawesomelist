@@ -10,7 +10,7 @@
 
 ### Processes and Threads
 
-*   [await\_async (⭐81)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+*   [await\_async (⭐82)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
 ## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 

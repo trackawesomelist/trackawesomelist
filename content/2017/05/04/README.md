@@ -51,9 +51,6 @@
 
 ### Communities
 
-*   **[Barnacl.es](https://barnacl.es/)**
-
-    News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software (⭐17)](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 *   **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
     A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).

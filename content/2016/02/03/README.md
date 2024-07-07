@@ -19,7 +19,7 @@
 *   Swift
     *   [by @kingreza (⭐40)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
-    *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
+    *   [by @hollance (⭐29k)](https://github.com/hollance/swift-algorithm-club)
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

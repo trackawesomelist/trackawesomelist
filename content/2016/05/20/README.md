@@ -25,8 +25,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐687)](https://github.com/llogiq/flame) —
-    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐689)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -40,9 +40,8 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### CLI / Testing
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Official web page](https://cli.angular.io/)
 *   [Official repository (⭐27k)](https://github.com/angular/angular-cli)
 
 ## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
@@ -61,9 +60,9 @@
 
 - ☆: ★★☆
 
-  Name: [Introduction to Probability](http://www.dartmouth.edu/\~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell
+  Name: [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell
 
-  Description: This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/\~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
+  Description: This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
 
 
 

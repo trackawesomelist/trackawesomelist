@@ -91,7 +91,6 @@
 
 *   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/). Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg).
 *   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks (“food webs”).
-*   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -159,12 +158,12 @@
 
 ### Theory
 
-*   [Algorithms (⭐18k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐577)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐593)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐662)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐675)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

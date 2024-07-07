@@ -28,7 +28,7 @@
 
 ### Contents / Libraries
 
-*   [Graphir (⭐50)](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
+*   [Graphir (⭐53)](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Frameworks
 
-*   [libxutils (⭐27)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐30)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.7k)](https://github.com/kubernetes/kubectl).
+*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.8k)](https://github.com/kubernetes/kubectl).
 
 ## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [doctest (⭐5.6k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.7k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Scripts / IRC
 
-*   [ScriptsDev (⭐67)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
+*   [ScriptsDev (⭐68)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 
 ## [9. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -136,19 +136,18 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐687)](https://github.com/llogiq/flame) —
-    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐689)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) — BLAS bindings
+    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) - BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### CLI / Testing
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Official web page](https://cli.angular.io/)
 *   [Official repository (⭐27k)](https://github.com/angular/angular-cli)
 
 ## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
@@ -313,7 +312,7 @@
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐356)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐358)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -371,7 +370,7 @@
 
 - ☆: ★★★
 
-  Name: [prakhar1989/awesome-courses#algorithms (⭐43k)](https://github.com/prakhar1989/awesome-courses#algorithms)
+  Name: [prakhar1989/awesome-courses#algorithms (⭐55k)](https://github.com/prakhar1989/awesome-courses#algorithms)
 
   Description: A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
 
@@ -408,9 +407,9 @@
 
 - ☆: ★★☆
 
-  Name: [Introduction to Probability](http://www.dartmouth.edu/\~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell
+  Name: [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell
 
-  Description: This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/\~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
+  Description: This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
 
 
 
@@ -518,7 +517,7 @@
 
 - ☆: ★★☆
 
-  Name: [Coder's Calendar (⭐343)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
+  Name: [Coder's Calendar (⭐340)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
   Description: 
 
@@ -660,14 +659,14 @@
 
 ### Domain Analysis / Other Resources
 
-*   [dnstwist (⭐4.6k)](https://github.com/elceef/dnstwist) - Domain name permutation
+*   [dnstwist (⭐4.7k)](https://github.com/elceef/dnstwist) - Domain name permutation
     engine for detecting typo squatting, phishing and corporate espionage.
 *   [mailchecker (⭐1.6k)](https://github.com/FGRibreau/mailchecker) - Cross-language
     temporary email detection library.
 
 ### Browser Malware / Other Resources
 
-*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
+*   [Krakatau (⭐2k)](https://github.com/Storyyeller/Krakatau) - Java decompiler,
     assembler, and disassembler.
 
 ### Network / Other Resources
@@ -680,7 +679,7 @@
 
 *   [evolve (⭐259)](https://github.com/JamesHabben/evolve) - Web interface for the
     Volatility Memory Forensics Framework.
-*   [VolUtility (⭐373)](https://github.com/kevthehermit/VolUtility) - Web Interface for
+*   [VolUtility (⭐375)](https://github.com/kevthehermit/VolUtility) - Web Interface for
     Volatility Memory Analysis framework.
 
 ### Other / Other Resources
@@ -884,12 +883,12 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐40k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐41k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐267)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐241)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [PXGoogleDirections (⭐269)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [reddift (⭐242)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -897,7 +896,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -905,7 +904,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐516)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
@@ -913,7 +912,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐852)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 

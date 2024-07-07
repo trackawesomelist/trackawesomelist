@@ -141,23 +141,29 @@
 *   [MPI (⭐23)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / S individuals
+
+*   Scott Johnson <http://www.fuzzyblog.io/blog/>
+
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐419)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐421)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
 *   [CAP (⭐6.5k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
-## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -167,7 +173,7 @@
 
 *   [Polymer Webpack Loader (⭐192)](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Security Information & Event Management
 
@@ -187,19 +193,19 @@
 *   [Apache Metron (incubating) (⭐842)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 *   [Apache Spot (incubating) (⭐346)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
-*   [prettier (⭐48k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐49k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Server side / Third Party
 
 *   [d3-node (⭐662)](https://github.com/d3-node/d3-node) - Static chart and map generation
 
-## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [22. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -210,20 +216,20 @@
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 *   [mazda\_getInfo (⭐153)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
-## [22. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [23. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
 *   [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
 
-## [23. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [24. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### 2D / Firefox Specific Tools/Debugger
 
 *   [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 *   [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
-## [24. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [25. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### Contests, conferences, and events
 
@@ -237,7 +243,7 @@
 
 *   [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -247,7 +253,7 @@
 
 *   [phstc/shoryuken :fire::fire::fire::fire: (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
 
-## [26. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [27. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Forums / Audio
 
@@ -261,13 +267,13 @@
 *   [Nidhi Kanda: The Reserve Fund](http://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-8) - Reminder that a fund of virtue and restraint will always be safe, while a material fund can be lost.
 *   [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - How a monastic should act, with parts that are applicable to laypeople as well.
 
-## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [Event Sourcing and CQRS Sample (⭐463)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
-## [28. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -313,11 +319,11 @@
 
 
 
-## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Environment Management
 
-*   [pyenv (⭐36k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐38k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### GUI Development
 
@@ -334,12 +340,12 @@
 
 ### Package Repositories
 
-*   [localshop (⭐392)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐397)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐380)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐382)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
@@ -354,28 +360,28 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐783)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐785)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐344)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐351)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [30. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [31. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [31. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [32. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [32. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [33. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -407,7 +413,7 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -415,11 +421,11 @@
 
 ### Chat
 
-*   [MessageKit (⭐5.9k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### Fonts
 
-*   [Inkwell (⭐153)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
+*   [Inkwell (⭐154)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 
 ### Images / Barcode
 
@@ -434,7 +440,7 @@
 
 *   [SwipeCellKit (⭐6.2k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -464,7 +470,7 @@
 *   [JSON-populate (⭐153)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐602)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -475,21 +481,11 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
-
-## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
-
-### Individuals/Group Contributors / S individuals
-
-*   Scott Johnson <http://www.fuzzyblog.io/blog/>
-
-### Individuals/Group Contributors / T individuals
-
-*   Todd Motto <https://toddmotto.com/>
 
 ## [38. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 

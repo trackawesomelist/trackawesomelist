@@ -10,7 +10,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐287)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐321)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -36,12 +36,11 @@
 
 ## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
-### Journals and Magazines / Past Conferences and Workshops
+### Publications and News Sources / Journals and Magazines
 
 *   [AI & Society](https://link.springer.com/journal/146/articles)
 *   [Archival Science](https://link.springer.com/journal/10502)
 *   [Big Data & Society](https://journals.sagepub.com/home/bds)
-*   [Critical AI](https://criticalai.org)
 *   [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
 *   [Journal of Cultural Analytics](https://culturalanalytics.org)
 *   [Journal of Documentation](https://www.emerald.com/insight/publication/issn/0022-0418)
@@ -56,11 +55,11 @@
 
 ### Third-Party Packages / APIs
 
-*   [django-webhook (⭐139)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+*   [django-webhook (⭐158)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
-*   [Piku (⭐2.6k)](https://github.com/piku/piku)
+*   [Piku (⭐5.5k)](https://github.com/piku/piku)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -76,7 +75,7 @@
 
 ### Encoding / Talks Presentations Podcasts
 
-*   [realeyes-media/demo-encoder (⭐55)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
+*   [realeyes-media/demo-encoder (⭐56)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
 
@@ -84,7 +83,7 @@
 
 ### Players / Android
 
-*   [google/ExoPlayer (⭐21k)](https://github.com/google/ExoPlayer)  - ExoPlayer is an application level media player for Android.
+*   [google/ExoPlayer (⭐22k)](https://github.com/google/ExoPlayer)  - ExoPlayer is an application level media player for Android.
 
 ### FFMPEG / Web
 

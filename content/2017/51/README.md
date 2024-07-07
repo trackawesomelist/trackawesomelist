@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐178)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐181)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -23,7 +23,7 @@
 ### Hardware Support
 
 *   [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
-    *   [Open-source Driver (⭐1.6k)](https://github.com/GPUOpen-Drivers/AMDVLK)
+    *   [Open-source Driver (⭐1.7k)](https://github.com/GPUOpen-Drivers/AMDVLK)
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐493)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐498)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -234,7 +234,7 @@
 
 ### Tools and frameworks
 
-*   [Chimp (⭐796)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐797)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### CLI and REPL
 
-*   Use [ts-node (⭐12k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+*   Use [ts-node (⭐13k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 *   How to make executable typescript scripts:
     1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
     2.  Add this [shebang](https://en.wikipedia.org/wiki/Shebang_\(Unix\)) as first line to your script: `#!npx ts-node`
@@ -338,13 +338,13 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐421)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐426)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐924)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐926)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 

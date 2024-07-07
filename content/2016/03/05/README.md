@@ -51,7 +51,7 @@
 
 ### Text and Numbers
 
-*   [sentient (⭐33)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
+*   [sentient (⭐34)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
 
 ---
 

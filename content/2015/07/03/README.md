@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 03, 2015
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -97,12 +97,6 @@
 ### Subjects / World Wide Web
 
 *   [North (⭐4.9k)](https://github.com/north/north) ([Site](http://pointnorth.io/), MIT) - MIT Design and development standards to align and guide your project.
-
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / E companies
-
-*   Eharmony <http://www.eharmony.com/engineering/>
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Software for Creating APIs
 
-*   [Simple Transit Api (⭐5)](https://github.com/ioTransit/simple-transit-api) - A simple way to get started with a GTFS api in Golang.
+*   [Simple Transit Api (⭐6)](https://github.com/ioTransit/simple-transit-api) - A simple way to get started with a GTFS api in Golang.
 
 ### GTFS Based Visualizations
 
@@ -30,7 +30,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [transit-intensity (⭐2)](https://github.com/ioTransit/transit-intensity) - A simple project for measuring transit intensity written in Go.
+*   [transit-intensity (⭐3)](https://github.com/ioTransit/transit-intensity) - A simple project for measuring transit intensity written in Go.
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -59,18 +59,18 @@
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Books / Testing
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 
-### Storage / Validation
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-reactive-storage (⭐31)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
-*   [ng2-webstorage (⭐423)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
-*   [ngx-indexed-db (⭐165)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
-*   [angular-async-local-storage (⭐664)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
-*   [ng-web-apis/storage (⭐699)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
-*   [ngx-odm (⭐39)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
+*   [ngx-reactive-storage (⭐34)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
+*   [ng2-webstorage (⭐427)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
+*   [ngx-indexed-db (⭐167)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
+*   [angular-async-local-storage (⭐674)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
+*   [ng-web-apis/storage (⭐712)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+*   [ngx-odm (⭐40)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 ## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -79,14 +79,14 @@
 *   [**Stacks**](https://stackoverflow.design/) - UI components used by Stack Overflow.\
     ![](https://img.shields.io/github/stars/StackExchange/Stacks.svg?style=social\&label=Star)
     [Docs](https://stackoverflow.design/product/develop/using-stacks/),
-    [Repo (⭐596)](https://github.com/StackExchange/Stacks)
+    [Repo (⭐600)](https://github.com/StackExchange/Stacks)
     \| #LESS
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [doctorfree/cheatsheet.nvim (⭐12)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
+*   [doctorfree/cheatsheet.nvim (⭐27)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
 ---
 

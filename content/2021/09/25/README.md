@@ -8,21 +8,16 @@
 
 ## [1. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Customization and Tweaks / Design Tooling
-
-*   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
-*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
-
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐1.4k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐1.5k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Starter Templates
 
-*   [Vite Lit Starter (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
-*   [Vite Lit TS Starter (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+*   [Vite Lit TS Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 
 ### Extensions
 
@@ -30,7 +25,7 @@
 
 ### Design Systems
 
-*   [Outline Design System (⭐111)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Outline Design System (⭐123)](https://github.com/phase2/outline) - Web component based design system starter kit.
 
 ### Integrations / Other Tools
 
@@ -60,7 +55,7 @@
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐138)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐140)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

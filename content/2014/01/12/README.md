@@ -14,7 +14,7 @@
 
 ### Table of Contents / Numbers
 
-*   [LibPhoneNumber for PHP (⭐4.6k)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+*   [LibPhoneNumber for PHP (⭐4.7k)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 ### Configuration / Web Applications
 
@@ -28,5 +28,5 @@
 
 ---
 
-- Prev: [Jan 18, 2014](/content/2014/01/18/README.md)
-- Next: [Jan 06, 2014](/content/2014/01/06/README.md)
+- Prev: [Jan 14, 2014](/content/2014/01/14/README.md)
+- Next: [Jan 09, 2014](/content/2014/01/09/README.md)

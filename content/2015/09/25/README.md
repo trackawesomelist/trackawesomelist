@@ -10,7 +10,7 @@
 
 ### Other / Other Resources
 
-*   [Infosec (⭐5k)](https://github.com/onlurking/awesome-infosec)
+*   [Infosec (⭐5.1k)](https://github.com/onlurking/awesome-infosec)
 
 ## [2. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
@@ -90,11 +90,11 @@
 
 ### Packages / MIDI
 
-*   [midimessage (⭐34)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
+*   [midimessage (⭐35)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐821)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐823)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

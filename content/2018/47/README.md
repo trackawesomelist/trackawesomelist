@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 19 - Nov 25, 2018
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,11 +22,11 @@
 
 ### Tutorial
 
-*   [Vulkan Demos and Tutorials (⭐71)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
+*   [Vulkan Demos and Tutorials (⭐70)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐358)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐359)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [4. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
@@ -40,7 +40,13 @@
 
 *   [PokeTypes (⭐6)](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
 
-## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Make / PicoLisp
+
+*   [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
+
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Tracker Aggregators / Public Trackers
 
@@ -58,31 +64,31 @@
 
 *   [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG
 
-## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Open Source Analyzers, Code Fixes, and Refactorings
 
 *   [.NET Analyzers](https://github.com/DotNetAnalyzers) - GitHub organization for the development of Roslyn analyzers. Various repositories within the organization cover analyzers for ASP.NET Core, WPF, IDisposable, usages of System.Reflection, etc.
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
 *   [vvvv](https://vvvv.org/) \[Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 
-## [9. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [10. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
-*   [Composer Preload (⭐195)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
+*   [Composer Preload (⭐205)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 
-## [10. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [11. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Numerical / Language Standards
 
 *   [igraph](https://igraph.org/) - Library for creating and manipulating large graphs. [`GNU GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
-## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Generation
 
@@ -99,13 +105,13 @@
 
 *   [nickliqian/cnn\_captcha (⭐2.6k)](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
 
-## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [13. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Fonts / Unspecified License
 
 *   [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
 
-## [13. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [14. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -122,17 +128,17 @@
 *   [Flag Kit (⭐3k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 *   [Mapsicon (⭐2.1k)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 
-## [14. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [15. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [sniffglue (⭐1k)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+*   [sniffglue (⭐1.1k)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐73)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐74)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Calendar & Contacts
 
@@ -140,18 +146,18 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.2k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
-*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐17k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
+*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.3k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐18k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐102)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐104)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 
 ### Software / Software Development - Project Management
 
 *   [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
 
-## [16. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [17. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Networking
 
@@ -166,31 +172,31 @@
 
 *   [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
-## [17. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Serialization
 
 *   [yojson (⭐310)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 
-## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [19. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) - Powerful in-built facility for dealing with CSV ([example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Cooking a Deliveroo clone with Next.js (React), GraphQL, Strapi and Stripe - Setup (part 1/7)](https://blog.strapi.io/strapi-next-setup)
 
-## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 
-## [21. Awesome](/content/craftcms/awesome/week/README.md)
+## [22. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -212,19 +218,19 @@
 
 *   [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) by Ben Croker - `27 Sep 2018`
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Working With Web Components (Shadow DOM)](https://appiumpro.com/editions/44)
 
-## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3-force-reuse (⭐110)](https://github.com/twosixlabs/d3-force-reuse) - Faster force-directed graph layouts by reusing force approximations
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -234,37 +240,37 @@
 
 *   [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Multi-page ASP.NET Core Vue, Typescript, Vuex, Vue router, Bulma, Sass and Jest application. Template/starting point on how to use Vue.js as a multi page(multiple mini spa's) application in .NET Core MVC.
 
-## [25. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Design Tools and Resources / Themes
 
 *   [Ant Design Library](http://library.ant.design/) - Ant Design Axure Library
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [Trezor.Net (⭐41)](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
 
-## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Relocation Incentives
 
 *   [Tulsa Remote](https://tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
 
-## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### GraphQL API
 
 *   [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
-## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Dynamic Static Sites with Netlify and iOS Shortcuts; Use Netlify Functions, a Gulp build process and iOS Shortcuts to publish dynamic content to your static site](https://bryanlrobinson.com/blog/2018/11/12/ios-shortcuts-pushing-data-to-netlify-static-site/)
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles Glimmer
 
@@ -276,16 +282,16 @@
 
 *   [ember-cli-typescript v2 beta](https://www.chriskrycho.com/2018/ember-cli-typescript-v2-beta.html)
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Parser Library
 
 *   [Sprache (⭐2.3k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐830)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐510)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐975)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Pidgin (⭐847)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐516)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐992)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
-## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
@@ -295,25 +301,25 @@
 
 *   [UseLATEX](https://gitlab.kitware.com/kmorel/UseLATEX) - Collection of CMake macros to simplify building LaTeX files. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [33. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [34. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Progressive web apps / Service Workers
 
 *   [The Service Worker Cookbook](https://serviceworke.rs/)
 
-## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) (November, 2018)
 
-## [35. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [36. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Graphics utilities
 
 *   [tpp1 (⭐20)](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
 
-## [36. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [37. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -326,7 +332,7 @@
 
 *   [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
 
-## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -336,7 +342,7 @@
 
 *   [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 
-## [38. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [39. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
@@ -351,25 +357,25 @@
 *   [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 *   [HTML Email Blog](https://htmlemail.io/blog/)
 
-## [39. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [40. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Manrope (⭐1.4k)](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
 
-## [41. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [42. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Algebraic Geometry
 
 *   📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -381,7 +387,7 @@
 
 ### Inter-process communication
 
-*   [rpclib (⭐1.6k)](https://github.com/rpclib/rpclib) - A modern C++ msgpack-RPC server and client library. \[MIT]
+*   [rpclib (⭐1.7k)](https://github.com/rpclib/rpclib) - A modern C++ msgpack-RPC server and client library. \[MIT]
 
 ### JSON
 

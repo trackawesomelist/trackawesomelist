@@ -39,7 +39,7 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐155)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐160)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-datatable-url-sync (⭐31)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
+*   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [vue-sse (⭐142)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)

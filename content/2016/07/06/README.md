@@ -129,7 +129,7 @@
 
 ### Python / Git
 
-*   [bcrypt (⭐1.1k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
+*   [bcrypt (⭐1.2k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -177,7 +177,7 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ### Packages / Libraries
 
-*   [Audiojs (⭐237)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
+*   [Audiojs (⭐240)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 
 ---
 

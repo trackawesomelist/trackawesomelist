@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,7 @@
 *   [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
 *   [BioBus](http://www.biobus.org/) - A mobile science education lab.
 
-## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
-
-### Companies / S companies
-
-*   Semantics3 <https://engineering.semantics3.com>
-
-## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [3. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Getting Started
 
@@ -69,13 +63,13 @@
 *   [Airbnb Sass and CSS Style Guide (⭐6.5k)](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
 *   [Dropbox (S)CSS Style Guide (⭐841)](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
-## [5. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [4. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Demos
 
 *   [chat-random](https://github.com/akiva/chat-random)
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Utilities
 

@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐812)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐816)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

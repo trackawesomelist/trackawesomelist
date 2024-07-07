@@ -67,7 +67,7 @@
 
 ### Debugging and Reverse Engineering / Other Resources
 
-*   [Ghidra (⭐48k)](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework created and       maintained by the National Security Agency Research Directorate.
+*   [Ghidra (⭐49k)](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework created and       maintained by the National Security Agency Research Directorate.
 
 ### Books / Other Resources
 
@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐6.2k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐6.4k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

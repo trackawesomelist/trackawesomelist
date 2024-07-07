@@ -262,8 +262,8 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
-*   [Checkov (⭐6.6k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
-*   [KICS (⭐1.9k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+*   [Checkov (⭐6.7k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+*   [KICS (⭐2k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
 ## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

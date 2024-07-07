@@ -21,12 +21,12 @@
 
 ### Table
 
-*   [svelte-generic-crud-table (⭐61)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐65)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐253)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐276)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐274)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐278)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
-*   [Preact Transitioning (⭐42)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
+*   [Preact Transitioning (⭐43)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

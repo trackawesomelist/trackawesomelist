@@ -83,7 +83,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [wagtail (⭐17k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐1.9k)](https://github.com/springload/awesome-wagtail) too.
+*   [wagtail (⭐18k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐2k)](https://github.com/springload/awesome-wagtail) too.
 
 ### Resources / Educational
 
@@ -114,7 +114,7 @@
 
 ### Blockchain
 
-*   [EthereumKit (⭐471)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+*   [EthereumKit (⭐475)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
 ### Books
 
@@ -134,11 +134,11 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐807)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐810)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Popup
 
-*   [PopupView (⭐3k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐3.2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### Websites / Collection View Layout
 
@@ -199,7 +199,7 @@
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐271)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐273)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Plugins / IRC
 
-*   [Composer Preload (⭐195)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
+*   [Composer Preload (⭐205)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 
 ## [4. Awesome C](/content/inputsh/awesome-c/README.md)
 
@@ -95,11 +95,11 @@
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [sniffglue (⭐1k)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+*   [sniffglue (⭐1.1k)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐73)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐74)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ---
 

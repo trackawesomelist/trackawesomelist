@@ -52,7 +52,7 @@
 
 ### Scheduling
 
-*   [schedule.cr (⭐73)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐74)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐466)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐469)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

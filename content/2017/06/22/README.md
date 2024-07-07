@@ -16,7 +16,7 @@
 
 ### Plugins / Misc
 
-*   [Notice (⭐25)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
+*   [Notice (⭐26)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -60,7 +60,7 @@
 
 ### XML
 
-*   [SwiftyXML (⭐102)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐101)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Images / Barcode
 
@@ -68,15 +68,15 @@
 
 ### Text / Barcode
 
-*   [MarkdownView (⭐1.9k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
+*   [MarkdownView (⭐2k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 
 ### Menu / Barcode
 
-*   [KWDrawerController (⭐156)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
+*   [KWDrawerController (⭐157)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐278)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
