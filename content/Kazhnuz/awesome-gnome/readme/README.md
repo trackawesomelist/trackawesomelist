@@ -100,6 +100,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 *   [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 *   [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
+*   [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
 
 ### Well Being
 
@@ -154,6 +155,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
 *   [Mahjongg](https://flathub.org/apps/org.gnome.Mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg.
 *   [Ultimate Tic Tac Toe](https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI.
+*   [Libellus](https://flathub.org/apps/de.hummdudel.Libellus) - Tab-based wiki/Lexicon for DnD 5th edition.
 
 ### System and Customization
 
@@ -174,6 +176,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Pods](https://flathub.org/apps/com.github.marhkb.Pods) - Podman containers manager.
 *   [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) - Terminal with first-class support for containers.
 *   [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
+*   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
 ### Utilities
 

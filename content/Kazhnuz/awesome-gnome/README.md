@@ -6,6 +6,21 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jul 08, 2024](/content/2024/07/08/README.md)
+
+### Productivity and Time
+
+*   [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
+
+### Gaming
+
+*   [Libellus](https://flathub.org/apps/de.hummdudel.Libellus) - Tab-based wiki/Lexicon for DnD 5th edition.
+
+### System and Customization
+
+*   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Internet and Networking
