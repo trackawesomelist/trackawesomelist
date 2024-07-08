@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 08, 2024](/content/2024/07/08/README.md)
+
+### Communications / Non-Verbal Communication
+
+*   [Emergent Graphical Conventions in a Visual Communication Game](https://proceedings.neurips.cc/paper_files/paper/2022/hash/550ff553efc2c58410f277c667d12786-Abstract-Conference.html) - ***NeurIPS***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17122070906194572150)]. A computational account on the emergence of iconic language.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Communications / Pragmatics
@@ -1662,7 +1668,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
 *   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGRAPH'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 *   [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071\&hl=en\&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
-*   [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727\&hl=en\&as_sdt=0,5)]. A computational account on the emergence of iconic language.
 *   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.
 *   [Bridging cultural and cognitive perspectives on similarity reasoning](https://escholarship.org/content/qt9p70d5s9/qt9p70d5s9.pdf) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Bridging+cultural+and+cognitive+perspectives+on+similarity+reasoning\&btnG=)].
 *   [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635\&hl=en\&as_sdt=0,5)]. The original paper on child pointing.
