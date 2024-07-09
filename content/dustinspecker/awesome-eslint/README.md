@@ -6,6 +6,26 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ Daily / [Weekly](/content/dustinspecker/awesome-eslint/week/README.md) / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [Jul 09, 2024](/content/2024/07/09/README.md)
+
+### Plugins / Compatibility
+
+*   [es-x (⭐109)](https://github.com/eslint-community/eslint-plugin-es-x) - Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained `eslint-plugin-es`.
+
+### Plugins / Languages and Environments
+
+*   [N (⭐195)](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
+
+### Plugins / Practices and Specific ES Features
+
+*   [@eslint-community/eslint-plugin-eslint-comments (⭐44)](https://github.com/eslint-community/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.). Properly maintained fork of no longer maintained `eslint-plugin-eslint-comments`.
+*   [ReDoS](https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/) - ESLint plugin for finding possible ReDoS vulnerabilities.
+*   [ReDoSDetector (⭐4)](https://github.com/tjenkinson/eslint-plugin-redos-detector) - ESLint plugin for finding possible ReDoS vulnerabilities.
+
+### Plugins / Style
+
+*   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
@@ -175,7 +195,6 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐354)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
 *   [eslint-plugin-write-good-comments (⭐32)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 *   [import (⭐5.4k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Still does not work with ESlint 9 and does not support flat configs.
 
@@ -438,7 +457,6 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Compatibility
 
 *   [ecmascript-compat (⭐64)](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
-*   [es (⭐105)](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
 *   [es5 (⭐54)](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 *   [ie11 (⭐14)](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
@@ -472,7 +490,6 @@ A list of awesome ESLint plugins, configs, etc.
 *   Flow
     *   [Flow (⭐1.1k)](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
     *   [Flow Errors (⭐402)](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
-*   [Node (⭐958)](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 *   [SQL (⭐91)](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 *   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
 
@@ -686,7 +703,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Style
 
-*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 
 ### Tools / Testing Tools
 

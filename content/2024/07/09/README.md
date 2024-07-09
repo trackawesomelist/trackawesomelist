@@ -1,12 +1,12 @@
-# Awesome List Updates on Jul 08 - Jul 14, 2024
+# Awesome List Updates on Jul 09, 2024
 
-12 awesome lists updated this week.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Compatibility
 
@@ -26,7 +26,13 @@
 
 *   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
 
-## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+### Libraries/Frameworks / Testing
+
+*   [Trendyol/stove (⭐140)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
+
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -65,83 +71,24 @@
 
 *   [Follow](https://x.com/follow_app_)
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Generative AI
 
 *   [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
 
-## [4. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [5. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Articles
 
 *   [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Discover all the tech career roadmaps and latest market trends in the tech job market!
 
-## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Community
 
 *   [Terraform Roadmap](https://roadmap.sh/terraform)
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications / Web
-
-*   [importantimport/hatsu (⭐107)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
-
-## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Productivity and Time
-
-*   [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
-
-### Gaming
-
-*   [Libellus](https://flathub.org/apps/de.hummdudel.Libellus) - Tab-based wiki/Lexicon for DnD 5th edition.
-
-### System and Customization
-
-*   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
-*   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
-
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Testing
-
-*   [Trendyol/stove (⭐140)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐197)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-data-ui (⭐220)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
-
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### (requires Neovim 0.5) / Diagnostics
-
-*   [sontungexpt/better-diagnostic-virtual-text (⭐8)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
-
-### Markdown and LaTeX / Diagnostics
-
-*   [OXY2DEV/markview.nvim (⭐567)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
-
-## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
-
-### Connectors
-
-*   [MyZql (⭐15)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
-
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Communications / Non-Verbal Communication
-
-*   [Emergent Graphical Conventions in a Visual Communication Game](https://proceedings.neurips.cc/paper_files/paper/2022/hash/550ff553efc2c58410f277c667d12786-Abstract-Conference.html) - ***NeurIPS***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17122070906194572150)]. A computational account on the emergence of iconic language.
-
 ---
 
-- Next: [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+- Next: [Jul 08, 2024](/content/2024/07/08/README.md)

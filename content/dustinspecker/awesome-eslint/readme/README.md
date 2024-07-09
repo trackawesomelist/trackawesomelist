@@ -109,7 +109,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *   [Compat (⭐3k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 *   [ecmascript-compat (⭐64)](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
-*   [es (⭐105)](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
+*   [es-x (⭐109)](https://github.com/eslint-community/eslint-plugin-es-x) - Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained `eslint-plugin-es`.
 *   [es5 (⭐54)](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 *   [ie11 (⭐14)](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
@@ -171,7 +171,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     *   [JSON with Comments (⭐180)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
     *   [JSON Schema (⭐67)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 *   [MDX (⭐258)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
-*   [Node (⭐958)](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
+*   [N (⭐195)](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
 *   [SQL (⭐91)](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 *   [TOML (⭐25)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 *   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
@@ -211,7 +211,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *   [array-func (⭐94)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
 *   [arrow functions (⭐305)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
 *   [boundaries (⭐474)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
-*   [ESLint Comments (⭐354)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [@eslint-community/eslint-plugin-eslint-comments (⭐44)](https://github.com/eslint-community/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.). Properly maintained fork of no longer maintained `eslint-plugin-eslint-comments`.
 *   [eslint-plugin-hexagonal-architecture (⭐283)](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
 *   [eslint-plugin-write-good-comments (⭐32)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 *   [eslint-plugin-exception-handling (⭐14)](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
@@ -233,6 +233,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *   [no-use-extend-native (⭐56)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 *   [Promise (⭐909)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 *   [pure (⭐29)](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
+*   [ReDoS](https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/) - ESLint plugin for finding possible ReDoS vulnerabilities.
+*   [ReDoSDetector (⭐4)](https://github.com/tjenkinson/eslint-plugin-redos-detector) - ESLint plugin for finding possible ReDoS vulnerabilities.
 *   [RegExp (⭐676)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 *   [sort-keys-fix (⭐95)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 *   [this (⭐16)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
@@ -255,9 +257,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Style
 
+*   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
 *   [const case](https://www.npmjs.com/package/eslint-plugin-const-case) - Enforce capitalization of constant primitive literals.
 *   [editorconfig (⭐13)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
-*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 *   [Simple import sort (⭐2k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 *   [perfectionist sorting (⭐1.7k)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 *   [Switch case (⭐17)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
