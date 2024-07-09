@@ -6,6 +6,23 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 09, 2024](/content/2024/07/09/README.md)
+
+### **Retrieval-Augmented Generation: Research Papers**
+
+*   <details>
+
+    <summary>Expand</summary>
+    1. Noise robustness (External documents contain noises, struggled with noise above 80%)
+    1. Negative rejection (External documents are all noises, Highest rejection rate was only 45%)
+    1. Information integration (Difficulty in summarizing across multiple documents, Highest accuracy was 60-67%)
+    1. Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
+    </details>
+
+### **Agents: AutoGPT and Communicative Agents** / Tool use: LLM to Master APIs
+
+*   [APIGen](https://arxiv.org/abs/2406.18518): Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets \[26 Jun 2024]
+
 ## [Jul 03, 2024](/content/2024/07/03/README.md)
 
 ### **RAG Solution Design & Application**
@@ -40,7 +57,7 @@
     *   [quivr (⭐34k)](https://github.com/QuivrHQ/quivr): A personal productivity assistant (RAG). Chat with your docs (PDF, CSV, ...) \[May 2023]
     *   [RAGApp](https://github.com/ragapp): Agentic RAG. custom GPTs, but deployable in your own cloud infrastructure using Docker. \[Apr 2024]
     *   [Cognita (⭐3k)](https://github.com/truefoundry/cognita): RAG (Retrieval Augmented Generation) Framework for building modular, open source applications \[Jul 2023]
-    *   [Perplexica (⭐11k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [github topic](https://github.com/topics/perplexity)
+    *   Open Source AI Searches: [Perplexica (⭐11k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.3k)](https://github.com/marqo-ai/marqo) / [txtai (⭐7.4k)](https://github.com/neuml/txtai) / [Typesense (⭐19k)](https://github.com/typesense/typesense)  / [Morphic (⭐5k)](https://github.com/miurla/morphic)
     *   [AutoRAG (⭐1.1k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
     *   [RAGflow (⭐11k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
 
@@ -62,6 +79,7 @@
         *   Azure OpenAI Network Latency Test Script
             : [git (⭐1)](https://github.com/wloryo/networkchatgpt/blob/dc76f2264ff8c2a83392e6ae9ee2aaa55ca86f0e/openai_network_latencytest_nocsv_pub_v1.1.py) \[Jun 2023]
         *   Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform [git (⭐124)](https://github.com/Azure-Samples/container-apps-openai/) \[Jul 2023]
+        *   [Azure SQL DB + AOAI (⭐42)](https://github.com/Azure-Samples/SQL-AI-samples) / [Smart load balancing for AOAI (⭐33)](https://github.com/Azure-Samples/openai-aca-lb) / [Azure Functions (C#) bindings for OpenAI (⭐63)](https://github.com/Azure/azure-functions-openai-extension) / [Microsoft Entra ID Authentication for AOAI (⭐12)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) / [Azure OpenAI workshop (⭐452)](https://github.com/microsoft/OpenAIWorkshop) / [RAG for Azure Data (⭐103)](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) / [AI-Sentry (⭐9)](https://github.com/microsoft/ai-sentry): A lightweight, pluggable facade layer for AOAI
     *   Azure Open AI work with Cognitive Search act as a Long-term memory
         1.  [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (⭐5.6k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]
         2.  [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ) \[06 Apr 2023]
@@ -221,7 +239,7 @@
 
 *   [Lamini Memory Tuning (⭐216)](https://github.com/lamini-ai/Lamini-Memory-Tuning): Mixture of Millions of Memory Experts (MoME). 95% LLM Accuracy, 10x Fewer Hallucinations. [ref](https://www.lamini.ai/blog/lamini-memory-tuning) \[Jun 2024]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [Tokencost (⭐1.3k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
 
@@ -1155,14 +1173,9 @@
 ### **Retrieval-Augmented Generation: Research Papers**
 
 *   [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.01431)]: Retrieval-Augmented Generation Benchmark (RGB) is proposed to assess LLMs on 4 key abilities \[4 Sep 2023]:
-
-    1.  Noise robustness (External documents contain noises, struggled with noise above 80%)
-    2.  Negative rejection (External documents are all noises, Highest rejection rate was only 45%)
-    3.  Information integration (Difficulty in summarizing across multiple documents, Highest accuracy was 60-67%)
-    4.  Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
 *   <details>
 
-    <summary>Expand</summary>
+    <summary>Expand: Research Papers</summary>
 
     *   [Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983) : \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.06983)]: Forward-Looking Active REtrieval augmented generation (FLARE): FLARE iteratively generates a temporary next sentence and check whether it contains low-probability tokens. If so, the system retrieves relevant documents and regenerates the sentence. Determine low-probability tokens by `token_logprobs in OpenAI API response`. [git (⭐545)](https://github.com/jzbjyb/FLARE/blob/main/src/templates.py) \[11 May 2023]
     *   [Self-RAG](https://arxiv.org/pdf/2310.11511.pdf): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.11511)] 1. `Critic model C`: Generates reflection tokens (IsREL (relevant,irrelevant), IsSUP (fullysupported,partially supported,nosupport), IsUse (is useful: 5,4,3,2,1)). It is pretrained on data labeled by GPT-4. 2. `Generator model M`: The main language model that generates task outputs and reflection tokens. It leverages the data labeled by the critic model during training. 3. `Retriever model R`: Retrieves relevant passages. The LM decides if external passages (retriever) are needed for text generation. [git (⭐1.6k)](https://github.com/AkariAsai/self-rag) \[17 Oct 2023]
@@ -1178,6 +1191,7 @@
     *   [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059): Introduce a novel approach to retrieval-augmented language models by constructing a recursive tree structure from documents. [git (⭐33k)](https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index-packs-raptor/README.md) `pip install llama-index-packs-raptor` / [git (⭐25)](https://github.com/profintegra/raptor-rag) \[31 Jan 2024]
     *   [CRAG: Comprehensive RAG Benchmark](https://arxiv.org/abs/2406.04744): a factual question answering benchmark of 4,409 question-answer pairs and mock APIs to simulate web and Knowledge Graph (KG) search [ref](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024) \[7 Jun 2024]
     *   [PlanRAG](https://arxiv.org/abs/2406.12430): Decision Making. Decision QA benchmark, DQA. Plan -> Retrieve -> Make a decision (PlanRAG) [git (⭐99)](https://github.com/myeon9h/PlanRAG) \[18 Jun 2024]
+    *   [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219): `Best Performance Practice`: Query Classification, Hybrid with HyDE (retrieval), monoT5 (reranking), Reverse (repacking), Recomp (summarization). `Balanced Efficiency Practice`: Query Classification, Hybrid (retrieval), TILDEv2 (reranking), Reverse (repacking), Recomp (summarization). \[1 Jul 2024]
 
     </details>
 
@@ -1262,7 +1276,7 @@
 
 *   [Humanloop Interview 2023](https://web.archive.org/web/20230531203946/https://humanloop.com/blog/openai-plans) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/openai-plans.pdf) \[29 May 2023]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [5 Approaches To Solve LLM Token Limits](https://dholmes.co.uk/blog/5-approaches-to-solve-llm-token-limits/) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/token-limits-5-approaches.pdf) \[2023]
 
@@ -1286,10 +1300,19 @@
     *   [A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b) RAG cheat sheet shared above was inspired by [RAG survey paper](https://arxiv.org/abs/2312.10997). [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/advanced-rag-diagram-llama-index.png) \[Jan 2024]
     *   [Fine-Tuning a Linear Adapter for Any Embedding Model](https://medium.com/llamaindex-blog/fine-tuning-a-linear-adapter-for-any-embedding-model-8dd0a142d383): Fine-tuning the embeddings model requires you to reindex your documents. With this approach, you do not need to re-embed your documents. Simply transform the query instead. \[7 Sep 2023]
     *   4 RAG techniques implemented in [llama\_index (⭐33k)](https://github.com/jerryjliu/llama_index) / [cite](https://x.com/ecardenas300/status/1704188276565795079) \[20 Sep 2023] / [git (⭐396)](https://github.com/weaviate/recipes/tree/main/integrations/llamaindex)
+
+        <details>
+        <summary>Expand</summary>
+
         1.  SQL Router Query Engine: Query router that can reference your vector database or SQL database
+
         2.  Sub Question Query Engine: Break down the complex question into sub-questions
+
         3.  Recursive Retriever + Query Engine: Reference node relationships, rather than only finding a node (chunk) that is most relevant.
+
         4.  Self Correcting Query Engines: Use an LLM to evaluate its own output.
+
+        </details>
 
 ### **Vector Database Comparison**
 
@@ -1519,7 +1542,7 @@
 *   [Huggingface Mixture of Experts Explained](https://huggingface.co/blog/moe): Mixture of Experts, or MoEs for short \[Dec 2023]
 *   [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906): Simplifie Transformer. Removed several block components, including skip connections, projection/value matrices, sequential sub-blocks and normalisation layers without loss of training speed. \[3 Nov 2023]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [tiktoken (⭐11k)](https://github.com/openai/tiktoken): BPE tokeniser for use with OpenAI's models. Token counting. \[Dec 2022]
 *   [What are tokens and how to count them?](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them): OpenAI Articles
@@ -2018,7 +2041,7 @@
     | Post-training quantization  | Easy to use, no need to retrain the model                   | May result in accuracy loss                                     |
     | Quantization-aware training | Can achieve higher accuracy than post-training quantization | Requires retraining the model, can be more complex to implement |
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023]
 
@@ -2490,7 +2513,7 @@
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [Open AI Tokenizer](https://platform.openai.com/tokenizer): GPT-3, Codex Token counting
 

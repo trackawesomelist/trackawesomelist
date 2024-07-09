@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Jul 09, 2024](/content/2024/07/09/README.md)
+
+### Community Extensions
+
+*   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Articles

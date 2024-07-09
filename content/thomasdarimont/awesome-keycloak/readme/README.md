@@ -245,6 +245,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Authenticator for Duo's Universal Prompt (⭐48)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
 *   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐101)](https://github.com/anarsultanov/keycloak-multi-tenancy)
 *   [OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak (⭐3)](https://github.com/Bredstone/Keycloak-Extension-OIDC4IDA)
+*   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
 
 ## Integrations
 

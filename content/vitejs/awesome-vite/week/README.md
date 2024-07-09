@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Templates / Vanilla
+
+*   [vite-ts-lib-starter (⭐0)](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Templates / React

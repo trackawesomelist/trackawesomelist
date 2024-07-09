@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Jul 09, 2024](/content/2024/07/09/README.md)
+
+### Image Generation
+
+*   [Paints-UNDO (⭐274)](https://github.com/lllyasviel/Paints-UNDO) - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Image Generation
