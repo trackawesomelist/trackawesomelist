@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [importantimport/hatsu (⭐107)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
 
+### Libraries / Scripting
+
+*   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Applications
@@ -2118,7 +2122,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐272)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐274)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -2400,8 +2404,8 @@ A curated list of Rust code and resources.
 ### Libraries / Cryptography
 
 *   [conradkleinespel/rooster (⭐151)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
-*   [orion-rs/orion (⭐536)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
-*   [RustCrypto/hashes (⭐1.7k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
+*   [orion-rs/orion (⭐539)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
+*   [RustCrypto/hashes (⭐1.8k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
 
 ### Libraries / Email
 
@@ -2890,11 +2894,11 @@ A curated list of Rust code and resources.
 ### Libraries / Cryptography
 
 *   [briansmith/ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
-*   [briansmith/webpki (⭐456)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
+*   [briansmith/webpki (⭐457)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
 *   [DaGenix/rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - cryptographic algorithms
 *   [exonum/exonum (⭐1.2k)](https://github.com/exonum/exonum) \[[exonum](https://crates.io/crates/exonum)] - extensible framework for blockchain projects
 *   [libOctavo/octavo (⭐140)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
-*   [sfackler/rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
+*   [sfackler/rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
 
 ### Libraries / Database
 
@@ -3182,7 +3186,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐791)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 

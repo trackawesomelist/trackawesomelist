@@ -6,24 +6,61 @@ A curated list of awesome system integration software and resources.
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐160) (⭐159)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐784) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐886) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [OpenAPI Explorer (⭐293) (⭐292)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+*   [Swagger UI (⭐26k) (⭐26k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
+
+### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐188) (⭐188)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JSLT (⭐619) (⭐617)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / ETL
+
+*   [Pentaho Data Integration (⭐7.5k) (⭐7.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+
+### Projects / Integration Frameworks
+
+*   [Apache Camel (⭐5.4k) (⭐5.4k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+
+### Projects / Workflow engine
+
+*   [Flowable (⭐7.6k) (⭐7.6k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+
+### Resources / API Specification
+
+*   [AsyncAPI (⭐4k) (⭐4k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐647) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐159) (⭐159)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 *   [WSO2 API Manager (⭐821) (⭐821)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐777) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [Spectral (⭐2.3k) (⭐2.4k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 *   [Swagger Editor (⭐8.7k) (⭐8.8k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
-*   [Zally (⭐885) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
 *   [DapperDox (⭐396) (⭐396)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐292) (⭐292)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [RapiDoc (⭐1.6k) (⭐1.6k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 *   [Stoplight Elements (⭐1.6k) (⭐1.6k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
@@ -68,11 +105,6 @@ A curated list of awesome system integration software and resources.
 *   [Easy Rules (⭐4.8k) (⭐4.8k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 *   [OpenL Tablets (⭐150) (⭐150)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐187) (⭐188)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐617) (⭐617)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / ESB
 
 *   [WSO2 Enterprise Integrator (⭐367) (⭐367)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
@@ -99,13 +131,11 @@ A curated list of awesome system integration software and resources.
 *   [Cadence (⭐7.9k) (⭐8k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 *   [Camunda (⭐4k) (⭐4k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 *   [Elsa Core (⭐6k) (⭐6.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [Flowable (⭐7.5k) (⭐7.6k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 *   [jBPM (⭐1.6k) (⭐1.6k)](https://github.com/kiegroup/jbpm) - A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
 
 ### Resources / Data Formats
 
 *   [Apache Avro (⭐2.8k) (⭐2.8k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
-*   [NDJSON (⭐645) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐64k) (⭐64k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐327) (⭐327)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
@@ -123,19 +153,11 @@ A curated list of awesome system integration software and resources.
 
 *   [OpenAPI Style Validator (⭐197) (⭐197)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
-### Resources / API Specification
-
-*   [AsyncAPI (⭐3.9k) (⭐4k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### Projects / API Design
 
 *   [OpenAPI Generator (⭐20k) (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-
-### Projects / ETL
-
-*   [Pentaho Data Integration (⭐7.4k) (⭐7.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
 ### Projects / Workflow engine
 
@@ -177,7 +199,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Integration Frameworks
 
-*   [Apache Camel (⭐5.3k) (⭐5.4k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 *   [Spring Integration (⭐1.5k) (⭐1.5k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
@@ -246,10 +267,6 @@ A curated list of awesome system integration software and resources.
 *   [Argo Workflows (⭐14k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
-
-### Projects / API Documentation
-
-*   [Swagger UI (⭐25k) (⭐26k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 
 ### Projects / Messaging
 

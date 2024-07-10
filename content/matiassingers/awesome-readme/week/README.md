@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ [Daily](/content/matiassingers/awesome-readme/README.md) / Weekly / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Examples
+
+*   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Examples
@@ -283,7 +289,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installation instructions.
+*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 *   [aimeos/aimeos-typo3 (⭐228)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [alichtman/stronghold (⭐1.1k)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
 *   [amitmerchant1990/electron-markdownify (⭐957)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.

@@ -6,6 +6,18 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### LLM Evaluation / Multi-agents
+
+*   [confident-ai/deepeval (⭐2.4k)](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
+*   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
+*   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

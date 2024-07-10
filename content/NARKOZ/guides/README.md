@@ -2,15 +2,66 @@
 
 Design and development guides
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2.2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/NARKOZ/guides/week/README.md) / [Overview](/content/NARKOZ/guides/readme/README.md) ]
 
-## [Jul 12, 2022](/content/2022/07/12/README.md)
+## [Jul 10, 2024](/content/2024/07/10/README.md)
+
+### Styling / CSS
+
+*   [HTML and CSS code guide](https://codeguide.co/)
+
+### Programming Languages / C#
+
+*   [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+*   [Framework Design Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+
+### Programming Languages / Objective-C
+
+*   [The official raywenderlich.com Objective-C style guide (⭐3.1k)](https://github.com/kodecocodes/objective-c-style-guide#readme)
+
+### Programming Languages / Python
+
+*   [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
+### Programming Languages / Ruby
+
+*   [Ruby Style Guide (⭐16k)](https://github.com/rubocop/ruby-style-guide#readme)
+*   [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Programming Languages / Rust
 
-*   [The Rust Style Guide (⭐385)](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
+*   [Rust Style Guide (⭐95k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
+
+### Programming Languages / Swift
+
+*   [The Official Kodeco Swift Style Guide (⭐13k)](https://github.com/kodecocodes/swift-style-guide#readme)
+
+### Frameworks / RSpec
+
+*   [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
+*   [RSpec Style Guide (⭐947)](https://github.com/rubocop/rspec-style-guide#readme)
+
+### Frameworks / Rails
+
+*   [Rails Style Guide (⭐6.5k)](https://github.com/rubocop/rails-style-guide#readme)
+
+### Frameworks / Vue
+
+*   [The official style guide for Vue-specific code](https://vuejs.org/style-guide/)
+
+### Other / Bots
+
+*   [Principles of bot design](https://learn.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
+
+### Other / Favicon
+
+*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
+
+### Other / Writing
+
+*   [Writing style](https://atlassian.design/content/writing-style/)
 
 ## [Jul 10, 2022](/content/2022/07/10/README.md)
 
@@ -28,7 +79,7 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Project Guidelines (⭐27k)](https://github.com/elsewhencode/project-guidelines#readme)
+*   [Project Guidelines (⭐29k)](https://github.com/elsewhencode/project-guidelines#readme)
 
 ## [Feb 24, 2020](/content/2020/02/24/README.md)
 
@@ -39,7 +90,7 @@ Design and development guides
 
 ### Other / Node.js
 
-*   [Node.js Best Practices (⭐82k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ## [Sep 17, 2019](/content/2019/09/17/README.md)
 
@@ -57,13 +108,13 @@ Design and development guides
 
 ### Programming Languages / Clojure
 
-*   [Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide#readme)
+*   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
 ## [Apr 26, 2019](/content/2019/04/26/README.md)
 
 ### Other / Git
 
-*   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+*   [Commit messages guide (⭐6.7k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
 ## [Apr 23, 2019](/content/2019/04/23/README.md)
 
@@ -83,15 +134,10 @@ Design and development guides
 
 *   [Scripting with style](https://wiki.bash-hackers.org/scripting/style)
 
-### Frameworks / RSpec
-
-*   [The RSpec Style Guide (⭐878)](https://github.com/rubocop-hq/rspec-style-guide#readme)
-
 ## [Aug 29, 2018](/content/2018/08/29/README.md)
 
 ### Other / Bots
 
-*   [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 *   [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
 ## [Jul 31, 2018](/content/2018/07/31/README.md)
@@ -101,15 +147,6 @@ Design and development guides
 *   [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ## [Jul 27, 2018](/content/2018/07/27/README.md)
-
-### Programming Languages / C#
-
-*   [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-*   [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
-
-### Programming Languages / Ruby
-
-*   [The Ruby Style Guide (⭐16k)](https://github.com/rubocop-hq/ruby-style-guide#readme)
 
 ### Programming Languages / Scala
 
@@ -124,21 +161,13 @@ Design and development guides
 
 *   [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
 
-### Frameworks / RSpec
-
-*   [Better Specs { rspec guidelines with ruby }](http://www.betterspecs.org/)
-
-### Frameworks / Rails
-
-*   [The Rails Style Guide (⭐6.3k)](https://github.com/rubocop-hq/rails-style-guide#readme)
-
 ### Other / iOS
 
 *   [The iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 
 ### Other / Git
 
-*   [Git Style Guide (⭐4.9k)](https://github.com/agis/git-style-guide#readme)
+*   [Git Style Guide (⭐5.1k)](https://github.com/agis/git-style-guide#readme)
 
 ### Other / UI
 
@@ -147,7 +176,7 @@ Design and development guides
 
 ### Other / Writing
 
-*   [How To Ask Questions The Smart Way](http://www.catb.org/\~esr/faqs/smart-questions.html)
+*   [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 ## [Jun 29, 2018](/content/2018/06/29/README.md)
 
@@ -157,7 +186,7 @@ Design and development guides
 
 ### Other / Node.js
 
-*   [Node.js Style Guide (⭐4.9k)](https://github.com/felixge/node-style-guide#readme)
+*   [Node.js Style Guide (⭐5k)](https://github.com/felixge/node-style-guide#readme)
 
 ## [Mar 29, 2018](/content/2018/03/29/README.md)
 
@@ -178,17 +207,11 @@ Design and development guides
 
 *   [PHP Standard Recommendations](https://www.php-fig.org/psr/)
 
-## [Dec 14, 2017](/content/2017/12/14/README.md)
-
-### Frameworks / Vue
-
-*   [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
-
 ## [Jul 10, 2017](/content/2017/07/10/README.md)
 
 ### Other / API
 
-*   [Microsoft REST API Guidelines (⭐20k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
+*   [Microsoft REST API Guidelines (⭐23k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 
 ## [May 04, 2017](/content/2017/05/04/README.md)
 
@@ -207,7 +230,7 @@ Design and development guides
 
 ### Programming Languages / C
 
-*   [C Code Style Guidelines](https://www.cs.swarthmore.edu/\~newhall/unixhelp/c_codestyle.html)
+*   [C Code Style Guidelines](https://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
 
 ### Programming Languages / C++
 
@@ -215,12 +238,12 @@ Design and development guides
 
 ### Programming Languages / Elixir
 
-*   [Elixir Style Guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide#readme)
+*   [Elixir Style Guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide#readme)
 
 ### Programming Languages / JavaScript
 
 *   [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-*   [JavaScript SDK Design Guide (⭐1.3k)](https://github.com/hueitan/javascript-sdk-design#readme)
+*   [JavaScript SDK Design Guide (⭐1.4k)](https://github.com/hueitan/javascript-sdk-design#readme)
 
 ### Programming Languages / Java
 
@@ -248,20 +271,19 @@ Design and development guides
 
 ### Other / Writing
 
-*   [Writing style](https://atlassian.design/server/foundations/writing-style/)
 *   [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 
 ## [Dec 06, 2015](/content/2015/12/06/README.md)
 
 ### Programming Languages / C++
 
-*   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
+*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ## [Nov 22, 2015](/content/2015/11/22/README.md)
 
 ### Programming Languages / JavaScript
 
-*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐21k)](https://github.com/rwaldron/idiomatic.js#readme)
+*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐24k)](https://github.com/rwaldron/idiomatic.js#readme)
 
 ### Frameworks / AngularJS
 
@@ -279,22 +301,13 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐128k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
 ### Programming Languages / Objective-C
 
 *   [NYTimes Objective-C Style Guide (⭐5.8k)](https://github.com/NYTimes/objective-c-style-guide#readme)
-*   [The official raywenderlich.com Objective-C style guide (⭐3.1k)](https://github.com/raywenderlich/objective-c-style-guide#readme)
-
-### Programming Languages / Python
-
-*   [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-
-### Programming Languages / Swift
-
-*   [The Official raywenderlich.com Swift Style Guide (⭐12k)](https://github.com/raywenderlich/swift-style-guide#readme)
 
 ### Other / API
 
@@ -303,10 +316,6 @@ Design and development guides
 ### Other / Deployment
 
 *   [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-
-### Other / Favicon
-
-*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyr/favicon-cheat-sheet#readme)
 
 ### Other / Security
 
@@ -320,23 +329,19 @@ Design and development guides
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐105k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [Jan 11, 2015](/content/2015/01/11/README.md)
 
 ### Styling / CSS
 
-*   [Principles of writing consistent, idiomatic CSS (⭐6.5k)](https://github.com/necolas/idiomatic-css#readme)
-*   [General CSS notes, advice and guidelines (⭐3.6k)](https://github.com/csswizardry/CSS-Guidelines#readme)
-
-### Markup / HTML
-
-*   [HTML and CSS code guide (⭐8.3k)](https://github.com/mdo/code-guide#readme)
+*   [Principles of writing consistent, idiomatic CSS (⭐6.6k)](https://github.com/necolas/idiomatic-css#readme)
+*   [General CSS notes, advice and guidelines (⭐3.7k)](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ### Styling / Sass
 
-*   [Principles of writing idiomatic Sass (⭐234)](https://github.com/anthonyshort/idiomatic-sass#readme)
+*   [Principles of writing idiomatic Sass (⭐230)](https://github.com/anthonyshort/idiomatic-sass#readme)
 
-### Programming Languages / Ruby
+### Markup / HTML
 
-*   [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
+*   [HTML and CSS code guide (⭐8.5k)](https://github.com/mdo/code-guide#readme)

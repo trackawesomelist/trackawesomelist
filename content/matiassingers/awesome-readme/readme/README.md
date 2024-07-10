@@ -18,7 +18,8 @@ images, screenshots, GIFs, text formatting, etc.
 
 ## Examples
 
-*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installation instructions.
+*   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
+*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 *   [aimeos/aimeos-typo3 (⭐228)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [ajeetdsouza/zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 *   [alichtman/shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.

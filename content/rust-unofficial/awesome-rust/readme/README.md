@@ -478,7 +478,7 @@ See also [A comparison of operating systems written in Rust (⭐670)](https://gi
 *   [mmstick/tv-renamer (⭐149)](https://github.com/mmstick/tv-renamer) - A tv series renaming application with an optional GTK3 frontend.
 *   [mxseev/logram (⭐97)](https://github.com/mxseev/logram) - Push log files' updates to Telegram
 *   [netscanner (⭐738)](https://github.com/Chleba/netscanner) - TUI Network Scanner
-*   [nickgerace/gfold (⭐272)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐274)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 *   [nivekuil/rip (⭐1.3k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 *   [nushell/nushell (⭐31k)](https://github.com/nushell/nushell) - A new type of shell
 *   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
@@ -800,7 +800,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [rust-lang/rust-enhanced (⭐774)](https://github.com/rust-lang/rust-enhanced) - official Rust package
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐791)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 *   Visual Studio
@@ -1122,7 +1122,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 *   [arkworks-rs/circom-compat (⭐226)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
 *   [briansmith/ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
-*   [briansmith/webpki (⭐456)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
+*   [briansmith/webpki (⭐457)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
 *   [conradkleinespel/rooster (⭐151)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
 *   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 *   [DaGenix/rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - cryptographic algorithms
@@ -1136,12 +1136,12 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [klutzy/suruga (⭐124)](https://github.com/klutzy/suruga) - Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 *   [kornelski/rust-security-framework (⭐229)](https://github.com/kornelski/rust-security-framework) - Bindings for Security Framework (OSX native)
 *   [libOctavo/octavo (⭐140)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
-*   [orion-rs/orion (⭐536)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
+*   [orion-rs/orion (⭐539)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
 *   [racum/rust-djangohashers (⭐56)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] - Port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
-*   [RustCrypto/hashes (⭐1.7k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
+*   [RustCrypto/hashes (⭐1.8k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
 *   [rustls/rustls (⭐5.7k)](https://github.com/rustls/rustls) - Implementation of TLS
 *   [sfackler/rust-native-tls (⭐466)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
-*   [sfackler/rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
+*   [sfackler/rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
 *   [sorairolake/abcrypt (⭐10)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 *   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
 *   [w3f/schnorrkel (⭐304)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
@@ -1709,6 +1709,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 \[[scripting](https://crates.io/keywords/scripting)]
 
 *   [3body-lang (⭐169)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 *   [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language. (⭐497)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 *   [fleabitdev/gamelisp (⭐391)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
 *   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language

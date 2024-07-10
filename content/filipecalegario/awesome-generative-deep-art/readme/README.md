@@ -719,6 +719,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+*   [confident-ai/deepeval (⭐2.4k)](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
+*   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
+*   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
 *   [Reward Bench Leaderboard - a Hugging Face Space by allenai](https://huggingface.co/spaces/allenai/reward-bench)
 *   [LiveBench](https://livebench.ai/): A Challenging, Contamination-Free LLM Benchmark
 *   [Evaluating Large Language Models](https://www.lakera.ai/blog/large-language-model-evaluation): Methods, Best Practices & Tools | Lakera – Protecting AI teams that disrupt the world
@@ -1140,6 +1143,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Inbox: Speech-to-text (STT) and spoken content analysis
 
+*   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 *   [ggerganov/whisper.cpp (⭐33k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
 *   [Good Tape](https://goodtape.io/): paid service for transcription
 *   [shashikg/WhisperS2T (⭐239)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
