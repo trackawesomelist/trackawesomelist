@@ -24,23 +24,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [MyZql (⭐15)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
-#### [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5) / Diagnostics
-
-*   [sontungexpt/better-diagnostic-virtual-text (⭐8)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [OXY2DEV/markview.nvim (⭐567)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
-
-#### [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Components & Libraries / UI Components
 
 *   [vue-data-ui (⭐220)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
 
-#### [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Productivity and Time
 
@@ -55,13 +45,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
-#### [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Community
 
 *   [Terraform Roadmap](https://roadmap.sh/terraform)
 
-#### [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### Apps / Outline Processor Markup Language
 
@@ -100,7 +90,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Follow](https://x.com/follow_app_)
 
-#### [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+#### [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ##### Plugins / Compatibility
 
@@ -120,25 +110,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
 
-#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Communications / Non-Verbal Communication
 
 *   [Emergent Graphical Conventions in a Visual Communication Game](https://proceedings.neurips.cc/paper_files/paper/2022/hash/550ff553efc2c58410f277c667d12786-Abstract-Conference.html) - ***NeurIPS***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17122070906194572150)]. A computational account on the emergence of iconic language.
 
-#### [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Libraries / Chrome Extensions
 
 *   :octocat: [Next Colors (⭐1)](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
 
-#### [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Templates / Vanilla
 
 *   [vite-ts-lib-starter (⭐0)](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 
-#### [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -171,48 +161,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-font-picker (⭐20)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 
-#### [12. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+#### [11. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ##### Articles
 
 *   [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Discover all the tech career roadmaps and latest market trends in the tech job market!
 
-#### [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
+#### [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ##### Image Generation
 
 *   [Paints-UNDO (⭐274)](https://github.com/lllyasviel/Paints-UNDO) - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
 
-#### [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### Tools
 
 *   [RPi Monitor Dashboard (⭐2)](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
 
-#### [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
-
-##### Community Extensions
-
-*   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
-
-#### [16. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-##### **Retrieval-Augmented Generation: Research Papers**
-
-*   <details>
-
-    <summary>Expand</summary>
-    1. Noise robustness (External documents contain noises, struggled with noise above 80%)
-    1. Negative rejection (External documents are all noises, Highest rejection rate was only 45%)
-    1. Information integration (Difficulty in summarizing across multiple documents, Highest accuracy was 60-67%)
-    1. Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
-    </details>
-
-##### **Agents: AutoGPT and Communicative Agents** / Tool use: LLM to Master APIs
-
-*   [APIGen](https://arxiv.org/abs/2406.18518): Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets \[26 Jun 2024]
-
-#### [17. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Algorithms / Object detection and object tracking
 
@@ -220,7 +187,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [GitHub :octocat:](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-#### [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Code Generation
 
@@ -230,13 +197,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
 
-#### [19. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+#### [16. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ##### Examples
 
 *   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 
-#### [20. Guides](/content/NARKOZ/guides/README.md)
+#### [17. Guides](/content/NARKOZ/guides/README.md)
 
 ##### Styling / CSS
 
@@ -293,7 +260,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Writing style](https://atlassian.design/content/writing-style/)
 
-#### [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### LLM Evaluation / Multi-agents
 
@@ -305,13 +272,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 
-#### [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Testing
 
 *   [Trendyol/stove (⭐140)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 
-#### [23. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [20. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -352,7 +319,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NDJSON (⭐647) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-#### [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [21. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Web
 
@@ -361,6 +328,74 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Libraries / Scripting
 
 *   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
+
+#### [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5) / Diagnostics
+
+*   [sontungexpt/better-diagnostic-virtual-text (⭐8)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [OXY2DEV/markview.nvim (⭐567)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
+
+##### Indent / Diagnostics
+
+*   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
+
+#### [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+##### Community Extensions
+
+*   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
+*   [Keycloak GDPR Event Logger (⭐2)](https://github.com/slemke/keycloak-gdpr-event-logger)
+*   [Keycloak Backup Email Required Action (⭐0)](https://github.com/slemke/keycloak-backup-email)
+*   [Keycloak Terms Authenticator: Require Terms and Conditions on every login (⭐0)](https://github.com/slemke/keycloak-terms-authenticator)
+
+##### Tools
+
+*   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
+
+#### [24. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Talks and videos
+
+*   [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
+
+#### [25. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **Retrieval-Augmented Generation: Research Papers**
+
+*   <details>
+
+    <summary>Expand</summary>
+
+    1.  Noise robustness (External documents contain noises, struggled with noise above 80%)
+
+    2.  Negative rejection (External documents are all noises, Highest rejection rate was only 45%)
+
+    3.  Information integration (Difficulty in summarizing across multiple documents, Highest accuracy was 60-67%)
+
+    4.  Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
+
+    </details>
+
+##### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+
+*   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) A persona-driven data synthesis methodology using Text-to-Persona and Persona-to-Persona. \[28 Jun 2024]
+*   [RouteLLM (⭐1.3k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
+
+##### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/): a version of GPT-4 fine-tuned to critique code generated by ChatGPT \[27 Jun 2024]
+
+##### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
+
+*   [AI Agents That Matter](https://arxiv.org/abs/2407.01502): AI agent evaluations for optimizing both accuracy and cost. Focusing solely on accuracy can lead to overfitting and high costs. `retry, warming, escalation` \[1 Jul 2024]
+
+##### **Agents: AutoGPT and Communicative Agents** / Tool use: LLM to Master APIs
+
+*   [APIGen](https://arxiv.org/abs/2406.18518): Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets \[26 Jun 2024]
 
 ---
 
@@ -388,11 +423,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 18. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 23K 📝 07&#x2F;07 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 19. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 07&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 20. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 21K 📝 07&#x2F;07 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
-21. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 19K 📝 07&#x2F;07 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-22. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 19K 📝 07&#x2F;07 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
-23. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 17K 📝 07&#x2F;07 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 07&#x2F;09 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-25. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;08 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+21. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;10 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+22. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 19K 📝 07&#x2F;07 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
+23. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 19K 📝 07&#x2F;07 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
+24. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 17K 📝 07&#x2F;07 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
+25. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 07&#x2F;09 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
 26. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 13K 📝 07&#x2F;09 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 27. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K 📝 07&#x2F;07 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
 28. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 07&#x2F;07 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
@@ -623,7 +658,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;08 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;10 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -783,7 +818,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 284, 📝 07&#x2F;09 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 284, 📝 07&#x2F;10 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 
 ### Learn
 
@@ -1092,7 +1127,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 655, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 07&#x2F;07 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;07 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;10 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1135,7 +1170,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md) - ([Source ⭐ 1K, 📝 23&#x2F;06&#x2F;26 ](https://github.com/daviddias/awesome-hacking-locations)) - :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 - [Awesome Honeypots](/content/paralax/awesome-honeypots/README.md) - ([Source ⭐ 7.9K, 📝 23&#x2F;12&#x2F;27 ](https://github.com/paralax/awesome-honeypots)) - an awesome list of honeypot resources
 - [Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md) - ([Source ⭐ 7K, 📝 23&#x2F;11&#x2F;19 ](https://github.com/meirwah/awesome-incident-response)) - A curated list of tools for incident response
-- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.7K, 📝 07&#x2F;09 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.7K, 📝 07&#x2F;10 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
 - [Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md) - ([Source ⭐ 961, 📝 21&#x2F;03&#x2F;06 ](https://github.com/fabacab/awesome-lockpicking)) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 11K, 📝 07&#x2F;07 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
 - [Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md) - ([Source ⭐ 76, 📝 23&#x2F;03&#x2F;19 ](https://github.com/Karneades/awesome-malware-persistence)) - A curated list of awesome malware persistence tools and resources. 

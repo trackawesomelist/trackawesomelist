@@ -11,6 +11,13 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Community Extensions
 
 *   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
+*   [Keycloak GDPR Event Logger (⭐2)](https://github.com/slemke/keycloak-gdpr-event-logger)
+*   [Keycloak Backup Email Required Action (⭐0)](https://github.com/slemke/keycloak-backup-email)
+*   [Keycloak Terms Authenticator: Require Terms and Conditions on every login (⭐0)](https://github.com/slemke/keycloak-terms-authenticator)
+
+### Tools
+
+*   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 

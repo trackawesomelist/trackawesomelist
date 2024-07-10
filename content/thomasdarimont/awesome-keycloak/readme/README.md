@@ -24,30 +24,33 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 # Contents
 
+*   [Awesome Keycloak ](#awesome-keycloak-)
+*   [](#)
+*   [Contributing](#contributing)
+*   [Contents](#contents)
 *   [General](#general)
-    *   [Documentation](#docs)
-        *   [Keycloak Website](http://www.keycloak.org)
-        *   [Current Documentation](http://www.keycloak.org/documentation.html)
-        *   [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
-    *   [Mailing Lists](#mailing-lists)
-        *   [User Mailing List](#user-mailing-list)
-        *   [Developer Mailing List](#dev-mailing-list)
-        *   [Mailing List Search](#mailing-list-search)
-*   [Books](#books)
-*   [Articles](#articles)
-*   [Talks](#talks)
-*   [Presentations](#presentations)
-*   [Video Playlists](#video-playlists)
-*   [Community Extensions](#community-extensions)
-*   [Integrations](#integrations)
-*   [Themes](#themes)
-*   [Docker](#docker)
-*   [Deployment Examples](#deployment-examples)
-*   [Example Projects](#example-projects)
-*   [Benchmarks](#benchmarks)
-*   [Help](#help)
-*   [Commercial Offerings](#commercial-offerings)
-*   [Miscellaneous](#miscellaneous)
+    *   [Documentation](#documentation)
+    *   [Discussion Groups and Mailing Lists](#discussion-groups-and-mailing-lists)
+    *   [Books](#books)
+    *   [Articles](#articles)
+    *   [Talks](#talks)
+    *   [Presentations](#presentations)
+    *   [Video Playlists](#video-playlists)
+    *   [Clients](#clients)
+    *   [Community Extensions](#community-extensions)
+    *   [Integrations](#integrations)
+    *   [Quick demo Videos](#quick-demo-videos)
+    *   [Themes](#themes)
+    *   [Docker](#docker)
+    *   [Kubernetes](#kubernetes)
+    *   [Tools](#tools)
+    *   [Deployment Examples](#deployment-examples)
+    *   [Example Projects](#example-projects)
+    *   [Benchmarks](#benchmarks)
+    *   [Help](#help)
+    *   [Commercial Offerings](#commercial-offerings)
+    *   [Miscellaneous](#miscellaneous)
+*   [License](#license)
 
 # General
 
@@ -246,6 +249,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐101)](https://github.com/anarsultanov/keycloak-multi-tenancy)
 *   [OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak (⭐3)](https://github.com/Bredstone/Keycloak-Extension-OIDC4IDA)
 *   [Keycloak Testcontainer for Node.js (⭐0)](https://github.com/slemke/keycloak-testcontainer)
+*   [Keycloak GDPR Event Logger (⭐2)](https://github.com/slemke/keycloak-gdpr-event-logger)
+*   [Keycloak Backup Email Required Action (⭐0)](https://github.com/slemke/keycloak-backup-email)
+*   [Keycloak Terms Authenticator: Require Terms and Conditions on every login (⭐0)](https://github.com/slemke/keycloak-terms-authenticator)
 
 ## Integrations
 
@@ -323,6 +329,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐87)](https://github.com/aws-samples/cdk-keycloak)
 *   [keycloak-scanner Python CLI (⭐49)](https://github.com/NeuronAddict/keycloak-scanner)
 *   [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
+*   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
 
 ## Deployment Examples
 

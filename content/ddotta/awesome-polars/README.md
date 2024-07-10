@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 10, 2024](/content/2024/07/10/README.md)
+
+### Resources / Talks and videos
+
+*   [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Official news :
