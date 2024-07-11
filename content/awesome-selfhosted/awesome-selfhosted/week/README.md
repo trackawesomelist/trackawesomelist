@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Software / Media Streaming - Video Streaming
+
+*   [OvenMediaEngine (⭐2.5k)](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `GPL-3.0` `C++/Docker`
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Software / Automation
@@ -394,7 +400,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐7k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐7.1k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -1768,7 +1774,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Games
 
 *   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐10k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
-*   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.3k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -2277,10 +2282,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Database Management
 
 *   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐26k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs/Docker`
-
-### Software / Media Streaming - Video Streaming
-
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2.5k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
 
 ### Software / Money, Budgeting & Management
 
@@ -3726,10 +3727,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Webmail Clients
 
 *   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐5.6k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP/deb`
-
-### Software / Communication - XMPP - Servers
-
-*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐168)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 

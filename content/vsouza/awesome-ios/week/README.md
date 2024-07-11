@@ -6,6 +6,16 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ [Daily](/content/vsouza/awesome-ios/README.md) / Weekly / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Websites / Collection View Layout
+
+*   [Roadmap.sh iOS Roadmap](https://roadmap.sh/ios) - A community created iOS Developer roadmap.
+
+### Tools / Collection View Layout
+
+*   [GetUniversal.link](https://getuniversal.link/) - Free Universal Link & Apple App Site Association testing tool.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Database
@@ -2288,7 +2298,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [EnigmaKit (⭐116)](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 *   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/macOS, Android and different server side platforms.
 *   [Obfuscator-iOS (⭐641)](https://github.com/pjebs/Obfuscator-iOS) - Secure your app by obfuscating all the hard-coded security-sensitive strings.
-*   [swift-sodium (⭐508)](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS.
+*   [swift-sodium (⭐510)](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS.
 *   [CryptoSwift (⭐10k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 *   [SCrypto (⭐38)](https://github.com/sgl0v/SCrypto) - Elegant Swift interface to access the CommonCrypto routines.
 *   [SipHash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing in Swift with the SipHash algorithm.

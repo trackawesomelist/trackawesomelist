@@ -1,18 +1,46 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2024
 
-25 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Books
+
+*   [Django for Beginners, Fifth Edition](https://djangoforbeginners.com/)
+
+## [2. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Websites / Collection View Layout
+
+*   [Roadmap.sh iOS Roadmap](https://roadmap.sh/ios) - A community created iOS Developer roadmap.
+
+### Tools / Collection View Layout
+
+*   [GetUniversal.link](https://getuniversal.link/) - Free Universal Link & Apple App Site Association testing tool.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Media Streaming - Video Streaming
+
+*   [OvenMediaEngine (⭐2.5k)](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `GPL-3.0` `C++/Docker`
+
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Other / [Other](#other-1)
+
+*   [CodeRabbit](https://coderabbit.ai) :copyright: — AI-powered code review tool that helps developers write better code faster.  CodeRabbit provides automated code reviews,  identifies security vulnerabilities, and suggests code improvements.  It integrates with GitHub and GitLab.
+
+## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Talks and videos
 
 *   [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -53,7 +81,7 @@
 
 *   [NDJSON (⭐647) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### LLM Evaluation / Multi-agents
 
@@ -61,11 +89,15 @@
 *   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
 *   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
 
+### Text-related Generative Tools / Multi-agents
+
+*   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
+
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 
-## [4. Guides](/content/NARKOZ/guides/week/README.md)
+## [8. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Styling / CSS
 
@@ -122,13 +154,13 @@
 
 *   [Writing style](https://atlassian.design/content/writing-style/)
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 
-## [6. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Object detection and object tracking
 
@@ -136,7 +168,7 @@
     *   [GitHub :octocat:](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Retrieval-Augmented Generation: Research Papers**
 
@@ -171,7 +203,7 @@
 
 *   [APIGen](https://arxiv.org/abs/2406.18518): Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets \[26 Jun 2024]
 
-## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -184,19 +216,19 @@
 
 *   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [RPi Monitor Dashboard (⭐2)](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
 
-## [10. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [14. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
 *   [Paints-UNDO (⭐274)](https://github.com/lllyasviel/Paints-UNDO) - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -229,19 +261,19 @@
 
 *   [ngx-font-picker (⭐20)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
 *   [vite-ts-lib-starter (⭐0)](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Next Colors (⭐1)](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [18. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Compatibility
 
@@ -261,13 +293,39 @@
 
 *   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
 
-## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [Trendyol/stove (⭐140)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 
-## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐197)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐433)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+## [20. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -306,7 +364,7 @@
 
 *   [Follow](https://x.com/follow_app_)
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Generation
 
@@ -316,19 +374,19 @@
 
 *   [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
 
-## [18. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [22. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Discover all the tech career roadmaps and latest market trends in the tech job market!
 
-## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
 *   [Terraform Roadmap](https://roadmap.sh/terraform)
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Web
 
@@ -338,7 +396,7 @@
 
 *   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 
-## [21. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Productivity and Time
 
@@ -353,13 +411,13 @@
 *   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-data-ui (⭐220)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
 
-## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
@@ -373,13 +431,13 @@
 
 *   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 
-## [24. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [28. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [MyZql (⭐15)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Communications / Non-Verbal Communication
 

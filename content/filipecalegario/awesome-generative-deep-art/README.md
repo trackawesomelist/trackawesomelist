@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 11, 2024](/content/2024/07/11/README.md)
+
+### Text-related Generative Tools / Multi-agents
+
+*   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
+
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
 ### LLM Evaluation / Multi-agents

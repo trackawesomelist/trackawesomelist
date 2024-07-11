@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / Weekly / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Resources / Books
+
+*   [Django for Beginners, Fifth Edition](https://djangoforbeginners.com/)
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Third-Party Packages / Performance
@@ -268,10 +274,6 @@ A curated list of awesome things related to Django
 
 *   [djongo (⭐1.9k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
-### Resources / Books
-
-*   [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
-
 ### Hosting / PaaS (Platforms-as-a-Service)
 
 *   [Fly](https://fly.io)
@@ -398,10 +400,6 @@ A curated list of awesome things related to Django
 *   [django-pattern-library (⭐342)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
-
-### Resources / Books
-
-*   [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
@@ -966,7 +964,6 @@ A curated list of awesome things related to Django
 
 *   [cookiecutter-django (⭐12k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
 *   [DRFx (⭐478)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
-*   [docker-django (⭐179)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 *   [wemake-django-template (⭐2k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐59)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 

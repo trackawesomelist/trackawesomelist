@@ -14,6 +14,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
 *   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
 
+### Text-related Generative Tools / Multi-agents
+
+*   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
+
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text

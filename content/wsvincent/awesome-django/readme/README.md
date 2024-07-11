@@ -494,24 +494,20 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Books
 
-*Django 5.0*
+*Django 5*
 
 *   [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 *   [Django 5 By Example](https://www.packtpub.com/en-us/product/django-5-by-example-9781805125457)
 *   [Django in Action](https://www.manning.com/books/django-in-action)
+*   [Django for Beginners, Fifth Edition](https://djangoforbeginners.com/)
 
-*Django 4.2*
-
-*   [Understand Django: An Exploration of the Django Web Framework](https://www.mattlayman.com/understand-django/)
-*   [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
-
-*Django 4.0*
+*Django 4*
 
 *   [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 *   [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
-*   [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
+*   [Understand Django: An Exploration of the Django Web Framework](https://www.mattlayman.com/understand-django/)
 
-*Django 3.2*
+*Django 3*
 
 *   [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 *   [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
@@ -551,7 +547,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [djangox (⭐2k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 *   [DRFx (⭐478)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [django-project-template (⭐714)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
-*   [docker-django (⭐179)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 *   [django-docker-template (⭐169)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
 *   [django-startproject (⭐153)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 *   [wemake-django-template (⭐2k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
