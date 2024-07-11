@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
+### Applications / Security tools
+
+*   [observer\_ward (⭐1.1k)](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
+
 ### Applications / Web
 
 *   [importantimport/hatsu (⭐107)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
@@ -1599,10 +1603,6 @@ A curated list of Rust code and resources.
     *   [mgrachev/update-informer (⭐205)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] - Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
-
-### Applications / Security tools
-
-*   [ObserverWard (⭐1.1k)](https://github.com/0x727/ObserverWard) - Community based web technologies analysis tool.
 
 ### Libraries / GUI
 

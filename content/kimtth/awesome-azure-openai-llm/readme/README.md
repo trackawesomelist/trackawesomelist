@@ -372,6 +372,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 15. [PromptBench (⭐2.3k)](https://github.com/microsoft/promptbench): A unified evaluation framework for large language models \[Jun 2023]
 16. [UFO (⭐6.5k)](https://github.com/microsoft/UFO): A UI-Focused Agent for Windows OS Interaction. \[Mar 2024]
 17. [SAMMO (⭐252)](https://github.com/microsoft/sammo): A general-purpose framework for prompt optimization. [ref](https://www.microsoft.com/en-us/research/blog/sammo-a-general-purpose-framework-for-prompt-optimization/) \[April 2024]
+18. [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment.
 
 *   [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/): Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product \[May 2023]
 *   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐1.9k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
@@ -525,7 +526,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   Azure-Samples [ref](https://github.com/Azure-Samples)
         *   Azure OpenAI with AKS By Terraform: [git (⭐41)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
         *   Azure OpenAI with AKS By Bicep: [git (⭐26)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐165)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023]
+        *   Enterprise Logging: [git (⭐165)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐74)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
         *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐39)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
         *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐434)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
         *   GPT-Azure-Search-Engine: [git (⭐362)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]

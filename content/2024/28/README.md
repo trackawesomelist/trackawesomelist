@@ -1,18 +1,30 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2024
 
-29 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [1. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+
+### Techniques / Cloud
+
+*   [Shadow Linking: The Persistence Vector of SaaS Identity Threat](https://www.obsidiansecurity.com/blog/shadow-linking-the-persistence-vector-of-saas-identity-threat/) - Abuse of additional identity providers to persist in an environment.
+
+## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+
+### Blockchain Explorers
+
+*   [Lora](https://lora.algokit.io/mainnet) - Lora is a powerful visual tool designed to streamline the Algorand local development experience. It acts as both a network explorer and a tool for building and testing your Algorand applications.
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Books
 
 *   [Django for Beginners, Fifth Edition](https://djangoforbeginners.com/)
 
-## [2. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [4. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Websites / Collection View Layout
 
@@ -22,25 +34,26 @@
 
 *   [GetUniversal.link](https://getuniversal.link/) - Free Universal Link & Apple App Site Association testing tool.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
 *   [OvenMediaEngine (⭐2.5k)](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `GPL-3.0` `C++/Docker`
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [CodeRabbit](https://coderabbit.ai) :copyright: — AI-powered code review tool that helps developers write better code faster.  CodeRabbit provides automated code reviews,  identifies security vulnerabilities, and suggests code improvements.  It integrates with GitHub and GitLab.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Talks and videos
 
 *   [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
+*   [Polars basics playlist](https://www.youtube.com/watch?v=71u1KaUErVk) - A playlist that introduces the basic features of Polars in an instructive way.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -81,7 +94,7 @@
 
 *   [NDJSON (⭐647) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### LLM Evaluation / Multi-agents
 
@@ -93,11 +106,15 @@
 
 *   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
 
+### Inbox: Text-to-speech (TTS) and avatars / Deforum
+
+*   [p0n1/epub\_to\_audiobook (⭐905)](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
+
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 
-## [8. Guides](/content/NARKOZ/guides/week/README.md)
+## [10. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Styling / CSS
 
@@ -154,13 +171,13 @@
 
 *   [Writing style](https://atlassian.design/content/writing-style/)
 
-## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [11. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [12. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Object detection and object tracking
 
@@ -168,7 +185,7 @@
     *   [GitHub :octocat:](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-## [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Retrieval-Augmented Generation: Research Papers**
 
@@ -185,6 +202,10 @@
     4.  Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
 
     </details>
+
+### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
+
+*   [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment.
 
 ### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
 
@@ -203,7 +224,7 @@
 
 *   [APIGen](https://arxiv.org/abs/2406.18518): Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets \[26 Jun 2024]
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -216,19 +237,19 @@
 
 *   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
 
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [RPi Monitor Dashboard (⭐2)](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
 
-## [14. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [16. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
 *   [Paints-UNDO (⭐274)](https://github.com/lllyasviel/Paints-UNDO) - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -238,6 +259,10 @@
 *   [angular-starter-kit (⭐1)](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
 *   [fractal-boilerplate-lua-angular (⭐1)](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 *   [angular-nestjs-starter-kit (⭐1)](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-kit (⭐5)](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -261,19 +286,19 @@
 
 *   [ngx-font-picker (⭐20)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 
-## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
 *   [vite-ts-lib-starter (⭐0)](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Next Colors (⭐1)](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
 
-## [18. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [20. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Compatibility
 
@@ -293,7 +318,7 @@
 
 *   [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -325,7 +350,7 @@
 *   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
 *   [chrislo27/RhythmHeavenRemixEditor (⭐433)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
 
-## [20. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [22. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -364,7 +389,7 @@
 
 *   [Follow](https://x.com/follow_app_)
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Generation
 
@@ -374,19 +399,23 @@
 
 *   [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
 
-## [22. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [24. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Discover all the tech career roadmaps and latest market trends in the tech job market!
 
-## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
 *   [Terraform Roadmap](https://roadmap.sh/terraform)
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Security tools
+
+*   [observer\_ward (⭐1.1k)](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
 
 ### Applications / Web
 
@@ -396,7 +425,7 @@
 
 *   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 
-## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Productivity and Time
 
@@ -411,13 +440,13 @@
 *   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-data-ui (⭐220)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
@@ -431,13 +460,17 @@
 
 *   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 
-## [28. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [30. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [MyZql (⭐15)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
-## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+### Deployment
+
+*   [MariaDB4j (⭐822)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
+
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Communications / Non-Verbal Communication
 

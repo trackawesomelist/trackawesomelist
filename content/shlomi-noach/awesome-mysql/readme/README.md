@@ -59,7 +59,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.3k)](htt
 
 *Backup/restore/recovery tools*
 
-*   [Dumpling (⭐36k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+*   [Dumpling (⭐37k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 *   [MyDumper (⭐2.4k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 *   [Percona Xtrabackup (⭐1.2k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
@@ -118,6 +118,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.3k)](htt
 *MySQL deployment tools*
 
 *   [dbdeployer (⭐702)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+*   [MariaDB4j (⭐822)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 *   [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
 ## Development
@@ -195,7 +196,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.3k)](htt
 *   [MariaDB (⭐5.4k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 *   [MySQL Server & MySQL Cluster (⭐10k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 *   [Percona Server (⭐1.1k)](https://github.com/percona/percona-server) - An enhanced, drop-in MySQL replacement.
-*   [TiDB (⭐36k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
+*   [TiDB (⭐37k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ## Sharding
 

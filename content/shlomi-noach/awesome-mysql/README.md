@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ Daily / [Weekly](/content/shlomi-noach/awesome-mysql/week/README.md) / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Jul 11, 2024](/content/2024/07/11/README.md)
+
+### Deployment
+
+*   [MariaDB4j (⭐822)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
+
 ## [Jul 08, 2024](/content/2024/07/08/README.md)
 
 ### Connectors
@@ -116,7 +122,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Backup
 
-*   [Dumpling (⭐36k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+*   [Dumpling (⭐37k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 
 ### Binlog-Replication
 
@@ -243,7 +249,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [MariaDB (⭐5.4k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 *   [MySQL Server & MySQL Cluster (⭐10k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
-*   [TiDB (⭐36k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
+*   [TiDB (⭐37k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ### Toolkits
 

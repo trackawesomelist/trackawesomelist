@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 11, 2024](/content/2024/07/11/README.md)
+
+### Applications / Security tools
+
+*   [observer\_ward (⭐1.1k)](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
+
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
 ### Libraries / Scripting
@@ -1804,12 +1810,6 @@ A curated list of Rust code and resources.
 ### Development tools / Web Servers
 
 *   [comtrya (⭐470)](https://github.com/comtrya/comtrya) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
-
-## [Mar 03, 2022](/content/2022/03/03/README.md)
-
-### Applications / Security tools
-
-*   [ObserverWard (⭐1.1k)](https://github.com/0x727/ObserverWard) - Community based web technologies analysis tool.
 
 ## [Mar 02, 2022](/content/2022/03/02/README.md)
 

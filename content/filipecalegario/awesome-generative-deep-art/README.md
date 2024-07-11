@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
 
+### Inbox: Text-to-speech (TTS) and avatars / Deforum
+
+*   [p0n1/epub\_to\_audiobook (⭐905)](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
+
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
 ### LLM Evaluation / Multi-agents

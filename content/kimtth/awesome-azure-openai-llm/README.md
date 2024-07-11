@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 11, 2024](/content/2024/07/11/README.md)
+
+### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
+
+*   [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment.
+
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
 ### **Retrieval-Augmented Generation: Research Papers**
@@ -92,7 +98,7 @@
     *   Azure-Samples [ref](https://github.com/Azure-Samples)
         *   Azure OpenAI with AKS By Terraform: [git (⭐41)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
         *   Azure OpenAI with AKS By Bicep: [git (⭐26)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐165)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023]
+        *   Enterprise Logging: [git (⭐165)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐74)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
         *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐39)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
         *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐434)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
         *   GPT-Azure-Search-Engine: [git (⭐362)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
