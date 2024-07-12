@@ -6,6 +6,12 @@ GeoJSON utilities that will make your life easier.
 
 [ Daily / [Weekly](/content/tmcw/awesome-geojson/week/README.md) / [Overview](/content/tmcw/awesome-geojson/readme/README.md) ]
 
+## [Jul 12, 2024](/content/2024/07/12/README.md)
+
+### editors & viewers
+
+*   [play.placemark.io](https://play.placemark.io/): web-based editor, supports many filetype imports & exports, operations
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### operations

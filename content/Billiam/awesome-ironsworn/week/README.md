@@ -6,11 +6,13 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
-## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Tools / Ironsworn
 
-*   [Iron Vault (⭐22)](https://github.com/iron-vault-plugin/iron-vault/) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
+*   [Iron Vault](https://ironvault.quest) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
+
+## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Resources / Ironsworn
 

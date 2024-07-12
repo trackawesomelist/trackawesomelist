@@ -83,7 +83,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Backports and improvements
 
 *   [future-typing (⭐16)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
-*   [typing-extensions (⭐1.6k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
+*   [typing-extensions (⭐404)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
 *   [typing-utils (⭐12)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
 
 ## Tools
@@ -206,6 +206,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Related
 
-*   [awesome-python (⭐211k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 

@@ -6,6 +6,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ [Daily](/content/typeddjango/awesome-python-typing/README.md) / Weekly / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
+
+### Backports and improvements
+
+*   [typing-extensions (⭐404)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Tools / Linters
@@ -347,12 +353,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 *   [typical (⭐182)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
-## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
-
-### Backports and improvements
-
-*   [typing-extensions (⭐1.6k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
-
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
 ### Dynamic type checkers
@@ -421,5 +421,5 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐211k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
