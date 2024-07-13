@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 
+### Session / Diagnostics
+
+*   [rmagatti/session-lens (⭐225)](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### (requires Neovim 0.5)

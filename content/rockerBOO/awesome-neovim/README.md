@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 13, 2024](/content/2024/07/13/README.md)
+
+### Session / Diagnostics
+
+*   [rmagatti/session-lens (⭐225)](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
+
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
 ### Indent / Diagnostics

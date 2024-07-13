@@ -10,6 +10,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
+*   :octocat: [mockt (⭐8)](https://github.com/nbottarini/mockt) - Joyful mocking library for Typescript and Javascript
 *   :octocat: [Color-Core (⭐3)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 
 ## [Jun 17 - Jun 23, 2024](/content/2024/25/README.md)

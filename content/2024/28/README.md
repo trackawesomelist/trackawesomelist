@@ -27,6 +27,7 @@
 
 ### Libraries / Chrome Extensions
 
+*   :octocat: [mockt (⭐8)](https://github.com/nbottarini/mockt) - Joyful mocking library for Typescript and Javascript
 *   :octocat: [Color-Core (⭐3)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
@@ -537,6 +538,10 @@
 ### Indent / Diagnostics
 
 *   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
+
+### Session / Diagnostics
+
+*   [rmagatti/session-lens (⭐225)](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
 
 ## [39. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
