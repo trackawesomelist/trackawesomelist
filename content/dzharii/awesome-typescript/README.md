@@ -6,11 +6,11 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
-## [Jul 09, 2024](/content/2024/07/09/README.md)
+## [Jul 13, 2024](/content/2024/07/13/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Next Colors (⭐1)](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
+*   :octocat: [Color-Core (⭐3)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 
 ## [Jun 23, 2024](/content/2024/06/23/README.md)
 
@@ -40,7 +40,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Type Challenges (⭐41k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
+*   :octocat: [Type Challenges (⭐42k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
 
 ## [Mar 22, 2024](/content/2024/03/22/README.md)
 
@@ -140,7 +140,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [OXC (⭐9.5k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐9.7k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
@@ -735,7 +735,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐43)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐44)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 

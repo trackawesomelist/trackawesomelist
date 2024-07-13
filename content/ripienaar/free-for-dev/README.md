@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 13, 2024](/content/2024/07/13/README.md)
+
+### Email
+
+*   [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
+
 ## [Jul 09, 2024](/content/2024/07/09/README.md)
 
 ### Code Generation
@@ -1393,12 +1399,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Web Hosting
 
 *   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
-
-## [Mar 05, 2023](/content/2023/03/05/README.md)
-
-### PaaS
-
-*   [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 \* 256MB RAM and 2 GB of disk. You must have at least $3 in your account credit balance to create an app space.
 
 ## [Mar 03, 2023](/content/2023/03/03/README.md)
 
@@ -3739,7 +3739,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 1GB memory, 1GB storage, and 0.25 CPU. No credit card is required to get started.
+*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 512MB memory, 2GB storage, and 0.1 CPU. No credit card is required to get started.
 
 ## [Apr 05, 2021](/content/2021/04/05/README.md)
 

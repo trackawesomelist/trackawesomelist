@@ -61,7 +61,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 *   :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 *   :octocat: [Codebook (⭐7)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
-*   :octocat: [Type Challenges (⭐41k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
+*   :octocat: [Type Challenges (⭐42k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
 
 ### Typescript Project Starters
 
@@ -158,7 +158,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ## Cloud Data Warehousing
 
-*   :sparkles: [Crisp BigQuery (⭐43)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐44)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 *   [DDB-Table (⭐129)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ## Module Bundlers
@@ -180,7 +180,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [sqlx-ts (⭐153)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 *   [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
-*   [OXC (⭐9.5k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐9.7k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 *   [biome (⭐13k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 *   [SweetIQ/schemats (⭐1k)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
@@ -373,7 +373,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [castore (⭐221)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 *   :octocat: [sweet-monads (⭐316)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 *   :octocat: [simple-mask-money (⭐171)](https://github.com/codermarcos/simple-mask-money) - 💰 Simple mask money is a light, safe and typed package to format money!
-*   :octocat: [Next Colors (⭐1)](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
+*   :octocat: [Color-Core (⭐3)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 
 # Video Courses
 

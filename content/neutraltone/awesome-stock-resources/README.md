@@ -6,11 +6,28 @@
 
 [ Daily / [Weekly](/content/neutraltone/awesome-stock-resources/week/README.md) / [Overview](/content/neutraltone/awesome-stock-resources/readme/README.md) ]
 
+## [Jul 13, 2024](/content/2024/07/13/README.md)
+
+### Photography / CC0-license
+
+*   [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
+
+### Icons / Icons Packages and Collections
+
+*   [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
+*   [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
+*   [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
+*   [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
+
+### Sounds & Music / Icons Packages and Collections
+
+*   [Tunetank](https://tunetank.com/) - [:copyright:](https://tunetank.com/license/) Exclusive royalty free music for YouTube videos without copyright claims.
+
 ## [Aug 12, 2023](/content/2023/08/12/README.md)
 
 ### Icons / Icons Packages and Collections
 
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.1k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.3k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 *   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
@@ -45,7 +62,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐5.4k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐5.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [Dec 09, 2021](/content/2021/12/09/README.md)
 
@@ -83,7 +100,6 @@
 ### Photography / CC0-license
 
 *   [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-*   [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images.
 
 ### Photography / Custom License / Usage
 
@@ -97,7 +113,7 @@
 ### Icons / Icon Fonts
 
 *   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐18k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐19k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
@@ -194,7 +210,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐455)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ## [Aug 03, 2019](/content/2019/08/03/README.md)
 
@@ -321,7 +337,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [Jul 06, 2017](/content/2017/07/06/README.md)
 
@@ -655,7 +671,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Topcoat Icons (⭐258)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+*   [Topcoat Icons (⭐257)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 
 ### Colors / Icons Packages and Collections
 
@@ -716,7 +732,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Fontello](http://fontello.com/) - [:copyright: (⭐6.9k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+*   [Fontello](http://fontello.com/) - [:copyright: (⭐7k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 
 ## [Nov 10, 2015](/content/2015/11/10/README.md)
 

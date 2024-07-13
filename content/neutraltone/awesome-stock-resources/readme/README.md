@@ -52,7 +52,6 @@ All the resources below have specifically specified that their content is [:copy
 *   [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 *   [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 *   [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-*   [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images.
 *   [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 *   [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 *   [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
@@ -68,6 +67,7 @@ All the resources below have specifically specified that their content is [:copy
 *   [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 *   [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 *   [Negative Space](https://negativespace.co/) - Stock photos added every week.
+*   [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
 *   [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 *   [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 *   [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
@@ -171,7 +171,7 @@ A collection of resources which contain stock graphical elements which don't fit
 *   [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-*   [Mega Doodles Pack (⭐455)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 *   [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 *   [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
@@ -232,7 +232,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 *   [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
-*   [Fontello](http://fontello.com/) - [:copyright: (⭐6.9k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+*   [Fontello](http://fontello.com/) - [:copyright: (⭐7k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 *   [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 *   [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 *   [Iconstore](https://iconstore.co/) - [:copyright:](https://iconstore.co/license/) Free Icons by First-Class Designers.
@@ -242,11 +242,11 @@ A collection for icon font resources, most of which also include SVGs, which can
 *   [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
 *   [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐18k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐19k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 *   [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 *   [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 *   [To icon](https://www.toicon.com/) - [:copyright:](https://www.toicon.com/license) Collection of SVG icons for your project.
-*   [Topcoat Icons (⭐258)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+*   [Topcoat Icons (⭐257)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 *   [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 *   [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 *   [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
@@ -255,21 +255,25 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.1k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
+*   [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
+*   [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.3k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 *   [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 *   [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
-*   [Fluent UI System Icons (⭐5.4k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
+*   [Fluent UI System Icons (⭐5.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 *   [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 *   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 *   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 *   [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 *   [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
+*   [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
 *   [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 *   [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 *   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 *   [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 *   [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
 
@@ -327,6 +331,7 @@ Free resources for stock sound and music to be used on creative projects
 *   [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 *   [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 *   [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
+*   [Tunetank](https://tunetank.com/) - [:copyright:](https://tunetank.com/license/) Exclusive royalty free music for YouTube videos without copyright claims.
 *   [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
 ## Paid Resources
