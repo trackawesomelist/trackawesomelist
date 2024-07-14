@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 14, 2024](/content/2024/07/14/README.md)
+
+### Science Logology / AI Assisted Research
+
+*   [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) - ***EMNLP'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1222312709622462659)]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.
+
 ## [Jul 08, 2024](/content/2024/07/08/README.md)
 
 ### Communications / Non-Verbal Communication
@@ -321,7 +327,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Non-Verbal Communication
 
-*   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511\&as_sdt=0,5)].
+*   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511)].
 
 ## [Feb 23, 2024](/content/2024/02/23/README.md)
 
@@ -524,7 +530,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Coordination
 
-*   [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849\&hl=en\&as_sdt=0,5)].
+*   [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - ***AAMAS'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849)]. Drawing inspiration from human team cooperative learning, this paper proposes a novel paradigm that facilitates a gradual shift from explicit communication to tacit cooperation.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
@@ -1587,7 +1593,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf) - ***CogSci'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Constrainted thinking as rationalization.
 *   [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***Trends in Cognitive Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A comprehensive review on rationalization.
 *   [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***Behavioral and Brain Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A rationality account on rationalization.
-*   [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648\&hl=en\&as_sdt=2005\&sciodt=2005)]. A review of rationalization as imaginary worlds in fictions.
+*   [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16985691366494688837)]. A review of rationalization as imaginary worlds in fictions. The perspective proposes that imaginary worlds co-opt our preferences for exploration, which have evolved in humans and nonhuman animals alike, to propel individuals toward new environments and new sources of reward.
 
 ### Abduction / Applications in AI
 
@@ -1664,7 +1670,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Communications / Non-Verbal Communication
 
 *   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970)]. Nicolas Fay's original paper on iconicity.
-*   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567\&hl=en\&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
+*   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567)]. This paper explores the role of iconicity in spoken language and other human communication systems.
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
 *   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGRAPH'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 *   [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071\&hl=en\&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
