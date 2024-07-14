@@ -598,7 +598,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
 *   [ai-commands (⭐14)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 *   [airpods-battery (⭐3)](https://github.com/louis-thevenet/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
-*   [alacritty (⭐10)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐54k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
+*   [alacritty (⭐10)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐55k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alehouse (⭐16)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [alias-finder (⭐14)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
 *   [alias-maker (⭐6)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
@@ -1442,7 +1442,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [xxh-plugin-zsh-zshrc (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐32)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐32)](https://github.com/xxh/xxh-shell-zsh).
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yapipenv (⭐0)](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's `pip` environment if `pipenv` detects the presence of one.
-*   [yazi-zoxide (⭐0)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐9.9k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
+*   [yazi-zoxide (⭐0)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐12k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
 *   [you-should-use (⭐1.4k)](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use those aliases you defined.
 *   [youtube-dl-aliases (⭐7)](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) - Adds `yt` aliases to download videos from YouTube.
@@ -1462,6 +1462,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐19k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 *   [zeno (⭐159)](https://github.com/yuki-yano/zeno.zsh) - Fuzzy completion and utility plugin powered by [Deno](https://deno.land/).
 *   [zenplash (⭐3)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
+*   [zenv (⭐0)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like direnv, but uses a new shell instance to provide cleaner isolation).
 *   [zero (⭐17)](https://github.com/arlimus/zero.zsh) - Zero is both a plugin and a theme. See the GitHub page for installation details. Includes `git` and `hg` status decorators.
 *   [zeza (⭐2)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐8.8k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 *   [zflai (⭐3)](https://github.com/zdharma-continuum/zflai) - A fast logging framework for ZSH.
@@ -2794,7 +2795,7 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 *   [awesome-sysadmin (⭐24k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources.
 *   [Terminals Are Sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
-Find other useful awesome-\* lists at the [awesome collection (⭐307k)](https://github.com/sindresorhus/awesome)
+Find other useful awesome-\* lists at the [awesome collection (⭐310k)](https://github.com/sindresorhus/awesome)
 
 ### Other References
 

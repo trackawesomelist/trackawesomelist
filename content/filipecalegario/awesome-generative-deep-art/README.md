@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 14, 2024](/content/2024/07/14/README.md)
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
 ### Text-related Generative Tools / Multi-agents

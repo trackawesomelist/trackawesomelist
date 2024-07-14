@@ -26,6 +26,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 
+### Auxiliary tools and concepts / Deforum
+
+*   [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

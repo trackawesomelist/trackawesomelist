@@ -6,6 +6,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Jul 14, 2024](/content/2024/07/14/README.md)
+
+### Videos
+
+*   [Code for Yourself C++ Playlist](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) - A complete C++ course covering everything from fundamentals to software design.
+
+### Websites
+
+*   [C++ for yourself](https://github.com/cpp-for-yourself) - A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Frameworks
@@ -22,7 +32,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Image Processing
 
-*   [TinyDNG (⭐144)](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. \[MIT]
+*   [TinyDNG (⭐145)](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. \[MIT]
 
 ### Networking
 
@@ -356,7 +366,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [libavif (⭐1.4k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
 *   [libjxl (⭐2.4k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libspng (⭐699)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
+*   [libspng (⭐703)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [LodePNG (⭐2k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
 *   [MozJPEG (⭐5.4k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
 
@@ -461,7 +471,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐20)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐23)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
@@ -518,7 +528,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐220)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐266)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.6k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
@@ -602,7 +612,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Game Engine
 
 *   [quakeforge (⭐36)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
-*   [ezEngine (⭐1.2k)](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
+*   [ezEngine (⭐1.3k)](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
 
 ### Graph
 
@@ -679,7 +689,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Multimedia
 
-*   [SDL (⭐8.6k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
+*   [SDL (⭐8.8k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
 
 ### Integrated Development Environment
 
@@ -1528,7 +1538,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [nCine (⭐996)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐1k)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
@@ -1842,7 +1852,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [LLGL (⭐1.9k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
+*   [LLGL (⭐2k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
 
 ## [Aug 03, 2019](/content/2019/08/03/README.md)
 
@@ -1944,7 +1954,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Serialization
 
-*   [protobuf (⭐64k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
+*   [protobuf (⭐65k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
 *   [upb (⭐1.5k)](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. \[BSD]
 
 ## [May 31, 2019](/content/2019/05/31/README.md)
@@ -2075,11 +2085,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Networking
 
-*   [librdkafka (⭐7.4k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐43)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐563)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐564)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -2106,7 +2116,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [Blend2D (⭐1.5k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.6k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ## [Apr 10, 2019](/content/2019/04/10/README.md)
 
@@ -2122,13 +2132,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Reflection
 
-*   [Magic Enum (⭐4.5k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.6k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [Apr 04, 2019](/content/2019/04/04/README.md)
 
 ### Game Engine
 
-*   [raylib (⭐20k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐21k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [Apr 03, 2019](/content/2019/04/03/README.md)
 
@@ -2165,8 +2175,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Better Enums (⭐1.6k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 *   [CPFG (⭐219)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
 *   [CPP-Reflection (⭐644)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Ponder (⭐632)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
-*   [RTTR (⭐3k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
+*   [Ponder (⭐633)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [RTTR (⭐3.1k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis
 
@@ -2443,7 +2453,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [assimp (⭐10k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
+*   [assimp (⭐11k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
 
 ## [Nov 19, 2018](/content/2018/11/19/README.md)
 
@@ -2734,7 +2744,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [libigl (⭐4.4k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
+*   [libigl (⭐4.5k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
 *   [NanoVG (⭐5.1k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ## [Apr 26, 2018](/content/2018/04/26/README.md)
@@ -3107,7 +3117,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4.6k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4.7k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ## [Nov 06, 2017](/content/2017/11/06/README.md)
@@ -3470,7 +3480,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐6.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐6.4k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ## [Jun 11, 2016](/content/2016/06/11/README.md)
 
@@ -3701,7 +3711,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐86k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐87k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -3905,13 +3915,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [Panda3D (⭐4.3k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4.4k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ## [Jul 05, 2015](/content/2015/07/05/README.md)
 
 ### Graphics
 
-*   [GLFW (⭐12k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
+*   [GLFW (⭐13k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
 *   [OpenSubdiv (⭐2.8k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
 *   [Partio (⭐452)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
@@ -4247,7 +4257,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Physics
 
-*   [Newton Dynamics (⭐917)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
+*   [Newton Dynamics (⭐928)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
 
 ### Videos
 
@@ -4319,7 +4329,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Serialization
 
-*   [FlatBuffers (⭐22k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐23k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Websites
 
@@ -4455,7 +4465,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support. \[MIT]
 *   [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility. \[Boost]
 *   [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. \[zlib]
-*   [TinyXML2 (⭐4.9k)](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. \[zlib]
+*   [TinyXML2 (⭐5k)](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. \[zlib]
 *   [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. \[Apache2]
 
 ### Miscellaneous
@@ -4491,7 +4501,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Physics
 
 *   [Bullet (⭐12k)](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. \[zlib] [website](http://bulletphysics.org)
-*   [Chipmunk (⭐2.1k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
+*   [Chipmunk (⭐2.2k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
 *   [LiquidFun (⭐4.7k)](https://github.com/google/liquidfun) - A 2D physics engine for games. \[BSD-like]
 *   [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. \[BSD\&LGPL]
 *   [ofxBox2d (⭐321)](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. \[BSD-like]

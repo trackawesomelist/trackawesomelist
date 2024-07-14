@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Jul 14, 2024](/content/2024/07/14/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [zenv (⭐0)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like direnv, but uses a new shell instance to provide cleaner isolation).
+
 ## [Jul 03, 2024](/content/2024/07/03/README.md)
 
 ### [x-cmd](https://github.com/x-cmd/x-cmd)
@@ -72,7 +78,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yazi-zoxide (⭐0)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐9.9k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
+*   [yazi-zoxide (⭐0)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐12k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2948,7 +2954,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [abbr-path (⭐10)](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
 *   [abbrev-alias (⭐114)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
 *   [actiona (⭐2)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐488)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
-*   [alacritty (⭐10)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐54k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
+*   [alacritty (⭐10)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐55k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alias-tips (⭐771)](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
 *   [allergen (⭐3)](https://github.com/stanislas/allergen) - A collection of custom ZSH plugins to use with Antigen.
 *   [almostontop (⭐92)](https://github.com/Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by the [alwaysontop (⭐194)](https://github.com/swirepe/alwaysontop) plugin for `bash`.
