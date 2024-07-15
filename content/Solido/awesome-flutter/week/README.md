@@ -6,6 +6,12 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 [ [Daily](/content/Solido/awesome-flutter/README.md) / Weekly / [Overview](/content/Solido/awesome-flutter/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### 🇮🇷 Iran / Misc
+
+*   Telegram [Persian Flutter](https://t.me/persian_flutter)
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Storage / Bluetooth / NFC / Beacon
@@ -166,7 +172,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Game / Game Engine resources
 
-*   [Awesome Flame (⭐992)](https://github.com/flame-engine/awesome-flame) <!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
+*   [Awesome Flame (⭐1k)](https://github.com/flame-engine/awesome-flame) <!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
 

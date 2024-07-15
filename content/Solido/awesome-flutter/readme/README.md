@@ -583,7 +583,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Game Engine resources
 
-*   [Awesome Flame (⭐992)](https://github.com/flame-engine/awesome-flame) <!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
+*   [Awesome Flame (⭐1k)](https://github.com/flame-engine/awesome-flame) <!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
 
 ## Open Source Apps
 
@@ -813,6 +813,10 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇮🇩 Indonesia
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
+
+### 🇮🇷 Iran
+
+*   Telegram [Persian Flutter](https://t.me/persian_flutter)
 
 ### 🇯🇵 Japan
 
