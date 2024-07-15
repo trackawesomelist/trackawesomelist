@@ -6,6 +6,12 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / Weekly / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Resources / Course Material
+
+*   [Program verification with types and logic](https://gitlab.science.ru.nl/program-verification/course-2023-2024) - Lectures and exercise material for a course in programming language semantics, type systems and program logics, using Coq, at Radboud University Nijmegen.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Projects / User Interfaces

@@ -311,6 +311,8 @@ This list will be upgraded soon
 *   [Docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 *   [Plugin generator (⭐69)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
 *   [Assets (⭐495)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Tailwind Capacitor (⭐6)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies
+*   [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 
 ## Learning
 

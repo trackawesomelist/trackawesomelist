@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 15, 2024](/content/2024/07/15/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [life\_polars\_plugin (⭐5)](https://github.com/erichutchins/polars_iptools) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
 ### Resources / Talks and videos

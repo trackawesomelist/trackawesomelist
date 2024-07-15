@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Jul 15, 2024](/content/2024/07/15/README.md)
+
+### no-std crates / WIP
+
+*   [micropb](https://crates.io/crates/micropb): Rust Protobuf library targetting embedded systems and no\_std environments without an allocator. - ![crates.io](https://img.shields.io/crates/v/micropb.svg)
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Books, blogs, and training materials / Paid and commercially available materials

@@ -99,6 +99,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [polars-candle (⭐17)](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle (⭐14k)](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 *   [polars\_encryption (⭐2)](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
 *   [polars\_iptools (⭐5)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
+*   [life\_polars\_plugin (⭐5)](https://github.com/erichutchins/polars_iptools) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
 
 ### Rust
 

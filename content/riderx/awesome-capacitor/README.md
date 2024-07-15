@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Jul 15, 2024](/content/2024/07/15/README.md)
+
+### Tools / Incompatible
+
+*   [Tailwind Capacitor (⭐6)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies
+*   [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Community plugins
