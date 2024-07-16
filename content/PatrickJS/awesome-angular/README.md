@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 16, 2024](/content/2024/07/16/README.md)
+
+### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+
 ## [Jul 15, 2024](/content/2024/07/15/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

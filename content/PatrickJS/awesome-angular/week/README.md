@@ -8,6 +8,10 @@
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
+### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [cryptr-angular (⭐1)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.

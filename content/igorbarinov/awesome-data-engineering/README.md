@@ -2,9 +2,15 @@
 
 A curated list of data engineering tools for software developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 6.3K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 6.4K · 🏷️ Big Data
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
+
+## [Jul 16, 2024](/content/2024/07/16/README.md)
+
+### Testing / Data Profiler
+
+*   [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
 
 ## [Jun 26, 2024](/content/2024/06/26/README.md)
 
@@ -14,7 +20,7 @@ A curated list of data engineering tools for software developers
 
 ### Workflow
 
-*   [Kestra (⭐7k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
+*   [Kestra (⭐7.1k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
 
 ## [Jun 01, 2024](/content/2024/06/01/README.md)
 
@@ -44,13 +50,13 @@ A curated list of data engineering tools for software developers
 
 ### Data Comparison
 
-*   [datacompy (⭐412)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
+*   [datacompy (⭐420)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
 ## [Mar 27, 2024](/content/2024/03/27/README.md)
 
 ### Testing / Data Profiler
 
-*   [DQOps (⭐70)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
+*   [DQOps (⭐79)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 
 ## [Mar 26, 2024](/content/2024/03/26/README.md)
 
@@ -62,7 +68,7 @@ A curated list of data engineering tools for software developers
 
 ### Data Lake Management
 
-*   [Project Nessie (⭐903)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
+*   [Project Nessie (⭐919)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 
 ### Community / Podcasts
 
@@ -78,7 +84,7 @@ A curated list of data engineering tools for software developers
 
 ### Workflow
 
-*   [Multiwoven (⭐693)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
+*   [Multiwoven (⭐718)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 
 ## [Feb 06, 2024](/content/2024/02/06/README.md)
 
@@ -111,9 +117,9 @@ A curated list of data engineering tools for software developers
 *   Relational
     *   [RQLite (⭐15k)](https://github.com/rqlite/rqlite) - Replicated SQLite using the Raft consensus protocol.
     *   [MySQL](https://www.mysql.com/) - The world's most popular open source database.
-        *   [TiDB (⭐36k)](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol.
+        *   [TiDB (⭐37k)](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol.
         *   [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) - Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®.
-        *   [mysql\_utils (⭐881)](https://github.com/pinterest/mysql_utils) - Pinterest MySQL Management Tools.
+        *   [mysql\_utils (⭐884)](https://github.com/pinterest/mysql_utils) - Pinterest MySQL Management Tools.
     *   [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
     *   [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database.
     *   [Amazon RDS](https://aws.amazon.com/rds/) - Amazon RDS makes it easy to set up, operate, and scale a relational database in the cloud.
@@ -153,19 +159,19 @@ A curated list of data engineering tools for software developers
 *   Distributed
     *   [DAtomic](https://www.datomic.com) - The fully transactional, cloud-ready, distributed database.
     *   [Apache Geode](https://geode.apache.org/) - An open source, distributed, in-memory database for scale-out applications.
-    *   [Gaffer (⭐1.7k)](https://github.com/gchq/Gaffer) - A large-scale graph database.
+    *   [Gaffer (⭐1.8k)](https://github.com/gchq/Gaffer) - A large-scale graph database.
 *   Timeseries
     *   [InfluxDB (⭐28k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
     *   [OpenTSDB (⭐5k)](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
     *   [QuestDB](https://questdb.io/) - A relational column-oriented database designed for real-time analytics on time series and event data.
     *   [kairosdb (⭐1.7k)](https://github.com/kairosdb/kairosdb) - Fast scalable time series database.
-    *   [Heroic (⭐847)](https://github.com/spotify/heroic) - A scalable time series database based on Cassandra and Elasticsearch, by Spotify.
+    *   [Heroic (⭐848)](https://github.com/spotify/heroic) - A scalable time series database based on Cassandra and Elasticsearch, by Spotify.
     *   [Druid (⭐13k)](https://github.com/apache/incubator-druid) - Column oriented distributed data store ideal for powering interactive applications.
     *   [Riak-TS](https://basho.com/products/riak-ts/) - Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
-    *   [Akumuli (⭐837)](https://github.com/akumuli/Akumuli) - Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+    *   [Akumuli (⭐836)](https://github.com/akumuli/Akumuli) - Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
     *   [Rhombus](https://github.com/Pardot/Rhombus) - A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
     *   [Dalmatiner DB (⭐695)](https://github.com/dalmatinerdb/dalmatinerdb) - Fast distributed metrics database.
-    *   [Blueflood (⭐594)](https://github.com/rackerlabs/blueflood) - A distributed system designed to ingest and process time series data.
+    *   [Blueflood (⭐595)](https://github.com/rackerlabs/blueflood) - A distributed system designed to ingest and process time series data.
     *   [Timely (⭐379)](https://github.com/NationalSecurityAgency/timely) - Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 *   Other
     *   [Tarantool (⭐3.4k)](https://github.com/tarantool/tarantool/) - Tarantool is an in-memory database and application server.
@@ -177,11 +183,11 @@ A curated list of data engineering tools for software developers
 ### Data Ingestion
 
 *   [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
-    *   [BottledWater (⭐1.5k)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
+    *   [BottledWater (⭐2)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
     *   [kafkat (⭐504)](https://github.com/airbnb/kafkat) - Simplified command-line administration for Kafka brokers.
     *   [kafkacat (⭐5.3k)](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer.
     *   [pg-kafka (⭐112)](https://github.com/xstevens/pg_kafka) - A PostgreSQL extension to produce messages to Apache Kafka.
-    *   [librdkafka (⭐7.4k)](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library.
+    *   [librdkafka (⭐43)](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library.
     *   [kafka-docker (⭐6.9k)](https://github.com/wurstmeister/kafka-docker) - Kafka in Docker.
     *   [kafka-manager (⭐12k)](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
     *   [kafka-node (⭐2.7k)](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8.
@@ -219,11 +225,11 @@ A curated list of data engineering tools for software developers
 
 *   [Apache Avro](https://avro.apache.org) - Apache Avro™ is a data serialization system.
 *   [Apache Parquet](https://parquet.apache.org) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-    *   [Snappy (⭐6k)](https://github.com/google/snappy) - A fast compressor/decompressor. Used with Parquet.
+    *   [Snappy (⭐6.1k)](https://github.com/google/snappy) - A fast compressor/decompressor. Used with Parquet.
     *   [PigZ](https://zlib.net/pigz/) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 *   [Apache ORC](https://orc.apache.org/) - The smallest, fastest columnar storage for Hadoop workloads.
 *   [Apache Thrift](https://thrift.apache.org) - The Apache Thrift software framework, for scalable cross-language services development.
-*   [ProtoBuf (⭐64k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format.
+*   [ProtoBuf (⭐65k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format.
 *   [SequenceFile](https://wiki.apache.org/hadoop/SequenceFile) - SequenceFile is a flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.
 *   [Kryo (⭐6.1k)](https://github.com/EsotericSoftware/kryo) - Kryo is a fast and efficient object graph serialization framework for Java.
 
@@ -241,9 +247,9 @@ A curated list of data engineering tools for software developers
 *   [Spring Cloud Dataflow](https://cloud.spring.io/spring-cloud-dataflow/) - Streaming and tasks execution between Spring Boot apps.
 *   [Bonobo](https://www.bonobo-project.org/) - Bonobo is a data-processing toolkit for python 3.5+.
 *   [Robinhood's Faust (⭐1.5k)](https://github.com/faust-streaming/faust) - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
-*   [HStreamDB (⭐696)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐697)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.4k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-*   [Zilla (⭐502)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
+*   [Zilla (⭐510)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 
 ### Batch Processing
 
@@ -253,7 +259,7 @@ A curated list of data engineering tools for software developers
     *   [Deep Spark (⭐197)](https://github.com/Stratio/deep-spark) - Connecting Apache Spark with different data stores. Deprecated.
     *   [Spark RDD API Examples](https://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html) - Examples by Zhen He.
     *   [Livy](https://livy.incubator.apache.org) - The REST Spark Server.
-    *   [Delight (⭐339)](https://github.com/datamechanics/delight) - A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).
+    *   [Delight (⭐341)](https://github.com/datamechanics/delight) - A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).
 *   [AWS EMR](https://aws.amazon.com/emr/) - A web service that makes it easy to quickly and cost-effectively process vast amounts of data.
 *   [Data Mechanics](https://www.datamechanics.co) - A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.
 *   [Tez](https://tez.apache.org/) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
@@ -269,7 +275,7 @@ A curated list of data engineering tools for software developers
 *   Batch SQL
     *   [Presto](https://prestodb.github.io/docs/current/index.html) - A distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
     *   [Hive](https://hive.apache.org) - Data warehouse software facilitates querying and managing large datasets residing in distributed storage.
-        *   [Hivemall (⭐310)](https://github.com/apache/incubator-hivemall) - Scalable machine learning library for Hive/Hadoop.
+        *   [Hivemall (⭐311)](https://github.com/apache/incubator-hivemall) - Scalable machine learning library for Hive/Hadoop.
         *   [PyHive (⭐1.7k)](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto.
     *   [Drill](https://drill.apache.org/) - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 
@@ -283,14 +289,14 @@ A curated list of data engineering tools for software developers
 *   [SmoothieCharts](https://smoothiecharts.org) - A JavaScript Charting Library for Streaming Data.
 *   [PyXley (⭐2.3k)](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React.
 *   [Plotly (⭐21k)](https://github.com/plotly/dash) - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
-*   [Apache Superset (⭐60k)](https://github.com/apache/incubator-superset) - Apache Superset (incubating) - A modern, enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐61k)](https://github.com/apache/incubator-superset) - Apache Superset (incubating) - A modern, enterprise-ready business intelligence web application.
 *   [Redash](https://redash.io/) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 *   [Metabase (⭐37k)](https://github.com/metabase/metabase) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 *   [PyQtGraph](https://www.pyqtgraph.org/) - PyQtGraph is a pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.
 
 ### Workflow
 
-*   [Luigi (⭐17k)](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
+*   [Luigi (⭐18k)](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
 *   [Cascading](https://www.cascading.org/) - Java based application development platform.
 *   [Airflow (⭐35k)](https://github.com/apache/airflow) - Airflow is a system to programmatically author, schedule, and monitor data pipelines.
 *   [Azkaban](https://azkaban.github.io/) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.
@@ -311,11 +317,11 @@ A curated list of data engineering tools for software developers
 
 *   [docker-logstash (⭐237)](https://github.com/pblittle/docker-logstash) - A highly configurable Logstash (1.4.4) - Docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2).
 *   [elasticsearch-jdbc (⭐2.8k)](https://github.com/jprante/elasticsearch-jdbc) - JDBC importer for Elasticsearch.
-*   [ZomboDB (⭐4.6k)](https://github.com/zombodb/zombodb) - Postgres Extension that allows creating an index backed by Elasticsearch.
+*   [ZomboDB (⭐4.7k)](https://github.com/zombodb/zombodb) - Postgres Extension that allows creating an index backed by Elasticsearch.
 
 ### Docker
 
-*   [Gockerize (⭐667)](https://github.com/redbooth/gockerize) - Package golang service into minimal Docker containers.
+*   [Gockerize (⭐666)](https://github.com/redbooth/gockerize) - Package golang service into minimal Docker containers.
 *   [Flocker (⭐3.4k)](https://github.com/ClusterHQ/flocker) - Easily manage Docker containers & their data.
 *   [Rancher](https://rancher.com/rancher-os/) - RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.
 *   [Kontena](https://www.kontena.io/) - Application Containers for Masses.
@@ -331,7 +337,7 @@ A curated list of data engineering tools for software developers
 
 ### Testing / Data Profiler
 
-*   [Grai (⭐277)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
+*   [Grai (⭐281)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 
 ## [Feb 13, 2021](/content/2021/02/13/README.md)
 
@@ -383,10 +389,10 @@ A curated list of data engineering tools for software developers
 
 ### Monitoring / Prometheus
 
-*   [HAProxy Exporter (⭐611)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [HAProxy Exporter (⭐612)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [Jul 16, 2015](/content/2015/07/16/README.md)
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐53k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [Prometheus.io (⭐54k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.

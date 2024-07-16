@@ -6,6 +6,29 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface)
+
+### Generative AI Tools Directories
+
+*   [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
+*   [Altern](https://altern.ai/): "Gateway to AI Discoveries"
+
+### Courses and Educational Materials
+
+*   [udlbook/udlbook (⭐5.3k)](https://github.com/udlbook/udlbook): Understanding Deep Learning by Professor Simon J.D. Prince
+
+### Large Language Models (LLMs)
+
+*   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+
+### Inbox: Stable Diffusion / References Collection about Stable Diffusion
+
+*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### LLM Evaluation / Multi-agents
@@ -120,10 +143,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns)
-
-### Generative AI Tools Directories
-
-*   [Altern](https://altern.ai/?utm_source=awesomeaitools): "Gateway to AI Discoveries"
 
 ### Online Tools and Applications
 
@@ -572,10 +591,6 @@ A curated list of Generative AI tools, works, models, and references
 *   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
-
-### Courses and Educational Materials
-
-*   [udlbook/udlbook (⭐5.3k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 
 ### Human-AI Interaction
 
@@ -1411,10 +1426,6 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
-### Large Language Models (LLMs)
-
-*   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites\&utm_medium=newsletter\&utm_campaign=stability-ai-release-their-llm)
-
 ### Image Segmentation / Deforum
 
 *   [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [\[arxiv\]](https://arxiv.org/abs/2304.08818)
@@ -2137,7 +2148,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 *   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐1.4k)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
-*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
 *   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
 *   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.6k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
 *   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
@@ -2148,7 +2158,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 *   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
-*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter)
 *   [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
 *   [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
 *   [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
