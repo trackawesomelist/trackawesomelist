@@ -16,6 +16,7 @@ Interesting topics on all subjects:
 
 ## List of interesting topics
 
+*   [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 *   [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 *   [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
 *   [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers

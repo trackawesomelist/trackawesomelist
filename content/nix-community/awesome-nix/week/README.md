@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Resources / Discovery
+
+*   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Deployment Tools / Discovery
