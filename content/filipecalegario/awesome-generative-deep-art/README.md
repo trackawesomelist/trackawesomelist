@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 17, 2024](/content/2024/07/17/README.md)
+
+### Large Language Models (LLMs)
+
+*   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
+
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI

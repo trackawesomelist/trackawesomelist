@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Software / Bookmarks and Link Sharing
+
+*   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Software / Media Streaming - Video Streaming
@@ -3304,12 +3310,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐70)](https://github.com/dgroup/lazylead)) `MIT` `Ruby/Docker`
 
-## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
-
-### Software / Password Managers
-
-*   [PassWall (⭐744)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
-
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
 ### Software / Games
@@ -4192,7 +4192,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code (⭐2.6k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
+*   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Demo](https://www.commafeed.com/#/app/category/all), [Source Code (⭐2.6k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
 *   [RSS Monster (⭐431)](https://github.com/pietheinstrengholt/rssmonster) - An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization

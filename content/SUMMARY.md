@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Python](/content/content/vinta/awesome-python/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
@@ -42,6 +42,7 @@
   - [Awesome Data Engineering](/content/content/igorbarinov/awesome-data-engineering/README.md)
   - [Awesome Kubernetes](/content/content/ramitsurana/awesome-kubernetes/README.md)
   - [Awesome Graphql](/content/content/chentsulin/awesome-graphql/README.md)
+  - [Awesome Terraform](/content/content/shuaibiyy/awesome-terraform/README.md)
   - [Awesome Datascience](/content/content/academic/awesome-datascience/README.md)
   - [Awesome Ruby](/content/content/markets/awesome-ruby/README.md)
   - [Awesome React Components](/content/content/brillout/awesome-react-components/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Tailwindcss](/content/content/aniftyco/awesome-tailwindcss/README.md)
   - [Awesome Malware Analysis](/content/content/rshipp/awesome-malware-analysis/README.md)
   - [Awesome Math](/content/content/rossant/awesome-math/README.md)
-  - [Awesome Typescript](/content/content/dzharii/awesome-typescript/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Back-End Development](back-end-development/README.md)
     - [Awesome Flask](/content/mjhea0/awesome-flask/README.md)
@@ -2077,6 +2077,7 @@
 - [Days](daily/README.md)
   - [2024](2024/month/README.md)
     - [7](2024/7/day/README.md)
+      - [Jul 17, 2024](2024/07/17/README.md)
       - [Jul 16, 2024](2024/07/16/README.md)
       - [Jul 15, 2024](2024/07/15/README.md)
       - [Jul 14, 2024](2024/07/14/README.md)

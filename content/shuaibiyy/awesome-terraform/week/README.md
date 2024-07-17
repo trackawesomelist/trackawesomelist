@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Tools / Community providers
+
+*   [pug (⭐278)](https://github.com/leg100/pug) - The terminal user interface for terraform power users.
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Community
