@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 17, 2024](/content/2024/07/17/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
+
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
 ### Libraries/Packages/Scripts / Python

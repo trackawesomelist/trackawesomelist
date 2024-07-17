@@ -11,6 +11,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Libraries/Packages/Scripts / Python
 
 *   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 

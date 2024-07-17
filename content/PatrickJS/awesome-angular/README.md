@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 17, 2024](/content/2024/07/17/README.md)
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -274,11 +288,11 @@
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [create-tauri-app (⭐940)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+*   [create-tauri-app (⭐948)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-remark (⭐5)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+*   [ngx-remark (⭐6)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 
 ## [Jun 13, 2024](/content/2024/06/13/README.md)
 
@@ -530,12 +544,12 @@
 
 *   [karma-image-snapshot (⭐5)](https://github.com/maksimr/karma-image-snapshot) - Karma jasmine matcher that performs image comparisons based on [jest-image-snapshot (⭐3.8k)](https://github.com/americanexpress/jest-image-snapshot) for visual regression testing.
 *   [jest-marbles (⭐109)](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
-*   [jest-codemods (⭐872)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
+*   [jest-codemods (⭐874)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
 *   [ts-jest (⭐6.9k)](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-*   [stryker-js (⭐2.5k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
+*   [stryker-js (⭐2.6k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 *   [msw (⭐15k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [ngx-speculoos (⭐71)](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
-*   [shallow-render (⭐270)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+*   [shallow-render (⭐272)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -914,38 +928,38 @@
 
 *   [ngx-observable-lifecycle (⭐34)](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (ivy compiled) angular component.
 *   [rx-sandbox (⭐172)](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
-*   [observer-spy (⭐372)](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
-*   [ngx-operators (⭐134)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
+*   [observer-spy (⭐375)](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
+*   [ngx-operators (⭐135)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
 *   [rxjs-toolbox (⭐10)](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
 *   [subscribable-things (⭐42)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 *   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 *   [rxjs-broker (⭐24)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
-*   [rxjs-insights (⭐356)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
+*   [rxjs-insights (⭐357)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 
 ## [May 12, 2024](/content/2024/05/12/README.md)
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-fundamental-lessons (⭐53)](https://github.com/MarkTechson/angular-fundamentals-lessons)
+*   [angular-fundamental-lessons (⭐57)](https://github.com/MarkTechson/angular-fundamentals-lessons)
 *   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
-*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+*   [ngx-dynamic-hooks (⭐112)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [safe-pipe (⭐18)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [popover (⭐225)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+*   [popover (⭐226)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-device-detector (⭐513)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-*   [ngx-feature-toggle (⭐100)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
+*   [ngx-device-detector (⭐515)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+*   [ngx-feature-toggle (⭐99)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
-*   [ng-polymorpheus (⭐374)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+*   [ng-polymorpheus (⭐377)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 
 ## [May 10, 2024](/content/2024/05/10/README.md)
 
@@ -1056,7 +1070,7 @@
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [transloco (⭐2k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
-*   [ngx-tolgee (⭐218)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [ngx-tolgee (⭐219)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [localess (⭐32)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 *   [typesafe-i18n (⭐2.2k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 *   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
@@ -1263,7 +1277,7 @@
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
-*   [Angular Checklist (⭐314)](https://github.com/typebytes/angular-checklist)
+*   [Angular Checklist (⭐315)](https://github.com/typebytes/angular-checklist)
 *   [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1272,7 +1286,7 @@
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-loading-bar (⭐758)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+*   [ngx-loading-bar (⭐759)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 
 ## [Apr 26, 2024](/content/2024/04/26/README.md)
 
@@ -1315,17 +1329,17 @@
 *   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 *   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
 *   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
-*   [ngx-electronify (⭐96)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
-*   [dotenv-run (⭐231)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ngx-electronify (⭐99)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐230)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 *   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
-*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
-*   [rxjs-course (⭐377)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
-*   [redux-observable (⭐7.9k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
-*   [rxjs-challenge (⭐580)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+*   [learn-rxjs (⭐3.7k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
+*   [rxjs-course (⭐374)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [rxjs-challenge (⭐583)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
 ## [Apr 24, 2024](/content/2024/04/24/README.md)
 
@@ -1385,7 +1399,7 @@
 *   [Sheriff (⭐168)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
 *   [Total Typescript Book (⭐1.6k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
-*   [trpc (⭐33k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [trpc (⭐34k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐12k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 *   [ngx-mf (⭐37)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type.

@@ -1,12 +1,22 @@
 # Awesome List Updates on Jul 15 - Jul 21, 2024
 
-23 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Papers / 2024
+
+*   [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
+    agents working together, each auditing the same platform for different tasks.*
+*   [Mapping the Field of Algorithm Auditing: A Systematic Literature Review
+    Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
+    auditing studies and identification of trends in their methodological approaches.*
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -55,7 +65,7 @@
 
 *   [OpenMessaging (⭐287) (⭐286)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [2. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Interaction
 
@@ -76,25 +86,25 @@
 *   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
 *   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [pug (⭐278)](https://github.com/leg100/pug) - The terminal user interface for terraform power users.
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [6. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
 
-## [6. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [7. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Conventions
 
@@ -141,7 +151,7 @@
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐557)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 *   [SuperPoint Graph ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐557)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐747)](https://github.com/loicland/superpoint_graph)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 *   [RandLA-Net ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.3k)](https://github.com/QingyongHu/RandLA-Net)
@@ -234,13 +244,13 @@
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 *   [Photogrammetry importer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐872)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
 *   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
-## [8. Topics](/content/selvaklnc/topics/week/README.md)
+## [9. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of interesting topics
 
@@ -259,13 +269,14 @@
 *   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
 *   [Frontend development poll](https://docs.google.com/forms/d/e/1FAIpQLSfYrvYXnuGTsr4bJb0USQtlNi5nr7_CQuIILz5SZ_c7LYE62Q/viewform) - Your favorite JavaScript framework
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -279,7 +290,7 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -304,50 +315,50 @@
 
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
 
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 
-## [13. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [14. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### CDP
 
 *   [Sitecore CDP Serializer (⭐3)](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
 
-## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / AI Assisted Research
 
 *   [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9291969834799338362)]. \[[Preprint](https://arxiv.org/abs/2304.05376)]. This paper introduces ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. The agent autonomously planned and executed the syntheses of an insect repellent and three organocatalysts and guided the discovery of a novel chromophore.
 
-## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [micropb](https://crates.io/crates/micropb): Rust Protobuf library targetting embedded systems and no\_std environments without an allocator. - ![crates.io](https://img.shields.io/crates/v/micropb.svg)
 
-## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [18. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
 *   [Program verification with types and logic](https://gitlab.science.ru.nl/program-verification/course-2023-2024) - Lectures and exercise material for a course in programming language semantics, type systems and program logics, using Coq, at Radboud University Nijmegen.
 
-## [18. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [19. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Tools / Incompatible
 
 *   [Tailwind Capacitor (⭐6)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies
 *   [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -362,6 +373,10 @@
 
 *   [i18n-ally (⭐3.8k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-mocks-sandbox (⭐5)](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
@@ -370,12 +385,17 @@
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tansu (⭐82)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 
-## [20. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+
+## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
@@ -385,19 +405,19 @@
 
 *   [passive\_columns (⭐38)](https://github.com/headmandev/passive_columns) - A gem that extends Active Record to retrieve specific columns from DB on demand. [:red\_circle:](https://rubygems.org/gems/passive_columns)
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [OneVM](https://onevm.uk.to/) - KVM VPS, 1 GB RAM, 1 vCore, 15 GB storage, 10 ports + 1 SSH port, 350 mbps ethernet, free 20 hours/day.
 
-## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇮🇷 Iran / Misc
 
 *   Telegram [Persian Flutter](https://t.me/persian_flutter)
 
-## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

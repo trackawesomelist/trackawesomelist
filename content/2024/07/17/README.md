@@ -1,12 +1,42 @@
 # Awesome List Updates on Jul 17, 2024
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Topics](/content/selvaklnc/topics/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
+
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2024
+
+*   [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
+    agents working together, each auditing the same platform for different tasks.*
+*   [Mapping the Field of Algorithm Auditing: A Systematic Literature Review
+    Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
+    auditing studies and identification of trends in their methodological approaches.*
+
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+
+## [4. Topics](/content/selvaklnc/topics/README.md)
 
 ### List of interesting topics
 
@@ -17,7 +47,7 @@
 *   [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
 *   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -66,13 +96,13 @@
 
 *   [OpenMessaging (⭐287) (⭐286)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
 *   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
-## [4. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Interaction
 
@@ -93,19 +123,19 @@
 *   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
 *   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 

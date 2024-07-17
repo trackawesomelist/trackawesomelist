@@ -103,7 +103,165 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 
-#### [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+
+#### [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+##### Resources / Discovery
+
+*   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
+
+#### [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+
+##### Tools / Community providers
+
+*   [pug (⭐278)](https://github.com/leg100/pug) - The terminal user interface for terraform power users.
+
+#### [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Bookmarks and Link Sharing
+
+*   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
+
+#### [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface)
+
+##### Generative AI Tools Directories
+
+*   [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
+*   [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
+*   [Altern](https://altern.ai/): "Gateway to AI Discoveries"
+
+##### Courses and Educational Materials
+
+*   [udlbook/udlbook (⭐5.3k)](https://github.com/udlbook/udlbook): Understanding Deep Learning by Professor Simon J.D. Prince
+
+##### Large Language Models (LLMs)
+
+*   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
+*   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+
+##### Inbox: Stable Diffusion / References Collection about Stable Diffusion
+
+*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
+
+#### [16. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+
+##### Databases / Interaction
+
+*   Knowledge Graph
+    *   [Drug Mechanism Database (DrugMechDB) (⭐52)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+
+##### API / Interaction
+
+*   [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
+
+##### Drug Response Prediction / Interaction
+
+*   [drGAT (⭐2)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+
+##### Drug Response Prediction / LLM for biology
+
+*
+*   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
+*   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
+
+#### [17. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+##### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+##### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+#### [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Management
+
+*   [WSO2 API Manager (⭐822) (⭐821)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+##### Projects / API Design
+
+*   [OpenAPI Diff (⭐786) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐889) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+##### Projects / API Gateway
+
+*   [Apache APISIX (⭐14k) (⭐14k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
+*   [Tyk API Gateway (⭐9.4k) (⭐9.4k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
+
+##### Projects / API Testing
+
+*   Testing tools and frameworks
+    *   [Apache JMeter (⭐8.1k) (⭐8.1k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
+    *   [Gatling (⭐6.3k) (⭐6.3k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
+    *   [Karate (⭐7.9k) (⭐8k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
+    *   [REST Assured (⭐6.7k) (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+    *   [Schemathesis (⭐2.1k) (⭐2.2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
+    *   [Taurus (⭐1.9k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
+
+##### Projects / ETL
+
+*   [Apache NiFi (⭐4.6k) (⭐4.6k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+
+##### Projects / Messaging
+
+*   [Apache Qpid (⭐56) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
+*   [Redpanda (⭐9.2k) (⭐9.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+
+##### Projects / Workflow engine
+
+*   [Bonita (⭐148) (⭐147)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+
+##### Resources / Data Formats
+
+*   [NDJSON (⭐648) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐330) (⭐327)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+##### Resources / Protocols
+
+*   [OpenMessaging (⭐287) (⭐286)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+
+#### [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Science Logology / AI Assisted Research
+
+*   [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9291969834799338362)]. \[[Preprint](https://arxiv.org/abs/2304.05376)]. This paper introduces ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. The agent autonomously planned and executed the syntheses of an insect repellent and three organocatalysts and guided the discovery of a novel chromophore.
+
+#### [20. Topics](/content/selvaklnc/topics/README.md)
+
+##### List of interesting topics
+
+*   [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
+*   [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
+*   [Online business ideas](https://groups.google.com/g/ourmaster/c/VNygVkcCQLw) to start up an online business matching your skills.
+*   [Full-stack developer](https://groups.google.com/g/fullstackwebdev/c/njUAZJvXMQk) group to skill-up programming knowledge.
+*   [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
+*   [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
+*   [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
+*   [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
+*   [Topics](https://selvaklnc.github.io/topics/) - Interesting topics coverage on all subjects
+*   [Web development](https://docs.google.com/spreadsheets/d/1JEZEvXD6ffsrAihui59pl5SU86y_zfrPLH8KkYxfzD4/edit?gid=0#gid=0) - Top 5 websites to mastering web development
+*   [WordPress development](https://docs.google.com/document/d/1t8Af6dCM1JrVYLeepSNkxgBlpYcUlhRuZ3GXVqpibj4/edit) - Understaning the power of WordPress CMS
+*   [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
+*   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
+*   [Frontend development poll](https://docs.google.com/forms/d/e/1FAIpQLSfYrvYXnuGTsr4bJb0USQtlNi5nr7_CQuIILz5SZ_c7LYE62Q/viewform) - Your favorite JavaScript framework
+
+#### [21. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -118,6 +276,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [i18n-ally (⭐3.8k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 
+##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+
 ##### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-mocks-sandbox (⭐5)](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
@@ -126,24 +288,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 
 ##### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tansu (⭐82)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 
-#### [12. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+##### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-##### Libraries/Packages/Scripts / Python
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 
-*   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
-
-#### [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
-
-#### [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [22. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Conventions
 
@@ -190,7 +345,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐557)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 *   [SuperPoint Graph ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐557)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐747)](https://github.com/loicland/superpoint_graph)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 *   [RandLA-Net ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.3k)](https://github.com/QingyongHu/RandLA-Net)
@@ -283,157 +438,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 *   [Photogrammetry importer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐872)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
-#### [15. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [23. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
-##### Resources / Discovery
+##### Papers / 2024
 
-*   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
+*   [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
+    agents working together, each auditing the same platform for different tasks.*
+*   [Mapping the Field of Algorithm Auditing: A Systematic Literature Review
+    Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
+    auditing studies and identification of trends in their methodological approaches.*
 
-#### [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [24. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-##### Tools / Community providers
+##### Libraries/Packages/Scripts / Python
 
-*   [pug (⭐278)](https://github.com/leg100/pug) - The terminal user interface for terraform power users.
-
-#### [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Bookmarks and Link Sharing
-
-*   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
-
-#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Ethics, Philosophical questions and Discussions about Generative AI
-
-*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface)
-
-##### Generative AI Tools Directories
-
-*   [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
-*   [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
-*   [Altern](https://altern.ai/): "Gateway to AI Discoveries"
-
-##### Courses and Educational Materials
-
-*   [udlbook/udlbook (⭐5.3k)](https://github.com/udlbook/udlbook): Understanding Deep Learning by Professor Simon J.D. Prince
-
-##### Large Language Models (LLMs)
-
-*   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
-*   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-
-##### Inbox: Stable Diffusion / References Collection about Stable Diffusion
-
-*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
-
-#### [19. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
-
-##### Databases / Interaction
-
-*   Knowledge Graph
-    *   [Drug Mechanism Database (DrugMechDB) (⭐52)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
-
-##### API / Interaction
-
-*   [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
-
-##### Drug Response Prediction / Interaction
-
-*   [drGAT (⭐2)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
-
-##### Drug Response Prediction / LLM for biology
-
-*
-*   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
-*   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
-
-#### [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-##### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-##### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-#### [21. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-##### Projects / API Management
-
-*   [WSO2 API Manager (⭐822) (⭐821)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-##### Projects / API Design
-
-*   [OpenAPI Diff (⭐786) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐889) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-##### Projects / API Gateway
-
-*   [Apache APISIX (⭐14k) (⭐14k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
-*   [Tyk API Gateway (⭐9.4k) (⭐9.4k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
-
-##### Projects / API Testing
-
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐8.1k) (⭐8.1k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.3k) (⭐6.3k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.9k) (⭐8k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
-    *   [REST Assured (⭐6.7k) (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2.1k) (⭐2.2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐1.9k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
-##### Projects / ETL
-
-*   [Apache NiFi (⭐4.6k) (⭐4.6k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
-
-##### Projects / Messaging
-
-*   [Apache Qpid (⭐56) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-*   [Redpanda (⭐9.2k) (⭐9.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
-##### Projects / Workflow engine
-
-*   [Bonita (⭐148) (⭐147)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-
-##### Resources / Data Formats
-
-*   [NDJSON (⭐648) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐330) (⭐327)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-##### Resources / Protocols
-
-*   [OpenMessaging (⭐287) (⭐286)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
-
-#### [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Science Logology / AI Assisted Research
-
-*   [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9291969834799338362)]. \[[Preprint](https://arxiv.org/abs/2304.05376)]. This paper introduces ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. The agent autonomously planned and executed the syntheses of an insect repellent and three organocatalysts and guided the discovery of a novel chromophore.
-
-#### [23. Topics](/content/selvaklnc/topics/README.md)
-
-##### List of interesting topics
-
-*   [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
-*   [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
-*   [Online business ideas](https://groups.google.com/g/ourmaster/c/VNygVkcCQLw) to start up an online business matching your skills.
-*   [Full-stack developer](https://groups.google.com/g/fullstackwebdev/c/njUAZJvXMQk) group to skill-up programming knowledge.
-*   [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
-*   [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
-*   [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
-*   [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
-*   [Topics](https://selvaklnc.github.io/topics/) - Interesting topics coverage on all subjects
-*   [Web development](https://docs.google.com/spreadsheets/d/1JEZEvXD6ffsrAihui59pl5SU86y_zfrPLH8KkYxfzD4/edit?gid=0#gid=0) - Top 5 websites to mastering web development
-*   [WordPress development](https://docs.google.com/document/d/1t8Af6dCM1JrVYLeepSNkxgBlpYcUlhRuZ3GXVqpibj4/edit) - Understaning the power of WordPress CMS
-*   [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
-*   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
-*   [Frontend development poll](https://docs.google.com/forms/d/e/1FAIpQLSfYrvYXnuGTsr4bJb0USQtlNi5nr7_CQuIILz5SZ_c7LYE62Q/viewform) - Your favorite JavaScript framework
+*   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
 ---
 
@@ -463,11 +483,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 20. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 07&#x2F;07 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 21. [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
 22. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 07&#x2F;17 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-23. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 24K 📝 07&#x2F;07 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-24. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 23K 📝 07&#x2F;07 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
-25. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 07&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-26. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 13K 📝 07&#x2F;13 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
-27. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K 📝 07&#x2F;16 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+23. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K 📝 07&#x2F;17 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+24. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 24K 📝 07&#x2F;07 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+25. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 23K 📝 07&#x2F;07 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
+26. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 07&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+27. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 13K 📝 07&#x2F;13 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 28. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 21K 📝 07&#x2F;07 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 29. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 13K 📝 07&#x2F;12 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 30. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 07&#x2F;11 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -720,7 +740,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K, 📝 07&#x2F;16 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K, 📝 07&#x2F;17 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;09&#x2F;04 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1165,7 +1185,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 655, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 07&#x2F;07 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;16 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;17 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1236,7 +1256,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 265, 📝 07&#x2F;15 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 19K, 📝 07&#x2F;07 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 03&#x2F;12 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
+- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 85, 📝 07&#x2F;17 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8.4K, 📝 07&#x2F;07 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 - [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 17K, 📝 07&#x2F;07 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 - [Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md) - ([Source ⭐ 1.1K, 📝 20&#x2F;11&#x2F;25 ](https://github.com/passy/awesome-recursion-schemes)) - Resources for learning and using recursion schemes.

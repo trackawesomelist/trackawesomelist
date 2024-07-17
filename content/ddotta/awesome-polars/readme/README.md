@@ -100,6 +100,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [polars\_encryption (⭐2)](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
 *   [polars\_iptools (⭐5)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
 *   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
 ### Rust
 

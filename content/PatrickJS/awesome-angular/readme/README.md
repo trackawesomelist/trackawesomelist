@@ -18,7 +18,7 @@
 
 > logo designed by [SAWARATSUKI (⭐3.3k)](https://github.com/SAWARATSUKI/KawaiiLogos)
 
-This is the Awesome list of the Angular framework, and it contains intriguing libraries in the Angular ecosystem for all developers. Something missing? [PRs welcomed! (⭐9.3k)](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
+This is the Awesome list of the Angular framework, and it contains intriguing libraries in the Angular ecosystem for all developers. Something missing? [PRs welcomed! (⭐9.4k)](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 > Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)
 
@@ -298,12 +298,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [List of 100 Angular Interview questions and answers (⭐4.1k)](https://github.com/sudheerj/angular-interview-questions)
 *   [Angular Developer Roadmap](https://roadmap.sh/angular)
 *   [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
-*   [Angular Checklist (⭐314)](https://github.com/typebytes/angular-checklist)
+*   [Angular Checklist (⭐315)](https://github.com/typebytes/angular-checklist)
 *   [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 
 ##### Exercises
 
-*   [angular-fundamental-lessons (⭐53)](https://github.com/MarkTechson/angular-fundamentals-lessons)
+*   [angular-fundamental-lessons (⭐57)](https://github.com/MarkTechson/angular-fundamentals-lessons)
 *   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
@@ -415,8 +415,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 *   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
 *   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
-*   [ngx-electronify (⭐96)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
-*   [dotenv-run (⭐231)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ngx-electronify (⭐99)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐230)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 *   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 
 #### CLI
@@ -471,7 +471,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 *   [generator-jhipster-ionic (⭐189)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 *   [angularx-qrcode (⭐459)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
-*   [create-tauri-app (⭐940)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+*   [create-tauri-app (⭐948)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ##### Spring Boot
 
@@ -528,7 +528,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Internationalization
 
 *   [transloco (⭐2k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
-*   [ngx-tolgee (⭐218)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [ngx-tolgee (⭐219)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [localess (⭐32)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 *   [typesafe-i18n (⭐2.2k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 *   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
@@ -599,6 +599,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-starter-kit (⭐1)](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
 *   [fractal-boilerplate-lua-angular (⭐1)](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 *   [angular-nestjs-starter-kit (⭐1)](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
 
 ##### Paid
 
@@ -630,12 +631,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [jest-preset-angular (⭐878)](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
 *   [jest-preview (⭐2.3k)](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.
 *   [jest-marbles (⭐109)](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
-*   [jest-codemods (⭐872)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
+*   [jest-codemods (⭐874)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
 *   [ts-jest (⭐6.9k)](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 *   [playwright-ct-angular (⭐47)](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
 *   [spectacular (⭐38)](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries.
 *   [spectator (⭐2k)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
-*   [stryker-js (⭐2.5k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
+*   [stryker-js (⭐2.6k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 *   [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
 *   [webdriverio (⭐8.9k)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 *   [cypress-harness (⭐232)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
@@ -643,7 +644,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [swc-angular-plugin (⭐232)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 *   [msw (⭐15k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [ngx-speculoos (⭐71)](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
-*   [shallow-render (⭐270)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+*   [shallow-render (⭐272)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 *   [angular-tour-of-heroes-jest-100-coverage (⭐3)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 *   [how-do-i-test (⭐5)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 *   [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
@@ -746,12 +747,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-mutation-observer (⭐5)](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
 *   [ngx-visibility (⭐10)](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
 *   [ng-in-viewport (⭐223)](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [ngx-dynamic-hooks (⭐112)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 *   [edit-in-place (⭐260)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 *   [ng-let (⭐46)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 *   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
-*   [safe-pipe (⭐17)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+*   [safe-pipe (⭐18)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 *   [ngxd (⭐317)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
 *   [ngx-quicklink (⭐748)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 *   [ngx-highlightjs (⭐272)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
@@ -905,7 +906,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-progressbar (⭐999)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 *   [dotglitch-ngx (⭐14)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
 *   [ng-lazy-load-component (⭐6)](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
-*   [ngx-loading-bar (⭐758)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+*   [ngx-loading-bar (⭐759)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 *   [content-loader (⭐733)](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 *   [ngx-loading (⭐267)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
 *   [ng-block-ui (⭐145)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
@@ -937,7 +938,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Markdown
 
 *   [ngx-markdown (⭐1k)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
-*   [ngx-remark (⭐5)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+*   [ngx-remark (⭐6)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 *   [ngx-markdown-editor (⭐172)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 *   [angular-markdown-editor (⭐157)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 
@@ -963,6 +964,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-vibe (⭐9)](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
 *   [angular-kit (⭐5)](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
 *   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 
 #### Modals
 
@@ -1040,7 +1042,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Tooltips
 
 *   [helipopper (⭐392)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
-*   [popover (⭐225)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+*   [popover (⭐226)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
 *   [angular-confirmation-popover (⭐202)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 *   [ngx-tooltip-directives (⭐5)](https://github.com/mkeller1992/ngx-tooltip-directives) - This library offers three different tooltip directives (string, html and template) and draws inspiration from the no longer maintained [ng2-tooltip-directive (⭐102)](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
 *   [ng2-tooltip-directive (⭐3)](https://github.com/cloudfactorydk/ng2-tooltip-directive) - Forked from [ng2-tooltip-directive (⭐102)](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
@@ -1149,10 +1151,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [rx-computed (⭐232)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 *   [microwave (⭐232)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 *   [falso (⭐3.2k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-*   [ngx-device-detector (⭐513)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-*   [ngx-feature-toggle (⭐100)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
+*   [ngx-device-detector (⭐515)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+*   [ngx-feature-toggle (⭐99)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
-*   [ng-polymorpheus (⭐374)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+*   [ng-polymorpheus (⭐377)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 *   [ngx-cookieconsent (⭐161)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 *   [ngx-cookie-service (⭐537)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies (⭐64)](https://github.com/BCJTI/ng2-cookies) library.
 *   [gui (⭐84)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
@@ -1172,6 +1174,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-dynamic-mf (⭐7)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 *   [ngx-font-picker (⭐20)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 *   [ngx-flagr (⭐7)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 
 ***
 
@@ -1204,22 +1207,22 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### RxJS
 
 *   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
-*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
-*   [rxjs-course (⭐377)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
-*   [redux-observable (⭐7.9k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
-*   [rxjs-challenge (⭐580)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+*   [learn-rxjs (⭐3.7k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
+*   [rxjs-course (⭐374)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [rxjs-challenge (⭐583)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 *   [operators (⭐232)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
 *   [until-destroy (⭐1.7k)](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 *   [effects (⭐60)](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
 *   [ngx-observable-lifecycle (⭐34)](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (ivy compiled) angular component.
 *   [rx-sandbox (⭐172)](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
-*   [observer-spy (⭐372)](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
-*   [ngx-operators (⭐134)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
+*   [observer-spy (⭐375)](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
+*   [ngx-operators (⭐135)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
 *   [rxjs-toolbox (⭐10)](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
 *   [subscribable-things (⭐42)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 *   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 *   [rxjs-broker (⭐24)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
-*   [rxjs-insights (⭐356)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
+*   [rxjs-insights (⭐357)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 *   [observable-webworker (⭐220)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 *   [ng-event-bus (⭐49)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 *   [audit-debounce (⭐0)](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
@@ -1236,7 +1239,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Sheriff (⭐168)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
 *   [Total Typescript Book (⭐1.6k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
-*   [trpc (⭐33k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [trpc (⭐34k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐12k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 *   [ngx-mf (⭐37)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type.
