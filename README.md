@@ -18,22 +18,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Generative AI web development with Angular YouTube Video](https://www.youtube.com/watch?v=5FdtPwZrkGw)
-*   [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
-*   [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert Designs to Clean Angular Code in a Click.
-*   [ai-test-gen-angular (⭐9)](https://github.com/DurgeshRathod/ai-test-gen-angular) - A powerful tool that leverages OpenAI's advanced capabilities to automate the generation of unit tests for your Angular components and services.
-*   [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
-*   [mini-bard-palm2-angular (⭐28)](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
-*   [gemini-angular-drawing-demo (⭐38)](https://github.com/mgechev/gemini-angular-drawing-demo) - Developer sample written in Angular demonstrating Gemini multimodal (image and audio) input and understanding. The user enters a prompt and the app generates images via VertexAI’s image generation which the user can after that preview in a three-dimensional gallery.
-*   [Alan AI](https://alan.app/docs/tutorials/web/integrating-angular-app/) - Build a voice agent for an Angular app.
-*   [Vishal Gosain Hashnode](https://vishugosain.hashnode.dev/integrating-open-ai-into-angular-application) - Integrate OpenAI into an Angular app.
-*   [ng-text-to-image (⭐0)](https://github.com/desoga10/ng-text-to-image) - Build an AI Image Generator in Angular 17 Using the Clipdrop API || AI Text to Image Generator.
-
-#### [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Community-Supported Agriculture (CSA)
 
@@ -43,31 +28,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Meelo (⭐16)](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
 
-#### [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+#### [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ##### LaTeX-focused
 
 *   [Texifier](https://www.texifier.com/) - Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg)
 
-#### [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering
 
 *   [ncwilson78/System-Prompt-Library (⭐21)](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 
-#### [5. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Deep Learning
 
 *   [stable-baselines3 (⭐8.4k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
-#### [6. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-##### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
-
-*   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
-
-#### [7. Topics](/content/selvaklnc/topics/README.md)
+#### [5. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of public profiles of Selvakumaran Krishnan
 
@@ -77,6 +56,74 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### List of important bookmarks
 
 *   [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan
+
+#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### AI / Diagnostics
+
+*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Generative AI web development with Angular YouTube Video](https://www.youtube.com/watch?v=5FdtPwZrkGw)
+*   [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
+*   [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert Designs to Clean Angular Code in a Click.
+*   [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
+*   [ai-test-gen-angular (⭐9)](https://github.com/DurgeshRathod/ai-test-gen-angular) - A powerful tool that leverages OpenAI's advanced capabilities to automate the generation of unit tests for your Angular components and services.
+*   [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
+*   [theres an ai for that](https://theresanaiforthat.com/s/angular/) - #1 AI aggregator. Updated daily. Used by 20M+.
+*   [what plugin](https://www.whatplugin.ai/gpts/angular-copilot) - Angular copilot.
+*   [mini-bard-palm2-angular (⭐28)](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
+*   [gemini-angular-drawing-demo (⭐38)](https://github.com/mgechev/gemini-angular-drawing-demo) - Developer sample written in Angular demonstrating Gemini multimodal (image and audio) input and understanding. The user enters a prompt and the app generates images via VertexAI’s image generation which the user can after that preview in a three-dimensional gallery.
+*   [Alan AI](https://alan.app/docs/tutorials/web/integrating-angular-app/) - Build a voice agent for an Angular app.
+*   [Vishal Gosain Hashnode](https://vishugosain.hashnode.dev/integrating-open-ai-into-angular-application) - Integrate OpenAI into an Angular app.
+*   [ng-text-to-image (⭐0)](https://github.com/desoga10/ng-text-to-image) - Build an AI Image Generator in Angular 17 Using the Clipdrop API || AI Text to Image Generator.
+*   [ng-generative-ai-demo (⭐7)](https://github.com/c-o-l-i-n/ng-generative-ai-demo) - Result from this [angular-ai-chatbot tutorial](https://colinaw.com/blog/angular-ai-chatbot/).
+*   [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
+*   [angular-webxr-art-sample (⭐27)](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
+*   [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
+
+#### [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+
+##### Scripts / Google
+
+*   [Share Google Slides Control (⭐0)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
+
+#### [9. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+
+##### Boilerplates
+
+*   [WXT (⭐3.3k)](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions
+
+#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Configuration
+
+*   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
+
+#### [11. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+##### Zig development tools / Messaging
+
+*   [aherrmann/rules\_zig (⭐34)](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig.
+
+#### [12. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Talks and videos
+
+*   [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
+
+#### [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **LLM Materials for East Asian Languages** / Korean
+
+*   [AI 데이터 분석가 ‘물어보새’ 등장 – RAG와 Text-To-SQL 활용](https://techblog.woowahan.com/18144/) \[Jul 2024]
+
+##### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
+
+*   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 
 ### [Jul 17, 2024](/content/2024/07/17/README.md)
 
@@ -168,39 +215,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
     auditing studies and identification of trends in their methodological approaches.*
 
-#### [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Python
-
-*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
-
-#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
-
-##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
-
-##### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
-
-#### [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Bookmarks and Link Sharing
 
 *   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 
-#### [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Large Language Models (LLMs)
 
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 
-#### [9. Topics](/content/selvaklnc/topics/README.md)
+#### [7. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of public profiles of Selvakumaran Krishnan
 
@@ -216,6 +243,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### List of blogs and websites
 
 *   [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
+
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-sample-app (⭐17)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+
+##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+
+##### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+
+#### [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Python
+
+*   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
 ### [Jul 16, 2024](/content/2024/07/16/README.md)
 
@@ -239,19 +286,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 
-#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
-
-#### [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Resources / Discovery
 
 *   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
 
-#### [6. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Conventions
 
@@ -391,13 +432,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 *   [Photogrammetry importer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐872)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
-#### [7. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Python
-
-*   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
-
-#### [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -410,13 +445,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [jeff (⭐0)](https://github.com/jbaranski/jeff-zsh-theme) - Includes decorators for user\@host, time, current directory and `git` status. Based on [bira (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira).
 *   [thayne (⭐0)](https://github.com/tmccombs/thayne.zsh-theme) - Includes decorators for exit status of last command, time to run if > 1 second, current time, current directory and `git` status. Requires a Nerd Font.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
-
-#### [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -440,7 +469,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
 
-#### [11. Topics](/content/selvaklnc/topics/README.md)
+#### [8. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of interesting topics
 
@@ -462,6 +491,24 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 *   [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 
+#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+
+#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+
+#### [11. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Python
+
+*   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+
 ---
 
 - Next: [Jul 15, 2024](&#x2F;content&#x2F;2024&#x2F;07&#x2F;15&#x2F;README.md)
@@ -470,9 +517,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 212K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 186K 📝 07&#x2F;18 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 310K 📝 07&#x2F;07 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 07&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 125K 📝 07&#x2F;07 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 125K 📝 07&#x2F;18 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+4. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 310K 📝 07&#x2F;07 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 07&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 52K 📝 07&#x2F;15 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 7. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 57K 📝 07&#x2F;14 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 8. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 324K 📝 06&#x2F;24 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -483,7 +530,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 13. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 57K 📝 07&#x2F;07 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 14. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 24K 📝 07&#x2F;16 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 15. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 29K 📝 07&#x2F;13 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;16 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;18 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 07&#x2F;16 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 18. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 33K 📝 07&#x2F;07 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 19. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 17K 📝 07&#x2F;14 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -723,7 +770,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;16 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;18 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -1045,7 +1092,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Translations](/content/mbiesiad/awesome-translations/README.md) - ([Source ⭐ 124, 📝 05&#x2F;17 ](https://github.com/mbiesiad/awesome-translations)) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md) - ([Source ⭐ 379, 📝 21&#x2F;07&#x2F;01 ](https://github.com/johnjago/awesome-uncopyright)) - Curated list of all things public domain
 - [Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md) - ([Source ⭐ 809, 📝 16&#x2F;07&#x2F;05 ](https://github.com/jagracey/Awesome-Unicode)) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
-- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1.7K, 📝 05&#x2F;23 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
+- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1.7K, 📝 07&#x2F;18 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
 - [Awesome Veganism](/content/sdassow/awesome-veganism/README.md) - ([Source ⭐ 56, 📝 23&#x2F;09&#x2F;15 ](https://github.com/sdassow/awesome-veganism)) - curated list of awesome resources, pointers, and tips related to veganism
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.5K, 📝 07&#x2F;07 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
@@ -1132,7 +1179,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md) - ([Source ⭐ 520, 📝 21&#x2F;03&#x2F;09 ](https://github.com/ironcev/awesome-roslyn)) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md) - ([Source ⭐ 611, 📝 21&#x2F;10&#x2F;11 ](https://github.com/mailtoharshit/awesome-salesforce)) - A curated list of delightful Salesforce Platform Resources
 - [Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md) - ([Source ⭐ 816, 📝 21&#x2F;02&#x2F;03 ](https://github.com/vitalets/awesome-smart-tv)) - :zap:A curated list of awesome resources for building Smart TV apps
-- [Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md) - ([Source ⭐ 1.3K, 📝 07&#x2F;07 ](https://github.com/fregante/Awesome-WebExtensions)) - A curated list of awesome resources for WebExtensions development.
+- [Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md) - ([Source ⭐ 1.3K, 📝 07&#x2F;18 ](https://github.com/fregante/Awesome-WebExtensions)) - A curated list of awesome resources for WebExtensions development.
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.9K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
 - [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 37K, 📝 23&#x2F;11&#x2F;03 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1173,7 +1220,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K, 📝 02&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 125K, 📝 07&#x2F;07 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 125K, 📝 07&#x2F;18 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 689, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
@@ -1192,7 +1239,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 655, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 07&#x2F;07 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;17 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;18 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1213,7 +1260,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K, 📝 23&#x2F;09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.8K, 📝 07&#x2F;07 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 129, 📝 23&#x2F;12&#x2F;27 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
-- [Awesome Zig](/content/catdevnull/awesome-zig/README.md) - ([Source ⭐ 341, 📝 07&#x2F;07 ](https://github.com/catdevnull/awesome-zig)) - A list of awesome projects related to Zig
+- [Awesome Zig](/content/catdevnull/awesome-zig/README.md) - ([Source ⭐ 341, 📝 07&#x2F;18 ](https://github.com/catdevnull/awesome-zig)) - A list of awesome projects related to Zig
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4K, 📝 07&#x2F;07 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects
 - [Js Must Watch](/content/bolshchikov/js-must-watch/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;01&#x2F;20 ](https://github.com/bolshchikov/js-must-watch)) - Must-watch videos about javascript
 - [Jstips](/content/loverajoel/jstips/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/loverajoel/jstips)) - This is about useful JS tips!

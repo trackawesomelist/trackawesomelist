@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 18, 2024](/content/2024/07/18/README.md)
+
+### Resources / Talks and videos
+
+*   [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
+
 ## [Jul 17, 2024](/content/2024/07/17/README.md)
 
 ### Libraries/Packages/Scripts / Python

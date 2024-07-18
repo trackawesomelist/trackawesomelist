@@ -6,6 +6,12 @@
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / Weekly / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Scripts / Google
+
+*   [Share Google Slides Control (⭐0)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
+
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
 ### Scripts / YouTube

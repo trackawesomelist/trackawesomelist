@@ -6,6 +6,12 @@ A curated list of awesome resources for WebExtensions development.
 
 [ [Daily](/content/fregante/Awesome-WebExtensions/README.md) / Weekly / [Overview](/content/fregante/Awesome-WebExtensions/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Boilerplates
+
+*   [WXT (⭐3.3k)](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Tools
@@ -65,12 +71,6 @@ A curated list of awesome resources for WebExtensions development.
 ### Libraries and Frameworks
 
 *   [ExtPay (⭐455)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
-
-## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
-
-### Boilerplates
-
-*   [vue-web-extension (⭐1.6k)](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 

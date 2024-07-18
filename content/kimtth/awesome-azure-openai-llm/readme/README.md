@@ -1907,6 +1907,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
 *   [Machine Learning Study 혼자 해보기 (⭐2.5k)](https://github.com/teddylee777/machine-learning) \[Sep 2018]
 *   [LangChain 한국어 튜토리얼 (⭐781)](https://github.com/teddylee777/langchain-kr) \[Feb 2024]
+*   [AI 데이터 분석가 ‘물어보새’ 등장 – RAG와 Text-To-SQL 활용](https://techblog.woowahan.com/18144/) \[Jul 2024]
 
 ### **Learning and Supplementary Materials**
 

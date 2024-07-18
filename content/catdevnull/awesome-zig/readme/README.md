@@ -141,9 +141,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Game tools and libraries
 
-*   [hexops/mach (⭐2.9k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐3k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 *   [michal-z/zig-gamedev (⭐2.1k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐319)](https://github.com/floooh/sokol-zig) - [Sokol (⭐6.5k)](https://github.com/floooh/sokol) bindings.
+*   [floooh/sokol-zig (⭐319)](https://github.com/floooh/sokol-zig) - [Sokol (⭐6.6k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -168,7 +168,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [capy-ui/capy (⭐1.5k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 *   [david-vanderson/gui (⭐204)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
 *   [Aransentin/ZWL (⭐92)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [prime31/zig-upaya (⭐130)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 *   [fubark/cosmic (⭐328)](https://github.com/fubark/cosmic) - GUI toolkit.
 *   [batiati/IUPforZig (⭐110)](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 *   [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
@@ -194,7 +194,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [kprotty/zap (⭐399)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [vbrusca/ZigMatrixUtils (⭐1)](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
 *   [mlarouche/zigimg (⭐415)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐210)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐213)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [SasLuca/zig-nanoid (⭐24)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 *   [kassane/libvlc-zig (⭐17)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 *   [karlseguin/log.zig (⭐73)](https://github.com/karlseguin/log.zig) - Structured logging library.
@@ -259,6 +259,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [korandoru/setup-zig (⭐18)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 *   [weskoerber/zvm (⭐4)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 *   [vezel-dev/zig-sdk (⭐50)](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+*   [aherrmann/rules\_zig (⭐34)](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig.
 
 ### Package managers
 
@@ -319,7 +320,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 *   [kassane/wolfssl (⭐4)](https://github.com/kassane/wolfssl) - wolfssl library.
 *   [kassane/libbpf (⭐2)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
 *   [kassane/winpthreads (⭐9)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
-*   [raysan5/raylib (⭐20k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
+*   [raysan5/raylib (⭐21k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 *   [jmcnamara/libxlsxwriter (⭐1.4k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 *   [alexrp/libffi (⭐2)](https://github.com/alexrp/libffi) - libffi with a Zig build script.
 

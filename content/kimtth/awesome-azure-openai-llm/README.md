@@ -8,6 +8,10 @@
 
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
+### **LLM Materials for East Asian Languages** / Korean
+
+*   [AI 데이터 분석가 ‘물어보새’ 등장 – RAG와 Text-To-SQL 활용](https://techblog.woowahan.com/18144/) \[Jul 2024]
+
 ### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
 
 *   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]

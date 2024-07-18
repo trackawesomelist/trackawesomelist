@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jul 18, 2024](/content/2024/07/18/README.md)
+
+### Zig development tools / Messaging
+
+*   [aherrmann/rules\_zig (⭐34)](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Misc libraries
@@ -121,7 +127,7 @@ A list of awesome projects related to Zig
 
 *   [andrewrk/libz (⭐13)](https://github.com/andrewrk/libz) - Zlib data compression.
 *   [kassane/openssl-zig (⭐6)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
-*   [raysan5/raylib (⭐20k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
+*   [raysan5/raylib (⭐21k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 *   [jmcnamara/libxlsxwriter (⭐1.4k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 
 ### C/C++ libraries packaged for Zig / C++
@@ -247,13 +253,13 @@ A list of awesome projects related to Zig
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐2.9k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐3k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
 *   [david-vanderson/gui (⭐204)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
 *   [Aransentin/ZWL (⭐92)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [prime31/zig-upaya (⭐130)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Other / C++
 
@@ -510,7 +516,7 @@ A list of awesome projects related to Zig
 ### Game tools and libraries
 
 *   [michal-z/zig-gamedev (⭐2.1k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐319)](https://github.com/floooh/sokol-zig) - [Sokol (⭐6.5k)](https://github.com/floooh/sokol) bindings.
+*   [floooh/sokol-zig (⭐319)](https://github.com/floooh/sokol-zig) - [Sokol (⭐6.6k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -548,7 +554,7 @@ A list of awesome projects related to Zig
 *   [emekoi/log.zig (⭐20)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐399)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐415)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐210)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐213)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 

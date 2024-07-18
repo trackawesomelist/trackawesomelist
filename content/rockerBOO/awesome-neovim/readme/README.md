@@ -171,7 +171,7 @@ Collections of awesome neovim plugins.
 *   [zeioth/garbage-day.nvim (⭐263)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
 *   [luckasRanarison/clear-action.nvim (⭐107)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 *   [rachartier/tiny-inline-diagnostic.nvim (⭐159)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
-*   [chrisgrieser/nvim-lsp-endhints (⭐4)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
 #### LSP Installer
 
@@ -219,6 +219,7 @@ Collections of awesome neovim plugins.
 *   [simplegpt.nvim (⭐9)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 *   [Exafunction/codeium.nvim (⭐657)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 *   [CopilotC-Nvim/CopilotChat.nvim (⭐1.3k)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 
 ## Programming Languages Support
 
@@ -380,7 +381,7 @@ Collections of awesome neovim plugins.
 *   [vijaymarupudi/nvim-fzf (⭐327)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 *   [camspiers/snap (⭐481)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐2k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
-*   [jvgrootveld/telescope-zoxide (⭐294)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐294)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐4.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐357)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 *   [linrongbin16/fzfx.nvim (⭐112)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
@@ -648,7 +649,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [rafcamlet/tabline-framework.nvim (⭐94)](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 *   [nanozuki/tabby.nvim (⭐560)](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
 *   [roobert/bufferline-cycle-windowless.nvim (⭐38)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
-*   [mg979/tabline.nvim (⭐24)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Cursorline
 
@@ -670,7 +670,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [willothy/veil.nvim (⭐141)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 *   [TobinPalmer/Tip.nvim (⭐68)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 *   [CWood-sdf/spaceport.nvim (⭐71)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
-*   [mong8se/actually.nvim (⭐43)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐50)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ## Icon
 
@@ -804,7 +804,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [AlejandroSuero/freeze-code.nvim (⭐14)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐2.8k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 *   [ysmb-wtsg/in-and-out.nvim (⭐29)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 *   [ChuufMaster/buffer-vacuum (⭐9)](https://github.com/ChuufMaster/buffer-vacuum) - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
-*   [mong8se/buffish.nvim (⭐2)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
+*   [mong8se/buffish.nvim (⭐4)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
 
 ### CSV Files
 
@@ -1173,7 +1173,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Session
 
 *   [rmagatti/auto-session (⭐1.1k)](https://github.com/rmagatti/auto-session) - A small automated session manager.
-*   [rmagatti/session-lens (⭐225)](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
 *   [echasnovski/mini.nvim#mini.sessions (⭐4.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
 *   [gennaro-tedesco/nvim-possession (⭐207)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 *   [olimorris/persisted.nvim (⭐422)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
@@ -1288,7 +1287,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### Version Manager
 
-*   [MordechaiHadad/bob (⭐1.3k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.4k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 *   [NTBBloodbath/nvenv (⭐53)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 *   [shohi/neva (⭐9)](https://github.com/shohi/neva) - A Neovim version manager written in Lua.
 

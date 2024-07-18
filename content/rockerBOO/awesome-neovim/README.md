@@ -6,17 +6,17 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 18, 2024](/content/2024/07/18/README.md)
+
+### AI / Diagnostics
+
+*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
 *   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
-
-## [Jul 13, 2024](/content/2024/07/13/README.md)
-
-### Session / Diagnostics
-
-*   [rmagatti/session-lens (⭐225)](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
 
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
@@ -50,17 +50,17 @@ Collections of awesome neovim plugins.
 
 ### Startup / Diagnostics
 
-*   [mong8se/actually.nvim (⭐43)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐50)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ### Utility / Diagnostics
 
-*   [mong8se/buffish.nvim (⭐2)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
+*   [mong8se/buffish.nvim (⭐4)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
 
 ## [Jul 01, 2024](/content/2024/07/01/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-lsp-endhints (⭐4)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -1464,10 +1464,6 @@ Collections of awesome neovim plugins.
 *   [CamdenClark/flyboy (⭐40)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
-
-### Tabline / Diagnostics
-
-*   [mg979/tabline.nvim (⭐24)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Media / Diagnostics
 
@@ -3258,7 +3254,7 @@ Collections of awesome neovim plugins.
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐1.3k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.4k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [May 21, 2022](/content/2022/05/21/README.md)
 
@@ -3724,7 +3720,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐294)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐294)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

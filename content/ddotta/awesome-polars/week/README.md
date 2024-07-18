@@ -13,6 +13,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
 *   [polars-url (⭐1)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 
+### Resources / Talks and videos
+
+*   [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Resources / Talks and videos

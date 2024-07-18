@@ -60,11 +60,11 @@ We use the *[Golang Bridge (⭐399)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐211k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐212k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines (⭐124k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐124k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐125k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐125k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 > *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -405,8 +405,8 @@ Please take a quick gander at the [contribution guidelines (⭐124k)](https://gi
 *   [acmd (⭐113)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐595)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐289)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐767)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐290)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐785)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐15)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 *   [cli (⭐725)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
@@ -472,8 +472,7 @@ Please take a quick gander at the [contribution guidelines (⭐124k)](https://gi
 *   [conflate (⭐32)](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 *   [env (⭐4.6k)](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
 *   [env (⭐57)](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs.
-*   [envcfg (⭐103)](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
-*   [envconf (⭐11)](https://github.com/ian-kent/envconf) - Configuration from environment.
+*   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 *   [envconfig (⭐238)](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 *   [envh (⭐99)](https://github.com/antham/envh) - Helpers to manage environment variables.
 *   [fig (⭐365)](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
@@ -748,7 +747,7 @@ additional ordered map implementations.
 *   [rosedb (⭐4.5k)](https://github.com/roseduan/rosedb) - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
 *   [rqlite (⭐15k)](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
 *   [tempdb (⭐19)](https://github.com/rafaeljesus/tempdb) - Key-value store for temporary items.
-*   [tidb (⭐36k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+*   [tidb (⭐37k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 *   [tiedot (⭐2.7k)](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 *   [unitdb (⭐118)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 *   [Vasto (⭐260)](https://github.com/chrislusf/vasto) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
@@ -2716,7 +2715,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [fzf (⭐62k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐966)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐967)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [gitbatch (⭐1.5k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐115)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
