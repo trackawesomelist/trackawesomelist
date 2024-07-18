@@ -320,7 +320,7 @@ Inspired by [awesome-php (⭐31k)](https://github.com/ziadoz/awesome-php).
 
 *   [cryptography (⭐6.4k)](https://github.com/pyca/cryptography) - A package designed to expose cryptographic primitives and recipes to Python developers.
 *   [paramiko (⭐8.9k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ## Data Analysis
 
@@ -426,6 +426,7 @@ Inspired by [awesome-php (⭐31k)](https://github.com/ziadoz/awesome-php).
 *   [keras (⭐61k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [pytorch (⭐80k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [pytorch-lightning (⭐27k)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+*   [stable-baselines3 (⭐8.4k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 *   [tensorflow (⭐184k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 *   [theano (⭐9.9k)](https://github.com/Theano/Theano) - A library for fast numerical computation.
 
@@ -455,7 +456,7 @@ Inspired by [awesome-php (⭐31k)](https://github.com/ziadoz/awesome-php).
 
 *   Batch Processing
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-    *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    *   [luigi (⭐18k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [PySpark (⭐39k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     *   [Ray (⭐32k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
@@ -1149,7 +1150,7 @@ Inspired by [awesome-php (⭐31k)](https://github.com/ziadoz/awesome-php).
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API (⭐211k)](https://github.com/vinta/awesome-python#restful-api).*
+*Traditional full stack web frameworks. Also see [RESTful API (⭐212k)](https://github.com/vinta/awesome-python#restful-api).*
 
 *   Synchronous
     *   [django (⭐78k)](https://github.com/django/django) - The most popular web framework in Python.
@@ -1201,7 +1202,7 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐211k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐212k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 ***
 

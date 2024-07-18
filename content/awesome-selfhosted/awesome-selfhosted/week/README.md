@@ -12,6 +12,14 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.7k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 
+### Software / Community-Supported Agriculture (CSA)
+
+*   [E-Label](https://filipecarneiro.github.io/ELabel/) - Solution for electronic labels, with QR Codes, on wine bottles sold within the European Union. ([Source Code (⭐10)](https://github.com/filipecarneiro/ELabel)) `MIT` `Docker`
+
+### Software / Media Streaming - Multimedia Streaming
+
+*   [Meelo (⭐16)](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Software / Media Streaming - Video Streaming

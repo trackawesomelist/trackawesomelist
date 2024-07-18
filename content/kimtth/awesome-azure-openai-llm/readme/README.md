@@ -209,6 +209,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [What AI Engineers Should Know about Search](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search) \[25 Jun 2024]
     *   [GraphRAG](https://arxiv.org/abs/2404.16130): Original Documents -> Knowledge Graph (Group Summaries) -> Partial Responses -> Final Response
         [ref](https://microsoft.github.io/graphrag) [git (⭐6.7k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
+    *   [GraphRAG Implementation with LlamaIndex (⭐33k)](https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/cookbooks/GraphRAG_v1.ipynb) \[15 Jul 2024]
     *   [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
 *   RAG Application
     *   [RAG capabilities of LlamaIndex to QA about SEC 10-K & 10-Q documents (⭐2.2k)](https://github.com/run-llama/sec-insights): A real world full-stack application using LlamaIndex \[Sep 2023]
@@ -416,6 +417,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
         *   [Microsoft Copilot Dashboard](https://insights.cloud.microsoft/#/CopilotDashboard) / [blog](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-ways-microsoft-copilot-and-viva-are-transforming-the/ba-p/3982293)
     3.  [Microsoft Office Copilot: Natural Language Commanding via Program Synthesis](https://arxiv.org/abs/2306.03460): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.03460)]: Semantic Interpreter, a natural language-friendly AI system for productivity software such as Microsoft Office that leverages large language models (LLMs) to execute user intent across application features. \[6 Jun 2023]
     4.  [NL2KQL](https://arxiv.org/abs/2404.02933): From Natural Language to Kusto Query \[3 Apr 2024]
+    5.  [SpreadsheetLLM](https://arxiv.org/abs/2407.09025): Introduces an efficient method to encode Excel sheets, outperforming previous approaches with 25 times fewer tokens.\[12 Jul 2024]
 
 <!-- #### **ChatGPT + Enterprise data Demo**
 
@@ -1203,9 +1205,9 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
 </details>
 
-#### **Llama 2 Finetuning**
+#### **Llama Finetuning**
 
-*   A key difference between [Llama 1](https://arxiv.org/abs/2302.13971): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.13971)] \[27 Feb 2023] and [Llama 2](https://arxiv.org/abs/2307.09288): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09288)] \[18 Jul 2023] is the architectural change of attention layer, in which Llama 2 takes advantage of Grouped Query Attention (GQA) mechanism to improve efficiency.
+*   A key difference between [Llama 1](https://arxiv.org/abs/2302.13971): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.13971)] \[27 Feb 2023] and [Llama 2](https://arxiv.org/abs/2307.09288): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09288)] \[18 Jul 2023] is the architectural change of attention layer, in which Llama 2 takes advantage of Grouped Query Attention (GQA) mechanism to improve efficiency. [x-ref](#open-source-large-language-models)
 
     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/grp-attn.png" alt="llm-grp-attn" width="400"/>
 
@@ -2043,6 +2045,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     *   [LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step](https://arxiv.org/abs/2402.16906) \[25 Feb 2024]
     *   [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793) \[6 May 2024]
 *   [AI Agents That Matter](https://arxiv.org/abs/2407.01502): AI agent evaluations for optimizing both accuracy and cost. Focusing solely on accuracy can lead to overfitting and high costs. `retry, warming, escalation` \[1 Jul 2024]
+*   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 
 #### Tool use: LLM to Master APIs
 

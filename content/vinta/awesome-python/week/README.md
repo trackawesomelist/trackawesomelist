@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ [Daily](/content/vinta/awesome-python/README.md) / Weekly / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Deep Learning
+
+*   [stable-baselines3 (⭐8.4k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Specific Formats Processing
@@ -872,7 +878,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Cryptography
 
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
@@ -889,7 +895,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   Batch Processing
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-    *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    *   [luigi (⭐18k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [PySpark (⭐39k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     *   [Ray (⭐32k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
