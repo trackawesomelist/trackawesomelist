@@ -6,6 +6,12 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ [Daily](/content/mxschmitt/awesome-playwright/README.md) / Weekly / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Utils
+
+*   [playwright-magic-steps (⭐1)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Reporters

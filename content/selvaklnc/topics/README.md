@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Jul 19, 2024](/content/2024/07/19/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   [Google Scholar](https://scholar.google.com/citations?user=vc-N3msAAAAJ\&hl=en) profile
+
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan

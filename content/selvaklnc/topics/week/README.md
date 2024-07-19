@@ -15,6 +15,7 @@
 
 ### List of public profiles of Selvakumaran Krishnan
 
+*   [Google Scholar](https://scholar.google.com/citations?user=vc-N3msAAAAJ\&hl=en) profile
 *   [Mozilla profile](https://support.mozilla.org/en-US/user/selvaklnc/) of Selvakumaran Krishnan
 *   [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
 *   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.

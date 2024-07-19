@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Desktop
+
+*   [darktable](https://www.darktable.org/) - darktable is an open source photography workflow application and raw developer
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Android Keyboard
@@ -693,7 +699,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [ViMusic (⭐8.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐8.1k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
+    *   [RiMusic (⭐1.3k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -1096,7 +1103,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
-*   [Krita (⭐6.9k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Krita (⭐7k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
 *   [Czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 
 ### Domain Registrar
@@ -1311,11 +1318,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Browser Sync / Alternative clients/modifications of Discord:
 
 *   [xBrowserSync](https://www.xbrowsersync.org/) - Browser syncing as it should be: secure, anonymous and free!
-
-### WebView / Alternative clients/modifications of Discord:
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bromite WebView](https://www.bromite.org/system_web_view) - Bromite WebView is a version of Android System WebView with support for ad blocking and enhanced privacy.
-    *   [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) - A tool for installing Bromite WebView on android 10
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 

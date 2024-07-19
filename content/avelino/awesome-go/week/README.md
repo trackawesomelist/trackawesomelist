@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 
+### Project Layout
+
+*   [go-blueprint (⭐3.1k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Configuration

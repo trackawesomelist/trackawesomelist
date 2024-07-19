@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 19, 2024](/content/2024/07/19/README.md)
+
+### Project Layout
+
+*   [go-blueprint (⭐3.1k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
+
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
 ### Configuration

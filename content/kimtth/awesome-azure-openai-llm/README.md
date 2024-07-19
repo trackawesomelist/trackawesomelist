@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 19, 2024](/content/2024/07/19/README.md)
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   [A Pythonista’s Intro to Semantic Kernel](https://towardsdatascience.com/a-pythonistas-intro-to-semantic-kernel-af5a1a39564d) \[3 Sep 2023]
+
+### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   Use function calling for most tasks; it's more powerful and easier. Stepwise and Handlebars planners will be deprecated [ref](https://learn.microsoft.com/en-us/semantic-kernel/concepts/planning) \[Jun 2024]
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927): a summary detailing the prompting methodology, its applications.🏆Taxonomy of prompt engineering techniques in LLMs. \[5 Feb 2024]
+
+### **LLM Materials for East Asian Languages** / Japanese
+
+*   [コード生成を伴う LLM エージェント](https://speakerdeck.com/smiyawaki0820)  \[18 Jul 2024]
+
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
 ### **LLM Materials for East Asian Languages** / Korean
@@ -451,7 +469,7 @@
 
 ### **OpenAI's Roadmap and Products** / **GPT series release date**
 
-*   [GPT-4o](https://openai.com/index/hello-gpt-4o/): o stands for Omni. 50% cheaper. 2x faster. Multimodal input and output capabilities (text, audio, vision). supports 50 languages. \[13 May 2024]
+*   [GPT-4o](https://openai.com/index/hello-gpt-4o/): o stands for Omni. 50% cheaper. 2x faster. Multimodal input and output capabilities (text, audio, vision). supports 50 languages. \[13 May 2024] / [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/): 15 cents per million input tokens, 60 cents per million output tokens, MMLU of 82%, and fast. \[18 Jul 2024]
 
 ### **Evaluation Benchmark** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -542,7 +560,7 @@
 
     *   PagedAttention for a prompt “the cat is sleeping in the kitchen and the dog is”. Key-Value pairs of tensors for attention computation are stored in virtual contiguous blocks mapped to non-contiguous blocks in the GPU memory.
 *   [TokenAttention (⭐2k)](https://github.com/ModelTC/lightllm) an attention mechanism that manages key and value caching at the token level. [git (⭐2k)](https://github.com/ModelTC/lightllm/blob/main/docs/TokenAttention.md) \[Jul 2023]
-*   [Flash Attention](https://arxiv.org/abs/2205.14135): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2205.14135)] \[27 May 2022] & [FlashAttention-2](https://arxiv.org/abs/2307.08691): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.08691)] \[17 Jul 2023]: An method that reorders the attention computation and leverages classical techniques (tiling, recomputation). Instead of storing each intermediate result, use kernel fusion and run every operation in a single kernel in order to avoid memory read/write overhead. [git (⭐12k)](https://github.com/Dao-AILab/flash-attention) -> Compared to a standard attention implementation in PyTorch, FlashAttention-2 can be up to 9x faster
+*   [Flash Attention](https://arxiv.org/abs/2205.14135): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2205.14135)] \[27 May 2022] / [FlashAttention-2](https://arxiv.org/abs/2307.08691): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.08691)] \[17 Jul 2023]: An method that reorders the attention computation and leverages classical techniques (tiling, recomputation). Instead of storing each intermediate result, use kernel fusion and run every operation in a single kernel in order to avoid memory read/write overhead. [git (⭐12k)](https://github.com/Dao-AILab/flash-attention) -> Compared to a standard attention implementation in PyTorch, FlashAttention-2 can be up to 9x faster / [FlashAttention-3](https://arxiv.org/abs/2407.08608) \[11 Jul 2024]
 
 ### **Other techniques and LLM patterns** / **Llama Finetuning**
 

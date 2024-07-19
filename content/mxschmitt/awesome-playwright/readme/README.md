@@ -76,6 +76,7 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [playwright-xpath (⭐5)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 *   [ZeroStep (⭐155)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 *   [POMWright (⭐23)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [playwright-magic-steps (⭐1)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 
 ## Reporters
 

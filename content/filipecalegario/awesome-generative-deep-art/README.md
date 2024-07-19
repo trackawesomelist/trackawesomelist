@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 19, 2024](/content/2024/07/19/README.md)
+
+### Generative AI Tools Directories
+
+*   [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
+*   [Toolify](https://www.toolify.ai/): AI Tools Directory & AI Tools List
+
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
 ### Prompt Engineering

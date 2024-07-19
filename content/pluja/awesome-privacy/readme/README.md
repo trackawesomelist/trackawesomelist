@@ -828,7 +828,8 @@ With email aliases, you can finally create a different identity for each website
 **Youtube Music alternative clients**
 
 *   [Beatbump (⭐1k)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-*   [ViMusic (⭐8.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐8.1k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
+    *   [RiMusic (⭐1.3k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
 
 **Deezer alternative clients**
 
@@ -1095,11 +1096,12 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 #### Desktop
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
-*   [Krita (⭐6.9k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Krita (⭐7k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
 *   [Czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 *   [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
+*   [darktable](https://www.darktable.org/) - darktable is an open source photography workflow application and raw developer
 
 #### Android
 
@@ -1585,11 +1587,6 @@ Please read about what the addon does before installing. If you don't understand
 ### Browser Sync
 
 *   [xBrowserSync](https://www.xbrowsersync.org/) - Browser syncing as it should be: secure, anonymous and free!
-
-### WebView
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bromite WebView](https://www.bromite.org/system_web_view) - Bromite WebView is a version of Android System WebView with support for ad blocking and enhanced privacy.
-    *   [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) - A tool for installing Bromite WebView on android 10
 
 ## Privacy vs Security vs Anonymity
 

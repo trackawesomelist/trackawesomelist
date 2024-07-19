@@ -6,6 +6,12 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Jul 19, 2024](/content/2024/07/19/README.md)
+
+### Text / Models
+
+*   [GPT-4o Mini](https://altern.ai/ai/gpt-4o-mini) - *[Review on Altern](https://altern.ai/ai/gpt-4o-mini)* - Advancing cost-efficient intelligence
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Text / Models

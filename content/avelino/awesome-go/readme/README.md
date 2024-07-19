@@ -1757,6 +1757,7 @@ additional ordered map implementations.
 
 *   [ardanlabs/service (⭐3.5k)](https://github.com/ardanlabs/service) - A [starter kit (⭐3.5k)](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
 *   [cookiecutter-golang (⭐682)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+*   [go-blueprint (⭐3.1k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
 *   [go-module (⭐29)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 *   [go-sample (⭐130)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐456)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.

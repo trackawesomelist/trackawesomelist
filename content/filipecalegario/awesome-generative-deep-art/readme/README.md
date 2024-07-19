@@ -322,6 +322,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Generative AI Tools Directories
 
+*   [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
+*   [Toolify](https://www.toolify.ai/): AI Tools Directory & AI Tools List
 *   [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
 *   [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
 *   [Altern](https://altern.ai/): "Gateway to AI Discoveries"
@@ -461,6 +463,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [mbzuai-oryx/MobiLlama (⭐563)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
 ## Large Language Models (LLMs)
+
+[microsoft/LMOps (⭐3.4k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐19k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.

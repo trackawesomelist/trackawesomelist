@@ -1,36 +1,182 @@
 # Awesome List Updates on Jul 15 - Jul 21, 2024
 
-30 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Text / Models
+
+*   [GPT-4o Mini](https://altern.ai/ai/gpt-4o-mini) - *[Review on Altern](https://altern.ai/ai/gpt-4o-mini)* - Advancing cost-efficient intelligence
+
+## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+
+### Utils
+
+*   [playwright-magic-steps (⭐1)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
+
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Desktop
+
+*   [darktable](https://www.darktable.org/) - darktable is an open source photography workflow application and raw developer
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐197)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐433)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐317)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+
+### Utilities
+
+*   [bar128-love (⭐1)](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
+*   [love-qrcode (⭐1)](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
+
+### IDEs
+
+*   [Pulsar](https://pulsar-edit.dev/) - Hackable text editor based on the extinct Atom; Has great support and auto-completion works nicely, but for now lacks error highlighting.
+    *   [autocomplete-love (⭐0)](https://github.com/rameshvarun/autocomplete-love) - Auto-complete and snippets for LÖVE.
+    *   [love-ide (⭐56)](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar.
+    *   [language-lua (⭐66)](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files.
+    *   [atom-autocomplete-lua (⭐35)](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua.
+
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### UI Libraries, Components & Templates
+
+*   🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
+
+## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Zig development tools / Messaging
 
 *   [aherrmann/rules\_zig (⭐34)](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig.
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
 *   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 
-## [3. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+### Project Layout
+
+*   [go-blueprint (⭐3.1k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
+
+## [9. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Boilerplates
 
 *   [WXT (⭐3.3k)](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions
 
-## [4. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [10. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / Google
 
 *   [Share Google Slides Control (⭐0)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
-## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   [A Pythonista’s Intro to Semantic Kernel](https://towardsdatascience.com/a-pythonistas-intro-to-semantic-kernel-af5a1a39564d) \[3 Sep 2023]
+
+### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   Use function calling for most tasks; it's more powerful and easier. Stepwise and Handlebars planners will be deprecated [ref](https://learn.microsoft.com/en-us/semantic-kernel/concepts/planning) \[Jun 2024]
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927): a summary detailing the prompting methodology, its applications.🏆Taxonomy of prompt engineering techniques in LLMs. \[5 Feb 2024]
+
+### **LLM Materials for East Asian Languages** / Japanese
+
+*   [コード生成を伴う LLM エージェント](https://speakerdeck.com/smiyawaki0820)  \[18 Jul 2024]
 
 ### **LLM Materials for East Asian Languages** / Korean
 
@@ -40,19 +186,19 @@
 
 *   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 
-## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Deep Learning
 
 *   [stable-baselines3 (⭐8.4k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
-## [7. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [13. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### LaTeX-focused
 
 *   [Texifier](https://www.texifier.com/) - Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg)
 
-## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [14. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
@@ -62,7 +208,7 @@
     Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
     auditing studies and identification of trends in their methodological approaches.*
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -111,7 +257,7 @@
 
 *   [OpenMessaging (⭐287) (⭐286)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [10. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [16. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Interaction
 
@@ -132,7 +278,7 @@
 *   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
 *   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -146,19 +292,19 @@
 
 *   [Meelo (⭐16)](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [pug (⭐278)](https://github.com/leg100/pug) - The terminal user interface for terraform power users.
 
-## [13. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [19. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Searchix](https://searchix.alanpearce.eu/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [20. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Conventions
 
@@ -298,7 +444,7 @@
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 *   [Photogrammetry importer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐872)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -308,7 +454,7 @@
 
 *   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
-## [16. Topics](/content/selvaklnc/topics/week/README.md)
+## [22. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of interesting topics
 
@@ -319,6 +465,7 @@
 
 ### List of public profiles of Selvakumaran Krishnan
 
+*   [Google Scholar](https://scholar.google.com/citations?user=vc-N3msAAAAJ\&hl=en) profile
 *   [Mozilla profile](https://support.mozilla.org/en-US/user/selvaklnc/) of Selvakumaran Krishnan
 *   [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
 *   [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
@@ -345,7 +492,7 @@
 
 *   [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan
 
-## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
@@ -356,7 +503,7 @@
 
 *   [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
 
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -364,6 +511,8 @@
 
 ### Generative AI Tools Directories
 
+*   [ToolList.ai](https://toollist.ai/): AI Tools Aggregator
+*   [Toolify](https://www.toolify.ai/): AI Tools Directory & AI Tools List
 *   [LLM Explorer](https://llm.extractum.io/): A Curated LLM List. Explore LLM List of the Open-Source LLM Models
 *   [OrbicAI](https://orbic.ai/): "The Larget AI Directory, GPT Stores, AWS PartyRocks Apps and Lots of Free AI Tools"
 *   [Altern](https://altern.ai/): "Gateway to AI Discoveries"
@@ -385,54 +534,58 @@
 
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 
-## [20. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### CDP
 
 *   [Sitecore CDP Serializer (⭐3)](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
 
-## [21. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [27. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
 
-## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / AI Assisted Research
 
 *   [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9291969834799338362)]. \[[Preprint](https://arxiv.org/abs/2304.05376)]. This paper introduces ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. The agent autonomously planned and executed the syntheses of an insect repellent and three organocatalysts and guided the discovery of a novel chromophore.
 
-## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [micropb](https://crates.io/crates/micropb): Rust Protobuf library targetting embedded systems and no\_std environments without an allocator. - ![crates.io](https://img.shields.io/crates/v/micropb.svg)
 
-## [24. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
 *   [Program verification with types and logic](https://gitlab.science.ru.nl/program-verification/course-2023-2024) - Lectures and exercise material for a course in programming language semantics, type systems and program logics, using Coq, at Radboud University Nijmegen.
 
-## [25. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [31. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Tools / Incompatible
 
 *   [Tailwind Capacitor (⭐6)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies
 *   [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 
-## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -458,6 +611,10 @@
 
 *   [cryptr-angular (⭐1)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 *   [angular-authentication (⭐213)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
+
+### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-aws-deploy (⭐100)](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -485,7 +642,7 @@
 
 *   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 
-## [27. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [33. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
@@ -495,23 +652,24 @@
 
 *   [passive\_columns (⭐38)](https://github.com/headmandev/passive_columns) - A gem that extends Active Record to retrieve specific columns from DB on demand. [:red\_circle:](https://rubygems.org/gems/passive_columns)
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [OneVM](https://onevm.uk.to/) - KVM VPS, 1 GB RAM, 1 vCore, 15 GB storage, 10 ports + 1 SSH port, 350 mbps ethernet, free 20 hours/day.
 
-## [29. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇮🇷 Iran / Misc
 
 *   Telegram [Persian Flutter](https://t.me/persian_flutter)
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [antidote-use-omz (⭐4)](https://github.com/getantidote/use-omz) - Make using [oh-my-zsh](https://ohmyz.sh/) with [antidote](https://getantidote.github.io/) seamless.
+*   [eza-ls (⭐0)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing \[eza([https://github.com/eza-community/eza (⭐9k)](https://github.com/eza-community/eza))], to act as a drop-in replacement for `ls` and `tree`.
 *   [iterm-tmux-color-tabs (⭐0)](https://github.com/remino/omz-plugin-iterm2-tmux-color-tabs) - Every new `tmux` tab opened in iTerm2 will have the next colour from the default or specified palette.
 *   [printdocker (⭐0)](https://github.com/elvitin/printdocker-zsh-plugin) - Pretty print [docker](https://docker.com) objects.
 *   [shortcuts (⭐3)](https://github.com/fairy-root/Zsh-Shortcuts-Plugin) - Enhance your terminal productivity with the Shortcuts plugin for [oh-my-zsh](https://ohmyz.sh/). Easily manage command shortcuts with robust features.
@@ -532,6 +690,8 @@
 *   [rabbit (⭐0)](https://github.com/Hera-Moon/My-rabbit-Zsh-Theme) - Optimized for `git`. Requires a terminal program that works with unicode. Includes decorators for `git` status, current working directory and the current virtual environment.
 *   [shades of purple (⭐5)](https://github.com/nmcc1212/shades-of-purple-windows-terminal/) - Purple theme for Windows terminal that is reminiscent of [powerline (⭐1.2k)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme).
 *   [thayne (⭐0)](https://github.com/tmccombs/thayne.zsh-theme) - Includes decorators for exit status of last command, time to run if > 1 second, current time, current directory and `git` status. Requires a Nerd Font.
+*   [zero (arlimus) (⭐17)](https://github.com/arlimus/zero.zsh) - Zero's theme & plugin. Has variants for both light and dark terminal backgrounds.
+*   [zero (shirozuki) (⭐0)](https://github.com/shirozuki/zero-zsh-theme) - Minimalistic prompt with decorators for `git` status, current directory, exit status and time to execute of last command run.
 
 ---
 
