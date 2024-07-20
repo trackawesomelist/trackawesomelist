@@ -6,6 +6,16 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Jul 20, 2024](/content/2024/07/20/README.md)
+
+### Third-Party Packages / General
+
+*   [Django-Classy-Doc (⭐12)](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.[https://github.com/nanuxbe/django-classy-doc (⭐12)](https://github.com/nanuxbe/django-classy-doc)
+
+### Third-Party Packages / Templates
+
+*   [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
+
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
 ### Resources / Books

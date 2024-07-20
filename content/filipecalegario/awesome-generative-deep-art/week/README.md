@@ -37,6 +37,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/): a general update on all the "most important" news/repos available
 
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### LLM Evaluation / Multi-agents

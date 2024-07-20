@@ -250,6 +250,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-freeze (⭐94)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 *   [django-nh3 (⭐23)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 *   [Weblate (⭐4.4k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+*   [Django-Classy-Doc (⭐12)](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.[https://github.com/nanuxbe/django-classy-doc (⭐12)](https://github.com/nanuxbe/django-classy-doc)
 
 ### <a id="i18n"></a> Internationalisation (i18n)
 
@@ -355,6 +356,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 *   [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 *   [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
+*   [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
 
 ### Testing
 

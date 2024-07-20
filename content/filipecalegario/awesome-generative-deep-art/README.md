@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 20, 2024](/content/2024/07/20/README.md)
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
+
 ## [Jul 19, 2024](/content/2024/07/19/README.md)
 
 ### Generative AI Tools Directories
