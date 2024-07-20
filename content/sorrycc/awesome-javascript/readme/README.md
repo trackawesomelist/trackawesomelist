@@ -142,6 +142,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [Microbundle (⭐8k)](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 *   [FuseBox (⭐4k)](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 *   [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
+*   [bundle](https://bundle.js.org) - A quick online npm package size checker.
 
 # Minimizers
 
@@ -227,7 +228,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [meteor (⭐44k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
 *   [ractive (⭐5.9k)](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 *   [vue (⭐207k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
-*   [svelte (⭐77k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐78k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 *   [knockout (⭐10k)](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 *   [spine (⭐3.7k)](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 *   [espresso.js (⭐533)](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
@@ -251,15 +252,15 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [feathers (⭐15k)](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 *   [Keo (⭐227)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 *   [atvjs (⭐310)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
-*   [Alpine.js (⭐27k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+*   [Alpine.js (⭐28k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 *   [inferno (⭐16k)](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 *   [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
 *   [Lucia (⭐738)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 *   [Adonis (⭐16k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
 *   [GrapesJS (⭐21k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 *   [Rete.js (⭐9.8k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
-*   [litegraph.js (⭐5.6k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
-*   [Drawflow (⭐4.4k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+*   [litegraph.js (⭐5.7k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+*   [Drawflow (⭐4.5k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 *   [Blockly (⭐12k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 *   [Million (⭐16k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 *   [Whatsup (⭐146)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
@@ -562,7 +563,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
-*   [i18next (⭐7.5k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
+*   [i18next (⭐7.6k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
 *   [polyglot (⭐3.7k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 *   [babelfish (⭐255)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 *   [ttag (⭐336)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
@@ -798,7 +799,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Date Range Picker (⭐11k)](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 *   [Duet Date Picker (⭐1.7k)](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 *   [tui.calendar (⭐12k)](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
-*   [Schedule-X (⭐906)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐919)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ### Select
 
@@ -903,7 +904,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 *   [fluidity (⭐1.1k)](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 *   [Ink (⭐1.9k)](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
-*   [DataFormsJS (⭐184)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+*   [DataFormsJS (⭐185)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 *   [EHTML (⭐222)](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
 ## Boilerplates
@@ -1074,7 +1075,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [How to Write an Open Source JavaScript Library (⭐181)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 *   [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 *   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
-*   [Clean Code JavaScript (⭐90k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Clean Code JavaScript (⭐91k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 # Other Awesome Lists
 
@@ -1082,7 +1083,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
 *   [sindresorhus/awesome (⭐310k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐9.7k)](https://github.com/jnv/lists)
+*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 *   [gianarb/angularjs (⭐2.4k)](https://github.com/gianarb/awesome-angularjs)
 *   [peterkokot/awesome-dojo (⭐83)](https://github.com/peterkokot/awesome-dojo)
 *   [addyosmani/es6-tools (⭐4k)](https://github.com/addyosmani/es6-tools)

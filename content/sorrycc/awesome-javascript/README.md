@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Jul 20, 2024](/content/2024/07/20/README.md)
+
+### Bundlers
+
+*   [bundle](https://bundle.js.org) - A quick online npm package size checker.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Storage / Runner
@@ -16,7 +22,7 @@
 
 ### Form Widgets / Calendar
 
-*   [Schedule-X (⭐906)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐919)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
@@ -322,8 +328,8 @@
 *   [Adonis (⭐16k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
 *   [GrapesJS (⭐21k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 *   [Rete.js (⭐9.8k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
-*   [litegraph.js (⭐5.6k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
-*   [Drawflow (⭐4.4k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+*   [litegraph.js (⭐5.7k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+*   [Drawflow (⭐4.5k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 *   [Blockly (⭐12k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ### Data Visualization / Runner
@@ -551,7 +557,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Alpine.js (⭐27k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+*   [Alpine.js (⭐28k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 
@@ -685,7 +691,7 @@
 
 ### Frameworks / Other
 
-*   [DataFormsJS (⭐184)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+*   [DataFormsJS (⭐185)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
 ## [Feb 23, 2020](/content/2020/02/23/README.md)
 
@@ -725,7 +731,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐77k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐78k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
@@ -733,7 +739,7 @@
 
 ### Misc / Other
 
-*   [Clean Code JavaScript (⭐90k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Clean Code JavaScript (⭐91k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 ## [Nov 29, 2019](/content/2019/11/29/README.md)
 
@@ -941,7 +947,7 @@
 
 ### I18n And L10n / Runner
 
-*   [i18next (⭐7.5k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
+*   [i18next (⭐7.6k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
 
 ### Security / Runner
 
@@ -2294,7 +2300,7 @@
 *   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
 *   [sindresorhus/awesome (⭐310k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐9.7k)](https://github.com/jnv/lists)
+*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)
 

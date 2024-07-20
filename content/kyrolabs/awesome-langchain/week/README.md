@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kyrolabs/awesome-langchain/README.md) / Weekly / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Tools / Services

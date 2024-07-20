@@ -1,12 +1,24 @@
 # Awesome List Updates on Jul 20, 2024
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)
+
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+
+### Bundlers
+
+*   [bundle](https://bundle.js.org) - A quick online npm package size checker.
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / General
 
@@ -16,19 +28,19 @@
 
 *   [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 
-## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Vigilance](https://maxb.fm/vigilance) - Espionage and deceit in a 1950s wizarding world setting, an Ironsworn conversion
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
