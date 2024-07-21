@@ -6,6 +6,27 @@ A curated list of awesome tools, content and projects using k6
 
 [ [Daily](/content/grafana/awesome-k6/README.md) / Weekly / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
+
+### Articles
+
+*   [Open source load testing tool review 2020](https://grafana.com/blog/2020/03/03/open-source-load-testing-tool-review/) - Detailed comparison of the most popular open source load testing tools.
+*   [Load Testing Your API with Postman](https://grafana.com/blog/2020/04/19/load-testing-your-api-with-postman/) - How to use Postman collections to load test your API.
+*   [Load Testing SQL Databases with k6](https://grafana.com/blog/2021/07/14/load-testing-sql-databases/) - How to use the xk6-sql extension to test SQL databases directly.
+
+### Examples/Templates
+
+*   [k6 examples](https://grafana.com/docs/k6/latest/examples/) - A list of common examples on the k6 documentation.
+
+### CI/CD
+
+*   [k6 for CircleCI](https://grafana.com/blog/2022/03/06/load-testing-with-circleci/)
+*   [k6 for GitLab](https://grafana.com/blog/2020/09/27/load-testing-with-gitlab/)
+
+### Extensions
+
+*   [k6 Extensions](https://grafana.com/docs/k6/latest/extensions/)
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Articles
@@ -17,7 +38,7 @@ A curated list of awesome tools, content and projects using k6
 ### Articles
 
 *   [Best practices organizing performance testing projects with k6](https://grafana.com/blog/2024/04/30/organizing-your-grafana-k6-performance-testing-suite-best-practices-to-get-started/) - Guidelines to scale your performance testing across multiple teams and projects.
-    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/).
+    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/) - Stting up your k6 performance testing suite with JavaScript tools, shared libraries, and TypeScript.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -59,23 +80,13 @@ A curated list of awesome tools, content and projects using k6
 *   [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
 *   [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 *   [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
-*   [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
 *   [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
 *   [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
-*   [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
 *   [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
 *   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
 *   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
-
-### Examples/Templates
-
-*   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-
-### Extensions
-
-*   [k6 Extensions](https://k6.io/docs/extensions/)
 
 ### Related
 
@@ -149,9 +160,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Articles
 
-*   [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
 *   [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
-*   [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - How to use Postman collections to load test your API.
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -236,12 +245,6 @@ A curated list of awesome tools, content and projects using k6
 
 *   [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail.
 
-## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
-
-### Articles
-
-*   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
-
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
 ### Tools
@@ -278,7 +281,6 @@ A curated list of awesome tools, content and projects using k6
 
 *   [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 *   [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
-*   [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
 *   [CloudPosse's Load Testing Stack (⭐54)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 
 ### Tools

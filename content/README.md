@@ -37,6 +37,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-view-state (⭐1)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 
+#### [2. Awesome K6](/content/grafana/awesome-k6/README.md)
+
+##### Articles
+
+*   [Open source load testing tool review 2020](https://grafana.com/blog/2020/03/03/open-source-load-testing-tool-review/) - Detailed comparison of the most popular open source load testing tools.
+*   [Load Testing Your API with Postman](https://grafana.com/blog/2020/04/19/load-testing-your-api-with-postman/) - How to use Postman collections to load test your API.
+*   [Load Testing SQL Databases with k6](https://grafana.com/blog/2021/07/14/load-testing-sql-databases/) - How to use the xk6-sql extension to test SQL databases directly.
+
+##### Examples/Templates
+
+*   [k6 examples](https://grafana.com/docs/k6/latest/examples/) - A list of common examples on the k6 documentation.
+
+##### CI/CD
+
+*   [k6 for CircleCI](https://grafana.com/blog/2022/03/06/load-testing-with-circleci/)
+*   [k6 for GitLab](https://grafana.com/blog/2020/09/27/load-testing-with-gitlab/)
+
+##### Extensions
+
+*   [k6 Extensions](https://grafana.com/docs/k6/latest/extensions/)
+
 ### [Jul 20, 2024](/content/2024/07/20/README.md)
 
 
@@ -1058,7 +1079,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 387, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
 - [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 65, 📝 07&#x2F;07 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 676, 📝 03&#x2F;20 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
-- [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 546, 📝 07&#x2F;07 ](https://github.com/grafana/awesome-k6)) - A curated list of awesome tools, content and projects using k6
+- [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 546, 📝 07&#x2F;21 ](https://github.com/grafana/awesome-k6)) - A curated list of awesome tools, content and projects using k6
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 783, 📝 07&#x2F;19 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
 - [Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md) - ([Source ⭐ 2.1K, 📝 07&#x2F;07 ](https://github.com/mojoaxel/awesome-regression-testing)) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md) - ([Source ⭐ 921, 📝 23&#x2F;08&#x2F;01 ](https://github.com/christian-bromann/awesome-selenium)) - A curated list of delightful Selenium resources.

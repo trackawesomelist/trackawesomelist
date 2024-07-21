@@ -21,6 +21,12 @@ A curated list of awesome tools, content and projects using k6
 
 A collection of resources by the community, on (testing with) <a href="https://k6.io/">k6</a>.
 
+<!-- lint disable double-link -->
+
+Contributions are welcome! Read the [contribution guidelines](https://github.com/grafana/awesome-k6/blob/main/README.md/contributing.md) first.
+
+<!-- lint enable double-link -->
+
 </div>
 
 ## Contents
@@ -42,25 +48,23 @@ A collection of resources by the community, on (testing with) <a href="https://k
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 
 *   [Best practices organizing performance testing projects with k6](https://grafana.com/blog/2024/04/30/organizing-your-grafana-k6-performance-testing-suite-best-practices-to-get-started/) - Guidelines to scale your performance testing across multiple teams and projects.
-    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/).
+    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/) - Stting up your k6 performance testing suite with JavaScript tools, shared libraries, and TypeScript.
 
 *   [Distributed load testing with k6](https://feryn.eu/presentations/distributed-load-testing-k6-confoo23) - Thijs Feryn presents in ConFoo Montreal 2023.
 
 *   [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 
-*   [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
-
 *   [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 
-*   [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
+*   [Open source load testing tool review 2020](https://grafana.com/blog/2020/03/03/open-source-load-testing-tool-review/) - Detailed comparison of the most popular open source load testing tools.
 
 *   [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
 
-*   [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - How to use Postman collections to load test your API.
+*   [Load Testing Your API with Postman](https://grafana.com/blog/2020/04/19/load-testing-your-api-with-postman/) - How to use Postman collections to load test your API.
 
 *   [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - How Back Market prepared for Black Friday with k6 based load testing.
 
-*   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
+*   [Load Testing SQL Databases with k6](https://grafana.com/blog/2021/07/14/load-testing-sql-databases/) - How to use the xk6-sql extension to test SQL databases directly.
 
 *   [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail.
 
@@ -117,7 +121,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 ## Examples/Templates
 
-*   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
+*   [k6 examples](https://grafana.com/docs/k6/latest/examples/) - A list of common examples on the k6 documentation.
 *   [k6 QuickPizza examples (⭐53)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 *   [k6-template-es6 (⭐79)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 *   [k6-typescript-template (⭐267)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
@@ -152,32 +156,21 @@ A collection of resources by the community, on (testing with) <a href="https://k
 ## CI/CD
 
 *   [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
-
 *   [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
-
 *   [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
-
 *   [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
-
-*   [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
-
+*   [k6 for CircleCI](https://grafana.com/blog/2022/03/06/load-testing-with-circleci/)
 *   [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
-
 *   [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
-
-*   [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
-
+*   [k6 for GitLab](https://grafana.com/blog/2020/09/27/load-testing-with-gitlab/)
 *   [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
-
 *   [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
-
 *   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
-
 *   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
 
 ## Extensions
 
-*   [k6 Extensions](https://k6.io/docs/extensions/)
+*   [k6 Extensions](https://grafana.com/docs/k6/latest/extensions/)
 *   [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
 ## Related
@@ -188,5 +181,9 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 ## Contributing
 
+<!-- lint disable double-link -->
+
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/grafana/awesome-k6/blob/main/README.md/code_of_conduct.md) and [contribution guidelines](https://github.com/grafana/awesome-k6/blob/main/README.md/contributing.md).
+
+<!-- lint enable double-link -->
 
