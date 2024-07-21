@@ -6,6 +6,25 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 21, 2024](/content/2024/07/21/README.md)
+
+### Community
+
+*   [Angular Discord Channel](https://discord.com/invite/angular)
+*   [angular-memes (⭐34)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
+
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-security (⭐21)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [sba-angular (⭐30)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-view-state (⭐1)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
+
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

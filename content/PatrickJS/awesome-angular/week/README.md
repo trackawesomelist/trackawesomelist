@@ -8,6 +8,11 @@
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
+### Community
+
+*   [Angular Discord Channel](https://discord.com/invite/angular)
+*   [angular-memes (⭐34)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
+
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
@@ -40,6 +45,7 @@
 
 *   [cryptr-angular (⭐1)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 *   [angular-authentication (⭐213)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
+*   [ngx-security (⭐21)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -70,6 +76,7 @@
 
 *   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 *   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+*   [sba-angular (⭐30)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -82,6 +89,10 @@
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [module-federation-plugin (⭐700)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-view-state (⭐1)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
