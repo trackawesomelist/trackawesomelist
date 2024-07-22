@@ -6,6 +6,20 @@
 
 [ [Daily](/content/PatrickJS/awesome-angular/README.md) / Weekly / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular-18-boilerplate (⭐42)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
+
+### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [datagrid (⭐5)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
+
+### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [valibot (⭐5.6k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### Community

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / Weekly / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
+## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
+
+### Scripts / ChatGPT
+
+*   [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### Scripts / Google

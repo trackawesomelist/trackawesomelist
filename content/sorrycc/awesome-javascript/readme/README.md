@@ -172,6 +172,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 *   [ava (⭐21k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 *   [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+*   [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 
 ### Assertion
 
@@ -264,6 +265,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [Blockly (⭐12k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 *   [Million (⭐16k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 *   [Whatsup (⭐146)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+*   [Remult (⭐2.8k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
 ## Node-Powered CMS Frameworks
 
@@ -492,6 +494,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [map-countdown (⭐5)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 *   [dayjs (⭐46k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 *   [luxon (⭐15k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+*   [tempo (⭐2.2k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ## String
 
@@ -664,6 +667,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [bencher (⭐454)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 
@@ -1023,6 +1027,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 *   [Docusaurus (⭐54k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 *   [Next.js (⭐123k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Lume (⭐1.7k)](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ## SDK
 
@@ -1076,13 +1081,14 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 *   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 *   [Clean Code JavaScript (⭐91k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
 # Other Awesome Lists
 
 *   [sotayamashita/awesome-css (⭐4.9k)](https://github.com/sotayamashita/awesome-css)
 *   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐310k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐312k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 *   [gianarb/angularjs (⭐2.4k)](https://github.com/gianarb/awesome-angularjs)
 *   [peterkokot/awesome-dojo (⭐83)](https://github.com/peterkokot/awesome-dojo)

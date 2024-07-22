@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Jul 22, 2024](/content/2024/07/22/README.md)
+
+### Standalone apps / Playground
+
+*   :octocat: [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+
 ## [Jul 13, 2024](/content/2024/07/13/README.md)
 
 ### Libraries / Chrome Extensions

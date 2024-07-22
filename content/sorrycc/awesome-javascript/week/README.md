@@ -6,6 +6,32 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
+
+### Testing Frameworks / Frameworks
+
+*   [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
+
+### MVC Frameworks and Libraries / Runner
+
+*   [Remult (⭐2.8k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+
+### Date / Runner
+
+*   [tempo (⭐2.2k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
+
+### Benchmark / Runner
+
+*   [bencher (⭐454)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+
+### Generators / Other
+
+*   [Lume (⭐1.7k)](https://github.com/lumeland/lume) - Static site generator for Deno.
+
+### Misc / Other
+
+*   [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### Bundlers
@@ -2134,7 +2160,7 @@
 
 *   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐310k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐312k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 
 ## [Jul 14 - Jul 20, 2014](/content/2014/28/README.md)

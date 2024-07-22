@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐4.8k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐310k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐312k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -319,6 +319,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
 *   :octocat: [App Outlet (⭐379)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 *   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+*   :octocat: [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ##### Chrome Extensions
 
