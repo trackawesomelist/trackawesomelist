@@ -2,7 +2,7 @@
 
 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nix-community/awesome-nix/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) · ⭐ 2.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nix-community/awesome-nix/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) · ⭐ 2.9K · 🏷️ Platforms
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / [Weekly](/content/nix-community/awesome-nix/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 > A curated list of the best resources in the Nix community.
 
-[Nix (⭐11k)](https://github.com/nixos/nix) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+[Nix (⭐12k)](https://github.com/nixos/nix) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 *Please read the [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/main/README.md/CONTRIBUTING.md) before contributing.*
 
@@ -33,6 +33,7 @@
     *   [Clojure](#clojure)
     *   [Crystal](#crystal)
     *   [Elm](#elm)
+    *   [Gleam](#gleam)
     *   [Haskell](#haskell)
     *   [Haxe](#haxe)
     *   [Node.js](#nodejs)
@@ -80,9 +81,9 @@
 
 ## Installation Media
 
-*   [nixos-generators (⭐1.6k)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
-*   [nixos-infect (⭐1.2k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
-*   [nixos-up (⭐217)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-generators (⭐1.7k)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
+*   [nixos-infect (⭐1.3k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
+*   [nixos-up (⭐220)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 *   [nix-installer (⭐1.8k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 *   [nix-installer-scripts (⭐89)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
@@ -98,16 +99,16 @@
 
 ## Deployment Tools
 
-*   [bento (⭐218)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
+*   [bento (⭐221)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 *   [Colmena (⭐1.1k)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
-*   [comin (⭐234)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+*   [comin (⭐245)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 *   [deploy-rs (⭐1.2k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-*   [KubeNix (⭐252)](https://github.com/hall/kubenix) - A Kubernetes resource builder using Nix.
-*   [KuberNix (⭐745)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
-*   [morph (⭐744)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
-*   [Nixery (⭐1.7k)](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
-*   [Nixinate (⭐230)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
+*   [KubeNix (⭐253)](https://github.com/hall/kubenix) - A Kubernetes resource builder using Nix.
+*   [KuberNix (⭐747)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
+*   [morph (⭐755)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [Nixery (⭐1.8k)](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+*   [Nixinate (⭐231)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 *   [NixOps (⭐1.8k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 *   [pushnix (⭐31)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 *   [terraform-nixos (⭐318)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
@@ -115,70 +116,71 @@
 
 ## Virtualisation
 
-*   [nixos-shell (⭐590)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
-*   [extra-container (⭐195)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
-*   [microvm (⭐1.1k)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
+*   [nixos-shell (⭐596)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [extra-container (⭐198)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
+*   [microvm (⭐1.2k)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
 ## Command-Line Tools
 
-*   [alejandra (⭐744)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐757)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 *   [comma (⭐1k)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
-*   [deadnix (⭐445)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
-*   [devenv (⭐3.7k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
-*   [manix (⭐337)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
-*   [nh (⭐679)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
-*   [nixfmt (⭐686)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
-*   [nixpkgs-fmt (⭐572)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
-*   [nixpkgs-hammering (⭐241)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
-*   [nix-alien (⭐456)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
-*   [nix-diff (⭐326)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
-*   [nix-du (⭐315)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
-*   [nix-index (⭐780)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-init (⭐777)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
-*   [nix-melt (⭐202)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
-*   [nix-output-monitor (⭐743)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
-*   [nix-prefetch (⭐115)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
-*   [nix-tree (⭐656)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
-*   [nurl (⭐416)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [deadnix (⭐447)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [devenv (⭐3.8k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
+*   [manix (⭐341)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+*   [nh (⭐730)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
+*   [nixfmt (⭐712)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixpkgs-fmt (⭐577)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nixpkgs-hammering (⭐242)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
+*   [nix-alien (⭐469)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-diff (⭐327)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
+*   [nix-du (⭐318)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+*   [nix-index (⭐788)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
+*   [nix-init (⭐796)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-melt (⭐204)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-output-monitor (⭐764)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
+*   [nix-prefetch (⭐116)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
+*   [nix-tree (⭐665)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nurl (⭐420)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 *   [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
-*   [statix (⭐537)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐545)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ## Development
 
-*   [attic (⭐856)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
-*   [Arion (⭐600)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
-*   [cached-nix-shell (⭐194)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
+*   [attic (⭐875)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
+*   [Arion (⭐606)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+*   [cached-nix-shell (⭐195)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 *   [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
-*   [Devbox (⭐7.8k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
+*   [Devbox (⭐8k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
 *   [devshell (⭐1.2k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [dream2nix (⭐921)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [flake.parts (⭐671)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
+*   [dream2nix (⭐933)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [flake.parts (⭐690)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 *   [flake-utils (⭐1.1k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
-*   [flake-utils-plus (⭐461)](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
-*   [flakelight (⭐177)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
+*   [flake-utils-plus (⭐471)](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
+*   [flakelight (⭐178)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
 *   [flox (⭐2.2k)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
-*   [gitignore.nix (⭐241)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
-*   [haumea (⭐261)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
-*   [lorri (⭐639)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+*   [gitignore.nix (⭐242)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
+*   [haumea (⭐268)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
+*   [lorri (⭐648)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 *   [namaka (⭐101)](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 *   [nil (⭐1.2k)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 *   [niv (⭐1.5k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
 *   [nix-direnv (⭐1.6k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-*   [nix-health (⭐26)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
-*   [nix-update (⭐420)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
-*   [nixd (⭐717)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
-*   [nixpkgs-review (⭐351)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
-*   [pre-commit-hooks.nix (⭐466)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
-*   [rnix-lsp (⭐697)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
-*   [robotnix (⭐592)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
-*   [services-flake (⭐292)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
-*   [Snowfall Lib (⭐331)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
-*   [templates (⭐48)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+*   [nix-health (⭐28)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
+*   [nix-update (⭐424)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
+*   [nixd (⭐731)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+*   [nixpkgs-review (⭐356)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
+*   [pre-commit-hooks.nix (⭐471)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [rnix-lsp (⭐698)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [robotnix (⭐598)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+*   [services-flake (⭐302)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
+*   [Snowfall Lib (⭐346)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
+*   [templates (⭐49)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
 
 ## DevOps
 
-*   [Makes (⭐418)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
-*   [Standard (⭐374)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Makes (⭐420)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [nixidy (⭐34)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
+*   [Standard (⭐377)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## Programming Languages
 
@@ -198,23 +200,27 @@
 
 *   [elm2nix (⭐107)](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
 
+### Gleam
+
+*   [nix-gleam (⭐9)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
+
 ### Haskell
 
 *   [cabal2nix (⭐352)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell-flake (⭐128)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
-*   [haskell.nix (⭐536)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [haskell-flake (⭐132)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
+*   [haskell.nix (⭐540)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 *   [nix-haskell-mode (⭐28)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐85)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nixkell (⭐87)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Haxe
 
-*   [haxix (⭐1)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
+*   [haxix (⭐2)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 *   [kebab (⭐0)](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
 ### Node.js
 
-*   [Napalm (⭐104)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
-*   [node2nix (⭐506)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
+*   [Napalm (⭐105)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
+*   [node2nix (⭐508)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 *   [npmlock2nix (⭐130)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 
 ### OCaml
@@ -224,35 +230,35 @@
 ### PHP
 
 *   [composer2nix (⭐89)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
-*   [composer-plugin-nixify (⭐13)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
+*   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
 *   [composition-c4 (⭐10)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
 *   [nix-phps (⭐59)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
-*   [nix-shell (⭐135)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐136)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### PureScript
 
-*   [Easy PureScript Nix (⭐191)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
+*   [Easy PureScript Nix (⭐192)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
 *   [purs-nix (⭐70)](https://github.com/purs-nix/purs-nix) - CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.
 
 ### Python
 
-*   [poetry2nix (⭐776)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+*   [poetry2nix (⭐792)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
 
 ### Ruby
 
 *   [Bundix (⭐160)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
-*   [ruby-nix (⭐104)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐105)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
 ### Rust
 
-*   [cargo2nix (⭐342)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
-*   [crane (⭐806)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
-*   [fenix (⭐611)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [naersk (⭐669)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+*   [cargo2nix (⭐345)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
+*   [crane (⭐815)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [fenix (⭐618)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [naersk (⭐675)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 *   [nix-cargo-integration (⭐174)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
-*   [nixpkgs-mozilla (⭐509)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [nixpkgs-mozilla (⭐511)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 *   [rust-nix-templater (⭐49)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
-*   [rust-overlay (⭐818)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [rust-overlay (⭐824)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Scala
 
@@ -260,27 +266,28 @@
 
 ### Zig
 
-*   [zon2nix (⭐62)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zon2nix (⭐64)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
 
-*   [base16.nix (⭐168)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐509)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
-*   [Home Manager (⭐6.3k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-*   [musnix (⭐484)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
-*   [nixcloud-webservices (⭐172)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
+*   [base16.nix (⭐170)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐518)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [Home Manager (⭐6.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
+*   [nix-darwin (⭐2.5k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [musnix (⭐493)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+*   [nixcloud-webservices (⭐174)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 *   [NixVim (⭐1.4k)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
-*   [Stylix (⭐909)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+*   [Stylix (⭐946)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 *   [nix-bitcoin (⭐470)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
-*   [nix-topology (⭐402)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
-*   [impermanence (⭐999)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
+*   [nix-topology (⭐420)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+*   [impermanence (⭐1k)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## NixOS Configuration Editors
 
 ### Desktop apps
 
-*   [NixOS Configuration Editor (⭐454)](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
-*   [Nix Software Center (⭐524)](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
+*   [NixOS Configuration Editor (⭐459)](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
+*   [Nix Software Center (⭐532)](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
 
 ### Webinterface
 
@@ -289,16 +296,15 @@
 ## Overlays
 
 *   [awesome-nix-hpc (⭐64)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-*   [chaotic-nyx (⭐258)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
-*   [nix-darwin (⭐2.4k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [chaotic-nyx (⭐271)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 *   [nixpkgs-firefox-darwin (⭐41)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
-*   [nixpkgs-wayland (⭐492)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
+*   [nixpkgs-wayland (⭐494)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 *   [NUR (⭐1.2k)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
-*   [System Manager (⭐600)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
+*   [System Manager (⭐614)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
 ## Distributions
 
-*   [NixNG (⭐226)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+*   [NixNG (⭐229)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
 
 ## Community
 
