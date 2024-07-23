@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 23, 2024](/content/2024/07/23/README.md)
+
+### Monitoring
+
+*   [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
+
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
 ### Low-code Platform

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 23, 2024](/content/2024/07/23/README.md)
+
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-clerk (⭐14)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-loading-buttons (⭐14)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -43,7 +53,7 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-shiki-magic-move (⭐1)](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki (⭐9.2k)](https://github.com/shikijs/shiki).
+*   [angular-shiki-magic-move (⭐1)](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki (⭐9.3k)](https://github.com/shikijs/shiki).
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -197,7 +207,7 @@
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngentest (⭐143)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
+*   [ngentest (⭐144)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -205,7 +215,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [nglrx/pipes (⭐13)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
+*   [nglrx/pipes (⭐14)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 *   [ng-helpers (⭐6)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -218,7 +228,7 @@
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [gridstack (⭐6.2k)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
+*   [gridstack (⭐6.4k)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -292,7 +302,7 @@
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-filepond (⭐196)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
+*   [ngx-filepond (⭐197)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -511,7 +521,7 @@
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [renovate-config-angular (⭐0)](https://github.com/d-koppenhagen/renovate-config-angular) - Angular shareable config for [Renovate](https://www.mend.io/renovate/).
-*   [ngx-grapesjs (⭐9)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
+*   [ngx-grapesjs (⭐12)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 *   [gojs-angular (⭐60)](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -530,12 +540,12 @@
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-code-input (⭐174)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
+*   [angular-code-input (⭐175)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [infinite-viewer (⭐279)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
-*   [ngx-doc-viewer (⭐49)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
+*   [infinite-viewer (⭐283)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
+*   [ngx-doc-viewer (⭐50)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -833,13 +843,13 @@
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [fluent-form (⭐45)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
-*   [ng-signal-forms (⭐103)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
-*   [ngx-sub-form (⭐316)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+*   [ng-signal-forms (⭐106)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+*   [ngx-sub-form (⭐315)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 *   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-valdemort (⭐197)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+*   [ngx-valdemort (⭐198)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
 *   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
     Angular 7+ Validator, a library handle validation messages easy and automatic.
 *   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
@@ -848,7 +858,7 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [rxweb (⭐402)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+*   [rxweb (⭐403)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
 *   [jsonforms (⭐2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 *   [ngspot (⭐24)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 
@@ -1117,16 +1127,16 @@
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-modal-ease (⭐13)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
-*   [ngx-smart-modal (⭐322)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+*   [ngx-smart-modal (⭐323)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-clarity (⭐317)](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
+*   [ng-clarity (⭐320)](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
 *   [ngx-semantic (⭐5)](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
 
 ### Node Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-vflow (⭐87)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+*   [ngx-vflow (⭐104)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 ## [May 04, 2024](/content/2024/05/04/README.md)
 
@@ -1150,15 +1160,15 @@
 
 *   [transloco (⭐2k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
 *   [ngx-tolgee (⭐219)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-*   [localess (⭐32)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
+*   [localess (⭐33)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 *   [typesafe-i18n (⭐2.2k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 *   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
-*   [I18N (⭐71)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
-*   [ng-extract-i18n-merge (⭐163)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
+*   [I18N (⭐72)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
+*   [ng-extract-i18n-merge (⭐165)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
 *   [ng-translate (⭐8)](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).
 *   [ngxe (⭐5)](https://github.com/navix/ngxe) - Angular 11.1+ JSON Translations Editor.
 *   [ngx-translate (⭐4.5k)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
-*   [ngx-translate-module-loader (⭐33)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
+*   [ngx-translate-module-loader (⭐32)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 *   [ngx-translate-multi-http-loader (⭐74)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 
 ## [May 03, 2024](/content/2024/05/03/README.md)
@@ -1765,9 +1775,9 @@
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-icons (⭐319)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
-*   [primeicons (⭐249)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
-*   [angular-svg-icon (⭐247)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+*   [ng-icons (⭐324)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐253)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐250)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1775,7 +1785,7 @@
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [David UI Angular (⭐58)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+*   [David UI Angular (⭐61)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
