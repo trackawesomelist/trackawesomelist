@@ -12,6 +12,10 @@
 
 *   [Neon (⭐4)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
+### Decentralized Systems
+
+*   [Tor (⭐6)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Platforms

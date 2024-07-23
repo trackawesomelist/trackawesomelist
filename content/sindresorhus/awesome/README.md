@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Jul 23, 2024](/content/2024/07/23/README.md)
+
+### Decentralized Systems
+
+*   [Tor (⭐6)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
 ### Databases
