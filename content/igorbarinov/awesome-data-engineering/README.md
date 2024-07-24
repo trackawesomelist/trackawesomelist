@@ -6,6 +6,12 @@ A curated list of data engineering tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [Jul 24, 2024](/content/2024/07/24/README.md)
+
+### Stream Processing
+
+*   [SwimOS (⭐30)](https://github.com/swimos/swim-rust) - A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.
+
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
 ### Testing / Data Profiler
@@ -50,7 +56,7 @@ A curated list of data engineering tools for software developers
 
 ### Data Comparison
 
-*   [datacompy (⭐420)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
+*   [datacompy (⭐438)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
 ## [Mar 27, 2024](/content/2024/03/27/README.md)
 
