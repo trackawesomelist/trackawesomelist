@@ -31,14 +31,14 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) list **for software developers to transition to an engineering management role**. Compiles advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 *   You're a developer and wonders what it feels like to be a manager?
 *   You just started your first position as the leader of a team?
 *   You're stuck into the day-to-day operations of the job?
 *   How can I move up to the next level?
 
-You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices. It will bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advice. It will bootstrap your journey into the management career track, from a technical background.
 
 This list helps in the transition to management, with a progression from general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we details the day-to-day tools of the trade, both organizational and behavioral. At last we discuss some of the dark sides of the job.
 
@@ -165,7 +165,7 @@ You got the title and the pay grade. Congratulation! This doesn't make you a man
 
 *   [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
 
-*   [Paper we love: Software Engineering Organizations (⭐84k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+*   [Paper we love: Software Engineering Organizations (⭐85k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 *   [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
@@ -235,7 +235,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 *   [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956) - 122 aphorisms providind insights into NASA project management success. Covers design, decision-making, managing staff, working with superiors and contractors.
 
-*   [Engineering Manager Resources (⭐10k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
+*   [Engineering Manager Resources (⭐11k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
 *   [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “A lot of the work of an EM is wading into the slurry pit with a shovel so your team are free to get the job done”.
 
@@ -287,7 +287,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 *   [Awesome Job Boards (⭐1.3k)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
-*   [Hiring Without Whiteboards (⭐42k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐43k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 ### Hiring Process
 
@@ -297,11 +297,11 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 *   [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
 
-*   [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
+*   [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advice and example, but containing a good description of a typical hiring pipeline.
 
 *   [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
-*   [Open Sourced Interview Process (⭐402)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐409)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
@@ -315,7 +315,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 *   [Back-End Developer Interview Questions (⭐15k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 
-*   [Engineering Leadership Interviews (⭐132)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐143)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 *   [Reverse interview (⭐27k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
@@ -343,7 +343,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 *   [FizzBuzz Enterprise Edition (⭐21k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
 
-*   [Awesome Interviews (⭐68k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Negotiation
 
@@ -443,7 +443,7 @@ Expansive lists of well-known models and concepts.
 
 *   [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
-*   [Awesome Concepts (⭐484)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
+*   [Awesome Concepts (⭐490)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 *   [UX Core](https://keepsimple.io/uxcore) - 105 cognitive biases with simple descriptions, brief and detailed examples.
 
@@ -599,7 +599,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 *   [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
 
-*   [Awesome Remote Job (⭐28k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐29k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ## Meetings
 
@@ -659,7 +659,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 *   [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
 
-*   [How to exit vim, the Product Manager way (⭐6.8k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐7k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
 
@@ -857,7 +857,7 @@ The various forms of technical writing, their structure and target audience.
 
 ### Writing
 
-General advices on how to convey meaning and clarity by mastering the style. If badly written, your documentation is likely to have poor usage and utility.
+General advice on how to convey meaning and clarity by mastering the style. If badly written, your documentation is likely to have poor usage and utility.
 
 *   [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
 
@@ -883,7 +883,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 
 ### Style
 
-Once you have the right structure and content thanks to advices above, you can now copy-edit and fine tune your style with the tools below.
+Once you have the right structure and content thanks to advice above, you can now copy-edit and fine tune your style with the tools below.
 
 *   [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
 
@@ -1168,6 +1168,8 @@ Sometimes, you just have to call it quits.
 *   “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an opportunity for great new ventures.
 
 *   “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
+
+*   [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
 *   [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 
