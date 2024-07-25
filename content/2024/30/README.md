@@ -1,24 +1,76 @@
 # Awesome List Updates on Jul 22 - Jul 28, 2024
 
-27 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
+
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
+*   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
+
+### **LLM Evalution Benchmarks** / Language Understanding and QA
+
+*   [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
+*   [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
+*   [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
+
+### **LLM Evalution Benchmarks** / Coding
+
+*   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
+*   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
+*   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
+*   [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
+
+### **LLM Evalution Benchmarks** / Chatbot Assistance
+
+*   [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
+*   [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
+    \- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
+
+### **LLM Evalution Benchmarks** / Reasoning
+
+*   [HellaSwag (⭐168)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
+*   [ARC (AI2 Reasoning Challenge) (⭐3.1k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
+*   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
+*   [LogicQA (⭐102)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
+
+### **LLM Evalution Benchmarks** / Translation
+
+*   [WMT](https://huggingface.co/wmt): Evaluates translation skills.
+
+### **LLM Evalution Benchmarks** / Math
+
+*   [MATH (⭐786)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
+*   [GSM8K (⭐950)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@mistjs/vite-plugin-px2viewport (⭐7)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
+
+## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
 *   [vvvv](https://visualprogramming.net/) \[Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Feed Readers
 
 *   [Fusion (⭐682)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
 
-## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Support Communities
 
@@ -209,13 +261,13 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
-## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Maps
 
 *   [esri-svelte (⭐14)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -227,25 +279,29 @@ Language: English \ <br>
 *   [hietan (⭐0)](https://github.com/Hietan/Hietan_ZshTheme) - Includes decorators for current directory, date & time, `git` status and the exit value of the last command run. Requires a Nerd Font.
 *   [sunrise (⭐0)](https://github.com/tech8i/zsh_sunrise) - Includes decorators for battery status, current directory, date and time.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
 *   [ChurchTao/clipboard-rs (⭐30)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
 
-## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+### Libraries / Data streaming
+
+*   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
+
+## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Exits / Burnout
 
 *   [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
-## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [SwimOS (⭐30)](https://github.com/swimos/swim-rust) \[Rust] - A framework for building real-time streaming data processing applications written in Rust.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -301,19 +357,19 @@ Language: English \ <br>
 *   [NDJSON (⭐649) (⭐649)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐331) (⭐331)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [10. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [12. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [DataHawk](https://www.datahawk.co/) - An end-to-end platform, with full data control, intuitive dashboards and AI-powered guidance and automation.
 
-## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [13. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset that can indicate if a specific APK package was compromised in an Infostealer malware attack.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -323,13 +379,13 @@ Language: English \ <br>
 
 *   [knx (⭐2)](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / System Related Tools
 
 *   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alienator88/Pearcleaner)
 
-## [14. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [16. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Developer tools and frameworks
 
@@ -343,7 +399,7 @@ Language: English \ <br>
 
 *   [Hidden Lake (⭐210)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
-## [15. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -353,7 +409,7 @@ Language: English \ <br>
 
 *   [Tricks in Coq (⭐484)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -371,13 +427,17 @@ Language: English \ <br>
 
 *   [godump (⭐132)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
 
-## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [tlm (⭐1.1k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
+
+## [19. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Fitness trackers
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) - A free and cloudless replacement for your gadget vendors' closed source Android applications.
 
-## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### DevOps / Discovery
 
@@ -387,7 +447,7 @@ Language: English \ <br>
 
 *   [nix-gleam (⭐9)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -401,7 +461,11 @@ Language: English \ <br>
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Security and PKI
+
+*   [Altcha.org](https://altcha.org/anti-spam) - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.
 
 ### Monitoring
 
@@ -424,7 +488,7 @@ Language: English \ <br>
 
 *   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 
-## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
@@ -434,7 +498,7 @@ Language: English \ <br>
 
 *   [Tor (⭐6)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
-## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -445,7 +509,11 @@ Language: English \ <br>
 
 *   [Visual Studio 2022 Preview release notes](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#blazorwasmdebuggerimprovements) - July 9, 2024 - This release focuses on quality-of-life enhancements for all developers and workloads. When you use Visual Studio, you want to feel empowered and productive. That's why quality-of-life features are so important: they make coding a smooth and enjoyable experience, free of unnecessary hassles and headaches. We hope you'll love this update.
 
-## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 ### Web Development / Diagnostics
 
@@ -455,7 +523,15 @@ Language: English \ <br>
 
 *   [0xstepit/flow.nvim (⭐74)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+### Media / Diagnostics
+
+*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+
+### Utility / Diagnostics
+
+*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
+
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -481,13 +557,13 @@ Language: English \ <br>
 
 *   [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
-## [25. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [27. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / ChatGPT
 
 *   [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 
-## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -541,7 +617,7 @@ Language: English \ <br>
 
 *   [valibot (⭐5.7k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
-## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [29. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 

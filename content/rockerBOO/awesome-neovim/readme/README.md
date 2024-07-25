@@ -172,6 +172,7 @@ Collections of awesome neovim plugins.
 *   [luckasRanarison/clear-action.nvim (⭐107)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 *   [rachartier/tiny-inline-diagnostic.nvim (⭐159)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 *   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 #### LSP Installer
 
@@ -698,6 +699,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [3rd/image.nvim (⭐848)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 *   [adelarsq/image\_preview.nvim (⭐135)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 *   [niuiic/code-shot.nvim (⭐59)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
 
 ## Note Taking
 
@@ -807,6 +809,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ysmb-wtsg/in-and-out.nvim (⭐29)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 *   [ChuufMaster/buffer-vacuum (⭐9)](https://github.com/ChuufMaster/buffer-vacuum) - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
 *   [mong8se/buffish.nvim (⭐4)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
+*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
 ### CSV Files
 
@@ -939,7 +942,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Dependency Management
 
 *   [vuki656/package-info.nvim (⭐460)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐806)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/telescope-import.nvim (⭐166)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## Git
@@ -1301,7 +1304,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### OS-specific
 
-*   [chrisgrieser/alfred-neovim-utilities (⭐32)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
+*   [chrisgrieser/alfred-neovim-utilities (⭐32)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
 *   [massix/termux.nvim (⭐21)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 *   [m15a/flake-awesome-neovim-plugins (⭐43)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 

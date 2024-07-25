@@ -8,9 +8,21 @@ Collections of awesome neovim plugins.
 
 ## [Jul 25, 2024](/content/2024/07/25/README.md)
 
+### (requires Neovim 0.5)
+
+*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
+
 ### Web Development / Diagnostics
 
 *   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+
+### Media / Diagnostics
+
+*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+
+### Utility / Diagnostics
+
+*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
@@ -1315,7 +1327,7 @@ Collections of awesome neovim plugins.
 
 ### OS-specific / Diagnostics
 
-*   [chrisgrieser/alfred-neovim-utilities (⭐32)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
+*   [chrisgrieser/alfred-neovim-utilities (⭐32)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
 
 ## [Sep 23, 2023](/content/2023/09/23/README.md)
 
@@ -3033,7 +3045,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐806)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 

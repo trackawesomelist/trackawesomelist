@@ -800,7 +800,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [rust-lang/rust-enhanced (⭐775)](https://github.com/rust-lang/rust-enhanced) - official Rust package
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐806)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐628)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 *   Visual Studio
@@ -1120,8 +1120,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 \[[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
 *   [arkworks-rs/circom-compat (⭐227)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
-*   [briansmith/ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
-*   [briansmith/webpki (⭐457)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
+*   [briansmith/ring (⭐3.7k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+*   [briansmith/webpki (⭐458)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
 *   [conradkleinespel/rooster (⭐151)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] - Simple password manager to use in your terminal
 *   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 *   [DaGenix/rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - cryptographic algorithms
@@ -1160,6 +1160,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [ArroyoSystems/arroyo (⭐3.5k)](https://github.com/ArroyoSystems/arroyo) - High-performance real-time analytics in Rust and SQL [![CI](https://github.com/ArroyoSystems/arroyo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ArroyoSystems/arroyo/actions)
 *   [iggy-rs/iggy (⭐1.8k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
 *   [infinyon/fluvio (⭐2.8k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
+*   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
 
 ### Data structures
 
@@ -1708,7 +1709,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 \[[scripting](https://crates.io/keywords/scripting)]
 
 *   [3body-lang (⭐171)](https://github.com/rustq/3body-lang) - The Three Body Language
-*   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
+*   [clarkmcc/cel-rust (⭐342)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 *   [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language. (⭐501)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 *   [fleabitdev/gamelisp (⭐391)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
 *   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
@@ -1867,6 +1868,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [iddm/urlshortener-rs (⭐49)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
     *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐1.8k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
+    *   [swimos/ratchet (⭐19)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
     *   [vi/websocat (⭐6.8k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## Registries

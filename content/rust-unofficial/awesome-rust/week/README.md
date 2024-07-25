@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [ChurchTao/clipboard-rs (⭐30)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
 
+### Libraries / Data streaming
+
+*   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Applications / Security tools
@@ -24,7 +28,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Scripting
 
-*   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
+*   [clarkmcc/cel-rust (⭐342)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -2035,6 +2039,7 @@ A curated list of Rust code and resources.
     *   [iddm/urlshortener-rs (⭐49)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
     *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐1.8k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
+    *   [swimos/ratchet (⭐19)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
     *   [vi/websocat (⭐6.8k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
@@ -2898,8 +2903,8 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [briansmith/ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
-*   [briansmith/webpki (⭐457)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
+*   [briansmith/ring (⭐3.7k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+*   [briansmith/webpki (⭐458)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
 *   [DaGenix/rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - cryptographic algorithms
 *   [exonum/exonum (⭐1.2k)](https://github.com/exonum/exonum) \[[exonum](https://crates.io/crates/exonum)] - extensible framework for blockchain projects
 *   [libOctavo/octavo (⭐140)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
@@ -3191,7 +3196,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐801)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐806)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐628)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 

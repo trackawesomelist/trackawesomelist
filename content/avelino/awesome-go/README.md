@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 25, 2024](/content/2024/07/25/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [tlm (⭐1.1k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
+
 ## [Jul 23, 2024](/content/2024/07/23/README.md)
 
 ### Configuration

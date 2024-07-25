@@ -1,24 +1,94 @@
 # Awesome List Updates on Jul 25, 2024
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
+
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
+*   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
+
+### **LLM Evalution Benchmarks** / Language Understanding and QA
+
+*   [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
+*   [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
+*   [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
+
+### **LLM Evalution Benchmarks** / Coding
+
+*   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
+*   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
+*   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
+*   [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
+
+### **LLM Evalution Benchmarks** / Chatbot Assistance
+
+*   [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
+*   [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
+    \- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
+
+### **LLM Evalution Benchmarks** / Reasoning
+
+*   [HellaSwag (⭐168)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
+*   [ARC (AI2 Reasoning Challenge) (⭐3.1k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
+*   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
+*   [LogicQA (⭐102)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
+
+### **LLM Evalution Benchmarks** / Translation
+
+*   [WMT](https://huggingface.co/wmt): Evaluates translation skills.
+
+### **LLM Evalution Benchmarks** / Math
+
+*   [MATH (⭐786)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
+*   [GSM8K (⭐950)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [tlm (⭐1.1k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Data streaming
+
+*   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
+
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Security and PKI
+
+*   [Altcha.org](https://altcha.org/anti-spam) - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@mistjs/vite-plugin-px2viewport (⭐7)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
+
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
 *   [vvvv](https://visualprogramming.net/) \[Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Feed Readers
 
 *   [Fusion (⭐682)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
 
-## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [8. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Support Communities
 
@@ -209,13 +279,13 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
-## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Maps
 
 *   [esri-svelte (⭐14)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -231,13 +301,25 @@ Language: English \ <br>
 
 *   [Genezio (⭐460)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### (requires Neovim 0.5)
+
+*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 ### Web Development / Diagnostics
 
 *   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+### Media / Diagnostics
+
+*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+
+### Utility / Diagnostics
+
+*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
+
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
