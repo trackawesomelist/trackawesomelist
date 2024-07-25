@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 25, 2024](/content/2024/07/25/README.md)
+
+### Web Development / Diagnostics
+
+*   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
@@ -34,11 +40,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [sontungexpt/better-diagnostic-virtual-text (⭐8)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
+*   [sontungexpt/better-diagnostic-virtual-text (⭐45)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [OXY2DEV/markview.nvim (⭐567)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
+*   [OXY2DEV/markview.nvim (⭐667)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
 
 ## [Jul 06, 2024](/content/2024/07/06/README.md)
 

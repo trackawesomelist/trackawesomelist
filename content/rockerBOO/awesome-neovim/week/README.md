@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
+### Web Development / Diagnostics
+
+*   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [0xstepit/flow.nvim (⭐74)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
@@ -26,11 +30,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [sontungexpt/better-diagnostic-virtual-text (⭐8)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
+*   [sontungexpt/better-diagnostic-virtual-text (⭐45)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [OXY2DEV/markview.nvim (⭐567)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
+*   [OXY2DEV/markview.nvim (⭐667)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
 
 ### Indent / Diagnostics
 
