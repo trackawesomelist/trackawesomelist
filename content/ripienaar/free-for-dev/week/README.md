@@ -32,6 +32,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
+*   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 

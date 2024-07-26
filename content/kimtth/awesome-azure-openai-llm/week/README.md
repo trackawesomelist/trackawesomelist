@@ -12,6 +12,14 @@
 
 *   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
 
+### **Other techniques and LLM patterns** / **Llama Finetuning**
+
+*   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
+
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
+
 ### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
@@ -103,7 +111,7 @@
 ### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) A persona-driven data synthesis methodology using Text-to-Persona and Persona-to-Persona. \[28 Jun 2024]
-*   [RouteLLM (⭐1.3k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
+*   [RouteLLM (⭐2.4k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 

@@ -59,6 +59,34 @@ Language: English
 
 *   [Get Started with MicroPython on Raspberry Pi Pico 2nd Edition](https://store.rpipress.cc/collections/books/products/get-started-with-micropython-on-raspberry-pi-pico-2nd-edition) - By Gareth Halfacree and Ben Everard. ISBN 9781912047291.
 
+#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Resource / Diagnostics
+
+*   [Nvim-training (⭐17)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+
+#### [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Other Free Resources
+
+*   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
+
+#### [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Python
+
+*   [polars-ml (⭐2)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
+
+#### [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **Other techniques and LLM patterns** / **Llama Finetuning**
+
+*   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
+
+##### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
+
 ### [Jul 25, 2024](/content/2024/07/25/README.md)
 
 
@@ -93,95 +121,25 @@ Language: English
 
 *   [vvvv](https://visualprogramming.net/) \[Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 
-#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5)
-
-*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
-
-##### Web Development / Diagnostics
-
-*   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
-
-##### Media / Diagnostics
-
-*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
-
-##### Utility / Diagnostics
-
-*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
-
-#### [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Framework-agnostic Plugins / Integrations
 
 *   [@mistjs/vite-plugin-px2viewport (⭐7)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
 
-#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Security and PKI
-
-*   [Altcha.org](https://altcha.org/anti-spam) - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.
-
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Data streaming
 
 *   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
 
-#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [tlm (⭐1.1k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
 
-#### [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-##### **Semantic Kernel** / **Semantic Kernel Planner**
-
-*   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
-
-##### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
-*   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
-
-##### **LLM Evalution Benchmarks** / Language Understanding and QA
-
-*   [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
-*   [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
-*   [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
-
-##### **LLM Evalution Benchmarks** / Coding
-
-*   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
-*   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
-*   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
-*   [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
-
-##### **LLM Evalution Benchmarks** / Chatbot Assistance
-
-*   [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
-*   [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
-    \- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
-
-##### **LLM Evalution Benchmarks** / Reasoning
-
-*   [HellaSwag (⭐168)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
-*   [ARC (AI2 Reasoning Challenge) (⭐3.1k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
-*   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
-*   [LogicQA (⭐102)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
-
-##### **LLM Evalution Benchmarks** / Translation
-
-*   [WMT](https://huggingface.co/wmt): Evaluates translation skills.
-
-##### **LLM Evalution Benchmarks** / Math
-
-*   [MATH (⭐786)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
-*   [GSM8K (⭐950)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
-
-#### [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -197,7 +155,7 @@ Language: English
 
 *   [Genezio (⭐460)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
-#### [12. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+#### [9. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 ### Support Communities
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/devcord.webp">
@@ -387,6 +345,76 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
+#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
+
+##### Web Development / Diagnostics
+
+*   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+
+##### Media / Diagnostics
+
+*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+
+##### Utility / Diagnostics
+
+*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
+
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Security and PKI
+
+*   [Altcha.org](https://altcha.org/anti-spam) - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.
+
+#### [12. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **Semantic Kernel** / **Semantic Kernel Planner**
+
+*   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
+
+##### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
+*   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
+
+##### **LLM Evalution Benchmarks** / Language Understanding and QA
+
+*   [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
+*   [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
+*   [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
+
+##### **LLM Evalution Benchmarks** / Coding
+
+*   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
+*   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
+*   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
+*   [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
+
+##### **LLM Evalution Benchmarks** / Chatbot Assistance
+
+*   [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
+*   [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
+    \- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
+
+##### **LLM Evalution Benchmarks** / Reasoning
+
+*   [HellaSwag (⭐168)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
+*   [ARC (AI2 Reasoning Challenge) (⭐3.1k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
+*   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
+*   [LogicQA (⭐102)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
+
+##### **LLM Evalution Benchmarks** / Translation
+
+*   [WMT](https://huggingface.co/wmt): Evaluates translation skills.
+
+##### **LLM Evalution Benchmarks** / Math
+
+*   [MATH (⭐786)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
+*   [GSM8K (⭐950)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
+
 ### [Jul 24, 2024](/content/2024/07/24/README.md)
 
 
@@ -505,13 +533,13 @@ Language: English \ <br>
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 188K 📝 07&#x2F;25 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 126K 📝 07&#x2F;25 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 212K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 07&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 07&#x2F;26 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 73K 📝 07&#x2F;23 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K 📝 07&#x2F;25 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 8. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 33K 📝 07&#x2F;22 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 9. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 52K 📝 07&#x2F;15 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 57K 📝 07&#x2F;14 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-11. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;25 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+11. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 07&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 12. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 324K 📝 06&#x2F;24 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 13. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 07&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 14. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 07&#x2F;25 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
@@ -756,7 +784,7 @@ Language: English \ <br>
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;25 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -916,7 +944,7 @@ Language: English \ <br>
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 290, 📝 07&#x2F;25 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 290, 📝 07&#x2F;26 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 
 ### Learn
 
@@ -1097,7 +1125,7 @@ Language: English \ <br>
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 07&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 07&#x2F;26 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;10 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1225,7 +1253,7 @@ Language: English \ <br>
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 655, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 07&#x2F;07 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 653, 📝 07&#x2F;18 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 667, 📝 07&#x2F;26 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.

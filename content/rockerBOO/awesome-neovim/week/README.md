@@ -28,6 +28,10 @@ Collections of awesome neovim plugins.
 
 *   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
+### Resource / Diagnostics
+
+*   [Nvim-training (⭐17)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### AI / Diagnostics
@@ -50,7 +54,7 @@ Collections of awesome neovim plugins.
 
 ### Indent / Diagnostics
 
-*   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
+*   [gh-liu/fold\_line.nvim (⭐43)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -83,11 +87,11 @@ Collections of awesome neovim plugins.
 
 ### Web Development / Diagnostics
 
-*   [cjodo/convert.nvim (⭐14)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
+*   [cjodo/convert.nvim (⭐37)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
 
 ### Search / Diagnostics
 
-*   [chrisgrieser/nvim-rip-substitute (⭐96)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's `:substitute` using `ripgrep`.
+*   [chrisgrieser/nvim-rip-substitute (⭐119)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's `:substitute` using `ripgrep`.
 
 ## [Jun 17 - Jun 23, 2024](/content/2024/25/README.md)
 
@@ -189,7 +193,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [NeViRAIDE/nekifoch.nvim (⭐13)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+*   [NeViRAIDE/nekifoch.nvim (⭐14)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
 
 ### Code Runner / Diagnostics
 
@@ -225,19 +229,19 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [speelbarrow/spLauncher.nvim (⭐6)](https://github.com/speelbarrow/spLauncher.nvim) - For launching tasks, I guess.
+*   [speelbarrow/spLauncher.nvim (⭐7)](https://github.com/speelbarrow/spLauncher.nvim) - For launching tasks, I guess.
 
 ### Motion / Diagnostics
 
-*   [tris203/precognition.nvim (⭐599)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
+*   [tris203/precognition.nvim (⭐636)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 
 ### Scrolling / Diagnostics
 
-*   [niuiic/scroll.nvim (⭐16)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
+*   [niuiic/scroll.nvim (⭐17)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
 
 ### Game / Diagnostics
 
-*   [rktjmp/playtime.nvim (⭐52)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+*   [rktjmp/playtime.nvim (⭐57)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -322,22 +326,22 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [Vigemus/iron.nvim (⭐937)](https://github.com/Vigemus/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [Vigemus/iron.nvim (⭐948)](https://github.com/Vigemus/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nfrid/treesitter-utils (⭐6)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
+*   [nfrid/treesitter-utils (⭐7)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
 
 ### Scrolling / Diagnostics
 
-*   [nkakouros-original/scrollofffraction.nvim (⭐10)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+*   [nkakouros-original/scrollofffraction.nvim (⭐11)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
 
 ### Editing Support / Diagnostics
 
-*   [pocco81/true-zen.nvim (⭐950)](https://github.com/pocco81/true-zen.nvim) - Clean and elegant distraction-free writing.
+*   [pocco81/true-zen.nvim (⭐956)](https://github.com/pocco81/true-zen.nvim) - Clean and elegant distraction-free writing.
 *   [pocco81/high-str.nvim (⭐305)](https://github.com/pocco81/high-str.nvim) - Highlight visual selections like in a normal document editor!
-*   [pocco81/auto-save.nvim (⭐609)](https://github.com/pocco81/auto-save.nvim) - Save your work before the world collapses or you type :qa!
-*   [andersevenrud/nvim\_context\_vt (⭐369)](https://github.com/andersevenrud/nvim_context_vt) - Shows virtual text of the current context.
+*   [pocco81/auto-save.nvim (⭐622)](https://github.com/pocco81/auto-save.nvim) - Save your work before the world collapses or you type :qa!
+*   [andersevenrud/nvim\_context\_vt (⭐370)](https://github.com/andersevenrud/nvim_context_vt) - Shows virtual text of the current context.
 *   [CKolkey/ts-node-action (⭐351)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
 
 ### Indent / Diagnostics
@@ -346,8 +350,8 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Diagnostics
 
-*   [nvim-focus/focus.nvim (⭐667)](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
-*   [altermo/nwm (⭐304)](https://github.com/altermo/nwm) - X11 window manager.
+*   [nvim-focus/focus.nvim (⭐676)](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
+*   [altermo/nwm (⭐311)](https://github.com/altermo/nwm) - X11 window manager.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -361,17 +365,17 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [moyiz/git-dev.nvim (⭐76)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+*   [moyiz/git-dev.nvim (⭐78)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐411)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐418)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ### OS-specific / Diagnostics
 
-*   [m15a/flake-awesome-neovim-plugins (⭐43)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
+*   [m15a/flake-awesome-neovim-plugins (⭐45)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
@@ -413,7 +417,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐172)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐173)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
@@ -486,15 +490,15 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [Mr-LLLLL/treesitter-outer (⭐5)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+*   [Mr-LLLLL/treesitter-outer (⭐6)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 
 ### Keybinding / Diagnostics
 
-*   [nvimtools/hydra.nvim (⭐99)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+*   [nvimtools/hydra.nvim (⭐107)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/iedit.nvim (⭐17)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+*   [altermo/iedit.nvim (⭐20)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -534,7 +538,7 @@ Collections of awesome neovim plugins.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐662)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐809)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -560,11 +564,11 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐55)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐60)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-trevJ.lua (⭐162)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
+*   [AckslD/nvim-trevJ.lua (⭐163)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -676,7 +680,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [gregorias/coerce.nvim (⭐96)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [gregorias/coerce.nvim (⭐98)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
 *   [johmsalas/text-case.nvim (⭐391)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ### Preconfigured Configuration / Diagnostics
@@ -703,12 +707,12 @@ Collections of awesome neovim plugins.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐89)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐90)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐310)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
-*   [crispybaccoon/chaivim (⭐49)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
+*   [pgosar/CyberNvim (⭐312)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [crispybaccoon/chaivim (⭐52)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 

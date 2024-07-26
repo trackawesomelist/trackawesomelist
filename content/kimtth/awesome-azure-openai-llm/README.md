@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 26, 2024](/content/2024/07/26/README.md)
+
+### **Other techniques and LLM patterns** / **Llama Finetuning**
+
+*   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
+
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
+
 ## [Jul 25, 2024](/content/2024/07/25/README.md)
 
 ### **Semantic Kernel** / **Semantic Kernel Planner**
@@ -107,7 +117,7 @@
 ### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) A persona-driven data synthesis methodology using Text-to-Persona and Persona-to-Persona. \[28 Jun 2024]
-*   [RouteLLM (⭐1.3k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
+*   [RouteLLM (⭐2.4k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
