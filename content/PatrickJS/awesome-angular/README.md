@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 26, 2024](/content/2024/07/26/README.md)
+
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngwr (⭐3)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
+
 ## [Jul 25, 2024](/content/2024/07/25/README.md)
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
