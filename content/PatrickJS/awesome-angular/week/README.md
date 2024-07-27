@@ -8,6 +8,11 @@
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
+### Community
+
+*   [ngx.tools (⭐74)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+*   [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
+
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. Launches July 30.

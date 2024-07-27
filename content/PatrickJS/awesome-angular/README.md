@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 27, 2024](/content/2024/07/27/README.md)
+
+### Community
+
+*   [ngx.tools (⭐74)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+*   [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
+
 ## [Jul 26, 2024](/content/2024/07/26/README.md)
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
