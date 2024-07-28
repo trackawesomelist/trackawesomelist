@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 28, 2024](/content/2024/07/28/README.md)
+
+### Web Frameworks
+
+*   [Fuego (⭐683)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+
 ## [Jul 25, 2024](/content/2024/07/25/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
