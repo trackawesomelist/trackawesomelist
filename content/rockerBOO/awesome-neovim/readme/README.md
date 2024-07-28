@@ -876,6 +876,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [klen/nvim-test (⭐175)](https://github.com/klen/nvim-test) - A Neovim wrapper for running tests.
 *   [nvim-neotest/neotest (⭐2.1k)](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within Neovim.
 *   [andythigpen/nvim-coverage (⭐291)](https://github.com/andythigpen/nvim-coverage) - Displays coverage information in the sign column.
+*   [quolpr/quicktest.nvim (⭐43)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
 
 ## Code Runner
 

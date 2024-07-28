@@ -2,9 +2,16 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 535 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 537 · 🏷️ Entertainment
 
 [ Daily / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
+
+## [Jul 28, 2024](/content/2024/07/28/README.md)
+
+### In French
+
+*   [S'informer sur la tech](https://www.abonnel.fr/podcasts/tech) - C'est Cédric Abonnel's blog audio, des vidéos et un wiki, traitant des technologies. Vous retrouverez mes expériences et Cédric Abonnel's découvertes sur la sécurité, l'informatique, le hack et les loisirs techniques.
+*   [Burger Tech](https://www.mindcast.fr/@burgerTech) - Dans ce podcast, nous adoptons une approche décontractée, teintée d’humour et parfois d’irrévérence, pour aborder l’actualité tech. Nous partageons des anecdotes hilarantes et surprenantes que nous dénichons sur le Web, engageons des conversations moqueuses, débattons de manière semi-sérieuse et proposons des réflexions empreintes d’humour.
 
 ## [Jun 12, 2024](/content/2024/06/12/README.md)
 
@@ -701,7 +708,7 @@ A curated list of podcasts we like to listen to.
 
 ### In French
 
-*   [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
+*   [Les Cast Codeurs](https://lescastcodeurs.com) - Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 
 ## [Feb 17, 2018](/content/2018/02/17/README.md)
 

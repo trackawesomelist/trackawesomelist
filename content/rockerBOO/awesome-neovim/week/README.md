@@ -28,6 +28,10 @@ Collections of awesome neovim plugins.
 
 *   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
+### Test / Diagnostics
+
+*   [quolpr/quicktest.nvim (⭐43)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
+
 ### Resource / Diagnostics
 
 *   [Nvim-training (⭐17)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.

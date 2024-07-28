@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 28, 2024](/content/2024/07/28/README.md)
+
+### Test / Diagnostics
+
+*   [quolpr/quicktest.nvim (⭐43)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
+
 ## [Jul 26, 2024](/content/2024/07/26/README.md)
 
 ### Resource / Diagnostics
