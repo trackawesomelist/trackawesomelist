@@ -2,9 +2,15 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 265 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 267 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
+
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
@@ -60,7 +66,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐39)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
+*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐44)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
 *   [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
 
 ### Theory of Mind / AI Assisted Research
@@ -166,7 +172,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐35)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
+*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐36)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -212,11 +218,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
 *   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
-
-### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
-
-*   [Large Language Models for Software Engineering: A
-    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -326,9 +327,9 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
 
-### Science Logology / Laboratory Automation
+### Science Logology / AI Assisted Research
 
-*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
+*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
@@ -369,7 +370,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Communications / Pragmatics
 
 *   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.7k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.8k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 *   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
 *   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
 
@@ -404,7 +405,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
+*   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
@@ -457,11 +458,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Complexity & Information Theory / Theory
 
-*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Code (⭐7)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization.
+*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Code (⭐7)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work studies the two computation modes of concept generalization in the natural visual spectrum, *i.e.*, rule-based and similarity-based generalization, when the problem space scales up and when the complexity of concepts becomes diverse.
 
 ### Science Logology / Science Education
 
-*   [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890\&hl=en\&as_sdt=0,5)]. Research on facilitating the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework, for scientific research training in higher education.
+*   [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890)]. Scientific research is inherently shaped by its authors’ perspectives, influenced by various factorssuch as their personality, community, or society. Junior researchers often face challenges in identifying the perspectives reflected in the existing literature and struggle to develop their own viewpoints. To address the problem, this paper introduces PersLEARN, a tool designed to facilitate the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework.
 
 ### Science Logology / AI Assisted Research
 
@@ -1088,7 +1089,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
 *   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 *   [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐31)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
+*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐32)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
 *   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 *   [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. \[[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768\&hl=en\&as_sdt=0,5)]. Yann LeCun's tutorial on energy-based learning.
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317\&hl=en\&as_sdt=0,5)].
@@ -1356,7 +1357,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
 *   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
-*   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***Ph.D. Dissertation MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
+*   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
 *   [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772\&hl=en\&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.
 *   [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204\&hl=en\&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.
 *   [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***Annual Review of Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116\&hl=en\&as_sdt=0,5)]. A comprehensive review on social ToM experiment pafadigms.
@@ -1536,7 +1537,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833\&hl=en\&as_sdt=0,5)].
+*   [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833)]. This paper explores the limits of the current generation of large language models for program synthesis in general purpose programming languages.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -1568,7 +1569,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐9.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐9.9k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ### Literature Management / Commonsense Knowledgebase
 
@@ -1618,7 +1619,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐898)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐900)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -2085,7 +2086,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full) - ***Frontiers in Psychology***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=14719988081062606352\&hl=en\&as_sdt=0,5)].
 *   [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=8060841461200774807\&hl=en\&as_sdt=0,5)].
 *   [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://www.sciencedirect.com/science/article/pii/S0028393214000232) - ***Neuropsychologia***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10578024091098127929\&hl=en\&as_sdt=0,5)].
-*   [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://escholarship.org/uc/item/5gf0m7x3) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9713842177532954702)].
+*   [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://escholarship.org/uc/item/5gf0m7x3) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702)]. \[[Preprint](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. This paper focuses on how natural embodied experience affects what kinds of abstract physical problem-solving strategies people use in a virtual task. The findings suggest that differences in embodied experience drive the acquisition of different meta-strategies for balancing acting with thinking, deciding what kinds of actions to try, and deciding how persistent to be with a current action plan.
 *   [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract) - ***Science Robotics***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1622125726197763917\&hl=en\&as_sdt=0,5)].
 *   [Expert Tool Users Show Increased Differentiation between Visual Representations of Hands and Tools](https://www.jneurosci.org/content/jneuro/41/13/2980.full.pdf) - ***Journal of Neuroscience***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13454164767827515188\&hl=en\&as_sdt=0,5)].
 *   [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7238090583833839\&hl=en\&as_sdt=0,5)].
@@ -2093,7 +2094,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1) - ***ILP'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=18374178227592386332\&hl=en\&as_sdt=0,5)].
 *   [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x) - ***Autonomous Robots***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6357646940615855682\&hl=en\&as_sdt=0,5)].
 *   [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf) - ***RSS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251\&hl=en\&as_sdt=0,5)].
-*   [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702\&hl=en\&as_sdt=0,5)].
 
 ### Methodologies for Experiments / Human-Machine Comparison
 

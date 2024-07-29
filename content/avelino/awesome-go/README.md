@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 29, 2024](/content/2024/07/29/README.md)
+
+### Messaging
+
+*   [Go-MediatR (⭐195)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
+
+### Utilities
+
+*   [cookie (⭐107)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [KubeVPN (⭐469)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
+
 ## [Jul 28, 2024](/content/2024/07/28/README.md)
 
 ### Web Frameworks
@@ -360,10 +374,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Authentication and OAuth
 
 *   [openfga (⭐2.5k)](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/).
-
-### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [kubevpn (⭐469)](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
 
 ## [Mar 09, 2024](/content/2024/03/09/README.md)
 
@@ -1311,7 +1321,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [Harfang3D (⭐529)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐531)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -4765,7 +4775,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐501)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
 *   [Awesome Remote Job (⭐29k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
+*   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐22)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
 *   [CodinGame](https://www.codingame.com/) - Learn Go by solving interactive tasks using small games as practical examples.

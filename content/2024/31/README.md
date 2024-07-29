@@ -1,25 +1,93 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2024
 
-5 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Emacs / Third-party APIs
+
+*   [Quicksearch (⭐2)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Messaging
+
+*   [Go-MediatR (⭐195)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
+
+### Utilities
+
+*   [cookie (⭐107)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [KubeVPN (⭐469)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
+
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Authentication and Authorization
+
+*   [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **\[$]**
+*   [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **\[$]**
+*   [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **\[$]**
+
+### Caching
+
+*   [BitFaster.Caching (⭐415)](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.
+
+### Decompilation
+
+*   [dnSpyEx (⭐6.3k)](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of dnSpy
+
+### Feature management
+
+*   [Microsoft.FeatureManagement (⭐1k)](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose applicaiton functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+
+### Game
+
+*   [Friflo.Engine.ECS (⭐159)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+
+### ORM
+
+*   [Friflo.Json.Fliox (⭐159)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
+
+### Queue
+
+*   [AsyncMonolith (⭐37)](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
+
+### Web Browsers
+
+*   [SharpBrowser (⭐823)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Golang / Diagnostics
+
+*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+
+## [6. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@ebarooni/capacitor-calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 
-## [2. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [7. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Official Coq X/Twitter](https://x.com/CoqLang)
 *   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -34,7 +102,7 @@
     *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -44,7 +112,7 @@
 
 *   [Windmillcode-Angular-CDK (⭐2)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Protocols
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Golang / Diagnostics
+
+*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### (requires Neovim 0.5)
@@ -428,10 +434,6 @@ Collections of awesome neovim plugins.
 ### Web Development / Diagnostics
 
 *   [luckasRanarison/tailwind-tools.nvim (⭐235)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
-
-### Marks / Diagnostics
-
-*   [abeldekat/harpoonline (⭐43)](https://github.com/abeldekat/harpoonline) - Create up-to-date harpoon2 information to be used in a status-line.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 

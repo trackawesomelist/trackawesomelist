@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 29, 2024](/content/2024/07/29/README.md)
+
+### Golang / Diagnostics
+
+*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+
 ## [Jul 28, 2024](/content/2024/07/28/README.md)
 
 ### Test / Diagnostics
@@ -539,10 +545,6 @@ Collections of awesome neovim plugins.
 *   [StratOS-Linux/StratVIM (⭐11)](https://github.com/StratOS-Linux/StratVIM) - A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro.
 
 ## [Mar 19, 2024](/content/2024/03/19/README.md)
-
-### Marks / Diagnostics
-
-*   [abeldekat/harpoonline (⭐43)](https://github.com/abeldekat/harpoonline) - Create up-to-date harpoon2 information to be used in a status-line.
 
 ### Debugging / Diagnostics
 
