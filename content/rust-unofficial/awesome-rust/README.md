@@ -6,6 +6,21 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 29, 2024](/content/2024/07/29/README.md)
+
+### Applications / Blockchain
+
+*   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+
+### Libraries / Encoding
+
+*   JSON
+    *   [cloudwego/sonic-rs (⭐357)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
+    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
+    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
+    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+
 ## [Jul 25, 2024](/content/2024/07/25/README.md)
 
 ### Libraries / Data streaming
@@ -325,10 +340,6 @@ A curated list of Rust code and resources.
 *   [yashs662/rust\_kanban (⭐157)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
 ## [Feb 23, 2024](/content/2024/02/23/README.md)
-
-### Applications / Blockchain
-
-*   [Subspace (⭐369)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
 ### Applications / Database
 
@@ -3569,17 +3580,6 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [ajeetdsouza/zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
-
-## [Mar 26, 2020](/content/2020/03/26/README.md)
-
-### Libraries / Encoding
-
-*   JSON
-    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐562)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] - JSON implementation
-    *   [pikkr/pikkr (⭐631)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] - JSON parser which picks up values directly without performing tokenization
-    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 

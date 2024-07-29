@@ -661,6 +661,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Template Monster](https://www.templatemonster.com/custom/website-templates-angular/)
 *   [NobleUI](https://nobleui.com/angular/)
 *   [ThemesBrand](https://themesbrand.com/judia/angular.html)
+*   [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 
 #### Testing
 
@@ -1144,6 +1145,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-zen (⭐2)](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
 *   [pupakit (⭐45)](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 *   [ngwr (⭐3)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
+*   [Windmillcode-Angular-CDK (⭐2)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
 ##### Material Based
 

@@ -6,6 +6,21 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Applications / Blockchain
+
+*   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+
+### Libraries / Encoding
+
+*   JSON
+    *   [cloudwego/sonic-rs (⭐357)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
+    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
+    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
+    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Applications / System tools
@@ -278,10 +293,6 @@ A curated list of Rust code and resources.
     *   [kaj/rust-pdf (⭐145)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
-
-### Applications / Blockchain
-
-*   [Subspace (⭐369)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
 ### Applications / Database
 
@@ -3254,17 +3265,6 @@ A curated list of Rust code and resources.
 
 *   [ajeetdsouza/zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
-
-## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
-
-### Libraries / Encoding
-
-*   JSON
-    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐562)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] - JSON implementation
-    *   [pikkr/pikkr (⭐631)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] - JSON parser which picks up values directly without performing tokenization
-    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 

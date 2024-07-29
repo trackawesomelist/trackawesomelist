@@ -6,6 +6,13 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ Daily / [Weekly](/content/coq-community/awesome-coq/week/README.md) / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Jul 29, 2024](/content/2024/07/29/README.md)
+
+### Resources / Community
+
+*   [Official Coq X/Twitter](https://x.com/CoqLang)
+*   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
+
 ## [Jul 23, 2024](/content/2024/07/23/README.md)
 
 ### Projects / Libraries
@@ -323,7 +330,6 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 ### Resources / Community
 
 *   [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
-*   [coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
 *   [100 famous theorems proved using Coq (⭐55)](https://github.com/coq-community/coq-100-theorems)
 
 ## [Aug 25, 2021](/content/2021/08/25/README.md)
@@ -572,7 +578,6 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 ### Resources / Community
 
 *   [Official Coq wiki (⭐4.7k)](https://github.com/coq/coq/wiki)
-*   [Official Coq Twitter](https://twitter.com/CoqLang)
 *   [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 *   [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
 

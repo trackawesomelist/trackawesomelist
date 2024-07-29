@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 29, 2024](/content/2024/07/29/README.md)
+
+### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
+
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Windmillcode-Angular-CDK (⭐2)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+
 ## [Jul 28, 2024](/content/2024/07/28/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

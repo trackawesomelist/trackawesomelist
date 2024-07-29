@@ -227,7 +227,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) - Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 *   [sigma-rust (⭐70)](https://github.com/ergoplatform/sigma-rust) - ErgoTree interpreter and wallet-related features.
 *   [Solana (⭐13k)](https://github.com/solana-labs/solana) - Incredibly fast, highly scalable blockchain using Proof-of-History.
-*   [Subspace (⭐369)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+*   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 *   [Sui (⭐5.9k)](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 *   [svm-rs (⭐243)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 *   [tendermint-rs (⭐590)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
@@ -1354,9 +1354,9 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   HTML
     *   [servo/html5ever (⭐2.1k)](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 *   JSON
+    *   [cloudwego/sonic-rs (⭐357)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
     *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐562)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] - JSON implementation
-    *   [pikkr/pikkr (⭐631)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] - JSON parser which picks up values directly without performing tokenization
+    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
     *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 *   MsgPack
