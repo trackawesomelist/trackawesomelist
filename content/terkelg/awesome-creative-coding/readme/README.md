@@ -126,6 +126,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Frameworks • Libraries • Ecosystems
 
 *   [Processing](https://processing.org) \[Cross-platform] - Computer programming language and IDE for visual arts.
+*   [py5](https://py5coding.org) \[Cross-platform] - A library that intergrates Processing into the Python 3 ecossystem.
 *   [Cinder](https://libcinder.org/) \[Cross-platform] - Open source library for professional-quality creative coding in C++.
 *   [openFrameworks](http://openframeworks.cc/) \[Cross-platform] - Open source C++ toolkit for creative coding.
 *   [C4](http://www.c4ios.com) \[iOS] - Open-source creative coding framework for iOS.
@@ -266,7 +267,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 *   [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 *   [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
-*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on python.
+*   [shoebot](http://www.shoebot.net/) \[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
+*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on Python.
 *   [Klak (⭐1.9k)](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 *   [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 *   [Konstrukt (⭐63)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.

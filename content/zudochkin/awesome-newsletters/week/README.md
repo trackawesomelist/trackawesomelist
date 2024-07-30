@@ -2,9 +2,20 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.8K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.9K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Go / Svelte
+
+*   [Golang Weekly](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
+*   [Awesome Go Weekly](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -54,10 +65,6 @@ A list of amazing Newsletters
 ### General Web Development
 
 *   [Syntax Snack Pack](https://syntax.fm/snackpack). Bi-weekly web dev newsletter with curated links + news from the [Syntax.fm](https://syntax.fm) podcast.
-
-### Go / Svelte
-
-*   [Gopherit!](https://gopherit.substack.com). Advanced and beginner tips, videos, and articles about Golang, bi-Weekly newsletter.
 
 ### Python / Svelte
 
@@ -502,10 +509,6 @@ A list of amazing Newsletters
 
 *   [GraphQL Weekly](https://www.graphqlweekly.com/). A weekly newsletter highlighting resources and news from the GraphQL community.
 
-### Go / Svelte
-
-*   [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
-
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
 ### General Section / Svelte
@@ -641,10 +644,6 @@ A list of amazing Newsletters
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
-### Go / Svelte
-
-*   [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
-
 ### PHP / Svelte
 
 *   [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
@@ -769,14 +768,9 @@ A list of amazing Newsletters
 *   [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
 *   [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 
-### Go / Svelte
-
-*   [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
-*   [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
-
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐679)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐686)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

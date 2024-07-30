@@ -6,6 +6,25 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 30, 2024](/content/2024/07/30/README.md)
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [Plan-and-Solve Prompting](https://arxiv.org/abs/2305.04091): Develop a plan, and then execute each step in that plan. \[6 May 2023]
+
+### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+
+*   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
+
+### **Large Language Model Is: Abilities** / **GPT series release date**
+
+*   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
+
+### **Large Language Models (in 2023)** / **GPT series release date**
+
+*   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
+*   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
+
 ## [Jul 26, 2024](/content/2024/07/26/README.md)
 
 ### **Other techniques and LLM patterns** / **Llama Finetuning**
@@ -183,7 +202,7 @@
     *   Azure-Samples [ref](https://github.com/Azure-Samples)
         *   Azure OpenAI with AKS By Terraform: [git (⭐42)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
         *   Azure OpenAI with AKS By Bicep: [git (⭐27)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐167)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐74)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
+        *   Enterprise Logging: [git (⭐167)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐75)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
         *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐42)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
         *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐435)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
         *   GPT-Azure-Search-Engine: [git (⭐365)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
@@ -286,9 +305,6 @@
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
 *   [ChatGPT Function calling](https://platform.openai.com/docs/guides/gpt/function-calling) \[Jun 2023]
-    *   syntax the model has been trained on.
-        This means functions count against the model's context limit and are billed as input tokens.
-        If running into context limits, we suggest limiting the number of functions or the length of documentation you provide for function parameters.
     *   Azure OpenAI start to support function calling. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling#using-function-in-the-chat-completions-api)
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
@@ -832,6 +848,8 @@
         independently assigns scores to each candidate, whereas RankPrompt ranks candidates through a
         systematic, step-by-step comparative evaluation. \[19 Mar 2024]
 
+    3.  [Language Models as Compilers](https://arxiv.org/abs/2404.02575): With extensive experiments on seven algorithmic reasoning tasks, Think-and-Execute is effective. It enhances large language models’ reasoning by using task-level logic and pseudocode, outperforming instance-specific methods. \[20 Mar 2023]
+
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
 *   [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library): Anthropic released a Claude 3 AI prompt library \[Mar 2024]
@@ -1269,6 +1287,7 @@
     *   [CRAG: Comprehensive RAG Benchmark](https://arxiv.org/abs/2406.04744): a factual question answering benchmark of 4,409 question-answer pairs and mock APIs to simulate web and Knowledge Graph (KG) search [ref](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024) \[7 Jun 2024]
     *   [PlanRAG](https://arxiv.org/abs/2406.12430): Decision Making. Decision QA benchmark, DQA. Plan -> Retrieve -> Make a decision (PlanRAG) [git (⭐106)](https://github.com/myeon9h/PlanRAG) \[18 Jun 2024]
     *   [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219): `Best Performance Practice`: Query Classification, Hybrid with HyDE (retrieval), monoT5 (reranking), Reverse (repacking), Recomp (summarization). `Balanced Efficiency Practice`: Query Classification, Hybrid (retrieval), TILDEv2 (reranking), Reverse (repacking), Recomp (summarization). \[1 Jul 2024]
+    *   [Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/abs/2407.16833): Long-Context consistently outperforms RAG in terms of average performance. However, RAG's significantly lower cost remains a distinct advantage. \[23 Jul 2024]
 
     </details>
 
@@ -1726,8 +1745,7 @@
     *   [Open AI: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2005.14165)] \[28 May 2020]
 *   [Retrieval Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2005.11401)]: To address such knowledge-intensive tasks. RAG combines an information retrieval component with a text generator model. \[22 May 2020]
 *   [Chain-of-Verification reduces Hallucination in LLMs](https://arxiv.org/abs/2309.11495): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.11495)]: A four-step process that consists of generating a baseline response, planning verification questions, executing verification questions, and generating a final verified response based on the verification results. \[20 Sep 2023]
-*   [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement`
-    to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.2k)](https://github.com/noahshinn024/reflexion)
+*   [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement` to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.2k)](https://github.com/noahshinn024/reflexion)
 
 ### **Langchain Agent & Memory** / **Criticism to Langchain**
 

@@ -1,12 +1,58 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2024
 
-14 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [Plan-and-Solve Prompting](https://arxiv.org/abs/2305.04091): Develop a plan, and then execute each step in that plan. \[6 May 2023]
+
+### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+
+*   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
+
+### **Large Language Model Is: Abilities** / **GPT series release date**
+
+*   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
+
+### **Large Language Models (in 2023)** / **GPT series release date**
+
+*   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
+*   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
+
+## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+
+### Frameworks • Libraries • Ecosystems
+
+*   [py5](https://py5coding.org) \[Cross-platform] - A library that intergrates Processing into the Python 3 ecossystem.
+
+### Other
+
+*   [shoebot](http://www.shoebot.net/) \[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
+
+## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+
+### Packages / Charts
+
+*   [ember-c3 (⭐81)](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+
+### Go / Svelte
+
+*   [Golang Weekly](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
+*   [Awesome Go Weekly](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
+
+## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Code Search
 
@@ -16,19 +62,19 @@
 
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 
-## [2. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
 *   [Program With Gio](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - PHP 8 course by Gio.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Third Party App Markets / Package Managers
 
 *   [Applite](https://aerolite.dev/applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/milanvarady/Applite)
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -115,19 +161,23 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Imperative DSL Applications
+
+*   [Building an Open Representation for Biological Protocols](https://dl.acm.org/doi/full/10.1145/3604568) - ***ACM Journal on Emerging Technologies in Computing Systems***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17225405546647782000)]. There is currently no available protocol representation that is unambiguous enough for precise interpretation and automation, yet simultaneously “human friendly” and abstract enough to enable reuse and adaptation. The Laboratory Open Protocol language (LabOP) is a free and open protocol representation aiming to address this gap, building on a foundation of UML, Autoprotocol, Aquarium, SBOL RDF, and the Provenance Ontology. LabOP provides a linked-data representation both for protocols and for records of their execution and the resulting data, as well as a framework for exporting from LabOP for execution by either humans or laboratory automation.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Emacs / Third-party APIs
 
 *   [Quicksearch (⭐2)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
 
-## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
@@ -141,7 +191,7 @@
 
 *   [KubeVPN (⭐469)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -177,26 +227,26 @@
 
 *   [SharpBrowser (⭐823)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Golang / Diagnostics
 
 *   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 
-## [10. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [14. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@ebarooni/capacitor-calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [15. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Official Coq X/Twitter](https://x.com/CoqLang)
 *   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -217,7 +267,11 @@
     *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [daily.dev](https://app.daily.dev/tags/angular)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -241,7 +295,7 @@
 
 *   [Windmillcode-Angular-CDK (⭐2)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
-## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Protocols
 

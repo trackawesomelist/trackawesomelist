@@ -6,6 +6,16 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ [Daily](/content/terkelg/awesome-creative-coding/README.md) / Weekly / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Frameworks • Libraries • Ecosystems
+
+*   [py5](https://py5coding.org) \[Cross-platform] - A library that intergrates Processing into the Python 3 ecossystem.
+
+### Other
+
+*   [shoebot](http://www.shoebot.net/) \[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Visual Programming Languages
@@ -437,7 +447,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Other
 
-*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on python.
+*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on Python.
 
 ### Inspiration / Other
 

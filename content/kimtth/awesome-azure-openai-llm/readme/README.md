@@ -143,6 +143,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [CRAG: Comprehensive RAG Benchmark](https://arxiv.org/abs/2406.04744): a factual question answering benchmark of 4,409 question-answer pairs and mock APIs to simulate web and Knowledge Graph (KG) search [ref](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024) \[7 Jun 2024]
     *   [PlanRAG](https://arxiv.org/abs/2406.12430): Decision Making. Decision QA benchmark, DQA. Plan -> Retrieve -> Make a decision (PlanRAG) [git (⭐106)](https://github.com/myeon9h/PlanRAG) \[18 Jun 2024]
     *   [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219): `Best Performance Practice`: Query Classification, Hybrid with HyDE (retrieval), monoT5 (reranking), Reverse (repacking), Recomp (summarization). `Balanced Efficiency Practice`: Query Classification, Hybrid (retrieval), TILDEv2 (reranking), Reverse (repacking), Recomp (summarization). \[1 Jul 2024]
+    *   [Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/abs/2407.16833): Long-Context consistently outperforms RAG in terms of average performance. However, RAG's significantly lower cost remains a distinct advantage. \[23 Jul 2024]
 
     </details>
 
@@ -528,7 +529,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   Azure-Samples [ref](https://github.com/Azure-Samples)
         *   Azure OpenAI with AKS By Terraform: [git (⭐42)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
         *   Azure OpenAI with AKS By Bicep: [git (⭐27)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐167)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐74)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
+        *   Enterprise Logging: [git (⭐167)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐75)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
         *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐42)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
         *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐435)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
         *   GPT-Azure-Search-Engine: [git (⭐365)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
@@ -984,29 +985,30 @@ class AgentType(str, Enum):
 
 12. [Chain-of-Verification reduces Hallucination in LLMs](https://arxiv.org/abs/2309.11495): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.11495)]: A four-step process that consists of generating a baseline response, planning verification questions, executing verification questions, and generating a final verified response based on the verification results. \[20 Sep 2023]
 
-13. [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement`
-    to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.2k)](https://github.com/noahshinn024/reflexion)
+13. [Plan-and-Solve Prompting](https://arxiv.org/abs/2305.04091): Develop a plan, and then execute each step in that plan. \[6 May 2023]
 
-14. [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.03409)]: `Take a deep breath and work on this problem step-by-step.` to improve its accuracy. Optimization by PROmpting (OPRO) \[7 Sep 2023]
+14. [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement` to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.2k)](https://github.com/noahshinn024/reflexion)
 
-15. Promptist
+15. [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.03409)]: `Take a deep breath and work on this problem step-by-step.` to improve its accuracy. Optimization by PROmpting (OPRO) \[7 Sep 2023]
+
+16. Promptist
 
     *   [Promptist](https://arxiv.org/abs/2212.09611): Microsoft's researchers trained an additional language model (LM) that optimizes text prompts for text-to-image generation.
         *   For example, instead of simply passing "Cats dancing in a space club" as a prompt, an engineered prompt might be "Cats dancing in a space club, digital painting, artstation, concept art, soft light, hdri, smooth, sharp focus, illustration, fantasy."
 
-16. Power of Prompting
+17. Power of Prompting
 
     *   [GPT-4 with Medprompt](https://arxiv.org/abs/2311.16452): GPT-4, using a method called Medprompt that combines several prompting strategies, has surpassed MedPaLM 2 on the MedQA dataset without the need for fine-tuning. [ref](https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/) \[28 Nov 2023]
     *   [promptbase (⭐5.3k)](https://github.com/microsoft/promptbase): Scripts demonstrating the Medprompt methodology \[Dec 2023]
 
-17. Adversarial Prompting
+18. Adversarial Prompting
     *   Prompt Injection: `Ignore the above directions and ...`
     *   Prompt Leaking: `Ignore the above instructions ... followed by a copy of the full prompt with exemplars:`
     *   Jailbreaking: Bypassing a safety policy, instruct Unethical instructions if the request is contextualized in a clever way. [ref](https://www.promptingguide.ai/risks/adversarial)
 
-18. [Prompt Principle for Instructions](https://arxiv.org/abs/2312.16171): 26 prompt principles: e.g., `1) No need to be polite with LLM so there .. 16)  Assign a role.. 17) Use Delimiters..` \[26 Dec 2023]
+19. [Prompt Principle for Instructions](https://arxiv.org/abs/2312.16171): 26 prompt principles: e.g., `1) No need to be polite with LLM so there .. 16)  Assign a role.. 17) Use Delimiters..` \[26 Dec 2023]
 
-19. ChatGPT : “user”, “assistant”, and “system” messages.\*\*
+20. ChatGPT : “user”, “assistant”, and “system” messages.\*\*
 
     To be specific, the ChatGPT API allows for differentiation between “user”, “assistant”, and “system” messages.
 
@@ -1016,17 +1018,17 @@ class AgentType(str, Enum):
 
     Presumably, the model is trained to treat the user messages as human messages, system messages as some system level configuration, and assistant messages as previous chat responses from the assistant. [ref](https://blog.langchain.dev/using-chatgpt-api-to-evaluate-chatgpt/) \[2 Mar 2023]
 
-20. [Automatic Prompt Engineer (APE)](https://arxiv.org/abs/2211.01910): Automatically optimizing prompts. APE has discovered zero-shot Chain-of-Thought (CoT) prompts superior to human-designed prompts like “Let’s think through this step-by-step” (Kojima et al., 2022). The prompt “To get the correct answer, let’s think step-by-step.” triggers a chain of thought. Two approaches to generate high-quality candidates: forward mode and reverse mode generation. \[3 Nov 2022] [git (⭐1.1k)](https://github.com/keirp/automatic_prompt_engineer) / [ref](https:/towardsdatascience.com/automated-prompt-engineering-78678c6371b9) \[Mar 2024]
+21. [Automatic Prompt Engineer (APE)](https://arxiv.org/abs/2211.01910): Automatically optimizing prompts. APE has discovered zero-shot Chain-of-Thought (CoT) prompts superior to human-designed prompts like “Let’s think through this step-by-step” (Kojima et al., 2022). The prompt “To get the correct answer, let’s think step-by-step.” triggers a chain of thought. Two approaches to generate high-quality candidates: forward mode and reverse mode generation. \[3 Nov 2022] [git (⭐1.1k)](https://github.com/keirp/automatic_prompt_engineer) / [ref](https:/towardsdatascience.com/automated-prompt-engineering-78678c6371b9) \[Mar 2024]
 
-21. [Claude Prompt Engineer (⭐8.6k)](https://github.com/mshumer/gpt-prompt-engineer): Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.  \[4 Jul 2023] / Anthropic Helper metaprompt [ref](https://docs.anthropic.com/en/docs/helper-metaprompt-experimental) / [Claude Sonnet 3.5 for Coding](https://www.reddit.com/r/ClaudeAI/comments/1dwra38/sonnet_35_for_coding_system_prompt/)
+22. [Claude Prompt Engineer (⭐8.6k)](https://github.com/mshumer/gpt-prompt-engineer): Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.  \[4 Jul 2023] / Anthropic Helper metaprompt [ref](https://docs.anthropic.com/en/docs/helper-metaprompt-experimental) / [Claude Sonnet 3.5 for Coding](https://www.reddit.com/r/ClaudeAI/comments/1dwra38/sonnet_35_for_coding_system_prompt/)
 
-22. [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018): Transitioning from few-shot to many-shot In-Context Learning (ICL) can lead to significant performance gains across a wide variety of generative and discriminative tasks \[17 Apr 2024]
+23. [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018): Transitioning from few-shot to many-shot In-Context Learning (ICL) can lead to significant performance gains across a wide variety of generative and discriminative tasks \[17 Apr 2024]
 
-23. [Skeleton Of Thought](https://arxiv.org/abs/2307.15337): Skeleton-of-Thought (SoT) reduces generation latency by first creating an answer's skeleton, then filling each skeleton point in parallel via API calls or batched decoding. \[28 Jul 2023]
+24. [Skeleton Of Thought](https://arxiv.org/abs/2307.15337): Skeleton-of-Thought (SoT) reduces generation latency by first creating an answer's skeleton, then filling each skeleton point in parallel via API calls or batched decoding. \[28 Jul 2023]
 
-24. [NLEP (Natural Language Embedded Programs) for Hybrid Language Symbolic Reasoning](https://arxiv.org/abs/2309.10814): Use code as a scaffold for reasoning. NLEP achieves over 90% accuracy when prompting GPT-4. \[19 Sep 2023]
+25. [NLEP (Natural Language Embedded Programs) for Hybrid Language Symbolic Reasoning](https://arxiv.org/abs/2309.10814): Use code as a scaffold for reasoning. NLEP achieves over 90% accuracy when prompting GPT-4. \[19 Sep 2023]
 
-25. [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927): a summary detailing the prompting methodology, its applications.🏆Taxonomy of prompt engineering techniques in LLMs. \[5 Feb 2024]
+26. [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927): a summary detailing the prompting methodology, its applications.🏆Taxonomy of prompt engineering techniques in LLMs. \[5 Feb 2024]
 
 *   <details>
 
@@ -1038,6 +1040,8 @@ class AgentType(str, Enum):
     2.  [RankPrompt](https://arxiv.org/abs/2403.12373): Self-ranking method. Direct Scoring
         independently assigns scores to each candidate, whereas RankPrompt ranks candidates through a
         systematic, step-by-step comparative evaluation. \[19 Mar 2024]
+
+    3.  [Language Models as Compilers](https://arxiv.org/abs/2404.02575): With extensive experiments on seven algorithmic reasoning tasks, Think-and-Execute is effective. It enhances large language models’ reasoning by using task-level logic and pseudocode, outperforming instance-specific methods. \[20 Mar 2023]
 
   </details>
 
@@ -1060,6 +1064,7 @@ class AgentType(str, Enum):
 *   [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library): Anthropic released a Claude 3 AI prompt library \[Mar 2024]
 *   [Copilot prompts (⭐120)](https://github.com/pnp/copilot-prompts): Examples of prompts for Microsoft Copilot. \[25 Apr 2024]
 *   [In-The-Wild Jailbreak Prompts on LLMs (⭐1.7k)](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts). Collected from December 2022 to December 2023 \[Aug 2023]
+*   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
 
 ### **Finetuning**
 
@@ -1455,9 +1460,6 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   Open AI Enterprise: Removes GPT-4 usage caps, and performs up to two times faster [ref](https://openai.com/blog/introducing-chatgpt-enterprise) \[28 Aug 2023]
 *   [ChatGPT Plugin](https://openai.com/blog/chatgpt-plugins) \[23 Mar 2023]
 *   [ChatGPT Function calling](https://platform.openai.com/docs/guides/gpt/function-calling) \[Jun 2023]
-    *   syntax the model has been trained on.
-        This means functions count against the model's context limit and are billed as input tokens.
-        If running into context limits, we suggest limiting the number of functions or the length of documentation you provide for function parameters.
     *   Azure OpenAI start to support function calling. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling#using-function-in-the-chat-completions-api)
 *   [Custom instructions](https://openai.com/blog/custom-instructions-for-chatgpt): In a nutshell, the Custom Instructions feature is a cross-session memory that allows ChatGPT to retain key instructions across chat sessions. \[20 Jul 2023]
 *   [Introducing the GPT Store](https://openai.com/blog/introducing-the-gpt-store): Roll out the GPT Store to ChatGPT Plus, Team and Enterprise users  [GPTs](https://chat.openai.com/gpts) \[10 Jan 2024]
@@ -1563,6 +1565,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [Design2Code](https://arxiv.org/abs/2403.03163): How Far Are We From Automating Front-End Engineering? `64% of cases GPT-4V
     generated webpages are considered better than the original reference webpages` \[5 Mar 2024]
 *   [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z): Some large language models (LLMs) perform as well as, and in some cases better than, humans when presented with tasks designed to test the ability to track people’s mental states, known as “theory of mind.” [cite](https://www.technologyreview.com/2024/05/20/1092681/ai-models-can-outperform-humans-in-tests-to-identify-mental-states) \[20 May 2024]
+*   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
 
 ## **Section 7** : Large Language Model: Landscape
 
@@ -1573,6 +1576,8 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 3.  Further scaling (think 10000x GPT-4 scale). It entails finding the inductive bias that is the bottleneck in further scaling.
 
 *   [Twitter](https://twitter.com/hwchung27/status/1710003293223821658) / [Video](https://t.co/vumzAtUvBl) / [Slides](https://t.co/IidLe4JfrC) \[6 Oct 2023]
+*   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
+*   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
 
 ### **Evolutionary Tree of Large Language Models**
 
@@ -1632,6 +1637,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     1.  [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): MoE, open, general-purpose LLM created by Databricks. [git (⭐2.5k)](https://github.com/databricks/dbrx) \[27 Mar 2024]
 *   Apple
     1.  [OpenELM](https://machinelearning.apple.com/research/openelm): Apple released a Transformer-based language model. Four sizes of the model: 270M, 450M, 1.1B, and 3B parameters. \[April 2024]
+    2.  [Apple Intelligence Foundation Language Models](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models): 1. A 3B on-device model used for language tasks like summarization and Writing Tools. 2. A large Server model used for language tasks too complex to do on-device. \[10 Jun 2024]
 *   Microsoft
     1.  phi-series: cost-effective small language models (SLMs) [X-ref](#knowledge-distillation-reducing-model-size-with-textbooks)
 *   NVIDIA
@@ -1643,6 +1649,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     1.  [Llama-3-Groq-Tool-Use](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/): a model optimized for function calling \[Jul 2024]
 *   GPT for Domain Specific [X-ref](#gpt-for-domain-specific)
 *   MLLM (multimodal large language model) [X-ref](#mllm-multimodal-large-language-model)
+*   Large Language Models (in 2023) [X-ref](#large-language-models-in-2023)
 
 <details>
 <summary>Expand</summary>

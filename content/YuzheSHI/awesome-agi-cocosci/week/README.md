@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
+### Domain Specific Language / Imperative DSL Applications
+
+*   [Building an Open Representation for Biological Protocols](https://dl.acm.org/doi/full/10.1145/3604568) - ***ACM Journal on Emerging Technologies in Computing Systems***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17225405546647782000)]. There is currently no available protocol representation that is unambiguous enough for precise interpretation and automation, yet simultaneously “human friendly” and abstract enough to enable reuse and adaptation. The Laboratory Open Protocol language (LabOP) is a free and open protocol representation aiming to address this gap, building on a foundation of UML, Autoprotocol, Aquarium, SBOL RDF, and the Provenance Ontology. LabOP provides a linked-data representation both for protocols and for records of their execution and the resulting data, as well as a framework for exporting from LabOP for execution by either humans or laboratory automation.
+
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
