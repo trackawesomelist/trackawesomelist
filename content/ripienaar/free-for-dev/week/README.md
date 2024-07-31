@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Storage and Media Processing
+
+*   [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Security and PKI
