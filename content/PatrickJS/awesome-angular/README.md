@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 31, 2024](/content/2024/07/31/README.md)
+
+### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [pretty-html-log (⭐39)](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
+
 ## [Jul 30, 2024](/content/2024/07/30/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -73,7 +79,7 @@
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. Launches July 30.
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.

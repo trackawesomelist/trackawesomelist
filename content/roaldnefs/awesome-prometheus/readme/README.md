@@ -45,10 +45,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 <!--lint ignore double-link-->
 
 *   [Website](https://prometheus.io/) - Official Prometheus project website.
-*   [GitHub repository (⭐51k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+*   [GitHub repository (⭐54k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 *   [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 *   [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
-*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐89)](https://github.com/prometheus/demo-site).
+*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐96)](https://github.com/prometheus/demo-site).
 
 ## Tutorials
 
@@ -125,14 +125,15 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 *   [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) - Addressing alert flapping and duplicates in Alertmanager by [Ali Sattari](https://github.com/ali-sattari).
 *   [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) - Contributing to Prometheus by Atibhi Agrawal.
 *   [Simple Prometheus queries for metrics inspection](https://mkaz.me/blog/2023/simple-prometheus-queries-for-metrics-inspection/) - Overview of PromQL queries that help to identify high cardinality metrics by Michal Kazmierczak.
+*   [Learn Prometheus](https://pagertree.com/learn/prometheus) - A crash course of Prometheus by PagerTree LLC.
 
 ## Deployment tools
 
-*   [Ansitheus (⭐21)](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
+*   [Ansitheus (⭐23)](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
 *   [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and common Prometheus exporters.
-*   [Ansible-prometheus (⭐91)](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
-*   [Click-to-deploy Prometheus (⭐697)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
-*   [Prometheus Operator (⭐8.5k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
+*   [Ansible-prometheus (⭐92)](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
+*   [Click-to-deploy Prometheus (⭐718)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
+*   [Prometheus Operator (⭐8.9k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 
 ## Dashboards
 
@@ -145,52 +146,52 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ### Databases
 
-*   [Consul exporter (⭐418)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
-*   [Memcached exporter (⭐173)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
-*   [MySQL server exporter (⭐2k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
+*   [Consul exporter (⭐438)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
+*   [Memcached exporter (⭐182)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
+*   [MySQL server exporter (⭐2.1k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
 
 ### Hardware related
 
-*   [Node/system metrics exporter (⭐9.8k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
+*   [Node/system metrics exporter (⭐11k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
 
 ### HTTP
 
-*   [HAProxy exporter (⭐607)](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats.
+*   [HAProxy exporter (⭐612)](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats.
 
 ### Other monitoring systems
 
-*   [AWS CloudWatch exporter (⭐840)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
-*   [Collectd exporter (⭐246)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
-*   [Graphite exporter (⭐327)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
-*   [InfluxDB (⭐246)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
-*   [JMX exporter (⭐2.8k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
-*   [SNMP exporter (⭐1.4k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
-*   [StatsD exporter (⭐875)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
+*   [AWS CloudWatch exporter (⭐883)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
+*   [Collectd exporter (⭐255)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
+*   [Graphite exporter (⭐348)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
+*   [InfluxDB (⭐260)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+*   [JMX exporter (⭐3k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
+*   [SNMP exporter (⭐1.6k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
+*   [StatsD exporter (⭐909)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
 
 ### Miscellaneous
 
-*   [Blackbox (⭐4.1k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+*   [Blackbox (⭐4.5k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 ## Alertmanager
 
 *   [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
-*   [Awesome Prometheus Alerting Rules (⭐5.7k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
-*   [Karma (⭐2.1k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Awesome Prometheus Alerting Rules (⭐6.3k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+*   [Karma (⭐2.3k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## Proxies
 
 *   [Multi-prometheus proxy (⭐37)](https://github.com/matt-deboer/mpp) - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
-*   [Promxy (⭐1k)](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
-*   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
-*   [exporter\_proxy (⭐5)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
+*   [Promxy (⭐1.1k)](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
+*   [Trickster (⭐2k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
+*   [exporter\_proxy (⭐6)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 *   [PromQL Guard (⭐24)](https://github.com/kfdm/promql-guard) - Provides a thin proxy on top of Prometheus, that allows PromQL queries to be inspected and re-written, so that a tenant can only see allowed data, even when using a shared Prometheus server.
 
 ## High Availability
 
-*   [Cortex (⭐5.3k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
-*   [Thanos (⭐12k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
-*   [M3DB (⭐4.6k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
-*   [VictoriaMetrics (⭐10k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+*   [Cortex (⭐5.4k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+*   [Thanos (⭐13k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+*   [M3DB (⭐4.7k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
+*   [VictoriaMetrics (⭐11k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ## Uncategorized
 
