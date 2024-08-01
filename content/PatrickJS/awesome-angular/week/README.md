@@ -12,6 +12,10 @@
 
 *   [daily.dev](https://app.daily.dev/tags/angular)
 
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.

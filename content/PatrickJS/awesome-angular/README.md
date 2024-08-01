@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Aug 01, 2024](/content/2024/08/01/README.md)
+
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+
 ## [Jul 31, 2024](/content/2024/07/31/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

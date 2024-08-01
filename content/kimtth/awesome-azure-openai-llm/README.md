@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 01, 2024](/content/2024/08/01/README.md)
+
+### **Large Language Models (in 2023)** / **GPT series release date**
+
+*   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
+
 ## [Jul 30, 2024](/content/2024/07/30/README.md)
 
 ### **Prompt Engineering** / **Prompt Template Language**

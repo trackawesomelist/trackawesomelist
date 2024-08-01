@@ -24,6 +24,7 @@
 
 *   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
 *   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
+*   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 

@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
+### Networking
+
+*   [FTP client for C++ (⭐207)](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. \[MIT]
+
 ### Reflection
 
 *   [simple\_enum (⭐18)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)

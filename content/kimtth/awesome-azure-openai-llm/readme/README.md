@@ -1578,6 +1578,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [Twitter](https://twitter.com/hwchung27/status/1710003293223821658) / [Video](https://t.co/vumzAtUvBl) / [Slides](https://t.co/IidLe4JfrC) \[6 Oct 2023]
 *   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
 *   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
+*   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
 
 ### **Evolutionary Tree of Large Language Models**
 

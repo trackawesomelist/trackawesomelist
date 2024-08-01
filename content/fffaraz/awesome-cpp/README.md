@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Aug 01, 2024](/content/2024/08/01/README.md)
+
+### Networking
+
+*   [FTP client for C++ (⭐207)](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. \[MIT]
+
 ## [Jul 31, 2024](/content/2024/07/31/README.md)
 
 ### Reflection
