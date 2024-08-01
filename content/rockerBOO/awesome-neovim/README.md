@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 01, 2024](/content/2024/08/01/README.md)
+
+### Neovim Lua Development / Diagnostics
+
+*   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
+
 ## [Jul 31, 2024](/content/2024/07/31/README.md)
 
 ### Utility / Diagnostics
@@ -64,7 +70,7 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+*   [Kicamon/markdown-table-mode.nvim (⭐27)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
@@ -3284,7 +3290,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [crusj/bookmarks.nvim (⭐204)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-*   [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
+*   [xiyaowong/virtcolumn.nvim (⭐80)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 
 ### Treesitter Based / Diagnostics
 
@@ -3304,7 +3310,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐306)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ## [May 19, 2022](/content/2022/05/19/README.md)
 

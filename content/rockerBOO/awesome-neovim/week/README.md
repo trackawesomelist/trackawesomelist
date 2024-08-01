@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [QuentinGruber/timespent.nvim (⭐1)](https://github.com/QuentinGruber/timespent.nvim) - Display time spent on projects / files.
 
+### Neovim Lua Development / Diagnostics
+
+*   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### (requires Neovim 0.5)
@@ -54,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+*   [Kicamon/markdown-table-mode.nvim (⭐27)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -2680,7 +2684,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [crusj/bookmarks.nvim (⭐204)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-*   [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
+*   [xiyaowong/virtcolumn.nvim (⭐80)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 
 ### Treesitter Based / Diagnostics
 
@@ -2706,7 +2710,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐306)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ### Formatting / Diagnostics
 

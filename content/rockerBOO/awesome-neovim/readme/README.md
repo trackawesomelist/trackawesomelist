@@ -294,7 +294,7 @@ Collections of awesome neovim plugins.
 *   [arminveres/md-pdf.nvim (⭐61)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
 *   [ChuufMaster/markdown-toc (⭐14)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 *   [OXY2DEV/markview.nvim (⭐667)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
-*   [Kicamon/markdown-table-mode.nvim (⭐5)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+*   [Kicamon/markdown-table-mode.nvim (⭐27)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
 ### PHP
 
@@ -752,10 +752,10 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [toppair/reach.nvim (⭐236)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 *   [axieax/urlview.nvim (⭐232)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 *   [nkakouros-original/numbers.nvim (⭐34)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
-*   [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐306)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 *   [sontungexpt/url-open (⭐74)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 *   [crusj/bookmarks.nvim (⭐204)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-*   [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
+*   [xiyaowong/virtcolumn.nvim (⭐80)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 *   [m-demare/attempt.nvim (⭐77)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 *   [kevinhwang91/nvim-ufo (⭐2.2k)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 *   [xiyaowong/link-visitor.nvim (⭐45)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
@@ -931,6 +931,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [anuvyklack/animation.nvim (⭐42)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 *   [nfrid/treesitter-utils (⭐7)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
 *   [nvim-lusc (⭐13)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+*   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
 ## Fennel
 

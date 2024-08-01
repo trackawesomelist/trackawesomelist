@@ -8,9 +8,14 @@
 
 ## [Aug 01, 2024](/content/2024/08/01/README.md)
 
+### Prompt Tuner / **Prompt Template Language**
+
+*   [Cohere’s new Prompt Tuner](https://cohere.com/blog/intro-prompt-tuner): Automatically improve your prompts \[31 Jul 2024]
+
 ### **Large Language Models (in 2023)** / **GPT series release date**
 
 *   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
+*   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
 
 ## [Jul 30, 2024](/content/2024/07/30/README.md)
 
@@ -548,7 +553,7 @@
 
 ## [May 14, 2024](/content/2024/05/14/README.md)
 
-### **Prompt Engineering** / **Prompt Template Language**
+### Prompt Tuner / **Prompt Template Language**
 
 *   [Claude Prompt Engineer (⭐8.6k)](https://github.com/mshumer/gpt-prompt-engineer): Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.  \[4 Jul 2023] / Anthropic Helper metaprompt [ref](https://docs.anthropic.com/en/docs/helper-metaprompt-experimental) / [Claude Sonnet 3.5 for Coding](https://www.reddit.com/r/ClaudeAI/comments/1dwra38/sonnet_35_for_coding_system_prompt/)
 
@@ -980,7 +985,7 @@
         chain = prompt | model | parser
         ```
 
-### **Prompt Engineering** / **Prompt Template Language**
+### Prompt Tuner / **Prompt Template Language**
 
 *   [Automatic Prompt Engineer (APE)](https://arxiv.org/abs/2211.01910): Automatically optimizing prompts. APE has discovered zero-shot Chain-of-Thought (CoT) prompts superior to human-designed prompts like “Let’s think through this step-by-step” (Kojima et al., 2022). The prompt “To get the correct answer, let’s think step-by-step.” triggers a chain of thought. Two approaches to generate high-quality candidates: forward mode and reverse mode generation. \[3 Nov 2022] [git (⭐1.1k)](https://github.com/keirp/automatic_prompt_engineer) / [ref](https:/towardsdatascience.com/automated-prompt-engineering-78678c6371b9) \[Mar 2024]
 
