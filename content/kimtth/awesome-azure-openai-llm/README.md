@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 02, 2024](/content/2024/08/02/README.md)
+
+### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
+
+*   [Prompty (⭐278)](https://github.com/microsoft/prompty): Prompty is a template language for integrating prompts with LLMs and frameworks, enhancing prompt management and evaluation. \[Apr 2024]
+
 ## [Aug 01, 2024](/content/2024/08/01/README.md)
 
 ### Prompt Tuner / **Prompt Template Language**
@@ -118,13 +124,13 @@
 
 ### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
 
-*   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
+*   [Generative AI Design Patterns for Agentic AI Systems (⭐572)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment.
+*   [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment. \[Dec 2023]
 
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
@@ -201,6 +207,7 @@
     *   Open Source AI Searches: [Perplexica (⭐11k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.4k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.1k)](https://github.com/neuml/txtai) / [Typesense (⭐19k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.1k)](https://github.com/miurla/morphic)
     *   [AutoRAG (⭐1.2k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
     *   [RAGflow (⭐13k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
+    *   [MindSearch (⭐2k)](https://github.com/InternLM/MindSearch): an open-source AI Search Engine Framework \[Jul 2024]
 
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 

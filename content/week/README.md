@@ -356,14 +356,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Mage](https://www.mage.ai) - Open-source data pipeline tool for transforming and integrating data.
 
-#### [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Storage and Media Processing
-
-*   [FreeImage.host](https://freeimage.host/) — With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.
-*   [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
-
-#### [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Networking
 
@@ -373,13 +366,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [simple\_enum (⭐18)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
 
-#### [21. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+#### [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ##### Blockchain API and Web services
 
 *   [Satonomics](https://satonomics.xyz) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 
-#### [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Golang / Diagnostics
 
@@ -393,36 +386,42 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
-#### [23. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+#### [22. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ##### Others
 
 *   [Tennis Refactoring Kata (⭐712)](https://github.com/emilybache/Tennis-Refactoring-Kata)
 
-#### [24. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [23. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
-##### **Prompt Engineering** / **Prompt Template Language**
+##### Scripts / ChatGPT
 
-*   [Plan-and-Solve Prompting](https://arxiv.org/abs/2305.04091): Develop a plan, and then execute each step in that plan. \[6 May 2023]
+*   [ChatGPT Auto-Talk (⭐2)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
-##### Prompt Tuner / **Prompt Template Language**
+#### [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-*   [Cohere’s new Prompt Tuner](https://cohere.com/blog/intro-prompt-tuner): Automatically improve your prompts \[31 Jul 2024]
+##### Applications / Blockchain
 
-##### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+*   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
-*   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
+##### Applications / Utilities
 
-##### **Large Language Model Is: Abilities** / **GPT series release date**
+*   [Linus-Mussmaecher/rucola (⭐89)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
 
-*   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
+##### Development tools / Build system
 
-##### **Large Language Models (in 2023)** / **GPT series release date**
+*   [facebook/buck2 (⭐3.4k)](https://github.com/facebook/buck2) - [Buck2](https://buck2.build/) is a large-scale build tool built in Rust
+*   [pantsbuild/pants (⭐3.2k)](https://github.com/pantsbuild/pants) - [Pants](https://www.pantsbuild.org/) is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust.
+*   [tracemachina/nativelink (⭐856)](https://github.com/tracemachina/nativelink) - [NativeLink](https://www.nativelink.com) is a Backend Remote Execution platform written in rust for client build systems such as [Buck2](https://buck2.build/), [Bazel](https://bazel.build/), [Pants](https://www.pantsbuild.org/), etc.. [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TraceMachina/nativelink/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TraceMachina/nativelink) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8050/badge)](https://www.bestpractices.dev/projects/8050) [![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://nativelink.slack.com/join/shared_invite/zt-281qk1ho0-krT7HfTUIYfQMdwflRuq7A#/shared-invite/email)
 
-*   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
-*   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
-*   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
-*   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
+##### Libraries / Encoding
+
+*   JSON
+    *   [cloudwego/sonic-rs (⭐357)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
+    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
+    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
+    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
 #### [25. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -433,6 +432,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+
+##### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-chrome-extension (⭐161)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 
 ##### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -478,123 +481,52 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-treeview2 (⭐0)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
-#### [26. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+#### [26. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-##### Scripts / ChatGPT
+##### Storage and Media Processing
 
-*   [ChatGPT Auto-Talk (⭐2)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+*   [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
 
 #### [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-##### Libraries/Frameworks / Extensions
+##### Libraries/Frameworks / Database
 
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+*   [mongodb/mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - The official MongoDB Kotlin Driver allows developers to build server-side Kotlin applications with MongoDB.
 
-##### Libraries/Frameworks / Graphics
+#### [28. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+##### News and Resources
 
-##### Libraries/Frameworks / Data Science
+*   [adasearch](https://mgrojo.github.io/adasearch/) - Custom search engines for finding anything related to the Ada and SPARK programming languages, without interference from other homonymous topics.
 
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+#### [29. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-##### Libraries/Frameworks / Logging
+##### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+*   [Prompty (⭐278)](https://github.com/microsoft/prompty): Prompty is a template language for integrating prompts with LLMs and frameworks, enhancing prompt management and evaluation. \[Apr 2024]
 
-##### Libraries/Frameworks / Mail
+##### **Prompt Engineering** / **Prompt Template Language**
 
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+*   [Plan-and-Solve Prompting](https://arxiv.org/abs/2305.04091): Develop a plan, and then execute each step in that plan. \[6 May 2023]
 
-##### Projects / Web
+##### Prompt Tuner / **Prompt Template Language**
 
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+*   [Cohere’s new Prompt Tuner](https://cohere.com/blog/intro-prompt-tuner): Automatically improve your prompts \[31 Jul 2024]
 
-##### Projects / Build tools
+##### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+*   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
 
-##### Projects / Misc
+##### **Large Language Model Is: Abilities** / **GPT series release date**
 
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+*   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
 
-##### Projects / Desktop
+##### **Large Language Models (in 2023)** / **GPT series release date**
 
-*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-##### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-##### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-##### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-##### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-##### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-##### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-##### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐565)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-##### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐317)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-##### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-#### [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Blockchain
-
-*   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
-
-##### Applications / Utilities
-
-*   [Linus-Mussmaecher/rucola (⭐89)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
-
-##### Development tools / Build system
-
-*   [facebook/buck2 (⭐3.4k)](https://github.com/facebook/buck2) - [Buck2](https://buck2.build/) is a large-scale build tool built in Rust
-*   [pantsbuild/pants (⭐3.2k)](https://github.com/pantsbuild/pants) - [Pants](https://www.pantsbuild.org/) is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust.
-*   [tracemachina/nativelink (⭐856)](https://github.com/tracemachina/nativelink) - [NativeLink](https://www.nativelink.com) is a Backend Remote Execution platform written in rust for client build systems such as [Buck2](https://buck2.build/), [Bazel](https://bazel.build/), [Pants](https://www.pantsbuild.org/), etc.. [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TraceMachina/nativelink/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TraceMachina/nativelink) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8050/badge)](https://www.bestpractices.dev/projects/8050) [![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://nativelink.slack.com/join/shared_invite/zt-281qk1ho0-krT7HfTUIYfQMdwflRuq7A#/shared-invite/email)
-
-##### Libraries / Encoding
-
-*   JSON
-    *   [cloudwego/sonic-rs (⭐357)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
-    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
-    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
-    *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+*   [LLMprices.dev](https://llmprices.dev): Compare prices for models like GPT-4, Claude Sonnet 3.5, Llama 3.1 405b and many more.
+*   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
+*   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
+*   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
 
 ---
 
@@ -605,7 +537,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 312K 📝 07&#x2F;23 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 126K 📝 07&#x2F;29 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 188K 📝 07&#x2F;25 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;01 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 07&#x2F;31 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 73K 📝 07&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 58K 📝 08&#x2F;01 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 7. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 212K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -614,11 +546,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 08&#x2F;01 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 11. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 19K 📝 07&#x2F;29 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 12. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 18K 📝 07&#x2F;30 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-13. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 33K 📝 07&#x2F;22 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-14. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 08&#x2F;02 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-15. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 13K 📝 07&#x2F;30 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-16. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 07&#x2F;28 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-17. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K 📝 08&#x2F;02 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+13. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 08&#x2F;02 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+14. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 33K 📝 07&#x2F;22 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+15. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.4K 📝 08&#x2F;02 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+16. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 13K 📝 07&#x2F;30 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 07&#x2F;28 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 18. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 52K 📝 07&#x2F;15 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 19. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 324K 📝 06&#x2F;24 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 20. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 07&#x2F;25 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
@@ -1017,7 +949,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 290, 📝 08&#x2F;01 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 290, 📝 08&#x2F;02 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 
 ### Learn
 
@@ -1198,7 +1130,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;01 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 07&#x2F;31 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;10 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1278,7 +1210,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Programming Languages
 
 - [Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md) - ([Source ⭐ 188, 📝 22&#x2F;11&#x2F;13 ](https://github.com/robinrodricks/awesome-actionscript3)) - A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
-- [Awesome Ada](/content/ohenley/awesome-ada/README.md) - ([Source ⭐ 591, 📝 05&#x2F;23 ](https://github.com/ohenley/awesome-ada)) - A curated list of awesome resources related to the Ada and SPARK programming language
+- [Awesome Ada](/content/ohenley/awesome-ada/README.md) - ([Source ⭐ 615, 📝 08&#x2F;02 ](https://github.com/ohenley/awesome-ada)) - A curated list of awesome resources related to the Ada and SPARK programming language
 - [Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md) - ([Source ⭐ 3.8K, 📝 23&#x2F;01&#x2F;08 ](https://github.com/timofurrer/awesome-asyncio)) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md) - ([Source ⭐ 2.1K, 📝 22&#x2F;09&#x2F;04 ](https://github.com/ahkscript/awesome-AutoHotkey)) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md) - ([Source ⭐ 756, 📝 22&#x2F;07&#x2F;10 ](https://github.com/J2TEAM/awesome-AutoIt)) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.

@@ -226,6 +226,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   Open Source AI Searches: [Perplexica (⭐11k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.4k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.1k)](https://github.com/neuml/txtai) / [Typesense (⭐19k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.1k)](https://github.com/miurla/morphic)
     *   [AutoRAG (⭐1.2k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
     *   [RAGflow (⭐13k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
+    *   [MindSearch (⭐2k)](https://github.com/InternLM/MindSearch): an open-source AI Search Engine Framework \[Jul 2024]
 
 ### **LlamaIndex**
 
@@ -374,7 +375,8 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 15. [PromptBench (⭐2.3k)](https://github.com/microsoft/promptbench): A unified evaluation framework for large language models \[Jun 2023]
 16. [UFO (⭐7.1k)](https://github.com/microsoft/UFO): A UI-Focused Agent for Windows OS Interaction. \[Mar 2024]
 17. [SAMMO (⭐272)](https://github.com/microsoft/sammo): A general-purpose framework for prompt optimization. [ref](https://www.microsoft.com/en-us/research/blog/sammo-a-general-purpose-framework-for-prompt-optimization/) \[April 2024]
-18. [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment.
+18. [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment. \[Dec 2023]
+19. [Prompty (⭐278)](https://github.com/microsoft/prompty): Prompty is a template language for integrating prompts with LLMs and frameworks, enhancing prompt management and evaluation. \[Apr 2024]
 
 *   [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/): Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product \[May 2023]
 *   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐1.9k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
@@ -2076,7 +2078,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     *   [LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step](https://arxiv.org/abs/2402.16906) \[25 Feb 2024]
     *   [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793) \[6 May 2024]
 *   [AI Agents That Matter](https://arxiv.org/abs/2407.01502): AI agent evaluations for optimizing both accuracy and cost. Focusing solely on accuracy can lead to overfitting and high costs. `retry, warming, escalation` \[1 Jul 2024]
-*   [Generative AI Design Patterns for Agentic AI Systems (⭐565)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
+*   [Generative AI Design Patterns for Agentic AI Systems (⭐572)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 
 #### Tool use: LLM to Master APIs
 

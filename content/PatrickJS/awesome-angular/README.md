@@ -8,6 +8,10 @@
 
 ## [Aug 02, 2024](/content/2024/08/02/README.md)
 
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-chrome-extension (⭐161)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
+
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [xtreme-admin-angular-lite (⭐22)](https://github.com/wrappixel/xtreme-admin-angular-lite) - Xtreme is the most powerful & comprehensive free Angular admin template based on Bootstrap Angular.

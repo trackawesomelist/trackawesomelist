@@ -16,6 +16,10 @@
 
 *   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
 
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-chrome-extension (⭐161)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
+
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.
