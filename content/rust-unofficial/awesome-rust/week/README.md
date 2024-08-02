@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [Subspace (⭐370)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
+### Applications / Utilities
+
+*   [Linus-Mussmaecher/rucola (⭐89)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
+
 ### Development tools / Build system
 
 *   [facebook/buck2 (⭐3.4k)](https://github.com/facebook/buck2) - [Buck2](https://buck2.build/) is a large-scale build tool built in Rust
@@ -165,10 +169,6 @@ A curated list of Rust code and resources.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
-### Applications
-
-*   [datafusion (⭐5.6k)](https://github.com/apache/datafusion) - Apache Arrow DataFusion and Ballista query engines
-
 ### Applications / Security tools
 
 *   [Raspirus (⭐101)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
@@ -182,6 +182,10 @@ A curated list of Rust code and resources.
 *   Science
     *   [cpmech/russell (⭐93)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [indigits/scirust (⭐264)](https://github.com/indigits/scirust) - Scientific computing library
+
+### Libraries / Data processing
+
+*   [datafusion (⭐5.6k)](https://github.com/apache/datafusion) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
 
 ### Libraries / Markup language
 
@@ -620,7 +624,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐9k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐10k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -1132,7 +1136,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [xilem (⭐3.2k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
+*   [xilem (⭐3.2k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.5k)](https://github.com/linebender/druid).
 
 ### Libraries / Platform specific
 
@@ -1659,7 +1663,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐19k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐20k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ### Libraries / Network programming
 
@@ -2242,7 +2246,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [fschutt/azul (⭐5.8k)](https://github.com/fschutt/azul) - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
+*   [fschutt/azul (⭐5.9k)](https://github.com/fschutt/azul) - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
 *   [Qt](https://doc.qt.io)
     *   [cyndis/qmlrs (⭐437)](https://github.com/cyndis/qmlrs) - QtQuick bindings
     *   [rust-qt](https://github.com/rust-qt) - Qt bindings for Rust

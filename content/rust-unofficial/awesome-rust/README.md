@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 02, 2024](/content/2024/08/02/README.md)
+
+### Applications / Utilities
+
+*   [Linus-Mussmaecher/rucola (⭐89)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
+
 ## [Jul 30, 2024](/content/2024/07/30/README.md)
 
 ### Development tools / Build system
@@ -210,13 +216,13 @@ A curated list of Rust code and resources.
 
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
-### Applications
-
-*   [datafusion (⭐5.6k)](https://github.com/apache/datafusion) - Apache Arrow DataFusion and Ballista query engines
-
 ### Applications / Security tools
 
 *   [Raspirus (⭐101)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
+
+### Libraries / Data processing
+
+*   [datafusion (⭐5.6k)](https://github.com/apache/datafusion) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
 
 ### Libraries / Markup language
 
@@ -690,7 +696,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐9k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐10k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
@@ -1298,7 +1304,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [xilem (⭐3.2k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
+*   [xilem (⭐3.2k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.5k)](https://github.com/linebender/druid).
 
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
@@ -1859,7 +1865,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐19k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐20k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ## [Feb 10, 2022](/content/2022/02/10/README.md)
 
@@ -2517,7 +2523,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [fschutt/azul (⭐5.8k)](https://github.com/fschutt/azul) - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
+*   [fschutt/azul (⭐5.9k)](https://github.com/fschutt/azul) - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
 *   [Qt](https://doc.qt.io)
     *   [cyndis/qmlrs (⭐437)](https://github.com/cyndis/qmlrs) - QtQuick bindings
     *   [rust-qt](https://github.com/rust-qt) - Qt bindings for Rust
