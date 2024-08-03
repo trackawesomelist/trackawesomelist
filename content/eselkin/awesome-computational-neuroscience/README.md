@@ -2,9 +2,17 @@
 
 A list of schools and researchers in computational neuroscience
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eselkin/awesome-computational-neuroscience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) · ⭐ 448 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eselkin/awesome-computational-neuroscience/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) · ⭐ 702 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/eselkin/awesome-computational-neuroscience/week/README.md) / [Overview](/content/eselkin/awesome-computational-neuroscience/readme/README.md) ]
+
+## [Aug 03, 2024](/content/2024/08/03/README.md)
+
+### EPFL
+
+*   [Neuroscience (EDNE)](https://www.epfl.ch/education/phd/edne-neuroscience/)
+*   [Computer and Communication Sciences (EDIC)](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
+*   [Computational and Quantitative Biology (EDCB)](https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/)
 
 ## [Nov 24, 2019](/content/2019/11/24/README.md)
 

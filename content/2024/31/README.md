@@ -1,48 +1,205 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2024
 
-29 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Features
+
+*   [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
+*   [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
+*   [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
+*   [1.7 - Provider-defined functions](https://opentofu.org/docs/v1.7/intro/whats-new/#provider-defined-functions)
+*   [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
+*   [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
+
+### Tools / Wrappers
+
+*   [pug (⭐306)](https://github.com/leg100/pug) - A terminal user interface for power users.
+
+## [2. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+- API: [IP Stack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Locate and Identify Website Visitors by IP Address
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+- API: [Marketstack](https://marketstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-9cbac391-3611-4f50-9bfd-d24ae41c97c1?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-9cbac391-3611-4f50-9bfd-d24ae41c97c1%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+- API: [Weatherstack](https://weatherstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Retrieve instant, accurate weather information for any location in the world in lightweight JSON format
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-276c4312-f682-425d-b6b1-0f82c0a7f2b3?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-276c4312-f682-425d-b6b1-0f82c0a7f2b3%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+- API: [Numverify](https://numverify.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Global Phone Number Validation & Lookup JSON API
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-0760d25e-b802-412e-b0e4-26e5ca3b9ffa?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-0760d25e-b802-412e-b0e4-26e5ca3b9ffa%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+- API: [Fixer](https://fixer.io/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Fixer is a simple and lightweight API for current and historical foreign exchange (forex) rates.
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+
+## [3. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
+
+### EPFL
+
+*   [Neuroscience (EDNE)](https://www.epfl.ch/education/phd/edne-neuroscience/)
+*   [Computer and Communication Sciences (EDIC)](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
+*   [Computational and Quantitative Biology (EDCB)](https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/)
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [allclear (⭐0)](https://github.com/givensuman/zsh-allclear) - Clears the terminal when you cd into `$HOME`.
+*   [historikeeper (⭐0)](https://github.com/stiliajohny/historikeeper) - Captures history in a database.
+*   [myservice (⭐0)](https://github.com/jarlor/zsh-myservice) - Designed to help you manage custom systemd services and Docker containers more conveniently. This plugin provides user-friendly commands to list and check the status of your custom services and Docker containers straight from your command line.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [aloy (garethclews) (⭐12)](https://github.com/garethclews/aloy) - Fork of [@elenapan's (⭐3.5k)](https://github.com/elenapan/dotfiles) lena theme. Includes magic enter from subnixr's [minimal (⭐259)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
+*   [aloy (karetsu) (⭐12)](https://github.com/karetsu/aloy) - Fork of [@elenapan's (⭐3.5k)](https://github.com/elenapan/dotfiles) lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's [minimal (⭐259)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
+*   [ritz (⭐0)](https://github.com/Ritzier/ritz.zsh-theme) - Includes decorators for time, current directory, `git` status, exit status and time used for last command run.
+*   [spectere (⭐0)](https://github.com/Spectere/spectere-omz-theme) - Powerline-esque. Includes decorators for current directory, root status, and `git` status.
+
+## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### News and Resources
 
 *   [adasearch](https://mgrojo.github.io/adasearch/) - Custom search engines for finding anything related to the Ada and SPARK programming languages, without interference from other homonymous topics.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [mongodb/mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - The official MongoDB Kotlin Driver allows developers to build server-side Kotlin applications with MongoDB.
 
-## [3. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐565)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐317)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [7. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / ChatGPT
 
 *   [ChatGPT Auto-Talk (⭐2)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
-## [4. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [8. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Tennis Refactoring Kata (⭐712)](https://github.com/emilybache/Tennis-Refactoring-Kata)
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Blockchain API and Web services
 
 *   [Satonomics](https://satonomics.xyz) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 
 *   [Mage](https://www.mage.ai) - Open-source data pipeline tool for transforming and integrating data.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
@@ -52,19 +209,19 @@
 
 *   [simple\_enum (⭐18)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Storage and Media Processing
 
 *   [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [13. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐15)](https://github.com/oviva-ag/ehealthid-relying-party)
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -121,7 +278,7 @@
 *   [NDJSON (⭐650) (⭐649)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐333) (⭐331)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications
 
@@ -242,13 +399,13 @@
 
 *   [<img src="https://github.com/RSSNext/follow/assets/41265413/c6c02ad5-cddc-46f5-8420-a47afe1c82fe" alt="Follow" width="50">](https://x.com/follow_app_)
 
-## [12. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [16. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Learn Prometheus](https://pagertree.com/learn/prometheus) - A crash course of Prometheus by PagerTree LLC.
 
-## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
@@ -277,7 +434,7 @@
 *   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
 *   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
 
-## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [18. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -287,13 +444,13 @@
 
 *   [shoebot](http://www.shoebot.net/) \[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
 
-## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Charts
 
 *   [ember-c3 (⭐81)](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [20. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Svelte
 
@@ -304,7 +461,7 @@
 
 *   [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
-## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Code Search
 
@@ -314,19 +471,19 @@
 
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
 *   [Program With Gio](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - PHP 8 course by Gio.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Third Party App Markets / Package Managers
 
 *   [Applite](https://aerolite.dev/applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/milanvarady/Applite)
 
-## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Imperative DSL Applications
 
@@ -336,13 +493,13 @@
 
 *   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Emacs / Third-party APIs
 
 *   [Quicksearch (⭐2)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
@@ -356,7 +513,7 @@
 
 *   [KubeVPN (⭐469)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 
-## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -392,7 +549,7 @@
 
 *   [SharpBrowser (⭐823)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
 
-## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Golang / Diagnostics
 
@@ -406,20 +563,20 @@
 
 *   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
-## [25. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [29. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@ebarooni/capacitor-calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 
-## [26. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Official Coq X/Twitter](https://x.com/CoqLang)
 *   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -444,7 +601,7 @@
     *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -502,7 +659,7 @@
 
 *   [ngx-treeview2 (⭐0)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
-## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Protocols
 
