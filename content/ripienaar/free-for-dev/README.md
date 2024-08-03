@@ -6,11 +6,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
-## [Aug 01, 2024](/content/2024/08/01/README.md)
+## [Aug 03, 2024](/content/2024/08/03/README.md)
 
-### Storage and Media Processing
+### Generative AI
 
-*   [FreeImage.host](https://freeimage.host/) — With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.
+*   [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
 
 ## [Jul 31, 2024](/content/2024/07/31/README.md)
 

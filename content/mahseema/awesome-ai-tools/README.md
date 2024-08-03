@@ -2,9 +2,65 @@
 
 A curated list of Artificial Intelligence Top Tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 708 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 808 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
+
+## [Aug 03, 2024](/content/2024/08/03/README.md)
+
+### Text / Search engines
+
+*   [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+
+### Text / Writing assistants
+
+*   [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
+
+### Text / Productivity
+
+*   [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
+*   [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+*   [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool\&utm_medium=c_and_p\&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.
+
+### Text / Customer Support
+
+*   [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+
+### Text / Developer tools
+
+*   [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
+*   [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+
+### Code / Developer tools
+
+*   [MutahunterAI (⭐200)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
+
+### Image / Services
+
+*   [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+
+### Image / Graphic design
+
+*   [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
+
+### Other / Music
+
+*   [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want.
+*   [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
+*   [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
+*   [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
+*   [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
+*   [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
+*   [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+
+### Learn AI free / Machine Learning
+
+*   [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
+
+### Related Awesome Lists / Deep Learning
+
+*   [Altern](https://altern.ai) - Find Best AI Tools
+*   [Awesome AI Models (⭐4)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 
 ## [Jul 19, 2024](/content/2024/07/19/README.md)
 
@@ -49,18 +105,18 @@ A curated list of Artificial Intelligence Top Tools
 ### Related Awesome Lists / Deep Learning
 
 *   [There's An AI](https://theresanai.com) - Frontpage of AI
-*   [Awesome AI SEO (⭐59)](https://github.com/xaramore/awesome-ai-seo)
-*   [Awesome AI Marketing (⭐35)](https://github.com/xaramore/awesome-ai-marketing)
-*   [Awesome AI Music (⭐33)](https://github.com/xaramore/awesome-ai-music)
-*   [Awesome AI Image (⭐33)](https://github.com/xaramore/awesome-ai-image)
-*   [Awesome AI Video (⭐28)](https://github.com/xaramore/awesome-ai-video)
-*   [Awesome AI Writing (⭐29)](https://github.com/xaramore/awesome-ai-writing)
+*   [Awesome AI SEO (⭐72)](https://github.com/xaramore/awesome-ai-seo)
+*   [Awesome AI Marketing (⭐42)](https://github.com/xaramore/awesome-ai-marketing)
+*   [Awesome AI Music (⭐43)](https://github.com/xaramore/awesome-ai-music)
+*   [Awesome AI Image (⭐41)](https://github.com/xaramore/awesome-ai-image)
+*   [Awesome AI Video (⭐35)](https://github.com/xaramore/awesome-ai-video)
+*   [Awesome AI Writing (⭐37)](https://github.com/xaramore/awesome-ai-writing)
 
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐232)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐243)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
@@ -163,7 +219,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐61)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐63)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
@@ -281,11 +337,11 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Other / Music
 
-*   [Petals (⭐8.9k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
+*   [Petals (⭐9k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 
 ### Learning resources / Music
 
-*   [OpenAI Cookbook (⭐57k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [OpenAI Cookbook (⭐58k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
@@ -381,7 +437,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
 *   [ChatGPT for Jupyter (⭐299)](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 *   [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
-*   [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code (⭐27k)](https://github.com/mckaywrigley/chatbot-ui).
+*   [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code (⭐28k)](https://github.com/mckaywrigley/chatbot-ui).
 *   [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 
 ### Text / Productivity
@@ -416,7 +472,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 *   [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 *   [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-*   [gpt4all (⭐67k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+*   [gpt4all (⭐68k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
 *   [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 *   [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 *   [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
@@ -433,11 +489,11 @@ A curated list of Artificial Intelligence Top Tools
 *   [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 *   [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 *   [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-*   [PR-Agent (⭐4.9k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+*   [PR-Agent (⭐5.1k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 *   [GPT-Code UI (⭐3.5k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
-*   [MetaGPT (⭐41k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [MetaGPT (⭐42k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
 ### Image / Models
 
@@ -513,7 +569,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [Coqui](https://coqui.ai/) - Generative AI for Voice.
 *   [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
 *   [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
-*   [TorToiSe (⭐12k)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
+*   [TorToiSe (⭐13k)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 *   [Bark (⭐34k)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 
 ### Phone Calls / Music
@@ -532,11 +588,11 @@ A curated list of Artificial Intelligence Top Tools
 *   [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 *   [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 *   [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
-*   [Teleprompter (⭐323)](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
+*   [Teleprompter (⭐321)](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 *   [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 
 ### Learning resources / Music
 
 *   [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
-*   [Prompt Engineering Guide (⭐46k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
+*   [Prompt Engineering Guide (⭐47k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 *   [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).

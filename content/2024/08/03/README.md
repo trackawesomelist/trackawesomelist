@@ -1,12 +1,84 @@
 # Awesome List Updates on Aug 03, 2024
 
-5 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+### Text / Search engines
+
+*   [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+
+### Text / Writing assistants
+
+*   [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
+
+### Text / Productivity
+
+*   [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
+*   [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+*   [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool\&utm_medium=c_and_p\&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.
+
+### Text / Customer Support
+
+*   [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+
+### Text / Developer tools
+
+*   [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
+*   [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+
+### Code / Developer tools
+
+*   [MutahunterAI (⭐200)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
+
+### Image / Services
+
+*   [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+
+### Image / Graphic design
+
+*   [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
+
+### Other / Music
+
+*   [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want.
+*   [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
+*   [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
+*   [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
+*   [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
+*   [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
+*   [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+
+### Learn AI free / Machine Learning
+
+*   [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
+
+### Related Awesome Lists / Deep Learning
+
+*   [Altern](https://altern.ai) - Find Best AI Tools
+*   [Awesome AI Models (⭐4)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Networking
+
+*   [net](https://golang.org/x/net) - This repository holds supplementary Go networking libraries.
+
+### Serialization
+
+*   [go-csvlib (⭐12)](https://github.com/tiendc/go-csvlib) - High level and rich functionalities CSV serialization/deserialization library.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Generative AI
+
+*   [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
+
+## [4. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Features
 
@@ -21,7 +93,7 @@
 
 *   [pug (⭐306)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -104,7 +176,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 - API: [IP Stack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -142,7 +214,7 @@
 
 
 
-## [4. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/README.md)
+## [7. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/README.md)
 
 ### EPFL
 
@@ -150,7 +222,7 @@
 *   [Computer and Communication Sciences (EDIC)](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
 *   [Computational and Quantitative Biology (EDCB)](https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/)
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
