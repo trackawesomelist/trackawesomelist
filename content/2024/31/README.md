@@ -1,12 +1,30 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2024
 
-34 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Driver crates / WIP
+
+*   [SSD1322\_rs](https://crates.io/crates/ssd1322_rs) - SPI - Async graphics driver for SSD1322 screen - ![crates.io](https://img.shields.io/crates/v/ssd1322_rs.svg)
+
+## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Godot 4.2+
+
+*   [PixelPen (⭐46)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   [duckduckgo-ai-chat (⭐15)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
+
+## [4. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Search engines
 
@@ -62,7 +80,7 @@
 *   [Altern](https://altern.ai) - Find Best AI Tools
 *   [Awesome AI Models (⭐4)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 
-## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Features
 
@@ -77,7 +95,7 @@
 
 *   [pug (⭐306)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
-## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 - API: [IP Stack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -115,7 +133,7 @@
 
 
 
-## [4. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
+## [7. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
 
 ### EPFL
 
@@ -123,7 +141,7 @@
 *   [Computer and Communication Sciences (EDIC)](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
 *   [Computational and Quantitative Biology (EDCB)](https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/)
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -138,25 +156,17 @@
 *   [ritz (⭐0)](https://github.com/Ritzier/ritz.zsh-theme) - Includes decorators for time, current directory, `git` status, exit status and time used for last command run.
 *   [spectere (⭐0)](https://github.com/Spectere/spectere-omz-theme) - Powerline-esque. Includes decorators for current directory, root status, and `git` status.
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### News and Resources
 
 *   [adasearch](https://mgrojo.github.io/adasearch/) - Custom search engines for finding anything related to the Ada and SPARK programming languages, without interference from other homonymous topics.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [mongodb/mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - The official MongoDB Kotlin Driver allows developers to build server-side Kotlin applications with MongoDB.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ### Libraries/Frameworks / Logging
 
@@ -231,31 +241,31 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [11. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / ChatGPT
 
 *   [ChatGPT Auto-Talk (⭐2)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
-## [9. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [12. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Tennis Refactoring Kata (⭐712)](https://github.com/emilybache/Tennis-Refactoring-Kata)
 
-## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [13. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Blockchain API and Web services
 
 *   [Satonomics](https://satonomics.xyz) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 
-## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 
 *   [Mage](https://www.mage.ai) - Open-source data pipeline tool for transforming and integrating data.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
@@ -265,7 +275,7 @@
 
 *   [simple\_enum (⭐18)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Generative AI
 
@@ -275,13 +285,13 @@
 
 *   [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
 
-## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐15)](https://github.com/oviva-ag/ehealthid-relying-party)
 
-## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -338,7 +348,7 @@
 *   [NDJSON (⭐650) (⭐649)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐333) (⭐331)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [19. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications
 
@@ -459,13 +469,13 @@
 
 *   [<img src="https://github.com/RSSNext/follow/assets/41265413/c6c02ad5-cddc-46f5-8420-a47afe1c82fe" alt="Follow" width="50">](https://x.com/follow_app_)
 
-## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [20. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Learn Prometheus](https://pagertree.com/learn/prometheus) - A crash course of Prometheus by PagerTree LLC.
 
-## [18. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [21. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
@@ -494,7 +504,7 @@
 *   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
 *   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
 
-## [19. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [22. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -504,13 +514,13 @@
 
 *   [shoebot](http://www.shoebot.net/) \[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
 
-## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [23. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Charts
 
 *   [ember-c3 (⭐81)](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Svelte
 
@@ -521,7 +531,7 @@
 
 *   [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
-## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Code Search
 
@@ -531,19 +541,19 @@
 
 *   [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
 *   [Program With Gio](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - PHP 8 course by Gio.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Third Party App Markets / Package Managers
 
 *   [Applite](https://aerolite.dev/applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/milanvarady/Applite)
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Imperative DSL Applications
 
@@ -553,13 +563,13 @@
 
 *   [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Emacs / Third-party APIs
 
 *   [Quicksearch (⭐2)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
 
-## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
@@ -581,7 +591,7 @@
 
 *   [KubeVPN (⭐469)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -617,7 +627,7 @@
 
 *   [SharpBrowser (⭐823)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Golang / Diagnostics
 
@@ -631,20 +641,20 @@
 
 *   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
-## [30. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [33. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@ebarooni/capacitor-calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 
-## [31. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [34. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Official Coq X/Twitter](https://x.com/CoqLang)
 *   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -660,6 +670,10 @@
 *   [pantsbuild/pants (⭐3.2k)](https://github.com/pantsbuild/pants) - [Pants](https://www.pantsbuild.org/) is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust.
 *   [tracemachina/nativelink (⭐856)](https://github.com/tracemachina/nativelink) - [NativeLink](https://www.nativelink.com) is a Backend Remote Execution platform written in rust for client build systems such as [Buck2](https://buck2.build/), [Bazel](https://bazel.build/), [Pants](https://www.pantsbuild.org/), etc.. [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TraceMachina/nativelink/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TraceMachina/nativelink) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8050/badge)](https://www.bestpractices.dev/projects/8050) [![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://nativelink.slack.com/join/shared_invite/zt-281qk1ho0-krT7HfTUIYfQMdwflRuq7A#/shared-invite/email)
 
+### Libraries / Artificial Intelligence
+
+*   [perpetual-ml/perpetual (⭐120)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+
 ### Libraries / Encoding
 
 *   JSON
@@ -669,7 +683,7 @@
     *   [serde-rs/json (⭐4.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [36. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -678,6 +692,10 @@
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-supabase (⭐18)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -711,6 +729,18 @@
 
 *   [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 
+### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-calendar-timeline (⭐14)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [tinymce-angular (⭐323)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-autosize-input (⭐20)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
+
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [pretty-html-log (⭐39)](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
@@ -727,7 +757,7 @@
 
 *   [ngx-treeview2 (⭐0)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
-## [34. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [37. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Protocols
 

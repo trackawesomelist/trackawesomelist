@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 04, 2024](/content/2024/08/04/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [perpetual-ml/perpetual (⭐120)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+
 ## [Aug 02, 2024](/content/2024/08/02/README.md)
 
 ### Applications / Utilities
