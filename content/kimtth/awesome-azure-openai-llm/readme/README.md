@@ -25,6 +25,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 *   [Open AI Models](https://platform.openai.com/docs/models)
+*   [Abuse Monitoring](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy): To detect and mitigate abuse, Azure OpenAI stores all prompts and generated content securely for up to thirty (30) days. (No prompts or completions are stored if the customer chooses to turn off abuse monitoring.)
 
 ## Table of contents
 
@@ -1028,6 +1029,8 @@ class AgentType(str, Enum):
 
 24. [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927): a summary detailing the prompting methodology, its applications.🏆Taxonomy of prompt engineering techniques in LLMs. \[5 Feb 2024]
 
+25. [Is the new norm for NLP papers "prompt engineering" papers?](https://www.reddit.com/r/MachineLearning/comments/1ei9e3l/d_is_the_new_norm_for_nlp_papers_prompt/): "how can we make LLM 1 do this without training?" Is this the new norm? The CL section of arXiv is overwhelming with papers like "how come LLaMA can't understand numbers?" \[2 Aug 2024]
+
 *   <details>
 
     <summary>Expand</summary>
@@ -1557,6 +1560,8 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development): NIST released the first complete version of the NIST AI RMF Playbook on March 30, 2023
 
 *   [Guardrails Hub](https://hub.guardrailsai.com): Guardrails for common LLM validation use cases
+
+*   [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y): Model Collapse. We find that indiscriminate use of model-generated content in training causes irreversible defects in the resulting models, in which tails of the original content distribution disappear. \[24 Jul 2024]
 
 ### **Large Language Model Is: Abilities**
 

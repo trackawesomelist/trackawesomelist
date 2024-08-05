@@ -127,6 +127,7 @@ A curated list of bitcoin services and tools for software developers
 *   [noble-curves (⭐638)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
 *   [noble-secp256k1 (⭐736)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 *   [scure-btc-signer (⭐139)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [bitcoin-sdk-js (⭐23)](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
 
 ## PHP Libraries
 

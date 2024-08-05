@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### AI / Diagnostics
+
+*   [milanglacier/minuet-ai.nvim (⭐29)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Golang / Diagnostics
@@ -54,7 +60,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+*   [tzachar/cmp-ai (⭐157)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -78,11 +84,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐63)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
 ### Startup / Diagnostics
 
-*   [mong8se/actually.nvim (⭐50)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐51)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ### Icon / Diagnostics
 
@@ -95,7 +101,7 @@ Collections of awesome neovim plugins.
 ### Preconfigured Configuration / Diagnostics
 
 *   [legobeat/l7-devenv (⭐15)](https://github.com/legobeat/l7-devenv) - Security-focused IDE with a hackable (in the right way) framework based on Neovim and shell.
-*   [ayamir/nvimdots (⭐2.8k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
+*   [ayamir/nvimdots (⭐2.9k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 05, 2024](/content/2024/08/05/README.md)
+
+### AI / Diagnostics
+
+*   [milanglacier/minuet-ai.nvim (⭐29)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
+
 ## [Aug 01, 2024](/content/2024/08/01/README.md)
 
 ### Neovim Lua Development / Diagnostics
@@ -64,7 +70,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+*   [tzachar/cmp-ai (⭐157)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 
 ## [Jul 16, 2024](/content/2024/07/16/README.md)
 
@@ -104,7 +110,7 @@ Collections of awesome neovim plugins.
 
 ### Startup / Diagnostics
 
-*   [mong8se/actually.nvim (⭐50)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐51)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ### Utility / Diagnostics
 
@@ -114,11 +120,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐63)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [ayamir/nvimdots (⭐2.8k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
+*   [ayamir/nvimdots (⭐2.9k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 
 ## [Jun 30, 2024](/content/2024/06/30/README.md)
 

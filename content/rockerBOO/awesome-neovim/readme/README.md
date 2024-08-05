@@ -171,7 +171,7 @@ Collections of awesome neovim plugins.
 *   [zeioth/garbage-day.nvim (⭐268)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
 *   [luckasRanarison/clear-action.nvim (⭐106)](https://github.com/luckasRanarison/clear-action.nvim) - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 *   [rachartier/tiny-inline-diagnostic.nvim (⭐189)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
-*   [chrisgrieser/nvim-lsp-endhints (⭐46)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐63)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 *   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 #### LSP Installer
@@ -220,7 +220,8 @@ Collections of awesome neovim plugins.
 *   [simplegpt.nvim (⭐10)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 *   [Exafunction/codeium.nvim (⭐666)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 *   [CopilotC-Nvim/CopilotChat.nvim (⭐1.3k)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
-*   [tzachar/cmp-ai (⭐128)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+*   [tzachar/cmp-ai (⭐157)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+*   [milanglacier/minuet-ai.nvim (⭐29)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 
 ## Programming Languages Support
 
@@ -673,7 +674,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [willothy/veil.nvim (⭐141)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 *   [TobinPalmer/Tip.nvim (⭐70)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 *   [CWood-sdf/spaceport.nvim (⭐78)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
-*   [mong8se/actually.nvim (⭐50)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐51)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ## Icon
 
@@ -1287,7 +1288,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [drybalka/clean.nvim (⭐31)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 *   [StratOS-Linux/StratVIM (⭐11)](https://github.com/StratOS-Linux/StratVIM) - A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro.
 *   [Shaobin-Jiang/IceNvim (⭐125)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
-*   [ayamir/nvimdots (⭐2.8k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
+*   [ayamir/nvimdots (⭐2.9k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 
 ## External
 

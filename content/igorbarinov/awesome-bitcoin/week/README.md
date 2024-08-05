@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-bitcoin/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### JavaScript Libraries
+
+*   [bitcoin-sdk-js (⭐23)](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Blockchain API and Web services

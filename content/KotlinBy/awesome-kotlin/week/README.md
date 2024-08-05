@@ -6,15 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ [Daily](/content/KotlinBy/awesome-kotlin/README.md) / Weekly / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
-
-### Libraries/Frameworks / Database
-
-*   [mongodb/mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - The official MongoDB Kotlin Driver allows developers to build server-side Kotlin applications with MongoDB.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
 ### Libraries/Frameworks / Data Science
 
@@ -92,6 +84,12 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
+
+### Libraries/Frameworks / Database
+
+*   [mongodb/mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - The official MongoDB Kotlin Driver allows developers to build server-side Kotlin applications with MongoDB.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -1061,8 +1059,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/bullet (⭐42)](https://github.com/kotlin-graphics/bullet) - bullet port
 *   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
+*   [kotlin-graphics/bullet (⭐42)](https://github.com/kotlin-graphics/bullet) - bullet port
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -1585,9 +1583,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Graphics
 
-*   [data2viz/data2viz (⭐410)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
-*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
+*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
+*   [data2viz/data2viz (⭐410)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
 *   [kotlin-graphics/imgui (⭐596)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 *   [openrndr/openrndr (⭐852)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
