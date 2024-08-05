@@ -220,6 +220,7 @@ See [Vivraan/godot-lang-support (⭐322)](https://github.com/Vivraan/godot-lang-
 *   [Aseprite Wizard (⭐791)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 *   [AutoColliders (⭐10)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
 *   [BoxCam2D (⭐18)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
+*   [CReverter (Composite Reverter)](https://codeberg.org/svetogam/creverter) - Memento-based undo/redo utility that supports composition (Godot 4.x).
 *   [CRT Shader (⭐297)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 *   [Cyclops Level Builder (⭐975)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
 *   [Dialogue Manager (⭐2k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
@@ -261,6 +262,7 @@ See [Vivraan/godot-lang-support (⭐322)](https://github.com/Vivraan/godot-lang-
 #### Godot 4.2+
 
 *   [AnimatedShape2D (⭐103)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+*   [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 *   [Godot Google Play Game Services (⭐90)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 *   [LimboAI (⭐913)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 *   [Maaack's Game Template Plugin (⭐337)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.

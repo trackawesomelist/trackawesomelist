@@ -6,6 +6,16 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [CReverter (Composite Reverter)](https://codeberg.org/svetogam/creverter) - Memento-based undo/redo utility that supports composition (Godot 4.x).
+
+### Plugins and scripts / Godot 4.2+
+
+*   [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Plugins and scripts / Godot 4.2+
