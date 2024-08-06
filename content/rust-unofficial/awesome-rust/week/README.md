@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### Development tools / Web Servers
+
+*   [Flox (⭐2.2k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Applications / Blockchain
@@ -1710,6 +1716,7 @@ A curated list of Rust code and resources.
 *   [lapce (⭐34k)](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - A LLDB extension
+    *   [Dependi](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) - Manage your dependencies with ease
     *   [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - TOML support in vscode
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) - Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - An alternative rust language server to the RLS

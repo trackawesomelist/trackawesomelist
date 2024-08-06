@@ -291,7 +291,7 @@ Collections of awesome neovim plugins.
 *   [tadmccorkle/markdown.nvim (⭐114)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 *   [mpas/marp-nvim (⭐18)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
 *   [Myzel394/easytables.nvim (⭐87)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
-*   [MeanderingProgrammer/markdown.nvim (⭐640)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
+*   [MeanderingProgrammer/render-markdown.nvim (⭐979)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
 *   [arminveres/md-pdf.nvim (⭐61)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
 *   [ChuufMaster/markdown-toc (⭐14)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 *   [OXY2DEV/markview.nvim (⭐667)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.

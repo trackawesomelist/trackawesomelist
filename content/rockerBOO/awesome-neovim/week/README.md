@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [milanglacier/minuet-ai.nvim (⭐29)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 
+### Markdown and LaTeX / Diagnostics
+
+*   [MeanderingProgrammer/render-markdown.nvim (⭐979)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Golang / Diagnostics
@@ -242,10 +246,6 @@ Collections of awesome neovim plugins.
 *   [doctorfree/cheatsheet.nvim (⭐35)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
-
-### Markdown and LaTeX / Diagnostics
-
-*   [MeanderingProgrammer/markdown.nvim (⭐640)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
 
 ### Quickfix / Diagnostics
 

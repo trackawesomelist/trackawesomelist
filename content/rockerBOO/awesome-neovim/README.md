@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 06, 2024](/content/2024/08/06/README.md)
+
+### Markdown and LaTeX / Diagnostics
+
+*   [MeanderingProgrammer/render-markdown.nvim (⭐979)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
+
 ## [Aug 05, 2024](/content/2024/08/05/README.md)
 
 ### AI / Diagnostics
@@ -311,10 +317,6 @@ Collections of awesome neovim plugins.
 *   [rktjmp/playtime.nvim (⭐57)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
 
 ## [May 02, 2024](/content/2024/05/02/README.md)
-
-### Markdown and LaTeX / Diagnostics
-
-*   [MeanderingProgrammer/markdown.nvim (⭐640)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
 
 ### Motion / Diagnostics
 
