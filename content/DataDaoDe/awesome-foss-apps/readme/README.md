@@ -2,7 +2,7 @@
 
 A curated list of awesome production grade free and open source software organized by category
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DataDaoDe/awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) · ⭐ 222 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DataDaoDe/awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) · ⭐ 296 · 🏷️ Miscellaneous
 
 [ [Daily](/content/DataDaoDe/awesome-foss-apps/README.md) / [Weekly](/content/DataDaoDe/awesome-foss-apps/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A curated list of awesome production grade free and open source software organiz
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome (⭐223k)](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome (⭐318k)](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 
@@ -28,28 +28,28 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Codesandbox (⭐12k)](https://github.com/CompuIves/codesandbox-client)
+### [Codesandbox (⭐13k)](https://github.com/CompuIves/codesandbox-client)
 
 *   react, nginx, phoenix
 *   GNU General Public License
 
 > Codesandbox is an online IDE for web developers to quickly prototype and implement frontend applications using modern javascript frameworks like Vue, Preact, React etc Or even vanilla javascript.
 
-### [CircleCI (⭐1.1k)](https://github.com/circleci/frontend)
+### [CircleCI](https://github.com/circleci/frontend)
 
 *   clojurescript, om, react
 *   Eclipse Public License
 
 > CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
-### [Precursor App (⭐597)](https://github.com/PrecursorApp/precursor)
+### [Precursor App (⭐600)](https://github.com/PrecursorApp/precursor)
 
 *   clojurescript, om, react
 *   Eclipse Public License
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs.
 
-### [The Guardian (⭐5.6k)](https://github.com/guardian/frontend)
+### [The Guardian (⭐5.8k)](https://github.com/guardian/frontend)
 
 *   play2, scala, node
 *   Apache 2.0 License
@@ -60,21 +60,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost (⭐42k)](https://github.com/TryGhost/Ghost)
+### [Ghost (⭐46k)](https://github.com/TryGhost/Ghost)
 
 *   node, express, ember
 *   MIT License
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab (⭐23k)](https://github.com/gitlabhq/gitlabhq)
+### [Gitlab (⭐24k)](https://github.com/gitlabhq/gitlabhq)
 
 *   ruby, rails, coffescript, redis, sidekiq,
 *   MIT License
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse (⭐37k)](https://github.com/discourse/discourse)
+### [Discourse (⭐41k)](https://github.com/discourse/discourse)
 
 *   ruby, rails, ember
 *   GPLv2 License
@@ -102,21 +102,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash (⭐7k)](https://github.com/mickael-kerjean/filestash)
+### [Filestash (⭐9.8k)](https://github.com/mickael-kerjean/filestash)
 
 *   golang, react
 *   AGPLv3 License
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
-### [Dnote (⭐2.4k)](https://github.com/dnote/dnote)
+### [Dnote (⭐2.7k)](https://github.com/dnote/dnote)
 
 *   golang, react, typescript
 *   GPLv3 License, AGPLv3 License
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks (⭐5.6k)](https://github.com/healthchecks/healthchecks)
+### [Healthchecks (⭐7.7k)](https://github.com/healthchecks/healthchecks)
 
 *   python, django, postgresql
 *   BSD License
@@ -134,12 +134,19 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
-### [Atom (⭐59k)](https://github.com/atom/atom)
+### [Atom (⭐60k)](https://github.com/atom/atom)
 
 *   coffeescript, electron, node
 *   MIT License
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
+
+### [Daytona (⭐7.1k)](https://github.com/daytonaio/daytona)
+
+*   go
+*   Apache 2.0 License
+
+> Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.
 
 ### Mobile Apps
 
@@ -151,21 +158,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [0ad (⭐2.2k)](https://github.com/0ad/0ad)
+### [0ad (⭐2.7k)](https://github.com/0ad/0ad)
 
 *   c++, python
 *   GPLv2 License
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars (⭐428)](https://github.com/hedgewars/hw)
+### [Hedgewars (⭐489)](https://github.com/hedgewars/hw)
 
 *   c, c++, pascal, haskell
 *   GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth (⭐4.1k)](https://github.com/wesnoth/wesnoth)
+### [Wesnoth (⭐5.4k)](https://github.com/wesnoth/wesnoth)
 
 *   c, c++, lua
 *   GPLv2 License

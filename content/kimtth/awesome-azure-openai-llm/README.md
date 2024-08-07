@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 07, 2024](/content/2024/08/07/README.md)
+
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/): a new feature designed to ensure model-generated outputs will exactly match JSON Schemas provided by developers. \[6 Aug 2024]
+
 ## [Aug 05, 2024](/content/2024/08/05/README.md)
 
 ### What's the difference between Azure OpenAI and OpenAI?
@@ -312,7 +318,7 @@
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 
 *   Referece Application and Architecture
-    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog) 🏆
+    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
     *   [Azure Command Companion](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/azure-command-companion/ba-p/4005044): Harnessing the Power of OpenAI GPT-3.5 Turbo for Azure CLI Command Generation \[10 Dec 2023 ]
     *   [Chat with your Azure DevOps data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/chat-with-your-azure-devops-data/ba-p/4017784) \[10 Jan 2024]
     *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
@@ -321,6 +327,7 @@
     *   [GPT-RAG (⭐790)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
     *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
     *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
+    *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
 
 ### **Langchain Feature Matrix & Cheetsheet** / DSPy optimizer
 
@@ -626,7 +633,7 @@
 
 ### **Vector Database Comparison**
 
-*   Milvus (A cloud-native vector database) Embedded [git (⭐28k)](https://github.com/milvus-io/milvus) \[Sep 2019]: Alternative option to replace PineCone and Redis Search in OSS. It offers support for multiple languages, addresses the limitations of RedisSearch, and provides cloud scalability and high reliability with Kubernetes.
+*   Milvus (A cloud-native vector database) Embedded [git (⭐29k)](https://github.com/milvus-io/milvus) \[Sep 2019]: Alternative option to replace PineCone and Redis Search in OSS. It offers support for multiple languages, addresses the limitations of RedisSearch, and provides cloud scalability and high reliability with Kubernetes.
 *   [Pinecone](https://docs.pinecone.io): A fully managed cloud Vector Database. Commercial Product \[Jan 2021]
 *   [Weaviate (⭐10k)](https://github.com/weaviate/weaviate): Store both vectors and data objects. \[Jan 2021]
 *   [Chroma (⭐14k)](https://github.com/chroma-core/chroma): Open-source embedding database \[Oct 2022]
@@ -1883,7 +1890,7 @@
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
 *   [OpenAI DevDay 2023](https://openai.com/blog/new-models-and-developer-products-announced-at-devday): GPT-4 Turbo with 128K context, Assistants API (Code interpreter, Retrieval, and function calling), GPTs (Custom versions of ChatGPT: [ref](https://openai.com/blog/introducing-gpts)), Copyright Shield, Parallel Function Calling, JSON Mode, Reproducible outputs \[6 Nov 2023]
-*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐65k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
+*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐66k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
 *   [GPT-3.5 Turbo Fine-tuning](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) Fine-tuning for GPT-3.5 Turbo is now available, with fine-tuning for GPT-4 coming this fall. \[22 Aug 2023]
 *   [DALL·E 3](https://openai.com/dall-e-3) : In September 2023, OpenAI announced their latest image model, DALL-E 3 [git (⭐11k)](https://github.com/openai/dall-e) \[Sep 2023]
 *   Open AI Enterprise: Removes GPT-4 usage caps, and performs up to two times faster [ref](https://openai.com/blog/introducing-chatgpt-enterprise) \[28 Aug 2023]

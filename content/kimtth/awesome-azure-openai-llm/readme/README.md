@@ -316,7 +316,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696): Printed version for "Medium" limits. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/vector-dbs.pdf) \[2 Oct 2021]
 *   [Faiss](https://faiss.ai/): Facebook AI Similarity Search (Faiss) is a library for efficient similarity search and clustering of dense vectors. It is used as an alternative to a vector database in the development and library of algorithms for a vector database. It is developed by Facebook AI Research. [git (⭐30k)](https://github.com/facebookresearch/faiss) \[Feb 2017]
-*   Milvus (A cloud-native vector database) Embedded [git (⭐28k)](https://github.com/milvus-io/milvus) \[Sep 2019]: Alternative option to replace PineCone and Redis Search in OSS. It offers support for multiple languages, addresses the limitations of RedisSearch, and provides cloud scalability and high reliability with Kubernetes.
+*   Milvus (A cloud-native vector database) Embedded [git (⭐29k)](https://github.com/milvus-io/milvus) \[Sep 2019]: Alternative option to replace PineCone and Redis Search in OSS. It offers support for multiple languages, addresses the limitations of RedisSearch, and provides cloud scalability and high reliability with Kubernetes.
 *   [Pinecone](https://docs.pinecone.io): A fully managed cloud Vector Database. Commercial Product \[Jan 2021]
 *   [Weaviate (⭐10k)](https://github.com/weaviate/weaviate): Store both vectors and data objects. \[Jan 2021]
 *   [Chroma (⭐14k)](https://github.com/chroma-core/chroma): Open-source embedding database \[Oct 2022]
@@ -513,7 +513,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 |                  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-videoindexer.png" alt="demo-videoindexer" width="200"/>                 |     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/wip-azure.png" alt="miyagi" width="200"/>     |
 
 *   Referece Application and Architecture
-    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog) 🏆
+    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
     *   [Azure Command Companion](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/azure-command-companion/ba-p/4005044): Harnessing the Power of OpenAI GPT-3.5 Turbo for Azure CLI Command Generation \[10 Dec 2023 ]
     *   [Chat with your Azure DevOps data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/chat-with-your-azure-devops-data/ba-p/4017784) \[10 Jan 2024]
     *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
@@ -522,6 +522,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [GPT-RAG (⭐790)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
     *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
     *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
+    *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
 
 *   Azure OpenAI Accelerator
     *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐310)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
@@ -1463,7 +1464,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 #### **OpenAI Products**
 
 *   [OpenAI DevDay 2023](https://openai.com/blog/new-models-and-developer-products-announced-at-devday): GPT-4 Turbo with 128K context, Assistants API (Code interpreter, Retrieval, and function calling), GPTs (Custom versions of ChatGPT: [ref](https://openai.com/blog/introducing-gpts)), Copyright Shield, Parallel Function Calling, JSON Mode, Reproducible outputs \[6 Nov 2023]
-*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐65k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
+*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐66k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
 *   [GPT-3.5 Turbo Fine-tuning](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) Fine-tuning for GPT-3.5 Turbo is now available, with fine-tuning for GPT-4 coming this fall. \[22 Aug 2023]
 *   [DALL·E 3](https://openai.com/dall-e-3) : In September 2023, OpenAI announced their latest image model, DALL-E 3 [git (⭐11k)](https://github.com/openai/dall-e) \[Sep 2023]
 *   Open AI Enterprise: Removes GPT-4 usage caps, and performs up to two times faster [ref](https://openai.com/blog/introducing-chatgpt-enterprise) \[28 Aug 2023]
@@ -1477,6 +1478,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [ChatGPT Memory](https://openai.com/blog/memory-and-new-controls-for-chatgpt): Remembering things you discuss `across all chats` saves you from having to repeat information and makes future conversations more helpful. \[Apr 2024]
 *   [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/): a version of GPT-4 fine-tuned to critique code generated by ChatGPT \[27 Jun 2024]
 *   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
+*   [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/): a new feature designed to ensure model-generated outputs will exactly match JSON Schemas provided by developers. \[6 Aug 2024]
 
 #### **GPT series release date**
 
@@ -1996,7 +1998,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     *   [Sentence Transformers](https://arxiv.org/abs/1908.10084): Python framework for state-of-the-art sentence, text and image embeddings. Useful for semantic textual similar, semantic search, or paraphrase mining. [git (⭐15k)](https://github.com/UKPLab/sentence-transformers) \[27 Aug 2019]
     *   [fastText (⭐26k)](https://github.com/facebookresearch/fastText): A library for efficient learning of word representations and sentence classification \[Aug 2016 ]
     *   [GPT4All (⭐68k)](https://github.com/nomic-ai/gpt4all): Open-source large language models that run locally on your CPU \[Mar 2023]
-    *   [ollama (⭐80k)](https://github.com/jmorganca/ollama): Running with Large language models locally \[Jun 2023]
+    *   [ollama (⭐84k)](https://github.com/jmorganca/ollama): Running with Large language models locally \[Jun 2023]
     *   [unsloth (⭐13k)](https://github.com/unslothai/unsloth): Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! QLoRA & LoRA finetuning \[Nov 2023]
     *   [LLaMA-Factory (⭐28k)](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs \[May 2023]
     *   [Visual Blocks (⭐1.1k)](https://github.com/google/visualblocks): Google visual programming framework that lets you create ML pipelines in a no-code graph editor. \[Mar 2023]

@@ -2,9 +2,15 @@
 
 A curated list of awesome production grade free and open source software organized by category
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DataDaoDe/awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) · ⭐ 222 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DataDaoDe/awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) · ⭐ 296 · 🏷️ Miscellaneous
 
 [ [Daily](/content/DataDaoDe/awesome-foss-apps/README.md) / Weekly / [Overview](/content/DataDaoDe/awesome-foss-apps/readme/README.md) ]
+
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### Desktop Apps / [Daytona](https://github.com/daytonaio/daytona)
+
+*   go
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
@@ -66,6 +72,9 @@ A curated list of awesome production grade free and open source software organiz
 ### Web Apps (frontend only) / [The Guardian](https://github.com/guardian/frontend)
 
 *   play2, scala, node
+
+### Desktop Apps / [Daytona](https://github.com/daytonaio/daytona)
+
 *   Apache 2.0 License
 
 ### Web Apps (frontend only) / [Ghost](https://github.com/TryGhost/Ghost)
