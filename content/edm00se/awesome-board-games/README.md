@@ -2,9 +2,23 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 291 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 292 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
+
+## [Aug 07, 2024](/content/2024/08/07/README.md)
+
+### Strategy
+
+### [Gorgasali: Battle Royale](hhttps://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale)
+
+> Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
+
+![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc\(\)/pic4960193.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2-10 |       10 | 40-180m |
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -1702,7 +1716,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Pax Viking is a card driven game where you compete over cards in a common market in combination with strategic movement of longships on the map. You can play cards you buy on map locations you control through your longships; create trading posts, claim benefits from events and more. You can also play cards on your jarlboard, adding abilities to your player through friends, allies and gods. Through your actions you collect followers to give you power and influence for your final bid: to be the first king of Sweden.
 
-![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+![Pax Viking image](https://cf.geekdo-images.com/Jvq10Wf6csC6P72tVOBwYA__itemrep/img/V8ERSuCUibRS82UDF_dxNXOmUro=/fit-in/246x300/filters:strip_icc\(\)/pic5794320.jpg)
 
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
@@ -1871,20 +1885,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |       2 |       8+ | 30m around |
-
-## [Oct 25, 2021](/content/2021/10/25/README.md)
-
-### Strategy
-
-### [Gorgasali: Battle Royale](https://www.gorgasalibr.com)
-
-> Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
-
-![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc\(\)/pic4960193.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    2-10 |       10 | 40-180m |
 
 ## [Oct 24, 2021](/content/2021/10/24/README.md)
 
@@ -2323,7 +2323,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
 
-![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+![Connect four image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Connect_Four.gif)
 
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |

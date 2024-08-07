@@ -6,6 +6,13 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Aug 07, 2024](/content/2024/08/07/README.md)
+
+### Privacy projects
+
+*   [Joinmarket (⭐701)](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
+*   [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+
 ## [Aug 05, 2024](/content/2024/08/05/README.md)
 
 ### JavaScript Libraries

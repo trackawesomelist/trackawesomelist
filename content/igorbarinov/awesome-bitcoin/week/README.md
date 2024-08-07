@@ -8,6 +8,11 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
+### Privacy projects
+
+*   [Joinmarket (⭐701)](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
+*   [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+
 ### JavaScript Libraries
 
 *   [bitcoin-sdk-js (⭐23)](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
