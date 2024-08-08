@@ -20,6 +20,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 *   [ecto\_watch (⭐162)](https://github.com/cheerfulstoic/ecto_watch) - Allows you to easily get notifications about database changes directly from PostgreSQL.
 
+### Reading
+
+*   [Learn With Me: Elixir](https://inquisitivedeveloper.com/tag/lwm-elixir/) - A series where I learn Elixir and you can learn along with me.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Command Line Applications

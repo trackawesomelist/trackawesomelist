@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 08, 2024](/content/2024/08/08/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [samharju/serene.nvim (⭐9)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
 ### Quickfix / Diagnostics

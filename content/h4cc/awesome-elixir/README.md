@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Aug 08, 2024](/content/2024/08/08/README.md)
+
+### Reading
+
+*   [Learn With Me: Elixir](https://inquisitivedeveloper.com/tag/lwm-elixir/) - A series where I learn Elixir and you can learn along with me.
+
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
 ### Data Visualization

@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 05 - Aug 11, 2024
 
-18 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [1. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Scraping
+
+*   [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
+
+## [2. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Code
 
@@ -20,13 +26,13 @@
 
 *   [Connecting Old to New with CircuitPython: Retrocomputer input devices on modern PCs](https://youtu.be/XhwI8ZHhbE8) - Jeff Epler at PyCon 2024
 
-## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Capacitor Calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
 
-## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
@@ -36,7 +42,7 @@
 
 *   [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / Reinforcement Learning
 
@@ -46,7 +52,7 @@
 
 *   [Okrolearn (⭐3)](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Data Visualization
 
@@ -60,13 +66,17 @@
 
 *   [ecto\_watch (⭐162)](https://github.com/cheerfulstoic/ecto_watch) - Allows you to easily get notifications about database changes directly from PostgreSQL.
 
-## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
+### Reading
+
+*   [Learn With Me: Elixir](https://inquisitivedeveloper.com/tag/lwm-elixir/) - A series where I learn Elixir and you can learn along with me.
+
+## [7. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
 ### Desktop Apps / [Daytona](https://github.com/daytonaio/daytona)
 
 *   go
 
-## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [8. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### GUI
 
@@ -76,7 +86,7 @@
 
 *   [zon-dev/zinc (⭐4)](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -135,7 +145,7 @@
 
 *   [JSON Schema (⭐3.5k) (⭐3.5k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
@@ -145,7 +155,7 @@
 
 *   [nix-mineral (⭐20)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 
-## [10. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -159,7 +169,7 @@
 | ------: | -------: | ------: |
 |    2-10 |       10 | 40-180m |
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
@@ -169,13 +179,13 @@
 
 *   [A human-machine interface for automatic exploration of chemical reaction networks](https://www.nature.com/articles/s41467-024-47997-9) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=13306522324804014261)]. Autonomous reaction network exploration algorithms offer a systematic approach to explore mechanisms of complex chemical processes. However, the resulting reaction networks are so vast that an exploration of all potentially accessible intermediates is computationally too demanding. This paper introduces a STEERING WHEEL to guide an otherwise unbiased automated exploration. The STEERING WHEEL algorithm is intuitive, generally applicable, and enables one to focus on specific regions of an emerging network. It also allows for guiding automated data generation in the context of mechanism exploration, catalyst design, and other chemical optimization challenges.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
 *   [Flox (⭐2.2k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -212,15 +222,41 @@
 
 *   [awesome-cordova-plugins (⭐2.4k)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 
-## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [15. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### What's the difference between Azure OpenAI and OpenAI?
 
 *   [Abuse Monitoring](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy): To detect and mitigate abuse, Azure OpenAI stores all prompts and generated content securely for up to thirty (30) days. (No prompts or completions are stored if the customer chooses to turn off abuse monitoring.)
 
+### **LlamaIndex**
+
+*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html) / doc:[ref](https://gpt-index.readthedocs.io/en/latest/index.html) / blog:[ref](https://www.llamaindex.ai/blog) / [git (⭐34k)](https://github.com/run-llama/llama_index) \[Nov 2022]
+
+    > Fun fact this core idea was the initial inspiration for GPT Index (the former name of LlamaIndex) 11/8/2022 - almost a year ago!. [cite](https://twitter.com/jerryjliu0/status/1711817419592008037) / [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
+    >
+    > 1.  Build a data structure (memory tree)
+    > 2.  Transverse it via LLM prompting
+*   [Chat engine ReAct mode](https://gpt-index.readthedocs.io/en/stable/examples/chat_engine/chat_engine_react.html), [FLARE Query engine](https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine.html)
+
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
 *   [Semantic Workbench (⭐11)](https://github.com/microsoft/semanticworkbench): Intelligent agents Development tool [ref](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695) \[Aug 2024]
+
+### **Section 4** : LangChain Features, Usage, and Comparisons / DSPy optimizer
+
+*   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
+    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐90k)](https://github.com/langchain-ai/langchain)
+
+### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
+
+*   [Awesome LangChain (⭐7.2k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
+*   DeepLearning.AI short course: LangChain for LLM Application Development [ref](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) / LangChain: Chat with Your Data [ref](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+
+### **LangChain features and related libraries** / DSPy optimizer
+
+*   [LangChain/cache](https://python.langchain.com/docs/modules/model_io/models/llms/how_to/llm_caching): Reducing the number of API calls
+*   [LangChain/context-aware-splitting](https://python.langchain.com/docs/use_cases/question_answering/document-context-aware-QA): Splits a file into chunks while keeping metadata
+*   [LangChain Template (⭐90k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
 
 ### **Prompt Engineering** / **Prompt Template Language**
 
@@ -238,13 +274,13 @@
 
 *   [composio (⭐4.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / LLM
 
 *   [duckduckgo-ai-chat (⭐15)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -254,6 +290,10 @@
 
 *   [MeanderingProgrammer/render-markdown.nvim (⭐979)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [samharju/serene.nvim (⭐9)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+
 ### Quickfix / Diagnostics
 
 *   [stevearc/quicker.nvim (⭐14)](https://github.com/stevearc/quicker.nvim) - Improved quickfix UI and editable quickfix buffer.
@@ -262,7 +302,7 @@
 
 *   [dam9000/kickstart-modular.nvim (⭐349)](https://github.com/dam9000/kickstart-modular.nvim) - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 
-## [17. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Privacy projects
 
@@ -273,7 +313,7 @@
 
 *   [bitcoin-sdk-js (⭐23)](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
 
-## [18. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [19. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 

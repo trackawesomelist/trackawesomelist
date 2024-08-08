@@ -10,10 +10,9 @@ Collections of awesome neovim plugins.
 
 <!-- lint ignore awesome-git-repo-age -->
 
-<img src="https://neovim.io/logos/neovim-mark-flat.png" align="right" width="144" />
-
 # Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<img src="https://neovim.io/logos/neovim-mark-flat.png" align="right" width="144" />
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
@@ -575,6 +574,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [uloco/bluloco.nvim (⭐274)](https://github.com/uloco/bluloco.nvim) - A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 *   [slugbyte/lackluster.nvim (⭐131)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 *   [0xstepit/flow.nvim (⭐112)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+*   [samharju/serene.nvim (⭐9)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 
 ### Lua Colorscheme
 

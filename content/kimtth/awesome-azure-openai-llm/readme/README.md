@@ -41,10 +41,10 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   **Section 3** : [Microsoft Semantic Kernel and Stanford NLP DSPy](#section-3--microsoft-semantic-kernel-and-stanford-nlp-dspy)
     *   [Semantic Kernel](#semantic-kernel)
     *   [DSPy](#dspy)
-*   **Section 4** : [Langchain: Features, Usage, and Comparisons](#section-4--langchain-features-usage-and-comparisons)
-    *   [Langchain Feature Matrix & Cheetsheet](#langchain-feature-matrix--cheetsheet)
-    *   [Langchain Agent / Memory and Criticism](#langchain-chain-type-chains--summarizer)
-    *   [Langchain vs Competitors](#langchain-vs-competitors)
+*   **Section 4** : [LangChain: Features, Usage, and Comparisons](#section-4--langchain-features-usage-and-comparisons)
+    *   [LangChain Feature Matrix & Cheetsheet](#langchain-feature-matrix--cheetsheet)
+    *   [LangChain Agent / Memory and Criticism](#langchain-chain-type-chains--summarizer)
+    *   [LangChain vs Competitors](#langchain-vs-competitors)
 *   **Section 5** : [Prompt Engineering, Finetuning, and Visual Prompts](#section-5-prompt-engineering-finetuning-and-visual-prompts)
     *   1.Prompt Engineering
     *   [Prompt Engineering & Prompt Guide](#prompt-engineering)
@@ -164,7 +164,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     3.  Retrieval optimization: Refine chunking, embed metadata, use query routing, multi-vector retrieval, re-ranking, hybrid search, recursive retrieval, query engine, [HyDE](https://arxiv.org/abs/2212.10496) \[20 Dec 2022], and vector search algorithms to improve retrieval efficiency and relevance.
     4.  Synthesis techniques: Query transformations, prompt templating, prompt conditioning, function calling, and fine-tuning the generator to refine the generation step.
 
-    *   HyDE: Implemented in [Langchain: HypotheticalDocumentEmbedder (⭐90k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
+    *   HyDE: Implemented in [LangChain: HypotheticalDocumentEmbedder (⭐90k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
 
 *   Demystifying Advanced RAG Pipelines: An LLM-powered advanced RAG pipeline built from scratch [git (⭐762)](https://github.com/pchunduri6/rag-demystified) \[19 Oct 2023]
 
@@ -201,7 +201,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
         *   [Azure OpenAI chat baseline architecture in an Azure landing zone](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone)
         *   Azure Reference Architectures: [X-ref](#azure-reference-architectures)
     *   [RAG at scale](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521) \[28 Sep 2023]
-    *   [Langchain RAG from scratch (⭐1.8k)](https://github.com/langchain-ai/rag-from-scratch) \[Jan 2024]
+    *   [LangChain RAG from scratch (⭐1.8k)](https://github.com/langchain-ai/rag-from-scratch) \[Jan 2024]
     *   [LlamIndex Building Performant RAG Applications for Production](https://docs.llamaindex.ai/en/stable/optimizing/production_rag/#building-performant-rag-applications-for-production)
     *   [Advanced RAG on Hugging Face documentation using LangChain](https://huggingface.co/learn/cookbook/advanced_rag)
     *   RAG context relevancy metric: Ragas, TruLens, DeepEval [ref](https://towardsdatascience.com/the-challenges-of-retrieving-and-evaluating-relevant-context-for-rag-e362f6eaed34) \[Jun 2024]
@@ -212,14 +212,14 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [GraphRAG](https://arxiv.org/abs/2404.16130): Original Documents -> Knowledge Graph (Group Summaries) -> Partial Responses -> Final Response
         [ref](https://microsoft.github.io/graphrag) [git (⭐13k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
     *   [GraphRAG Implementation with LlamaIndex (⭐34k)](https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/cookbooks/GraphRAG_v1.ipynb) \[15 Jul 2024]
-    *   [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
+    *   [Learn RAG with LangChain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
 *   RAG Application
     *   [RAG capabilities of LlamaIndex to QA about SEC 10-K & 10-Q documents (⭐2.2k)](https://github.com/run-llama/sec-insights): A real world full-stack application using LlamaIndex \[Sep 2023]
     *   [RAGxplorer (⭐1k)](https://github.com/gabrielchua/RAGxplorer): Visualizing document chunks and the queries in the embedding space. \[Jan 2024]
     *   [PrivateGPT (⭐53k)](https://github.com/imartinez/privateGPT): 100% privately, no data leaks 1. The API is built using FastAPI and follows OpenAI's API scheme. 2. The RAG pipeline is based on LlamaIndex. \[May 2023]
     *   [Danswer (⭐9.9k)](https://github.com/danswer-ai/danswer): Ask Questions in natural language and get Answers backed by private sources: Slack, GitHub, Confluence, etc. \[Apr 2023]
     *   [Verba](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/verba.weaviate.io) Retrieval Augmented Generation (RAG) chatbot powered by Weaviate [git (⭐5.1k)](https://github.com/weaviate/Verba) \[Jul 2023]
-    *   [llm-answer-engine (⭐4.3k)](https://github.com/developersdigest/llm-answer-engine): Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper \[Mar 2024]
+    *   [llm-answer-engine (⭐4.3k)](https://github.com/developersdigest/llm-answer-engine): Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, LangChain, OpenAI, Brave & Serper \[Mar 2024]
     *   [turboseek (⭐728)](https://github.com/Nutlope/turboseek): An AI search engine inspired by Perplexity \[May 2024]
     *   [quivr (⭐34k)](https://github.com/QuivrHQ/quivr): A personal productivity assistant (RAG). Chat with your docs (PDF, CSV, ...) \[May 2023]
     *   [RAGApp](https://github.com/ragapp): Agentic RAG. custom GPTs, but deployable in your own cloud infrastructure using Docker. \[Apr 2024]
@@ -231,7 +231,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **LlamaIndex**
 
-*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. [ref](https://www.llamaindex.ai/blog): blog / [ref](https://gpt-index.readthedocs.io/en/latest/index.html): Docs / High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html): Concepts / [git (⭐34k)](https://github.com/run-llama/llama_index) \[Nov 2022]
+*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html) / doc:[ref](https://gpt-index.readthedocs.io/en/latest/index.html) / blog:[ref](https://www.llamaindex.ai/blog) / [git (⭐34k)](https://github.com/run-llama/llama_index) \[Nov 2022]
 
     > Fun fact this core idea was the initial inspiration for GPT Index (the former name of LlamaIndex) 11/8/2022 - almost a year ago!. [cite](https://twitter.com/jerryjliu0/status/1711817419592008037) / [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
     >
@@ -240,56 +240,70 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   LlamaIndex Toolkits: `LlamaHub`: A library of data loaders for LLMs [git (⭐3.4k)](https://github.com/run-llama/llama-hub) \[Feb 2023] / `LlamaIndex CLI`: a command line tool to generate LlamaIndex apps [ref](https://llama-2.ai/llamaindex-cli/) \[Nov 2023] / `LlamaParse`: A unique parsing tool for intricate documents [git (⭐2k)](https://github.com/run-llama/llama_parse) \[Feb 2024]
 
-*   Query engine vs Chat engine
+    <details>
 
-    1.  The query engine wraps a `retriever` and a `response synthesizer` into a pipeline, that will use the query string to fetch nodes (sentences or paragraphs) from the index and then send them to the LLM (Language and Logic Model) to generate a response
-    2.  The chat engine is a quick and simple way to chat with the data in your index. It uses a `context manager` to keep track of the conversation history and generate relevant queries for the retriever. Conceptually, it is a `stateful` analogy of a Query Engine.
+      <summary>High-Level Concepts</summary>
 
-*   Storage Context vs Service Context
+    *   Query engine vs Chat engine
 
-    *   Both the Storage Context and Service Context are data classes.
+        1.  The query engine wraps a `retriever` and a `response synthesizer` into a pipeline, that will use the query string to fetch nodes (sentences or paragraphs) from the index and then send them to the LLM (Language and Logic Model) to generate a response
+        2.  The chat engine is a quick and simple way to chat with the data in your index. It uses a `context manager` to keep track of the conversation history and generate relevant queries for the retriever. Conceptually, it is a `stateful` analogy of a Query Engine.
+
+    *   Storage Context vs Settings (p.k.a. Service Context)
+
+        *   Both the Storage Context and Service Context are data classes.
+
+        <!-- ```python
+        index = load_index_from_storage(storage_context, service_context=service_context)
+        ``` -->
+
+        1.  Introduced in v0.10.0, ServiceContext is replaced to Settings object.
+        2.  Storage Context is responsible for the storage and retrieval of data in Llama Index, while the Service Context helps in incorporating external context to enhance the search experience.
+        3.  The Service Context is not directly involved in the storage or retrieval of data, but it helps in providing a more context-aware and accurate search experience.
 
     ```python
-    index = load_index_from_storage(storage_context, service_context=service_context)
+    # The storage context container is a utility container for storing nodes, indices, and vectors.
+    class StorageContext:
+      docstore: BaseDocumentStore
+      index_store: BaseIndexStore
+      vector_store: VectorStore
+      graph_store: GraphStore
     ```
 
-    1.  Storage Context is responsible for the storage and retrieval of data in Llama Index, while the Service Context helps in incorporating external context to enhance the search experience.
-    2.  The Service Context is not directly involved in the storage or retrieval of data, but it helps in providing a more context-aware and accurate search experience.
+    ```python
+    # The service context container is a utility container for LlamaIndex index and query classes.
+    class ServiceContext:
+      llm_predictor: BaseLLMPredictor
+      prompt_helper: PromptHelper
+      embed_model: BaseEmbedding
+      node_parser: NodeParser
+      llama_logger: LlamaLogger
+      callback_manager: CallbackManager
+    ```
 
-        <details>
+    ```python
+    @dataclass
+    class _Settings:
+      # lazy initialization
+      _llm: Optional[LLM] = None
+      _embed_model: Optional[BaseEmbedding] = None
+      _callback_manager: Optional[CallbackManager] = None
+      _tokenizer: Optional[Callable[[str], List[Any]]] = None
+      _node_parser: Optional[NodeParser] = None
+      _prompt_helper: Optional[PromptHelper] = None
+      _transformations: Optional[List[TransformComponent]] = None
+    ```
 
-        <summary>Context class definition</summary>
-
-        ```python
-        # The storage context container is a utility container for storing nodes, indices, and vectors.
-        class StorageContext:
-          docstore: BaseDocumentStore
-          index_store: BaseIndexStore
-          vector_store: VectorStore
-          graph_store: GraphStore
-        ```
-
-        ```python
-        # The service context container is a utility container for LlamaIndex index and query classes.
-        class ServiceContext:
-          llm_predictor: BaseLLMPredictor
-          prompt_helper: PromptHelper
-          embed_model: BaseEmbedding
-          node_parser: NodeParser
-          llama_logger: LlamaLogger
-          callback_manager: CallbackManager
-        ```
-
-        </details>
+       </details>
 
 *   [LlamaIndex Overview (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-001-overview-v0-7-9/) \[17 Jul 2023]
 
 *   [LlamaIndex Tutorial](https://nanonets.com/blog/llamaindex/): A Complete LlamaIndex Guide \[18 Oct 2023]
 
-*   [CallbackManager (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-003-callback-manager/) \[27 May 2023] / [Customize TokenTextSplitter (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-002-text-splitter/) \[27 May 2023] / [Chat engine ReAct mode](https://gpt-index.readthedocs.io/en/stable/examples/chat_engine/chat_engine_react.html), [FLARE Query engine](https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine.html)
+<!-- - [CallbackManager (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-003-callback-manager/) [27 May 2023] / [Customize TokenTextSplitter (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-002-text-splitter/) [27 May 2023] / --> 
 
+*   [Chat engine ReAct mode](https://gpt-index.readthedocs.io/en/stable/examples/chat_engine/chat_engine_react.html), [FLARE Query engine](https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine.html)
 *   Multimodal RAG Pipeline [ref](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea) \[Nov 2023]
-
 *   From Simple to Advanced RAG [ref](https://twitter.com/jerryjliu0/status/1711419232314065288) \[10 Oct 2023]
 
     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/advanced-rag.png" width="430">
@@ -359,9 +373,9 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework**
 
-1.  [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/): Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. An LLM Ochestrator, similar to Langchain. / [git (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023]
+1.  [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/): Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. An LLM Ochestrator, similar to LangChain. / [git (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023]
 2.  [Kernel Memory (⭐1.4k)](https://github.com/microsoft/kernel-memory): Kernel Memory (FKA. Semantic Memory (SM)) is an open-source service and plugin specialized in the efficient indexing of datasets through custom continuous data hybrid pipelines. \[Jul 2023]
-3.  [guidance (⭐18k)](https://github.com/microsoft/guidance): A guidance language for controlling large language models. Simple, intuitive syntax, based on Handlebars templating. Domain Specific Language (DSL) for handling model interaction. Langchain libaries but different approach rather than ochestration, particularly effective for implementing `Chain of Thought`. \[Nov 2022]
+3.  [guidance (⭐18k)](https://github.com/microsoft/guidance): A guidance language for controlling large language models. Simple, intuitive syntax, based on Handlebars templating. Domain Specific Language (DSL) for handling model interaction. LangChain libaries but different approach rather than ochestration, particularly effective for implementing `Chain of Thought`. \[Nov 2022]
 4.  [Azure Machine Learning Promt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow): Visual Designer for Prompt crafting. Use [Jinja (⭐10k)](https://github.com/pallets/jinja) as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐8.9k)](https://github.com/microsoft/promptflow) \[Jun 2023]
 5.  [Prompt Engine (⭐2.5k)](https://github.com/microsoft/prompt-engine): Craft prompts for Large Language Models: [python (⭐200)](https://github.com/microsoft/prompt-engine-py) \[Jun 2022]
 6.  [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat): TypeChat replaces prompt engineering with schema engineering. To build natural language interfaces using types. / [git (⭐8.1k)](https://github.com/microsoft/Typechat) \[Apr 2023]
@@ -600,7 +614,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **Semantic Kernel**
 
-*   Microsoft Langchain Library supports C# and Python and offers several features, some of which are still in development and may be unclear on how to implement. However, it is simple, stable, and faster than Python-based open-source software. The features listed on the link include: [Semantic Kernel Feature Matrix](https://learn.microsoft.com/en-us/semantic-kernel/get-started/supported-languages) / [git](https://aka.ms/sk/repo) \[Feb 2023]
+*   Microsoft LangChain Library supports C# and Python and offers several features, some of which are still in development and may be unclear on how to implement. However, it is simple, stable, and faster than Python-based open-source software. The features listed on the link include: [Semantic Kernel Feature Matrix](https://learn.microsoft.com/en-us/semantic-kernel/get-started/supported-languages) / doc:[ref](https://learn.microsoft.com/en-us/semantic-kernel) / blog:[ref](https://devblogs.microsoft.com/semantic-kernel/) / [git](https://aka.ms/sk/repo) \[Feb 2023]
 
 <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/mind-and-body-of-semantic-kernel.png" alt="sk" width="130"/> -->
 
@@ -641,9 +655,6 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   Stepwise Planner released. The Stepwise Planner features the "CreateScratchPad" function, acting as a 'Scratch Pad' to aggregate goal-oriented steps. \[16 Aug 2023]
 
 *   Gen-4 and Gen-5 planners: 1. Gen-4: Generate multi-step plans with the [Handlebars](https://handlebarsjs.com/) 2. Gen-5: Stepwise Planner supports Function Calling. [ref](https://devblogs.microsoft.com/semantic-kernel/semantic-kernels-ignite-release-beta8-for-the-net-sdk/) \[16 Nov 2023]
-    <!-- > ScratchPad: Using "program execution" strategy boosts performance of large language model tasks by enforcing the use of a "scratch pad." For instance, instead of requesting the LLM's output for a Python function with a specific input, users can ask for the execution trace. This prompts the model to generate predictions for each intermediate step of the function, thereby increasing the probability of the LLM producing the correct final line. [cite](https://snorkel.ai/large-language-models-llms/) -->
-
-<!-- - Semantic Kernel supports Azure Cognitive Search Vector Search. `July 19th, 2023` [ref](https://devblogs.microsoft.com/semantic-kernel) -->
 
 *   Use function calling for most tasks; it's more powerful and easier. Stepwise and Handlebars planners will be deprecated [ref](https://learn.microsoft.com/en-us/semantic-kernel/concepts/planning) \[Jun 2024]
 
@@ -694,7 +705,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **DSPy**
 
-*   DSPy (Declarative Self-improving Language Programs, pronounced “dee-es-pie”)
+*   DSPy (Declarative Self-improving Language Programs, pronounced “dee-es-pie”) / doc:[ref](https://dspy-docs.vercel.app) / [git (⭐15k)](https://github.com/stanfordnlp/dspy)
 
 *   DSPy Documentation & Cheetsheet [ref](https://dspy-docs.vercel.app)
 
@@ -763,10 +774,10 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 </details>
 
-## **Section 4** : Langchain Features, Usage, and Comparisons
+## **Section 4** : LangChain Features, Usage, and Comparisons
 
 *   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
-    (2) Be agentic: Allow a language model to interact with its environment.
+    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐90k)](https://github.com/langchain-ai/langchain)
 *   It highlights two main value props of the framework:
 
     1.  Components: modular abstractions and implementations for working with language models, with easy-to-use features.
@@ -791,36 +802,32 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
         chain = prompt | model | parser
         ```
 
-### **Langchain Feature Matrix & Cheetsheet**
+### **LangChain Feature Matrix & Cheetsheet**
 
 *   [Feature Matrix](https://python.langchain.com/docs/get_started/introduction): LangChain Features
     *   [Feature Matrix: Snapshot in 2023 July](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/langchain-features-202307.png)
-*   [Awesome Langchain (⭐7.2k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
+*   [Awesome LangChain (⭐7.2k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
 *   [Cheetsheet (⭐6.5k)](https://github.com/gkamradt/langchain-tutorials): LangChain CheatSheet
 *   [LangChain Cheetsheet KD-nuggets](https://www.kdnuggets.com/wp-content/uploads/LangChain_Cheat_Sheet_KDnuggets.pdf): LangChain Cheetsheet KD-nuggets [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/LangChain_kdnuggets.pdf) \[Aug 2023]
 *   [LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/): published by Pinecone
-*   [LangChain Tutorial](https://nanonets.com/blog/langchain/): A Complete Langchain Guide
+*   [LangChain Tutorial](https://nanonets.com/blog/langchain/): A Complete LangChain Guide
 *   [RAG From Scratch (⭐1.8k)](https://github.com/langchain-ai/rag-from-scratch) \[Feb 2024]
+*   DeepLearning.AI short course: LangChain for LLM Application Development [ref](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) / LangChain: Chat with Your Data [ref](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
-### **Langchain Impressive Features**
+### **LangChain features and related libraries**
 
-*   [Langchain/cache](https://python.langchain.com/docs/modules/model_io/models/llms/how_to/llm_caching): Reducing the number of API calls
-*   [Langchain/context-aware-splitting](https://python.langchain.com/docs/use_cases/question_answering/document-context-aware-QA): Splits a file into chunks while keeping metadata
+*   [LangChain/cache](https://python.langchain.com/docs/modules/model_io/models/llms/how_to/llm_caching): Reducing the number of API calls
+*   [LangChain/context-aware-splitting](https://python.langchain.com/docs/use_cases/question_answering/document-context-aware-QA): Splits a file into chunks while keeping metadata
 *   [LangChain Expression Language](https://python.langchain.com/docs/guides/expression_language/): A declarative way to easily compose chains together \[Aug 2023]
 *   [LangSmith](https://blog.langchain.dev/announcing-langsmith/) Platform for debugging, testing, evaluating. \[Jul 2023]
     <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain_debugging.png" width="150" /> -->
-*   [langflow (⭐22k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
-*   [Flowise (⭐28k)](https://github.com/FlowiseAI/Flowise) Drag & drop UI to build your customized LLM flow \[Apr 2023]
-*   [Langchain Template (⭐90k)](https://github.com/langchain-ai/langchain/tree/master/templates): Langchain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
+*   [LangChain Template (⭐90k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
 *   [OpenGPTs (⭐6.3k)](https://github.com/langchain-ai/opengpts): An open source effort to create a similar experience to OpenAI's GPTs \[Nov 2023]
 *   [LangGraph (⭐4.6k)](https://github.com/langchain-ai/langgraph): Build and navigate language agents as graphs \[Aug 2023]
+*   [langflow (⭐22k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
+*   [Flowise (⭐28k)](https://github.com/FlowiseAI/Flowise) Drag & drop UI to build your customized LLM flow \[Apr 2023]
 
-### **Langchain Quick Start: How to Use**
-
-*   `code\deeplearning.ai\langchain-chat-with-your-data`: DeepLearning.ai LangChain: Chat with Your Data
-*   `code\deeplearning.ai\langchain-llm-app-dev`: LangChain for LLM Application Development
-
-### **Langchain chain type: Chains & Summarizer**
+### **LangChain chain type: Chains & Summarizer**
 
 *   Chains [ref (⭐0)](https://github.com/RutamBhagat/LangChainHCCourse1/blob/main/course_1/chains.ipynb)
     *   SimpleSequentialChain: A sequence of steps with single input and output. Output of one step is input for the next.
@@ -832,9 +839,9 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   refine: (Summary + Next document) => Summary
     *   map\_rerank: Ranks by score and summarizes to important points.
 
-### **Langchain Agent & Memory**
+### **LangChain Agent & Memory**
 
-#### Langchain Agent
+#### LangChain Agent
 
 1.  If you're using a text LLM, first try `zero-shot-react-description`.
 2.  If you're using a Chat Model, try `chat-zero-shot-react-description`.
@@ -872,7 +879,7 @@ class AgentType(str, Enum):
 
     *   MRKL in LangChain uses `zero-shot-react-description`, implementing ReAct. The original ReAct framework is used in the `react-docstore` agent. MRKL was published on May 1, 2022, earlier than ReAct on October 6, 2022.
 
-#### Langchain Memory
+#### LangChain Memory
 
 1.  `ConversationBufferMemory`: Stores the entire conversation history.
 2.  `ConversationBufferWindowMemory`: Stores recent messages from the conversation history.
@@ -883,14 +890,14 @@ class AgentType(str, Enum):
 7.  `ConversationTokenBufferMemory`: Stores tokens from the conversation.
 8.  `VectorStore-Backed Memory`: Leverages vector space models for storing and retrieving information.
 
-#### **Criticism to Langchain**
+#### **Criticism to LangChain**
 
 *   The Problem With LangChain: [ref](https://minimaxir.com/2023/07/langchain-problem/) / [git (⭐29)](https://github.com/minimaxir/langchain-problems) \[14 Jul 2023]
 *   What’s your biggest complaint about langchain?: [ref](https://www.reddit.com/r/LangChain/comments/139bu99/whats_your_biggest_complaint_about_langchain/) \[May 2023]
-*   Langchain Is Pointless: [ref](https://news.ycombinator.com/item?id=36645575) \[Jul 2023]
+*   LangChain Is Pointless: [ref](https://news.ycombinator.com/item?id=36645575) \[Jul 2023]
     > LangChain has been criticized for making simple things relatively complex, which creates unnecessary complexity and tribalism that hurts the up-and-coming AI ecosystem as a whole. The documentation is also criticized for being bad and unhelpful.
 
-### **Langchain vs Competitors**
+### **LangChain vs Competitors**
 
 #### **Prompting Frameworks**
 
@@ -898,15 +905,15 @@ class AgentType(str, Enum):
 *   [Prompting Framework (PF)](https://arxiv.org/abs/2311.12785): Prompting Frameworks for Large Language Models: A Survey [git (⭐69)](https://github.com/lxx0628/Prompting-Framework-Survey)
 *   [What Are Tools Anyway?](https://arxiv.org/abs/2403.15452): 1. For a small number (e.g., 5–10) of tools, LMs can directly select from contexts. However, with a larger number (e.g., hundreds), an additional retrieval step involving a retriever model is often necessary. 2. LM-used tools incl. Tool creation and reuse. Tool is not useful when machine translation, summarization, and sentiment analysis (among others).  3. Evaluation metrics \[18 Mar 2024]
 
-#### **Langchain vs LlamaIndex**
+#### **LangChain vs LlamaIndex**
 
-*   Basically LlamaIndex is a smart storage mechanism, while Langchain is a tool to bring multiple tools together. [cite](https://community.openai.com/t/llamaindex-vs-langchain-which-one-should-be-used/163139) \[14 Apr 2023]
+*   Basically LlamaIndex is a smart storage mechanism, while LangChain is a tool to bring multiple tools together. [cite](https://community.openai.com/t/llamaindex-vs-langchain-which-one-should-be-used/163139) \[14 Apr 2023]
 
 *   LangChain offers many features and focuses on using chains and agents to connect with external APIs. In contrast, LlamaIndex is more specialized and excels at indexing data and retrieving documents.
 
-#### **Langchain vs Semantic Kernel**
+#### **LangChain vs Semantic Kernel**
 
-| Langchain | Semantic Kernel                                                                |
+| LangChain | Semantic Kernel                                                                |
 | --------- | ------------------------------------------------------------------------------ |
 | Memory    | Memory                                                                         |
 | Tookit    | Plugin (pre. Skill)                                                            |
@@ -915,7 +922,7 @@ class AgentType(str, Enum):
 | Chain     | Steps, Pipeline                                                                |
 | Tool      | Connector                                                                      |
 
-#### **Langchain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
+#### **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
 
 *   What's the difference between LangChain and Semantic Kernel?
 
@@ -936,7 +943,7 @@ class AgentType(str, Enum):
 | ----------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Conditions        | {{#if user}}<br>  Hello {{user}}!<br>{{else}}<br>  Hello Stranger!<br>{{/if}} | {% if user %}<br>  Hello {{ user }}!<br>{% else %}<br>  Hello Stranger!<br>{% endif %} | Branching features such as "if", "for", and code blocks are not part of SK's template language.    |
 | Loop              | {{#each items}}<br>  Hello {{this}}<br>{{/each}}                              | {% for item in items %}<br>  Hello {{ item }}<br>{% endfor %}                          | By using a simple language, the kernel can also avoid complex parsing and external dependencies.   |
-| Langchain Library | guidance. LangChain.js                                                        | Langchain, Azure ML prompt flow                                                        | Semantic Kernel                                                                                    |
+| LangChain Library | guidance. LangChain.js                                                        | LangChain, Azure ML prompt flow                                                        | Semantic Kernel                                                                                    |
 | URL               | [ref](https://handlebarsjs.com/guide/)                                        | [ref](https://jinja.palletsprojects.com/en/2.10.x/templates/)                          | [ref](https://learn.microsoft.com/en-us/semantic-kernel/prompt-engineering/prompt-template-syntax) |
 
 *   Semantic Kernel supports HandleBars and Jinja2. \[Mar 2024]
@@ -965,7 +972,7 @@ class AgentType(str, Enum):
 
     *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
     *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
-    *   `tree-of-thought\react-prompt.py`: ReAct sample without Langchain
+    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
 
 8.  [Graph of Thoughts (GoT)](https://arxiv.org/abs/2308.09687): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.09687)] Solving Elaborate Problems with Large Language Models [git (⭐2k)](https://github.com/spcl/graph-of-thoughts) \[18 Aug 2023]
 
@@ -2049,7 +2056,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     *   [Drag Your GAN](https://arxiv.org/abs/2305.10973): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10973)]: Interactive Point-based Manipulation on the Generative Image Manifold [git (⭐5k)](https://github.com/Zeqiang-Lai/DragGAN) \[18 May 2023]
     *   Embedding does not use Open AI. Can be executed locally: [pdfGPT (⭐6.8k)](https://github.com/bhaskatripathi/pdfGPT) \[Mar 2023]
     *   [MemGPT (⭐11k)](https://github.com/cpacker/MemGPT): Virtual context management to extend the limited context window of LLM. A tiered memory system and a set of functions that allow it to manage its own memory. [ref](https://memgpt.ai) \[12 Oct 2023]
-    *   Very Simple Langchain example using Open AI: [langchain-ask-pdf (⭐581)](https://github.com/alejandro-ao/langchain-ask-pdf) \[Apr 2023]
+    *   Very Simple LangChain example using Open AI: [langchain-ask-pdf (⭐581)](https://github.com/alejandro-ao/langchain-ask-pdf) \[Apr 2023]
     *   [marvin (⭐5k)](https://github.com/PrefectHQ/marvin): a lightweight AI toolkit for building natural language interfaces. \[Mar 2023]
     *   [langfuse (⭐4.9k)](https://github.com/langfuse/langfuse): Traces, evals, prompt management and metrics to debug and improve your LLM application. \[May 2023]
 *   Agent Applications & LLMOps
@@ -2096,7 +2103,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
     2.  Used the abstract syntax tree (AST) of the generated code to match with APIs in the database and test set for evaluation purposes.
 
-    > Another user asked how Gorilla compared to LangChain; Patil replied: Langchain is a terrific project that tries to teach agents how to use tools using prompting. Our take on this is that prompting is not scalable if you want to pick between 1000s of APIs. So Gorilla is a LLM that can pick and write the semantically and syntactically correct API for you to call! A drop in replacement into Langchain! [cite](https://www.infoq.com/news/2023/07/microsoft-gorilla/) \[04 Jul 2023]
+    > Another user asked how Gorilla compared to LangChain; Patil replied: LangChain is a terrific project that tries to teach agents how to use tools using prompting. Our take on this is that prompting is not scalable if you want to pick between 1000s of APIs. So Gorilla is a LLM that can pick and write the semantically and syntactically correct API for you to call! A drop in replacement into LangChain! [cite](https://www.infoq.com/news/2023/07/microsoft-gorilla/) \[04 Jul 2023]
 
 *   [Meta: Toolformer](https://arxiv.org/abs/2302.04761): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.04761)]: Language Models That Can Use Tools, by MetaAI [git (⭐1.9k)](https://github.com/lucidrains/toolformer-pytorch) \[9 Feb 2023]
 
