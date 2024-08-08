@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Aug 08, 2024](/content/2024/08/08/README.md)
+
+### Web / Messaging
+
+*   [zon-dev/zinc (⭐4)](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
+
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
 ### GUI

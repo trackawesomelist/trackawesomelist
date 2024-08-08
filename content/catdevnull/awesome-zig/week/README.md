@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [olexij-christian/zgtk3 (⭐1)](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
 
+### Web / Messaging
+
+*   [zon-dev/zinc (⭐4)](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### Zig development tools / Messaging

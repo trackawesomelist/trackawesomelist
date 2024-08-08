@@ -6,6 +6,16 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ [Daily](/content/Kazhnuz/awesome-gnome/README.md) / Weekly / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### System and Customization
+
+*   [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
+
+### Development and Design
+
+*   [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Productivity and Time
@@ -18,7 +28,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Luminance (⭐92)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
@@ -221,7 +231,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐184)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐185)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
 
 ### Cursors / Skeumorphic Icons
 
@@ -266,20 +276,20 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐257)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐272)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐139)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Adwaita theme for VS Code (⭐141)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐99)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐102)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -294,7 +304,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Utilities
 
-*   [Lan Mouse (⭐2.1k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+*   [Lan Mouse (⭐2.2k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -306,7 +316,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐474)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐482)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
@@ -318,7 +328,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Development and Design
 
-*   [Escambo (⭐138)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+*   [Escambo (⭐139)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
@@ -338,13 +348,13 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Applets / Design Tooling
 
-*   [RunCat (⭐398)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐401)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Visual Changes / Design Tooling
 
-*   [Desktop Cube (⭐602)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Desktop Cube (⭐607)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
@@ -356,7 +366,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐341)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐345)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -396,21 +406,21 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Windows / Design Tooling
 
-*   [Coverflow Alt-Tab (⭐356)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐357)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
-*   [Application Volume Mixer (⭐99)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+*   [Application Volume Mixer (⭐100)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes / Design Tooling
 
-*   [Transparent Shell (⭐16)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+*   [Transparent Shell (⭐15)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
 ### Utilities
 
-*   [GPaste (⭐751)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐757)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
@@ -433,13 +443,13 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐199)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [Jul 15 - Jul 21, 2019](/content/2019/28/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Firefox GNOME Theme (⭐3.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
 
@@ -465,7 +475,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Cursors / Skeumorphic Icons
 
 *   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
@@ -483,7 +493,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐875)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Circle (⭐879)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 *   [Numix Square (⭐161)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
@@ -503,4 +513,4 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.

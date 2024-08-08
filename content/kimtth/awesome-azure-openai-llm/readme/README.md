@@ -72,7 +72,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [LLM Materials for 한글(Korean) & 日本語(Japanese)](#llm-materials-for-east-asian-languages)
 *   **Section 9** : [Applications and Frameworks](#section-9-applications-and-frameworks)
     *   [Applications, Frameworks, and User Interface (UI/UX)](#applications-frameworks-and-user-interface-uiux)
-    *   [AutoGPT and  Agents](#agents-autogpt-and-communicative-agents): e.g., Tool use
+    *   [AutoGPT and Agents](#agents-autogpt-and-communicative-agents): e.g., Tool use
     *   [Caching and Defensive UX](#caching)
     *   [LLM for Robotics](#llm-for-robotics-bridging-ai-and-robotics)
 *   **Section 10** : [General AI Tools and Extensions](#section-10-general-ai-tools-and-extensions)
@@ -378,6 +378,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 17. [SAMMO (⭐272)](https://github.com/microsoft/sammo): A general-purpose framework for prompt optimization. [ref](https://www.microsoft.com/en-us/research/blog/sammo-a-general-purpose-framework-for-prompt-optimization/) \[April 2024]
 18. [PyRIT (⭐1.5k)](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI (PyRIT). LLM robustness against harms like hallucination, bias, and harassment. \[Dec 2023]
 19. [Prompty (⭐278)](https://github.com/microsoft/prompty): Prompty is a template language for integrating prompts with LLMs and frameworks, enhancing prompt management and evaluation. \[Apr 2024]
+20. [Semantic Workbench (⭐11)](https://github.com/microsoft/semanticworkbench): Intelligent agents Development tool [ref](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695) \[Aug 2024]
 
 *   [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/): Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product \[May 2023]
 *   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐1.9k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
@@ -2124,6 +2125,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [Project Astra](https://deepmind.google/technologies/gemini/project-astra/): Google DeepMind, A universal AI agent that is helpful in everyday life \[14 May 2024]
 *   [KHOJ (⭐12k)](https://github.com/khoj-ai/khoj): Open-source, personal AI agents. Cloud or Self-Host, Multiple Interfaces. Python Django based \[Aug 2021]
 *   [PR-Agent (⭐5.1k)](https://github.com/Codium-ai/pr-agent): Efficient code review and handle pull requests, by providing AI feedbacks and suggestions \[Jan 2023]
+*   [composio (⭐4.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
 
 #### **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 

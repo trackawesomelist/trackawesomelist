@@ -166,7 +166,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Menulibre](https://smdavis.us/projects/menulibre) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 *   [HydraPaper](https://hydrapaper.gabmus.org) - Set a different background for each monitor.
 *   [Dynamic Wallpaper Editor](https://flathub.org/apps/com.github.maoschanz.DynamicWallpaperEditor) - Utility for editing GNOME's XML wallpapers
-*   [Dynamic Gnome Wallpapers (⭐341)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐345)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 *   [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 *   [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) - Flatpak permission manager.
@@ -176,8 +176,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Pods](https://flathub.org/apps/com.github.marhkb.Pods) - Podman containers manager.
 *   [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) - Terminal with first-class support for containers.
 *   [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
-*   [Luminance (⭐84)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Luminance (⭐92)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
+*   [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
 
 ### Utilities
 
@@ -188,12 +189,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 *   [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 *   [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-*   [GPaste (⭐751)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐757)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 *   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes) - Cooking application.
 *   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-*   [Lan Mouse (⭐2.1k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+*   [Lan Mouse (⭐2.2k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 *   [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 *   [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 
@@ -222,9 +223,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 *   [Sysprof](https://apps.gnome.org/Sysprof) - Profile an application or entire system.
 *   [DevHelp](https://apps.gnome.org/Devhelp) - Developer tool for browsing and searching API documentation.
-*   [Escambo (⭐138)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+*   [Escambo (⭐139)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 *   [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub.
+*   [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 
 #### Design Tooling
 
@@ -267,7 +269,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Applets
 
-*   [RunCat (⭐398)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐401)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine) - Applet that let you deactivate the GNOME lock screen.
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu) - Status menu to show your removable drives.
 *   [OpenWeather](https://extensions.gnome.org/extension/750/openweather) - Weather applet.
@@ -282,19 +284,19 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Windows
 
 *   [PaperWM (⭐2.8k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-*   [Coverflow Alt-Tab (⭐356)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐357)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio
 
-*   [Application Volume Mixer (⭐99)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+*   [Application Volume Mixer (⭐100)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes
 
 *   [Blur-my-shell (⭐1.5k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
-*   [Transparent Shell (⭐16)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+*   [Transparent Shell (⭐15)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 *   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect) - Adds wobbly effects to windows.
 *   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-*   [Desktop Cube (⭐602)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Desktop Cube (⭐607)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 *   [Burn My Windows (⭐2.6k)](https://github.com/Schneegans/Burn-My-Windows) - Open/Close your windows with style.
 
 ### Services integration
@@ -307,9 +309,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Upstream Style
 
-*   [MoreWaita (⭐474)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐482)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐199)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 #### Material Icons
 
@@ -322,27 +324,27 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Homogeneous Icons
 
-*   [Obsidian (⭐184)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
-*   [Numix Circle (⭐875)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Obsidian (⭐185)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Numix Circle (⭐879)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 *   [Numix Square (⭐161)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 #### Skeumorphic Icons
 
-*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
 
 *   [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 *   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ### Themes for non-GTK apps
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐139)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
-*   [Firefox GNOME Theme (⭐3.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
-*   [Thunderbird GNOME Theme (⭐257)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
-*   [Obsidian Adwaita Theme (⭐99)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Adwaita theme for VS Code (⭐141)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐272)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Obsidian Adwaita Theme (⭐102)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
 
