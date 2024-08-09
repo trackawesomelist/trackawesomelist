@@ -456,6 +456,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
 
+#### [24. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.
+
+#### [25. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Game Development
+
+*   [ecs (⭐100)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
+
+##### Validation
+
+*   [go-validator (⭐5)](https://github.com/tiendc/go-validator) - Validation library using Generics.
+
 ---
 
 - Next: [Jul 29 - Aug 04, 2024](&#x2F;content&#x2F;2024&#x2F;31&#x2F;README.md)
@@ -463,10 +479,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 308K 📝 08&#x2F;03 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 126K 📝 08&#x2F;03 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-3. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 318K 📝 07&#x2F;23 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-4. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 65K 📝 08&#x2F;08 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;04 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 127K 📝 08&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 318K 📝 07&#x2F;23 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
+5. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 65K 📝 08&#x2F;08 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 6. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 188K 📝 07&#x2F;25 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K 📝 08&#x2F;06 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 8. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 08&#x2F;09 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
@@ -1058,7 +1074,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;04 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;10 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1167,7 +1183,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K, 📝 02&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 126K, 📝 08&#x2F;03 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 127K, 📝 08&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 689, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources

@@ -1,18 +1,34 @@
 # Awesome List Updates on Aug 09, 2024
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Game Development
+
+*   [ecs (⭐100)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
+
+### Validation
+
+*   [go-validator (⭐5)](https://github.com/tiendc/go-validator) - Validation library using Generics.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.
+
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
 *   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
 
-## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / LLMs
 
@@ -22,19 +38,19 @@
 *   [OpenAI Client for Laravel (⭐2.5k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 *   [PHP Mistral AI SDK (⭐2)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
-## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Talks
 
 *   [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
 
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
 *   [Self Host Blocks (⭐120)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -121,13 +137,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Telegram / Telegram RSS bots
 
 *   [News Keeper](https://t.me/newskeeperbot)
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

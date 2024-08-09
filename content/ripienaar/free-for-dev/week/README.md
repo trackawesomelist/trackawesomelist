@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### APIs, Data, and ML
+
+*   [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Email
@@ -508,7 +514,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐235)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐238)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
 
 ### Forms
 
@@ -2413,7 +2419,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Public-Apis Github Repo (⭐304k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐309k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
