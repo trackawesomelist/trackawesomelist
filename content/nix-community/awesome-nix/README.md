@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Aug 09, 2024](/content/2024/08/09/README.md)
+
+### NixOS Modules / Zig
+
+*   [Self Host Blocks (⭐120)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
 ### Development / Discovery

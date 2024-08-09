@@ -14,6 +14,7 @@
 
 ### NixOS Modules / Zig
 
+*   [Self Host Blocks (⭐120)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 *   [nix-mineral (⭐20)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)

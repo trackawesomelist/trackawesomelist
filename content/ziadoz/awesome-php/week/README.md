@@ -6,6 +6,16 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### Configuration / LLMs
+
+*   [Instructor for PHP (⭐139)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [LLPhant (⭐710)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+*   [OpenAI Client (⭐4.7k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [OpenAI Client for Laravel (⭐2.5k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+*   [PHP Mistral AI SDK (⭐2)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Configuration / PHP Videos
@@ -142,7 +152,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Magic Number Detector (⭐547)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐548)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 
 ### Table of Contents / Event
 
@@ -418,7 +428,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Essence (⭐769)](https://github.com/essence/essence) - A library for extracting web media.
 *   [Embera (⭐331)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.3k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.5k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
 *   [VObject (⭐569)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
@@ -1911,7 +1921,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Web Applications
 
-*   [MailCatcher (⭐6.2k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+*   [MailCatcher (⭐6.3k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 
 ## [Dec 16 - Dec 22, 2013](/content/2013/50/README.md)
 

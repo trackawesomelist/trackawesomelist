@@ -2,9 +2,15 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.9K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 6.1K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
+
+## [Aug 09, 2024](/content/2024/08/09/README.md)
+
+### Software Development
+
+*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 

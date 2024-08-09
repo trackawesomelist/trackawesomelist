@@ -82,6 +82,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
     *   [Internationalisation and Localisation](#internationalisation-and-localisation)
     *   [Serverless](#serverless)
     *   [Configuration](#configuration)
+    *   [LLMs](#llms)
     *   [Third Party APIs](#third-party-apis)
     *   [Extensions](#extensions)
     *   [Miscellaneous](#miscellaneous)
@@ -431,7 +432,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Editorconfig-Checker (⭐55)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 *   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 *   [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
-*   [PHP Magic Number Detector (⭐547)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐548)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 *   [Phpactor (⭐1.3k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
@@ -731,7 +732,7 @@ Libraries to help manage database schemas and migrations.
 *   [Parsedown (⭐15k)](https://github.com/erusev/parsedown) - Another Markdown parser.
 *   [PHP CSS Parser (⭐1.7k)](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 *   [PHP Markdown (⭐3.4k)](https://github.com/michelf/php-markdown) - A Markdown parser.
-*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.3k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.5k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
 *   [VObject (⭐569)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### JSON
@@ -876,6 +877,16 @@ Libraries to help manage database schemas and migrations.
 *   [Symfony Dotenv (⭐3.7k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
 *   [Yo! Symfony TOML (⭐195)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐19k)](https://github.com/toml-lang/toml).
 
+### LLMs
+
+*Libraries for working with Large Language Models.*
+
+*   [Instructor for PHP (⭐139)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [LLPhant (⭐710)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+*   [OpenAI Client (⭐4.7k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [OpenAI Client for Laravel (⭐2.5k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+*   [PHP Mistral AI SDK (⭐2)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+
 ### Third Party APIs
 
 *Libraries for accessing third party APIs.*
@@ -967,7 +978,7 @@ Libraries to help manage database schemas and migrations.
 *   [Cachet (⭐14k)](https://github.com/cachethq/cachet) - The open source status page system.
 *   [DBV (⭐1.7k)](https://github.com/victorstanciu/dbv) - A database version control application.
 *   [Lychee (⭐6.3k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
-*   [MailCatcher (⭐6.2k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+*   [MailCatcher (⭐6.3k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 *   [phpMyAdmin (⭐7.1k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 *   [PHP Queue (⭐661)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 *   [phpRedisAdmin (⭐3.1k)](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.

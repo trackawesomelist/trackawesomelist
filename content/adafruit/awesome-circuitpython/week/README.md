@@ -19,6 +19,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Talks
 
 *   [Connecting Old to New with CircuitPython: Retrocomputer input devices on modern PCs](https://youtu.be/XhwI8ZHhbE8) - Jeff Epler at PyCon 2024
+*   [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 

@@ -145,15 +145,13 @@ Here is the awesome badge for your project:
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
 *   [lizongying/my-tv-0 (⭐1k)](https://github.com/lizongying/my-tv-0) - 电视网络视频播放软件，可以自定义视频源
-*   [CCBlueX/LiquidBounce (⭐1.3k)](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
-*   [maxrave-dev/SimpMusic (⭐1.6k)](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
-*   [keiyoushi/extensions-source (⭐1.7k)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
+*   [CCBlueX/LiquidBounce (⭐1.4k)](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
+*   [Nain57/Smart-AutoClicker (⭐1.5k)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+*   [keiyoushi/extensions-source (⭐1.8k)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 *   [tanujnotes/Olauncher (⭐1.9k)](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 *   [GuoXiCheng/SKIP (⭐1.8k)](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-*   [jellyfin/jellyfin-androidtv (⭐2.5k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
-*   [Ivy-Apps/ivy-wallet (⭐2.5k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+*   [jellyfin/jellyfin-androidtv (⭐2.6k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 *   [duckduckgo/Android (⭐3.7k)](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-*   [bmax121/APatch (⭐3.8k)](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 *   [mobile-dev-inc/maestro (⭐5.5k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
 *   [bitwarden/android (⭐6k)](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 *   [recloudstream/cloudstream (⭐6.3k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -161,8 +159,9 @@ Here is the awesome badge for your project:
 *   [libre-tube/LibreTube (⭐8.3k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 *   [RikkaApps/Shizuku (⭐9.5k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [JunkFood02/Seal (⭐10k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+*   [MatsuriDayo/NekoBoxForAndroid (⭐10k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 *   [ktorio/ktor (⭐13k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-*   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+*   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 *   [pppscn/SmsForwarder (⭐17k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 *   [gkd-kit/gkd (⭐19k)](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 *   [gedoor/legado (⭐27k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -170,33 +169,33 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [rhunk/SnapEnhance (⭐1.2k)](https://github.com/rhunk/SnapEnhance) - An Xposed module offering an enhanced Snapchat experience
-*   [Dr-TSNG/Hide-My-Applist (⭐2.8k)](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+*   [Cateners/tiny\_computer (⭐789)](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
+*   [Fate-Grand-Automata/FGA (⭐1.4k)](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
+*   [rebelonion/Dantotsu (⭐1.5k)](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
+*   [ReVanced/revanced-patches (⭐2.1k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+*   [easybangumiorg/EasyBangumi (⭐2.4k)](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
 *   [VREMSoftwareDevelopment/WiFiAnalyzer (⭐2.8k)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 *   [deniscerri/ytdlnis (⭐3k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 *   [Droid-ify/client (⭐3.3k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 *   [z-huang/InnerTune (⭐3.7k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-*   [vfsfitvnm/ViMusic (⭐8.4k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [tiann/KernelSU (⭐9.4k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-*   [MatsuriDayo/NekoBoxForAndroid (⭐10k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [android/compose-samples (⭐19k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+*   [bmax121/APatch (⭐3.8k)](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+*   [shadowsocks/shadowsocks-android (⭐35k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+*   [android/architecture-samples (⭐44k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 *   [JetBrains/kotlin (⭐48k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [aws/aws-toolkit-jetbrains (⭐738)](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
-*   [Fate-Grand-Automata/FGA (⭐1.4k)](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
-*   [ReVanced/revanced-patches (⭐2k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
-*   [rnmapbox/maps (⭐2.1k)](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
-*   [home-assistant/android (⭐2.2k)](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+*   [AChep/keyguard-app (⭐969)](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 *   [jarnedemeulemeester/findroid (⭐2.2k)](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
-*   [easybangumiorg/EasyBangumi (⭐2.4k)](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
-*   [ankidroid/Anki-Android (⭐8.2k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-*   [ethereum-lists/chains (⭐8.5k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [InsertKoinIO/koin (⭐8.8k)](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-*   [lottie-react-native/lottie-react-native (⭐17k)](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-*   [android/architecture-samples (⭐44k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+*   [videolan/vlc-android (⭐2.6k)](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
+*   [wordpress-mobile/WordPress-Android (⭐2.9k)](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
+*   [element-hq/element-android (⭐3.3k)](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
+*   [detekt/detekt (⭐6.2k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+*   [thunderbird/thunderbird-android (⭐9.8k)](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+*   [CymChad/BaseRecyclerViewAdapterHelper (⭐24k)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+*   [square/leakcanary (⭐29k)](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+*   [square/okhttp (⭐46k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -354,7 +353,7 @@ Here is the awesome badge for your project:
 *   [EPadronU/balin (⭐72)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
 *   [xgouchet/Elmyr (⭐81)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 *   [dmcg/minutest (⭐103)](https://github.com/dmcg/minutest) - Simple, Expressive, Extensible Testing for Kotlin on the JVM
-*   [Trendyol/stove (⭐141)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
+*   [Trendyol/stove (⭐143)](https://github.com/Trendyol/stove) - The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 *   [karumi/KotlinSnapshot (⭐164)](https://github.com/karumi/KotlinSnapshot) - Verify your data with snapshot testing.
 *   [winterbe/expekt (⭐172)](https://github.com/winterbe/expekt) - BDD assertion library for Kotlin.
 *   [codecentric/hikaku (⭐198)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
@@ -642,11 +641,11 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-parsers"></a>Parsers <sup>[Back ⇈](#libraries-frameworks-parsers-subcategory)</sup>
 
-*   [ParserKt/ParserKt (⭐13)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [asm0dey/staks (⭐13)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
+*   [ParserKt/ParserKt (⭐13)](https://github.com/ParserKt/ParserKt)
 *   [sargunster/CakeParse (⭐25)](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
-*   [fork-handles/parser4k (⭐193)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
 *   [h0tk3y/better-parse (⭐412)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐193)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [asm0dey/staks (⭐13)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
 
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi <sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
 
@@ -891,12 +890,12 @@ Here is the awesome badge for your project:
 *   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
 *   [IvanMwiruki/30-seconds-of-kotlin (⭐250)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
 *   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐28)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
+*   [TobseF/Candy-Crush-Clone (⭐131)](https://github.com/TobseF/Candy-Crush-Clone) - A Kotlin Multiplatform match 3 sample game build to teach, made with KorGE.
 *   [mrcsxsiq/Kotlin-Pokedex (⭐1.5k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - A Pokedex demo app built with Kotlin using ViewModel, LiveData, Room and Navigation
 *   [LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android (⭐2.6k)](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - Learn Kotlin Coroutines for Android by example. Sample implementations for real-world Android use cases. Unit tests included.
 *   [rozkminiacz/KotlinUnitTesting (⭐114)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
 *   [itmaginationdemos/KMM-Sample-App (⭐5)](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
 *   [formation-res/kt-fullstack-demo (⭐3)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
-*   [TobseF/Candy-Crush-Clone (⭐131)](https://github.com/TobseF/Candy-Crush-Clone) - A Kotlin Multiplatform match 3 sample game build to teach, made with KorGE.
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 
@@ -1010,9 +1009,9 @@ Here is the awesome badge for your project:
 *   [MackHartley/DashedView (⭐68)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
 *   [MackHartley/RoundedProgressBar (⭐767)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐28)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [heart-switch (⭐61)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 *   [Blueprint (⭐132)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 *   [OTPComposable (⭐2)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
-*   [heart-switch (⭐61)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 

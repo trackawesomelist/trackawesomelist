@@ -2,7 +2,7 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.9K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 6.1K · 🏷️ Theory
 
 [ [Daily](/content/JanVanRyswyck/awesome-talks/README.md) / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / Overview ]
 
@@ -18,18 +18,17 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ### Categories
 
-*   [Software Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
-*   [Object-Oriented Programming (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
-*   [Functional Programming (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
-*   [Software Design (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
-*   [Web Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
-*   [Test-Driven Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
-*   [Methodologies (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
-*   [Computer History (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
-*   [Databases (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
-*   [Security (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#security)
-*   [Cognitive Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-*   [Cryptocurrencies (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+*   [Software Development (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+*   [Object-Oriented Programming (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+*   [Functional Programming (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+*   [Software Design (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+*   [Web Development (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+*   [Test-Driven Development (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+*   [Methodologies (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+*   [Computer History (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+*   [Databases (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
+*   [Security (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#security)
+*   [Cognitive Development (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
 
 #### Software Development
 
@@ -61,6 +60,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** \[49:38]
 *   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** \[55:34]
 *   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** \[56:45]
+*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
 
 #### Object-Oriented Programming
 

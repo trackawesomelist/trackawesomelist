@@ -6,6 +6,12 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 [ Daily / [Weekly](/content/adafruit/awesome-circuitpython/week/README.md) / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
 
+## [Aug 09, 2024](/content/2024/08/09/README.md)
+
+### Talks
+
+*   [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
+
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
 ### Code
