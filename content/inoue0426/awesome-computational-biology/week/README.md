@@ -2,16 +2,22 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 59 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 60 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
+
+## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+
+### Drug Response Prediction / LLM for biology
+
+*   [scPRINT (⭐5)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### Databases / Interaction
 
 *   Knowledge Graph
-    *   [Drug Mechanism Database (DrugMechDB) (⭐52)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+    *   [Drug Mechanism Database (DrugMechDB) (⭐54)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
 
 ### API / Interaction
 
@@ -20,19 +26,19 @@ Awesome list of computational biology.
 ### Drug Response Prediction / Interaction
 
 *   [drGAT (⭐2)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+*
 
 ### Drug Response Prediction / LLM for biology
 
-*
-*   [GeneGPT (⭐359)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
-*   [GenePT (⭐159)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
+*   [GeneGPT (⭐361)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
+*   [GenePT (⭐162)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### Drug Response Prediction / Pre-trained embedding
 
-*   [Evolutionary Scale Modeling (⭐3k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
-*   [ChemBERTa-2 (⭐376)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+*   [Evolutionary Scale Modeling (⭐3.1k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
+*   [ChemBERTa-2 (⭐380)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
 
 ### Drug Response Prediction / LLM for biology
 
@@ -144,16 +150,16 @@ Awesome list of computational biology.
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐479)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2.5k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐484)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.6k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Drug Response Prediction / Drug Repurposing
 
-*   [DeepPurpose (⭐939)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐944)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Drug Response Prediction / Drug Target Interaction
 
-*   [NeoDTI (⭐72)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐73)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Drug Response Prediction / Compound Protein Interaction
 
@@ -180,4 +186,4 @@ Awesome list of computational biology.
 
 ### Drug Response Prediction / Drug Repurposing
 
-*   [DRKG (⭐568)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐570)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.

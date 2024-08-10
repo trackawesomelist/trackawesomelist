@@ -54,7 +54,7 @@ See [Vivraan/godot-lang-support (⭐322)](https://github.com/Vivraan/godot-lang-
 *   [Pocket Broomball (⭐29)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 *   [Portal 2D (⭐86)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 *   [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
-*   [SuperStarfighter (⭐0)](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [Starship Olympics (⭐491)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 *   [TuxBuilder (⭐209)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 #### Godot 3.1

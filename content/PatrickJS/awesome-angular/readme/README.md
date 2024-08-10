@@ -387,6 +387,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
 *   [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 *   [The Code Angle](https://www.youtube.com/@TheCodeAngle)
+*   [Brian Treese](https://www.youtube.com/@briantreese)
 
 ##### Style Guides
 
@@ -447,6 +448,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-security (⭐21)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 *   [ngx-clerk (⭐15)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 *   [ng-supabase (⭐18)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
+*   [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
 
 #### Builders
 
