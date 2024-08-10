@@ -342,6 +342,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 *   [Adwaita theme for VS Code (⭐141)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Discord GNOME Theme (⭐8)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 *   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 *   [Thunderbird GNOME Theme (⭐272)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 *   [Obsidian Adwaita Theme (⭐102)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.

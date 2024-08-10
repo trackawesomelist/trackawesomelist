@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Aug 10, 2024](/content/2024/08/10/README.md)
+
+### Themes for non-GTK apps / Skeumorphic Icons
+
+*   [Discord GNOME Theme (⭐8)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
 ### System and Customization

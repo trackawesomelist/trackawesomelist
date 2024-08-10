@@ -16,6 +16,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 
+### Themes for non-GTK apps / Skeumorphic Icons
+
+*   [Discord GNOME Theme (⭐8)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Productivity and Time
