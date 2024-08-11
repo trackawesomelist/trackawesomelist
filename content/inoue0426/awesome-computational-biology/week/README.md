@@ -8,6 +8,10 @@ Awesome list of computational biology.
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
+### Databases / Compound
+
+*   [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) - collections of drug-target, target-disease, and drug-disease dataset.
+
 ### Drug Response Prediction / LLM for biology
 
 *   [scPRINT (⭐5)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
@@ -18,6 +22,7 @@ Awesome list of computational biology.
 
 *   Knowledge Graph
     *   [Drug Mechanism Database (DrugMechDB) (⭐54)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+    *   [DRKG (⭐570)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ### API / Interaction
 
@@ -26,7 +31,6 @@ Awesome list of computational biology.
 ### Drug Response Prediction / Interaction
 
 *   [drGAT (⭐2)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
-*
 
 ### Drug Response Prediction / LLM for biology
 
@@ -155,7 +159,7 @@ Awesome list of computational biology.
 
 ### Drug Response Prediction / Drug Repurposing
 
-*   [DeepPurpose (⭐944)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐944)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing.
 
 ### Drug Response Prediction / Drug Target Interaction
 
@@ -178,12 +182,7 @@ Awesome list of computational biology.
     *   [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
     *   [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
     *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions.
-    *   [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
     *   [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
     *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
-
-### Drug Response Prediction / Drug Repurposing
-
-*   [DRKG (⭐570)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.

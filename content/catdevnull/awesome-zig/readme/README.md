@@ -194,7 +194,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [emekoi/log.zig (⭐20)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐406)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [vbrusca/ZigMatrixUtils (⭐1)](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
-*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
+*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Library for reading and writing different image formats.
+*   [bfactory-ai/zignal (⭐55)](https://github.com/bfactory-ai/zignal) - Image processing library inspired by [dlib](http://dlib.net/).
 *   [ziglibs/known-folders (⭐218)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [SasLuca/zig-nanoid (⭐24)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 *   [kassane/libvlc-zig (⭐17)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.

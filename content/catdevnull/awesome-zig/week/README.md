@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [olexij-christian/zgtk3 (⭐1)](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
 
+### Misc libraries
+
+*   [bfactory-ai/zignal (⭐55)](https://github.com/bfactory-ai/zignal) - Image processing library inspired by [dlib](http://dlib.net/).
+
 ### Web / Messaging
 
 *   [zon-dev/zinc (⭐4)](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
@@ -543,7 +547,7 @@ A list of awesome projects related to Zig
 *   [DutchGhost/maybeuninit (⭐1)](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 *   [emekoi/log.zig (⭐20)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐406)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
-*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
+*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Library for reading and writing different image formats.
 *   [ziglibs/known-folders (⭐218)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network

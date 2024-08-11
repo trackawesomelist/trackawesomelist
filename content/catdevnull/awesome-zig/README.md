@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Aug 11, 2024](/content/2024/08/11/README.md)
+
+### Misc libraries
+
+*   [bfactory-ai/zignal (⭐55)](https://github.com/bfactory-ai/zignal) - Image processing library inspired by [dlib](http://dlib.net/).
+
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
 ### Web / Messaging
@@ -559,7 +565,7 @@ A list of awesome projects related to Zig
 *   [DutchGhost/maybeuninit (⭐1)](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 *   [emekoi/log.zig (⭐20)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐406)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
-*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
+*   [mlarouche/zigimg (⭐422)](https://github.com/mlarouche/zigimg) - Library for reading and writing different image formats.
 *   [ziglibs/known-folders (⭐218)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
