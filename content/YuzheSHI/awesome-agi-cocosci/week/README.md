@@ -10,6 +10,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Declarative DSL Applications
 
+*   [Product Line Engineering Using Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6030048) - ***ISPLC'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=17589685299346185442)]. \[[Preprint](https://voelter.de/data/pub/VoelterVisser-PLEusingDSLs.pdf)]. This paper investigates the application of domain-specific languages in product line engineering (PLE).
 *   [A Domain-Specific Language for Product-Process-Resource Modeling](https://ieeexplore.ieee.org/document/9613674) - ***ETFA'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6006131184799036515)]. This paper presents the design of the PPR-DSL to effectively and efficiently represent Product-Process-Resource (PPR) aspects and evaluate constraints defined for modeling PPR views in the Formalized Process Description standard (VDI 3682).
 
 ### Science Logology / AI Assisted Research

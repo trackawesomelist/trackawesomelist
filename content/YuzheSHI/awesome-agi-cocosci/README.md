@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Aug 11, 2024](/content/2024/08/11/README.md)
+
+### Domain Specific Language / Declarative DSL Applications
+
+*   [Product Line Engineering Using Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6030048) - ***ISPLC'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=17589685299346185442)]. \[[Preprint](https://voelter.de/data/pub/VoelterVisser-PLEusingDSLs.pdf)]. This paper investigates the application of domain-specific languages in product line engineering (PLE).
+
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications

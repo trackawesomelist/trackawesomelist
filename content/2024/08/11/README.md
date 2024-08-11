@@ -1,30 +1,68 @@
 # Awesome List Updates on Aug 11, 2024
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / Declarative DSL Applications
+
+*   [Product Line Engineering Using Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6030048) - ***ISPLC'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=17589685299346185442)]. \[[Preprint](https://voelter.de/data/pub/VoelterVisser-PLEusingDSLs.pdf)]. This paper investigates the application of domain-specific languages in product line engineering (PLE).
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### JSON
+
+*   [JSON Toolkit (⭐16)](https://github.com/sourcemeta/jsontoolkit) - JSON, JSON Pointer, JSON Schema, and JSONL library for C++20. \[AGPL/Commercial]
+
+## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+### Productivity and Time
+
+*   [Newelle (⭐112)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
+
+### Development and Design
+
+*   [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs.
+
+### Applets / Design Tooling
+
+*   [RunCat](https://extensions.gnome.org/extension/2986/runcat/) — The cat tells you the CPU usage by running speed.
+*   [OpenWeather](https://extensions.gnome.org/extension/6655/openweather/) - Weather applet.
+
+### Windows / Design Tooling
+
+*   [PaperWM](https://extensions.gnome.org/extension/6099/paperwm/) - Tiled scrollable window management.
+*   [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Advanced fullscreen app switcher.
+
+### Visual Changes / Design Tooling
+
+*   [Blur-my-shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Apply a blur effect to the overview and top panel background.
+*   [Desktop Cube](https://extensions.gnome.org/extension/4648/desktop-cube/) - A Desktop Cube for GNOME Shell
+*   [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/) - Open/Close your windows with style.
+
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Misc libraries
 
 *   [bfactory-ai/zignal (⭐55)](https://github.com/bfactory-ai/zignal) - Image processing library inspired by [dlib](http://dlib.net/).
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
 *   [FlowVision (⭐159)](https://github.com/netdcy/FlowVision) - RWaterfall-style Image Viewer for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/netdcy/FlowVision)
 
-## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [6. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Compound
 
 *   [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) - collections of drug-target, target-disease, and drug-disease dataset.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Web Servers
 
@@ -38,7 +76,7 @@
 *   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐1.3k)](https://github.com/static-web-server/static-web-server)) `MIT` `Go/Docker`
 *   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.6k)](https://github.com/varnishcache/varnish-cache)) `BSD-3-Clause` `Go/deb/Docker`
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -48,13 +86,13 @@
 
 *   [sanity-template-angular-clean (⭐9)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / VPN
 
 *   [Firezone](https://www.firezone.dev/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐6.6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
