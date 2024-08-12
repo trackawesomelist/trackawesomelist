@@ -17,6 +17,7 @@ A curated list of awesome Go frameworks, libraries and software
 [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true\&logo=slack\&colorB=red)](https://gophers.slack.com/messages/awesome)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-go/)
+[![Last Commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://img.shields.io/github/last-commit/avelino/awesome-go)
 
 We use the *[Golang Bridge (⭐398)](https://github.com/gobridge/about-us/blob/master/README.md)* community Slack for instant communication, follow the [form here to join](https://invite.slack.golangbridge.org/).
 
@@ -60,7 +61,7 @@ We use the *[Golang Bridge (⭐398)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐214k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐215k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -1213,6 +1214,7 @@ additional ordered map implementations.
 *   [go3d (⭐306)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet (⭐1.3k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.5k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
+*   [grid (⭐15)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 *   [Harfang3D (⭐531)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 *   [Leaf (⭐5.2k)](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano (⭐2.8k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
@@ -1465,6 +1467,7 @@ additional ordered map implementations.
 
 *Libraries for scheduling jobs.*
 
+*   \[Cadence-client] ([https://github.com/uber-go/cadence-client (⭐340)](https://github.com/uber-go/cadence-client)) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 *   [cdule (⭐48)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 *   [cheek (⭐135)](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 *   [clockwerk (⭐144)](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
@@ -1961,11 +1964,11 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [gnet (⭐15)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
 *   [gNxI (⭐255)](https://github.com/google/gnxi) - A collection of tools for Network Management that use the gNMI and gNOI protocols.
 *   [go-getter (⭐1.6k)](https://github.com/hashicorp/go-getter) - Go library for downloading files or directories from various sources using a URL.
+*   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 *   [go-powerdns (⭐86)](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
 *   [go-sse (⭐10)](https://github.com/lampctl/go-sse) - Go client and server implementation of HTML server-sent events.
 *   [go-stun (⭐656)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
 *   [gobgp (⭐3.6k)](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
-*   [golibwireshark (⭐29)](https://github.com/sunwxg/golibwireshark) - Package golibwireshark use libwireshark library to decode pcap file and analyse dissection data.
 *   [gopacket (⭐6.2k)](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 *   [gopcap (⭐487)](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.
 *   [goshark (⭐19)](https://github.com/sunwxg/goshark) - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
@@ -2959,7 +2962,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Fireball (⭐60)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐443)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐495)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
-*   [Fuego (⭐683)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐704)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 *   [Gearbox (⭐753)](https://github.com/abahmed/gearbox) - A web framework written in Go with a focus on high performance and memory optimization.
 *   [Gin (⭐77k)](https://github.com/gin-gonic/gin) - Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.
 *   [Ginrpc (⭐288)](https://github.com/xxjwxc/ginrpc) - Gin parameter automatic binding tool,gin rpc tools.

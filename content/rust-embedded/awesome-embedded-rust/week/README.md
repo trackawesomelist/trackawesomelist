@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
+
+### no-std crates / WIP
+
+*   [wtx (⭐63)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
 ### Driver crates / WIP

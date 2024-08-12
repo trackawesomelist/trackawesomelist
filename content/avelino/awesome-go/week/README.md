@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
+
+### Game Development
+
+*   [grid (⭐15)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
+
+### Job Scheduler
+
+*   \[Cadence-client] ([https://github.com/uber-go/cadence-client (⭐340)](https://github.com/uber-go/cadence-client)) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+
+### Networking
+
+*   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
 ### Game Development
@@ -58,7 +72,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [Fuego (⭐683)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐704)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -3433,7 +3447,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-powerdns (⭐86)](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
 *   [go-stun (⭐656)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
 *   [gobgp (⭐3.6k)](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
-*   [golibwireshark (⭐29)](https://github.com/sunwxg/golibwireshark) - Package golibwireshark use libwireshark library to decode pcap file and analyse dissection data.
 *   [gopacket (⭐6.2k)](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 *   [gopcap (⭐487)](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.
 *   [goshark (⭐19)](https://github.com/sunwxg/goshark) - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
