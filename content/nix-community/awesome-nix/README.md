@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Aug 12, 2024](/content/2024/08/12/README.md)
+
+### Resources / Discovery
+
+*   [NüschtOS Search (⭐5)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
+
 ## [Aug 09, 2024](/content/2024/08/09/README.md)
 
 ### NixOS Modules / Zig
