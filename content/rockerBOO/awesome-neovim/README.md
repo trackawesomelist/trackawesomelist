@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 13, 2024](/content/2024/08/13/README.md)
+
+### Colorscheme Switchers / Diagnostics
+
+*   [BrunoCiccarino/gardenal (⭐3)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
+
+### Utility / Diagnostics
+
+*   [SunnyTamang/pendulum.nvim (⭐4)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+
 ## [Aug 12, 2024](/content/2024/08/12/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -60,7 +70,7 @@ Collections of awesome neovim plugins.
 
 ### Golang / Diagnostics
 
-*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+*   [maxandron/goplements.nvim (⭐47)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 
 ## [Jul 28, 2024](/content/2024/07/28/README.md)
 

@@ -8,9 +8,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 13, 2024](/content/2024/08/13/README.md)
 
+### Data Integration Frameworks
+
+*   [Benthos (⭐8k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
+*   [CloudQuery (⭐5.7k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+
 ### Goroutines
 
 *   [async (⭐3)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
+*   [rill (⭐463)](https://github.com/destel/rill) - Go concurrency with channel transformations. No boilerplate, type safety, batching and error handling.
 
 ### GUI
 
@@ -28,9 +34,25 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [lingua-go (⭐1.1k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
 
+### Testing Frameworks
+
+*   [arch-go (⭐151)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
+
 ### Parsers/Encoders/Decoders
 
 *   [go-querystring (⭐2k)](https://github.com/google/go-querystring) - Go library for encoding structs into URL query parameters.
+
+### Utility/Miscellaneous
+
+*   [w2vgrep (⭐1.1k)](https://github.com/arunsupe/semantic-grep) - A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder".
+
+### UUID
+
+*   [fastuuid (⭐0)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
+
+### Benchmarks / Libraries for creating HTTP middlewares
+
+*   [golang-benchmarks (⭐130)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
 
 ## [Aug 12, 2024](/content/2024/08/12/README.md)
 
@@ -66,11 +88,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [Go-MediatR (⭐195)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
+*   [Go-MediatR (⭐198)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
 
 ### Utilities
 
-*   [cookie (⭐107)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
+*   [cookie (⭐110)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -218,7 +240,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Testing Frameworks
 
 *   [assert (⭐62)](https://github.com/go-playground/assert) - Basic Assertion Library used along side native go testing, with building blocks for custom assertions.
-*   [badio (⭐12)](https://github.com/cavaliercoder/badio) - Extensions to Go's `testing/iotest` package.
 *   [baloo (⭐775)](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy.
 *   [be (⭐100)](https://github.com/carlmjohnson/be) - The minimalist generic test assertion library.
 *   [biff (⭐14)](https://github.com/fulldump/biff) - Bifurcation testing framework, BDD compatible.
@@ -1377,7 +1398,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [Harfang3D (⭐531)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐551)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -2362,6 +2383,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 14, 2022](/content/2022/03/14/README.md)
 
+### Data Integration Frameworks
+
+*   [omniparser (⭐902)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
+
 ### Language Detection
 
 *   [guesslanguage (⭐58)](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
@@ -2439,7 +2464,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gonameparts (⭐42)](https://github.com/polera/gonameparts) - Parses human names into individual name parts.
 *   [ltsv (⭐9)](https://github.com/Wing924/ltsv) - High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.
 *   [normalize (⭐46)](https://github.com/avito-tech/normalize) - Sanitize, normalize and compare fuzzy text.
-*   [omniparser (⭐902)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 *   [parseargs-go (⭐10)](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
 *   [parth (⭐0)](https://github.com/codemodus/parth) - URL path segmentation parsing.
 *   [sdp (⭐113)](https://github.com/gortc/sdp) - SDP: Session Description Protocol \[[RFC 4566](https://tools.ietf.org/html/rfc4566)].
@@ -3255,7 +3279,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [parallel-fn (⭐36)](https://github.com/rafaeljesus/parallel-fn) - Run functions in parallel.
 *   [pond (⭐1.4k)](https://github.com/alitto/pond) - Minimalistic and High-performance goroutine worker pool written in Go.
 *   [pool (⭐725)](https://github.com/go-playground/pool) - Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
-*   [queue (⭐18)](https://github.com/AnikHasibul/queue) - Gives you a `sync.WaitGroup` like queue group accessibility. Helps you to throttle and limit goroutines, wait for the end of the all goroutines and much more.
 *   [routine (⭐61)](https://github.com/x-mod/routine) - go routine control with context, support: Main, Go, Pool and some useful Executors.
 *   [semaphore (⭐98)](https://github.com/kamilsk/semaphore) - Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context.
 *   [semaphore (⭐170)](https://github.com/marusama/semaphore) - Fast resizable semaphore implementation based on CAS (faster than channel-based semaphore implementations).
@@ -3505,7 +3528,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [APNs2 (⭐3k)](https://github.com/sideshow/apns2) - HTTP/2 Apple Push Notification provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps.
 *   [Asynq (⭐9.2k)](https://github.com/hibiken/asynq) - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 *   [Beaver (⭐1.5k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
-*   [Benthos (⭐8k)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 *   [Bus (⭐334)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
 *   [Centrifugo (⭐8.2k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.2k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.

@@ -12,6 +12,11 @@
 
 *   [NüschtOS Search (⭐5)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 
+### Distributions / Webinterface
+
+*   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
+*   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
+
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
 ### Development / Discovery

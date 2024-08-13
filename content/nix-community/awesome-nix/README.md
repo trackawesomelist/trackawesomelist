@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Aug 13, 2024](/content/2024/08/13/README.md)
+
+### Distributions / Webinterface
+
+*   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
+*   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
+
 ## [Aug 12, 2024](/content/2024/08/12/README.md)
 
 ### Resources / Discovery

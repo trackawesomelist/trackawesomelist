@@ -252,7 +252,7 @@ Collections of awesome neovim plugins.
 *   [rafaelsq/nvim-goc.lua (⭐43)](https://github.com/rafaelsq/nvim-goc.lua) - Highlight your buffer with Golang Code Coverage.
 *   [crusj/hierarchy-tree-go.nvim (⭐28)](https://github.com/crusj/hierarchy-tree-go.nvim) - Neovim plugin for Golang, callHierarchy UI tree.
 *   [yanskun/gotests.nvim (⭐21)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.9k)](https://github.com/cweill/gotests).
-*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+*   [maxandron/goplements.nvim (⭐47)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 
 ### YAML
 
@@ -607,6 +607,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [zaldih/themery.nvim (⭐146)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
 *   [linrongbin16/colorbox.nvim (⭐30)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
 *   [CWood-sdf/pineapple (⭐47)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+*   [BrunoCiccarino/gardenal (⭐3)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 
 ## Bars and Lines
 
@@ -813,6 +814,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [mong8se/buffish.nvim (⭐4)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
 *   [niuiic/todo.nvim (⭐5)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 *   [QuentinGruber/timespent.nvim (⭐1)](https://github.com/QuentinGruber/timespent.nvim) - Display time spent on projects / files.
+*   [SunnyTamang/pendulum.nvim (⭐4)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 
 ### CSV Files
 

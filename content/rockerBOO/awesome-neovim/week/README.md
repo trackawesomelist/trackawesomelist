@@ -12,6 +12,14 @@ Collections of awesome neovim plugins.
 
 *   [neolooong/whichpy.nvim (⭐0)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 
+### Colorscheme Switchers / Diagnostics
+
+*   [BrunoCiccarino/gardenal (⭐3)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
+
+### Utility / Diagnostics
+
+*   [SunnyTamang/pendulum.nvim (⭐4)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+
 ### Keybinding / Diagnostics
 
 *   [mawkler/demicolon.nvim (⭐15)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
@@ -42,7 +50,7 @@ Collections of awesome neovim plugins.
 
 ### Golang / Diagnostics
 
-*   [maxandron/goplements.nvim (⭐18)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+*   [maxandron/goplements.nvim (⭐47)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 
 ### Utility / Diagnostics
 
