@@ -1290,6 +1290,7 @@ additional ordered map implementations.
 
 *   [ants (⭐13k)](https://github.com/panjf2000/ants) - A high-performance and low-cost goroutine pool in Go.
 *   [artifex (⭐197)](https://github.com/borderstech/artifex) - Simple in-memory job queue for Golang using worker-based dispatching.
+*   [async (⭐3)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
 *   [async (⭐206)](https://github.com/reugn/async) - An alternative sync library for Go (Future, Promise, Locks).
 *   [async (⭐135)](https://github.com/studiosol/async) - A safe way to execute functions asynchronously, recovering them in case of panic.
 *   [async-job (⭐9)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
@@ -1347,6 +1348,7 @@ additional ordered map implementations.
 *Toolkits*
 
 *   [app (⭐7.8k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
+*   [Cogent Core (⭐1.6k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 *   [DarwinKit (⭐4.9k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 *   [energy (⭐345)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
 *   [fyne (⭐24k)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
@@ -1467,7 +1469,7 @@ additional ordered map implementations.
 
 *Libraries for scheduling jobs.*
 
-*   \[Cadence-client] ([https://github.com/uber-go/cadence-client (⭐340)](https://github.com/uber-go/cadence-client)) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+*   [Cadence-client (⭐340)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 *   [cdule (⭐48)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 *   [cheek (⭐135)](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 *   [clockwerk (⭐144)](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
@@ -1699,6 +1701,7 @@ additional ordered map implementations.
 *   [oplog (⭐111)](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 *   [pubsub (⭐424)](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.
 *   [Quamina (⭐375)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
+*   [rabbitroutine (⭐108)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 *   [rabbus (⭐97)](https://github.com/rafaeljesus/rabbus) - A tiny wrapper over amqp exchanges and queues.
 *   [rabtap (⭐256)](https://github.com/jandelgado/rabtap) - RabbitMQ swiss army knife cli app.
 *   [RapidMQ (⭐68)](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
@@ -1873,6 +1876,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [detectlanguage (⭐25)](https://github.com/detectlanguage/detectlanguage-go) - Language Detection API Go Client. Supports batch requests, short phrase or single word language detection.
 *   [getlang (⭐169)](https://github.com/rylans/getlang) - Fast natural language detection package.
 *   [guesslanguage (⭐58)](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
+*   [lingua-go (⭐1.1k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
 *   [whatlanggo (⭐637)](https://github.com/abadojack/whatlanggo) - Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc).
 
 ### Morphological Analyzers
@@ -2509,6 +2513,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [encdec (⭐9)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
 *   [go-fasttld (⭐33)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 *   [go-nmea (⭐218)](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
+*   [go-querystring (⭐2k)](https://github.com/google/go-querystring) - Go library for encoding structs into URL query parameters.
 *   [go-vcard (⭐104)](https://github.com/emersion/go-vcard) - Parse and format vCard.
 *   [godump (⭐133)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
 *   [gofeed (⭐2.5k)](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
