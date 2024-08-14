@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
+### Applications / Database
+
+*   [Tonbo (⭐153)](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
+
 ### Applications / Observability
 
 *   [MegaAntiCheat/client-backend (⭐113)](https://github.com/MegaAntiCheat/client-backend) - The client app for [MAC](https://github.com/MegaAntiCheat).
@@ -29,6 +33,11 @@ A curated list of Rust code and resources.
 ### Libraries / Date and time
 
 *   [sorairolake/nt-time](https://gitlab.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://gitlab.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+
+### Libraries / Social networks
+
+*   Telegram
+    *   [tdilb-rs (⭐27)](https://github.com/FedericoBruzzone/tdlib-rs) \[[tdilb-rs](https://crates.io/crates/tdlib-rs)] - Crossplatform Rust wrapper around the Telegram Database Library (TDLib) [![CI Linux](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml) [![CI macOS](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml) [![CI Windows](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml)
 
 ### Libraries / System
 

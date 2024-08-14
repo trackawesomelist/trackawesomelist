@@ -1,24 +1,46 @@
 # Awesome List Updates on Aug 14, 2024
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [1. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+### Models
+
+*   [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) (August, 2024)
+
+## [2. Awesome List](/content/sindresorhus/awesome/README.md)
+
+### Front-End Development
+
+*   [Ionic Framework (⭐843)](https://github.com/candelibas/awesome-ionic#readme)
+
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
+
+## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Guides
 
 *   [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### IoT (Internet of Things)
 
 *   [shifu (⭐1.3k)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Database
+
+*   [Tonbo (⭐153)](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
 
 ### Applications / Observability
 
@@ -42,6 +64,11 @@
 
 *   [sorairolake/nt-time](https://gitlab.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://gitlab.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/nt-time/actions?query=workflow%3ACI)
 
+### Libraries / Social networks
+
+*   Telegram
+    *   [tdilb-rs (⭐27)](https://github.com/FedericoBruzzone/tdlib-rs) \[[tdilb-rs](https://crates.io/crates/tdlib-rs)] - Crossplatform Rust wrapper around the Telegram Database Library (TDLib) [![CI Linux](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml) [![CI macOS](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml) [![CI Windows](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml)
+
 ### Libraries / System
 
 *   [sorairolake/sysexits-rs](https://gitlab.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://gitlab.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
@@ -52,7 +79,7 @@
     *   [c410-f3r/wtx-bench (⭐0)](https://github.com/c410-f3r/wtx-bench) - Web benchmarks
     *   [TeXitoi/benchmarksgame-rs (⭐69)](https://github.com/TeXitoi/benchmarksgame-rs) - Implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -123,7 +150,7 @@
 *   [NDJSON (⭐655) (⭐655)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐334) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI Tools Directories
 
@@ -137,19 +164,27 @@
 
 *   [MemFree (⭐221)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+### Image Synthesis / Multi-agents
+
+*   [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux)
+
+### Inbox: Text-to-speech (TTS) and avatars / Deforum
+
+*   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
+
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [Checkly](https://checklyhq.com) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.
 
-## [7. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [10. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Open Source Projects
 
 *   [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 

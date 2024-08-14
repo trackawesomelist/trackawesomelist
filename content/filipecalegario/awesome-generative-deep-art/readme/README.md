@@ -887,6 +887,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Image Synthesis
 
+*   [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux)
 *   [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment (⭐1k)](https://github.com/ToTheBeginning/PuLID)
 *   [Edit Your Image](https://huggingface.co/collections/ysharma/edit-your-image-662be093bf97b697957c3c3f): Find all the trending and useful Gradio demos that you can use to edit your images
 *   [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone): Ultra-high quality virtual try-on for Any Clothing and Any Person
@@ -1138,6 +1139,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Inbox: Text-to-speech (TTS) and avatars
 
+*   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 *   [p0n1/epub\_to\_audiobook (⭐963)](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers

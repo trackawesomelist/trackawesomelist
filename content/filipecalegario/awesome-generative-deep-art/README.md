@@ -20,6 +20,14 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [MemFree (⭐221)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
+### Image Synthesis / Multi-agents
+
+*   [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux)
+
+### Inbox: Text-to-speech (TTS) and avatars / Deforum
+
+*   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
+
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
