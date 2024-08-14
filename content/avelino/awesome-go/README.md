@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 14, 2024](/content/2024/08/14/README.md)
+
+### IoT (Internet of Things)
+
+*   [shifu (⭐1.3k)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
+
 ## [Aug 13, 2024](/content/2024/08/13/README.md)
 
 ### Data Integration Frameworks

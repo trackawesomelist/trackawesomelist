@@ -144,6 +144,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux2html (⭐703)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-better-mouse-mode (⭐904)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 *   [extrakto (⭐841)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 *   [muxile (⭐101)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 *   [tmux-autoreload (⭐73)](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 *   [tmux-bitwarden (⭐36)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.

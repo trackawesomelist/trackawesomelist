@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Aug 14, 2024](/content/2024/08/14/README.md)
+
+### Plugins
+
+*   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
+
 ## [Aug 10, 2024](/content/2024/08/10/README.md)
 
 ### Plugins

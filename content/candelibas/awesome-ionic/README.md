@@ -2,21 +2,27 @@
 
 An "awesome" list of Ionic resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/candelibas/awesome-ionic/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) · ⭐ 827 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/candelibas/awesome-ionic/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 candelibas/awesome-ionic](https://github.com/Cap-go/awesome-ionic) · ⭐ 843 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/candelibas/awesome-ionic/week/README.md) / [Overview](/content/candelibas/awesome-ionic/readme/README.md) ]
+
+## [Aug 14, 2024](/content/2024/08/14/README.md)
+
+### Open Source Projects
+
+*   [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 ## [Nov 08, 2020](/content/2020/11/08/README.md)
 
 ### i18n & l10n
 
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
+*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 ## [Nov 05, 2020](/content/2020/11/05/README.md)
 
 ### Open Source Projects
 
-*   [Ionic 5 WhatsApp clone (⭐51)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 5 WhatsApp clone (⭐60)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
 ## [Oct 16, 2020](/content/2020/10/16/README.md)
 
@@ -28,7 +34,7 @@ An "awesome" list of Ionic resources
 
 ### Open Source Projects
 
-*   [Ionic 5 Social Network Starter (⭐160)](https://github.com/thenaim/ion-tk-social-network) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 5 Social Network Starter (⭐163)](https://github.com/thenaim/ion-tk-social-network) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
 ## [Jul 09, 2019](/content/2019/07/09/README.md)
 
@@ -68,9 +74,9 @@ An "awesome" list of Ionic resources
 ### Open Source Projects
 
 *   [Firebase push notifications in Ionic 4 (⭐3)](https://github.com/enappd/ionic-4-push) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Receive SMS automatically in Ionic 4 (⭐11)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Playing music in Ionic 4 (⭐40)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Ionic 4 Stripe Payment Integration (⭐10)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Receive SMS automatically in Ionic 4 (⭐10)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Playing music in Ionic 4 (⭐43)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Stripe Payment Integration (⭐9)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 PayPal Payment Integration (⭐9)](https://github.com/enappd/ionic4-paypal) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Apple Pay Payment Integration (⭐7)](https://github.com/enappd/ionic4-applepay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Razorpay Payment Integration (⭐4)](https://github.com/enappd/ionic4-razorpay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
@@ -96,7 +102,7 @@ An "awesome" list of Ionic resources
 
 ### Open Source Projects
 
-*   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
+*   [Ionic Soundboard (⭐14)](https://github.com/rkalis/ionic-soundboard)
 
 ## [Oct 21, 2017](/content/2017/10/21/README.md)
 
@@ -108,7 +114,7 @@ An "awesome" list of Ionic resources
 
 ### Open Source Projects
 
-*   [Ionic aiEyes - Azure Computer Vision API (⭐25)](https://github.com/brenopolanski/aiEyes)
+*   [Ionic aiEyes - Azure Computer Vision API (⭐27)](https://github.com/brenopolanski/aiEyes)
 
 ## [May 30, 2017](/content/2017/05/30/README.md)
 
@@ -156,7 +162,6 @@ An "awesome" list of Ionic resources
 
 ### Unit Testing
 
-*   [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 *   [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 *   [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -193,9 +198,9 @@ An "awesome" list of Ionic resources
 
 ### Open Source Projects
 
-*   [Ionic Push Notification (⭐166)](https://github.com/aggarwalankush/ionic2-push-base)
-*   [Ionic Weather app (⭐249)](https://github.com/aggarwalankush/ionic2-mosum)
-*   [Ionic Reddit Reader (⭐128)](https://github.com/smartapant/ionic2-reddit-reader)
+*   [Ionic Push Notification (⭐165)](https://github.com/aggarwalankush/ionic2-push-base)
+*   [Ionic Weather app (⭐247)](https://github.com/aggarwalankush/ionic2-mosum)
+*   [Ionic Reddit Reader (⭐125)](https://github.com/smartapant/ionic2-reddit-reader)
 *   [Ionic Advanced Components (⭐1.7k)](https://github.com/yannbf/ionic2-components)
 
 ## [May 08, 2017](/content/2017/05/08/README.md)
@@ -208,7 +213,7 @@ An "awesome" list of Ionic resources
 
 ### Official Resources
 
-*   [GitHub Repo (⭐48k)](https://github.com/driftyco/ionic/)
+*   [GitHub Repo (⭐51k)](https://github.com/driftyco/ionic/)
 
 ## [Jan 16, 2017](/content/2017/01/16/README.md)
 
@@ -235,10 +240,10 @@ An "awesome" list of Ionic resources
 *   [Ionic Firebase Chat App (⭐37)](https://github.com/ionic2blueprints/firebase-chat)
 *   [Ionic Ecommerce App (⭐26)](https://github.com/ionic2blueprints/ionic2-marketcloud)
 *   [Ionic Conference App based on Lanyrd API (⭐7)](https://github.com/ionic2blueprints/conference-app)
-*   [Ionic Stock Tracking App (⭐16)](https://github.com/ionic2blueprints/ionic2-stockmarket)
+*   [Ionic Stock Tracking App (⭐18)](https://github.com/ionic2blueprints/ionic2-stockmarket)
 *   [Ionic Wordpress Client (⭐20)](https://github.com/ionic2blueprints/ionic2-wp-client)
-*   [Ionic Media Player (⭐31)](https://github.com/ionic2blueprints/media-player)
-*   [Ionic Social App (⭐25)](https://github.com/ionic2blueprints/social-app)
+*   [Ionic Media Player (⭐30)](https://github.com/ionic2blueprints/media-player)
+*   [Ionic Social App (⭐27)](https://github.com/ionic2blueprints/social-app)
 
 ## [Apr 30, 2016](/content/2016/04/30/README.md)
 
@@ -254,7 +259,7 @@ An "awesome" list of Ionic resources
 *   [Blog](http://blog.ionic.io/)
 *   [Documentation](http://ionicframework.com/docs/v2/)
 *   [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-*   [Ionic Native (⭐2.2k)](https://github.com/driftyco/ionic-native/)
+*   [Ionic Native (⭐2.4k)](https://github.com/driftyco/ionic-native/)
 *   [Community Forum](http://forum.ionicframework.com/)
 *   [Ionic IRC](http://webchat.freenode.net/?randomnick=1\&channels=%23ionic\&uio=d4)
 *   [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
@@ -290,5 +295,5 @@ An "awesome" list of Ionic resources
 
 ### Open Source Projects
 
-*   [Ionic Conference App (⭐3.5k)](https://github.com/driftyco/ionic-conference-app)
-*   [IonicRealty (⭐264)](https://github.com/ccoenraets/ionic2-realty)
+*   [Ionic Conference App (⭐3.6k)](https://github.com/driftyco/ionic-conference-app)
+*   [IonicRealty (⭐256)](https://github.com/ccoenraets/ionic2-realty)

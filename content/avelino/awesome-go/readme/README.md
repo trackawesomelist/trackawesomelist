@@ -1472,6 +1472,7 @@ additional ordered map implementations.
 *   [mainflux (⭐39)](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
 *   [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 *   [sensorbee (⭐230)](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
+*   [shifu (⭐1.3k)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
 *   [smart-home (⭐76)](https://github.com/e154/smart-home) - Software package for IoT automation.
 
 **[⬆ back to top](#contents)**
