@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 15, 2024](/content/2024/08/15/README.md)
+
+### Libraries / Image processing
+
+*   [Enet4/dicom-rs (⭐409)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+
 ## [Aug 14, 2024](/content/2024/08/14/README.md)
 
 ### Applications / Database

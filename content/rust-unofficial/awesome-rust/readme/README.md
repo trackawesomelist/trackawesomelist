@@ -1563,6 +1563,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Image processing
 
 *   [abonander/img\_hash (⭐305)](https://github.com/abonander/img_hash) - Perceptual image hashing and comparison for equality and similarity.
+*   [Enet4/dicom-rs (⭐409)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 *   [image-rs/image (⭐4.8k)](https://github.com/image-rs/image) - Basic imaging processing functions and methods for converting to and from image formats
 *   [image-rs/imageproc (⭐733)](https://github.com/image-rs/imageproc) - An image processing library, based on the `image` library.
 *   [marekm4/dominant\_color (⭐33)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
