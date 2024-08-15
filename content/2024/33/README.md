@@ -1,30 +1,36 @@
 # Awesome List Updates on Aug 12 - Aug 18, 2024
 
-26 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Database clients
+
+*   [vduckdb (⭐15)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
+
+## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) (August, 2024)
 
-## [2. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
 *   [Ionic Framework (⭐843)](https://github.com/candelibas/awesome-ionic#readme)
 
-## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
 *   [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -67,7 +73,7 @@
     *   [c410-f3r/wtx-bench (⭐0)](https://github.com/c410-f3r/wtx-bench) - Web benchmarks
     *   [TeXitoi/benchmarksgame-rs (⭐69)](https://github.com/TeXitoi/benchmarksgame-rs) - Implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -138,7 +144,7 @@
 *   [NDJSON (⭐655) (⭐655)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐334) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories
 
@@ -160,62 +166,62 @@
 
 *   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
 *   [Checkly](https://checklyhq.com) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.
 
-## [8. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [9. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Open Source Projects
 
 *   [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 
-## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [11. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Indexes
 
 *   [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Machine Learning
 
 *   [iOS-GenAI-Sampler (⭐59)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 
-## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Music and Audio Editors / Voxel Editors
 
 *   :free: [Famistudio (⭐1.6k)](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
 *   :free: [FamiTracker (⭐362)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 
-## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
-## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [17. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -234,7 +240,7 @@
 *   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐25k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
     , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 
-## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -262,13 +268,13 @@
 
 *   [Auto-Differentiation Website](https://auto-differentiation.github.io/) - Background and  resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD).
 
-## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [wtx (⭐63)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
-## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Data Integration Frameworks
 
@@ -328,7 +334,7 @@
 
 *   [golang-benchmarks (⭐130)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -346,13 +352,13 @@
 
 *   [mawkler/demicolon.nvim (⭐15)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 
-## [21. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [22. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Tutorials and Hints
 
 *   [Learn X in Y minutes where X=Coq](https://learnxinyminutes.com/docs/coq/) - Whirlwind tour of Coq as a language.
 
-## [22. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
@@ -363,13 +369,13 @@
 *   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 *   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
-## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Multimedia
 
 *   [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
 
-## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -456,13 +462,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [26. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [graphql-sunset (⭐0)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
 
-## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -472,6 +478,10 @@
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

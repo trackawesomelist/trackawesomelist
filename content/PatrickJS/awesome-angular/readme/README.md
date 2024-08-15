@@ -821,6 +821,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngu-flow (⭐38)](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 *   [highcharts-angular (⭐428)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 *   [angular-highcharts (⭐212)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
+*   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
 #### Dates
 

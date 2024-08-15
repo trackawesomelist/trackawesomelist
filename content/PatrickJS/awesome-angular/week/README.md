@@ -17,6 +17,10 @@
 
 *   [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [uppy](https://uppy.io/docs/angular/) - [Uppy (⭐29k)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.

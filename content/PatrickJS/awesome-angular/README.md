@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Aug 15, 2024](/content/2024/08/15/README.md)
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+
 ## [Aug 14, 2024](/content/2024/08/14/README.md)
 
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
