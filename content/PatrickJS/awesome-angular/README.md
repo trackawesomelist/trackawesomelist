@@ -8,9 +8,21 @@
 
 ## [Aug 16, 2024](/content/2024/08/16/README.md)
 
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-signalify (⭐5)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-darkbox-gallery-library (⭐5)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
+
+### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-qrcode-svg (⭐2)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-store-formsync (⭐5)](https://github.com/larscom/ngrx-store-formsync) - Synchronize any reactive form to `@ngrx/store`.
 
 ## [Aug 15, 2024](/content/2024/08/15/README.md)
 

@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Aug 16, 2024](/content/2024/08/16/README.md)
+
+### Multimedia
+
+*   [Gapless](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+
 ## [Aug 12, 2024](/content/2024/08/12/README.md)
 
 ### Multimedia
@@ -322,7 +328,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
 ## [Oct 28, 2023](/content/2023/10/28/README.md)

@@ -8,6 +8,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 16, 2024](/content/2024/08/16/README.md)
 
+### Configuration
+
+*   [sonic (⭐6.6k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
+
+### Distributed Systems
+
+*   [mochi mqtt (⭐1.1k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
+
 ### Networking
 
 *   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.

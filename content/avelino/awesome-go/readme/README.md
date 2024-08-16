@@ -510,6 +510,7 @@ Please take a quick gander at the [contribution guidelines (⭐126k)](https://gi
 *   [nfigure (⭐7)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 *   [onion (⭐116)](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 *   [piper (⭐7)](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation.
+*   [sonic (⭐6.6k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
 *   [store (⭐274)](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 *   [swap (⭐8)](https://github.com/oblq/swap) - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 *   [typenv (⭐9)](https://github.com/diegomarangoni/typenv) - Minimalistic, zero dependency, typed environment variables library.
@@ -994,6 +995,7 @@ additional ordered map implementations.
 *   [liftbridge (⭐2.6k)](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams for NATS.
 *   [lura (⭐6.3k)](https://github.com/luraproject/lura) - Ultra performant API Gateway framework with middlewares.
 *   [micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
+*   [mochi mqtt (⭐1.1k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
 *   [NATS (⭐15k)](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
 *   [outboxer (⭐153)](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 *   [pglock](https://cirello.io/pglock) - PostgreSQL-backed distributed locking implementation.

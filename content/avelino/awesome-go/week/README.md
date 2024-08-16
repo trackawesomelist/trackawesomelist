@@ -8,10 +8,18 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
+### Configuration
+
+*   [sonic (⭐6.6k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
+
 ### Data Integration Frameworks
 
 *   [Benthos (⭐8k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
 *   [CloudQuery (⭐5.7k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+
+### Distributed Systems
+
+*   [mochi mqtt (⭐1.1k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
 
 ### Game Development
 

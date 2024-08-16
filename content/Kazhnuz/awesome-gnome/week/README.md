@@ -10,6 +10,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
+*   [Gapless](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
@@ -309,7 +310,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
 ### Utilities
