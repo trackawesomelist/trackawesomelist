@@ -465,7 +465,6 @@ Please take a quick gander at the [contribution guidelines (⭐126k)](https://gi
 *   [cleanenv (⭐1.6k)](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
 *   [config (⭐336)](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
 *   [config (⭐48)](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code
-*   [config (⭐267)](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with environment variables and flags parsing.
 *   [configuration (⭐109)](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
 *   [configure (⭐56)](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 *   [configuro (⭐92)](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
@@ -2014,6 +2013,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [publicip (⭐28)](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
 *   [quic-go (⭐9.9k)](https://github.com/lucas-clemente/quic-go) - An implementation of the QUIC protocol in pure Go.
 *   [raw (⭐424)](https://github.com/mdlayher/raw) - Package raw enables reading and writing data at the device driver level for a network interface.
+*   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 *   [sftp (⭐1.5k)](https://github.com/pkg/sftp) - Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
 *   [ssh (⭐3.6k)](https://github.com/gliderlabs/ssh) - Higher-level API for building SSH servers (wraps crypto/ssh).
 *   [sslb (⭐148)](https://github.com/eduardonunesp/sslb) - It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.

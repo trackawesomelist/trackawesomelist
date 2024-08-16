@@ -45,6 +45,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Networking
 
 *   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+*   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 
 ### Testing Frameworks
 
@@ -2546,7 +2547,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [aconfig (⭐533)](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 *   [cleanenv (⭐1.6k)](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
 *   [config (⭐336)](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
-*   [config (⭐267)](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with environment variables and flags parsing.
 *   [configuration (⭐109)](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
 *   [configure (⭐56)](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 *   [configuro (⭐92)](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
